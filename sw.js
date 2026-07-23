@@ -1,7 +1,7 @@
 const CACHE_NAME = 'acspeaker-v1';
 const STATIC_ASSETS = [
   './',
-  './index.html',
+  './app.html',
   './data/papers.json',
   './data/glossary.json',
 ];
@@ -57,8 +57,8 @@ self.addEventListener('fetch', function(event) {
     return;
   }
 
-  // Cache audio files
-  if (url.includes('/audio/')) {
+  // Cache audio files (chptXX_audio path pattern)
+  if (url.includes('chpt') && url.includes('_audio/')) {
     event.respondWith(
       caches.match(event.request).then(function(cached) {
         if (cached) return cached;

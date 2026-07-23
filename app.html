@@ -619,7 +619,7 @@ function goBackToList() {
   stopStudyTimer();
   document.getElementById('paperDetailView').style.display = 'none';
   document.getElementById('paperListView').style.display = 'block';
-  document.getElementById('modal').style.display = 'none';
+  document.getElementById('modalOverlay').classList.remove('show');
   renderPaperList();
 }
 
@@ -698,6 +698,7 @@ function loadPassageSection(idx) {
   for (var i=0;i<tabs.length;i++) tabs[i].classList.toggle('active',i===idx);
   var body = document.getElementById('modalBody'); body.classList.add('loading-state');
   if (audio) { audio.pause(); audio=null; } currentIdx=-1; isPlaying=false; stopStudyTimer();
+  if (currentPaper >= 0) markSectionHeard(PAPERS[currentPaper].num, sec.id);
 
   // Load sentences + word alignment in parallel
   var sentP = fetch(chapterSectionBase+sec.id+'.json').then(function(r){return r.json()});
@@ -723,7 +724,7 @@ function renderSentenceList(sec) {
     var s = sentences[i], bm = isSentenceBookmarked(s);
     h += '<div class="sentence-card'+(bm?' bookmarked':'')+'" id="sent-'+i+'" onclick="playSentence('+i+')">';
     h += '<div class="sentence-head"><div class="sentence-head-left"><span class="sentence-num">S'+(i+1)+'</span><span class="sentence-time">'+fmtTime(s.start||0)+'</span></div>';
-    h += '<span class="sentence-head-right"><button class="btn-star'+(bm?' bookmarked':'')+'" onclick="event.stopPropagation();toggleSentenceBookmark(sentences['+i+'],\''+(sec.title||'')+'\');refreshSentenceBookmarkIcons()">'+(bm?'\u2605':'\u2606')+'</button></span></div>';
+    h += '<span class="sentence-head-right"><button class="btn-star'+(bm?' bookmarked':'')+'" data-sidx="'+i+'" onclick="event.stopPropagation();toggleSentenceBookmark(sentences['+i+'],\''+(sec.title||'')+'\');refreshSentenceBookmarkIcons()">'+(bm?'\u2605':'\u2606')+'</button></span></div>';
     h += '<div class="sentence-text">'+escapeHtml(s.text)+'</div></div>';
   }
   h += '</div>';
