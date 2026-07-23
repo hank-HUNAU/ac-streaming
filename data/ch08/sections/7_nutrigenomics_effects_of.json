@@ -1,0 +1,94 @@
+{
+  "id": "7_nutrigenomics_effects_of",
+  "title": "Nutrigenomics Effects of Fruits and Vegetables. On a fluctuating basis, dietary variations may lead to nutrigenomic responses. For example, dietary sugars, fats, and amino acids may control gene expression through carbohydrate-responsive element binding protein, peroxisome proliferator-activated receptors, and G C N 2 and activating transcription factor 4 and m T O R C 1 pathways, respectively. Homeostasis may be maintained by such systems, but sustained alterations may lead to conditions such as obesity, insulin resistance, type 2 diabetes, cardiovascular diseases, or cancer.",
+  "sentences": [
+    {
+      "text": "Nutrigenomics Effects of Fruits and Vegetables.",
+      "start": 0.1,
+      "end": 2.875,
+      "word_count": 6
+    },
+    {
+      "text": "On a fluctuating basis, dietary variations may lead to nutrigenomic responses.",
+      "start": 3.737,
+      "end": 9.113,
+      "word_count": 11
+    },
+    {
+      "text": "For example, dietary sugars, fats, and amino acids may control gene expression through carbohydrate-responsive element binding protein, peroxisome proliferator-activated receptors, and G C N 2 and activating transcription factor 4 and m T O R C 1 pathways, respectively.",
+      "start": 9.988,
+      "end": 28.762,
+      "word_count": 39
+    },
+    {
+      "text": "Homeostasis may be maintained by such systems, but sustained alterations may lead to conditions such as obesity, insulin resistance, type 2 diabetes, cardiovascular diseases, or cancer.",
+      "start": 29.637,
+      "end": 41.675,
+      "word_count": 26
+    },
+    {
+      "text": "As described below, diet as a whole has a significant influence on the genotypic expression of human beings.",
+      "start": 42.538,
+      "end": 49.062,
+      "word_count": 18
+    },
+    {
+      "text": "In essence, changing the diet resets the homeostatic positioning of the individual.",
+      "start": 49.925,
+      "end": 54.825,
+      "word_count": 12
+    },
+    {
+      "text": "In the case of the Mediterranean or Okinawan-based Nordic diet, this is generally perceived as for the better.",
+      "start": 55.7,
+      "end": 61.712,
+      "word_count": 18
+    },
+    {
+      "text": "In addition to the impact of diet, a very long list of dietary food components, for example, vitamins such as vitamin D, vitamin A, vitamin E; polyphenols such as resveratrol, quercetin, catechins, curcumin; fatty acids such as omega-3 and omega-6; and minerals such as selenium and zinc, have been examined for potential to mediate various nutritional genomic responses, for example, gene expression, D N A methylation, histone modification, non-coding R N As, activation of transcription factors, ligand binding to the nuclear receptors.",
+      "start": 62.587,
+      "end": 99.088,
+      "word_count": 82
+    },
+    {
+      "text": "We have adopted an intermediate approach between evaluating the effect of diet and evaluating the effect of individual dietary chemicals.",
+      "start": 99.963,
+      "end": 107.713,
+      "word_count": 20
+    },
+    {
+      "text": "It is fully appreciated that homeostasis may be affected by numerous factors such as exercise, sleep, stress, toxins, and pathogens in addition to diet.",
+      "start": 108.575,
+      "end": 118.237,
+      "word_count": 24
+    },
+    {
+      "text": "But nonetheless, diet is a dominant force, and the overall effect culminates from the overall diet.",
+      "start": 119.1,
+      "end": 125.237,
+      "word_count": 16
+    },
+    {
+      "text": "In our work with grapes, the focus has been on the whole food, not individual components such as resveratrol.",
+      "start": 126.1,
+      "end": 132.213,
+      "word_count": 19
+    },
+    {
+      "text": "While it is necessary to use a standardized product to assure scientific rigor, the standardized product is fully representative of grapes as a whole food, and we have taken care to administer quantities that are fully representative of quantities that are readily consumed by humans.",
+      "start": 133.088,
+      "end": 148.65,
+      "word_count": 45
+    },
+    {
+      "text": "In sum, our work is aimed at exploring how the addition of grapes to the normal diet of a free-living human being may lead to nutrigenomic changes that may be interpreted in relation to a person's health or risk of developing diseases.",
+      "start": 149.512,
+      "end": 162.125,
+      "word_count": 42
+    }
+  ],
+  "sentence_count": 14,
+  "word_count": 378,
+  "total_duration": 162.125,
+  "voice": "en-US-AriaNeural"
+}

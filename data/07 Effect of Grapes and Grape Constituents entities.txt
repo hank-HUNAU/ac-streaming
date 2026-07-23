@@ -1,0 +1,272 @@
+category,term,normalized_name,synonyms
+CHEMICAL,Resveratrol,Resveratrol,白藜芦醇
+CHEMICAL,Resveratrate,Resveratrate,白藜芦醇衍生物
+CHEMICAL,trans-Resveratrol,trans-Resveratrol,反式白藜芦醇
+CHEMICAL,cis-Resveratrol,cis-Resveratrol,顺式白藜芦醇
+CHEMICAL,Catechins,Catechins,儿茶素
+CHEMICAL,Anthocyanidins,Anthocyanidins,花青素苷元
+CHEMICAL,Isorhamnetin,Isorhamnetin,异鼠李素
+CHEMICAL,Polyphenols,Polyphenols,多酚
+CHEMICAL,Phytochemicals,Phytochemicals,植物化学物
+CHEMICAL,Phytoalexins,Phytoalexins,植物抗毒素
+CHEMICAL,Melanin,Melanin,黑色素
+CHEMICAL,Eumelanin,Eumelanin,真黑色素
+CHEMICAL,Chromophores,Chromophores,生色团
+CHEMICAL,Hemoglobin,Hemoglobin,血红蛋白
+CHEMICAL,Reactive oxygen species,Reactive oxygen species,活性氧
+CHEMICAL,Singlet oxygen,Singlet oxygen,单线态氧
+CHEMICAL,Superoxide anion,Superoxide anion,超氧阴离子
+CHEMICAL,Hydroxyl radical,Hydroxyl radical,羟基自由基
+CHEMICAL,Hydrogen peroxide,Hydrogen peroxide,过氧化氢
+CHEMICAL,Nitric oxide,Nitric oxide,一氧化氮
+CHEMICAL,Peroxynitrite,Peroxynitrite,过氧亚硝酸盐
+CHEMICAL,Malondialdehyde,Malondialdehyde,丙二醛
+CHEMICAL,2'-Deoxyribonic acid,2'-Deoxyribonic acid,2'-脱氧核糖酸
+CHEMICAL,3-Hydroxyphenylacetic acid,3-Hydroxyphenylacetic acid,3-羟基苯乙酸
+CHEMICAL,scyllo-Inositol,scyllo-Inositol,肌醇
+CHEMICAL,Cyclobutene pyrimidine dimers,Cyclobutene pyrimidine dimers,环丁烯嘧啶二聚体
+CHEMICAL,6-4PP,6-4 Pyrimidine-pyrimidone photoproducts,6-4嘧啶-嘧啶酮光产物
+CHEMICAL,Thymine dimers,Thymine dimers,胸腺嘧啶二聚体
+CHEMICAL,7,8-Dihydro-8-oxoguanine,7,8-Dihydro-8-oxoguanine,7,8-二氢-8-氧代鸟嘌呤
+CHEMICAL,DOL,Dihydro-8-oxoguanine lesions,二氢-8-氧代鸟嘌呤损伤
+CHEMICAL,Cytochrome c,Cytochrome c,细胞色素c
+CHEMICAL,Prostaglandins,Prostaglandins,前列腺素
+CHEMICAL,Histamine,Histamine,组胺
+CHEMICAL,ADPR,Adenosine diphosphate ribose,二磷酸腺苷核糖
+CHEMICAL,Eotaxin,Eotaxin,嗜酸性粒细胞趋化因子
+CHEMICAL,IgE,Immunoglobulin E,免疫球蛋白E
+CHEMICAL,DMSO,Dimethyl sulfoxide,二甲亚砜
+CHEMICAL,Collagen,Collagen,胶原蛋白
+CHEMICAL,Elastin,Elastin,弹性蛋白
+CHEMICAL,Carotenoids,Carotenoids,类胡萝卜素
+CHEMICAL,Vitamin D,Vitamin D,维生素D
+PROTEIN_GENE,p53,p53,肿瘤蛋白p53
+PROTEIN_GENE,p21,p21/WAF1/CIP1,细胞周期蛋白依赖性激酶抑制剂1
+PROTEIN_GENE,BCL2,B-cell lymphoma 2,B细胞淋巴瘤2
+PROTEIN_GENE,Bcl-2,B-cell lymphoma 2,B细胞淋巴瘤2
+PROTEIN_GENE,Bax,Bcl-2-associated X protein,Bcl-2相关X蛋白
+PROTEIN_GENE,BRAF,B-rapidly accelerated fibrosarcoma,B-RAF
+PROTEIN_GENE,NRAS,NRAS,NRAS
+PROTEIN_GENE,CDKN2A,Cyclin-dependent kinase inhibitor 2A,细胞周期蛋白依赖性激酶抑制剂2A
+PROTEIN_GENE,CDKN2A/p16,Cyclin-dependent kinase inhibitor 2A,p16
+PROTEIN_GENE,p14ARF,p14/ARF,p14ARF
+PROTEIN_GENE,CDK4,Cyclin-dependent kinase 4,细胞周期蛋白依赖性激酶4
+PROTEIN_GENE,MC1R,Melanocortin-1 receptor,黑皮质素-1受体
+PROTEIN_GENE,PTCH1,Patched 1,Patched 1
+PROTEIN_GENE,PTCH2,Patched 2,Patched 2
+PROTEIN_GENE,SMO,Smoothened,Smoothened
+PROTEIN_GENE,BAP1,BRCA1-associated protein 1,BRCA1相关蛋白1
+PROTEIN_GENE,RB,Retinoblastoma protein,视网膜母细胞瘤蛋白
+PROTEIN_GENE,MITF,Microphthalmia-associated transcription factor,小眼畸形相关转录因子
+PROTEIN_GENE,NFR2,Nuclear factor erythroid 2-related factor 2,核因子E2相关因子2
+PROTEIN_GENE,NF-κB,Nuclear factor-kappa B,核因子κB
+PROTEIN_GENE,IκBα,Inhibitor of nuclear factor kappa B alpha,核因子κB抑制蛋白α
+PROTEIN_GENE,IKKα,IkappaB kinase alpha,IκB激酶α
+PROTEIN_GENE,IKK,IkappaB kinase,IκB激酶
+PROTEIN_GENE,AP-1,Activator protein 1,激活蛋白1
+PROTEIN_GENE,MAPK,Mitogen-activated protein kinase,丝裂原活化蛋白激酶
+PROTEIN_GENE,ERK,Extracellular signal-regulated kinase,细胞外信号调节激酶
+PROTEIN_GENE,ERK1/2,Extracellular signal-regulated kinase 1/2,细胞外信号调节激酶1/2
+PROTEIN_GENE,MEK,MEK,MEK激酶
+PROTEIN_GENE,JNK,c-Jun N-terminal kinase,c-Jun N-末端激酶
+PROTEIN_GENE,p38,p38 MAPK,p38丝裂原活化蛋白激酶
+PROTEIN_GENE,PI3K,Phosphoinositide 3-kinase,磷脂酰肌醇3-激酶
+PROTEIN_GENE,AKT,Protein kinase B,蛋白激酶B
+PROTEIN_GENE,mTOR,Mammalian target of rapamycin,雷帕霉素靶蛋白
+PROTEIN_GENE,FOXO,Forkhead box O,叉头框O
+PROTEIN_GENE,COX-1,Cyclooxygenase-1,环氧合酶1
+PROTEIN_GENE,COX-2,Cyclooxygenase-2,环氧合酶2
+PROTEIN_GENE,SIRT1,Sirtuin 1,沉默信息调节因子1
+PROTEIN_GENE,NLRP3,NOD-like receptor family pyrin domain containing 3,NOD样受体家族含pyrin结构域蛋白3
+PROTEIN_GENE,TRPM2,Transient receptor potential melastatin 2,瞬时受体电位M2型通道
+PROTEIN_GENE,γH2AX,Phosphorylated histone H2AX,磷酸化组蛋白H2AX
+PROTEIN_GENE,SOD,Superoxide dismutase,超氧化物歧化酶
+PROTEIN_GENE,CAT,Catalase,过氧化氢酶
+PROTEIN_GENE,GPx,Glutathione peroxidase,谷胱甘肽过氧化物酶
+PROTEIN_GENE,HMOX1,Heme oxygenase 1,血红素加氧酶1
+PROTEIN_GENE,GST,Glutathione S-transferase,谷胱甘肽S-转移酶
+PROTEIN_GENE,APE/Ref-1,Apurinic/apyrimidinic endonuclease 1/redox factor 1,脱嘌呤/脱嘧啶核酸内切酶1/氧化还原因子1
+PROTEIN_GENE,CREB,cAMP response element-binding protein,cAMP反应元件结合蛋白
+PROTEIN_GENE,Jun,Jun,Jun转录因子
+PROTEIN_GENE,Fox,Forkhead box,叉头框转录因子
+PROTEIN_GENE,Myb,Myb,Myb转录因子
+PROTEIN_GENE,PKM2,Pyruvate kinase M2,丙酮酸激酶M2
+PROTEIN_GENE,MC1R,Melanocortin-1 receptor,黑皮质素1受体
+PROTEIN_GENE,α-MSH,Alpha-melanocyte-stimulating hormone,α-促黑素细胞激素
+DISEASE,Skin cancer,Skin cancer,皮肤癌
+DISEASE,Melanoma,Melanoma,黑色素瘤
+DISEASE,NMSC,Non-melanoma skin cancer,非黑色素瘤皮肤癌
+DISEASE,BCC,Basal cell carcinoma,基底细胞癌
+DISEASE,SCC,Squamous cell carcinoma,鳞状细胞癌
+DISEASE,Erythema,Erythema,红斑
+DISEASE,Sunburn,Sunburn,晒伤
+DISEASE,Photoaging,Photoaging,光老化
+DISEASE,Hyperpigmentation,Hyperpigmentation,色素沉着过度
+DISEASE,Type 2 diabetes mellitus,Type 2 diabetes mellitus,2型糖尿病
+DISEASE,Cardiovascular disease,Cardiovascular disease,心血管疾病
+DISEASE,Obesity,Obesity,肥胖
+DISEASE,Inflammation,Inflammation,炎症
+DISEASE,Oxidative stress,Oxidative stress,氧化应激
+DISEASE,Edema,Edema,水肿
+DISEASE,Skin hyperplasia,Skin hyperplasia,皮肤增生
+DISEASE,Epidermal hyperplasia,Epidermal hyperplasia,表皮增生
+PATHWAY,MAPK signaling pathway,MAPK signaling pathway,MAPK信号通路
+PATHWAY,NF-κB signaling pathway,NF-κB signaling pathway,核因子κB信号通路
+PATHWAY,PI3K/AKT signaling pathway,PI3K/AKT signaling pathway,PI3K/AKT信号通路
+PATHWAY,ERK signaling pathway,ERK signaling pathway,ERK信号通路
+PATHWAY,p53 signaling pathway,p53 signaling pathway,p53信号通路
+PATHWAY,Hedgehog signaling pathway,Hedgehog signaling pathway,Hedgehog信号通路
+PATHWAY,Ras/Raf signaling pathway,Ras/Raf signaling pathway,Ras/Raf信号通路
+PATHWAY,SIRT1/NLRP3 signaling pathway,SIRT1/NLRP3 signaling pathway,SIRT1/NLRP3信号通路
+PATHWAY,TRPM2 signaling pathway,TRPM2 signaling pathway,TRPM2信号通路
+PATHWAY,Apoptosis signaling pathway,Apoptosis signaling pathway,凋亡信号通路
+PATHWAY,Cell cycle signaling pathway,Cell cycle signaling pathway,细胞周期信号通路
+PATHWAY,Nrf2 signaling pathway,Nrf2 signaling pathway,Nrf2信号通路
+PATHWAY,DNA repair pathway,DNA repair pathway,DNA修复通路
+PATHWAY,Nucleotide excision repair,Nucleotide excision repair,核苷酸切除修复
+SPECIES,Vitis vinifera,Vitis vinifera,欧洲葡萄
+SPECIES,SKH-1,SKH-1 hairless mouse,SKH-1无毛小鼠
+SPECIES,SKH:hr-1,SKH:hr-1 hairless mouse,SKH:hr-1无毛小鼠
+SPECIES,Mus musculus,Mus musculus,小鼠
+SPECIES,Homo sapiens,Homo sapiens,人类
+SPECIES,Human keratinocytes,Human keratinocytes,人角质形成细胞
+SPECIES,Melanocytes,Melanocytes,黑素细胞
+SPECIES,Neutrophils,Neutrophils,中性粒细胞
+SPECIES,Macrophages,Macrophages,巨噬细胞
+SPECIES,Mast cells,Mast cells,肥大细胞
+SPECIES,Resident macrophages,Resident macrophages,驻留巨噬细胞
+SPECIES,Keratinocytes,Keratinocytes,角质形成细胞
+ANATOMY,Skin,Skin,皮肤
+ANATOMY,Epidermis,Epidermis,表皮
+ANATOMY,Dermis,Dermis,真皮
+ANATOMY,Hypodermis,Hypodermis,皮下组织
+ANATOMY,Subcutaneous tissue,Subcutaneous tissue,皮下组织
+ANATOMY,Basal layer,Basal layer,基底层
+ANATOMY,Stratum corneum,Stratum corneum,角质层
+ANATOMY,Melanosomes,Melanosomes,黑素体
+ANATOMY,Hair follicles,Hair follicles,毛囊
+ANATOMY,Sweat glands,Sweat glands,汗腺
+ANATOMY,Blood vessels,Blood vessels,血管
+ANATOMY,Nerve endings,Nerve endings,神经末梢
+ANATOMY,Connective tissue,Connective tissue,结缔组织
+ANATOMY,Adipocytes,Adipocytes,脂肪细胞
+ANATOMY,Merkel cells,Merkel cells,Merkel细胞
+ANATOMY,Langerhans cells,Langerhans cells,朗格汉斯细胞
+PHENOMENA,Oxidative stress,Oxidative stress,氧化应激
+PHENOMENA,Inflammation,Inflammation,炎症
+PHENOMENA,Apoptosis,Apoptosis,细胞凋亡
+PHENOMENA,Cell cycle arrest,Cell cycle arrest,细胞周期阻滞
+PHENOMENA,G1 phase arrest,G1 phase arrest,G1期阻滞
+PHENOMENA,S phase arrest,S phase arrest,S期阻滞
+PHENOMENA,G2/M phase arrest,G2/M phase arrest,G2/M期阻滞
+PHENOMENA,Cell proliferation,Cell proliferation,细胞增殖
+PHENOMENA,Malignant transformation,Malignant transformation,恶性转化
+PHENOMENA,Carcinogenesis,Carcinogenesis,癌变
+PHENOMENA,Tumorigenesis,Tumorigenesis,肿瘤发生
+PHENOMENA,DNA damage,DNA damage,DNA损伤
+PHENOMENA,DNA repair,DNA repair,DNA修复
+PHENOMENA,Genomic stability,Genomic stability,基因组稳定性
+PHENOMENA,Oxidation,Oxidation,氧化
+PHENOMENA,Reduction,Reduction,还原
+PHENOMENA,Angiogenesis,Angiogenesis,血管生成
+PHENOMENA,Metastasis,Metastasis,转移
+PHENOMENA,Invasion,Invasion,侵袭
+PHENOMENA,Phagocytosis,Phagocytosis,吞噬作用
+PHENOMENA,Chemotaxis,Chemotaxis,趋化性
+PHENOMENA,Neutrophil infiltration,Neutrophil infiltration,中性粒细胞浸润
+PHENOMENA,Macrophage infiltration,Macrophage infiltration,巨噬细胞浸润
+PHENOMENA,Mast cell infiltration,Mast cell infiltration,肥大细胞浸润
+PHENOMENA,Leukocyte infiltration,Leukocyte infiltration,白细胞浸润
+PHENOMENA,Melanogenesis,Melanogenesis,黑色素生成
+PHENOMENA,Photoprotection,Photoprotection,光保护
+PHENOMENA,Photoaging,Photoaging,光老化
+PHENOMENA,Skin aging,Skin aging,皮肤老化
+PHENOMENA,Skin barrier function,Skin barrier function,皮肤屏障功能
+PHENOMENA,Sunburn cell formation,Sunburn cell formation,晒伤细胞形成
+PHENOMENA,Epithelial hyperplasia,Epithelial hyperplasia,上皮增生
+PHENOMENA,Mast cell degranulation,Mast cell degranulation,肥大细胞脱颗粒
+PHENOMENA,Oxidative DNA damage,Oxidative DNA damage,氧化性DNA损伤
+PHENOMENA,Lipid peroxidation,Lipid peroxidation,脂质过氧化
+INTERVENTION,Grape,Grape,葡萄
+INTERVENTION,Table grape,Table grape,鲜食葡萄
+INTERVENTION,Grape powder,Grape powder,葡萄粉
+INTERVENTION,Dietary grape,Dietary grape,膳食葡萄
+INTERVENTION,Grape juice,Grape juice,葡萄汁
+INTERVENTION,Red wine,Red wine,红葡萄酒
+INTERVENTION,Resveratrol,Resveratrol,白藜芦醇
+INTERVENTION,Resveratrate,Resveratrate,白藜芦醇衍生物
+INTERVENTION,Topical resveratrol,Topical resveratrol,外用白藜芦醇
+INTERVENTION,Grape seed extract,Grape seed extract,葡萄籽提取物
+INTERVENTION,Grape skin extract,Grape skin extract,葡萄皮提取物
+INTERVENTION,Grape pomace,Grape pomace,葡萄渣
+INTERVENTION,Antioxidants,Antioxidants,抗氧化剂
+INTERVENTION,Placebo,Placebo,安慰剂
+INTERVENTION,Sunscreen,Sunscreen,防晒霜
+INTERVENTION,Topical agent,Topical agent,外用制剂
+MEASUREMENT,MED,Minimal erythema dose,最小红斑剂量
+MEASUREMENT,SPF,Sun protection factor,防晒系数
+MEASUREMENT,Fitzpatrick skin type,Fitzpatrick skin type,菲茨帕特里克皮肤分型
+MEASUREMENT,Melanin index,Melanin index,黑色素指数
+MEASUREMENT,Chromameter,Chromameter,色度计
+MEASUREMENT,Immunohistochemistry,Immunohistochemistry,免疫组织化学
+MEASUREMENT,RNA-seq,RNA sequencing,RNA测序
+MEASUREMENT,TMT,Tandem mass tag,tandem mass tag定量蛋白组学
+MEASUREMENT,Proteomics,Proteomics,蛋白质组学
+MEASUREMENT,Metabolomics,Metabolomics,代谢组学
+MEASUREMENT,Microbiome analysis,Microbiome analysis,微生物组分析
+MEASUREMENT,KEGG pathway analysis,KEGG pathway analysis,KEGG通路分析
+MEASUREMENT,GO enrichment analysis,Gene Ontology enrichment analysis,基因本体富集分析
+MEASUREMENT,ImageJ quantification,ImageJ quantification,ImageJ图像定量
+MEASUREMENT,ELISA,Enzyme-linked immunosorbent assay,酶联免疫吸附测定
+MEASUREMENT,Western blot,Western blot,蛋白质印迹
+MEASUREMENT,Histopathology,Histopathology,组织病理学
+MEASUREMENT,Biopsy,Biopsy,活检
+MEASUREMENT,Serum IgE,Serum immunoglobulin E,血清免疫球蛋白E
+MEASUREMENT,Eotaxin,Eotaxin,嗜酸性粒细胞趋化因子
+MEASUREMENT,UV irradiation,UV irradiation,紫外线照射
+MEASUREMENT,UVB irradiation,UVB irradiation,UVB照射
+MEASUREMENT,UVA irradiation,UVA irradiation,UVA照射
+MISC,Phytochemicals,Phytochemicals,植物化学物
+MISC,Polyphenols,Polyphenols,多酚
+MISC,Bioactive compounds,Bioactive compounds,生物活性化合物
+MISC,Phytoalexins,Phytoalexins,植物抗毒素
+MISC,Antioxidants,Antioxidants,抗氧化剂
+MISC,Free radicals,Free radicals,自由基
+MISC,Chemoprevention,Chemoprevention,化学预防
+MISC,Chromophores,Chromophores,生色团
+MISC,Carcinogens,Carcinogens,致癌物
+MISC,Oncogenes,Oncogenes,癌基因
+MISC,Tumor suppressors,Tumor suppressors,肿瘤抑制基因
+MISC,Gut-skin axis,Gut-skin axis,肠-皮肤轴
+MISC,Microbiome,Microbiome,微生物组
+MISC,Metabolome,Metabolome,代谢组
+MISC,Phenotypic expression,Phenotypic expression,表型表达
+MISC,Gene expression,Gene expression,基因表达
+MISC,Transcriptional regulation,Transcriptional regulation,转录调控
+MISC,Nutrigenomics,Nutrigenomics,营养基因组学
+MISC,Pharmacogenomics,Pharmacogenomics,药物基因组学
+MISC,Epigenetics,Epigenetics,表观遗传学
+MISC,Homeostasis,Homeostasis,稳态
+MISC,Health span,Health span,健康寿命
+MISC,ADME,Absorption distribution metabolism elimination,吸收分布代谢排泄
+MISC,Bioavailability,Bioavailability,生物利用度
+MISC,Pharmacokinetics,Pharmacokinetics,药代动力学
+MISC,Pharmacodynamics,Pharmacodynamics,药效学
+MISC,Clinical trial,Clinical trial,临床试验
+MISC,Randomized controlled trial,Randomized controlled trial,随机对照试验
+MISC,Double-blind study,Double-blind study,双盲研究
+MISC,Placebo-controlled study,Placebo-controlled study,安慰剂对照研究
+MISC,Preclinical study,Preclinical study,临床前研究
+MISC,Animal model,Animal model,动物模型
+MISC,In vivo,In vivo,体内
+MISC,In vitro,In vitro,体外
+MISC,Xenograft model,Xenograft model,异种移植模型
+MISC,Syngeneic model,Syngeneic model,同基因模型
+MISC,Biomarkers,Biomarkers,生物标志物
+MISC,Inflammatory markers,Inflammatory markers,炎症标志物
+MISC,Oxidative markers,Oxidative markers,氧化标志物
+MISC,DNA repair mechanisms,DNA repair mechanisms,DNA修复机制
+MISC,Nucleotide excision repair,Nucleotide excision repair,核苷酸切除修复
+MISC,Immune surveillance,Immune surveillance,免疫监视
+MISC,Innate immune response,Innate immune response,先天免疫应答
+MISC,Inflammasome,Inflammasome,炎症小体

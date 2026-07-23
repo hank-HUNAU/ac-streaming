@@ -1,0 +1,40 @@
+{
+  "id": "7_extracts_of_red",
+  "title": "Extracts of Red Wine and Grape Juice. In addition to measuring changes in the urine metabolome, the second group also identified 12 metabolites in human plasma that changed as a result of consuming a mixture of extracts of red wine and grape juice for 5 days. The authors described the statistically most interesting metabolite changes to be reductions in tyrosine at minus 8 percent, sphingomyelin at minus 2 percent, and dehydroepiandrosterone sulfate at minus 12 percent. In addition, levels of threonine, lysine, and two lysophosphatidylcholines decreased but by no more than 5 percent. The authors noted that levels of the plasma amino acid tyrosine decreased, while its corresponding gut microbial metabolite, p-cresol sulfate, also decreased in urine.",
+  "sentences": [
+    {
+      "text": "Extracts of Red Wine and Grape Juice.",
+      "start": 0.1,
+      "end": 2.275,
+      "word_count": 7
+    },
+    {
+      "text": "In addition to measuring changes in the urine metabolome, the second group also identified 12 metabolites in human plasma that changed as a result of consuming a mixture of extracts of red wine and grape juice for 5 days.",
+      "start": 3.15,
+      "end": 16.975,
+      "word_count": 39
+    },
+    {
+      "text": "The authors described the statistically most interesting metabolite changes to be reductions in tyrosine at minus 8 percent, sphingomyelin at minus 2 percent, and dehydroepiandrosterone sulfate at minus 12 percent.",
+      "start": 16.988,
+      "end": 32.062,
+      "word_count": 30
+    },
+    {
+      "text": "In addition, levels of threonine, lysine, and two lysophosphatidylcholines decreased but by no more than 5 percent.",
+      "start": 32.075,
+      "end": 40.25,
+      "word_count": 17
+    },
+    {
+      "text": "The authors noted that levels of the plasma amino acid tyrosine decreased, while its corresponding gut microbial metabolite, p-cresol sulfate, also decreased in urine.",
+      "start": 40.263,
+      "end": 48.812,
+      "word_count": 19
+    }
+  ],
+  "sentence_count": 5,
+  "word_count": 112,
+  "total_duration": 48.812,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "7_skin_infection_oxidative",
+  "title": "Skin Infection. Oxidative stress increases the levels of oxidized lipids, triglycerides, and other unsaturated fatty acids in the skin which stimulate sebaceous glands and increase sebum production, leading to the formation of acne in hamsters. Additionally, the inflammatory processes related to acne formation generate reactive oxygen species that changes the composition of sebum secreted by pilosebaceous unit and clogs the pores of skin. This facilitates the growth of Cutibacterium acnes, a bacterium in the skin which plays a critical role in the development of inflammatory lesions of acne. To summarize, oxidative stress leads to skin infection that is mostly manifested as acne. Thus, compounds negating oxidative stress may be used for acne management.",
+  "sentences": [
+    {
+      "text": "Skin Infection.",
+      "start": 0.1,
+      "end": 1.188,
+      "word_count": 2
+    },
+    {
+      "text": "Oxidative stress increases the levels of oxidized lipids, triglycerides, and other unsaturated fatty acids in the skin which stimulate sebaceous glands and increase sebum production, leading to the formation of acne in hamsters.",
+      "start": 2.062,
+      "end": 15.875,
+      "word_count": 33
+    },
+    {
+      "text": "Additionally, the inflammatory processes related to acne formation generate reactive oxygen species that changes the composition of sebum secreted by pilosebaceous unit and clogs the pores of skin.",
+      "start": 16.75,
+      "end": 28.525,
+      "word_count": 28
+    },
+    {
+      "text": "This facilitates the growth of Cutibacterium acnes, a bacterium in the skin which plays a critical role in the development of inflammatory lesions of acne.",
+      "start": 29.387,
+      "end": 38.3,
+      "word_count": 25
+    },
+    {
+      "text": "To summarize, oxidative stress leads to skin infection that is mostly manifested as acne.",
+      "start": 39.175,
+      "end": 44.55,
+      "word_count": 14
+    },
+    {
+      "text": "Thus, compounds negating oxidative stress may be used for acne management.",
+      "start": 45.413,
+      "end": 50.087,
+      "word_count": 11
+    }
+  ],
+  "sentence_count": 6,
+  "word_count": 113,
+  "total_duration": 50.087,
+  "voice": "en-US-AriaNeural"
+}

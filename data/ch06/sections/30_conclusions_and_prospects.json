@@ -1,0 +1,124 @@
+{
+  "id": "30_conclusions_and_prospects",
+  "title": "Conclusions and Prospects. Grapes, Vitis vinifera, are among the world's most widely cultivated fruits. In addition to widespread consumption as a whole food, grapes are used for wine, juice, jam, and raisin production. In recent years there has been growing interest in biologically active phytochemicals found in grapes for their potential health benefits. Grapes are exceptionally rich in bioactive compounds, which are of high interest for pharmaceutical and cosmetic industries. The main groups of bioactive compounds present in grapes are fatty acids, vitamins, and polyphenols, such as flavonoids, stilbenes, phenolic acids, anthocyanins, proanthocyanidins, etc. These compounds have shown great potential in promoting skin health, mitigating photo-damage, and shielding the skin against environmental stressors due to their antioxidant, anti-inflammatory, anti-melanogenic, antiproliferative, antimicrobial, and antiaging properties. Grapes and its constituents have also shown effectiveness against skin cancer and inflammatory skin disorders such as atopic dermatitis and psoriasis. Resveratrol, one of the key components of grapes, has demonstrated significant chemopreventive and anticancer properties against melanoma and non-melanoma skin cancers. It has diverse mechanisms including scavenging free radicals, preventing lipid peroxidation, inhibiting pro-inflammatory cytokines, and disrupting inflammatory and oxidative stress pathways. Research is underway to enhance the delivery of resveratrol, grape procyanidins, and other grape-derived products through lipid-based nanosystems, such as nanoparticles and organogels, to improve their skin penetration and therapeutic efficacy.",
+  "sentences": [
+    {
+      "text": "Conclusions and Prospects.",
+      "start": 0.1,
+      "end": 1.85,
+      "word_count": 3
+    },
+    {
+      "text": "Grapes, Vitis vinifera, are among the world's most widely cultivated fruits.",
+      "start": 2.712,
+      "end": 7.325,
+      "word_count": 11
+    },
+    {
+      "text": "In addition to widespread consumption as a whole food, grapes are used for wine, juice, jam, and raisin production.",
+      "start": 8.2,
+      "end": 15.113,
+      "word_count": 19
+    },
+    {
+      "text": "In recent years there has been growing interest in biologically active phytochemicals found in grapes for their potential health benefits.",
+      "start": 15.988,
+      "end": 23.137,
+      "word_count": 20
+    },
+    {
+      "text": "Grapes are exceptionally rich in bioactive compounds, which are of high interest for pharmaceutical and cosmetic industries.",
+      "start": 24.0,
+      "end": 31.1,
+      "word_count": 17
+    },
+    {
+      "text": "The main groups of bioactive compounds present in grapes are fatty acids, vitamins, and polyphenols, such as flavonoids, stilbenes, phenolic acids, anthocyanins, proanthocyanidins, etc.",
+      "start": 31.962,
+      "end": 44.712,
+      "word_count": 24
+    },
+    {
+      "text": "These compounds have shown great potential in promoting skin health, mitigating photo-damage, and shielding the skin against environmental stressors due to their antioxidant, anti-inflammatory, anti-melanogenic, antiproliferative, antimicrobial, and antiaging properties.",
+      "start": 45.587,
+      "end": 62.013,
+      "word_count": 30
+    },
+    {
+      "text": "Grapes and its constituents have also shown effectiveness against skin cancer and inflammatory skin disorders such as atopic dermatitis and psoriasis.",
+      "start": 62.875,
+      "end": 71.662,
+      "word_count": 21
+    },
+    {
+      "text": "Resveratrol, one of the key components of grapes, has demonstrated significant chemopreventive and anticancer properties against melanoma and non-melanoma skin cancers.",
+      "start": 72.525,
+      "end": 82.888,
+      "word_count": 21
+    },
+    {
+      "text": "It has diverse mechanisms including scavenging free radicals, preventing lipid peroxidation, inhibiting pro-inflammatory cytokines, and disrupting inflammatory and oxidative stress pathways.",
+      "start": 83.763,
+      "end": 95.8,
+      "word_count": 21
+    },
+    {
+      "text": "Research is underway to enhance the delivery of resveratrol, grape procyanidins, and other grape-derived products through lipid-based nanosystems, such as nanoparticles and organogels, to improve their skin penetration and therapeutic efficacy.",
+      "start": 96.662,
+      "end": 111.175,
+      "word_count": 31
+    },
+    {
+      "text": "Preclinical studies have suggested that grape polyphenols, especially resveratrol, in combination with standard treatment may be a viable approach for skin cancer management.",
+      "start": 112.05,
+      "end": 121.925,
+      "word_count": 23
+    },
+    {
+      "text": "Furthermore, there is a potential for using grape-derived extracts and compounds in cosmetics.",
+      "start": 122.8,
+      "end": 128.425,
+      "word_count": 13
+    },
+    {
+      "text": "Grape-derived products provide photoprotection, improve skin elasticity and firmness, reduce the appearance of wrinkles and fine lines, alleviate skin redness and inflammation, and have shown potential in reducing hyperpigmentation and improving overall skin health.",
+      "start": 129.287,
+      "end": 144.738,
+      "word_count": 34
+    },
+    {
+      "text": "Other than resveratrol, most of the work is done on grape extracts or oils that contain multiple bioactive components.",
+      "start": 145.613,
+      "end": 152.55,
+      "word_count": 19
+    },
+    {
+      "text": "Further research is needed to explore the specific effects of other individual grape components.",
+      "start": 153.425,
+      "end": 158.713,
+      "word_count": 14
+    },
+    {
+      "text": "Although various preclinical studies have shown the multifaceted mechanisms of various grape-derived phytochemicals in skin diseases and for use in cosmetics, there is still a lack of human clinical trials in this area.",
+      "start": 159.588,
+      "end": 171.85,
+      "word_count": 33
+    },
+    {
+      "text": "Extensive clinical trials are required to establish the efficacy and safety of grape-derived products in the management of skin cancer, atopic dermatitis, psoriasis, and other skin diseases.",
+      "start": 172.713,
+      "end": 184.162,
+      "word_count": 27
+    },
+    {
+      "text": "These studies will help determine optimal doses and treatment durations and further refine the role of grape-derived products in the management of skin diseases.",
+      "start": 185.025,
+      "end": 193.662,
+      "word_count": 24
+    }
+  ],
+  "sentence_count": 19,
+  "word_count": 405,
+  "total_duration": 193.662,
+  "voice": "en-US-AriaNeural"
+}

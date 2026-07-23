@@ -1,0 +1,82 @@
+{
+  "id": "9_red_grape_extract",
+  "title": "Red Grape Extract. Reported in two papers, another research group carried out a well-designed two-armed randomized placebo-controlled clinical trial of 40 men, 19 randomized to placebo and 21 randomized to receive grape polyphenol extract, and, in a parallel study, 20 women, 9 receiving placebo and 11 receiving grape polyphenol extract, all of whom consumed 50 percent excess calories daily, compared with energy expenditure, for 31 days. The treatment group received 2 grams per day red grape polyphenol extract standardized to 20 percent weight per weight proanthocyanidins.",
+  "sentences": [
+    {
+      "text": "Red Grape Extract.",
+      "start": 0.1,
+      "end": 1.475,
+      "word_count": 3
+    },
+    {
+      "text": "Reported in two papers, another research group carried out a well-designed two-armed randomized placebo-controlled clinical trial of 40 men, 19 randomized to placebo and 21 randomized to receive grape polyphenol extract, and, in a parallel study, 20 women, 9 receiving placebo and 11 receiving grape polyphenol extract, all of whom consumed 50 percent excess calories daily, compared with energy expenditure, for 31 days.",
+      "start": 2.337,
+      "end": 31.887,
+      "word_count": 63
+    },
+    {
+      "text": "The treatment group received 2 grams per day red grape polyphenol extract standardized to 20 percent weight per weight proanthocyanidins.",
+      "start": 31.9,
+      "end": 40.85,
+      "word_count": 20
+    },
+    {
+      "text": "In the placebo group, concentrations of branched chain amino acids valine, leucine, and isoleucine as well as alpha-keto-beta-methylvalerate increased compared with baseline, while the concentration of the ketone body beta-hydroxybutyrate decreased.",
+      "start": 40.862,
+      "end": 56.275,
+      "word_count": 31
+    },
+    {
+      "text": "In men who received the grape polyphenol extract, the plasma concentrations of these branched chain amino acids decreased, while levels of alanine and proline increased compared with the placebo group.",
+      "start": 56.288,
+      "end": 69.35,
+      "word_count": 30
+    },
+    {
+      "text": "In addition, glucose levels were significantly lower in the treatment group.",
+      "start": 69.362,
+      "end": 74.1,
+      "word_count": 11
+    },
+    {
+      "text": "In women, multiple branched chain amino acids increased in the placebo group compared with baseline, but only isoleucine was significantly reduced compared with placebo in women receiving the grape extract.",
+      "start": 74.112,
+      "end": 86.725,
+      "word_count": 30
+    },
+    {
+      "text": "Although not discussed, the serum metabolomics data indicated that plasma levels of ten polyphenols increased, whereas only two decreased.",
+      "start": 86.925,
+      "end": 95.487,
+      "word_count": 19
+    },
+    {
+      "text": "These results are consistent with the urine metabolomics studies of the second group, who reported that 3-hydroxyphenylacetic acid, 3,4-dihydroxyphenylacetic acid, and homovanillic acid also increased as a result of grape extract consumption, and the whole grape powder study, who found significantly elevated levels of 3-hydroxyphenylacetic acid following table grape powder consumption.",
+      "start": 95.5,
+      "end": 119.75,
+      "word_count": 51
+    },
+    {
+      "text": "Unlike the second group, the red grape extract group found that levels of 3,4-dihydroxyphenylpropanoic acid increased.",
+      "start": 119.763,
+      "end": 128.3,
+      "word_count": 16
+    },
+    {
+      "text": "Biomarkers of grape extract consumption, the grape constituents resveratrol and isorhamnetin, were found to increase 30 percent and 24 percent, respectively, in the plasma of men in the grape extract treatment group.",
+      "start": 128.312,
+      "end": 143.338,
+      "word_count": 32
+    },
+    {
+      "text": "Overall, the metabolic profiles of both men and women improved with polyphenol administration, suggesting potential health benefits of grape polyphenol consumption during times of excess caloric intake.",
+      "start": 143.35,
+      "end": 153.613,
+      "word_count": 24
+    }
+  ],
+  "sentence_count": 12,
+  "word_count": 330,
+  "total_duration": 153.613,
+  "voice": "en-US-AriaNeural"
+}

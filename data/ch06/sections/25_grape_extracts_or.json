@@ -1,0 +1,112 @@
+{
+  "id": "25_grape_extracts_or",
+  "title": "Grape Extracts or Phytochemicals as Ingredients in Cosmetics. Plant-derived ingredients have been a cornerstone of skincare for hundreds of years. This applies to grapes too, which are used as skin-conditioning agents, antioxidants, fragrances, and colorants in cosmetics. According to the CosIng database, which is a European Commission database for information on cosmetic substances and ingredients, the fruits and roots of grapes are utilized as skin-conditioning agents, while the seeds are used for their skin protection, skin-conditioning, antibacterial, antioxidant, and anti-seborrheic properties. The grape seed oil has emollient properties, whereas the stem is used for its antioxidant and photoprotection properties. Grape leaves are highly valued in cosmetic formulations as a source of fragrance.",
+  "sentences": [
+    {
+      "text": "Grape Extracts or Phytochemicals as Ingredients in Cosmetics.",
+      "start": 0.1,
+      "end": 3.862,
+      "word_count": 8
+    },
+    {
+      "text": "Plant-derived ingredients have been a cornerstone of skincare for hundreds of years.",
+      "start": 4.737,
+      "end": 8.975,
+      "word_count": 12
+    },
+    {
+      "text": "This applies to grapes too, which are used as skin-conditioning agents, antioxidants, fragrances, and colorants in cosmetics.",
+      "start": 9.85,
+      "end": 17.65,
+      "word_count": 17
+    },
+    {
+      "text": "According to the CosIng database, which is a European Commission database for information on cosmetic substances and ingredients, the fruits and roots of grapes are utilized as skin-conditioning agents, while the seeds are used for their skin protection, skin-conditioning, antibacterial, antioxidant, and anti-seborrheic properties.",
+      "start": 18.525,
+      "end": 38.25,
+      "word_count": 44
+    },
+    {
+      "text": "The grape seed oil has emollient properties, whereas the stem is used for its antioxidant and photoprotection properties.",
+      "start": 39.112,
+      "end": 46.15,
+      "word_count": 18
+    },
+    {
+      "text": "Grape leaves are highly valued in cosmetic formulations as a source of fragrance.",
+      "start": 47.013,
+      "end": 51.45,
+      "word_count": 13
+    },
+    {
+      "text": "Grapes are particularly valued for their mildness and minimal skin-irritating properties, making them ideal for sensitive skin formulations for potential skin benefits, including antiaging, photoprotection, and antioxidative properties.",
+      "start": 52.325,
+      "end": 66.5,
+      "word_count": 28
+    },
+    {
+      "text": "Since, in general, cosmetic products must be tested for safety before they can be marketed, efforts have been made to ensure the safety of grape extracts and compounds.",
+      "start": 67.362,
+      "end": 77.062,
+      "word_count": 28
+    },
+    {
+      "text": "The cytotoxicity and skin compatibility of grape extracts have been validated in vitro in numerous investigations.",
+      "start": 77.938,
+      "end": 84.737,
+      "word_count": 16
+    },
+    {
+      "text": "For example, it has been demonstrated that formulations containing grape extracts do not cause cytotoxicity to keratinocytes and fibroblasts, suggesting their suitability for topical formulations.",
+      "start": 85.612,
+      "end": 97.438,
+      "word_count": 25
+    },
+    {
+      "text": "Further, clinical research has shown that formulations containing grape polyphenols can increase skin moisture and minimize wrinkles without causing adverse side effects.",
+      "start": 98.312,
+      "end": 107.612,
+      "word_count": 22
+    },
+    {
+      "text": "The Cosmetic Ingredient Review Expert Panel evaluated the safety of 24 grape-derived ingredients in cosmetics and concluded that they are safe for use in their currently used concentrations below 1 to 3 percent.",
+      "start": 108.475,
+      "end": 121.812,
+      "word_count": 33
+    },
+    {
+      "text": "In a dermal irritation test on human skin, extracts from grape fruit, juice, and seeds at concentrations up to 1 to 3 percent showed no signs of irritation or sensitization.",
+      "start": 121.825,
+      "end": 134.3,
+      "word_count": 30
+    },
+    {
+      "text": "Similarly, a two-week human study involving products with 0.15 percent grape seed extract demonstrated no irritation.",
+      "start": 134.312,
+      "end": 143.463,
+      "word_count": 16
+    },
+    {
+      "text": "The Cosmetic Ingredient Review's safety assessments were based on available clinical and animal data, as well as historical safety evaluations of grape-derived constituents such as resveratrol and other polyphenols.",
+      "start": 143.475,
+      "end": 156.5,
+      "word_count": 29
+    },
+    {
+      "text": "These findings provide a foundation for the continued use of grape-based ingredients in cosmetic formulations.",
+      "start": 156.512,
+      "end": 163.45,
+      "word_count": 15
+    },
+    {
+      "text": "Grape seed powder, seed extract, seed oil, skin extract, stem extract, wine lees, pomace, and isolated resveratrol and flavonoids are readily incorporated into a wide range of skincare products such as serums, creams, masks, toners, hair oils, oral care products, and sunscreens.",
+      "start": 163.588,
+      "end": 181.787,
+      "word_count": 39
+    }
+  ],
+  "sentence_count": 17,
+  "word_count": 393,
+  "total_duration": 181.787,
+  "voice": "en-US-AriaNeural"
+}

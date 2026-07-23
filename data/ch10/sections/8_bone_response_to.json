@@ -1,0 +1,52 @@
+{
+  "id": "8_bone_response_to",
+  "title": "Bone Response to Dietary Co-enrichment with Powdered Whole Grape and Probiotics. This study evaluated the effect of adding grapes and probiotics to the diet in a mouse model of age-related osteoporosis. Groups of 10-month-old male mice were fed one of six test diets for six months, with variations in the amount of grape powder and probiotic. No level of grape and probiotic enrichment significantly improved bone health during aging compared to the control diet. The highest-level combination of grape and probiotic appeared have a detrimental effect on bone.",
+  "sentences": [
+    {
+      "text": "Bone Response to Dietary Co-enrichment with Powdered Whole Grape and Probiotics.",
+      "start": 0.1,
+      "end": 4.688,
+      "word_count": 11
+    },
+    {
+      "text": "This study evaluated the effect of adding grapes and probiotics to the diet in a mouse model of age-related osteoporosis.",
+      "start": 5.562,
+      "end": 12.875,
+      "word_count": 20
+    },
+    {
+      "text": "Groups of 10-month-old male mice were fed one of six test diets for six months, with variations in the amount of grape powder and probiotic.",
+      "start": 13.75,
+      "end": 21.95,
+      "word_count": 25
+    },
+    {
+      "text": "No level of grape and probiotic enrichment significantly improved bone health during aging compared to the control diet.",
+      "start": 22.812,
+      "end": 29.413,
+      "word_count": 18
+    },
+    {
+      "text": "The highest-level combination of grape and probiotic appeared have a detrimental effect on bone.",
+      "start": 30.275,
+      "end": 35.388,
+      "word_count": 14
+    },
+    {
+      "text": "A Grape-Enriched Diet Increased Bone Calcium Retention and Cortical Bone Properties in an Animal Model for Menopause.",
+      "start": 36.25,
+      "end": 43.062,
+      "word_count": 17
+    },
+    {
+      "text": "In this study, laboratory animals consuming a grape-enriched diet had increased bone calcium retention and cortical bone properties, specifically greater thickness and breaking strength relative to those without grapes in their diet.",
+      "start": 43.938,
+      "end": 57.025,
+      "word_count": 32
+    }
+  ],
+  "sentence_count": 7,
+  "word_count": 137,
+  "total_duration": 57.025,
+  "voice": "en-US-AriaNeural"
+}

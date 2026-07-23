@@ -1,0 +1,100 @@
+{
+  "id": "4_absorption_and_metabolism",
+  "title": "Absorption and Metabolism of Grape Polyphenols. Conjugated polyphenols, such as flavanol glycosides, need to be hydrolyzed into free polyphenols, aglycones, via beta-glucosidase in order to be effectively absorbed into enterocytes in the small intestine. After aglycones are absorbed into enterocytes, these polyphenols are metabolized through phase one modification, including oxidation and hydroxylation, and phase two conjugation, such as sulfation, methylation, and glucuronidation. Similar processes of metabolism and conjugation also take place in the liver. Consequently, sulfated and glucuronidated polyphenols are found in plasma after flavonoid ingestion. Unabsorbed polyphenols move to the colon, where they interact with microbiota extensively. Research has shown that substantial amounts of ingested flavan-3-ol monomers and proanthocyanidins remain unabsorbed in the small intestine and reach the colon. There, they are efficiently transformed by the colonic microbiota into low-molecular-weight phenolic compounds, which can be absorbed by colonocytes. Specifically, polyphenols are biotransformed by gut microbiota via catabolic reactions, including deconjugation, hydrolysis, and reduction. The resultant metabolites and aglycones are absorbed for further metabolism in colonocytes and the liver.",
+  "sentences": [
+    {
+      "text": "Absorption and Metabolism of Grape Polyphenols.",
+      "start": 0.1,
+      "end": 2.825,
+      "word_count": 6
+    },
+    {
+      "text": "Conjugated polyphenols, such as flavanol glycosides, need to be hydrolyzed into free polyphenols, aglycones, via beta-glucosidase in order to be effectively absorbed into enterocytes in the small intestine.",
+      "start": 3.7,
+      "end": 16.175,
+      "word_count": 28
+    },
+    {
+      "text": "After aglycones are absorbed into enterocytes, these polyphenols are metabolized through phase one modification, including oxidation and hydroxylation, and phase two conjugation, such as sulfation, methylation, and glucuronidation.",
+      "start": 17.05,
+      "end": 31.85,
+      "word_count": 28
+    },
+    {
+      "text": "Similar processes of metabolism and conjugation also take place in the liver.",
+      "start": 32.725,
+      "end": 37.125,
+      "word_count": 12
+    },
+    {
+      "text": "Consequently, sulfated and glucuronidated polyphenols are found in plasma after flavonoid ingestion.",
+      "start": 37.987,
+      "end": 44.337,
+      "word_count": 12
+    },
+    {
+      "text": "Unabsorbed polyphenols move to the colon, where they interact with microbiota extensively.",
+      "start": 45.212,
+      "end": 50.375,
+      "word_count": 12
+    },
+    {
+      "text": "Research has shown that substantial amounts of ingested flavan-3-ol monomers and proanthocyanidins remain unabsorbed in the small intestine and reach the colon.",
+      "start": 51.237,
+      "end": 60.35,
+      "word_count": 22
+    },
+    {
+      "text": "There, they are efficiently transformed by the colonic microbiota into low-molecular-weight phenolic compounds, which can be absorbed by colonocytes.",
+      "start": 61.225,
+      "end": 69.825,
+      "word_count": 19
+    },
+    {
+      "text": "Specifically, polyphenols are biotransformed by gut microbiota via catabolic reactions, including deconjugation, hydrolysis, and reduction.",
+      "start": 70.688,
+      "end": 80.138,
+      "word_count": 15
+    },
+    {
+      "text": "The resultant metabolites and aglycones are absorbed for further metabolism in colonocytes and the liver.",
+      "start": 81.013,
+      "end": 86.975,
+      "word_count": 15
+    },
+    {
+      "text": "The absorption and metabolism of resveratrol, a key stilbene in grapes, have been extensively studied.",
+      "start": 87.838,
+      "end": 93.912,
+      "word_count": 15
+    },
+    {
+      "text": "Like flavanol glucosides, glycosylated resveratrol is hydrolyzed by beta-glucosidase, and then resveratrol absorption is believed to occur by passive diffusion or via intestinal transporters such as integrins in the small intestine.",
+      "start": 94.775,
+      "end": 108.938,
+      "word_count": 31
+    },
+    {
+      "text": "Inside intestinal epithelial cells or in the liver, free resveratrol is extensively metabolized via sulfation and glucuronidation.",
+      "start": 109.812,
+      "end": 118.263,
+      "word_count": 17
+    },
+    {
+      "text": "As a result, free resveratrol is found at very low levels in the bloodstream, and the major circulation forms of resveratrol are resveratrol-glucuronide and resveratrol-sulfate.",
+      "start": 119.138,
+      "end": 129.925,
+      "word_count": 25
+    },
+    {
+      "text": "In addition to these conjugated metabolites, other resveratrol derivatives detected in tissues include piceatannol and dihydroresveratrol.",
+      "start": 130.787,
+      "end": 139.125,
+      "word_count": 16
+    }
+  ],
+  "sentence_count": 15,
+  "word_count": 273,
+  "total_duration": 139.125,
+  "voice": "en-US-AriaNeural"
+}

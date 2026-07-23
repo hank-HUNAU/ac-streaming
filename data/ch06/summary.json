@@ -1,0 +1,258 @@
+{
+  "id": "ch06",
+  "title": "06 Grapes and Skin Health",
+  "total_sentences": 542,
+  "total_duration_s": 5707.1,
+  "total_terms": 479,
+  "total_sections": 31,
+  "sections": [
+    {
+      "id": "0_grapes_and_skin",
+      "title": "Grapes and Skin Health. Durdana Muntaqua, Tanya Jaiswal, Karla Anaya Aldrete, and Nihal Ahmad.",
+      "sentence_count": 2,
+      "word_count": 14,
+      "duration_s": 7.3,
+      "passage_audio_url": "chpt06_audio/0_grapes_and_skin/0_grapes_and_skin.mp3"
+    },
+    {
+      "id": "1_abstract_the_skin",
+      "title": "Abstract. The skin is one of the most crucial organs of the body, providing a barrier that serves as the body's first line of defense against external insults. Skin health is important for the physical and emotional well-being of a person, since skin disorders can not only compromise the integrity and function of the skin but also have a tremendous impact on overall quality of life. Skin disorders may range from common issues such as allergies and acne to more severe conditions such as psoriasis and cancer. Nutritional deficiencies and external factors can damage the skin, making it more susceptible to these diseases. Oxidative stress and inflammation are key contributors to the development of various skin disorders. There has been a constant effort to identify novel compounds that can combat oxidative stress and inflammation and maintain skin health. Phytochemicals have recently garnered the interest of the scientific community as possible alternatives for the management of skin disorders, owing to their limited side effects. Grapes, Vitis vinifera, are rich in a wide variety of phytochemicals with varied biological effects such as anti-inflammatory, antioxidant, anti-pigmentation, wound healing, and antiproliferative properties, making them worthy of research for skin health. Whole grapes, grape extracts, and grape phytochemicals have been shown to decrease oxidative stress, inflammation, and skin aging. Preclinical studies have suggested that grape polyphenols may be a viable approach towards offering effective strategies for inflammatory skin disorders and skin cancer. Grape-based cosmetic products are being used for their ability to improve skin elasticity and firmness, reduce the appearance of wrinkles and fine lines, and alleviate skin pigmentation and inflammation. This chapter discusses the growing body of evidence supporting the use of grapes in managing skin disorders and their emerging role as valuable ingredients in skincare products.",
+      "sentence_count": 13,
+      "word_count": 293,
+      "duration_s": 121.4,
+      "passage_audio_url": "chpt06_audio/1_abstract_the_skin/1_abstract_the_skin.mp3"
+    },
+    {
+      "id": "2_introduction_the_skin",
+      "title": "Introduction. The skin, the largest organ of the human body, serves to protect the internal organs from external insults and has a substantial impact on the physical and psychological well-being of a person. Skin health is affected by multiple external and internal factors, which stimulate oxidative stress and redox-sensitive transcription and translation of inflammatory mediators. Oxidative stress and certain systemic conditions may result in a variety of skin disorders such as skin aging, atopic dermatitis, psoriasis, and skin cancer, to name a few. Diet may play a role in the regulation of inflammation and inflammation-related pathologies. In recent years, there has been increasing interest among researchers in identifying dietary phytochemicals, which can prevent or mitigate skin disorders. Over the last few decades, grape phytochemicals, such as resveratrol, piceatannol, proanthocyanidins, epicatechin 3-gallate, and other polyphenols, have been investigated for their antioxidant, anti-inflammatory, antiaging, anti-pigmentation and anticancer activities. These have been extensively studied for their beneficial effects on the prevention and treatment of skin conditions. This chapter provides a discussion on the ways in which oxidative stress can contribute to various skin disorders and the importance of dietary phytochemicals in managing these conditions. It also describes the various active components of grapes, their biological effects, and the evidence of their protective effects against inflammatory skin diseases as well as melanoma and non-melanoma skin cancers.",
+      "sentence_count": 10,
+      "word_count": 222,
+      "duration_s": 100.8,
+      "passage_audio_url": "chpt06_audio/2_introduction_the_skin/2_introduction_the_skin.mp3"
+    },
+    {
+      "id": "3_importance_of_skin",
+      "title": "Importance of Skin Health. The skin is the largest organ of the body that serves as the first line of defense against environmental insults. It provides a protective physical barrier against chemical or mechanical damage, microorganisms, toxins, and fluid loss. In addition, the skin is highly adaptive and plays a role in sensory perception, regulation of body temperature, immunologic surveillance, homeostasis, and certain extremely important biochemical processes, such as the production of vitamin D. A very sophisticated structure of the skin contains specialized cells, for example, keratinocytes, fibroblasts, melanocytes, and mast cells; macromolecules, for example, collagen and elastin; and appendages, for example, sebaceous glands, sweat glands, arrector pili muscle, and hair follicles. This structure allows the skin to perform its important functions including providing protective barrier, providing pigmentation, and maintaining strength, elasticity, and flexibility. In addition, skin has mast cells, which are the key players in releasing histamine, prostanoids, proteases, leukotrienes and other cytokines and chemokines and provide host defense, innate immunity and allergic responses to surface antigens. Skin health has a substantial impact on physical and psychological well-being, influencing mood, self-respect, and social interactions. Skin health is affected by multiple endogenous and exogenous factors.",
+      "sentence_count": 21,
+      "word_count": 449,
+      "duration_s": 209.5,
+      "passage_audio_url": "chpt06_audio/3_importance_of_skin/3_importance_of_skin.mp3"
+    },
+    {
+      "id": "4_role_of_oxidative",
+      "title": "Role of Oxidative Stress in the Skin. Oxidative stress is one of the important triggering factors for skin aging and a multitude of other skin disorders including inflammatory skin conditions and cancer. Oxidative stress is induced by reactive oxygen species generated intrinsically during intracellular mitochondrial metabolism or extrinsically by ultraviolet radiation, pollutants, and psychological stress. These reactive oxygen species or free radicals, such as superoxide anion radical, hydroxyl radical, singlet oxygen, hydrogen peroxide, nitric oxide, and peroxynitrite, impart harmful effects in the skin.",
+      "sentence_count": 12,
+      "word_count": 278,
+      "duration_s": 132.4,
+      "passage_audio_url": "chpt06_audio/4_role_of_oxidative/4_role_of_oxidative.mp3"
+    },
+    {
+      "id": "5_skin_inflammation_environmental",
+      "title": "Skin Inflammation. Environmental pollutants, ultraviolet radiation, and endogenous cellular metabolism generate a plethora of reactive oxygen species due to compromised antioxidant system of the body. Deregulated reactive oxygen species level triggers a cascade of molecular pathways such as mitogen-activated protein kinases, phosphatidylinositol 3-kinase, protein kinase B, Janus kinase, signal transducer and activator of transcription, nuclear factor kappa-light-chain-enhancer of activated B cells, and cyclooxygenase 2, which can stimulate the production of inflammatory mediators, including cytokines and chemokines, resulting in skin inflammation. This in turn modulates the expression of multiple genes associated with various skin diseases like psoriasis, solar dermatitis, atopic dermatitis, and non-melanoma skin cancer.",
+      "sentence_count": 9,
+      "word_count": 240,
+      "duration_s": 123.5,
+      "passage_audio_url": "chpt06_audio/5_skin_inflammation_environmental/5_skin_inflammation_environmental.mp3"
+    },
+    {
+      "id": "6_compromised_skin_structural",
+      "title": "Compromised Skin Structural Integrity. The structural integrity of the skin is maintained by its extracellular matrix, which among multiple components is made of fibrous proteins like collagen, elastin, and fibronectin. These components provide tensile strength, skin stretching, and recoil, regulate cell adhesion, and support chemotaxis and migration. Their turnover is regulated by matrix metalloproteinases, which degrade collagen, fibronectin, elastin, and proteoglycans and aid in maintaining the functional and structural characteristics of the skin. However, oxidative stress increases the levels of matrix metalloproteinases in the skin due to aging, chronic sun exposure, and inflammatory diseases, leading to excessive collagenolysis, fibrinolysis, and elastolysis. Among different mechanisms of reactive oxygen species-mediated increased activity of matrix metalloproteinases, N F-kappa B-induced formation of pro-inflammatory cytokines such as interleukin-1, interleukin-6, and tumor necrosis factor alpha is well known. Interleukin-1 and interleukin-6 are known to activate matrix metalloproteinase-1, which degrades type one collagen. This results in collagen fragmentation and disorganization of collagen fibers in the dermis, which leads to loss of skin elasticity, wrinkle formation, and premature skin aging.",
+      "sentence_count": 14,
+      "word_count": 304,
+      "duration_s": 150.3,
+      "passage_audio_url": "chpt06_audio/6_compromised_skin_structural/6_compromised_skin_structural.mp3"
+    },
+    {
+      "id": "7_skin_infection_oxidative",
+      "title": "Skin Infection. Oxidative stress increases the levels of oxidized lipids, triglycerides, and other unsaturated fatty acids in the skin which stimulate sebaceous glands and increase sebum production, leading to the formation of acne in hamsters. Additionally, the inflammatory processes related to acne formation generate reactive oxygen species that changes the composition of sebum secreted by pilosebaceous unit and clogs the pores of skin. This facilitates the growth of Cutibacterium acnes, a bacterium in the skin which plays a critical role in the development of inflammatory lesions of acne. To summarize, oxidative stress leads to skin infection that is mostly manifested as acne. Thus, compounds negating oxidative stress may be used for acne management.",
+      "sentence_count": 6,
+      "word_count": 113,
+      "duration_s": 50.1,
+      "passage_audio_url": "chpt06_audio/7_skin_infection_oxidative/7_skin_infection_oxidative.mp3"
+    },
+    {
+      "id": "8_pigmentary_skin_disorders",
+      "title": "Pigmentary Skin Disorders. Skin color and pigmentation are regulated by the melanin produced by melanocytes. There is evidence that oxidative stress in the skin has a paradoxical action on pigmentation: on one end, it can promote melanogenesis, while on the other, it can enhance depigmentation through melanocyte degeneration. For instance, among the multiple pathways, reactive oxygen species can accelerate ultraviolet-induced pigmentation by activating melanogenesis-related proteins, including C A M P-responsive element-binding protein, microphthalmia-associated transcription factor, tyrosinase, and phenylalanine hydroxylase. Moreover, the nuclear factor erythroid 2-related factor 2 signaling pathway functions to reinforce the intracellular antioxidant capacity and inhibit melanogenesis. This pathway has been found to be downregulated in patients with ultraviolet-induced skin hyperpigmentation. In addition, keratinocytes also contribute to melanogenesis, since nitric oxide derived from keratinocyte differentiation can increase the melanogenic factors such as tyrosinase and tyrosinase-related protein 1.",
+      "sentence_count": 11,
+      "word_count": 237,
+      "duration_s": 117.4,
+      "passage_audio_url": "chpt06_audio/8_pigmentary_skin_disorders/8_pigmentary_skin_disorders.mp3"
+    },
+    {
+      "id": "9_skin_aging_skin",
+      "title": "Skin Aging. Skin aging is a complex process characterized by wrinkling, sagging, dryness, roughness, and changes in skin pigmentation. The skin gradually loses its natural functional characteristics and regenerative potential. During the aging process, oxidative stress is attributed to both augmented reactive oxygen species production and reduced levels of enzymatic and nonenzymatic protectors. Exposure to ultraviolet radiation or environmental pollutants can promote skin aging due to the underlying reactive oxygen species generation. Chronic oxidative stress manipulates M A P Ks, N F-kappa B, Nrf2, A P-1, T G F-beta, and some other signaling pathways to damage skin structures such as by increasing the production of multiple matrix metalloproteinases and collapsing dermal fibroblasts. The inhibition of T G F-beta signaling is critical in maintaining the structural and mechanical integrity of dermal connective tissue, resulting in reduced production of collagen, fibronectin, and elastin, as well as thinning of the dermis. Reactive oxygen species also creates a pro-inflammatory microenvironment by inducing multiple inflammatory mediators. One example is cellular communication network factor 1, a member of C N family of secreted proteins, which regulates cell adhesion, cell-matrix interaction, collagen homeostasis, and a pro-inflammatory genetic program in response to skin injury due to oxidative stress. These processes weaken the dermal structure and mechanical integrity and contribute to age-related skin disorders such as delayed wound healing, dry skin, wrinkles, dyspigmentation, and in severe cases skin cancer.",
+      "sentence_count": 15,
+      "word_count": 312,
+      "duration_s": 143.9,
+      "passage_audio_url": "chpt06_audio/9_skin_aging_skin/9_skin_aging_skin.mp3"
+    },
+    {
+      "id": "10_role_of_dietary",
+      "title": "Role of Dietary Antioxidants in the Skin. Diet plays a crucial role in both skin health and overall well-being of a person. Diet contains macronutrients, such as proteins, carbohydrates, and fats, and micronutrients, which include a wide range of vitamins and minerals. While macronutrients are essential components of a healthy body, providing most of the daily caloric intake, micronutrients are needed in much smaller quantities but are indispensable for sustaining life. In the United States, the Department of Agriculture and the Department of Health and Human Services collaborate to provide nutrition guidelines for the American population. These guidelines are updated every five years in accordance with the National Nutrition Monitoring and Related Research Act of 1990, a law that ensures dietary recommendations reflect the latest scientific research. Similarly, the European Society for Clinical Nutrition and Metabolism, a leading multidisciplinary organization, holds annual meetings to swiftly disseminate the latest knowledge on clinical nutrition and metabolism worldwide.",
+      "sentence_count": 38,
+      "word_count": 767,
+      "duration_s": 368.0,
+      "passage_audio_url": "chpt06_audio/10_role_of_dietary/10_role_of_dietary.mp3"
+    },
+    {
+      "id": "11_grapes_and_grape",
+      "title": "Grapes and Grape Phytochemicals. Grapes, Vitis vinifera, are a significant source of pharmacologically active components that have a broad spectrum of bioactivities. Seeds, leaves, fruits, and other parts of grapes are used in herbal medicine and as a dietary supplement. Evidence suggests that grapes can protect the skin from ultraviolet damage, revitalize the skin, and improve skin elasticity. These effects stem from the variety of chemical constituents present in grapes. These include a wide range of vitamins, sugars, lipids, and polyphenols such as phenolic acids, flavonoids, carotenoids, anthocyanins, proanthocyanidins, hydroxycinnamic acid derivatives, and stilbenes. Phytochemicals including ascorbic acid, tocopherols, tocotrienols, flavan-3-ols, resveratrol, proanthocyanidins, fatty acids, and phytosterols are mostly present in the skin and seeds of grapes. The flesh contains only trace amounts of anthocyanins and other phenolic compounds. Important grape constituents are described below.",
+      "sentence_count": 33,
+      "word_count": 465,
+      "duration_s": 242.7,
+      "passage_audio_url": "chpt06_audio/11_grapes_and_grape/11_grapes_and_grape.mp3"
+    },
+    {
+      "id": "12_biological_properties_of",
+      "title": "Biological Properties of Grapes. Grape constituents have been shown to have outstanding antioxidant properties, both in vitro and in vivo. Grapes are known to enhance cellular antioxidant defenses, particularly through polyphenolic compounds that influence redox signaling pathways. For example, a study has shown that 13 Spanish red and white grape varieties exhibit antioxidant potential, depending on the part of the grape used, such as the pulp, peel, or seeds. This was attributed to the varied amount of total phenolic content in different grape parts. Researchers have utilized various in vitro methodologies to measure the antioxidant capabilities of grapes, revealing a significant capacity determined by D P P H, A B T S, F R A P methods, and the beta-carotene and linoleic acid auto-oxidation assay. Among different mechanisms, proanthocyanidins contribute to the antioxidant activity of grapes mostly through modulating the relevant signaling pathways, such as the Nrf2 and P I 3 K and Akt pathways, and boosting the activity of endogenous antioxidant enzymes. Resveratrol exerts its antioxidant effect by scavenging hydroxyl radicals, nitric oxide, superoxide anion, and peroxynitrite and improves redox equilibrium by activating the Nrf2 pathway, which upregulates the endogenous antioxidant pathways.",
+      "sentence_count": 39,
+      "word_count": 868,
+      "duration_s": 409.6,
+      "passage_audio_url": "chpt06_audio/12_biological_properties_of/12_biological_properties_of.mp3"
+    },
+    {
+      "id": "13_antiaging_anti_pigmentation",
+      "title": "Antiaging, Anti-pigmentation, and Photoprotection Activities. The antiaging activity of resveratrol, quercetin, and proanthocyanidins in grapes is linked to their antioxidant and anti-inflammatory properties, which follow various mechanisms. For example, aqueous extract of grape leaves inhibits I L-8 secretion from human keratinocytes induced by pro-inflammatory stimuli, such as ultraviolet B, T N F alpha, and lipopolysaccharide. This was modulated by decreasing N F-kappa B-driven transcription of inflammatory mediators in keratinocytes. This shows that grape leaves extract can help protect the skin from ultraviolet radiation, which is also a common cause of the early onset of wrinkles and dark spots.",
+      "sentence_count": 18,
+      "word_count": 481,
+      "duration_s": 236.4,
+      "passage_audio_url": "chpt06_audio/13_antiaging_anti_pigmentation/13_antiaging_anti_pigmentation.mp3"
+    },
+    {
+      "id": "14_role_of_grapes",
+      "title": "Role of Grapes or Grape Constituents in Skin Diseases. Skin diseases are among the most common health conditions. These disorders arise from a complex interplay of genetic and environmental factors, with the contribution of each element varying depending on the specific condition. Phytochemicals from natural sources, such as those found in grapes, hold considerable promise in addressing these conditions. Grape constituents have been shown to exhibit multiple biological activities and modulate important signaling events, which may protect against a variety of skin diseases. Some of these activities are described below.",
+      "sentence_count": 6,
+      "word_count": 90,
+      "duration_s": 39.2,
+      "passage_audio_url": "chpt06_audio/14_role_of_grapes/14_role_of_grapes.mp3"
+    },
+    {
+      "id": "15_effects_of_grapes",
+      "title": "Effects of Grapes on Melanoma. Melanoma is one of the deadliest skin cancers caused by the hyperproliferation of pigment-producing cells called melanocytes. There are multiple types of melanomas, out of which cutaneous melanoma is the most prevalent. It is characterized by asymmetrical pigmented skin areas associated with genetic mutations or chronic exposure to ultraviolet radiation. Multiple driver gene mutations are involved in the development of melanoma. The most common mutations are found in BRAF and NRAS, which are key players in the M A P K signaling pathway. A significant fraction of melanomas also harbor mutations in CDNK2A, NF1, MIFT, RAC1, PPP6C, STK19, and PTEN, which are key components of pigmentation-related pathway, cell-cycle regulation, Akt pathway, epigenetic factors, and others. Although significant advancements have been made in the treatment and control of melanoma, drug resistance, relapse, and side effects are challenges to optimal cure, leaving room for further improvement. Plant-derived products such as taxanes are currently used in the management of cancer, and a myriad of phytochemicals are under investigation for their therapeutic potential.",
+      "sentence_count": 15,
+      "word_count": 303,
+      "duration_s": 147.2,
+      "passage_audio_url": "chpt06_audio/15_effects_of_grapes/15_effects_of_grapes.mp3"
+    },
+    {
+      "id": "16_effects_of_resveratrol",
+      "title": "Effects of Resveratrol and Its Derivatives on Melanoma. In the last few decades, resveratrol has garnered significant attention for its broad spectrum of biological activities including antiproliferative potential. Resveratrol has been shown to have apoptosis-inducing activity, cell cycle modulatory effects, anti-inflammatory effects, and the ability to modulate protein kinase signaling, among other events. In the context of melanoma, resveratrol has been shown to exert its antiproliferative response by targeting multiple signaling pathways, such as extracellular growth factors and receptor tyrosine kinases, E G F, T G F-beta, p53; multiprotein complexes, P T E N and Akt, M E K and E R K; cell metabolism, redox imbalance; cell cycle regulation; and integrin signaling.",
+      "sentence_count": 26,
+      "word_count": 712,
+      "duration_s": 328.1,
+      "passage_audio_url": "chpt06_audio/16_effects_of_resveratrol/16_effects_of_resveratrol.mp3"
+    },
+    {
+      "id": "17_effects_of_piceatannol",
+      "title": "Effects of Piceatannol on Melanoma. Piceatannol, a resveratrol analog found in grapes, has shown potential anti-melanoma activity. It inhibits melanogenesis in melanoma cells by suppressing tyrosinase activity and oxidative stress. Further, piceatannol was shown to induce a G2/M phase arrest in melanoma cells. A recent study has shown that piceatannol can reduce the proliferation, migration, and invasion of melanoma cells and inhibit tumor growth in a xenograft model by inhibiting the phosphorylation of Syk and decreasing the expression of key proteins involved in tumor progression, such as matrix metalloproteinase-2, matrix metalloproteinase-9, and vascular endothelial growth factor. Piceatannol was also shown to inhibit J A K-1, which is a key member of the S T A T pathway that is crucial for controlling cellular activities in response to extracellular cytokines and is a C O X-2-inducible enzyme involved in inflammation and carcinogenesis. Additional research is needed to fully understand the underlying mechanisms of piceatannol's antiproliferative responses against melanoma.",
+      "sentence_count": 7,
+      "word_count": 159,
+      "duration_s": 74.0,
+      "passage_audio_url": "chpt06_audio/17_effects_of_piceatannol/17_effects_of_piceatannol.mp3"
+    },
+    {
+      "id": "18_effects_of_grape",
+      "title": "Effects of Grape Seed Proanthocyanidins on Melanoma. Grape seed proanthocyanidins, a group of oligomeric flavonoids, have been evaluated for their effects against melanoma. In vitro studies have shown that these compounds inhibit the growth of human melanoma cells by reducing the expression of beta-catenin, a key protein involved in cell proliferation and survival. These phytochemicals also suppress the tumor promoter miRNA-106b, resulting in the inhibition of cell proliferation and G1-phase cell cycle arrest. In addition, dietary supplementation of grape seed proanthocyanidins has been shown to impede melanoma tumor growth in xenograft mouse models. Another study revealed that grape seed proanthocyanidins inhibited tumor growth in a xenograft model by inhibiting beta-catenin. Also, grape seed proanthocyanidins inhibited melanoma cell migration by suppressing C O X-2, blocking inflammation-mediated activation of beta-catenin and reducing the expression of matrix metalloproteinase-2, matrix metalloproteinase-9, and MITF, which are critical for melanoma metastasis. It was reported that grape seed proanthocyanidins containing hydrogel scaffolds can function as a natural photothermal agent for melanoma therapy and as a bioactive biomaterial for wound healing. Under near-infrared laser stimulation, the photothermal effect of grape seed proanthocyanidins containing hydrogel scaffolds effectively resulted in the apoptosis and necrosis of melanoma tumor cells in vitro. These data support the grape seed proanthocyanidins anti-melanoma potential; however, further detailed studies are required to determine their efficacy in preclinical and clinical settings.",
+      "sentence_count": 10,
+      "word_count": 224,
+      "duration_s": 110.2,
+      "passage_audio_url": "chpt06_audio/18_effects_of_grape/18_effects_of_grape.mp3"
+    },
+    {
+      "id": "19_other_grape_phytochemicals",
+      "title": "Other Grape Phytochemicals on Melanoma. Besides resveratrol and proanthocyanidins, there are multiple other phytochemicals in grapes that have shown antiproliferative effects in melanoma models. For example, among novel catechin derivatives, 4 beta-(S-cysteinyl)epicatechin-3-O-gallate derived from grapes exhibited strong antioxidant activity and significantly reduced melanoma cell viability by inducing S phase arrest and apoptosis. Additionally, epicatechin-(4 beta-8)-epicatechin 3-O-gallate, a unique compound found in grapes, has been shown to effectively inhibit both tyrosinase activity and melanogenesis. In addition, procyanidin C1, an epicatechin trimeric flavonoid found in grapes, has been shown to inhibit the proliferation of melanoma cells through activation of the laminin receptor signaling pathway. Some other phytochemicals such as anthocyanins and cinnamic acid have shown antiproliferative properties by increasing oxidative stress, leading to mitochondrial dysfunction and reduced cell proliferation in melanoma cells.",
+      "sentence_count": 12,
+      "word_count": 247,
+      "duration_s": 128.0,
+      "passage_audio_url": "chpt06_audio/19_other_grape_phytochemicals/19_other_grape_phytochemicals.mp3"
+    },
+    {
+      "id": "20_effects_of_grapes",
+      "title": "Effects of Grapes on Non-melanoma Skin Cancer. Non-melanoma skin cancers, including basal cell carcinoma and squamous cell carcinoma, are primarily caused by ultraviolet radiation, a well-established environmental carcinogen. The increasing incidence of non-melanoma skin cancers, particularly among older populations and individuals with prolonged ultraviolet exposure, has prompted increased interest of researchers towards novel chemopreventive strategies to combat these neoplasms. Among the promising candidates for protection against ultraviolet-induced skin damage are grape-derived compounds. Most of the research relevant to grapes in this direction has focused on resveratrol, though a few studies have examined whole grapes or combinations of grape phytochemicals. Recent studies have demonstrated the chemoprotective effects of grape powder against ultraviolet B-induced skin tumorigenesis. For example, a short-term study using male and female SKH-1 mice revealed that grape powder supplementation significantly protected against early-stage skin lesions. These effects were observed in both sexes, indicating that grape powder offers protection across genders. In a long-term study, grape powder reduced tumor counts, malignant conversion, and associated markers of inflammation, such as serum I g E and eotaxin. Further, inhibition of p38 phosphorylation and reduced P C N A, Ki67, and B C L 2 levels were also observed. Additionally, in another study, topical application of grape seed extracts significantly inhibited ultraviolet B-induced sunburn cells and cyclobutane pyrimidine dimers, which are markers of D N A damage. It also reduced the levels of pro-inflammatory cytokines T N F alpha and I L-6 while protecting the skin from ultraviolet-induced damage. These findings highlight the effectiveness of whole grapes or grape constituents in skin cancer.",
+      "sentence_count": 15,
+      "word_count": 289,
+      "duration_s": 136.4,
+      "passage_audio_url": "chpt06_audio/20_effects_of_grapes/20_effects_of_grapes.mp3"
+    },
+    {
+      "id": "21_effects_of_resveratrol",
+      "title": "Effects of Resveratrol on Non-melanoma Skin Cancer. Phytochemicals in grapes, particularly resveratrol, have a myriad of activities on cellular processes that may translate into anticancer or cancer prevention activity. Resveratrol has been extensively studied in vitro and in vivo for its anticancer potential against non-melanoma skin cancer through various mechanisms, including the induction of apoptosis, cell cycle regulation, inhibition of cell proliferation, modulation of protein kinase signaling and effect on oxidative stress, and inflammation. Resveratrol has shown significant potential in preventing ultraviolet B-induced skin damage by modulating redox balance, inflammatory responses, and cell cycle progression. Resveratrol has been shown to significantly enhance the effectiveness of traditional chemotherapeutic agents, such as 5-fluorouracil, in the animal model of skin cancer. It was observed that topical application of a lipid nanosystem-based gel containing resveratrol and 5-fluorouracil significantly reduced ultraviolet-mediated skin hyperplasia, edema, and phototoxicity, leading to lower tumor incidence and delayed onset of tumorigenesis in the animal model of skin cancer. Similarly, in a two-stage D M B A-initiated and T P A-promoted murine skin cancer model, resveratrol showed a 98 percent decrease in skin cancer. Similar results were obtained by Soleas and colleagues employing the same animal model, where topical application of resveratrol solution on the skin of mice showed a 60 percent decrease in papillomas. Resveratrol has been shown to exert its effects against non-melanoma skin cancer through various mechanisms in ultraviolet-induced skin cancer model in SKH-1 hairless mice, including reduction of the cell cycle regulators, hyperphosphorylated pRb proteins, M E K 1 and E R K 1 and 2, and A P-1 signaling pathways. It was shown to induce G1-phase cell cycle arrest and upregulate the tumor suppressor p21 and W A F 1 and C I P 1, contributing to its anticancer activity. Resveratrol was shown to decrease the skin hyperplasia induced by multiple ultraviolet B exposures in SKH-1 hairless mice. These effects were accompanied by reduced levels of cyclins D1 and D2; Cdk 2, 4, and 6; P C N A; and an increase in p21 and W A F 1 and C I P 1. In addition, there was inhibited expression of anti-apoptotic proteins and markers of tumor promotion, C O X-2, and ornithine decarboxylase in the same model. Recently, resveratrol-loaded invasomal gels have shown higher skin penetration and better inhibition of tumor growth compared to other formulations in an animal model of squamous cell carcinoma. Taken together, resveratrol has a potential in the management of non-melanoma skin cancer by targeting multiple mechanisms. Further research including clinical studies is necessary to fully establish its safety, efficacy, and optimal dosing.",
+      "sentence_count": 16,
+      "word_count": 430,
+      "duration_s": 198.6,
+      "passage_audio_url": "chpt06_audio/21_effects_of_resveratrol/21_effects_of_resveratrol.mp3"
+    },
+    {
+      "id": "22_effects_of_grape",
+      "title": "Effects of Grape Seed Proanthocyanidins on Non-melanoma Skin Cancer. Multiple other components of grapes are shown to possess antiproliferative effects. The grape seed proanthocyanidins have been shown to protect against photo-carcinogenesis as shown by reduced tumor incidence, tumor multiplicity, and tumor size in SKH-1 hairless mice. It inhibits malignant conversion of benign skin papilloma to carcinoma in SKH-1 hairless mice exposed to ultraviolet B radiation. It has been demonstrated that ultraviolet B-induced oxidative stress may increase the rate of malignant transformation by enhancing genetic instability, which in turn speeds up the evolution of non-malignant lesions. It appears that grape seed proanthocyanidins mitigate the malignant transformation via reducing oxidative stress and its associated damage. In addition, grape seed proanthocyanidins have been shown to inhibit the proliferation of squamous cell carcinoma cells in a dose-dependent manner and to suppress the mobility and invasiveness of these cells by downregulating matrix metalloproteinase-2 and matrix metalloproteinase-9. Moreover, evidence shows the induction of both autophagic and apoptotic machinery in squamous cell carcinoma cells upon treatment with grape seed proanthocyanidins. Additionally, proanthocyanidins target the hsa_circ_0070934 and miR-136-5p and P R A F 2 axis to hinder the proliferation, migration, and cell cycle processes while causing apoptosis in squamous cell carcinoma cells. The circ R N A was shown to be an important participant in squamous cell carcinoma progression. It is associated with downregulation of miR-136-5p and higher P R A F 2 levels, both of which indicate poor prognosis for cancer patients. Grape seed proanthocyanidins restrained the progression of squamous cell carcinoma by promoting miR-136-5p while decreasing the expression of P R A F 2. Previously, it was shown that proanthocyanidins can reverse epithelial-to-mesenchymal transition and impede cell invasion via inhibition of the phosphorylation of E R K 1 and 2 and E G F R in head and neck cutaneous squamous cell carcinoma. Together, the studies provide evidence for the potential chemopreventive efficacy of grape seed proanthocyanidins against non-melanoma skin cancer.",
+      "sentence_count": 14,
+      "word_count": 325,
+      "duration_s": 155.5,
+      "passage_audio_url": "chpt06_audio/22_effects_of_grape/22_effects_of_grape.mp3"
+    },
+    {
+      "id": "23_effects_of_grapes",
+      "title": "Effects of Grapes on Atopic Dermatitis. Atopic dermatitis is a chronic, inflammatory skin disorder that affects millions of people worldwide and is characterized by skin lesions, pruritus, and impaired skin barrier function. The pathogenesis of atopic dermatitis is complex, involving immune system dysregulation, infiltration of inflammatory mediators, and epidermal barrier dysfunction. Among the multiple mediators of atopic dermatitis, filaggrin protein, keratinocytes, T cells, mast cells, and other signaling molecules such as I L-4, I L-13, and thymic stromal lymphopoietin are significant for its pathogenesis. Traditional therapies, such as corticosteroids and immunotherapy, are often associated with side effects, leading to the need for alternative, safer treatments.",
+      "sentence_count": 54,
+      "word_count": 1316,
+      "duration_s": 600.3,
+      "passage_audio_url": "chpt06_audio/23_effects_of_grapes/23_effects_of_grapes.mp3"
+    },
+    {
+      "id": "24_effects_of_grapes",
+      "title": "Effects of Grapes on Psoriasis. Psoriasis is a chronic inflammatory debilitating disease characterized by immune system dysregulation and excessive production of pro-inflammatory mediators. This autoimmune disorder results in the release of inflammatory mediators such as T N F alpha, I L-12, and I L-23 and the activation of Th22, Th1, and Th17 from immune cells. These cytokines, especially I L-17, activate the abnormal proliferation of keratinocytes, initiating and exacerbating epidermal hyperplasia and persistent inflammation. While therapies that target T N F alpha, I L-17, and I L-23 have demonstrated remarkable efficacy in treating psoriasis, concerns about the adverse effects, safety, and recurrence of the disease have driven the search for alternative therapies.",
+      "sentence_count": 23,
+      "word_count": 561,
+      "duration_s": 267.6,
+      "passage_audio_url": "chpt06_audio/24_effects_of_grapes/24_effects_of_grapes.mp3"
+    },
+    {
+      "id": "25_grape_extracts_or",
+      "title": "Grape Extracts or Phytochemicals as Ingredients in Cosmetics. Plant-derived ingredients have been a cornerstone of skincare for hundreds of years. This applies to grapes too, which are used as skin-conditioning agents, antioxidants, fragrances, and colorants in cosmetics. According to the CosIng database, which is a European Commission database for information on cosmetic substances and ingredients, the fruits and roots of grapes are utilized as skin-conditioning agents, while the seeds are used for their skin protection, skin-conditioning, antibacterial, antioxidant, and anti-seborrheic properties. The grape seed oil has emollient properties, whereas the stem is used for its antioxidant and photoprotection properties. Grape leaves are highly valued in cosmetic formulations as a source of fragrance.",
+      "sentence_count": 17,
+      "word_count": 393,
+      "duration_s": 181.8,
+      "passage_audio_url": "chpt06_audio/25_grape_extracts_or/25_grape_extracts_or.mp3"
+    },
+    {
+      "id": "26_uses_of_grape",
+      "title": "Uses of Grape Formulations for Photoprotection and Sunscreens. Cosmetic products based on grape-derived components are popular in many countries. One of the applications of grape-derived components in cosmetics is their role in photoprotection. A study investigating the photoprotective effects of whole grape powder in mice found that these extracts could significantly reduce ultraviolet-induced skin damage and inflammation. Grape seed extracts have shown significant photostabilizing effects when incorporated into sunscreen formulations. It improves the photostability of common ultraviolet filters, such as benzophenone-3 and ethylhexyl methoxycinnamate, and enhances the broad-spectrum protection offered by sunscreen products. Sunscreen formulations containing both grape seed extracts and ultraviolet filters showed an increase in S P F values and maintained a broad-spectrum protection even after exposure to ultraviolet irradiation. These formulations also demonstrated improved photostability, which is often a limitation of conventional ultraviolet filters. In one study, extracts from the Obeidi variety of Lebanese grapes with high proanthocyanidin content were incorporated into commercial creams. These extracts not only maintained stability but also significantly enhanced the antioxidant and photoprotection capacity of the formulations. Another sunscreen formulation containing the grape seed extract was tested in Asian females. Twice-daily application of 3 percent grape seed extract significantly improved skin elasticity and hydration and reduced the level of melanin. This formulation not only protected against ultraviolet-induced skin damage but also improved overall skin appearance. These investigations clearly demonstrate that grapes have photoprotective effects, which is probably associated with the transcriptional regulation of antiaging genes.",
+      "sentence_count": 14,
+      "word_count": 242,
+      "duration_s": 119.5,
+      "passage_audio_url": "chpt06_audio/26_uses_of_grape/26_uses_of_grape.mp3"
+    },
+    {
+      "id": "27_uses_of_grapes",
+      "title": "Uses of Grapes and Resveratrol for Skin Depigmentation. Grape polyphenols are considered useful in cosmetics for their skin-rejuvenating benefits. Studies have demonstrated the ability of these compounds to inhibit tyrosinase, the enzyme associated with melanin production and skin pigmentation disorders. When encapsulated in matrices such as hemp protein isolate or soy protein isolate, these polyphenols show multiple skin benefits, including pigmentation modulation, antioxidant activity, and antimicrobial properties. Proanthocyanidin-rich grape seed extract has been shown to cause skin lightening in animal models of ultraviolet-induced skin pigmentation. Similar results have been obtained in short-term human trials. For example, in a 12-week randomized, placebo-controlled study on Japanese women, the effect of red wine on skin color and hydration was observed. The authors used red wine beverages and concentrated these in vacuo to obtain the extract and quantify oligomeric procyanidins using high performance liquid chromatography. The oligomeric procyanidin-containing beverage was administered daily to women, and it was found that the intake of grape oligomeric procyanidins significantly reduced skin pigmentation and melanin index while improving skin moisture content, suggesting that these oligomeric procyanidins may offer benefits in managing sun-induced pigmentation and enhancing skin hydration, making them useful as dietary supplements or functional ingredients in skincare formulations. Additionally, resveratrol has been found to impact the posttranscriptional regulation of melanogenic genes. Resveratrol suppresses melanin formation by downregulating the messenger ribonucleic acid expression of TYR, TYRP1, TYRP2, and MITF in human melanocytes. This effect has been validated in studies, where resveratrol suppressed melanin formation by lowering TYPR2 expression in alpha-M S H-stimulated B16 melanoma cell line and greatly decreased the hyperpigmentation in ultraviolet B-stimulated guinea pig skin in vivo. Additionally, tyrosinase activity can be modulated by resveratrol's chelating capacity via copper ion in the reactive center of the enzyme. Altogether, based on in vitro and in vivo findings, resveratrol and its analogs can function as whitening agents in cosmetics.",
+      "sentence_count": 17,
+      "word_count": 394,
+      "duration_s": 187.9,
+      "passage_audio_url": "chpt06_audio/27_uses_of_grapes/27_uses_of_grapes.mp3"
+    },
+    {
+      "id": "28_uses_of_grape",
+      "title": "Uses of Grape Seed Extracts for Skin Moisturizing and Exfoliation. Grape seed residues that are often discarded as agro-industrial by-products are considered valuable in cosmetic formulations. The extracts from grape residues are used to create scrubs that release antioxidant molecules and provide skin exfoliating effects. By repurposing these residues, cosmetics can not only contribute to zero-waste practices but also enhance the sustainability of the industry by incorporating bioactive compounds that would otherwise go unused. The addition of the grape seed extract as well as its fermented derivatives to cosmetic cream has been shown to improve skin hydration and reduce transepidermal water loss. Grape seed extract promotes collagen synthesis and cell turnover, helps treat acne, and promotes even skin tone. Rich in polyphenols, ascorbic acid, and tocopherols, it increases elasticity, hydration, and smoothness of the skin, keeping it feeling supple and healthy. More investigations into the skin exfoliation capabilities of grape seed-based products have suggested their efficacy in comparison to other common exfoliating agents, including glycolic acid, mandelic acid, and grape juice acid mixtures. Glycolic acid delivers a more aggressive exfoliation, whereas the grape seed-based products provided a safer, more gradual peeling effect, making them suitable for sensitive skin types. This suggests that grape seed extracts and their derivatives could offer milder alternatives for skin exfoliation, providing additional benefits without excessive skin irritation or photosensitivity.",
+      "sentence_count": 10,
+      "word_count": 224,
+      "duration_s": 102.6,
+      "passage_audio_url": "chpt06_audio/28_uses_of_grape/28_uses_of_grape.mp3"
+    },
+    {
+      "id": "29_uses_of_grape",
+      "title": "Uses of Grape Extracts and Phytochemicals as Antiaging Agents. The aging process is closely linked to oxidative stress and the breakdown of skin structural proteins, and polyphenolic compounds from fresh grapes, grape marcs, and wine lees, especially resveratrol, exhibit significant antioxidant activity and inhibitory effects on enzymes linked to skin aging. Recent studies investigating the extracts from grape seeds and skins have reported multifaceted antiaging effects, including telomere lengthening, increased telomerase activity, and regulation of the activity of enzymes involved in extracellular matrix remodeling, such as elastase, matrix metalloproteinase-1, and tyrosinase. In one study, researchers studied 59 grape seed flavonoids and found that 14 of them displayed activity in preventing the demethylation of protein phosphatase 2A, an enzyme involved in regulating oxidative stress in skin cells. Quercetagetin, myricetin, and sciadopitysin showed the highest P P 2 A activation activity among all tested flavonoids. By enhancing P P 2 A methylation, grape seed extracts may help combat aging processes and improve skin health. Gallotannin from grapes has also been shown to have antiaging effects mediated via inhibiting the activity of elastolytic enzymes and reducing ultraviolet B-induced damage to human skin cells. In vitro studies have shown that gallotannin can improve collagen synthesis, reduce the expression of matrix metalloproteinase-1, and modulate the E R K and J N K signaling pathways, which are involved in cellular stress and apoptosis.",
+      "sentence_count": 26,
+      "word_count": 686,
+      "duration_s": 323.4,
+      "passage_audio_url": "chpt06_audio/29_uses_of_grape/29_uses_of_grape.mp3"
+    },
+    {
+      "id": "30_conclusions_and_prospects",
+      "title": "Conclusions and Prospects. Grapes, Vitis vinifera, are among the world's most widely cultivated fruits. In addition to widespread consumption as a whole food, grapes are used for wine, juice, jam, and raisin production. In recent years there has been growing interest in biologically active phytochemicals found in grapes for their potential health benefits. Grapes are exceptionally rich in bioactive compounds, which are of high interest for pharmaceutical and cosmetic industries. The main groups of bioactive compounds present in grapes are fatty acids, vitamins, and polyphenols, such as flavonoids, stilbenes, phenolic acids, anthocyanins, proanthocyanidins, etc. These compounds have shown great potential in promoting skin health, mitigating photo-damage, and shielding the skin against environmental stressors due to their antioxidant, anti-inflammatory, anti-melanogenic, antiproliferative, antimicrobial, and antiaging properties. Grapes and its constituents have also shown effectiveness against skin cancer and inflammatory skin disorders such as atopic dermatitis and psoriasis. Resveratrol, one of the key components of grapes, has demonstrated significant chemopreventive and anticancer properties against melanoma and non-melanoma skin cancers. It has diverse mechanisms including scavenging free radicals, preventing lipid peroxidation, inhibiting pro-inflammatory cytokines, and disrupting inflammatory and oxidative stress pathways. Research is underway to enhance the delivery of resveratrol, grape procyanidins, and other grape-derived products through lipid-based nanosystems, such as nanoparticles and organogels, to improve their skin penetration and therapeutic efficacy.",
+      "sentence_count": 19,
+      "word_count": 405,
+      "duration_s": 193.7,
+      "passage_audio_url": "chpt06_audio/30_conclusions_and_prospects/30_conclusions_and_prospects.mp3"
+    }
+  ]
+}

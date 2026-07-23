@@ -1,0 +1,220 @@
+{
+  "id": "5_mutual_interactions_of",
+  "title": "Mutual Interactions of Polyphenols and Gut Microbiota. It is believed that only a small portion of polyphenols is absorbed in the upper gastrointestinal tract, but up to 90 to 95 percent of consumed polyphenols can reach the large intestine, where gut microbes reside. Accumulating evidence indicates that polyphenols and gut microbes can modulate each other through mutual interactions.",
+  "sentences": [
+    {
+      "text": "Mutual Interactions of Polyphenols and Gut Microbiota.",
+      "start": 0.1,
+      "end": 3.562,
+      "word_count": 7
+    },
+    {
+      "text": "It is believed that only a small portion of polyphenols is absorbed in the upper gastrointestinal tract, but up to 90 to 95 percent of consumed polyphenols can reach the large intestine, where gut microbes reside.",
+      "start": 4.438,
+      "end": 18.525,
+      "word_count": 36
+    },
+    {
+      "text": "Accumulating evidence indicates that polyphenols and gut microbes can modulate each other through mutual interactions.",
+      "start": 18.538,
+      "end": 25.812,
+      "word_count": 15
+    },
+    {
+      "text": "Polyphenols Are Extensively Metabolized by Gut Microbes, and the Produced Metabolites Have Been Shown to Have Anti-inflammatory and Anticancer Properties.",
+      "start": 25.825,
+      "end": 35.663,
+      "word_count": 20
+    },
+    {
+      "text": "Polyphenols have been shown to be metabolized by gut microbiota via various catabolic reactions, including deconjugation by microbial enzymes, such as alpha-rhamnosidase, beta-glucosidase and beta-glucuronidase, ester hydrolysis, and demethylation by microbial demethylase.",
+      "start": 35.675,
+      "end": 54.7,
+      "word_count": 32
+    },
+    {
+      "text": "Polyphenols can also be reduced or hydrogenated by microbial dehydroxylase or hydrogenase or catabolized via ring cleavage by microbial decarboxylase.",
+      "start": 54.712,
+      "end": 64.737,
+      "word_count": 20
+    },
+    {
+      "text": "For instance, quercetins, epicatechins, or anthocyanins are catabolized by gut microbes to form various hydroxyphenyl propionic acids, dihydroxyphenyl acetic acids, and dihydroxyphenyl valeric acids.",
+      "start": 64.75,
+      "end": 79.95,
+      "word_count": 24
+    },
+    {
+      "text": "Additionally, metabolomic analysis has revealed that 4-hydroxyphenylacetic acid and 3-hydroxyphenylpropionic acid are gut metabolites of resveratrol as a result of gut microbiome metabolism.",
+      "start": 80.188,
+      "end": 93.237,
+      "word_count": 23
+    },
+    {
+      "text": "Metabolites derived from polyphenols via gut microbiome metabolism have been found to display anticancer and anti-inflammatory effects.",
+      "start": 93.25,
+      "end": 101.6,
+      "word_count": 17
+    },
+    {
+      "text": "For instance, the metabolites of quercetin from seven bacteria strains showed dose-dependent antiproliferation effects on human colon cancer H C T-116 cells.",
+      "start": 101.612,
+      "end": 113.213,
+      "word_count": 22
+    },
+    {
+      "text": "3,4-Dihydroxyphenylacetic acid and 3-(3,4-dihydroxyphenyl)-propionic acid, which are microbe-produced metabolites of quercetin and chlorogenic acid, respectively, decreased cyclooxygenase-2 level and attenuated DNA damage in colon adenoma cells.",
+      "start": 113.312,
+      "end": 129.1,
+      "word_count": 26
+    },
+    {
+      "text": "Further, dihydroxyphenyl acetic acid and hydrocaffeic acid have been shown to inhibit I L-1 beta-stimulated prostaglandin E2 in C C D-18 colon fibroblasts, indicating strong anti-inflammatory effects.",
+      "start": 129.113,
+      "end": 142.65,
+      "word_count": 27
+    },
+    {
+      "text": "Consistent with cell-based studies, 4-hydroxyphenylacetic acid was reported to attenuate inflammation and edema by suppressing hypoxia-inducible factor-1 alpha in seawater aspiration-induced lung injury in rats.",
+      "start": 143.0,
+      "end": 158.475,
+      "word_count": 25
+    },
+    {
+      "text": "Moreover, ferulaldehyde, a metabolite of polyphenols with high concentrations in human urine after red wine and chocolate consumption, has been found to improve survival and attenuate inflammation in a murine lipopolysaccharide-induced septic shock model.",
+      "start": 158.488,
+      "end": 172.975,
+      "word_count": 34
+    },
+    {
+      "text": "In a recent study, treatment with gut microbiome metabolite 3-hydroxyphenylacetic acid improved spermatogenesis in old mice by inducing glutathione peroxidase 4 and inhibiting ferroptosis.",
+      "start": 172.988,
+      "end": 186.812,
+      "word_count": 24
+    },
+    {
+      "text": "In addition, 4-hydroxyphenylacetic acid and 3-hydroxyphenylpropionic acid derived from resveratrol were reported to improve lipid metabolism.",
+      "start": 186.825,
+      "end": 197.225,
+      "word_count": 16
+    },
+    {
+      "text": "Consistently, researchers observed the protective effects of hydroxyphenyl propionic acids on lipid metabolism in high-fat-diet-fed mice.",
+      "start": 197.238,
+      "end": 205.8,
+      "word_count": 16
+    },
+    {
+      "text": "Taken together, these results indicate that polyphenol metabolites derived from gut microbiota transformation can significantly contribute to the beneficial effects of parental polyphenols.",
+      "start": 205.812,
+      "end": 218.062,
+      "word_count": 23
+    },
+    {
+      "text": "Polyphenols Can Inhibit Antibacterial or Promote the Growth of Gut Microbiota Prebiotics and Affect Gut Bacterial Metabolism and Functions.",
+      "start": 218.075,
+      "end": 226.875,
+      "word_count": 19
+    },
+    {
+      "text": "Polyphenols are considered a key part of the defense system in plants and have been recognized to have antibacterial properties, especially against some common intestinal pathogens.",
+      "start": 226.887,
+      "end": 237.95,
+      "word_count": 26
+    },
+    {
+      "text": "For instance, under anaerobic conditions, resveratrol appears to inhibit the biofilm formation of Fusobacterium nucleatum, a commensal-turned-pathogenic bacterium shown to be elevated in the colonic biopsies of inflammatory bowel disease patients and associated with colorectal carcinogenesis.",
+      "start": 237.963,
+      "end": 256.025,
+      "word_count": 36
+    },
+    {
+      "text": "Tannic acid has been found to inhibit the growth of intestinal bacteria, such as Clostridium clostridioforme, Escherichia coli, and Enterobacter cloacae, possibly through iron chelation, but it does not affect beneficial Bifidobacterium infantis and Lactobacillus acidophilus, which do not depend on iron for growth.",
+      "start": 256.038,
+      "end": 279.041,
+      "word_count": 44
+    },
+    {
+      "text": "In addition to chelating iron, other mechanisms underlying antibacterial action by polyphenols have been recognized, including the disruption of bacterial quorum sensing, inhibition of bacterial DNA and ribonucleic acid synthesis, disruption of membrane function and permeability, and interference of bacterial biofilm formation.",
+      "start": 279.053,
+      "end": 299.865,
+      "word_count": 42
+    },
+    {
+      "text": "In contrast to antibacterial activities, polyphenols have also been shown to exhibit prebiotic activities by promoting the growth of gut bacteria by assisting extracellular electron transfer or anaerobic respiration in microbes.",
+      "start": 299.878,
+      "end": 314.428,
+      "word_count": 31
+    },
+    {
+      "text": "Specifically, polyphenols are believed to serve as electron donors or acceptors, like flavin, to promote the growth of some beneficial bacteria, including Lactococcus species and Lactobacillus species.",
+      "start": 314.44,
+      "end": 327.291,
+      "word_count": 27
+    },
+    {
+      "text": "In addition, polyphenols that contain double bonds on the side chain, such as caffeic acids, have been shown to act as terminal electron acceptors to accelerate anaerobic respiration.",
+      "start": 327.303,
+      "end": 339.003,
+      "word_count": 28
+    },
+    {
+      "text": "In addition to their impact on bacterial growth, polyphenols have been shown to influence gut microbiome's energy metabolism, including enhancing production of short-chain fatty acids such as butyrate or their precursors.",
+      "start": 339.015,
+      "end": 352.953,
+      "word_count": 31
+    },
+    {
+      "text": "For instance, the in vitro incubation of polyphenols with fecal samples led to the formation of short-chain fatty acids and the production of polyphenol catabolites, as well as elevation of short-chain fatty acid producers, including Faecalibacterium prausnitzii and cluster XIVa Clostridiales.",
+      "start": 352.966,
+      "end": 371.478,
+      "word_count": 41
+    },
+    {
+      "text": "Moreover, polyphenols can promote short-chain fatty acid-producing microbes, such as Bifidobacterium.",
+      "start": 371.49,
+      "end": 378.628,
+      "word_count": 11
+    },
+    {
+      "text": "Interestingly, the growth of Bifidobacterium appeared to be stimulated by fermented polyphenol media and some biotransformation products but not by polyphenols themselves, supporting the idea that polyphenol metabolites derived from microbiota transformation can enrich short-chain fatty acid producers.",
+      "start": 378.64,
+      "end": 397.815,
+      "word_count": 38
+    },
+    {
+      "text": "In addition, polyphenol consumption can change other functions of gut microbial communities, including increasing energy production and conversion or beta-glucosidase activity and decreasing epithelial invasion, secondary bile acid production, and toxin secretion by pathogenic bacteria.",
+      "start": 397.828,
+      "end": 416.378,
+      "word_count": 35
+    },
+    {
+      "text": "In summary, the interaction of polyphenols and gut bacteria is important for their mutual modulatory effects.",
+      "start": 416.39,
+      "end": 424.053,
+      "word_count": 16
+    },
+    {
+      "text": "On the one hand, gut microbes can catabolize and cause the biotransformation of polyphenols.",
+      "start": 424.065,
+      "end": 430.353,
+      "word_count": 14
+    },
+    {
+      "text": "On the other hand, the biotransformation of polyphenols, in turn, changes microbial functions, including the promotion of short-chain fatty acid production, and modulates microbial community composition.",
+      "start": 430.365,
+      "end": 443.19,
+      "word_count": 26
+    },
+    {
+      "text": "The metabolites derived from polyphenols as a result of transformation by gut microbiome have also been found to show anti-inflammatory and anticancer effects, thus likely contributing to the beneficial activities of their parental compounds. of their parental compounds",
+      "start": 443.203,
+      "end": 460.416,
+      "word_count": 38
+    }
+  ],
+  "sentence_count": 35,
+  "word_count": 910,
+  "total_duration": 460.416,
+  "voice": "en-US-AriaNeural"
+}

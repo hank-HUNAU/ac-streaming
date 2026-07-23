@@ -1,0 +1,130 @@
+{
+  "id": "17_liver_health_multi",
+  "title": "Liver Health. Multi-organ Nutrigenomic Effects of Dietary Grapes in a Mouse Model. In a year-long study where mice consumed a grape-enriched diet, eating the equivalent of 2.5 servings of grapes per day, study findings showed the ability of grapes to modulate gene expression in the liver, suggesting enhanced capability of the liver to combat foreign bacteria and viruses. By enriching beneficial pathways and down-regulating harmful pathways, grapes also bolstered metabolic detoxification activity, promotion of a tumor suppressor gene, and mitochondrial response to liver injury.",
+  "sentences": [
+    {
+      "text": "Liver Health.",
+      "start": 0.1,
+      "end": 0.938,
+      "word_count": 2
+    },
+    {
+      "text": "Multi-organ Nutrigenomic Effects of Dietary Grapes in a Mouse Model.",
+      "start": 1.812,
+      "end": 5.85,
+      "word_count": 10
+    },
+    {
+      "text": "In a year-long study where mice consumed a grape-enriched diet, eating the equivalent of 2.5 servings of grapes per day, study findings showed the ability of grapes to modulate gene expression in the liver, suggesting enhanced capability of the liver to combat foreign bacteria and viruses.",
+      "start": 6.725,
+      "end": 23.863,
+      "word_count": 46
+    },
+    {
+      "text": "By enriching beneficial pathways and down-regulating harmful pathways, grapes also bolstered metabolic detoxification activity, promotion of a tumor suppressor gene, and mitochondrial response to liver injury.",
+      "start": 24.738,
+      "end": 37.538,
+      "word_count": 26
+    },
+    {
+      "text": "Consumption of Grapes Modulates Gene Expression, Reduces Non-alcoholic Fatty Liver Disease, and Extends Longevity in Female C57BL/6 J Mice Provided with a High-Fat Western-Pattern Diet.",
+      "start": 38.4,
+      "end": 50.2,
+      "word_count": 25
+    },
+    {
+      "text": "This study explored the potential of grape consumption to modulate adverse effects caused by a high-fat Western-pattern diet.",
+      "start": 50.212,
+      "end": 57.862,
+      "word_count": 18
+    },
+    {
+      "text": "Female mice either consumed a standard diet, a grape-enriched diet at 5 percent, a high-fat diet, or a high-fat diet supplemented with 5 percent grape powder.",
+      "start": 57.875,
+      "end": 69.8,
+      "word_count": 26
+    },
+    {
+      "text": "In the standard group consuming grapes, researchers observed beneficial effects including enriched R N A mitochondria and improved metabolic pathways.",
+      "start": 70.662,
+      "end": 79.525,
+      "word_count": 20
+    },
+    {
+      "text": "In the high-fat diet plus grapes group, grapes also had a beneficial impact, modulating liver gene expression, preventing oxidative damage, inducing fatty acid metabolism, defending against non-alcoholic fatty liver disease, and increasing longevity.",
+      "start": 80.388,
+      "end": 96.5,
+      "word_count": 33
+    },
+    {
+      "text": "Addition of Grapes to Both a Standard and a High-Fat Western Pattern Diet Modifies Hepatic and Urinary Metabolite Profiles in the Mouse.",
+      "start": 97.375,
+      "end": 105.2,
+      "word_count": 22
+    },
+    {
+      "text": "Grape powder, human equivalent of 2 servings per day, was added to both a standard and a high-fat Western pattern diet given to 10-week-old female C57BL/6 J mice for a period of 91 days.",
+      "start": 106.075,
+      "end": 118.275,
+      "word_count": 34
+    },
+    {
+      "text": "Alterations in hepatic and urinary metabolite patterns were determined by gas chromatography-mass spectrometry-based metabolomics.",
+      "start": 118.287,
+      "end": 126.912,
+      "word_count": 14
+    },
+    {
+      "text": "Urinary excretion of various gut microbiota metabolites was altered when grapes were added to the standard diet.",
+      "start": 126.925,
+      "end": 134.613,
+      "word_count": 17
+    },
+    {
+      "text": "Increased hepatic ascorbic acid and 5-oxoproline levels indicated the antioxidant effect of grape powder on the liver.",
+      "start": 134.625,
+      "end": 142.762,
+      "word_count": 17
+    },
+    {
+      "text": "The authors conclude that a grape diet reprograms the gut microbiota metabolism, attenuates the hepatic oxidative stress of a high-fat diet, and increases the efficiency of glucose utilization by the liver for energy production.",
+      "start": 142.775,
+      "end": 156.8,
+      "word_count": 34
+    },
+    {
+      "text": "Freeze-Dried Grape Powder Attenuates Mitochondria- and Oxidative Stress-Mediated Apoptosis in Liver Cells.",
+      "start": 156.812,
+      "end": 164.225,
+      "word_count": 12
+    },
+    {
+      "text": "In this cell study, grape extract helped promote the healthy functioning of liver cells and protected liver cells from oxidative stress and cell death.",
+      "start": 164.238,
+      "end": 173.213,
+      "word_count": 24
+    },
+    {
+      "text": "Researchers found that grape extract helped promote liver cell viability, growth, and metabolic activity.",
+      "start": 173.225,
+      "end": 180.2,
+      "word_count": 14
+    },
+    {
+      "text": "Specifically, grapes positively influenced a critical cell communication pathway that regulates liver cell health.",
+      "start": 180.213,
+      "end": 187.75,
+      "word_count": 14
+    },
+    {
+      "text": "Additionally, grapes helped protect the cells against oxidative stress and mitochondrial injury. injury",
+      "start": 187.762,
+      "end": 194.588,
+      "word_count": 13
+    }
+  ],
+  "sentence_count": 20,
+  "word_count": 421,
+  "total_duration": 194.588,
+  "voice": "en-US-AriaNeural"
+}

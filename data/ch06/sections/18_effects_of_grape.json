@@ -1,0 +1,70 @@
+{
+  "id": "18_effects_of_grape",
+  "title": "Effects of Grape Seed Proanthocyanidins on Melanoma. Grape seed proanthocyanidins, a group of oligomeric flavonoids, have been evaluated for their effects against melanoma. In vitro studies have shown that these compounds inhibit the growth of human melanoma cells by reducing the expression of beta-catenin, a key protein involved in cell proliferation and survival. These phytochemicals also suppress the tumor promoter miRNA-106b, resulting in the inhibition of cell proliferation and G1-phase cell cycle arrest. In addition, dietary supplementation of grape seed proanthocyanidins has been shown to impede melanoma tumor growth in xenograft mouse models. Another study revealed that grape seed proanthocyanidins inhibited tumor growth in a xenograft model by inhibiting beta-catenin. Also, grape seed proanthocyanidins inhibited melanoma cell migration by suppressing C O X-2, blocking inflammation-mediated activation of beta-catenin and reducing the expression of matrix metalloproteinase-2, matrix metalloproteinase-9, and MITF, which are critical for melanoma metastasis. It was reported that grape seed proanthocyanidins containing hydrogel scaffolds can function as a natural photothermal agent for melanoma therapy and as a bioactive biomaterial for wound healing. Under near-infrared laser stimulation, the photothermal effect of grape seed proanthocyanidins containing hydrogel scaffolds effectively resulted in the apoptosis and necrosis of melanoma tumor cells in vitro. These data support the grape seed proanthocyanidins anti-melanoma potential; however, further detailed studies are required to determine their efficacy in preclinical and clinical settings.",
+  "sentences": [
+    {
+      "text": "Effects of Grape Seed Proanthocyanidins on Melanoma.",
+      "start": 0.1,
+      "end": 3.375,
+      "word_count": 7
+    },
+    {
+      "text": "Grape seed proanthocyanidins, a group of oligomeric flavonoids, have been evaluated for their effects against melanoma.",
+      "start": 4.237,
+      "end": 11.387,
+      "word_count": 16
+    },
+    {
+      "text": "In vitro studies have shown that these compounds inhibit the growth of human melanoma cells by reducing the expression of beta-catenin, a key protein involved in cell proliferation and survival.",
+      "start": 12.25,
+      "end": 23.075,
+      "word_count": 30
+    },
+    {
+      "text": "These phytochemicals also suppress the tumor promoter miRNA-106b, resulting in the inhibition of cell proliferation and G1-phase cell cycle arrest.",
+      "start": 23.938,
+      "end": 34.05,
+      "word_count": 20
+    },
+    {
+      "text": "In addition, dietary supplementation of grape seed proanthocyanidins has been shown to impede melanoma tumor growth in xenograft mouse models.",
+      "start": 34.913,
+      "end": 43.7,
+      "word_count": 20
+    },
+    {
+      "text": "Another study revealed that grape seed proanthocyanidins inhibited tumor growth in a xenograft model by inhibiting beta-catenin.",
+      "start": 44.562,
+      "end": 52.15,
+      "word_count": 17
+    },
+    {
+      "text": "Also, grape seed proanthocyanidins inhibited melanoma cell migration by suppressing C O X-2, blocking inflammation-mediated activation of beta-catenin and reducing the expression of matrix metalloproteinase-2, matrix metalloproteinase-9, and MITF, which are critical for melanoma metastasis.",
+      "start": 53.013,
+      "end": 72.525,
+      "word_count": 35
+    },
+    {
+      "text": "It was reported that grape seed proanthocyanidins containing hydrogel scaffolds can function as a natural photothermal agent for melanoma therapy and as a bioactive biomaterial for wound healing.",
+      "start": 73.4,
+      "end": 84.638,
+      "word_count": 28
+    },
+    {
+      "text": "Under near-infrared laser stimulation, the photothermal effect of grape seed proanthocyanidins containing hydrogel scaffolds effectively resulted in the apoptosis and necrosis of melanoma tumor cells in vitro.",
+      "start": 85.513,
+      "end": 98.088,
+      "word_count": 27
+    },
+    {
+      "text": "These data support the grape seed proanthocyanidins anti-melanoma potential; however, further detailed studies are required to determine their efficacy in preclinical and clinical settings.",
+      "start": 98.95,
+      "end": 110.175,
+      "word_count": 24
+    }
+  ],
+  "sentence_count": 10,
+  "word_count": 224,
+  "total_duration": 110.175,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "15_effects_of_grapes",
+  "title": "Effects of Grapes on Melanoma. Melanoma is one of the deadliest skin cancers caused by the hyperproliferation of pigment-producing cells called melanocytes. There are multiple types of melanomas, out of which cutaneous melanoma is the most prevalent. It is characterized by asymmetrical pigmented skin areas associated with genetic mutations or chronic exposure to ultraviolet radiation. Multiple driver gene mutations are involved in the development of melanoma. The most common mutations are found in BRAF and NRAS, which are key players in the M A P K signaling pathway. A significant fraction of melanomas also harbor mutations in CDNK2A, NF1, MIFT, RAC1, PPP6C, STK19, and PTEN, which are key components of pigmentation-related pathway, cell-cycle regulation, Akt pathway, epigenetic factors, and others. Although significant advancements have been made in the treatment and control of melanoma, drug resistance, relapse, and side effects are challenges to optimal cure, leaving room for further improvement. Plant-derived products such as taxanes are currently used in the management of cancer, and a myriad of phytochemicals are under investigation for their therapeutic potential.",
+  "sentences": [
+    {
+      "text": "Effects of Grapes on Melanoma.",
+      "start": 0.1,
+      "end": 1.95,
+      "word_count": 5
+    },
+    {
+      "text": "Melanoma is one of the deadliest skin cancers caused by the hyperproliferation of pigment-producing cells called melanocytes.",
+      "start": 2.825,
+      "end": 9.887,
+      "word_count": 17
+    },
+    {
+      "text": "There are multiple types of melanomas, out of which cutaneous melanoma is the most prevalent.",
+      "start": 10.75,
+      "end": 16.125,
+      "word_count": 15
+    },
+    {
+      "text": "It is characterized by asymmetrical pigmented skin areas associated with genetic mutations or chronic exposure to ultraviolet radiation.",
+      "start": 17.0,
+      "end": 25.387,
+      "word_count": 18
+    },
+    {
+      "text": "Multiple driver gene mutations are involved in the development of melanoma.",
+      "start": 26.25,
+      "end": 30.35,
+      "word_count": 11
+    },
+    {
+      "text": "The most common mutations are found in BRAF and NRAS, which are key players in the M A P K signaling pathway.",
+      "start": 31.212,
+      "end": 38.525,
+      "word_count": 22
+    },
+    {
+      "text": "A significant fraction of melanomas also harbor mutations in CDNK2A, NF1, MIFT, RAC1, PPP6C, STK19, and PTEN, which are key components of pigmentation-related pathway, cell-cycle regulation, Akt pathway, epigenetic factors, and others.",
+      "start": 39.4,
+      "end": 60.225,
+      "word_count": 32
+    },
+    {
+      "text": "Although significant advancements have been made in the treatment and control of melanoma, drug resistance, relapse, and side effects are challenges to optimal cure, leaving room for further improvement.",
+      "start": 61.1,
+      "end": 72.275,
+      "word_count": 29
+    },
+    {
+      "text": "Plant-derived products such as taxanes are currently used in the management of cancer, and a myriad of phytochemicals are under investigation for their therapeutic potential.",
+      "start": 73.15,
+      "end": 82.525,
+      "word_count": 25
+    },
+    {
+      "text": "Grape phytochemicals are shown to exhibit anticancer properties.",
+      "start": 83.388,
+      "end": 87.175,
+      "word_count": 8
+    },
+    {
+      "text": "A study showed that the grape pomace extracts from red wine grapes, Vitis vinifera, exhibited in vitro antioxidant effect that reduced inflammation-induced oxidative stress.",
+      "start": 88.037,
+      "end": 98.638,
+      "word_count": 24
+    },
+    {
+      "text": "It also impeded the proliferation of murine melanoma cells, and this activity was attributed to its high polyphenol content.",
+      "start": 99.5,
+      "end": 106.987,
+      "word_count": 19
+    },
+    {
+      "text": "Similarly, the methanol extract of a wild grape species, Vitis amurensis, also displayed an anti-melanogenic effect, significantly inhibiting tyrosinase activity, oxidative stress, and melanin production in murine melanoma cells primarily due to the active compound, betulinic acid.",
+      "start": 107.85,
+      "end": 126.312,
+      "word_count": 37
+    },
+    {
+      "text": "Additionally, grape seed extract and red wine have been shown to reduce pulmonary metastasis in mice inoculated with melanoma cells.",
+      "start": 127.188,
+      "end": 135.238,
+      "word_count": 20
+    },
+    {
+      "text": "Some of the major active compounds for these antiproliferative effects include resveratrol, piceatannol, catechin, anthocyanins, and proanthocyanidins, which are discussed below.",
+      "start": 136.1,
+      "end": 147.225,
+      "word_count": 21
+    }
+  ],
+  "sentence_count": 15,
+  "word_count": 303,
+  "total_duration": 147.225,
+  "voice": "en-US-AriaNeural"
+}

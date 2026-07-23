@@ -1,0 +1,70 @@
+{
+  "id": "2_introduction_the_skin",
+  "title": "Introduction. The skin, the largest organ of the human body, serves to protect the internal organs from external insults and has a substantial impact on the physical and psychological well-being of a person. Skin health is affected by multiple external and internal factors, which stimulate oxidative stress and redox-sensitive transcription and translation of inflammatory mediators. Oxidative stress and certain systemic conditions may result in a variety of skin disorders such as skin aging, atopic dermatitis, psoriasis, and skin cancer, to name a few. Diet may play a role in the regulation of inflammation and inflammation-related pathologies. In recent years, there has been increasing interest among researchers in identifying dietary phytochemicals, which can prevent or mitigate skin disorders. Over the last few decades, grape phytochemicals, such as resveratrol, piceatannol, proanthocyanidins, epicatechin 3-gallate, and other polyphenols, have been investigated for their antioxidant, anti-inflammatory, antiaging, anti-pigmentation and anticancer activities. These have been extensively studied for their beneficial effects on the prevention and treatment of skin conditions. This chapter provides a discussion on the ways in which oxidative stress can contribute to various skin disorders and the importance of dietary phytochemicals in managing these conditions. It also describes the various active components of grapes, their biological effects, and the evidence of their protective effects against inflammatory skin diseases as well as melanoma and non-melanoma skin cancers.",
+  "sentences": [
+    {
+      "text": "Introduction.",
+      "start": 0.1,
+      "end": 1.05,
+      "word_count": 1
+    },
+    {
+      "text": "The skin, the largest organ of the human body, serves to protect the internal organs from external insults and has a substantial impact on the physical and psychological well-being of a person.",
+      "start": 1.913,
+      "end": 12.738,
+      "word_count": 32
+    },
+    {
+      "text": "Skin health is affected by multiple external and internal factors, which stimulate oxidative stress and redox-sensitive transcription and translation of inflammatory mediators.",
+      "start": 13.6,
+      "end": 23.925,
+      "word_count": 22
+    },
+    {
+      "text": "Oxidative stress and certain systemic conditions may result in a variety of skin disorders such as skin aging, atopic dermatitis, psoriasis, and skin cancer, to name a few.",
+      "start": 24.8,
+      "end": 35.625,
+      "word_count": 28
+    },
+    {
+      "text": "Diet may play a role in the regulation of inflammation and inflammation-related pathologies.",
+      "start": 36.5,
+      "end": 41.763,
+      "word_count": 13
+    },
+    {
+      "text": "In recent years, there has been increasing interest among researchers in identifying dietary phytochemicals, which can prevent or mitigate skin disorders.",
+      "start": 42.638,
+      "end": 51.6,
+      "word_count": 21
+    },
+    {
+      "text": "Over the last few decades, grape phytochemicals, such as resveratrol, piceatannol, proanthocyanidins, epicatechin 3-gallate, and other polyphenols, have been investigated for their antioxidant, anti-inflammatory, antiaging, anti-pigmentation and anticancer activities.",
+      "start": 52.475,
+      "end": 70.325,
+      "word_count": 29
+    },
+    {
+      "text": "These have been extensively studied for their beneficial effects on the prevention and treatment of skin conditions.",
+      "start": 71.188,
+      "end": 76.838,
+      "word_count": 17
+    },
+    {
+      "text": "This chapter provides a discussion on the ways in which oxidative stress can contribute to various skin disorders and the importance of dietary phytochemicals in managing these conditions.",
+      "start": 77.713,
+      "end": 87.662,
+      "word_count": 28
+    },
+    {
+      "text": "It also describes the various active components of grapes, their biological effects, and the evidence of their protective effects against inflammatory skin diseases as well as melanoma and non-melanoma skin cancers.",
+      "start": 88.537,
+      "end": 100.812,
+      "word_count": 31
+    }
+  ],
+  "sentence_count": 10,
+  "word_count": 222,
+  "total_duration": 100.812,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "ch08",
+  "title": "08 Grapes and Transcriptomics",
+  "total_sentences": 270,
+  "total_duration_s": 2916.5,
+  "total_terms": 419,
+  "total_sections": 17,
+  "sections": [
+    {
+      "id": "0_grapes_and_transcriptomics",
+      "title": "Grapes and Transcriptomics: Fueling the Nutrigenomics Era. Eun-Jung Park, Asim Dave, and John M. Pezzuto.",
+      "sentence_count": 2,
+      "word_count": 15,
+      "duration_s": 7.9,
+      "passage_audio_url": "chpt08_audio/0_grapes_and_transcriptomics/0_grapes_and_transcriptomics.mp3"
+    },
+    {
+      "id": "1_abstract_millions_of",
+      "title": "Abstract. Millions of tons of fresh table grapes are consumed by the general population each year, primarily as a snack, raising the question of whether there are any health benefits. Preclinical and clinical trials have indicated there are health benefits, either directly or indirectly, via prolongation of healthspan. The array of responses with seemingly independent conditions such as cardiovascular, neurological, and metabolic disorders is astonishing but suggests a commonality leading to amelioration. Issues such as oxidative stress and inflammation are often cited as generic causative problems, and modification of disease-specific targets and pathways is often investigated. Functioning through these particular mechanisms is certainly possible given the scores of phytochemicals found in grapes. However, a unifying mode of action seems more satisfying: a broad-based nutrigenomic response. In general, systemic responses may be actuated by modulation of the microbiome or metabolome, for example, but here we focus on the genome. Grapes have been shown in both animal models and humans to significantly modify gene expression in ways that can be understood as being consistent with disease prevention. These expression patterns vary from organ to organ, from person to person, and between males and females, yet in every case, the expression patterns differ before and after grape consumption. This suggests a commonality: a resetting of homeostasis. We know that consumption of grapes is not harmful, we know that consumption leads to measurable phenotypic changes, and we know that clinical trials have indicated promising potential for ameliorating human ailments. It seems likely that such molecular and physiological alterations by grapes have consequences relevant to disease prevention. Although the gene expression changes as a downstream response resulting from transcriptional regulation are extraordinarily intricate and complicated, they are not insurmountable to study. With the available technology, we can unravel these processes. By understanding them, perhaps using grapes as a whole food prototype, we may gain a clearer understanding of how to improve and extend healthspan.",
+      "sentence_count": 16,
+      "word_count": 319,
+      "duration_s": 139.1,
+      "passage_audio_url": "chpt08_audio/1_abstract_millions_of/1_abstract_millions_of.mp3"
+    },
+    {
+      "id": "2_diet_and_health",
+      "title": "Diet and Health, Longevity, and Health Span. Many studies on food and health focus on strategies for extending lifespan, including caloric restriction, low-fat diets, veganism, and the Mediterranean diet. Historically, the pursuit of longevity, reminiscent of Emperor Qin Shi Huang's quest for the elixir of life, has evolved into a modern emphasis on health span: the period of life spent in good health. It may be speculated that some molecular interventions, involving select targets such as sirtuins or telomeres, advancements in omics technologies, including genomics, transcriptomics, and proteomics, gene therapies, or application of A I-driven platforms, may be brought to bear for the extension of lifespan. Time will tell, but presently, dietary modifications remain a practical and effective approach for promoting long-term health.",
+      "sentence_count": 29,
+      "word_count": 662,
+      "duration_s": 297.8,
+      "passage_audio_url": "chpt08_audio/2_diet_and_health/2_diet_and_health.mp3"
+    },
+    {
+      "id": "3_grapes_as_a",
+      "title": "Grapes as a Dietary Component. Grapes have profoundly influenced human civilization, impacting agriculture and culture over thousands of years. Traces of grape seeds, stalks, and skins have been found in Neolithic vessels from sites in China and the Middle East, roughly 6000 to 10,000 years ago. A recent genetic analysis of cultivated and wild grape varieties reveals that domestication occurred concurrently in multiple regions including Western Asia and the Caucasus. The domesticated grapevine, Vitis vinifera subspecies vinifera, has been integral not only as a food source but also as the foundation of winemaking. Early farmers selected grapevines for traits such as sweetness and resilience. Then, human migration facilitated cultural exchanges that led to widespread cultivation and the development of diverse varieties, especially in regions like Italy. Over time, selective breeding further enhanced grapevines' flavor, aroma, and adaptability.",
+      "sentence_count": 23,
+      "word_count": 420,
+      "duration_s": 178.6,
+      "passage_audio_url": "chpt08_audio/3_grapes_as_a/3_grapes_as_a.mp3"
+    },
+    {
+      "id": "4_targeted_actions_mediated",
+      "title": "Targeted Actions Mediated by Grapes. Supposedly, the word superfood entered the American lexicon in the early twentieth century. It has since been applied to hundreds of foods, generally perceived as a nutrient-rich food that is considered to be beneficial for health and well-being. The term is not recognized by the F D A, and the headline of the American Heart Association dealing with this topic states \"So-called superfoods alone won't make you healthier, but adding these nutritious foods to an already balanced diet can bring health benefits.\"",
+      "sentence_count": 18,
+      "word_count": 395,
+      "duration_s": 162.2,
+      "passage_audio_url": "chpt08_audio/4_targeted_actions_mediated/4_targeted_actions_mediated.mp3"
+    },
+    {
+      "id": "5_modulation_of_targeted",
+      "title": "Modulation of Targeted Gene Expression by Grapes. The consumption of fruits and vegetables has long been known to modulate the expression of specific genes capable of reducing the risk of disease. Some generic examples include proinflammatory genes, such as I C A M 1, I L 1 R 1, I L 6, T N F-alpha, and N F-kappa B; p53; P T E N; and detoxification genes, including phase one cytochrome P450 enzymes, phase two conjugation enzymes, Nrf2 signaling, and metallothionein. Some interactions with medications that result from the consumption of fruits and vegetables are also well-known, as exemplified by grapefruit. More recently, the broader impact of diet on mammalian homeostasis has been recognized. In regard to grapes, and in some cases grape products or phytochemicals associated with grapes, there are numerous examples of modulation of gene expression presented throughout this monograph. In humans, laboratory animals, or in vitro studies, grapes have been shown to modulate genes relevant to atherosclerosis, for example, glutathione peroxidase, serum adiponectin, superoxide dismutase, catalase, T N F-alpha, I L-6, M C P-1, I L-10, A M P K activation, the P P A R gamma, L X R-alpha, A B C A 1 pathway, N F-kappa B, hypoxia inducible factor; gastrointestinal health, for example, N F-kappa B activation, toll-like receptors, I L-18, I L-1 beta, I L-6, and T N F-alpha, M M P-2, M M P-9, claudins, occludin, Zonula-1, myosin I X B, protein tyrosine phosphatase, mucin-2, Toll-like receptor-2 and -4, diamine oxidase, superoxide dismutase, catalase; vision, for example, pro-inflammatory genes, Nrf2 pathway, antioxidant enzymes, X-linked inhibitor of apoptosis protein; brain, for example, superoxide dismutase, catalase, peroxidase, brain-derived neurotrophic factor, nerve growth factor, Ca M K two, markers of microglial activation, a marker of astrocyte activation; metabolic syndrome, for example, high-mobility group A1 protein, endothelial nitric oxide synthase, T N F-alpha, I L-1 beta, I L-6, N F-kappa B, C O X-2, i N O S, lipoxygenase, I L-10, glutathione peroxidase, mesenteric white adipose tissue, adiponectin, N O X 2, D J-1 and M E K K 1 and J N K pathways, extracellular-space acting genes, C C L 3, transcriptional repressor L R R F I P-1, miR-21, miR-181b, miR-663, miR-30c2, miR-155, and miR-34a; and skin, for example, P P A R gamma, C O X, e N O S, Nrf2 and P I 3 K and Akt pathways, phospholipase A2, N F-kappa B, T N F-beta, T N F-alpha, I L-6, I L-8, M I P-1 alpha, M A P K, A P-1, M I T F, D C T, T Y R P 1, T Y R P 2, Nrf2 and A R E pathway, tumor promoter miRNA-106b, P C N A, Ki67, B C L 2, M M P-2, M M P-9, miR-136-5p, P R A F 2, I L-4, I L-5, I F N gamma, C X C L 1, C X C L 10, C C L 2, C C L 3, C C L 4 and C X C L 2, beta-catenin, V E G F A, E G F R, I L-1 beta, P I 3 K and Akt and J A K and S T A T pathways, H M G B 1, R A G E, V E G F, M M P-1, tyrosinase, collagen III alpha 1, hemoxygenase-1. A summary of some genes and or pathways modulated by grapes that are associated with various conditions is presented.",
+      "sentence_count": 14,
+      "word_count": 707,
+      "duration_s": 322.8,
+      "passage_audio_url": "chpt08_audio/5_modulation_of_targeted/5_modulation_of_targeted.mp3"
+    },
+    {
+      "id": "6_nutrigenomics_the_term",
+      "title": "Nutrigenomics. The term nutrigenomics was first introduced publicly around the turn of the current century: \"Nutrigenomics is the understanding of the effects of nutrients in molecular level processes in the body as well as the variable effects of nutrients and nonnutritive dietary phytochemicals have on each individual person.\" Over the years, along with the science, in addition to the broad term of nutrigenomics, how nutrients affect gene expression and molecular mechanisms, the lexicon is expanding to include terms such as nutriomes, nutrient combinations; nutrigenetics, how genetic variations influence individual responses to nutrients; nutriepigenetic, nutrient effects through epigenetic modifications; and the generic term nutritional genomics has come into play. The interplay and application of nutritional genomics to human disease states is widespread, for example, cardiovascular disease, metabolic disorders, cancer, circulatory system diseases, and obesity.",
+      "sentence_count": 7,
+      "word_count": 201,
+      "duration_s": 89.8,
+      "passage_audio_url": "chpt08_audio/6_nutrigenomics_the_term/6_nutrigenomics_the_term.mp3"
+    },
+    {
+      "id": "7_nutrigenomics_effects_of",
+      "title": "Nutrigenomics Effects of Fruits and Vegetables. On a fluctuating basis, dietary variations may lead to nutrigenomic responses. For example, dietary sugars, fats, and amino acids may control gene expression through carbohydrate-responsive element binding protein, peroxisome proliferator-activated receptors, and G C N 2 and activating transcription factor 4 and m T O R C 1 pathways, respectively. Homeostasis may be maintained by such systems, but sustained alterations may lead to conditions such as obesity, insulin resistance, type 2 diabetes, cardiovascular diseases, or cancer.",
+      "sentence_count": 14,
+      "word_count": 378,
+      "duration_s": 162.1,
+      "passage_audio_url": "chpt08_audio/7_nutrigenomics_effects_of/7_nutrigenomics_effects_of.mp3"
+    },
+    {
+      "id": "8_transcriptomic_effects_mediated",
+      "title": "Transcriptomic Effects Mediated by Grapes with Animal Models. While in vitro models are of value for studying dietary metabolites under controlled conditions, comprehensive in vivo investigations are necessary for understanding systemic interactions. For untargeted nutrigenomic studies, mice serve as a suitable model due, in part, to their extensive genomic characterization. As described below, we have investigated the potential of oral grape consumption to alter phenotypic expression patterns with mouse models, under a variety of experimental conditions. We have investigated a variety of tissues with males and females. We have taken care to use carefully controlled diets such that phenotypic changes can be attributed to the phytochemical constituents of grapes. Additionally, the quantity of grapes consumed by the mice was managed to correlate with a human consumption rate of one to two servings per day.",
+      "sentence_count": 23,
+      "word_count": 509,
+      "duration_s": 244.3,
+      "passage_audio_url": "chpt08_audio/8_transcriptomic_effects_mediated/8_transcriptomic_effects_mediated.mp3"
+    },
+    {
+      "id": "9_effect_of_grapes",
+      "title": "Effect of Grapes on Brain. Supplementing a high-fat diet with 1 percent grape powder was found to reduce high-fat diet-induced anxiety-like behaviors. Genetic expression analysis in the brain revealed distinct differences among diet groups, with 210, 360, and 221 uniquely expressed genes in the standard diet, high-fat diet, and high-fat diet plus 1 percent grape groups, respectively. Cluster analysis showed that the high-fat diet plus 1 percent grape group's gene expression profile was more similar to the standard diet group than the high-fat diet group, suggesting a partial reversal of high-fat diet-induced changes. These findings indicate that dietary grape consumption can benefit behavior and cognition, counteracting the negative impact of a high-fat diet. The observed improvements are associated with widespread transcriptional changes in the brain, highlighting the potential of grapes in modulating neurobiological responses to dietary stressors.",
+      "sentence_count": 6,
+      "word_count": 134,
+      "duration_s": 62.0,
+      "passage_audio_url": "chpt08_audio/9_effect_of_grapes/9_effect_of_grapes.mp3"
+    },
+    {
+      "id": "10_effect_of_grapes",
+      "title": "Effect of Grapes on Skeletal Muscle. To investigate the effect of grapes on skeletal muscles, a mouse model was used to examine gene expression in males and females fed either a grape-enriched or a bland diet over 2.5 years. The results show sex-specific changes in gene expression within muscle tissue, with females exhibiting more pronounced alterations that trend toward a male-like phenotype. Up-regulation of genes such as Ahsg, Alb, Apoa1, and Arg1, together with down-regulation of Camp, Lcn2, and Irf4, suggested improved muscle function, a finding further supported by pathway analysis. A total of 25 differentially expressed genes associated with muscle health were identified, reinforcing the idea that long-term grape consumption may enhance muscle function. These findings suggest that grapes could have broader health benefits, particularly in modulating muscle physiology in a sex-dependent manner.",
+      "sentence_count": 6,
+      "word_count": 133,
+      "duration_s": 59.2,
+      "passage_audio_url": "chpt08_audio/10_effect_of_grapes/10_effect_of_grapes.mp3"
+    },
+    {
+      "id": "11_effect_of_grapes",
+      "title": "Effect of Grapes on Kidney. In the kidneys, the long-term addition of grapes to the diet showed protective effects, indicated by a reduction in B U N and creatinine ratios, which dropped from 125 to 63.7 in males and 152 to 40.4 in females. Histological results suggested that this improvement may be due to enhanced renal perfusion. Further, R N A sequencing analysis of the tissue revealed the up-regulation of 21 genes in males and 109 genes in females, with a corresponding downregulation of 108 and 65 genes, respectively. The negative shift in F P K M values of genes, such as alox5, btk, fga, fpr1, hmox1, lox, ltf, lyve1, marco, mmp8, prg4, s100a8 and 9, serpina3n, and vsig4 in males, and the positive shift of genes, such as camp, cd300lf, cd72, fcgr4, fgr, fpr2, htra4, il10, lilrb4b, lipg, pilra, and tlr8 in females, suggest beneficial kidney effects. Additionally, immune-related gene expression was down-regulated in males and up-regulated in females, further illustrating sex-specific responses. Pathway analyses showed enrichment in immune function, collagen degradation, extracellular matrix regulation, metabolism of vitamins and cofactors, pancreatic secretion, aging, and mitochondrial function in both sexes. Grapes provide resilience against fibrosis and related pathologies and protect renal health.",
+      "sentence_count": 8,
+      "word_count": 202,
+      "duration_s": 107.6,
+      "passage_audio_url": "chpt08_audio/11_effect_of_grapes/11_effect_of_grapes.mp3"
+    },
+    {
+      "id": "12_multiorgan_effects_of",
+      "title": "Multiorgan Effects of Grapes. Employing female mice, long-term supplementation with a semi-synthetic diet equivalent to the human consumption of 2.5 servings of grapes per day for 12 months led to significant gene expression changes across multiple organs, including the liver, kidney, colon, and ovary. Analysis of differentially expressed genes indicated that grape consumption may enhance metabolic detoxification and regulate reactive oxygen species in the liver, support cellular metabolism, and promote anti-inflammatory activity in the ovary and kidney. In the colon, the data suggested a role in suppressing mitochondrial dysfunction, reducing inflammation, and maintaining homeostasis. Pathway analysis revealed a combination of up- and down-regulation across tissues, with gene expression predominantly up-regulated in the kidney and down-regulated in the ovary. These findings suggest that grape consumption broadly influences gene expression throughout the body, potentially contributing to the diverse physiological benefits observed in tissues such as the brain, heart, eye, bladder, and colon.",
+      "sentence_count": 16,
+      "word_count": 339,
+      "duration_s": 150.2,
+      "passage_audio_url": "chpt08_audio/12_multiorgan_effects_of/12_multiorgan_effects_of.mp3"
+    },
+    {
+      "id": "13_effects_of_grapes",
+      "title": "Effects of Grapes on Gene Expression in Male and Female Liver. In males, G O term biological process-related pathways showed enrichment of circadian rhythm, rhythmic processes, circadian behavior, and steroid metabolic process. In contrast, immune-related pathways such as adaptive immune response, granulocyte migration, positive regulation of immune response, cell activation involved in immune response, and immune response-activating signal transduction were down-regulated compared to the standard male diet. This suggests that the grape diet may regulate immune responses while promoting metabolic functions in the liver. In females, the G O term biologic process showed enrichment in immune-related pathways such as leukocyte migration, T cell proliferation, lymphocyte proliferation, mononuclear cell proliferation, leukocyte proliferation, positive regulation of T cell proliferation, together with pathways involved in metal ion homeostasis, ankyrin binding, tetrapyrrole biosynthesis and metabolism, erythrocyte development, porphyrin-containing compound metabolism, exogenous drug catabolism, and cell surface interactions at the vascular wall. These pathways are essential for maintaining liver homeostasis and highlight various mechanisms through which the grape diet enhances liver physiology.",
+      "sentence_count": 9,
+      "word_count": 227,
+      "duration_s": 110.9,
+      "passage_audio_url": "chpt08_audio/13_effects_of_grapes/13_effects_of_grapes.mp3"
+    },
+    {
+      "id": "14_effects_of_grapes",
+      "title": "Effects of Grapes on Gene Expression in Male and Female Colon. In the colon, the grape diet affects gene expression in both sexes with greater uniformity, primarily influencing digestion, absorption, and metabolic processes. In males, the G O term biological process showed enrichment of digestion and absorption, fatty acid binding, quaternary ammonium group binding, metallocarboxypeptidase, and carboxypeptidase activity, multicellular organismal water homeostasis, lipid digestion, epidermis development, and zymogen granule formation. In females, indicated by G O term biological process, the same pathways were enriched, together with additional pathways linked to lipase activity, carboxylic ester hydrolase activity, and antimicrobial humoral response. Reactome analyses indicated pathways such as Cobalamin transport and metabolism, digestion and absorption, and digestion of dietary carbohydrate present in both males and females. As with the liver, a comparison of all four groups revealed that the majority of genes were expressed similarly, but each of the four groups also demonstrated unique expression as well, indicating differences between males and females, with and without grape supplementation. Also, as with the liver, when comparing the respective male and female groups, differential expression patterns were observed when the diets were supplemented with grapes. These results highlight the role of nutrigenomics in shaping dietary influences on gene expression and sex-specific physiological responses. While further research is needed to confirm these effects in humans, this study shows the potential of dietary interventions in modulating gene expression, promoting tissue health, and mitigating age-related functional decline.",
+      "sentence_count": 9,
+      "word_count": 240,
+      "duration_s": 113.6,
+      "passage_audio_url": "chpt08_audio/14_effects_of_grapes/14_effects_of_grapes.mp3"
+    },
+    {
+      "id": "15_nutrigenomic_effects_in",
+      "title": "Nutrigenomic Effects in Humans and Primates. In the current volume, chapters are included that describe the influence of grape consumption on the human microbiome as well as the human metabolome. In this section, we present information related to grapes and human nutrigenomics. It is now apparent that all of the subject areas, and more, are interrelated and need to be intertwined in a holistic manner in order to approach a realistic understanding of the human megaverse. Unfortunately, this is beyond our scope, but given this proposition, it is worth noting some examples of how diet influences the metabolome.",
+      "sentence_count": 48,
+      "word_count": 1118,
+      "duration_s": 511.1,
+      "passage_audio_url": "chpt08_audio/15_nutrigenomic_effects_in/15_nutrigenomic_effects_in.mp3"
+    },
+    {
+      "id": "16_future_directions_until",
+      "title": "Future Directions. Until a time when human organs can readily be replaced with completely functional facsimiles, the current focus on healthspan, healthy living within lifespan, seems more reasonable than focusing on extending maximal life expectancy. Advancing precision nutrition and optimizing dietary interventions can certainly have an influence on healthspan.",
+      "sentence_count": 22,
+      "word_count": 488,
+      "duration_s": 197.2,
+      "passage_audio_url": "chpt08_audio/16_future_directions_until/16_future_directions_until.mp3"
+    }
+  ]
+}

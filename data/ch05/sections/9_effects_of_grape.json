@@ -1,0 +1,70 @@
+{
+  "id": "9_effects_of_grape",
+  "title": "Effects of Grape Polyphenols on Celiac Disease. Celiac disease, which affects 1 to 2 percent of the general population with increased prevalence in recent years, is an autoimmune inflammatory condition of the small intestine that is caused by the ingestion of gluten proteins in genetically susceptible individuals. Celiac disease is associated with a damaged small intestine and dysfunction in absorbing nutrients from food. Although the symptoms of celiac disease, including villous atrophy, can be alleviated by gluten-free diets, this dietary regimen can be highly restrictive and sometimes difficult to maintain. For this reason, it is important to develop new therapies capable of mitigating and controlling the disease.",
+  "sentences": [
+    {
+      "text": "Effects of Grape Polyphenols on Celiac Disease.",
+      "start": 0.1,
+      "end": 2.987,
+      "word_count": 7
+    },
+    {
+      "text": "Celiac disease, which affects 1 to 2 percent of the general population with increased prevalence in recent years, is an autoimmune inflammatory condition of the small intestine that is caused by the ingestion of gluten proteins in genetically susceptible individuals.",
+      "start": 3.85,
+      "end": 20.325,
+      "word_count": 40
+    },
+    {
+      "text": "Celiac disease is associated with a damaged small intestine and dysfunction in absorbing nutrients from food.",
+      "start": 20.337,
+      "end": 27.038,
+      "word_count": 16
+    },
+    {
+      "text": "Although the symptoms of celiac disease, including villous atrophy, can be alleviated by gluten-free diets, this dietary regimen can be highly restrictive and sometimes difficult to maintain.",
+      "start": 27.05,
+      "end": 38.825,
+      "word_count": 27
+    },
+    {
+      "text": "For this reason, it is important to develop new therapies capable of mitigating and controlling the disease.",
+      "start": 38.837,
+      "end": 45.45,
+      "word_count": 17
+    },
+    {
+      "text": "In this regard, emerging research revealed promising celiac disease mitigating effects by polyphenols.",
+      "start": 45.462,
+      "end": 53.1,
+      "word_count": 13
+    },
+    {
+      "text": "Specifically, researchers reported that polyphenol-rich extracts from green tea leaves or the seeds of a common grape vine attenuated small intestinal architectural changes, such as villus flattening, crypt hyperplasia, and intraepithelial lymphocyte infiltration in a murine celiac disease model where gliadin, a protein in wheat and a key component of wheat gluten, was used to trigger celiac disease in transgenic DQ8 mice.",
+      "start": 53.375,
+      "end": 78.888,
+      "word_count": 62
+    },
+    {
+      "text": "In the same study, polyphenol extracts also increased antioxidant glutathione and mitigated the elevation of intraepithelial lymphocytes.",
+      "start": 78.9,
+      "end": 88.4,
+      "word_count": 17
+    },
+    {
+      "text": "In addition, researchers observed that resveratrol could alleviate the clinical symptoms of celiac disease and oxidative stress in mice with intestinal inflammation that was costimulated by gliadin, alpha-amylase and trypsin inhibitors, and polyinosinic plus polycytidylic acid.",
+      "start": 88.412,
+      "end": 106.0,
+      "word_count": 36
+    },
+    {
+      "text": "These emerging observations suggest that polyphenols from grapes are promising for mitigating celiac disease and are potentially useful as adjuvant therapies to manage this disease.",
+      "start": 106.013,
+      "end": 115.662,
+      "word_count": 24
+    }
+  ],
+  "sentence_count": 10,
+  "word_count": 259,
+  "total_duration": 115.662,
+  "voice": "en-US-AriaNeural"
+}

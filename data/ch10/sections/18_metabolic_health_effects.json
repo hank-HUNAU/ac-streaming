@@ -1,0 +1,106 @@
+{
+  "id": "18_metabolic_health_effects",
+  "title": "Metabolic Health. Effects of Freeze-Dried Grape Powder on High-Density Lipoprotein Function in Adults with Metabolic Syndrome. This study evaluated the effects of grape consumption on measures of high-density lipoprotein function in adults with metabolic syndrome. Twenty overweight adults consumed grape powder or placebo for 4 weeks each. Although grape consumption did not affect H D L function in this study, grapes did improve fasting triglycerides, a risk factor for cardiovascular disease.",
+  "sentences": [
+    {
+      "text": "Metabolic Health.",
+      "start": 0.1,
+      "end": 1.262,
+      "word_count": 2
+    },
+    {
+      "text": "Effects of Freeze-Dried Grape Powder on High-Density Lipoprotein Function in Adults with Metabolic Syndrome.",
+      "start": 2.138,
+      "end": 8.15,
+      "word_count": 14
+    },
+    {
+      "text": "This study evaluated the effects of grape consumption on measures of high-density lipoprotein function in adults with metabolic syndrome.",
+      "start": 9.025,
+      "end": 16.538,
+      "word_count": 19
+    },
+    {
+      "text": "Twenty overweight adults consumed grape powder or placebo for 4 weeks each.",
+      "start": 17.413,
+      "end": 22.012,
+      "word_count": 12
+    },
+    {
+      "text": "Although grape consumption did not affect H D L function in this study, grapes did improve fasting triglycerides, a risk factor for cardiovascular disease.",
+      "start": 22.875,
+      "end": 32.112,
+      "word_count": 24
+    },
+    {
+      "text": "Grape Powder Attenuates the Negative Effects of G L P-1 Receptor Antagonism by Exendin-3 in a Normoglycemic Mouse Model.",
+      "start": 32.975,
+      "end": 40.875,
+      "word_count": 19
+    },
+    {
+      "text": "This study explored the effects of grape powder consumption on metrics of glycemic health in normoglycemic and prediabetic mice.",
+      "start": 41.737,
+      "end": 49.025,
+      "word_count": 19
+    },
+    {
+      "text": "Consuming grape powder significantly reduced blood glucose levels following oral glucose intake after G L P-1 receptor antagonism by exendin-3 compared to a sugar match control, indicating that it was able to attenuate the hyperglycemic effects of G L P-1 receptor antagonism.",
+      "start": 49.9,
+      "end": 67.362,
+      "word_count": 42
+    },
+    {
+      "text": "Grapes incorporated into acute and long-term high fat treatment diets did not improve glycemic control versus a placebo, suggesting that more study is warranted.",
+      "start": 68.237,
+      "end": 77.513,
+      "word_count": 24
+    },
+    {
+      "text": "Differential Effects of Grape Powder and Its Extract on Glucose Tolerance and Chronic Inflammation in High-Fat-Fed Obese Mice.",
+      "start": 78.375,
+      "end": 85.662,
+      "word_count": 18
+    },
+    {
+      "text": "This study examined the anti-inflammatory properties of grape powder and grape powder extract as well as their impact on glucose tolerance in high-fat fed obese animals.",
+      "start": 86.537,
+      "end": 96.237,
+      "word_count": 26
+    },
+    {
+      "text": "The grape powder diet improved glucose tolerance at five weeks but not beyond and decreased markers of inflammation in both serum and adipose tissue at 18 weeks.",
+      "start": 97.1,
+      "end": 106.588,
+      "word_count": 27
+    },
+    {
+      "text": "Quercetin showed anti-inflammatory effects on human fat cells.",
+      "start": 107.45,
+      "end": 111.287,
+      "word_count": 8
+    },
+    {
+      "text": "The grape extract had no impact on glucose tolerance at any time point.",
+      "start": 112.15,
+      "end": 116.487,
+      "word_count": 13
+    },
+    {
+      "text": "Diets Rich in Polyphenols and Vitamin A Inhibit the Development of Type 1 Autoimmune Diabetes in Nonobese Diabetic Mice.",
+      "start": 117.35,
+      "end": 124.85,
+      "word_count": 19
+    },
+    {
+      "text": "In this study, a grape-enriched diet protected against the destruction of insulin-producing cells in the pancreas, reduced levels of inflammation in the spleen, and increased antioxidant capacity in non-obese, diabetic animals.",
+      "start": 125.725,
+      "end": 139.387,
+      "word_count": 31
+    }
+  ],
+  "sentence_count": 16,
+  "word_count": 317,
+  "total_duration": 139.387,
+  "voice": "en-US-AriaNeural"
+}

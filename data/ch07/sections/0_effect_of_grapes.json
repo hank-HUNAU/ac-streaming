@@ -1,0 +1,22 @@
+{
+  "id": "0_effect_of_grapes",
+  "title": "Effect of Grapes and Grape Constituents on UV-Induced Skin Damage in Humans. Dana-Lynn T. Koomoa, Sumi Piya, John M. Pezzuto, and Ingo Lange.",
+  "sentences": [
+    {
+      "text": "Effect of Grapes and Grape Constituents on UV-Induced Skin Damage in Humans.",
+      "start": 0.1,
+      "end": 4.5,
+      "word_count": 12
+    },
+    {
+      "text": "Dana-Lynn T. Koomoa, Sumi Piya, John M. Pezzuto, and Ingo Lange.",
+      "start": 5.375,
+      "end": 10.05,
+      "word_count": 11
+    }
+  ],
+  "sentence_count": 2,
+  "word_count": 23,
+  "total_duration": 10.05,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,244 @@
+{
+  "id": "12_biological_properties_of",
+  "title": "Biological Properties of Grapes. Grape constituents have been shown to have outstanding antioxidant properties, both in vitro and in vivo. Grapes are known to enhance cellular antioxidant defenses, particularly through polyphenolic compounds that influence redox signaling pathways. For example, a study has shown that 13 Spanish red and white grape varieties exhibit antioxidant potential, depending on the part of the grape used, such as the pulp, peel, or seeds. This was attributed to the varied amount of total phenolic content in different grape parts. Researchers have utilized various in vitro methodologies to measure the antioxidant capabilities of grapes, revealing a significant capacity determined by D P P H, A B T S, F R A P methods, and the beta-carotene and linoleic acid auto-oxidation assay. Among different mechanisms, proanthocyanidins contribute to the antioxidant activity of grapes mostly through modulating the relevant signaling pathways, such as the Nrf2 and P I 3 K and Akt pathways, and boosting the activity of endogenous antioxidant enzymes. Resveratrol exerts its antioxidant effect by scavenging hydroxyl radicals, nitric oxide, superoxide anion, and peroxynitrite and improves redox equilibrium by activating the Nrf2 pathway, which upregulates the endogenous antioxidant pathways.",
+  "sentences": [
+    {
+      "text": "Biological Properties of Grapes.",
+      "start": 0.1,
+      "end": 2.125,
+      "word_count": 4
+    },
+    {
+      "text": "Grape constituents have been shown to have outstanding antioxidant properties, both in vitro and in vivo.",
+      "start": 2.987,
+      "end": 9.125,
+      "word_count": 16
+    },
+    {
+      "text": "Grapes are known to enhance cellular antioxidant defenses, particularly through polyphenolic compounds that influence redox signaling pathways.",
+      "start": 10.0,
+      "end": 18.712,
+      "word_count": 17
+    },
+    {
+      "text": "For example, a study has shown that 13 Spanish red and white grape varieties exhibit antioxidant potential, depending on the part of the grape used, such as the pulp, peel, or seeds.",
+      "start": 19.575,
+      "end": 30.825,
+      "word_count": 32
+    },
+    {
+      "text": "This was attributed to the varied amount of total phenolic content in different grape parts.",
+      "start": 31.688,
+      "end": 36.5,
+      "word_count": 15
+    },
+    {
+      "text": "Researchers have utilized various in vitro methodologies to measure the antioxidant capabilities of grapes, revealing a significant capacity determined by D P P H, A B T S, F R A P methods, and the beta-carotene and linoleic acid auto-oxidation assay.",
+      "start": 37.375,
+      "end": 54.312,
+      "word_count": 41
+    },
+    {
+      "text": "Among different mechanisms, proanthocyanidins contribute to the antioxidant activity of grapes mostly through modulating the relevant signaling pathways, such as the Nrf2 and P I 3 K and Akt pathways, and boosting the activity of endogenous antioxidant enzymes.",
+      "start": 55.188,
+      "end": 71.85,
+      "word_count": 38
+    },
+    {
+      "text": "Resveratrol exerts its antioxidant effect by scavenging hydroxyl radicals, nitric oxide, superoxide anion, and peroxynitrite and improves redox equilibrium by activating the Nrf2 pathway, which upregulates the endogenous antioxidant pathways.",
+      "start": 72.713,
+      "end": 89.55,
+      "word_count": 30
+    },
+    {
+      "text": "Further, grape polyphenols not only regulate oxidative stress but also modulate inflammatory redox signaling pathways.",
+      "start": 90.425,
+      "end": 98.025,
+      "word_count": 15
+    },
+    {
+      "text": "Skin diseases are often associated with an inflammatory cascade that is intimately tied to oxidative stress.",
+      "start": 98.9,
+      "end": 105.112,
+      "word_count": 16
+    },
+    {
+      "text": "The anti-inflammatory mechanisms of grape constituents are studied in different disease models besides skin diseases.",
+      "start": 105.975,
+      "end": 112.463,
+      "word_count": 15
+    },
+    {
+      "text": "Flavanols and procyanidins are shown to inhibit the release of pro-inflammatory cytokines and alter the associated signaling pathways, such as phospholipase A2, cyclooxygenase-2, N F-kappa B, and T N F-mediated inflammation.",
+      "start": 113.325,
+      "end": 128.338,
+      "word_count": 31
+    },
+    {
+      "text": "Whole grape powder has been shown to markedly reduce the symptoms of inflammatory arthritis in transgenic mice overexpressing T N F alpha and decreased human T N F-mediated inflammation.",
+      "start": 129.213,
+      "end": 140.575,
+      "word_count": 29
+    },
+    {
+      "text": "Similarly, grape peel powder was found to mitigate the inflammatory response by downregulating the N F-kappa B pathway and reduce the production of pro-inflammatory cytokines like T N F beta, T N F-alpha, and I L-6 and chemokines like I L-8 and macrophage inflammatory protein-1 alpha.",
+      "start": 141.438,
+      "end": 159.9,
+      "word_count": 46
+    },
+    {
+      "text": "The grape flavonoids quercetin, catechin, and epigallocatechin are shown to inhibit N F-kappa B, T N F alpha, I L-1 beta, I L-6, and I L-8 in mast cells, coronary endothelia cells, and skin cells, suggesting that these substances have a protective function against inflammation.",
+      "start": 160.775,
+      "end": 180.262,
+      "word_count": 45
+    },
+    {
+      "text": "In addition, grape stilbenes such as resveratrol suppress inflammation in acute pharyngitis, ear edema, carrageenan-induced synovitis, and neuroinflammation by suppressing N F-kappa B, T N F alpha, I L-6, M I P-2, and C O X-2 activity levels.",
+      "start": 181.137,
+      "end": 198.713,
+      "word_count": 38
+    },
+    {
+      "text": "In summary, numerous studies have demonstrated the anti-inflammatory properties of grape constituents.",
+      "start": 199.575,
+      "end": 205.562,
+      "word_count": 12
+    },
+    {
+      "text": "A reduction in the release of pro-inflammatory cytokines, such as T N F alpha, I L-6, and I L-1 beta, and the modulation of associated signaling pathways, including P P A R-gamma and C O X-2, M A P K, and N F-kappa B pathways, are some of the mechanisms by which grapes reduce inflammation.",
+      "start": 206.438,
+      "end": 227.425,
+      "word_count": 55
+    },
+    {
+      "text": "Antimicrobial Activity.",
+      "start": 228.287,
+      "end": 229.975,
+      "word_count": 2
+    },
+    {
+      "text": "The polyphenols in grapes have demonstrated antibacterial properties against Escherichia coli and Staphylococcus aureus, and their bactericidal effects were greater against Gram-positive bacteria than Gram-negative ones.",
+      "start": 230.838,
+      "end": 243.438,
+      "word_count": 26
+    },
+    {
+      "text": "It has recently been reported that two natural polyphenols, resveratrol and epigallocatechin-3-gallate, are useful in the treatment of inflammatory acne.",
+      "start": 244.3,
+      "end": 253.375,
+      "word_count": 20
+    },
+    {
+      "text": "Resveratrol was shown to inhibit the growth of Propionibacterium acnes, and its combination with benzoyl peroxide sustained bacterial growth inhibition.",
+      "start": 254.25,
+      "end": 263.312,
+      "word_count": 20
+    },
+    {
+      "text": "Grape muscadine skin extracts contain quercetin and resveratrol, both of which inhibit Helicobacter pylori.",
+      "start": 264.175,
+      "end": 270.837,
+      "word_count": 14
+    },
+    {
+      "text": "This action may be due to disruption of the bacterial cell wall or cell membrane.",
+      "start": 271.7,
+      "end": 276.075,
+      "word_count": 15
+    },
+    {
+      "text": "Resveratrol has been linked to antiviral, antifungal, and anti-polyomavirus properties.",
+      "start": 276.95,
+      "end": 283.969,
+      "word_count": 10
+    },
+    {
+      "text": "Moreover, studies have revealed significant antimicrobial activity across different growth stages of grape seeds.",
+      "start": 284.82,
+      "end": 291.657,
+      "word_count": 14
+    },
+    {
+      "text": "Notably, the immature seed fraction demonstrated the strongest antimicrobial activity, which was again attributed to the polyphenolic content of grape seeds.",
+      "start": 292.532,
+      "end": 301.832,
+      "word_count": 21
+    },
+    {
+      "text": "Wound Healing Activity.",
+      "start": 302.695,
+      "end": 304.12,
+      "word_count": 3
+    },
+    {
+      "text": "Wound healing requires the restoration of the functional barrier, which depends on the successful regeneration of new skin and contraction and closure of the wound.",
+      "start": 304.995,
+      "end": 314.019,
+      "word_count": 25
+    },
+    {
+      "text": "During the inflammatory stage of wound healing, phagocytic cells destroy invading pathogens and produce reactive oxygen species.",
+      "start": 314.882,
+      "end": 322.732,
+      "word_count": 17
+    },
+    {
+      "text": "However, excessive reactive oxygen species can limit the process of healing.",
+      "start": 323.594,
+      "end": 328.12,
+      "word_count": 11
+    },
+    {
+      "text": "The antioxidant and anti-inflammatory activities of grape phytochemicals protect the wounds from oxidative stress and limit chronic damage induced by inflammation.",
+      "start": 328.995,
+      "end": 338.432,
+      "word_count": 21
+    },
+    {
+      "text": "Nayak and colleagues showed that the topical application of grape seed proanthocyanidins supports wound healing.",
+      "start": 339.307,
+      "end": 345.482,
+      "word_count": 15
+    },
+    {
+      "text": "The authors used an excision wound model in rats and observed that grape skin powder significantly enhanced the rate of wound contraction and decreased the period of epithelialization and skin regeneration.",
+      "start": 346.357,
+      "end": 357.632,
+      "word_count": 31
+    },
+    {
+      "text": "It was due to the higher content of hydroxyproline, which is known for its wound healing properties.",
+      "start": 358.507,
+      "end": 363.995,
+      "word_count": 17
+    },
+    {
+      "text": "Another study reported that topical application of grape seed proanthocyanidins upregulate inducible vascular endothelial growth factor transcription in human keratinocytes, which is necessary to stimulate angiogenesis in wounds, thereby accelerating the healing process.",
+      "start": 364.857,
+      "end": 381.582,
+      "word_count": 33
+    },
+    {
+      "text": "Resveratrol has also demonstrated accelerated wound healing and improved angiogenesis.",
+      "start": 382.445,
+      "end": 388.045,
+      "word_count": 10
+    },
+    {
+      "text": "A study conducted by Lakshmanan and colleagues showed that topical application of resveratrol increased vascular endothelial growth factor and improved wound healing process in C57BL/6 mice.",
+      "start": 388.907,
+      "end": 400.519,
+      "word_count": 26
+    },
+    {
+      "text": "Similar results were obtained in another study, where resveratrol reduced the wound surface area in pigs in a dose-dependent manner. dose-dependent manner",
+      "start": 400.532,
+      "end": 409.582,
+      "word_count": 22
+    }
+  ],
+  "sentence_count": 39,
+  "word_count": 868,
+  "total_duration": 409.582,
+  "voice": "en-US-AriaNeural"
+}

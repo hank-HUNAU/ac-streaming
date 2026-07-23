@@ -1,0 +1,98 @@
+{
+  "id": "ch09",
+  "title": "09 Effects of Grape Consumption",
+  "total_sentences": 105,
+  "total_duration_s": 1230.4,
+  "total_terms": 212,
+  "total_sections": 11,
+  "sections": [
+    {
+      "id": "0_effects_of_grape",
+      "title": "Effects of Grape Consumption on the Human Metabolome. Richard B. van Breemen.",
+      "sentence_count": 2,
+      "word_count": 12,
+      "duration_s": 5.4,
+      "passage_audio_url": "chpt09_audio/0_effects_of_grape/0_effects_of_grape.mp3"
+    },
+    {
+      "id": "1_abstract_metabolomics_complements",
+      "title": "Abstract. Metabolomics complements genomics, proteomics, and transcriptomics by providing quantitative and qualitative data for a wide range of metabolites in cells, tissues, and biological fluids. By comparing the metabolomes of control groups with those receiving therapeutic interventions or with groups following a special diet, the global effects and benefits of therapeutic or dietary interventions may be assessed, and new biomarkers of disease risk or progress may be identified. With respect to dietary intervention with grapes, one human study has been reported that evaluated changes in the metabolomes of urine and plasma following consumption of whole grapes in the form of freeze-dried table grapes, and three human studies have been reported that used metabolomics to assess changes resulting from the consumption of extracts of grape juice or extracts of wine and grape juice together. Overall, these studies found that the levels of phenolic acids increased, while certain amino acid concentrations decreased, and these effects were correlated with beneficial changes in the gut metabolome. As expected, some compounds of grape origin were measured in the metabolome as well. Human metabolomics studies of the effects of grape consumption to date have focused on changes in phenolic acids and a few other polar metabolites in plasma and urine. Additional metabolomics studies are needed to address the benefits of grape consumption, and these future studies should assess changes in additional metabolite classes, especially lipids, which have so far been understudied.",
+      "sentence_count": 8,
+      "word_count": 235,
+      "duration_s": 95.3,
+      "passage_audio_url": "chpt09_audio/1_abstract_metabolomics_complements/1_abstract_metabolomics_complements.mp3"
+    },
+    {
+      "id": "2_introduction_metabolomics_applies",
+      "title": "Introduction. Metabolomics applies analytical chemistry techniques to the characterization of small molecular mass metabolites, typically less than 1500 Daltons, and their relative levels in cells, organs, tissues, or biofluids. The metabolome may be considered a complete profile of metabolites in a biological sample at a particular point in time and includes endogenous compounds, such as organic acids, amino acids, lipids, sugars, or short peptides that are produced through primary metabolism by enzymes encoded by the genome. The metabolome can also include exogenous compounds from the environment or diet, such as grape constituents. By focusing on small molecules, metabolomics uses a distinctly different approach than proteomics and genomics.",
+      "sentence_count": 11,
+      "word_count": 296,
+      "duration_s": 133.4,
+      "passage_audio_url": "chpt09_audio/2_introduction_metabolomics_applies/2_introduction_metabolomics_applies.mp3"
+    },
+    {
+      "id": "3_effects_of_grapes",
+      "title": "Effects of Grapes and Grape Extracts on the Human Urine Metabolome.",
+      "sentence_count": 1,
+      "word_count": 11,
+      "duration_s": 3.8,
+      "passage_audio_url": "chpt09_audio/3_effects_of_grapes/3_effects_of_grapes.mp3"
+    },
+    {
+      "id": "4_extracts_of_red",
+      "title": "Extracts of Red Wine and Grape Juice. Researchers used metabolomics to evaluate the impact of polyphenol-rich extracts of red wine and red grape juice on organic acid excretion in human urine. This placebo-controlled, double-crossover study included 58 participants, 33 men and 25 women, 18 to 70 years of age, who consumed a combination of red wine and grape juice extracts, only grape juice extract, or placebo, for 28 days. The daily dose of extract was standardized to 800 milligrams gallic acid equivalents per day as measured using the Folin-Ciocalteu assay. After each 28-day intervention, 24-hour urine samples were collected, and urinary phenolic acids were enzymatically hydrolyzed, chemically derivatized, and measured using gas chromatography-mass spectrometry. Limitations of the study included the absence of a washout period between intervention treatments and the use of enzymatic deconjugation of glucuronide metabolites prior to derivatization for gas chromatography-mass spectrometry analysis. The lack of a washout period between treatments might result in carryover of effect, and the use of deconjugation and derivatization might result in loss of analyte due to chemical degradation or incomplete derivatization.",
+      "sentence_count": 32,
+      "word_count": 908,
+      "duration_s": 422.5,
+      "passage_audio_url": "chpt09_audio/4_extracts_of_red/4_extracts_of_red.mp3"
+    },
+    {
+      "id": "5_whole_grape_powder",
+      "title": "Whole Grape Powder. In a metabolomics study involving intervention with whole grapes instead of extracts, another research group administered freeze-dried table grape powder equivalent to 3 servings of grapes per day for 14 days to 29 participants, 13 women and 16 men. Urine was collected for 24 hours immediately before intervention, after grape powder intervention, and following a 30-day washout period. A limitation of the study was the lack of a placebo group.",
+      "sentence_count": 24,
+      "word_count": 630,
+      "duration_s": 287.1,
+      "passage_audio_url": "chpt09_audio/5_whole_grape_powder/5_whole_grape_powder.mp3"
+    },
+    {
+      "id": "6_effects_of_grapes",
+      "title": "Effects of Grapes on the Human Plasma Metabolome.",
+      "sentence_count": 1,
+      "word_count": 8,
+      "duration_s": 3.0,
+      "passage_audio_url": "chpt09_audio/6_effects_of_grapes/6_effects_of_grapes.mp3"
+    },
+    {
+      "id": "7_extracts_of_red",
+      "title": "Extracts of Red Wine and Grape Juice. In addition to measuring changes in the urine metabolome, the second group also identified 12 metabolites in human plasma that changed as a result of consuming a mixture of extracts of red wine and grape juice for 5 days. The authors described the statistically most interesting metabolite changes to be reductions in tyrosine at minus 8 percent, sphingomyelin at minus 2 percent, and dehydroepiandrosterone sulfate at minus 12 percent. In addition, levels of threonine, lysine, and two lysophosphatidylcholines decreased but by no more than 5 percent. The authors noted that levels of the plasma amino acid tyrosine decreased, while its corresponding gut microbial metabolite, p-cresol sulfate, also decreased in urine.",
+      "sentence_count": 5,
+      "word_count": 112,
+      "duration_s": 48.8,
+      "passage_audio_url": "chpt09_audio/7_extracts_of_red/7_extracts_of_red.mp3"
+    },
+    {
+      "id": "8_whole_grape_powder",
+      "title": "Whole Grape Powder. In addition to studying changes in the urine metabolome and the gut microbiome due to consuming freeze-dried grape powder for 28 days, the whole grape powder study also reported some changes in the plasma metabolome. They identified two plasma metabolites that were significantly altered due to the grape diet. Stearic acid was elevated by 10 percent, while beta-D-glucuronic acid was decreased by 17 percent.",
+      "sentence_count": 4,
+      "word_count": 64,
+      "duration_s": 27.6,
+      "passage_audio_url": "chpt09_audio/8_whole_grape_powder/8_whole_grape_powder.mp3"
+    },
+    {
+      "id": "9_red_grape_extract",
+      "title": "Red Grape Extract. Reported in two papers, another research group carried out a well-designed two-armed randomized placebo-controlled clinical trial of 40 men, 19 randomized to placebo and 21 randomized to receive grape polyphenol extract, and, in a parallel study, 20 women, 9 receiving placebo and 11 receiving grape polyphenol extract, all of whom consumed 50 percent excess calories daily, compared with energy expenditure, for 31 days. The treatment group received 2 grams per day red grape polyphenol extract standardized to 20 percent weight per weight proanthocyanidins.",
+      "sentence_count": 12,
+      "word_count": 330,
+      "duration_s": 153.6,
+      "passage_audio_url": "chpt09_audio/9_red_grape_extract/9_red_grape_extract.mp3"
+    },
+    {
+      "id": "10_conclusions_to_date",
+      "title": "Conclusions. To date, human metabolomics studies involving consumption of grapes, grape extracts, and wine extracts have focused on changes in phenolic acid levels in urine and plasma. Grape consumption alters the urine and plasma levels of phenolic acids, perhaps by altering the gut microbiome to produce these compounds as degradation products of grape polyphenols. Also, gas chromatography-mass spectrometry has been the primary analytical tool used so far for human metabolomics studies involving grape consumption, although the use of liquid chromatography-mass spectrometry would enable additional classes of metabolites to be measured. For example, lipidomics studies of the effects of grape consumption have not been carried out but might reveal additional benefits of grapes to human health.",
+      "sentence_count": 5,
+      "word_count": 115,
+      "duration_s": 50.0,
+      "passage_audio_url": "chpt09_audio/10_conclusions_to_date/10_conclusions_to_date.mp3"
+    }
+  ]
+}

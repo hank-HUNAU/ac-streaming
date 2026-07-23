@@ -1,0 +1,298 @@
+{
+  "id": "5_skin_cancer_there",
+  "title": "Skin Cancer. There are three major components of human skin: the epidermis, dermis, and hypodermis, or subcutaneous tissue. The epidermis is the outermost layer of the skin that is made up predominantly of keratinocytes but may also contain melanocytes, as well as Merkel and Langerhans cells. The dermis is the layer below the epidermis and contains connective tissue, blood vessels, nerve endings, sweat glands, and hair follicles. The hypodermis or subcutaneous tissue is the deepest layer of the skin and is made up predominantly of connective tissue and adipocytes. The skin serves as a barrier and protects against ultraviolet radiation.",
+  "sentences": [
+    {
+      "text": "Skin Cancer.",
+      "start": 0.1,
+      "end": 1.137,
+      "word_count": 2
+    },
+    {
+      "text": "There are three major components of human skin: the epidermis, dermis, and hypodermis, or subcutaneous tissue.",
+      "start": 2.013,
+      "end": 9.037,
+      "word_count": 16
+    },
+    {
+      "text": "The epidermis is the outermost layer of the skin that is made up predominantly of keratinocytes but may also contain melanocytes, as well as Merkel and Langerhans cells.",
+      "start": 9.9,
+      "end": 19.637,
+      "word_count": 28
+    },
+    {
+      "text": "The dermis is the layer below the epidermis and contains connective tissue, blood vessels, nerve endings, sweat glands, and hair follicles.",
+      "start": 20.5,
+      "end": 28.587,
+      "word_count": 21
+    },
+    {
+      "text": "The hypodermis or subcutaneous tissue is the deepest layer of the skin and is made up predominantly of connective tissue and adipocytes.",
+      "start": 29.462,
+      "end": 37.025,
+      "word_count": 22
+    },
+    {
+      "text": "The skin serves as a barrier and protects against ultraviolet radiation.",
+      "start": 37.9,
+      "end": 42.075,
+      "word_count": 11
+    },
+    {
+      "text": "There are acute and chronic effects of ultraviolet radiation that vary depending on the dose of ultraviolet radiation.",
+      "start": 42.938,
+      "end": 49.375,
+      "word_count": 18
+    },
+    {
+      "text": "Acute effects of ultraviolet radiation refer to short-term effects on the skin caused by exposure to ultraviolet light.",
+      "start": 50.25,
+      "end": 57.225,
+      "word_count": 18
+    },
+    {
+      "text": "These include erythema, commonly referred to as sunburn, and ultraviolet-stimulated production of melanin, which could lead to the development of tanned skin due to the increase in melanin.",
+      "start": 58.1,
+      "end": 68.525,
+      "word_count": 28
+    },
+    {
+      "text": "Chronic ultraviolet radiation effects refer to repeated, long-term ultraviolet radiation exposure, which can lead to premature aging and skin cancer.",
+      "start": 69.388,
+      "end": 78.525,
+      "word_count": 20
+    },
+    {
+      "text": "Multiple mechanisms exist to protect the skin against ultraviolet radiation-induced D N A damage.",
+      "start": 79.388,
+      "end": 85.438,
+      "word_count": 14
+    },
+    {
+      "text": "Chromophores are molecules that absorb light and radiation at certain wavelengths.",
+      "start": 86.3,
+      "end": 90.7,
+      "word_count": 11
+    },
+    {
+      "text": "Hemoglobin and melanin are the most abundant chromophores in the skin that effectively absorb ultraviolet radiation and prevent the harmful effects of the ultraviolet radiation on skin cells, such as keratinocytes and melanocytes.",
+      "start": 91.562,
+      "end": 104.55,
+      "word_count": 33
+    },
+    {
+      "text": "Also, D N A damage may be resolved by flavoenzymes, D N A photolyase, the nucleotide excision repair system, or enzymatic and nonenzymatic antioxidants.",
+      "start": 105.412,
+      "end": 116.275,
+      "word_count": 24
+    },
+    {
+      "text": "In addition, ultraviolet radiation can stimulate the production of alpha-melanocyte-stimulating hormone and binding of alpha-melanocyte-stimulating hormone to melanocortin-1 receptor, which activates the production of eumelanin, a sun-protective pigment.",
+      "start": 117.15,
+      "end": 131.95,
+      "word_count": 28
+    },
+    {
+      "text": "Mutations in the melanocortin-1 receptor gene therefore increase the damaging effects of ultraviolet radiation.",
+      "start": 132.812,
+      "end": 139.238,
+      "word_count": 14
+    },
+    {
+      "text": "When the skin's natural defenses are overwhelmed by ultraviolet-induced D N A damage, it leads to skin carcinogenesis.",
+      "start": 140.113,
+      "end": 147.475,
+      "word_count": 18
+    },
+    {
+      "text": "Ultraviolet A radiation can generate reactive oxygen species, mainly singlet oxygen or type 1 photosensitization reactions, that cause guanine base modifications and the generation of 7,8-dihydro-8-oxoguanine lesions that induce specific D N A mutations.",
+      "start": 148.338,
+      "end": 164.838,
+      "word_count": 34
+    },
+    {
+      "text": "D N A damage may also be induced by ultraviolet A directly via the generation of cyclobutene pyrimidine dimers, which most often produce thymine dimers.",
+      "start": 164.85,
+      "end": 175.6,
+      "word_count": 25
+    },
+    {
+      "text": "Ultraviolet B radiation also causes D N A damage directly and indirectly.",
+      "start": 175.613,
+      "end": 181.4,
+      "word_count": 12
+    },
+    {
+      "text": "The direct pathway involves the absorption of ultraviolet B by D N A, which generates cyclobutene pyrimidine dimers and 6-pyrimidine-4-pyrimidone photoproducts.",
+      "start": 181.412,
+      "end": 192.975,
+      "word_count": 21
+    },
+    {
+      "text": "The indirect pathway involves ultraviolet B radiation increasing the production of reactive oxygen species.",
+      "start": 192.988,
+      "end": 200.6,
+      "word_count": 14
+    },
+    {
+      "text": "If the ultraviolet-induced reactive oxygen species surpasses the ability of the skin to neutralize reactive oxygen species via intrinsic antioxidant mechanisms, the resulting oxidative stress will promote D N A damage.",
+      "start": 200.613,
+      "end": 215.0,
+      "word_count": 31
+    },
+    {
+      "text": "The accumulation of ultraviolet-induced genetic mutations causes the activation of oncogenes and inactivation of tumor suppressors, increases the production of growth factors, reduces immune function, produces reactive oxygen species that cause D N A damage, compromises mechanisms that repair D N A mutations, and suppresses apoptosis.",
+      "start": 215.012,
+      "end": 237.025,
+      "word_count": 46
+    },
+    {
+      "text": "These changes lead to malignant transformation, stimulation of angiogenesis, and evasion of immune cells and eventually promotes invasion and metastasis.",
+      "start": 237.037,
+      "end": 247.55,
+      "word_count": 20
+    },
+    {
+      "text": "For non-melanoma skin cancer, ultraviolet radiation causes mutations in the tumor suppressor p53 in 90 percent of squamous cell carcinoma, which promotes hyperproliferation of keratinocytes.",
+      "start": 247.562,
+      "end": 261.95,
+      "word_count": 25
+    },
+    {
+      "text": "In addition, pathogenic variants of melanocortin-1 receptor have been linked to squamous cell carcinoma.",
+      "start": 262.812,
+      "end": 269.05,
+      "word_count": 14
+    },
+    {
+      "text": "The number of melanocortin-1 receptor pathogenic variants in a patient increases their risk of developing squamous cell carcinoma.",
+      "start": 269.913,
+      "end": 278.603,
+      "word_count": 18
+    },
+    {
+      "text": "Mutations in the tumor suppressor genes of p53, P T C H 1, and P T C H 2 have been found in basal cell carcinoma.",
+      "start": 279.466,
+      "end": 288.515,
+      "word_count": 26
+    },
+    {
+      "text": "P T C H 1 is an integral protein in the Hedgehog signal transduction pathway.",
+      "start": 289.378,
+      "end": 294.453,
+      "word_count": 15
+    },
+    {
+      "text": "P T C H 1 inhibits S M O, which would otherwise activate transcription factors and cell proliferation genes.",
+      "start": 295.328,
+      "end": 302.615,
+      "word_count": 19
+    },
+    {
+      "text": "However, when P T C H 1 interacts with the Hedgehog ligand, it releases its inhibitory effect on S M O.",
+      "start": 303.478,
+      "end": 310.591,
+      "word_count": 21
+    },
+    {
+      "text": "There is a fine balance whereby Hedgehog ligands can regulate P T C H 1 inhibitory effect on S M O and S M O activation of transcription factors and cell proliferation genes.",
+      "start": 311.466,
+      "end": 322.99,
+      "word_count": 33
+    },
+    {
+      "text": "Studies have identified germline and somatic pathogenic variants of P T C H 1 associated with basal cell carcinoma.",
+      "start": 323.853,
+      "end": 331.578,
+      "word_count": 19
+    },
+    {
+      "text": "While the role of P T C H 2 in basal cell carcinoma remains unresolved, pathogenic variants of P T C H 2 have been identified in basal cell carcinoma.",
+      "start": 332.44,
+      "end": 342.753,
+      "word_count": 30
+    },
+    {
+      "text": "In addition, pathogenic variants of melanocortin-1 receptor and B R C A 1-associated protein 1 have also been associated with basal cell carcinoma.",
+      "start": 343.615,
+      "end": 353.166,
+      "word_count": 23
+    },
+    {
+      "text": "In melanoma carcinogenesis, the Ras and Raf signal transduction pathway is involved with regulating the transcription of genes that promote proliferation and migration.",
+      "start": 354.028,
+      "end": 364.166,
+      "word_count": 23
+    },
+    {
+      "text": "Oncogenes that are upregulated or tumor suppressors genes that are inactivated include cyclin-dependent kinase inhibitor 2A, cyclin-dependent kinase 4, melanocortin-1 receptor, B rapidly accelerated fibrosarcoma, and p14 and A R F. Inherited mutations in these genes constitute a genetic susceptibility that increases the risk of melanoma.",
+      "start": 365.028,
+      "end": 387.666,
+      "word_count": 46
+    },
+    {
+      "text": "C D K N 2 A encodes the p14 and A R F and p16 and I N K 4 A proteins, with p14 A R F being an alternative reading frame variant.",
+      "start": 388.541,
+      "end": 399.966,
+      "word_count": 33
+    },
+    {
+      "text": "They work in concert to regulate the p53 and retinoblastoma pathways and mediate cell cycle arrest at G1 and G2 and M to allow the repair of D N A damage before progressing to the next phase of the cell cycle.",
+      "start": 400.841,
+      "end": 414.065,
+      "word_count": 41
+    },
+    {
+      "text": "In addition, C D K 4 variants, while rare, can lead to loss of p16 to bind to and inhibit C D K 4, allowing C D K 4 to function as an oncogene.",
+      "start": 414.928,
+      "end": 425.99,
+      "word_count": 34
+    },
+    {
+      "text": "Finally, loss-of-function mutations of melanocortin-1 receptor prevents the synthesis of melanin, reducing the amount of radiation absorbed by the chromophore and increasing the risk of ultraviolet radiation-induced D N A damage.",
+      "start": 426.853,
+      "end": 440.453,
+      "word_count": 31
+    },
+    {
+      "text": "Diagnosing skin cancer in its early stages can greatly improve outcomes.",
+      "start": 441.315,
+      "end": 445.703,
+      "word_count": 11
+    },
+    {
+      "text": "Warning signs of skin cancer include changes in shape, size, or color of moles, nonhealing sores, or new skin growth.",
+      "start": 446.565,
+      "end": 454.453,
+      "word_count": 20
+    },
+    {
+      "text": "However, diagnosing skin cancer in individuals with darker skin tones can be particularly challenging, which may result in delayed diagnosis.",
+      "start": 455.328,
+      "end": 463.94,
+      "word_count": 20
+    },
+    {
+      "text": "Patients with darker skin tones are often diagnosed in the later stages of melanoma.",
+      "start": 464.803,
+      "end": 469.603,
+      "word_count": 14
+    },
+    {
+      "text": "Regular self-examination and screening is highly recommended for everyone, regardless of skin type.",
+      "start": 470.478,
+      "end": 476.353,
+      "word_count": 13
+    },
+    {
+      "text": "The A B C D E s of melanoma are used to recognize the warning signs of melanoma: A equals asymmetry, asymmetric shape; B equals borders, ragged, blurred, or uneven borders; C equals color, color varies in different areas; D equals diameter, size of the spot; E equals evolving, shape, size, or color changes.",
+      "start": 477.216,
+      "end": 498.841,
+      "word_count": 54
+    }
+  ],
+  "sentence_count": 48,
+  "word_count": 1112,
+  "total_duration": 498.841,
+  "voice": "en-US-AriaNeural"
+}

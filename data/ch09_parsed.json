@@ -1,0 +1,1515 @@
+{
+  "chapter": "09",
+  "title": "09 Effects of Grape Consumption",
+  "sections": [
+    {
+      "id": "effects_of_grape_consumption_on_the_human_metabolome_richard_b_van_breemen",
+      "title": "Effects of Grape Consumption on the Human Metabolome. Richard B. van Breemen.",
+      "text": "Effects of Grape Consumption on the Human Metabolome. Richard B. van Breemen.",
+      "index": 0,
+      "paragraph_count": 1,
+      "total_chars": 77,
+      "final_id": "0_effects_of_grape_consumption_on"
+    },
+    {
+      "id": "abstract_metabolomics_complements_genomics_proteomics_and_transcriptomics_by_providing_quantitative_and_qualitative_data_for_a_wide_range_of_metabolites_in_cells_tissues_and_biological_fluids_by_comparing_the_metabolomes_of_control_groups_with_those_receiving_therapeutic_interventions_or_with_groups_following_a_special_diet_the_global_effects_and_benefits_of_therapeutic_or_dietary_interventions_may_be_assessed_and_new_biomarkers_of_disease_risk_or_progress_may_be_identified_with_respect_to_dietary_intervention_with_grapes_one_human_study_has_been_reported_that_evaluated_changes_in_the_metabolomes_of_urine_and_plasma_following_consumption_of_whole_grapes_in_the_form_of_freeze_dried_table_grapes_and_three_human_studies_have_been_reported_that_used_metabolomics_to_assess_changes_resulting_from_the_consumption_of_extracts_of_grape_juice_or_extracts_of_wine_and_grape_juice_together_overall_these_studies_found_that_the_levels_of_phenolic_acids_increased_while_certain_amino_acid_concentrations_decreased_and_these_effects_were_correlated_with_beneficial_changes_in_the_gut_metabolome_as_expected_some_compounds_of_grape_origin_were_measured_in_the_metabolome_as_well_human_metabolomics_studies_of_the_effects_of_grape_consumption_to_date_have_focused_on_changes_in_phenolic_acids_and_a_few_other_polar_metabolites_in_plasma_and_urine_additional_metabolomics_studies_are_needed_to_address_the_benefits_of_grape_consumption_and_these_future_studies_should_assess_changes_in_additional_metabolite_classes_especially_lipids_which_have_so_far_been_understudied",
+      "title": "Abstract. Metabolomics complements genomics, proteomics, and transcriptomics by providing quantitative and qualitative data for a wide range of metabolites in cells, tissues, and biological fluids. By comparing the metabolomes of control groups with those receiving therapeutic interventions or with groups following a special diet, the global effects and benefits of therapeutic or dietary interventions may be assessed, and new biomarkers of disease risk or progress may be identified. With respect to dietary intervention with grapes, one human study has been reported that evaluated changes in the metabolomes of urine and plasma following consumption of whole grapes in the form of freeze-dried table grapes, and three human studies have been reported that used metabolomics to assess changes resulting from the consumption of extracts of grape juice or extracts of wine and grape juice together. Overall, these studies found that the levels of phenolic acids increased, while certain amino acid concentrations decreased, and these effects were correlated with beneficial changes in the gut metabolome. As expected, some compounds of grape origin were measured in the metabolome as well. Human metabolomics studies of the effects of grape consumption to date have focused on changes in phenolic acids and a few other polar metabolites in plasma and urine. Additional metabolomics studies are needed to address the benefits of grape consumption, and these future studies should assess changes in additional metabolite classes, especially lipids, which have so far been understudied.",
+      "text": "Abstract. Metabolomics complements genomics, proteomics, and transcriptomics by providing quantitative and qualitative data for a wide range of metabolites in cells, tissues, and biological fluids. By comparing the metabolomes of control groups with those receiving therapeutic interventions or with groups following a special diet, the global effects and benefits of therapeutic or dietary interventions may be assessed, and new biomarkers of disease risk or progress may be identified. With respect to dietary intervention with grapes, one human study has been reported that evaluated changes in the metabolomes of urine and plasma following consumption of whole grapes in the form of freeze-dried table grapes, and three human studies have been reported that used metabolomics to assess changes resulting from the consumption of extracts of grape juice or extracts of wine and grape juice together. Overall, these studies found that the levels of phenolic acids increased, while certain amino acid concentrations decreased, and these effects were correlated with beneficial changes in the gut metabolome. As expected, some compounds of grape origin were measured in the metabolome as well. Human metabolomics studies of the effects of grape consumption to date have focused on changes in phenolic acids and a few other polar metabolites in plasma and urine. Additional metabolomics studies are needed to address the benefits of grape consumption, and these future studies should assess changes in additional metabolite classes, especially lipids, which have so far been understudied.",
+      "index": 1,
+      "paragraph_count": 1,
+      "total_chars": 1586,
+      "final_id": "1_abstract_metabolomics_complements_genomics_proteomics"
+    },
+    {
+      "id": "introduction_metabolomics_applies_analytical_chemistry_techniques_to_the_characterization_of_small_molecular_mass_metabolites_typically_less_than_1500_daltons_and_their_relative_levels_in_cells_organs_tissues_or_biofluids_the_metabolome_may_be_considered_a_complete_profile_of_metabolites_in_a_biological_sample_at_a_particular_point_in_time_and_includes_endogenous_compounds_such_as_organic_acids_amino_acids_lipids_sugars_or_short_peptides_that_are_produced_through_primary_metabolism_by_enzymes_encoded_by_the_genome_the_metabolome_can_also_include_exogenous_compounds_from_the_environment_or_diet_such_as_grape_constituents_by_focusing_on_small_molecules_metabolomics_uses_a_distinctly_different_approach_than_proteomics_and_genomics",
+      "title": "Introduction. Metabolomics applies analytical chemistry techniques to the characterization of small molecular mass metabolites, typically less than 1500 Daltons, and their relative levels in cells, organs, tissues, or biofluids. The metabolome may be considered a complete profile of metabolites in a biological sample at a particular point in time and includes endogenous compounds, such as organic acids, amino acids, lipids, sugars, or short peptides that are produced through primary metabolism by enzymes encoded by the genome. The metabolome can also include exogenous compounds from the environment or diet, such as grape constituents. By focusing on small molecules, metabolomics uses a distinctly different approach than proteomics and genomics.",
+      "text": "Introduction. Metabolomics applies analytical chemistry techniques to the characterization of small molecular mass metabolites, typically less than 1500 Daltons, and their relative levels in cells, organs, tissues, or biofluids. The metabolome may be considered a complete profile of metabolites in a biological sample at a particular point in time and includes endogenous compounds, such as organic acids, amino acids, lipids, sugars, or short peptides that are produced through primary metabolism by enzymes encoded by the genome. The metabolome can also include exogenous compounds from the environment or diet, such as grape constituents. By focusing on small molecules, metabolomics uses a distinctly different approach than proteomics and genomics.",
+      "index": 2,
+      "paragraph_count": 1,
+      "total_chars": 754,
+      "final_id": "2_introduction_metabolomics_applies_analytical_chemistry"
+    },
+    {
+      "id": "by_comparing_the_metabolomes_of_individuals_in_healthy_and_diseased_states_diagnoses_can_be_made_and_biomarkers_can_be_identified_which_may_be_used_to_facilitate_monitoring_of_disease_progression_or_remission_alternatively_metabolomics_may_be_used_to_determine_how_therapeutic_interventions_or_dietary_changes_such_as_daily_consumption_of_grapes_alter_the_metabolome_and_improve_biomarkers_of_disease_or_disease_risk_for_example_a_subset_of_metabolomics_called_lipidomics_has_been_used_to_assess_how_diet_can_affect_levels_of_serum_lipids_and_cardiovascular_risk",
+      "title": "By comparing the metabolomes of individuals in healthy and diseased states, diagnoses can be made, and biomarkers can be identified, which may be used to facilitate monitoring of disease progression or remission. Alternatively, metabolomics may be used to determine how therapeutic interventions or dietary changes, such as daily consumption of grapes, alter the metabolome and improve biomarkers of disease or disease risk. For example, a subset of metabolomics called lipidomics has been used to assess how diet can affect levels of serum lipids and cardiovascular risk.",
+      "text": "By comparing the metabolomes of individuals in healthy and diseased states, diagnoses can be made, and biomarkers can be identified, which may be used to facilitate monitoring of disease progression or remission. Alternatively, metabolomics may be used to determine how therapeutic interventions or dietary changes, such as daily consumption of grapes, alter the metabolome and improve biomarkers of disease or disease risk. For example, a subset of metabolomics called lipidomics has been used to assess how diet can affect levels of serum lipids and cardiovascular risk.",
+      "index": 3,
+      "paragraph_count": 1,
+      "total_chars": 572,
+      "final_id": "3_by_comparing_the_metabolomes_of"
+    },
+    {
+      "id": "decades_before_the_name_metabolomics_was_coined_in_1998_gas_chromatography_mass_spectrometry_had_been_used_beginning_in_the_1960s_to_profile_and_compare_the_metabolic_profiles_of_urine_and_tissue_the_development_of_liquid_chromatography_mass_spectrometry_broadened_the_scope_of_metabolomics_in_the_1990s_to_include_the_measurement_of_compounds_that_had_been_too_polar_nonvolatile_or_thermally_unstable_to_pass_through_a_gas_chromatography_column_although_less_sensitive_than_mass_spectrometry_based_approaches_nuclear_magnetic_resonance_is_also_widely_applied_to_metabolomics_so_that_today_gas_chromatography_mass_spectrometry_liquid_chromatography_mass_spectrometry_and_nuclear_magnetic_resonance_are_all_being_used_to_study_the_human_metabolome",
+      "title": "Decades before the name metabolomics was coined in 1998, gas chromatography-mass spectrometry had been used beginning in the 1960s to profile and compare the metabolic profiles of urine and tissue. The development of liquid chromatography-mass spectrometry broadened the scope of metabolomics in the 1990s to include the measurement of compounds that had been too polar, nonvolatile, or thermally unstable to pass through a gas chromatography column. Although less sensitive than mass spectrometry-based approaches, nuclear magnetic resonance is also widely applied to metabolomics, so that today, gas chromatography-mass spectrometry, liquid chromatography-mass spectrometry, and nuclear magnetic resonance are all being used to study the human metabolome.",
+      "text": "Decades before the name metabolomics was coined in 1998, gas chromatography-mass spectrometry had been used beginning in the 1960s to profile and compare the metabolic profiles of urine and tissue. The development of liquid chromatography-mass spectrometry broadened the scope of metabolomics in the 1990s to include the measurement of compounds that had been too polar, nonvolatile, or thermally unstable to pass through a gas chromatography column. Although less sensitive than mass spectrometry-based approaches, nuclear magnetic resonance is also widely applied to metabolomics, so that today, gas chromatography-mass spectrometry, liquid chromatography-mass spectrometry, and nuclear magnetic resonance are all being used to study the human metabolome.",
+      "index": 4,
+      "paragraph_count": 1,
+      "total_chars": 757,
+      "final_id": "4_decades_before_the_name_metabolomics"
+    },
+    {
+      "id": "effects_of_grapes_and_grape_extracts_on_the_human_urine_metabolome",
+      "title": "Effects of Grapes and Grape Extracts on the Human Urine Metabolome.",
+      "text": "Effects of Grapes and Grape Extracts on the Human Urine Metabolome.",
+      "index": 5,
+      "paragraph_count": 1,
+      "total_chars": 67,
+      "final_id": "5_effects_of_grapes_and_grape"
+    },
+    {
+      "id": "extracts_of_red_wine_and_grape_juice_researchers_used_metabolomics_to_evaluate_the_impact_of_polyphenol_rich_extracts_of_red_wine_and_red_grape_juice_on_organic_acid_excretion_in_human_urine_this_placebo_controlled_double_crossover_study_included_58_participants_33_men_and_25_women_18_to_70_years_of_age_who_consumed_a_combination_of_red_wine_and_grape_juice_extracts_only_grape_juice_extract_or_placebo_for_28_days_the_daily_dose_of_extract_was_standardized_to_800_milligrams_gallic_acid_equivalents_per_day_as_measured_using_the_folin_ciocalteu_assay_after_each_28_day_intervention_24_hour_urine_samples_were_collected_and_urinary_phenolic_acids_were_enzymatically_hydrolyzed_chemically_derivatized_and_measured_using_gas_chromatography_mass_spectrometry_limitations_of_the_study_included_the_absence_of_a_washout_period_between_intervention_treatments_and_the_use_of_enzymatic_deconjugation_of_glucuronide_metabolites_prior_to_derivatization_for_gas_chromatography_mass_spectrometry_analysis_the_lack_of_a_washout_period_between_treatments_might_result_in_carryover_of_effect_and_the_use_of_deconjugation_and_derivatization_might_result_in_loss_of_analyte_due_to_chemical_degradation_or_incomplete_derivatization",
+      "title": "Extracts of Red Wine and Grape Juice. Researchers used metabolomics to evaluate the impact of polyphenol-rich extracts of red wine and red grape juice on organic acid excretion in human urine. This placebo-controlled, double-crossover study included 58 participants, 33 men and 25 women, 18 to 70 years of age, who consumed a combination of red wine and grape juice extracts, only grape juice extract, or placebo, for 28 days. The daily dose of extract was standardized to 800 milligrams gallic acid equivalents per day as measured using the Folin-Ciocalteu assay. After each 28-day intervention, 24-hour urine samples were collected, and urinary phenolic acids were enzymatically hydrolyzed, chemically derivatized, and measured using gas chromatography-mass spectrometry. Limitations of the study included the absence of a washout period between intervention treatments and the use of enzymatic deconjugation of glucuronide metabolites prior to derivatization for gas chromatography-mass spectrometry analysis. The lack of a washout period between treatments might result in carryover of effect, and the use of deconjugation and derivatization might result in loss of analyte due to chemical degradation or incomplete derivatization.",
+      "text": "Extracts of Red Wine and Grape Juice. Researchers used metabolomics to evaluate the impact of polyphenol-rich extracts of red wine and red grape juice on organic acid excretion in human urine. This placebo-controlled, double-crossover study included 58 participants, 33 men and 25 women, 18 to 70 years of age, who consumed a combination of red wine and grape juice extracts, only grape juice extract, or placebo, for 28 days. The daily dose of extract was standardized to 800 milligrams gallic acid equivalents per day as measured using the Folin-Ciocalteu assay. After each 28-day intervention, 24-hour urine samples were collected, and urinary phenolic acids were enzymatically hydrolyzed, chemically derivatized, and measured using gas chromatography-mass spectrometry. Limitations of the study included the absence of a washout period between intervention treatments and the use of enzymatic deconjugation of glucuronide metabolites prior to derivatization for gas chromatography-mass spectrometry analysis. The lack of a washout period between treatments might result in carryover of effect, and the use of deconjugation and derivatization might result in loss of analyte due to chemical degradation or incomplete derivatization.",
+      "index": 6,
+      "paragraph_count": 1,
+      "total_chars": 1235,
+      "final_id": "6_extracts_of_red_wine_and"
+    },
+    {
+      "id": "compared_with_placebo_the_concentrations_of_17_low_molecular_mass_phenolic_acids_increased_in_urine_following_consumption_of_extracts_of_red_wine_plus_grape_juice_or_just_grape_juice_extract_for_28_days_urinary_levels_of_4_hydroxybenzoic_acid_and_dihydroferulic_acid_increased_significantly_only_after_treatment_with_the_grape_juice_extract_another_15_phenolic_acids_increased_following_consumption_of_either_grape_juice_extract_or_the_combination_of_wine_extract_and_grape_juice_extract_among_these_syringic_acid_3_hydroxyhippuric_acid_4_hydroxyhippuric_acid_4_hydroxymandelic_acid_and_3_hydroxyphenylacetic_acid_showed_the_greatest_increases_in_urine_other_phenolic_acids_showing_increases_following_consumption_of_extracts_of_grape_juice_or_red_wine_plus_grape_juice_included_pyrogallol_4_hydroxyphenylacetic_acid_isovanillic_acid_3_hydroxyphenylpropionic_acid_homovanillic_acid_3_3_hydroxyphenyl_3_hydroxypropionic_acid_vanillylmandelic_acid_34_dihydroxyphenylpropionic_acid_and_ferulic_acid_among_the_phenolic_acids_that_were_measured_only_vanillic_acid_did_not_show_a_significant_increase_following_either_treatment_an_organic_acid_but_not_a_phenolic_acid_hippuric_acid_excretion_increased_after_consumption_of_the_mixture_of_wine_and_grape_juice_extract_but_not_the_grape_juice_extract_alone",
+      "title": "Compared with placebo, the concentrations of 17 low molecular mass phenolic acids increased in urine following consumption of extracts of red wine plus grape juice or just grape juice extract for 28 days. Urinary levels of 4-hydroxybenzoic acid and dihydroferulic acid increased significantly only after treatment with the grape juice extract. Another 15 phenolic acids increased following consumption of either grape juice extract or the combination of wine extract and grape juice extract. Among these, syringic acid, 3-hydroxyhippuric acid, 4-hydroxyhippuric acid, 4-hydroxymandelic acid, and 3-hydroxyphenylacetic acid showed the greatest increases in urine. Other phenolic acids showing increases following consumption of extracts of grape juice or red wine plus grape juice included pyrogallol, 4-hydroxyphenylacetic acid, isovanillic acid, 3-hydroxyphenylpropionic acid, homovanillic acid, 3-(3-hydroxyphenyl)-3-hydroxypropionic acid, vanillylmandelic acid, 3,4-dihydroxyphenylpropionic acid, and ferulic acid. Among the phenolic acids that were measured, only vanillic acid did not show a significant increase following either treatment. An organic acid but not a phenolic acid, hippuric acid excretion increased after consumption of the mixture of wine and grape juice extract but not the grape juice extract alone.",
+      "text": "Compared with placebo, the concentrations of 17 low molecular mass phenolic acids increased in urine following consumption of extracts of red wine plus grape juice or just grape juice extract for 28 days. Urinary levels of 4-hydroxybenzoic acid and dihydroferulic acid increased significantly only after treatment with the grape juice extract. Another 15 phenolic acids increased following consumption of either grape juice extract or the combination of wine extract and grape juice extract. Among these, syringic acid, 3-hydroxyhippuric acid, 4-hydroxyhippuric acid, 4-hydroxymandelic acid, and 3-hydroxyphenylacetic acid showed the greatest increases in urine. Other phenolic acids showing increases following consumption of extracts of grape juice or red wine plus grape juice included pyrogallol, 4-hydroxyphenylacetic acid, isovanillic acid, 3-hydroxyphenylpropionic acid, homovanillic acid, 3-(3-hydroxyphenyl)-3-hydroxypropionic acid, vanillylmandelic acid, 3,4-dihydroxyphenylpropionic acid, and ferulic acid. Among the phenolic acids that were measured, only vanillic acid did not show a significant increase following either treatment. An organic acid but not a phenolic acid, hippuric acid excretion increased after consumption of the mixture of wine and grape juice extract but not the grape juice extract alone.",
+      "index": 7,
+      "paragraph_count": 1,
+      "total_chars": 1324,
+      "final_id": "7_compared_with_placebo_the_concentrations"
+    },
+    {
+      "id": "some_of_the_organic_acids_excreted_in_urine_might_have_originated_from_the_wine_and_grape_juice_extracts_such_as_syringic_acid_which_was_reported_to_be_present_at_10_milligram_per_dose_in_the_wine_extract_as_well_as_in_the_grape_juice_extract_and_ferulic_acid_which_was_also_present_at_007_milligrams_per_dose_and_009_milligrams_per_dose_in_the_extracts_of_wine_and_grape_juice_respectively_however_the_abundant_grape_constituent_tartaric_acid_was_not_measured_in_urine_during_this_investigation_most_of_the_other_phenolic_acids_were_hypothesized_to_have_been_formed_by_metabolism_of_grape_polyphenols_by_the_gut_microbiota_this_is_likely_as_the_28_day_intervention_with_wine_and_grape_juice_extract_would_be_expected_to_produce_changes_in_the_composition_of_the_gut_microbiome",
+      "title": "Some of the organic acids excreted in urine might have originated from the wine and grape juice extracts, such as syringic acid, which was reported to be present at 1.0 milligram per dose in the wine extract as well as in the grape juice extract, and ferulic acid, which was also present at 0.07 milligrams per dose and 0.09 milligrams per dose in the extracts of wine and grape juice, respectively. However, the abundant grape constituent, tartaric acid, was not measured in urine during this investigation. Most of the other phenolic acids were hypothesized to have been formed by metabolism of grape polyphenols by the gut microbiota. This is likely, as the 28-day intervention with wine and grape juice extract would be expected to produce changes in the composition of the gut microbiome.",
+      "text": "Some of the organic acids excreted in urine might have originated from the wine and grape juice extracts, such as syringic acid, which was reported to be present at 1.0 milligram per dose in the wine extract as well as in the grape juice extract, and ferulic acid, which was also present at 0.07 milligrams per dose and 0.09 milligrams per dose in the extracts of wine and grape juice, respectively. However, the abundant grape constituent, tartaric acid, was not measured in urine during this investigation. Most of the other phenolic acids were hypothesized to have been formed by metabolism of grape polyphenols by the gut microbiota. This is likely, as the 28-day intervention with wine and grape juice extract would be expected to produce changes in the composition of the gut microbiome.",
+      "index": 8,
+      "paragraph_count": 1,
+      "total_chars": 793,
+      "final_id": "8_some_of_the_organic_acids"
+    },
+    {
+      "id": "another_research_group_carried_out_a_similar_placebo_controlled_randomized_crossover_clinical_trial_involving_35_healthy_men_18_to_69_years_of_age_who_were_treated_for_5_days_with_placebo_or_the_same_mixture_of_red_wine_and_grape_juice_extract_used_in_the_previous_study_separated_by_a_2_day_washout_period_the_grape_product_tested_consisted_of_a_mix_of_red_wine_extract_and_grape_juice_extract_containing_870_milligrams_dry_weight_red_wine_extract_and_540_milligrams_dry_weight_red_grape_juice_extract_which_was_equivalent_to_630_milliliters_of_red_wine_and_grape_juice_blood_samples_as_well_as_24_hour_urine_collections_were_obtained_limitations_of_the_study_include_the_short_duration_of_the_intervention_which_might_not_be_long_enough_to_elicit_changes_in_the_gut_microbiome_and_the_short_washout_period",
+      "title": "Another research group carried out a similar placebo-controlled, randomized, crossover clinical trial involving 35 healthy men, 18 to 69 years of age, who were treated for 5 days with placebo or the same mixture of red wine and grape juice extract used in the previous study, separated by a 2-day washout period. The grape product tested consisted of a mix of red wine extract and grape juice extract containing 870 milligrams dry weight red wine extract and 540 milligrams dry weight red grape juice extract, which was equivalent to 630 milliliters of red wine and grape juice. Blood samples as well as 24-hour urine collections were obtained. Limitations of the study include the short duration of the intervention, which might not be long enough to elicit changes in the gut microbiome, and the short washout period.",
+      "text": "Another research group carried out a similar placebo-controlled, randomized, crossover clinical trial involving 35 healthy men, 18 to 69 years of age, who were treated for 5 days with placebo or the same mixture of red wine and grape juice extract used in the previous study, separated by a 2-day washout period. The grape product tested consisted of a mix of red wine extract and grape juice extract containing 870 milligrams dry weight red wine extract and 540 milligrams dry weight red grape juice extract, which was equivalent to 630 milliliters of red wine and grape juice. Blood samples as well as 24-hour urine collections were obtained. Limitations of the study include the short duration of the intervention, which might not be long enough to elicit changes in the gut microbiome, and the short washout period.",
+      "index": 9,
+      "paragraph_count": 1,
+      "total_chars": 819,
+      "final_id": "9_another_research_group_carried_out"
+    },
+    {
+      "id": "in_a_targeted_metabolomics_analysis_semi_quantitative_analysis_of_18_phenolic_acids_in_urine_was_carried_out_using_gas_chromatography_mass_spectrometry_following_deconjugation_by_beta_glucuronidase_and_chemical_derivatization_to_improve_volatility_and_thermal_stability_syringic_acid_3_hydroxyhippuric_acid_pyrogallol_3_hydroxyphenylacetic_acid_and_3_hydroxyphenylpropionic_acid_increased_significantly_in_urine_as_a_result_of_wine_and_grape_juice_extract_intake_these_phenolic_acids_were_also_reported_to_increase_significantly_in_the_previous_study_smaller_increases_in_urinary_levels_of_another_ten_phenolic_acids_following_wine_and_grape_juice_extract_consumption_were_described_as_statistically_interesting",
+      "title": "In a targeted metabolomics analysis, semi-quantitative analysis of 18 phenolic acids in urine was carried out using gas chromatography-mass spectrometry following deconjugation by beta-glucuronidase and chemical derivatization to improve volatility and thermal stability. Syringic acid, 3-hydroxyhippuric acid, pyrogallol, 3-hydroxyphenylacetic acid, and 3-hydroxyphenylpropionic acid increased significantly in urine as a result of wine and grape juice extract intake. These phenolic acids were also reported to increase significantly in the previous study. Smaller increases in urinary levels of another ten phenolic acids following wine and grape juice extract consumption were described as statistically interesting.",
+      "text": "In a targeted metabolomics analysis, semi-quantitative analysis of 18 phenolic acids in urine was carried out using gas chromatography-mass spectrometry following deconjugation by beta-glucuronidase and chemical derivatization to improve volatility and thermal stability. Syringic acid, 3-hydroxyhippuric acid, pyrogallol, 3-hydroxyphenylacetic acid, and 3-hydroxyphenylpropionic acid increased significantly in urine as a result of wine and grape juice extract intake. These phenolic acids were also reported to increase significantly in the previous study. Smaller increases in urinary levels of another ten phenolic acids following wine and grape juice extract consumption were described as statistically interesting.",
+      "index": 10,
+      "paragraph_count": 1,
+      "total_chars": 720,
+      "final_id": "10_in_a_targeted_metabolomics_analysis"
+    },
+    {
+      "id": "in_an_untargeted_gas_chromatography_mass_spectrometry_metabolomics_analysis_of_the_same_urine_specimens_carried_out_without_enzymatic_deconjugation_17_out_of_159_compounds_showed_statistically_interesting_changes_of_these_17_metabolites_9_were_phenolic_compounds_that_were_also_found_to_be_elevated_using_the_targeted_gas_chromatography_mass_spectrometry_analysis_except_that_the_magnitude_of_the_increases_was_found_to_be_different_detected_only_using_untargeted_metabolomics_catechol_indole_3_lactic_acid_glucose_1_phosphate_and_1_methylhistidine_increased_due_to_consumption_of_the_extract_while_urine_concentrations_of_p_cresol_sulfate_34_dihydroxyphenylglycol_and_3_indoxylsulfuric_acid_decreased",
+      "title": "In an untargeted gas chromatography-mass spectrometry metabolomics analysis of the same urine specimens carried out without enzymatic deconjugation, 17 out of 159 compounds showed statistically interesting changes. Of these 17 metabolites, 9 were phenolic compounds that were also found to be elevated using the targeted gas chromatography-mass spectrometry analysis, except that the magnitude of the increases was found to be different. Detected only using untargeted metabolomics, catechol, indole-3-lactic acid, glucose-1-phosphate, and 1-methylhistidine increased due to consumption of the extract, while urine concentrations of p-cresol sulfate, 3,4-dihydroxyphenylglycol, and 3-indoxylsulfuric acid decreased.",
+      "text": "In an untargeted gas chromatography-mass spectrometry metabolomics analysis of the same urine specimens carried out without enzymatic deconjugation, 17 out of 159 compounds showed statistically interesting changes. Of these 17 metabolites, 9 were phenolic compounds that were also found to be elevated using the targeted gas chromatography-mass spectrometry analysis, except that the magnitude of the increases was found to be different. Detected only using untargeted metabolomics, catechol, indole-3-lactic acid, glucose-1-phosphate, and 1-methylhistidine increased due to consumption of the extract, while urine concentrations of p-cresol sulfate, 3,4-dihydroxyphenylglycol, and 3-indoxylsulfuric acid decreased.",
+      "index": 11,
+      "paragraph_count": 1,
+      "total_chars": 715,
+      "final_id": "11_in_an_untargeted_gas_chromatography"
+    },
+    {
+      "id": "comparing_the_second_study_with_the_similar_metabolomics_study_by_the_first_group_both_reported_that_ten_phenolic_metabolites_increased_following_consumption_of_the_same_wine_and_grape_extract_although_the_magnitude_of_each_change_varied_considerably_however_six_phenolic_metabolites_that_were_found_to_increase_in_the_first_study_did_not_change_in_the_second_study_including_4_hydroxybenzoic_acid_4_hydroxyphenylacetic_acid_isovanillic_acid_3_3_hydroxyphenyl_3_hydroxypropionic_acid_dihydroferulic_acid_and_4_hydroxyphenylmandelic_acid_these_conflicting_results_might_be_due_to_differences_in_the_duration_of_intervention_4_days_versus_28_days_differences_in_diet_and_the_exclusion_of_women_in_the_second_study",
+      "title": "Comparing the second study with the similar metabolomics study by the first group, both reported that ten phenolic metabolites increased following consumption of the same wine and grape extract, although the magnitude of each change varied considerably. However, six phenolic metabolites that were found to increase in the first study did not change in the second study, including 4-hydroxybenzoic acid, 4-hydroxyphenylacetic acid, isovanillic acid, 3-(3-hydroxyphenyl)-3-hydroxypropionic acid, dihydroferulic acid, and 4-hydroxyphenylmandelic acid. These conflicting results might be due to differences in the duration of intervention, 4 days versus 28 days, differences in diet, and the exclusion of women in the second study.",
+      "text": "Comparing the second study with the similar metabolomics study by the first group, both reported that ten phenolic metabolites increased following consumption of the same wine and grape extract, although the magnitude of each change varied considerably. However, six phenolic metabolites that were found to increase in the first study did not change in the second study, including 4-hydroxybenzoic acid, 4-hydroxyphenylacetic acid, isovanillic acid, 3-(3-hydroxyphenyl)-3-hydroxypropionic acid, dihydroferulic acid, and 4-hydroxyphenylmandelic acid. These conflicting results might be due to differences in the duration of intervention, 4 days versus 28 days, differences in diet, and the exclusion of women in the second study.",
+      "index": 12,
+      "paragraph_count": 1,
+      "total_chars": 728,
+      "final_id": "12_comparing_the_second_study_with"
+    },
+    {
+      "id": "whole_grape_powder_in_a_metabolomics_study_involving_intervention_with_whole_grapes_instead_of_extracts_another_research_group_administered_freeze_dried_table_grape_powder_equivalent_to_3_servings_of_grapes_per_day_for_14_days_to_29_participants_13_women_and_16_men_urine_was_collected_for_24_hours_immediately_before_intervention_after_grape_powder_intervention_and_following_a_30_day_washout_period_a_limitation_of_the_study_was_the_lack_of_a_placebo_group",
+      "title": "Whole Grape Powder. In a metabolomics study involving intervention with whole grapes instead of extracts, another research group administered freeze-dried table grape powder equivalent to 3 servings of grapes per day for 14 days to 29 participants, 13 women and 16 men. Urine was collected for 24 hours immediately before intervention, after grape powder intervention, and following a 30-day washout period. A limitation of the study was the lack of a placebo group.",
+      "text": "Whole Grape Powder. In a metabolomics study involving intervention with whole grapes instead of extracts, another research group administered freeze-dried table grape powder equivalent to 3 servings of grapes per day for 14 days to 29 participants, 13 women and 16 men. Urine was collected for 24 hours immediately before intervention, after grape powder intervention, and following a 30-day washout period. A limitation of the study was the lack of a placebo group.",
+      "index": 13,
+      "paragraph_count": 1,
+      "total_chars": 466,
+      "final_id": "13_whole_grape_powder_in_a"
+    },
+    {
+      "id": "urinary_levels_of_four_metabolites_2_deoxyribonic_acid_tartaric_acid_glutaconic_acid_and_3_hydroxyphenylacetic_acid_increased_due_to_grape_consumption_and_then_decreased_during_the_washout_period_a_biomarker_of_dna_repair_2_deoxyribonic_acid_is_a_hydrolysis_product_of_2_deoxyribonolactone_which_is_formed_in_dna_by_the_oxidation_of_2_deoxyribose_at_abasic_sites_abundant_in_grapes_tartaric_acid_elimination_in_urine_increased_by_500_percent_following_grape_powder_administration",
+      "title": "Urinary levels of four metabolites, 2'-deoxyribonic acid, tartaric acid, glutaconic acid, and 3-hydroxyphenylacetic acid, increased due to grape consumption and then decreased during the washout period. A biomarker of DNA repair, 2'-deoxyribonic acid is a hydrolysis product of 2'-deoxyribonolactone, which is formed in DNA by the oxidation of 2'-deoxyribose at abasic sites. Abundant in grapes, tartaric acid elimination in urine increased by 500 percent following grape powder administration.",
+      "text": "Urinary levels of four metabolites, 2'-deoxyribonic acid, tartaric acid, glutaconic acid, and 3-hydroxyphenylacetic acid, increased due to grape consumption and then decreased during the washout period. A biomarker of DNA repair, 2'-deoxyribonic acid is a hydrolysis product of 2'-deoxyribonolactone, which is formed in DNA by the oxidation of 2'-deoxyribose at abasic sites. Abundant in grapes, tartaric acid elimination in urine increased by 500 percent following grape powder administration.",
+      "index": 14,
+      "paragraph_count": 1,
+      "total_chars": 494,
+      "final_id": "14_urinary_levels_of_four_metabolites"
+    },
+    {
+      "id": "derived_from_the_amino_acid_glutamate_glutaconic_acid_was_elevated_in_urine_after_grape_powder_consumption_and_levels_of_3_hydroxyphenylacetic_acid_which_is_related_to_tyrosine_metabolism_also_increased_the_earlier_two_groups_also_reported_that_3_hydroxyphenylacetic_acid_increased_in_urine_following_consumption_of_a_polyphenol_rich_extract_of_red_wine_and_grape_juice_the_group_who_also_evaluated_changes_in_the_gut_microbiome_resulting_from_grape_powder_consumption_indicated_that_glutaconic_acid_and_3_hydroxyphenylacetic_acid_were_probably_formed_through_the_metabolism_of_grape_constituents_by_gut_bacteria_such_as_clostridium_symbiosum_parabacteroides_species_clostridia_species_or_klebsiella_pneumoniae_the_other_group_suggested_that_3_hydroxyphenylacetic_acid_might_also_be_a_gut_microbiome_degradation_product_of_grape_flavonoids_such_as_quercetin",
+      "title": "Derived from the amino acid glutamate, glutaconic acid was elevated in urine after grape powder consumption, and levels of 3-hydroxyphenylacetic acid, which is related to tyrosine metabolism, also increased. The earlier two groups also reported that 3-hydroxyphenylacetic acid increased in urine following consumption of a polyphenol-rich extract of red wine and grape juice. The group who also evaluated changes in the gut microbiome resulting from grape powder consumption indicated that glutaconic acid and 3-hydroxyphenylacetic acid were probably formed through the metabolism of grape constituents by gut bacteria such as Clostridium symbiosum, Parabacteroides species, Clostridia species, or Klebsiella pneumoniae. The other group suggested that 3-hydroxyphenylacetic acid might also be a gut microbiome degradation product of grape flavonoids such as quercetin.",
+      "text": "Derived from the amino acid glutamate, glutaconic acid was elevated in urine after grape powder consumption, and levels of 3-hydroxyphenylacetic acid, which is related to tyrosine metabolism, also increased. The earlier two groups also reported that 3-hydroxyphenylacetic acid increased in urine following consumption of a polyphenol-rich extract of red wine and grape juice. The group who also evaluated changes in the gut microbiome resulting from grape powder consumption indicated that glutaconic acid and 3-hydroxyphenylacetic acid were probably formed through the metabolism of grape constituents by gut bacteria such as Clostridium symbiosum, Parabacteroides species, Clostridia species, or Klebsiella pneumoniae. The other group suggested that 3-hydroxyphenylacetic acid might also be a gut microbiome degradation product of grape flavonoids such as quercetin.",
+      "index": 15,
+      "paragraph_count": 1,
+      "total_chars": 868,
+      "final_id": "15_derived_from_the_amino_acid"
+    },
+    {
+      "id": "in_contrast_to_the_metabolomics_studies_of_wine_and_grape_juice_extracts_consumption_of_freeze_dried_whole_grapes_resulted_in_a_decrease_of_hippuric_acid_urinary_excretion_of_3_indoleacetic_acid_valine_ribose_23_dihydroxybutanoic_acid_galactose_glucose_carbamic_acid_malonic_acid_and_levoglucosan_also_decreased_due_to_grape_powder_consumption",
+      "title": "In contrast to the metabolomics studies of wine and grape juice extracts, consumption of freeze-dried whole grapes resulted in a decrease of hippuric acid. Urinary excretion of 3-indoleacetic acid, valine, ribose, 2,3-dihydroxybutanoic acid, galactose, glucose, carbamic acid, malonic acid, and levoglucosan also decreased due to grape powder consumption.",
+      "text": "In contrast to the metabolomics studies of wine and grape juice extracts, consumption of freeze-dried whole grapes resulted in a decrease of hippuric acid. Urinary excretion of 3-indoleacetic acid, valine, ribose, 2,3-dihydroxybutanoic acid, galactose, glucose, carbamic acid, malonic acid, and levoglucosan also decreased due to grape powder consumption.",
+      "index": 16,
+      "paragraph_count": 1,
+      "total_chars": 355,
+      "final_id": "16_in_contrast_to_the_metabolomics"
+    },
+    {
+      "id": "whole_grape_powder_and_urine_metabolomics_in_the_mouse_although_this_review_focuses_on_the_effects_of_grape_consumption_on_human_metabolomics_one_animal_study_has_studied_the_effects_of_whole_grape_powder_on_metabolomics_and_is_discussed_here_for_comparison_in_this_study_researchers_investigated_the_effects_on_the_urine_metabolome_of_adding_5_percent_weight_per_weight_freeze_dried_table_grape_powder_to_the_diets_of_female_c57bl6_j_mice_10_mice_per_group_consuming_a_standard_laboratory_diet_or_a_high_fat_western_diet_for_91_days_although_grape_powder_consumption_added_to_the_standard_diet_produced_changes_in_the_mouse_urine_metabolome_with_gluconic_acid_myo_inositol_glyceric_acid_glycolic_acid_5_hydroxyindole_and_4_hydroxyphenylacetic_acid_all_decreasing_only_4_hydroxyphenylacetic_acid_has_been_reported_to_change_in_human_urine_after_consuming_grape_products_in_the_human_study_the_first_group_found_that_4_hydroxyphenylacetic_acid_levels_in_urine_increased_rather_than_decreased_as_observed_in_the_mouse_following_consumption_of_wine_and_grape_extracts",
+      "title": "Whole Grape Powder and Urine Metabolomics in the Mouse. Although this review focuses on the effects of grape consumption on human metabolomics, one animal study has studied the effects of whole grape powder on metabolomics and is discussed here for comparison. In this study, researchers investigated the effects on the urine metabolome of adding 5 percent weight per weight freeze-dried table grape powder to the diets of female C57BL/6 J mice, 10 mice per group, consuming a standard laboratory diet or a high-fat Western diet for 91 days. Although grape powder consumption added to the standard diet produced changes in the mouse urine metabolome, with gluconic acid, myo-inositol, glyceric acid, glycolic acid, 5-hydroxyindole, and 4-hydroxyphenylacetic acid all decreasing, only 4-hydroxyphenylacetic acid has been reported to change in human urine after consuming grape products. In the human study, the first group found that 4-hydroxyphenylacetic acid levels in urine increased, rather than decreased as observed in the mouse, following consumption of wine and grape extracts.",
+      "text": "Whole Grape Powder and Urine Metabolomics in the Mouse. Although this review focuses on the effects of grape consumption on human metabolomics, one animal study has studied the effects of whole grape powder on metabolomics and is discussed here for comparison. In this study, researchers investigated the effects on the urine metabolome of adding 5 percent weight per weight freeze-dried table grape powder to the diets of female C57BL/6 J mice, 10 mice per group, consuming a standard laboratory diet or a high-fat Western diet for 91 days. Although grape powder consumption added to the standard diet produced changes in the mouse urine metabolome, with gluconic acid, myo-inositol, glyceric acid, glycolic acid, 5-hydroxyindole, and 4-hydroxyphenylacetic acid all decreasing, only 4-hydroxyphenylacetic acid has been reported to change in human urine after consuming grape products. In the human study, the first group found that 4-hydroxyphenylacetic acid levels in urine increased, rather than decreased as observed in the mouse, following consumption of wine and grape extracts.",
+      "index": 17,
+      "paragraph_count": 1,
+      "total_chars": 1084,
+      "final_id": "17_whole_grape_powder_and_urine"
+    },
+    {
+      "id": "in_mice_fed_a_high_fat_diet_consumption_of_freeze_dried_grape_powder_produced_an_entirely_different_set_of_changes_in_the_urine_metabolome_concentrations_of_galactose_gluconic_acid_scyllo_inositol_mannitol_xylitol_2_deoxyribonic_acid_tartaric_acid_and_5_hydroxyindole_increased_in_mouse_urine_although_no_urine_metabolomics_data_have_been_published_concerning_the_effects_of_grape_consumption_on_humans_eating_a_high_fat_diet_several_of_these_mouse_urine_metabolites_have_been_found_to_change_in_human_urine_following_consumption_of_grape_products_in_addition_to_a_normal_diet_as_in_the_mouse_the_whole_grape_powder_study_reported_that_grape_powder_consumption_increased_urinary_levels_of_2_deoxyribonic_acid_and_tartaric_acid_the_latter_being_an_organic_acid_in_grapes_in_contrast_to_the_mouse_the_whole_grape_powder_study_found_that_galactose_levels_in_urine_decreased_after_consuming_grape_powder_this_lack_of_correlation_between_changes_in_the_urine_metabolomes_of_mice_and_humans_might_be_due_at_least_in_part_to_species_differences",
+      "title": "In mice fed a high-fat diet, consumption of freeze-dried grape powder produced an entirely different set of changes in the urine metabolome. Concentrations of galactose, gluconic acid, scyllo-inositol, mannitol, xylitol, 2-deoxyribonic acid, tartaric acid, and 5-hydroxyindole increased in mouse urine. Although no urine metabolomics data have been published concerning the effects of grape consumption on humans eating a high-fat diet, several of these mouse urine metabolites have been found to change in human urine following consumption of grape products in addition to a normal diet. As in the mouse, the whole grape powder study reported that grape powder consumption increased urinary levels of 2-deoxyribonic acid and tartaric acid, the latter being an organic acid in grapes. In contrast to the mouse, the whole grape powder study found that galactose levels in urine decreased after consuming grape powder. This lack of correlation between changes in the urine metabolomes of mice and humans might be due, at least in part, to species differences.",
+      "text": "In mice fed a high-fat diet, consumption of freeze-dried grape powder produced an entirely different set of changes in the urine metabolome. Concentrations of galactose, gluconic acid, scyllo-inositol, mannitol, xylitol, 2-deoxyribonic acid, tartaric acid, and 5-hydroxyindole increased in mouse urine. Although no urine metabolomics data have been published concerning the effects of grape consumption on humans eating a high-fat diet, several of these mouse urine metabolites have been found to change in human urine following consumption of grape products in addition to a normal diet. As in the mouse, the whole grape powder study reported that grape powder consumption increased urinary levels of 2-deoxyribonic acid and tartaric acid, the latter being an organic acid in grapes. In contrast to the mouse, the whole grape powder study found that galactose levels in urine decreased after consuming grape powder. This lack of correlation between changes in the urine metabolomes of mice and humans might be due, at least in part, to species differences.",
+      "index": 18,
+      "paragraph_count": 1,
+      "total_chars": 1057,
+      "final_id": "18_in_mice_fed_a_high"
+    },
+    {
+      "id": "effects_of_grapes_on_the_human_plasma_metabolome",
+      "title": "Effects of Grapes on the Human Plasma Metabolome.",
+      "text": "Effects of Grapes on the Human Plasma Metabolome.",
+      "index": 19,
+      "paragraph_count": 1,
+      "total_chars": 49,
+      "final_id": "19_effects_of_grapes_on_the"
+    },
+    {
+      "id": "extracts_of_red_wine_and_grape_juice_in_addition_to_measuring_changes_in_the_urine_metabolome_the_second_group_also_identified_12_metabolites_in_human_plasma_that_changed_as_a_result_of_consuming_a_mixture_of_extracts_of_red_wine_and_grape_juice_for_5_days_the_authors_described_the_statistically_most_interesting_metabolite_changes_to_be_reductions_in_tyrosine_at_minus_8_percent_sphingomyelin_at_minus_2_percent_and_dehydroepiandrosterone_sulfate_at_minus_12_percent_in_addition_levels_of_threonine_lysine_and_two_lysophosphatidylcholines_decreased_but_by_no_more_than_5_percent_the_authors_noted_that_levels_of_the_plasma_amino_acid_tyrosine_decreased_while_its_corresponding_gut_microbial_metabolite_p_cresol_sulfate_also_decreased_in_urine",
+      "title": "Extracts of Red Wine and Grape Juice. In addition to measuring changes in the urine metabolome, the second group also identified 12 metabolites in human plasma that changed as a result of consuming a mixture of extracts of red wine and grape juice for 5 days. The authors described the statistically most interesting metabolite changes to be reductions in tyrosine at minus 8 percent, sphingomyelin at minus 2 percent, and dehydroepiandrosterone sulfate at minus 12 percent. In addition, levels of threonine, lysine, and two lysophosphatidylcholines decreased but by no more than 5 percent. The authors noted that levels of the plasma amino acid tyrosine decreased, while its corresponding gut microbial metabolite, p-cresol sulfate, also decreased in urine.",
+      "text": "Extracts of Red Wine and Grape Juice. In addition to measuring changes in the urine metabolome, the second group also identified 12 metabolites in human plasma that changed as a result of consuming a mixture of extracts of red wine and grape juice for 5 days. The authors described the statistically most interesting metabolite changes to be reductions in tyrosine at minus 8 percent, sphingomyelin at minus 2 percent, and dehydroepiandrosterone sulfate at minus 12 percent. In addition, levels of threonine, lysine, and two lysophosphatidylcholines decreased but by no more than 5 percent. The authors noted that levels of the plasma amino acid tyrosine decreased, while its corresponding gut microbial metabolite, p-cresol sulfate, also decreased in urine.",
+      "index": 20,
+      "paragraph_count": 1,
+      "total_chars": 758,
+      "final_id": "20_extracts_of_red_wine_and"
+    },
+    {
+      "id": "whole_grape_powder_in_addition_to_studying_changes_in_the_urine_metabolome_and_the_gut_microbiome_due_to_consuming_freeze_dried_grape_powder_for_28_days_the_whole_grape_powder_study_also_reported_some_changes_in_the_plasma_metabolome_they_identified_two_plasma_metabolites_that_were_significantly_altered_due_to_the_grape_diet_stearic_acid_was_elevated_by_10_percent_while_beta_d_glucuronic_acid_was_decreased_by_17_percent",
+      "title": "Whole Grape Powder. In addition to studying changes in the urine metabolome and the gut microbiome due to consuming freeze-dried grape powder for 28 days, the whole grape powder study also reported some changes in the plasma metabolome. They identified two plasma metabolites that were significantly altered due to the grape diet. Stearic acid was elevated by 10 percent, while beta-D-glucuronic acid was decreased by 17 percent.",
+      "text": "Whole Grape Powder. In addition to studying changes in the urine metabolome and the gut microbiome due to consuming freeze-dried grape powder for 28 days, the whole grape powder study also reported some changes in the plasma metabolome. They identified two plasma metabolites that were significantly altered due to the grape diet. Stearic acid was elevated by 10 percent, while beta-D-glucuronic acid was decreased by 17 percent.",
+      "index": 21,
+      "paragraph_count": 1,
+      "total_chars": 429,
+      "final_id": "21_whole_grape_powder_in_addition"
+    },
+    {
+      "id": "red_grape_extract_reported_in_two_papers_another_research_group_carried_out_a_well_designed_two_armed_randomized_placebo_controlled_clinical_trial_of_40_men_19_randomized_to_placebo_and_21_randomized_to_receive_grape_polyphenol_extract_and_in_a_parallel_study_20_women_9_receiving_placebo_and_11_receiving_grape_polyphenol_extract_all_of_whom_consumed_50_percent_excess_calories_daily_compared_with_energy_expenditure_for_31_days_the_treatment_group_received_2_grams_per_day_red_grape_polyphenol_extract_standardized_to_20_percent_weight_per_weight_proanthocyanidins",
+      "title": "Red Grape Extract. Reported in two papers, another research group carried out a well-designed two-armed randomized placebo-controlled clinical trial of 40 men, 19 randomized to placebo and 21 randomized to receive grape polyphenol extract, and, in a parallel study, 20 women, 9 receiving placebo and 11 receiving grape polyphenol extract, all of whom consumed 50 percent excess calories daily, compared with energy expenditure, for 31 days. The treatment group received 2 grams per day red grape polyphenol extract standardized to 20 percent weight per weight proanthocyanidins.",
+      "text": "Red Grape Extract. Reported in two papers, another research group carried out a well-designed two-armed randomized placebo-controlled clinical trial of 40 men, 19 randomized to placebo and 21 randomized to receive grape polyphenol extract, and, in a parallel study, 20 women, 9 receiving placebo and 11 receiving grape polyphenol extract, all of whom consumed 50 percent excess calories daily, compared with energy expenditure, for 31 days. The treatment group received 2 grams per day red grape polyphenol extract standardized to 20 percent weight per weight proanthocyanidins.",
+      "index": 22,
+      "paragraph_count": 1,
+      "total_chars": 578,
+      "final_id": "22_red_grape_extract_reported_in"
+    },
+    {
+      "id": "in_the_placebo_group_concentrations_of_branched_chain_amino_acids_valine_leucine_and_isoleucine_as_well_as_alpha_keto_beta_methylvalerate_increased_compared_with_baseline_while_the_concentration_of_the_ketone_body_beta_hydroxybutyrate_decreased_in_men_who_received_the_grape_polyphenol_extract_the_plasma_concentrations_of_these_branched_chain_amino_acids_decreased_while_levels_of_alanine_and_proline_increased_compared_with_the_placebo_group_in_addition_glucose_levels_were_significantly_lower_in_the_treatment_group_in_women_multiple_branched_chain_amino_acids_increased_in_the_placebo_group_compared_with_baseline_but_only_isoleucine_was_significantly_reduced_compared_with_placebo_in_women_receiving_the_grape_extract",
+      "title": "In the placebo group, concentrations of branched chain amino acids valine, leucine, and isoleucine as well as alpha-keto-beta-methylvalerate increased compared with baseline, while the concentration of the ketone body beta-hydroxybutyrate decreased. In men who received the grape polyphenol extract, the plasma concentrations of these branched chain amino acids decreased, while levels of alanine and proline increased compared with the placebo group. In addition, glucose levels were significantly lower in the treatment group. In women, multiple branched chain amino acids increased in the placebo group compared with baseline, but only isoleucine was significantly reduced compared with placebo in women receiving the grape extract.",
+      "text": "In the placebo group, concentrations of branched chain amino acids valine, leucine, and isoleucine as well as alpha-keto-beta-methylvalerate increased compared with baseline, while the concentration of the ketone body beta-hydroxybutyrate decreased. In men who received the grape polyphenol extract, the plasma concentrations of these branched chain amino acids decreased, while levels of alanine and proline increased compared with the placebo group. In addition, glucose levels were significantly lower in the treatment group. In women, multiple branched chain amino acids increased in the placebo group compared with baseline, but only isoleucine was significantly reduced compared with placebo in women receiving the grape extract.",
+      "index": 23,
+      "paragraph_count": 1,
+      "total_chars": 735,
+      "final_id": "23_in_the_placebo_group_concentrations"
+    },
+    {
+      "id": "although_not_discussed_the_serum_metabolomics_data_indicated_that_plasma_levels_of_ten_polyphenols_increased_whereas_only_two_decreased_these_results_are_consistent_with_the_urine_metabolomics_studies_of_the_second_group_who_reported_that_3_hydroxyphenylacetic_acid_34_dihydroxyphenylacetic_acid_and_homovanillic_acid_also_increased_as_a_result_of_grape_extract_consumption_and_the_whole_grape_powder_study_who_found_significantly_elevated_levels_of_3_hydroxyphenylacetic_acid_following_table_grape_powder_consumption_unlike_the_second_group_the_red_grape_extract_group_found_that_levels_of_34_dihydroxyphenylpropanoic_acid_increased_biomarkers_of_grape_extract_consumption_the_grape_constituents_resveratrol_and_isorhamnetin_were_found_to_increase_30_percent_and_24_percent_respectively_in_the_plasma_of_men_in_the_grape_extract_treatment_group_overall_the_metabolic_profiles_of_both_men_and_women_improved_with_polyphenol_administration_suggesting_potential_health_benefits_of_grape_polyphenol_consumption_during_times_of_excess_caloric_intake",
+      "title": "Although not discussed, the serum metabolomics data indicated that plasma levels of ten polyphenols increased, whereas only two decreased. These results are consistent with the urine metabolomics studies of the second group, who reported that 3-hydroxyphenylacetic acid, 3,4-dihydroxyphenylacetic acid, and homovanillic acid also increased as a result of grape extract consumption, and the whole grape powder study, who found significantly elevated levels of 3-hydroxyphenylacetic acid following table grape powder consumption. Unlike the second group, the red grape extract group found that levels of 3,4-dihydroxyphenylpropanoic acid increased. Biomarkers of grape extract consumption, the grape constituents resveratrol and isorhamnetin, were found to increase 30 percent and 24 percent, respectively, in the plasma of men in the grape extract treatment group. Overall, the metabolic profiles of both men and women improved with polyphenol administration, suggesting potential health benefits of grape polyphenol consumption during times of excess caloric intake.",
+      "text": "Although not discussed, the serum metabolomics data indicated that plasma levels of ten polyphenols increased, whereas only two decreased. These results are consistent with the urine metabolomics studies of the second group, who reported that 3-hydroxyphenylacetic acid, 3,4-dihydroxyphenylacetic acid, and homovanillic acid also increased as a result of grape extract consumption, and the whole grape powder study, who found significantly elevated levels of 3-hydroxyphenylacetic acid following table grape powder consumption. Unlike the second group, the red grape extract group found that levels of 3,4-dihydroxyphenylpropanoic acid increased. Biomarkers of grape extract consumption, the grape constituents resveratrol and isorhamnetin, were found to increase 30 percent and 24 percent, respectively, in the plasma of men in the grape extract treatment group. Overall, the metabolic profiles of both men and women improved with polyphenol administration, suggesting potential health benefits of grape polyphenol consumption during times of excess caloric intake.",
+      "index": 24,
+      "paragraph_count": 1,
+      "total_chars": 1066,
+      "final_id": "24_although_not_discussed_the_serum"
+    },
+    {
+      "id": "conclusions_to_date_human_metabolomics_studies_involving_consumption_of_grapes_grape_extracts_and_wine_extracts_have_focused_on_changes_in_phenolic_acid_levels_in_urine_and_plasma_grape_consumption_alters_the_urine_and_plasma_levels_of_phenolic_acids_perhaps_by_altering_the_gut_microbiome_to_produce_these_compounds_as_degradation_products_of_grape_polyphenols_also_gas_chromatography_mass_spectrometry_has_been_the_primary_analytical_tool_used_so_far_for_human_metabolomics_studies_involving_grape_consumption_although_the_use_of_liquid_chromatography_mass_spectrometry_would_enable_additional_classes_of_metabolites_to_be_measured_for_example_lipidomics_studies_of_the_effects_of_grape_consumption_have_not_been_carried_out_but_might_reveal_additional_benefits_of_grapes_to_human_health",
+      "title": "Conclusions. To date, human metabolomics studies involving consumption of grapes, grape extracts, and wine extracts have focused on changes in phenolic acid levels in urine and plasma. Grape consumption alters the urine and plasma levels of phenolic acids, perhaps by altering the gut microbiome to produce these compounds as degradation products of grape polyphenols. Also, gas chromatography-mass spectrometry has been the primary analytical tool used so far for human metabolomics studies involving grape consumption, although the use of liquid chromatography-mass spectrometry would enable additional classes of metabolites to be measured. For example, lipidomics studies of the effects of grape consumption have not been carried out but might reveal additional benefits of grapes to human health.",
+      "text": "Conclusions. To date, human metabolomics studies involving consumption of grapes, grape extracts, and wine extracts have focused on changes in phenolic acid levels in urine and plasma. Grape consumption alters the urine and plasma levels of phenolic acids, perhaps by altering the gut microbiome to produce these compounds as degradation products of grape polyphenols. Also, gas chromatography-mass spectrometry has been the primary analytical tool used so far for human metabolomics studies involving grape consumption, although the use of liquid chromatography-mass spectrometry would enable additional classes of metabolites to be measured. For example, lipidomics studies of the effects of grape consumption have not been carried out but might reveal additional benefits of grapes to human health.",
+      "index": 25,
+      "paragraph_count": 1,
+      "total_chars": 801,
+      "final_id": "25_conclusions_to_date_human_metabolomics"
+    }
+  ],
+  "entities": [
+    {
+      "category": "CHEMICAL",
+      "term": "Metabolomics",
+      "normalized_name": "Metabolomics",
+      "synonyms": "代谢组学"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Metabolome",
+      "normalized_name": "Metabolome",
+      "synonyms": "代谢组"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Metabolites",
+      "normalized_name": "Metabolites",
+      "synonyms": "代谢产物"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Biomarkers",
+      "normalized_name": "Biomarkers",
+      "synonyms": "生物标志物"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Organic acids",
+      "normalized_name": "Organic acids",
+      "synonyms": "有机酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Amino acids",
+      "normalized_name": "Amino acids",
+      "synonyms": "氨基酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Lipids",
+      "normalized_name": "Lipids",
+      "synonyms": "脂质"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Sugars",
+      "normalized_name": "Sugars",
+      "synonyms": "糖类"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Short peptides",
+      "normalized_name": "Short peptides",
+      "synonyms": "短肽"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Phenolic acids",
+      "normalized_name": "Phenolic acids",
+      "synonyms": "酚酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "4-Hydroxybenzoic acid",
+      "normalized_name": "4-Hydroxybenzoic acid",
+      "synonyms": "4-羟基苯甲酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Dihydroferulic acid",
+      "normalized_name": "Dihydroferulic acid",
+      "synonyms": "二氢阿魏酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Syringic acid",
+      "normalized_name": "Syringic acid",
+      "synonyms": "丁香酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "3-Hydroxyhippuric acid",
+      "normalized_name": "3-Hydroxyhippuric acid",
+      "synonyms": "3-羟基马尿酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "4-Hydroxyhippuric acid",
+      "normalized_name": "4-Hydroxyhippuric acid",
+      "synonyms": "4-羟基马尿酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "4-Hydroxymandelic acid",
+      "normalized_name": "4-Hydroxymandelic acid",
+      "synonyms": "4-羟基扁桃酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "3-Hydroxyphenylacetic acid",
+      "normalized_name": "3-Hydroxyphenylacetic acid",
+      "synonyms": "3-羟基苯乙酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Pyrogallol",
+      "normalized_name": "Pyrogallol",
+      "synonyms": "焦性没食子酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "4-Hydroxyphenylacetic acid",
+      "normalized_name": "4-Hydroxyphenylacetic acid",
+      "synonyms": "4-羟基苯乙酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Isovanillic acid",
+      "normalized_name": "Isovanillic acid",
+      "synonyms": "异香草酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "3-Hydroxyphenylpropionic acid",
+      "normalized_name": "3-Hydroxyphenylpropionic acid",
+      "synonyms": "3-羟基苯丙酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Homovanillic acid",
+      "normalized_name": "Homovanillic acid",
+      "synonyms": "高香草酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "3-(3-Hydroxyphenyl)-3-hydroxypropionic acid",
+      "normalized_name": "3-(3-Hydroxyphenyl)-3-hydroxypropionic acid",
+      "synonyms": "3-(3-羟基苯基)-3-羟基丙酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Vanillylmandelic acid",
+      "normalized_name": "Vanillylmandelic acid",
+      "synonyms": "香草扁桃酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "3",
+      "normalized_name": "4-Dihydroxyphenylpropionic acid",
+      "synonyms": "3"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Ferulic acid",
+      "normalized_name": "Ferulic acid",
+      "synonyms": "阿魏酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Vanillic acid",
+      "normalized_name": "Vanillic acid",
+      "synonyms": "香草酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Hippuric acid",
+      "normalized_name": "Hippuric acid",
+      "synonyms": "马尿酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Tartaric acid",
+      "normalized_name": "Tartaric acid",
+      "synonyms": "酒石酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Catechol",
+      "normalized_name": "Catechol",
+      "synonyms": "儿茶酚"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Indole-3-lactic acid",
+      "normalized_name": "Indole-3-lactic acid",
+      "synonyms": "吲哚-3-乳酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Glucose-1-phosphate",
+      "normalized_name": "Glucose-1-phosphate",
+      "synonyms": "葡萄糖-1-磷酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "1-Methylhistidine",
+      "normalized_name": "1-Methylhistidine",
+      "synonyms": "1-甲基组氨酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "p-Cresol sulfate",
+      "normalized_name": "p-Cresol sulfate",
+      "synonyms": "对甲酚硫酸酯"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "3",
+      "normalized_name": "4-Dihydroxyphenylglycol",
+      "synonyms": "3"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "3-Indoxylsulfuric acid",
+      "normalized_name": "3-Indoxylsulfuric acid",
+      "synonyms": "3-吲哚氧基硫酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "2'-Deoxyribonic acid",
+      "normalized_name": "2'-Deoxyribonic acid",
+      "synonyms": "2'-脱氧核糖酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Glutaconic acid",
+      "normalized_name": "Glutaconic acid",
+      "synonyms": "戊烯二酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "3-Indoleacetic acid",
+      "normalized_name": "3-Indoleacetic acid",
+      "synonyms": "3-吲哚乙酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Valine",
+      "normalized_name": "Valine",
+      "synonyms": "缬氨酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Ribose",
+      "normalized_name": "Ribose",
+      "synonyms": "核糖"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "2",
+      "normalized_name": "3-Dihydroxybutanoic acid",
+      "synonyms": "2"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Galactose",
+      "normalized_name": "Galactose",
+      "synonyms": "半乳糖"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Glucose",
+      "normalized_name": "Glucose",
+      "synonyms": "葡萄糖"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Carbamic acid",
+      "normalized_name": "Carbamic acid",
+      "synonyms": "氨基甲酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Malonic acid",
+      "normalized_name": "Malonic acid",
+      "synonyms": "丙二酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Levoglucosan",
+      "normalized_name": "Levoglucosan",
+      "synonyms": "左旋葡聚糖"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Gluconic acid",
+      "normalized_name": "Gluconic acid",
+      "synonyms": "葡萄糖酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "myo-Inositol",
+      "normalized_name": "myo-Inositol",
+      "synonyms": "肌醇"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Glyceric acid",
+      "normalized_name": "Glyceric acid",
+      "synonyms": "甘油酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Glycolic acid",
+      "normalized_name": "Glycolic acid",
+      "synonyms": "乙醇酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "5-Hydroxyindole",
+      "normalized_name": "5-Hydroxyindole",
+      "synonyms": "5-羟基吲哚"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "scyllo-Inositol",
+      "normalized_name": "scyllo-Inositol",
+      "synonyms": "肌醇"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Mannitol",
+      "normalized_name": "Mannitol",
+      "synonyms": "甘露醇"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Xylitol",
+      "normalized_name": "Xylitol",
+      "synonyms": "木糖醇"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Sphingomyelin",
+      "normalized_name": "Sphingomyelin",
+      "synonyms": "鞘磷脂"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Dehydroepiandrosterone sulfate",
+      "normalized_name": "Dehydroepiandrosterone sulfate",
+      "synonyms": "硫酸脱氢表雄酮"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Threonine",
+      "normalized_name": "Threonine",
+      "synonyms": "苏氨酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Lysine",
+      "normalized_name": "Lysine",
+      "synonyms": "赖氨酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Tyrosine",
+      "normalized_name": "Tyrosine",
+      "synonyms": "酪氨酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Stearic acid",
+      "normalized_name": "Stearic acid",
+      "synonyms": "硬脂酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "β-D-Glucuronic acid",
+      "normalized_name": "Beta-D-glucuronic acid",
+      "synonyms": "β-D-葡萄糖醛酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Leucine",
+      "normalized_name": "Leucine",
+      "synonyms": "亮氨酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Isoleucine",
+      "normalized_name": "Isoleucine",
+      "synonyms": "异亮氨酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Alanine",
+      "normalized_name": "Alanine",
+      "synonyms": "丙氨酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Proline",
+      "normalized_name": "Proline",
+      "synonyms": "脯氨酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "α-Keto-β-methylvalerate",
+      "normalized_name": "Alpha-keto-beta-methylvalerate",
+      "synonyms": "α-酮-β-甲基戊酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "β-Hydroxybutyrate",
+      "normalized_name": "Beta-hydroxybutyrate",
+      "synonyms": "β-羟基丁酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Resveratrol",
+      "normalized_name": "Resveratrol",
+      "synonyms": "白藜芦醇"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Isorhamnetin",
+      "normalized_name": "Isorhamnetin",
+      "synonyms": "异鼠李素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Quercetin",
+      "normalized_name": "Quercetin",
+      "synonyms": "槲皮素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Flavonoids",
+      "normalized_name": "Flavonoids",
+      "synonyms": "类黄酮"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Polyphenols",
+      "normalized_name": "Polyphenols",
+      "synonyms": "多酚"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Proanthocyanidins",
+      "normalized_name": "Proanthocyanidins",
+      "synonyms": "原花青素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Gallic acid",
+      "normalized_name": "Gallic acid",
+      "synonyms": "没食子酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "3",
+      "normalized_name": "4-Dihydroxyphenylacetic acid",
+      "synonyms": "3"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "3",
+      "normalized_name": "4-Dihydroxyphenylpropanoic acid",
+      "synonyms": "3"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Epigallocatechin",
+      "normalized_name": "Epigallocatechin",
+      "synonyms": "表没食子儿茶素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Enterolactone",
+      "normalized_name": "Enterolactone",
+      "synonyms": "肠内酯"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Gallic ethyl ester",
+      "normalized_name": "Gallic ethyl ester",
+      "synonyms": "没食子酸乙酯"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Protocatechuic acid",
+      "normalized_name": "Protocatechuic acid",
+      "synonyms": "原儿茶酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Catechin",
+      "normalized_name": "Catechin",
+      "synonyms": "儿茶素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "3",
+      "normalized_name": "5-Dihydroxyphenylpropionic acid",
+      "synonyms": "3"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Lysophosphatidylcholine",
+      "normalized_name": "Lysophosphatidylcholine",
+      "synonyms": "溶血磷脂酰胆碱"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "2′-Deoxyribonolactone",
+      "normalized_name": "2′-Deoxyribonolactone",
+      "synonyms": "2′-脱氧核糖酸内酯"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "2′-Deoxyribose",
+      "normalized_name": "2′-Deoxyribose",
+      "synonyms": "2′-脱氧核糖"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Abasic sites",
+      "normalized_name": "Abasic sites",
+      "synonyms": "无碱基位点"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "DNA repair",
+      "normalized_name": "DNA repair",
+      "synonyms": "DNA修复"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Glutamate",
+      "normalized_name": "Glutamate",
+      "synonyms": "谷氨酸"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "β-Glucuronidase",
+      "normalized_name": "Beta-glucuronidase",
+      "synonyms": "β-葡萄糖醛酸酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "Gut microbiota enzymes",
+      "normalized_name": "Gut microbiota enzymes",
+      "synonyms": "肠道菌群酶"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Cardiovascular disease",
+      "normalized_name": "Cardiovascular disease",
+      "synonyms": "心血管疾病"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Type 2 diabetes",
+      "normalized_name": "Type 2 diabetes",
+      "synonyms": "2型糖尿病"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Obesity",
+      "normalized_name": "Obesity",
+      "synonyms": "肥胖"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Metabolic syndrome",
+      "normalized_name": "Metabolic syndrome",
+      "synonyms": "代谢综合征"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Inflammation",
+      "normalized_name": "Inflammation",
+      "synonyms": "炎症"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Oxidative stress",
+      "normalized_name": "Oxidative stress",
+      "synonyms": "氧化应激"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "Tyrosine metabolism",
+      "normalized_name": "Tyrosine metabolism",
+      "synonyms": "酪氨酸代谢"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "Glutamate metabolism",
+      "normalized_name": "Glutamate metabolism",
+      "synonyms": "谷氨酸代谢"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Clostridium symbiosum",
+      "normalized_name": "Clostridium symbiosum",
+      "synonyms": "共生梭菌"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Parabacteroides",
+      "normalized_name": "Parabacteroides",
+      "synonyms": "副拟杆菌属"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Clostridia",
+      "normalized_name": "Clostridia",
+      "synonyms": "梭菌纲"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Klebsiella pneumoniae",
+      "normalized_name": "Klebsiella pneumoniae",
+      "synonyms": "肺炎克雷伯菌"
+    },
+    {
+      "category": "SPECIES",
+      "term": "C57BL/6J",
+      "normalized_name": "C57BL/6J mouse",
+      "synonyms": "C57BL/6J小鼠"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Mus musculus",
+      "normalized_name": "Mus musculus",
+      "synonyms": "小鼠"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Homo sapiens",
+      "normalized_name": "Homo sapiens",
+      "synonyms": "人类"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Urine",
+      "normalized_name": "Urine",
+      "synonyms": "尿液"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Plasma",
+      "normalized_name": "Plasma",
+      "synonyms": "血浆"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Serum",
+      "normalized_name": "Serum",
+      "synonyms": "血清"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Liver",
+      "normalized_name": "Liver",
+      "synonyms": "肝脏"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Kidney",
+      "normalized_name": "Kidney",
+      "synonyms": "肾脏"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Gut",
+      "normalized_name": "Gut",
+      "synonyms": "肠道"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Small intestine",
+      "normalized_name": "Small intestine",
+      "synonyms": "小肠"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Colon",
+      "normalized_name": "Colon",
+      "synonyms": "结肠"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Blood",
+      "normalized_name": "Blood",
+      "synonyms": "血液"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Tissues",
+      "normalized_name": "Tissues",
+      "synonyms": "组织"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Cells",
+      "normalized_name": "Cells",
+      "synonyms": "细胞"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Metabolomics",
+      "normalized_name": "Metabolomics",
+      "synonyms": "代谢组学"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Lipidomics",
+      "normalized_name": "Lipidomics",
+      "synonyms": "脂质组学"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Metabolism",
+      "normalized_name": "Metabolism",
+      "synonyms": "代谢"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Deconjugation",
+      "normalized_name": "Deconjugation",
+      "synonyms": "去结合"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Derivatization",
+      "normalized_name": "Derivatization",
+      "synonyms": "衍生化"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Hydrolysis",
+      "normalized_name": "Hydrolysis",
+      "synonyms": "水解"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Glucuronidation",
+      "normalized_name": "Glucuronidation",
+      "synonyms": "葡萄糖醛酸化"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Sulfation",
+      "normalized_name": "Sulfation",
+      "synonyms": "硫酸化"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Oxidation",
+      "normalized_name": "Oxidation",
+      "synonyms": "氧化"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Microbial metabolism",
+      "normalized_name": "Microbial metabolism",
+      "synonyms": "微生物代谢"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "DNA repair",
+      "normalized_name": "DNA repair",
+      "synonyms": "DNA修复"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Gut microbial metabolism",
+      "normalized_name": "Gut microbial metabolism",
+      "synonyms": "肠道微生物代谢"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "First-pass metabolism",
+      "normalized_name": "First-pass metabolism",
+      "synonyms": "首过代谢"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Energy metabolism",
+      "normalized_name": "Energy metabolism",
+      "synonyms": "能量代谢"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Glucose utilization",
+      "normalized_name": "Glucose utilization",
+      "synonyms": "葡萄糖利用"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Antioxidant effect",
+      "normalized_name": "Antioxidant effect",
+      "synonyms": "抗氧化效应"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Caloric excess",
+      "normalized_name": "Caloric excess",
+      "synonyms": "热量过剩"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Catabolism",
+      "normalized_name": "Catabolism",
+      "synonyms": "分解代谢"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape",
+      "normalized_name": "Grape",
+      "synonyms": "葡萄"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Table grape",
+      "normalized_name": "Table grape",
+      "synonyms": "鲜食葡萄"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Whole grape",
+      "normalized_name": "Whole grape",
+      "synonyms": "全葡萄"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Freeze-dried grape powder",
+      "normalized_name": "Freeze-dried grape powder",
+      "synonyms": "冷冻干燥葡萄粉"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape powder",
+      "normalized_name": "Grape powder",
+      "synonyms": "葡萄粉"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape extract",
+      "normalized_name": "Grape extract",
+      "synonyms": "葡萄提取物"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Red wine extract",
+      "normalized_name": "Red wine extract",
+      "synonyms": "红葡萄酒提取物"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape juice extract",
+      "normalized_name": "Grape juice extract",
+      "synonyms": "葡萄汁提取物"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Red wine",
+      "normalized_name": "Red wine",
+      "synonyms": "红葡萄酒"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape juice",
+      "normalized_name": "Grape juice",
+      "synonyms": "葡萄汁"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Red grape polyphenol extract",
+      "normalized_name": "Red grape polyphenol extract",
+      "synonyms": "红葡萄多酚提取物"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape polyphenol extract",
+      "normalized_name": "Grape polyphenol extract",
+      "synonyms": "葡萄多酚提取物"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Placebo",
+      "normalized_name": "Placebo",
+      "synonyms": "安慰剂"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "High-fat diet",
+      "normalized_name": "High-fat diet",
+      "synonyms": "高脂饮食"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Standard diet",
+      "normalized_name": "Standard diet",
+      "synonyms": "标准饮食"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Western diet",
+      "normalized_name": "Western diet",
+      "synonyms": "西方饮食"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "GC-MS",
+      "normalized_name": "Gas chromatography-mass spectrometry",
+      "synonyms": "气相色谱-质谱联用"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "LC-MS",
+      "normalized_name": "Liquid chromatography-mass spectrometry",
+      "synonyms": "液相色谱-质谱联用"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "NMR",
+      "normalized_name": "Nuclear magnetic resonance",
+      "synonyms": "核磁共振"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Folin-Ciocalteu assay",
+      "normalized_name": "Folin-Ciocalteu assay",
+      "synonyms": "Folin-Ciocalteu测定"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Targeted metabolomics",
+      "normalized_name": "Targeted metabolomics",
+      "synonyms": "靶向代谢组学"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Untargeted metabolomics",
+      "normalized_name": "Untargeted metabolomics",
+      "synonyms": "非靶向代谢组学"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Semi-quantitative analysis",
+      "normalized_name": "Semi-quantitative analysis",
+      "synonyms": "半定量分析"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "24-hour urine collection",
+      "normalized_name": "24-hour urine collection",
+      "synonyms": "24小时尿液收集"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Randomized controlled trial",
+      "normalized_name": "Randomized controlled trial",
+      "synonyms": "随机对照试验"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Placebo-controlled study",
+      "normalized_name": "Placebo-controlled study",
+      "synonyms": "安慰剂对照研究"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Crossover study",
+      "normalized_name": "Crossover study",
+      "synonyms": "交叉研究"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Double-blind study",
+      "normalized_name": "Double-blind study",
+      "synonyms": "双盲研究"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Bioavailability",
+      "normalized_name": "Bioavailability",
+      "synonyms": "生物利用度"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Pharmacokinetics",
+      "normalized_name": "Pharmacokinetics",
+      "synonyms": "药代动力学"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Biomarker",
+      "normalized_name": "Biomarker",
+      "synonyms": "生物标志物"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Minimal Erythema Dose",
+      "normalized_name": "Minimal Erythema Dose",
+      "synonyms": "最小红斑剂量"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Serum lipids",
+      "normalized_name": "Serum lipids",
+      "synonyms": "血清脂质"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Plasma amino acids",
+      "normalized_name": "Plasma amino acids",
+      "synonyms": "血浆氨基酸"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Branched chain amino acids",
+      "normalized_name": "Branched chain amino acids",
+      "synonyms": "支链氨基酸"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Ketone bodies",
+      "normalized_name": "Ketone bodies",
+      "synonyms": "酮体"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Sphingomyelin",
+      "normalized_name": "Sphingomyelin",
+      "synonyms": "鞘磷脂"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Lysophosphatidylcholine",
+      "normalized_name": "Lysophosphatidylcholine",
+      "synonyms": "溶血磷脂酰胆碱"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Dehydroepiandrosterone sulfate",
+      "normalized_name": "Dehydroepiandrosterone sulfate",
+      "synonyms": "硫酸脱氢表雄酮"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Total cholesterol",
+      "normalized_name": "Total cholesterol",
+      "synonyms": "总胆固醇"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "LDL cholesterol",
+      "normalized_name": "LDL cholesterol",
+      "synonyms": "LDL胆固醇"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "HDL cholesterol",
+      "normalized_name": "HDL cholesterol",
+      "synonyms": "HDL胆固醇"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Triglycerides",
+      "normalized_name": "Triglycerides",
+      "synonyms": "甘油三酯"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Fasting glucose",
+      "normalized_name": "Fasting glucose",
+      "synonyms": "空腹血糖"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Blood pressure",
+      "normalized_name": "Blood pressure",
+      "synonyms": "血压"
+    },
+    {
+      "category": "MISC",
+      "term": "Metabolomics",
+      "normalized_name": "Metabolomics",
+      "synonyms": "代谢组学"
+    },
+    {
+      "category": "MISC",
+      "term": "Lipidomics",
+      "normalized_name": "Lipidomics",
+      "synonyms": "脂质组学"
+    },
+    {
+      "category": "MISC",
+      "term": "Genomics",
+      "normalized_name": "Genomics",
+      "synonyms": "基因组学"
+    },
+    {
+      "category": "MISC",
+      "term": "Proteomics",
+      "normalized_name": "Proteomics",
+      "synonyms": "蛋白质组学"
+    },
+    {
+      "category": "MISC",
+      "term": "Transcriptomics",
+      "normalized_name": "Transcriptomics",
+      "synonyms": "转录组学"
+    },
+    {
+      "category": "MISC",
+      "term": "Nutrigenomics",
+      "normalized_name": "Nutrigenomics",
+      "synonyms": "营养基因组学"
+    },
+    {
+      "category": "MISC",
+      "term": "Microbiome",
+      "normalized_name": "Microbiome",
+      "synonyms": "微生物组"
+    },
+    {
+      "category": "MISC",
+      "term": "Gut microbiome",
+      "normalized_name": "Gut microbiome",
+      "synonyms": "肠道微生物组"
+    },
+    {
+      "category": "MISC",
+      "term": "Gut metabolome",
+      "normalized_name": "Gut metabolome",
+      "synonyms": "肠道代谢组"
+    },
+    {
+      "category": "MISC",
+      "term": "Metabolite profile",
+      "normalized_name": "Metabolite profile",
+      "synonyms": "代谢物谱"
+    },
+    {
+      "category": "MISC",
+      "term": "Mass spectrometry",
+      "normalized_name": "Mass spectrometry",
+      "synonyms": "质谱"
+    },
+    {
+      "category": "MISC",
+      "term": "Enzymatic deconjugation",
+      "normalized_name": "Enzymatic deconjugation",
+      "synonyms": "酶法去结合"
+    },
+    {
+      "category": "MISC",
+      "term": "Chemical derivatization",
+      "normalized_name": "Chemical derivatization",
+      "synonyms": "化学衍生化"
+    },
+    {
+      "category": "MISC",
+      "term": "Carryover effect",
+      "normalized_name": "Carryover effect",
+      "synonyms": "残留效应"
+    },
+    {
+      "category": "MISC",
+      "term": "Washout period",
+      "normalized_name": "Washout period",
+      "synonyms": "洗脱期"
+    },
+    {
+      "category": "MISC",
+      "term": "Intervention",
+      "normalized_name": "Intervention",
+      "synonyms": "干预"
+    },
+    {
+      "category": "MISC",
+      "term": "Exposome",
+      "normalized_name": "Exposome",
+      "synonyms": "暴露组"
+    },
+    {
+      "category": "MISC",
+      "term": "Endogenous compounds",
+      "normalized_name": "Endogenous compounds",
+      "synonyms": "内源性化合物"
+    },
+    {
+      "category": "MISC",
+      "term": "Exogenous compounds",
+      "normalized_name": "Exogenous compounds",
+      "synonyms": "外源性化合物"
+    },
+    {
+      "category": "MISC",
+      "term": "Primary metabolism",
+      "normalized_name": "Primary metabolism",
+      "synonyms": "初级代谢"
+    },
+    {
+      "category": "MISC",
+      "term": "Secondary metabolism",
+      "normalized_name": "Secondary metabolism",
+      "synonyms": "次级代谢"
+    },
+    {
+      "category": "MISC",
+      "term": "Bioactive compounds",
+      "normalized_name": "Bioactive compounds",
+      "synonyms": "生物活性化合物"
+    },
+    {
+      "category": "MISC",
+      "term": "Clinical trial",
+      "normalized_name": "Clinical trial",
+      "synonyms": "临床试验"
+    },
+    {
+      "category": "MISC",
+      "term": "Preclinical study",
+      "normalized_name": "Preclinical study",
+      "synonyms": "临床前研究"
+    },
+    {
+      "category": "MISC",
+      "term": "In vivo",
+      "normalized_name": "In vivo",
+      "synonyms": "体内"
+    },
+    {
+      "category": "MISC",
+      "term": "In vitro",
+      "normalized_name": "In vitro",
+      "synonyms": "体外"
+    },
+    {
+      "category": "MISC",
+      "term": "Disease progression",
+      "normalized_name": "Disease progression",
+      "synonyms": "疾病进展"
+    },
+    {
+      "category": "MISC",
+      "term": "Disease remission",
+      "normalized_name": "Disease remission",
+      "synonyms": "疾病缓解"
+    },
+    {
+      "category": "MISC",
+      "term": "Healthspan",
+      "normalized_name": "Healthspan",
+      "synonyms": "健康寿命"
+    },
+    {
+      "category": "MISC",
+      "term": "Therapeutic intervention",
+      "normalized_name": "Therapeutic intervention",
+      "synonyms": "治疗干预"
+    },
+    {
+      "category": "MISC",
+      "term": "Dietary intervention",
+      "normalized_name": "Dietary intervention",
+      "synonyms": "膳食干预"
+    },
+    {
+      "category": "MISC",
+      "term": "Species differences",
+      "normalized_name": "Species differences",
+      "synonyms": "物种差异"
+    }
+  ],
+  "entities_count": 212
+}

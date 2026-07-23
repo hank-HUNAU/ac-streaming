@@ -1,0 +1,70 @@
+{
+  "id": "3_ultraviolet_radiation_ultraviolet",
+  "title": "Ultraviolet Radiation. Ultraviolet is categorized as a complete carcinogen because it plays a role in every stage of malignant transformation of skin cells and skin cancer progression. Ultraviolet exerts a complex effect on human skin health. Ultraviolet radiation is molecularly and epidemiologically linked to skin cancer. However, ultraviolet also mediates the natural synthesis of vitamin D and chromophores in the skin, benefiting human skin health.",
+  "sentences": [
+    {
+      "text": "Ultraviolet Radiation.",
+      "start": 0.1,
+      "end": 1.637,
+      "word_count": 2
+    },
+    {
+      "text": "Ultraviolet is categorized as a complete carcinogen because it plays a role in every stage of malignant transformation of skin cells and skin cancer progression.",
+      "start": 2.513,
+      "end": 11.475,
+      "word_count": 25
+    },
+    {
+      "text": "Ultraviolet exerts a complex effect on human skin health.",
+      "start": 12.35,
+      "end": 15.825,
+      "word_count": 9
+    },
+    {
+      "text": "Ultraviolet radiation is molecularly and epidemiologically linked to skin cancer.",
+      "start": 16.688,
+      "end": 21.788,
+      "word_count": 10
+    },
+    {
+      "text": "However, ultraviolet also mediates the natural synthesis of vitamin D and chromophores in the skin, benefiting human skin health.",
+      "start": 22.663,
+      "end": 30.538,
+      "word_count": 19
+    },
+    {
+      "text": "The ultraviolet spectrum is subdivided into three categories: ultraviolet A, ultraviolet B, and ultraviolet C. Of these three subcategories, only two actually reach the earth's surface: ultraviolet A and ultraviolet B. Ultraviolet C is mostly absorbed by the ozone layer of the atmosphere.",
+      "start": 31.413,
+      "end": 50.925,
+      "word_count": 43
+    },
+    {
+      "text": "The wavelength of ultraviolet A ranges from 320 to 400 nanometers and comprises 90 to 95 percent of the ultraviolet radiation that reaches the earth.",
+      "start": 51.788,
+      "end": 63.5,
+      "word_count": 25
+    },
+    {
+      "text": "Ultraviolet A penetrates deeper into the skin than ultraviolet B, approximately 1000 micrometers into the epidermis and dermis.",
+      "start": 63.513,
+      "end": 72.175,
+      "word_count": 18
+    },
+    {
+      "text": "The wavelength of ultraviolet B ranges from 290 to 320 nanometers and comprises only 5 percent of ultraviolet radiation that reaches the earth.",
+      "start": 72.188,
+      "end": 83.525,
+      "word_count": 23
+    },
+    {
+      "text": "Ultraviolet B can penetrate 160 to 180 micrometers into the epidermis.",
+      "start": 83.537,
+      "end": 88.225,
+      "word_count": 9
+    }
+  ],
+  "sentence_count": 10,
+  "word_count": 183,
+  "total_duration": 88.225,
+  "voice": "en-US-AriaNeural"
+}

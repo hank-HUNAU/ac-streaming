@@ -1,0 +1,70 @@
+{
+  "id": "10_the_effects_of",
+  "title": "The Effects of Grape Polyphenols on Irritable Bowel Syndrome. The prevalence of irritable bowel syndrome in the United States is between 7 and 16 percent, with a higher prevalence among women than men. The main symptoms include diarrhea, constipation, abdominal pain, or bloating. Although the pathophysiology of irritable bowel syndrome is not fully understood, irritable bowel syndrome is believed to have disordered communication between the gut and the brain, leading to motility disturbances, visceral hypersensitivity, and altered central nervous system processing. Common treatments include dietary changes, such as increasing the intake of soluble fiber. Interestingly, emerging research has documented the potential impact of polyphenols on irritable bowel syndrome in experimental animals. For instance, researchers showed that trans-resveratrol ameliorated chronic-acute combined stress-caused irritable bowel syndrome-like symptoms including depression, anxiety, and intestinal dysfunction in male ICR mice. In another study, quercetin treatment markedly elevated the pain threshold pressure, decreased visceral motor response, and reduced 5-hydroxytryptamine in pro-inflammatory irritable bowel syndrome animals. In addition, researchers observed that rats that received chronic-acute combined stress exhibited depression and anxiety-like behavior, visceral hypersensitivity, and altered intestinal motility, as well as reduced 5-hydroxytryptamine in the hippocampus. Importantly, resveratrol dose-dependently attenuated chronic-acute combined stress-induced above-mentioned central nervous and peripheral dysfunction.",
+  "sentences": [
+    {
+      "text": "The Effects of Grape Polyphenols on Irritable Bowel Syndrome.",
+      "start": 0.1,
+      "end": 3.312,
+      "word_count": 9
+    },
+    {
+      "text": "The prevalence of irritable bowel syndrome in the United States is between 7 and 16 percent, with a higher prevalence among women than men.",
+      "start": 4.188,
+      "end": 13.012,
+      "word_count": 24
+    },
+    {
+      "text": "The main symptoms include diarrhea, constipation, abdominal pain, or bloating.",
+      "start": 13.025,
+      "end": 19.0,
+      "word_count": 10
+    },
+    {
+      "text": "Although the pathophysiology of irritable bowel syndrome is not fully understood, irritable bowel syndrome is believed to have disordered communication between the gut and the brain, leading to motility disturbances, visceral hypersensitivity, and altered central nervous system processing.",
+      "start": 19.012,
+      "end": 35.975,
+      "word_count": 38
+    },
+    {
+      "text": "Common treatments include dietary changes, such as increasing the intake of soluble fiber.",
+      "start": 35.987,
+      "end": 42.638,
+      "word_count": 13
+    },
+    {
+      "text": "Interestingly, emerging research has documented the potential impact of polyphenols on irritable bowel syndrome in experimental animals.",
+      "start": 42.938,
+      "end": 50.737,
+      "word_count": 17
+    },
+    {
+      "text": "For instance, researchers showed that trans-resveratrol ameliorated chronic-acute combined stress-caused irritable bowel syndrome-like symptoms including depression, anxiety, and intestinal dysfunction in male ICR mice.",
+      "start": 50.75,
+      "end": 64.85,
+      "word_count": 24
+    },
+    {
+      "text": "In another study, quercetin treatment markedly elevated the pain threshold pressure, decreased visceral motor response, and reduced 5-hydroxytryptamine in pro-inflammatory irritable bowel syndrome animals.",
+      "start": 64.862,
+      "end": 77.838,
+      "word_count": 24
+    },
+    {
+      "text": "In addition, researchers observed that rats that received chronic-acute combined stress exhibited depression and anxiety-like behavior, visceral hypersensitivity, and altered intestinal motility, as well as reduced 5-hydroxytryptamine in the hippocampus.",
+      "start": 77.85,
+      "end": 94.475,
+      "word_count": 30
+    },
+    {
+      "text": "Importantly, resveratrol dose-dependently attenuated chronic-acute combined stress-induced above-mentioned central nervous and peripheral dysfunction.",
+      "start": 94.8,
+      "end": 102.312,
+      "word_count": 12
+    }
+  ],
+  "sentence_count": 10,
+  "word_count": 201,
+  "total_duration": 102.312,
+  "voice": "en-US-AriaNeural"
+}

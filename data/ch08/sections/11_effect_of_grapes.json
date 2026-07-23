@@ -1,0 +1,58 @@
+{
+  "id": "11_effect_of_grapes",
+  "title": "Effect of Grapes on Kidney. In the kidneys, the long-term addition of grapes to the diet showed protective effects, indicated by a reduction in B U N and creatinine ratios, which dropped from 125 to 63.7 in males and 152 to 40.4 in females. Histological results suggested that this improvement may be due to enhanced renal perfusion. Further, R N A sequencing analysis of the tissue revealed the up-regulation of 21 genes in males and 109 genes in females, with a corresponding downregulation of 108 and 65 genes, respectively. The negative shift in F P K M values of genes, such as alox5, btk, fga, fpr1, hmox1, lox, ltf, lyve1, marco, mmp8, prg4, s100a8 and 9, serpina3n, and vsig4 in males, and the positive shift of genes, such as camp, cd300lf, cd72, fcgr4, fgr, fpr2, htra4, il10, lilrb4b, lipg, pilra, and tlr8 in females, suggest beneficial kidney effects. Additionally, immune-related gene expression was down-regulated in males and up-regulated in females, further illustrating sex-specific responses. Pathway analyses showed enrichment in immune function, collagen degradation, extracellular matrix regulation, metabolism of vitamins and cofactors, pancreatic secretion, aging, and mitochondrial function in both sexes. Grapes provide resilience against fibrosis and related pathologies and protect renal health.",
+  "sentences": [
+    {
+      "text": "Effect of Grapes on Kidney.",
+      "start": 0.1,
+      "end": 1.663,
+      "word_count": 5
+    },
+    {
+      "text": "In the kidneys, the long-term addition of grapes to the diet showed protective effects, indicated by a reduction in B U N and creatinine ratios, which dropped from 125 to 63.7 in males and 152 to 40.4 in females.",
+      "start": 2.538,
+      "end": 18.85,
+      "word_count": 39
+    },
+    {
+      "text": "Histological results suggested that this improvement may be due to enhanced renal perfusion.",
+      "start": 19.725,
+      "end": 24.738,
+      "word_count": 13
+    },
+    {
+      "text": "Further, R N A sequencing analysis of the tissue revealed the up-regulation of 21 genes in males and 109 genes in females, with a corresponding downregulation of 108 and 65 genes, respectively.",
+      "start": 25.613,
+      "end": 39.7,
+      "word_count": 32
+    },
+    {
+      "text": "The negative shift in F P K M values of genes, such as alox5, btk, fga, fpr1, hmox1, lox, ltf, lyve1, marco, mmp8, prg4, s100a8 and 9, serpina3n, and vsig4 in males, and the positive shift of genes, such as camp, cd300lf, cd72, fcgr4, fgr, fpr2, htra4, il10, lilrb4b, lipg, pilra, and tlr8 in females, suggest beneficial kidney effects.",
+      "start": 40.575,
+      "end": 76.475,
+      "word_count": 59
+    },
+    {
+      "text": "Additionally, immune-related gene expression was down-regulated in males and up-regulated in females, further illustrating sex-specific responses.",
+      "start": 77.338,
+      "end": 86.225,
+      "word_count": 16
+    },
+    {
+      "text": "Pathway analyses showed enrichment in immune function, collagen degradation, extracellular matrix regulation, metabolism of vitamins and cofactors, pancreatic secretion, aging, and mitochondrial function in both sexes.",
+      "start": 87.1,
+      "end": 101.325,
+      "word_count": 26
+    },
+    {
+      "text": "Grapes provide resilience against fibrosis and related pathologies and protect renal health.",
+      "start": 102.2,
+      "end": 107.588,
+      "word_count": 12
+    }
+  ],
+  "sentence_count": 8,
+  "word_count": 202,
+  "total_duration": 107.588,
+  "voice": "en-US-AriaNeural"
+}

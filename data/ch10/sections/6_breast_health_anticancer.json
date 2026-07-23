@@ -1,0 +1,70 @@
+{
+  "id": "6_breast_health_anticancer",
+  "title": "Breast Health. Anticancer Activity of Grape and Grape Skin Extracts Alone and Combined with Green Tea Infusions. The authors focused on inhibition of a growth-related and cancer-specific form of cell surface N A D H oxidase with protein disulfide-thiol interchange activity, discovered by their group and designated t N O X. In an animal study with implanted cells bearing t N O X, the impact of grapes and green tea was tested. The whole grape extract had some effect, but the grape skin extract combined with green tea was more effective. Green tea on its own provided no impact. Additionally, cell studies compared the ability of various grape extracts to inhibit t N O X in human cervical cells and animal mammary cells in culture. Grape and green tea combined were more effective than either alone. Grape skin extracts were more effective than whole grape extract or a grape juice extract. This study also reported that grape flavonoids inhibited t N O X without impacting healthy cells.",
+  "sentences": [
+    {
+      "text": "Breast Health.",
+      "start": 0.1,
+      "end": 0.9,
+      "word_count": 2
+    },
+    {
+      "text": "Anticancer Activity of Grape and Grape Skin Extracts Alone and Combined with Green Tea Infusions.",
+      "start": 1.775,
+      "end": 7.362,
+      "word_count": 15
+    },
+    {
+      "text": "The authors focused on inhibition of a growth-related and cancer-specific form of cell surface N A D H oxidase with protein disulfide-thiol interchange activity, discovered by their group and designated t N O X.",
+      "start": 8.238,
+      "end": 21.163,
+      "word_count": 34
+    },
+    {
+      "text": "In an animal study with implanted cells bearing t N O X, the impact of grapes and green tea was tested.",
+      "start": 22.038,
+      "end": 28.5,
+      "word_count": 21
+    },
+    {
+      "text": "The whole grape extract had some effect, but the grape skin extract combined with green tea was more effective.",
+      "start": 29.375,
+      "end": 35.375,
+      "word_count": 19
+    },
+    {
+      "text": "Green tea on its own provided no impact.",
+      "start": 36.25,
+      "end": 38.812,
+      "word_count": 8
+    },
+    {
+      "text": "Additionally, cell studies compared the ability of various grape extracts to inhibit t N O X in human cervical cells and animal mammary cells in culture.",
+      "start": 39.675,
+      "end": 49.038,
+      "word_count": 26
+    },
+    {
+      "text": "Grape and green tea combined were more effective than either alone.",
+      "start": 49.9,
+      "end": 53.112,
+      "word_count": 11
+    },
+    {
+      "text": "Grape skin extracts were more effective than whole grape extract or a grape juice extract.",
+      "start": 53.975,
+      "end": 58.9,
+      "word_count": 15
+    },
+    {
+      "text": "This study also reported that grape flavonoids inhibited t N O X without impacting healthy cells.",
+      "start": 59.763,
+      "end": 65.888,
+      "word_count": 16
+    }
+  ],
+  "sentence_count": 10,
+  "word_count": 167,
+  "total_duration": 65.888,
+  "voice": "en-US-AriaNeural"
+}

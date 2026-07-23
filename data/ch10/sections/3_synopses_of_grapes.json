@@ -1,0 +1,40 @@
+{
+  "id": "3_synopses_of_grapes",
+  "title": "Synopses of Grapes and Health Studies. Given below are brief synopses of studies that have been performed to investigate the potential relationships between grapes and health. In general, but not exclusively, the studies received partial financial support from the California Table Grape Commission. The studies have been grouped into the following categories: antioxidant status, bladder health, breast health, bone and joint health, brain health, eye health, gastrointestinal health, heart health, inflammation, immune health, kidney health, liver health, metabolic health, muscle health, ovarian health, prostate health, and skin health. This listing is arranged alphabetically and is not intended to imply a rank ordering.",
+  "sentences": [
+    {
+      "text": "Synopses of Grapes and Health Studies.",
+      "start": 0.1,
+      "end": 2.25,
+      "word_count": 6
+    },
+    {
+      "text": "Given below are brief synopses of studies that have been performed to investigate the potential relationships between grapes and health.",
+      "start": 3.112,
+      "end": 9.988,
+      "word_count": 20
+    },
+    {
+      "text": "In general, but not exclusively, the studies received partial financial support from the California Table Grape Commission.",
+      "start": 10.863,
+      "end": 17.875,
+      "word_count": 17
+    },
+    {
+      "text": "The studies have been grouped into the following categories: antioxidant status, bladder health, breast health, bone and joint health, brain health, eye health, gastrointestinal health, heart health, inflammation, immune health, kidney health, liver health, metabolic health, muscle health, ovarian health, prostate health, and skin health.",
+      "start": 18.75,
+      "end": 39.763,
+      "word_count": 45
+    },
+    {
+      "text": "This listing is arranged alphabetically and is not intended to imply a rank ordering.",
+      "start": 40.625,
+      "end": 45.35,
+      "word_count": 14
+    }
+  ],
+  "sentence_count": 5,
+  "word_count": 102,
+  "total_duration": 45.35,
+  "voice": "en-US-AriaNeural"
+}

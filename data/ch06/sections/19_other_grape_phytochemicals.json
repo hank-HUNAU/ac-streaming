@@ -1,0 +1,82 @@
+{
+  "id": "19_other_grape_phytochemicals",
+  "title": "Other Grape Phytochemicals on Melanoma. Besides resveratrol and proanthocyanidins, there are multiple other phytochemicals in grapes that have shown antiproliferative effects in melanoma models. For example, among novel catechin derivatives, 4 beta-(S-cysteinyl)epicatechin-3-O-gallate derived from grapes exhibited strong antioxidant activity and significantly reduced melanoma cell viability by inducing S phase arrest and apoptosis. Additionally, epicatechin-(4 beta-8)-epicatechin 3-O-gallate, a unique compound found in grapes, has been shown to effectively inhibit both tyrosinase activity and melanogenesis. In addition, procyanidin C1, an epicatechin trimeric flavonoid found in grapes, has been shown to inhibit the proliferation of melanoma cells through activation of the laminin receptor signaling pathway. Some other phytochemicals such as anthocyanins and cinnamic acid have shown antiproliferative properties by increasing oxidative stress, leading to mitochondrial dysfunction and reduced cell proliferation in melanoma cells.",
+  "sentences": [
+    {
+      "text": "Other Grape Phytochemicals on Melanoma.",
+      "start": 0.1,
+      "end": 2.388,
+      "word_count": 5
+    },
+    {
+      "text": "Besides resveratrol and proanthocyanidins, there are multiple other phytochemicals in grapes that have shown antiproliferative effects in melanoma models.",
+      "start": 3.25,
+      "end": 12.1,
+      "word_count": 19
+    },
+    {
+      "text": "For example, among novel catechin derivatives, 4 beta-(S-cysteinyl)epicatechin-3-O-gallate derived from grapes exhibited strong antioxidant activity and significantly reduced melanoma cell viability by inducing S phase arrest and apoptosis.",
+      "start": 12.963,
+      "end": 27.212,
+      "word_count": 28
+    },
+    {
+      "text": "Additionally, epicatechin-(4 beta-8)-epicatechin 3-O-gallate, a unique compound found in grapes, has been shown to effectively inhibit both tyrosinase activity and melanogenesis.",
+      "start": 27.225,
+      "end": 38.375,
+      "word_count": 21
+    },
+    {
+      "text": "In addition, procyanidin C1, an epicatechin trimeric flavonoid found in grapes, has been shown to inhibit the proliferation of melanoma cells through activation of the laminin receptor signaling pathway.",
+      "start": 38.388,
+      "end": 52.638,
+      "word_count": 29
+    },
+    {
+      "text": "Some other phytochemicals such as anthocyanins and cinnamic acid have shown antiproliferative properties by increasing oxidative stress, leading to mitochondrial dysfunction and reduced cell proliferation in melanoma cells.",
+      "start": 52.65,
+      "end": 66.088,
+      "word_count": 28
+    },
+    {
+      "text": "Similarly, fisetin, a flavonoid present in various fruits including grapes, is extensively studied for its anti-inflammatory and anticancer properties.",
+      "start": 66.1,
+      "end": 75.888,
+      "word_count": 19
+    },
+    {
+      "text": "Recently, the role of fisetin in melanogenesis and melanoma has garnered interest.",
+      "start": 75.9,
+      "end": 82.225,
+      "word_count": 12
+    },
+    {
+      "text": "Fisetin was shown to suppress MITF, an oncogene amplified in metastatic melanomas, while also downregulating nuclear beta-catenin and inhibiting the corresponding Wnt signaling pathways.",
+      "start": 82.237,
+      "end": 94.963,
+      "word_count": 24
+    },
+    {
+      "text": "Its anti-melanoma effects were also validated in melanoma xenograft models.",
+      "start": 94.975,
+      "end": 101.062,
+      "word_count": 10
+    },
+    {
+      "text": "In summary, there is a wealth of evidence that documents the anti-melanoma potential of grape-derived phytochemicals, including resveratrol, piceatannol, fisetin, and grape seed proanthocyanidins.",
+      "start": 101.075,
+      "end": 112.862,
+      "word_count": 24
+    },
+    {
+      "text": "Further studies, including pharmacokinetics evaluation and human clinical trials, are required to explore the potential of the above discussed phytochemicals in melanoma. the above discussed phytochemicals in melanoma",
+      "start": 113.112,
+      "end": 128.012,
+      "word_count": 28
+    }
+  ],
+  "sentence_count": 12,
+  "word_count": 247,
+  "total_duration": 128.012,
+  "voice": "en-US-AriaNeural"
+}

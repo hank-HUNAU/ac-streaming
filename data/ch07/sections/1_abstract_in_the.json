@@ -1,0 +1,82 @@
+{
+  "id": "1_abstract_in_the",
+  "title": "Abstract. In the United States alone, over five million cases of skin cancer are diagnosed each year, mainly due to ultraviolet exposure derived from the sun. While it seems obvious that exposure to ultraviolet irradiation could be prevented or limited to a safe level, the existence of a public health issue of this magnitude suggests that some type of augmentation would be helpful. Based on compelling preclinical data, the potential of grape consumption to alleviate ultraviolet damage to the skin seemed feasible, and translational studies conducted with human beings proved this to be the case. The ultraviolet protective action of one component of the grape, resveratrol, has been highly touted. As described herein, mechanistic studies have been extensive and highly instructive. However, due to minuscule amounts in the diet, physicochemical limitations such as poor absorption and rapid metabolism, it is unlikely that resveratrol has much practical application other than when applied as a topical agent. The grape, however, as a whole food containing scores of phytochemical constituents, is suitable for providing protection through normal dietary habits. Clinical trials revealed that consumption of normal daily quantities of grapes leads to enhanced resistance to ultraviolet irradiation, based on increased doses required to induce erythema and modulation of biomarkers indicative of carcinogenesis. More broadly, grape consumption leads to differential gene expression in the skin of humans. Further work is required to more completely define the mode by which grape consumption may help to alleviate skin damage. Nonetheless, the results are promising, suggesting that diet may play an even greater role than is commonly acknowledged in disease prevention and in augmenting defense mechanisms essential for responding to exogenous health risks.",
+  "sentences": [
+    {
+      "text": "Abstract.",
+      "start": 0.1,
+      "end": 0.988,
+      "word_count": 1
+    },
+    {
+      "text": "In the United States alone, over five million cases of skin cancer are diagnosed each year, mainly due to ultraviolet exposure derived from the sun.",
+      "start": 1.837,
+      "end": 10.863,
+      "word_count": 25
+    },
+    {
+      "text": "While it seems obvious that exposure to ultraviolet irradiation could be prevented or limited to a safe level, the existence of a public health issue of this magnitude suggests that some type of augmentation would be helpful.",
+      "start": 11.738,
+      "end": 23.9,
+      "word_count": 37
+    },
+    {
+      "text": "Based on compelling preclinical data, the potential of grape consumption to alleviate ultraviolet damage to the skin seemed feasible, and translational studies conducted with human beings proved this to be the case.",
+      "start": 24.775,
+      "end": 36.875,
+      "word_count": 32
+    },
+    {
+      "text": "The ultraviolet protective action of one component of the grape, resveratrol, has been highly touted.",
+      "start": 37.737,
+      "end": 43.663,
+      "word_count": 15
+    },
+    {
+      "text": "As described herein, mechanistic studies have been extensive and highly instructive.",
+      "start": 44.525,
+      "end": 49.237,
+      "word_count": 11
+    },
+    {
+      "text": "However, due to minuscule amounts in the diet, physicochemical limitations such as poor absorption and rapid metabolism, it is unlikely that resveratrol has much practical application other than when applied as a topical agent.",
+      "start": 50.112,
+      "end": 63.538,
+      "word_count": 34
+    },
+    {
+      "text": "The grape, however, as a whole food containing scores of phytochemical constituents, is suitable for providing protection through normal dietary habits.",
+      "start": 64.4,
+      "end": 73.062,
+      "word_count": 21
+    },
+    {
+      "text": "Clinical trials revealed that consumption of normal daily quantities of grapes leads to enhanced resistance to ultraviolet irradiation, based on increased doses required to induce erythema and modulation of biomarkers indicative of carcinogenesis.",
+      "start": 73.938,
+      "end": 88.6,
+      "word_count": 33
+    },
+    {
+      "text": "More broadly, grape consumption leads to differential gene expression in the skin of humans.",
+      "start": 89.475,
+      "end": 94.7,
+      "word_count": 14
+    },
+    {
+      "text": "Further work is required to more completely define the mode by which grape consumption may help to alleviate skin damage.",
+      "start": 95.575,
+      "end": 101.938,
+      "word_count": 20
+    },
+    {
+      "text": "Nonetheless, the results are promising, suggesting that diet may play an even greater role than is commonly acknowledged in disease prevention and in augmenting defense mechanisms essential for responding to exogenous health risks.",
+      "start": 102.8,
+      "end": 115.463,
+      "word_count": 33
+    }
+  ],
+  "sentence_count": 12,
+  "word_count": 276,
+  "total_duration": 115.463,
+  "voice": "en-US-AriaNeural"
+}

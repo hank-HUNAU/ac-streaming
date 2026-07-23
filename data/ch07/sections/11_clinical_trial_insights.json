@@ -1,0 +1,52 @@
+{
+  "id": "11_clinical_trial_insights",
+  "title": "Clinical Trial Insights: Alcohol Consumption and Skin Cancer Risk. In a large-scale clinical study, researchers investigated the relationship between alcohol consumption and the risk of melanoma and non-melanoma skin cancer. The results showed that overall alcohol intake was associated with an increased incidence of both melanoma and non-melanoma skin cancer. However, an intriguing finding emerged: red wine consumption demonstrated an inverse association with non-melanoma skin cancer risk in women but not in men. This observation suggests that certain components of red wine, particularly resveratrol, may have a protective effect against ultraviolet-induced skin damage. Given that red wine is a rich source of resveratrol, this finding aligns with previous research highlighting the compound's anti-inflammatory and antioxidant properties. The sex-specific differences warrant further investigation into the potential mechanisms behind resveratrol's protective effects and its interaction with hormonal or metabolic pathways.",
+  "sentences": [
+    {
+      "text": "Clinical Trial Insights: Alcohol Consumption and Skin Cancer Risk.",
+      "start": 0.1,
+      "end": 4.175,
+      "word_count": 9
+    },
+    {
+      "text": "In a large-scale clinical study, researchers investigated the relationship between alcohol consumption and the risk of melanoma and non-melanoma skin cancer.",
+      "start": 5.037,
+      "end": 14.238,
+      "word_count": 21
+    },
+    {
+      "text": "The results showed that overall alcohol intake was associated with an increased incidence of both melanoma and non-melanoma skin cancer.",
+      "start": 15.1,
+      "end": 22.863,
+      "word_count": 20
+    },
+    {
+      "text": "However, an intriguing finding emerged: red wine consumption demonstrated an inverse association with non-melanoma skin cancer risk in women but not in men.",
+      "start": 23.725,
+      "end": 33.212,
+      "word_count": 23
+    },
+    {
+      "text": "This observation suggests that certain components of red wine, particularly resveratrol, may have a protective effect against ultraviolet-induced skin damage.",
+      "start": 34.075,
+      "end": 43.737,
+      "word_count": 20
+    },
+    {
+      "text": "Given that red wine is a rich source of resveratrol, this finding aligns with previous research highlighting the compound's anti-inflammatory and antioxidant properties.",
+      "start": 44.6,
+      "end": 54.462,
+      "word_count": 23
+    },
+    {
+      "text": "The sex-specific differences warrant further investigation into the potential mechanisms behind resveratrol's protective effects and its interaction with hormonal or metabolic pathways.",
+      "start": 55.325,
+      "end": 65.725,
+      "word_count": 22
+    }
+  ],
+  "sentence_count": 7,
+  "word_count": 138,
+  "total_duration": 65.725,
+  "voice": "en-US-AriaNeural"
+}

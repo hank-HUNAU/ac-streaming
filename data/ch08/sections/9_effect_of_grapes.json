@@ -1,0 +1,46 @@
+{
+  "id": "9_effect_of_grapes",
+  "title": "Effect of Grapes on Brain. Supplementing a high-fat diet with 1 percent grape powder was found to reduce high-fat diet-induced anxiety-like behaviors. Genetic expression analysis in the brain revealed distinct differences among diet groups, with 210, 360, and 221 uniquely expressed genes in the standard diet, high-fat diet, and high-fat diet plus 1 percent grape groups, respectively. Cluster analysis showed that the high-fat diet plus 1 percent grape group's gene expression profile was more similar to the standard diet group than the high-fat diet group, suggesting a partial reversal of high-fat diet-induced changes. These findings indicate that dietary grape consumption can benefit behavior and cognition, counteracting the negative impact of a high-fat diet. The observed improvements are associated with widespread transcriptional changes in the brain, highlighting the potential of grapes in modulating neurobiological responses to dietary stressors.",
+  "sentences": [
+    {
+      "text": "Effect of Grapes on Brain.",
+      "start": 0.1,
+      "end": 1.6,
+      "word_count": 5
+    },
+    {
+      "text": "Supplementing a high-fat diet with 1 percent grape powder was found to reduce high-fat diet-induced anxiety-like behaviors.",
+      "start": 2.462,
+      "end": 10.988,
+      "word_count": 17
+    },
+    {
+      "text": "Genetic expression analysis in the brain revealed distinct differences among diet groups, with 210, 360, and 221 uniquely expressed genes in the standard diet, high-fat diet, and high-fat diet plus 1 percent grape groups, respectively.",
+      "start": 11.0,
+      "end": 29.087,
+      "word_count": 35
+    },
+    {
+      "text": "Cluster analysis showed that the high-fat diet plus 1 percent grape group's gene expression profile was more similar to the standard diet group than the high-fat diet group, suggesting a partial reversal of high-fat diet-induced changes.",
+      "start": 29.1,
+      "end": 43.487,
+      "word_count": 36
+    },
+    {
+      "text": "These findings indicate that dietary grape consumption can benefit behavior and cognition, counteracting the negative impact of a high-fat diet.",
+      "start": 43.5,
+      "end": 52.65,
+      "word_count": 20
+    },
+    {
+      "text": "The observed improvements are associated with widespread transcriptional changes in the brain, highlighting the potential of grapes in modulating neurobiological responses to dietary stressors.",
+      "start": 52.663,
+      "end": 62.038,
+      "word_count": 21
+    }
+  ],
+  "sentence_count": 6,
+  "word_count": 134,
+  "total_duration": 62.038,
+  "voice": "en-US-AriaNeural"
+}

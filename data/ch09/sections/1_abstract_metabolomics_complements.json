@@ -1,0 +1,58 @@
+{
+  "id": "1_abstract_metabolomics_complements",
+  "title": "Abstract. Metabolomics complements genomics, proteomics, and transcriptomics by providing quantitative and qualitative data for a wide range of metabolites in cells, tissues, and biological fluids. By comparing the metabolomes of control groups with those receiving therapeutic interventions or with groups following a special diet, the global effects and benefits of therapeutic or dietary interventions may be assessed, and new biomarkers of disease risk or progress may be identified. With respect to dietary intervention with grapes, one human study has been reported that evaluated changes in the metabolomes of urine and plasma following consumption of whole grapes in the form of freeze-dried table grapes, and three human studies have been reported that used metabolomics to assess changes resulting from the consumption of extracts of grape juice or extracts of wine and grape juice together. Overall, these studies found that the levels of phenolic acids increased, while certain amino acid concentrations decreased, and these effects were correlated with beneficial changes in the gut metabolome. As expected, some compounds of grape origin were measured in the metabolome as well. Human metabolomics studies of the effects of grape consumption to date have focused on changes in phenolic acids and a few other polar metabolites in plasma and urine. Additional metabolomics studies are needed to address the benefits of grape consumption, and these future studies should assess changes in additional metabolite classes, especially lipids, which have so far been understudied.",
+  "sentences": [
+    {
+      "text": "Abstract.",
+      "start": 0.1,
+      "end": 0.988,
+      "word_count": 1
+    },
+    {
+      "text": "Metabolomics complements genomics, proteomics, and transcriptomics by providing quantitative and qualitative data for a wide range of metabolites in cells, tissues, and biological fluids.",
+      "start": 1.837,
+      "end": 13.9,
+      "word_count": 24
+    },
+    {
+      "text": "By comparing the metabolomes of control groups with those receiving therapeutic interventions or with groups following a special diet, the global effects and benefits of therapeutic or dietary interventions may be assessed, and new biomarkers of disease risk or progress may be identified.",
+      "start": 14.762,
+      "end": 31.238,
+      "word_count": 43
+    },
+    {
+      "text": "With respect to dietary intervention with grapes, one human study has been reported that evaluated changes in the metabolomes of urine and plasma following consumption of whole grapes in the form of freeze-dried table grapes, and three human studies have been reported that used metabolomics to assess changes resulting from the consumption of extracts of grape juice or extracts of wine and grape juice together.",
+      "start": 32.112,
+      "end": 54.438,
+      "word_count": 65
+    },
+    {
+      "text": "Overall, these studies found that the levels of phenolic acids increased, while certain amino acid concentrations decreased, and these effects were correlated with beneficial changes in the gut metabolome.",
+      "start": 55.3,
+      "end": 66.713,
+      "word_count": 29
+    },
+    {
+      "text": "As expected, some compounds of grape origin were measured in the metabolome as well.",
+      "start": 67.588,
+      "end": 72.3,
+      "word_count": 14
+    },
+    {
+      "text": "Human metabolomics studies of the effects of grape consumption to date have focused on changes in phenolic acids and a few other polar metabolites in plasma and urine.",
+      "start": 73.162,
+      "end": 82.4,
+      "word_count": 28
+    },
+    {
+      "text": "Additional metabolomics studies are needed to address the benefits of grape consumption, and these future studies should assess changes in additional metabolite classes, especially lipids, which have so far been understudied.",
+      "start": 83.263,
+      "end": 95.338,
+      "word_count": 31
+    }
+  ],
+  "sentence_count": 8,
+  "word_count": 235,
+  "total_duration": 95.338,
+  "voice": "en-US-AriaNeural"
+}

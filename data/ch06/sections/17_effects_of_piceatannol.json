@@ -1,0 +1,52 @@
+{
+  "id": "17_effects_of_piceatannol",
+  "title": "Effects of Piceatannol on Melanoma. Piceatannol, a resveratrol analog found in grapes, has shown potential anti-melanoma activity. It inhibits melanogenesis in melanoma cells by suppressing tyrosinase activity and oxidative stress. Further, piceatannol was shown to induce a G2/M phase arrest in melanoma cells. A recent study has shown that piceatannol can reduce the proliferation, migration, and invasion of melanoma cells and inhibit tumor growth in a xenograft model by inhibiting the phosphorylation of Syk and decreasing the expression of key proteins involved in tumor progression, such as matrix metalloproteinase-2, matrix metalloproteinase-9, and vascular endothelial growth factor. Piceatannol was also shown to inhibit J A K-1, which is a key member of the S T A T pathway that is crucial for controlling cellular activities in response to extracellular cytokines and is a C O X-2-inducible enzyme involved in inflammation and carcinogenesis. Additional research is needed to fully understand the underlying mechanisms of piceatannol's antiproliferative responses against melanoma.",
+  "sentences": [
+    {
+      "text": "Effects of Piceatannol on Melanoma.",
+      "start": 0.1,
+      "end": 2.413,
+      "word_count": 5
+    },
+    {
+      "text": "Piceatannol, a resveratrol analog found in grapes, has shown potential anti-melanoma activity.",
+      "start": 3.275,
+      "end": 9.488,
+      "word_count": 12
+    },
+    {
+      "text": "It inhibits melanogenesis in melanoma cells by suppressing tyrosinase activity and oxidative stress.",
+      "start": 10.363,
+      "end": 16.65,
+      "word_count": 13
+    },
+    {
+      "text": "Further, piceatannol was shown to induce a G2/M phase arrest in melanoma cells.",
+      "start": 17.512,
+      "end": 22.288,
+      "word_count": 13
+    },
+    {
+      "text": "A recent study has shown that piceatannol can reduce the proliferation, migration, and invasion of melanoma cells and inhibit tumor growth in a xenograft model by inhibiting the phosphorylation of Syk and decreasing the expression of key proteins involved in tumor progression, such as matrix metalloproteinase-2, matrix metalloproteinase-9, and vascular endothelial growth factor.",
+      "start": 22.3,
+      "end": 46.825,
+      "word_count": 53
+    },
+    {
+      "text": "Piceatannol was also shown to inhibit J A K-1, which is a key member of the S T A T pathway that is crucial for controlling cellular activities in response to extracellular cytokines and is a C O X-2-inducible enzyme involved in inflammation and carcinogenesis.",
+      "start": 46.837,
+      "end": 64.075,
+      "word_count": 45
+    },
+    {
+      "text": "Additional research is needed to fully understand the underlying mechanisms of piceatannol's antiproliferative responses against melanoma. against melanoma",
+      "start": 64.088,
+      "end": 74.0,
+      "word_count": 18
+    }
+  ],
+  "sentence_count": 7,
+  "word_count": 159,
+  "total_duration": 74.0,
+  "voice": "en-US-AriaNeural"
+}

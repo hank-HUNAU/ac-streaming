@@ -1,0 +1,148 @@
+{
+  "id": "8_transcriptomic_effects_mediated",
+  "title": "Transcriptomic Effects Mediated by Grapes with Animal Models. While in vitro models are of value for studying dietary metabolites under controlled conditions, comprehensive in vivo investigations are necessary for understanding systemic interactions. For untargeted nutrigenomic studies, mice serve as a suitable model due, in part, to their extensive genomic characterization. As described below, we have investigated the potential of oral grape consumption to alter phenotypic expression patterns with mouse models, under a variety of experimental conditions. We have investigated a variety of tissues with males and females. We have taken care to use carefully controlled diets such that phenotypic changes can be attributed to the phytochemical constituents of grapes. Additionally, the quantity of grapes consumed by the mice was managed to correlate with a human consumption rate of one to two servings per day.",
+  "sentences": [
+    {
+      "text": "Transcriptomic Effects Mediated by Grapes with Animal Models.",
+      "start": 0.1,
+      "end": 3.825,
+      "word_count": 8
+    },
+    {
+      "text": "While in vitro models are of value for studying dietary metabolites under controlled conditions, comprehensive in vivo investigations are necessary for understanding systemic interactions.",
+      "start": 4.688,
+      "end": 15.55,
+      "word_count": 24
+    },
+    {
+      "text": "For untargeted nutrigenomic studies, mice serve as a suitable model due, in part, to their extensive genomic characterization.",
+      "start": 16.425,
+      "end": 24.212,
+      "word_count": 18
+    },
+    {
+      "text": "As described below, we have investigated the potential of oral grape consumption to alter phenotypic expression patterns with mouse models, under a variety of experimental conditions.",
+      "start": 25.075,
+      "end": 35.65,
+      "word_count": 26
+    },
+    {
+      "text": "We have investigated a variety of tissues with males and females.",
+      "start": 36.525,
+      "end": 40.237,
+      "word_count": 11
+    },
+    {
+      "text": "We have taken care to use carefully controlled diets such that phenotypic changes can be attributed to the phytochemical constituents of grapes.",
+      "start": 41.1,
+      "end": 48.688,
+      "word_count": 22
+    },
+    {
+      "text": "Additionally, the quantity of grapes consumed by the mice was managed to correlate with a human consumption rate of one to two servings per day.",
+      "start": 49.55,
+      "end": 57.3,
+      "word_count": 25
+    },
+    {
+      "text": "Influence of Grape Administration Concomitantly with a High-Fat Western-Style Diet.",
+      "start": 58.175,
+      "end": 62.95,
+      "word_count": 10
+    },
+    {
+      "text": "The effect of grapes was investigated in mice provided with a high-fat Western diet.",
+      "start": 63.825,
+      "end": 68.513,
+      "word_count": 14
+    },
+    {
+      "text": "Compared to the standard diet group, the group provided with 5 percent grape-supplemented diet showed enrichment in genes related to R N A processing, mitochondrial function, protein translation, drug metabolism, and oxidative stress pathways.",
+      "start": 69.375,
+      "end": 85.4,
+      "word_count": 34
+    },
+    {
+      "text": "Gene expression analysis revealed the greatest differences between the groups provided with the high-fat diet supplemented with 5 percent grape powder versus the high-fat diet control group.",
+      "start": 85.412,
+      "end": 96.25,
+      "word_count": 27
+    },
+    {
+      "text": "In the high-fat diet plus 5 percent grape powder group, 14 genes linked to fatty acid metabolism, transport, and sequestration were up-regulated, while genes associated with lipid accumulation and cholesterol synthesis, such as Plin4, Acaa1b, and Slc27a1, were down-regulated.",
+      "start": 96.263,
+      "end": 118.888,
+      "word_count": 39
+    },
+    {
+      "text": "Histological analysis indicated that a high-fat diet led to the development of nonalcoholic steatohepatitis, characterized by fatty liver markers, but grape supplementation mitigated these effects.",
+      "start": 118.9,
+      "end": 131.275,
+      "word_count": 25
+    },
+    {
+      "text": "Notably, survival time was improved in the high-fat diet plus 5 percent grape powder group compared to the high-fat diet group.",
+      "start": 131.287,
+      "end": 139.225,
+      "word_count": 21
+    },
+    {
+      "text": "These findings suggest that grapes may regulate hepatic gene expression, reduce oxidative damage, promote fatty acid metabolism, and alleviate nonalcoholic fatty liver disease, ultimately contributing to increased longevity in the context of a high-fat diet.",
+      "start": 139.238,
+      "end": 156.05,
+      "word_count": 35
+    },
+    {
+      "text": "To further investigate metabolic changes, grape powder was incorporated into both standard and high-fat diets and fed to 10-week-old female C57BL/6 J mice for 91 days.",
+      "start": 156.062,
+      "end": 167.975,
+      "word_count": 26
+    },
+    {
+      "text": "At the end of the study, 24-hour urine samples were collected, and after a 12-hour fast, liver tissue was harvested for metabolomic analysis.",
+      "start": 167.988,
+      "end": 179.65,
+      "word_count": 23
+    },
+    {
+      "text": "Gas chromatography-mass spectrometry revealed alterations in urinary metabolites derived from gut microbiota.",
+      "start": 179.662,
+      "end": 185.787,
+      "word_count": 12
+    },
+    {
+      "text": "In the standard diet, grape supplementation reduced urinary levels of 4-hydroxyphenylacetic acid, 5-hydroxyindole, glyceric acid, gluconic acid, and myo-inositol.",
+      "start": 185.8,
+      "end": 198.325,
+      "word_count": 19
+    },
+    {
+      "text": "Conversely, in the high-fat diet, grape supplementation led to increased urinary levels of gluconic acid, scyllo-inositol, mannitol, xylitol, 5-hydroxyindole, and 2-deoxyribonic acid.",
+      "start": 198.338,
+      "end": 212.575,
+      "word_count": 22
+    },
+    {
+      "text": "Additionally, hepatic levels of ascorbic acid and 5-oxoproline were elevated, suggesting an antioxidant effect of grapes in the liver.",
+      "start": 212.588,
+      "end": 221.562,
+      "word_count": 19
+    },
+    {
+      "text": "Pathway enrichment analysis demonstrated that grape supplementation up-regulated the malate-aspartate shuttle in both standard and high-fat diet conditions, indicating enhanced hepatic glucose utilization for A T P production.",
+      "start": 221.575,
+      "end": 235.35,
+      "word_count": 28
+    },
+    {
+      "text": "These results highlight the potential of dietary grapes to modulate gut microbiota metabolism, mitigate hepatic oxidative stress, and improve energy efficiency in the liver.",
+      "start": 235.363,
+      "end": 244.3,
+      "word_count": 21
+    }
+  ],
+  "sentence_count": 23,
+  "word_count": 509,
+  "total_duration": 244.3,
+  "voice": "en-US-AriaNeural"
+}

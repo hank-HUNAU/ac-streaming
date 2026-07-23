@@ -1,0 +1,202 @@
+{
+  "id": "4_extracts_of_red",
+  "title": "Extracts of Red Wine and Grape Juice. Researchers used metabolomics to evaluate the impact of polyphenol-rich extracts of red wine and red grape juice on organic acid excretion in human urine. This placebo-controlled, double-crossover study included 58 participants, 33 men and 25 women, 18 to 70 years of age, who consumed a combination of red wine and grape juice extracts, only grape juice extract, or placebo, for 28 days. The daily dose of extract was standardized to 800 milligrams gallic acid equivalents per day as measured using the Folin-Ciocalteu assay. After each 28-day intervention, 24-hour urine samples were collected, and urinary phenolic acids were enzymatically hydrolyzed, chemically derivatized, and measured using gas chromatography-mass spectrometry. Limitations of the study included the absence of a washout period between intervention treatments and the use of enzymatic deconjugation of glucuronide metabolites prior to derivatization for gas chromatography-mass spectrometry analysis. The lack of a washout period between treatments might result in carryover of effect, and the use of deconjugation and derivatization might result in loss of analyte due to chemical degradation or incomplete derivatization.",
+  "sentences": [
+    {
+      "text": "Extracts of Red Wine and Grape Juice.",
+      "start": 0.1,
+      "end": 2.275,
+      "word_count": 7
+    },
+    {
+      "text": "Researchers used metabolomics to evaluate the impact of polyphenol-rich extracts of red wine and red grape juice on organic acid excretion in human urine.",
+      "start": 3.15,
+      "end": 12.512,
+      "word_count": 24
+    },
+    {
+      "text": "This placebo-controlled, double-crossover study included 58 participants, 33 men and 25 women, 18 to 70 years of age, who consumed a combination of red wine and grape juice extracts, only grape juice extract, or placebo, for 28 days.",
+      "start": 13.387,
+      "end": 31.95,
+      "word_count": 38
+    },
+    {
+      "text": "The daily dose of extract was standardized to 800 milligrams gallic acid equivalents per day as measured using the Folin-Ciocalteu assay.",
+      "start": 31.962,
+      "end": 42.212,
+      "word_count": 21
+    },
+    {
+      "text": "After each 28-day intervention, 24-hour urine samples were collected, and urinary phenolic acids were enzymatically hydrolyzed, chemically derivatized, and measured using gas chromatography-mass spectrometry.",
+      "start": 42.562,
+      "end": 55.975,
+      "word_count": 24
+    },
+    {
+      "text": "Limitations of the study included the absence of a washout period between intervention treatments and the use of enzymatic deconjugation of glucuronide metabolites prior to derivatization for gas chromatography-mass spectrometry analysis.",
+      "start": 55.987,
+      "end": 69.138,
+      "word_count": 31
+    },
+    {
+      "text": "The lack of a washout period between treatments might result in carryover of effect, and the use of deconjugation and derivatization might result in loss of analyte due to chemical degradation or incomplete derivatization.",
+      "start": 69.15,
+      "end": 83.475,
+      "word_count": 34
+    },
+    {
+      "text": "Compared with placebo, the concentrations of 17 low molecular mass phenolic acids increased in urine following consumption of extracts of red wine plus grape juice or just grape juice extract for 28 days.",
+      "start": 83.487,
+      "end": 98.025,
+      "word_count": 33
+    },
+    {
+      "text": "Urinary levels of 4-hydroxybenzoic acid and dihydroferulic acid increased significantly only after treatment with the grape juice extract.",
+      "start": 98.037,
+      "end": 106.938,
+      "word_count": 18
+    },
+    {
+      "text": "Another 15 phenolic acids increased following consumption of either grape juice extract or the combination of wine extract and grape juice extract.",
+      "start": 106.95,
+      "end": 117.15,
+      "word_count": 22
+    },
+    {
+      "text": "Among these, syringic acid, 3-hydroxyhippuric acid, 4-hydroxyhippuric acid, 4-hydroxymandelic acid, and 3-hydroxyphenylacetic acid showed the greatest increases in urine.",
+      "start": 117.162,
+      "end": 129.375,
+      "word_count": 19
+    },
+    {
+      "text": "Other phenolic acids showing increases following consumption of extracts of grape juice or red wine plus grape juice included pyrogallol, 4-hydroxyphenylacetic acid, isovanillic acid, 3-hydroxyphenylpropionic acid, homovanillic acid, 3-(3-hydroxyphenyl)-3-hydroxypropionic acid, vanillylmandelic acid, 3,4-dihydroxyphenylpropionic acid, and ferulic acid.",
+      "start": 129.387,
+      "end": 153.325,
+      "word_count": 37
+    },
+    {
+      "text": "Among the phenolic acids that were measured, only vanillic acid did not show a significant increase following either treatment.",
+      "start": 154.188,
+      "end": 160.938,
+      "word_count": 19
+    },
+    {
+      "text": "An organic acid but not a phenolic acid, hippuric acid excretion increased after consumption of the mixture of wine and grape juice extract but not the grape juice extract alone.",
+      "start": 161.812,
+      "end": 172.088,
+      "word_count": 30
+    },
+    {
+      "text": "Some of the organic acids excreted in urine might have originated from the wine and grape juice extracts, such as syringic acid, which was reported to be present at 1.0 milligram per dose in the wine extract as well as in the grape juice extract, and ferulic acid, which was also present at 0.07 milligrams per dose and 0.09 milligrams per dose in the extracts of wine and grape juice, respectively.",
+      "start": 172.95,
+      "end": 198.137,
+      "word_count": 71
+    },
+    {
+      "text": "However, the abundant grape constituent, tartaric acid, was not measured in urine during this investigation.",
+      "start": 199.012,
+      "end": 205.488,
+      "word_count": 15
+    },
+    {
+      "text": "Most of the other phenolic acids were hypothesized to have been formed by metabolism of grape polyphenols by the gut microbiota.",
+      "start": 206.363,
+      "end": 213.475,
+      "word_count": 21
+    },
+    {
+      "text": "This is likely, as the 28-day intervention with wine and grape juice extract would be expected to produce changes in the composition of the gut microbiome.",
+      "start": 214.35,
+      "end": 222.887,
+      "word_count": 26
+    },
+    {
+      "text": "Another research group carried out a similar placebo-controlled, randomized, crossover clinical trial involving 35 healthy men, 18 to 69 years of age, who were treated for 5 days with placebo or the same mixture of red wine and grape juice extract used in the previous study, separated by a 2-day washout period.",
+      "start": 223.762,
+      "end": 245.812,
+      "word_count": 52
+    },
+    {
+      "text": "The grape product tested consisted of a mix of red wine extract and grape juice extract containing 870 milligrams dry weight red wine extract and 540 milligrams dry weight red grape juice extract, which was equivalent to 630 milliliters of red wine and grape juice.",
+      "start": 245.825,
+      "end": 263.775,
+      "word_count": 45
+    },
+    {
+      "text": "Blood samples as well as 24-hour urine collections were obtained.",
+      "start": 263.788,
+      "end": 268.762,
+      "word_count": 10
+    },
+    {
+      "text": "Limitations of the study include the short duration of the intervention, which might not be long enough to elicit changes in the gut microbiome, and the short washout period.",
+      "start": 268.775,
+      "end": 280.342,
+      "word_count": 29
+    },
+    {
+      "text": "In a targeted metabolomics analysis, semi-quantitative analysis of 18 phenolic acids in urine was carried out using gas chromatography-mass spectrometry following deconjugation by beta-glucuronidase and chemical derivatization to improve volatility and thermal stability.",
+      "start": 280.354,
+      "end": 298.667,
+      "word_count": 33
+    },
+    {
+      "text": "Syringic acid, 3-hydroxyhippuric acid, pyrogallol, 3-hydroxyphenylacetic acid, and 3-hydroxyphenylpropionic acid increased significantly in urine as a result of wine and grape juice extract intake.",
+      "start": 298.917,
+      "end": 311.892,
+      "word_count": 24
+    },
+    {
+      "text": "These phenolic acids were also reported to increase significantly in the previous study.",
+      "start": 311.904,
+      "end": 317.904,
+      "word_count": 13
+    },
+    {
+      "text": "Smaller increases in urinary levels of another ten phenolic acids following wine and grape juice extract consumption were described as statistically interesting.",
+      "start": 317.917,
+      "end": 327.192,
+      "word_count": 22
+    },
+    {
+      "text": "In an untargeted gas chromatography-mass spectrometry metabolomics analysis of the same urine specimens carried out without enzymatic deconjugation, 17 out of 159 compounds showed statistically interesting changes.",
+      "start": 327.204,
+      "end": 342.717,
+      "word_count": 27
+    },
+    {
+      "text": "Of these 17 metabolites, 9 were phenolic compounds that were also found to be elevated using the targeted gas chromatography-mass spectrometry analysis, except that the magnitude of the increases was found to be different.",
+      "start": 343.029,
+      "end": 356.68,
+      "word_count": 34
+    },
+    {
+      "text": "Detected only using untargeted metabolomics, catechol, indole-3-lactic acid, glucose-1-phosphate, and 1-methylhistidine increased due to consumption of the extract, while urine concentrations of p-cresol sulfate, 3,4-dihydroxyphenylglycol, and 3-indoxylsulfuric acid decreased.",
+      "start": 356.692,
+      "end": 375.979,
+      "word_count": 29
+    },
+    {
+      "text": "Comparing the second study with the similar metabolomics study by the first group, both reported that ten phenolic metabolites increased following consumption of the same wine and grape extract, although the magnitude of each change varied considerably.",
+      "start": 375.992,
+      "end": 391.079,
+      "word_count": 37
+    },
+    {
+      "text": "However, six phenolic metabolites that were found to increase in the first study did not change in the second study, including 4-hydroxybenzoic acid, 4-hydroxyphenylacetic acid, isovanillic acid, 3-(3-hydroxyphenyl)-3-hydroxypropionic acid, dihydroferulic acid, and 4-hydroxyphenylmandelic acid.",
+      "start": 391.092,
+      "end": 410.829,
+      "word_count": 34
+    },
+    {
+      "text": "These conflicting results might be due to differences in the duration of intervention, 4 days versus 28 days, differences in diet, and the exclusion of women in the second study.",
+      "start": 410.842,
+      "end": 422.454,
+      "word_count": 29
+    }
+  ],
+  "sentence_count": 32,
+  "word_count": 908,
+  "total_duration": 422.454,
+  "voice": "en-US-AriaNeural"
+}

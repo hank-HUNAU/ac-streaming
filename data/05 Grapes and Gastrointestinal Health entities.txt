@@ -1,0 +1,419 @@
+category,term,normalized_name,synonyms
+CHEMICAL,Resveratrol,Resveratrol,白藜芦醇
+CHEMICAL,trans-Resveratrol,trans-Resveratrol,反式白藜芦醇
+CHEMICAL,cis-Resveratrol,cis-Resveratrol,顺式白藜芦醇
+CHEMICAL,Piceatannol,Piceatannol,白皮杉醇
+CHEMICAL,Dihydroresveratrol,Dihydroresveratrol,二氢白藜芦醇
+CHEMICAL,Quercetin,Quercetin,槲皮素
+CHEMICAL,Quercetin glucoside,Quercetin glucoside,槲皮素葡萄糖苷
+CHEMICAL,Kaempferol,Kaempferol,山柰酚
+CHEMICAL,Kaempferol glucoside,Kaempferol glucoside,山柰酚葡萄糖苷
+CHEMICAL,Isorhamnetin,Isorhamnetin,异鼠李素
+CHEMICAL,Isorhamnetin glucoside,Isorhamnetin glucoside,异鼠李素葡萄糖苷
+CHEMICAL,Myricetin,Myricetin,杨梅素
+CHEMICAL,Myricetin glucoside,Myricetin glucoside,杨梅素葡萄糖苷
+CHEMICAL,Catechin,Catechin,儿茶素
+CHEMICAL,Epicatechin,Epicatechin,表儿茶素
+CHEMICAL,Anthocyanins,Anthocyanins,花青素
+CHEMICAL,Malvidin,Malvidin,锦葵色素
+CHEMICAL,Cyanidin,Cyanidin,矢车菊色素
+CHEMICAL,Delphinidin,Delphinidin,飞燕草色素
+CHEMICAL,Petunidin,Petunidin,矮牵牛色素
+CHEMICAL,Proanthocyanidins,Proanthocyanidins,原花青素
+CHEMICAL,Procyanidins,Procyanidins,原花青素
+CHEMICAL,Procyanidin B2,Procyanidin B2,原花青素B2
+CHEMICAL,Flavonoids,Flavonoids,类黄酮
+CHEMICAL,Flavonols,Flavonols,黄酮醇
+CHEMICAL,Flavan-3-ols,Flavan-3-ols,黄烷-3-醇
+CHEMICAL,Anthocyanidins,Anthocyanidins,花青素苷元
+CHEMICAL,Nonflavonoids,Nonflavonoids,非类黄酮
+CHEMICAL,Phenolic acids,Phenolic acids,酚酸
+CHEMICAL,Stilbenes,Stilbenes,芪类
+CHEMICAL,Gallic acid,Gallic acid,没食子酸
+CHEMICAL,Hydroxybenzoic acid,Hydroxybenzoic acid,羟基苯甲酸
+CHEMICAL,Hydroxycinnamates,Hydroxycinnamates,羟基肉桂酸酯
+CHEMICAL,Caffeic acid,Caffeic acid,咖啡酸
+CHEMICAL,Coumaric acid,Coumaric acid,香豆酸
+CHEMICAL,Tannic acid,Tannic acid,鞣酸
+CHEMICAL,Chlorogenic acid,Chlorogenic acid,绿原酸
+CHEMICAL,SCFAs,Short-chain fatty acids,短链脂肪酸
+CHEMICAL,Butyrate,Butyrate,丁酸
+CHEMICAL,Acetate,Acetate,乙酸
+CHEMICAL,Propionate,Propionate,丙酸
+CHEMICAL,Butyric acid,Butyric acid,丁酸
+CHEMICAL,Acetic acid,Acetic acid,乙酸
+CHEMICAL,Propionic acid,Propionic acid,丙酸
+CHEMICAL,Deoxycholic acid,Deoxycholic acid,脱氧胆酸
+CHEMICAL,Bile acids,Bile acids,胆汁酸
+CHEMICAL,Secondary bile acids,Secondary bile acids,次级胆汁酸
+CHEMICAL,LPS,Lipopolysaccharide,脂多糖
+CHEMICAL,Lipopolysaccharide,Lipopolysaccharide,脂多糖
+CHEMICAL,ROS,Reactive oxygen species,活性氧
+CHEMICAL,Diamine oxidase,Diamine oxidase,二胺氧化酶
+CHEMICAL,D-Lactic acid,D-Lactic acid,D-乳酸
+CHEMICAL,Endotoxin,Endotoxin,内毒素
+CHEMICAL,Glutathione,Glutathione,谷胱甘肽
+CHEMICAL,GSSG,Oxidized glutathione,氧化型谷胱甘肽
+CHEMICAL,Fluorescein,Fluorescein,荧光素
+CHEMICAL,5-Hydroxytryptamine,5-Hydroxytryptamine,5-羟色胺
+CHEMICAL,Prostaglandin E2,Prostaglandin E2,前列腺素E2
+CHEMICAL,3-Hydroxyphenylacetic acid,3-Hydroxyphenylacetic acid,3-羟基苯乙酸
+CHEMICAL,4-Hydroxyphenylacetic acid,4-Hydroxyphenylacetic acid,4-羟基苯乙酸
+CHEMICAL,3-Hydroxyphenylpropionic acid,3-Hydroxyphenylpropionic acid,3-羟基苯丙酸
+CHEMICAL,3,4-Dihydroxyphenylacetic acid,3,4-Dihydroxyphenylacetic acid,3,4-二羟基苯乙酸
+CHEMICAL,3-(3,4-Dihydroxyphenyl)-propionic acid,3-(3,4-Dihydroxyphenyl)-propionic acid,3-(3,4-二羟基苯基)-丙酸
+CHEMICAL,Dihydroxyphenyl valeric acid,Dihydroxyphenyl valeric acid,二羟基苯戊酸
+CHEMICAL,Hydrocaffeic acid,Hydrocaffeic acid,氢化咖啡酸
+CHEMICAL,Ferulaldehyde,Ferulaldehyde,阿魏醛
+CHEMICAL,Resveratrol-glucuronide,Resveratrol-glucuronide,白藜芦醇葡萄糖醛酸苷
+CHEMICAL,Resveratrol-sulfate,Resveratrol-sulfate,白藜芦醇硫酸酯
+CHEMICAL,2'-Deoxyribonic acid,2'-Deoxyribonic acid,2'-脱氧核糖酸
+CHEMICAL,Glutaconic acid,Glutaconic acid,戊烯二酸
+CHEMICAL,Quercetin aglycone,Quercetin aglycone,槲皮素苷元
+CHEMICAL,Quercetin monoglycoside,Quercetin monoglycoside,槲皮素单糖苷
+CHEMICAL,Resveratrol aglycone,Resveratrol aglycone,白藜芦醇苷元
+CHEMICAL,Resveratrol glucoside,Resveratrol glucoside,白藜芦醇葡萄糖苷
+CHEMICAL,Aglycones,Aglycones,苷元
+CHEMICAL,Glucosides,Glucosides,葡萄糖苷
+CHEMICAL,Polyphenols,Polyphenols,多酚
+CHEMICAL,Xenobiotics,Xenobiotics,外源物质
+CHEMICAL,GSH,Glutathione,谷胱甘肽
+CHEMICAL,NADPH,Nicotinamide adenine dinucleotide phosphate,还原型烟酰胺腺嘌呤二核苷酸磷酸
+CHEMICAL,NO,Nitric oxide,一氧化氮
+CHEMICAL,H2O2,Hydrogen peroxide,过氧化氢
+CHEMICAL,O2-,Superoxide anion,超氧阴离子
+PROTEIN_GENE,Occludin,Occludin,闭合蛋白
+PROTEIN_GENE,OCCL1,Occludin,闭合蛋白
+PROTEIN_GENE,Claudin,Claudin,紧密连接蛋白
+PROTEIN_GENE,Claudin-1,Claudin-1,紧密连接蛋白1
+PROTEIN_GENE,Claudin-2,Claudin-2,紧密连接蛋白2
+PROTEIN_GENE,Claudin-5,Claudin-5,紧密连接蛋白5
+PROTEIN_GENE,ZO-1,Zonula occludens-1,闭锁小带蛋白1
+PROTEIN_GENE,ZO-2,Zonula occludens-2,闭锁小带蛋白2
+PROTEIN_GENE,MUC2,Mucin-2,黏蛋白2
+PROTEIN_GENE,MUC5AC,Mucin-5AC,黏蛋白5AC
+PROTEIN_GENE,MYO9B,Myosin IXB,肌球蛋白IXB
+PROTEIN_GENE,PTPN,Protein tyrosine phosphatase,蛋白酪氨酸磷酸酶
+PROTEIN_GENE,Nrf2,Nuclear factor erythroid 2-related factor 2,核因子E2相关因子2
+PROTEIN_GENE,NF-κB,Nuclear factor-kappa B,核因子κB
+PROTEIN_GENE,IκB-α,Inhibitor of nuclear factor kappa B alpha,核因子κB抑制蛋白α
+PROTEIN_GENE,TLR2,Toll-like receptor 2,Toll样受体2
+PROTEIN_GENE,TLR4,Toll-like receptor 4,Toll样受体4
+PROTEIN_GENE,NLRP3,NOD-like receptor family pyrin domain containing 3,NOD样受体家族含pyrin结构域蛋白3
+PROTEIN_GENE,COX-2,Cyclooxygenase-2,环氧合酶-2
+PROTEIN_GENE,iNOS,Inducible nitric oxide synthase,诱导型一氧化氮合酶
+PROTEIN_GENE,HO-1,Heme oxygenase-1,血红素加氧酶-1
+PROTEIN_GENE,SOD,Superoxide dismutase,超氧化物歧化酶
+PROTEIN_GENE,CAT,Catalase,过氧化氢酶
+PROTEIN_GENE,GPX,Glutathione peroxidase,谷胱甘肽过氧化物酶
+PROTEIN_GENE,GPX4,Glutathione peroxidase 4,谷胱甘肽过氧化物酶4
+PROTEIN_GENE,Keap-1,Kelch-like ECH-associated protein 1, Kelch样ECH相关蛋白1
+PROTEIN_GENE,HIF-1α,Hypoxia-inducible factor 1-alpha,缺氧诱导因子1α
+PROTEIN_GENE,TNF-α,Tumor necrosis factor-alpha,肿瘤坏死因子α
+PROTEIN_GENE,IL-1β,Interleukin-1 beta,白细胞介素-1β
+PROTEIN_GENE,IL-6,Interleukin-6,白细胞介素-6
+PROTEIN_GENE,IL-10,Interleukin-10,白细胞介素-10
+PROTEIN_GENE,IL-18,Interleukin-18,白细胞介素-18
+PROTEIN_GENE,MMP-2,Matrix metalloproteinase-2,基质金属蛋白酶2
+PROTEIN_GENE,MMP-9,Matrix metalloproteinase-9,基质金属蛋白酶9
+PROTEIN_GENE,MCP-1,Monocyte chemoattractant protein-1,单核细胞趋化蛋白1
+PROTEIN_GENE,CRP,C-reactive protein,C反应蛋白
+PROTEIN_GENE,hs-CRP,High-sensitivity C-reactive protein,高敏C反应蛋白
+PROTEIN_GENE,MAPK,Mitogen-activated protein kinase,丝裂原活化蛋白激酶
+PROTEIN_GENE,ERK,Extracellular signal-regulated kinase,细胞外信号调节激酶
+PROTEIN_GENE,ERK1,Extracellular signal-regulated kinase 1,细胞外信号调节激酶1
+PROTEIN_GENE,ERK2,Extracellular signal-regulated kinase 2,细胞外信号调节激酶2
+PROTEIN_GENE,p38 MAPK,p38 mitogen-activated protein kinase,p38丝裂原活化蛋白激酶
+PROTEIN_GENE,PI3K,Phosphoinositide 3-kinase,磷脂酰肌醇3-激酶
+PROTEIN_GENE,AKT,Protein kinase B,蛋白激酶B
+PROTEIN_GENE,PKC,Protein kinase C,蛋白激酶C
+PROTEIN_GENE,PKCα,Protein kinase C alpha,蛋白激酶Cα
+PROTEIN_GENE,ARE,Antioxidant responsive element,抗氧化反应元件
+PROTEIN_GENE,Wnt,Wnt signaling protein,Wnt信号蛋白
+PROTEIN_GENE,Lbp,Lipopolysaccharide-binding protein,脂多糖结合蛋白
+PROTEIN_GENE,Rag1,Recombination activating gene 1,重组激活基因1
+PROTEIN_GENE,β-Glucosidase,Beta-glucosidase,β-葡萄糖苷酶
+PROTEIN_GENE,α-Rhamnosidase,Alpha-rhamnosidase,α-鼠李糖苷酶
+PROTEIN_GENE,β-Glucuronidase,Beta-glucuronidase,β-葡萄糖醛酸酶
+PROTEIN_GENE,Demethylase,Demethylase,脱甲基酶
+PROTEIN_GENE,Dehydroxylase,Dehydroxylase,脱羟基酶
+PROTEIN_GENE,Hydrogenase,Hydrogenase,氢化酶
+PROTEIN_GENE,Decarboxylase,Decarboxylase,脱羧酶
+DISEASE,IBD,Inflammatory bowel disease,炎症性肠病
+DISEASE,Crohn's disease,Crohn's disease,克罗恩病
+DISEASE,Ulcerative colitis,Ulcerative colitis,溃疡性结肠炎
+DISEASE,CRC,Colorectal cancer,结直肠癌
+DISEASE,Colorectal cancer,Colorectal cancer,结直肠癌
+DISEASE,Colon cancer,Colon cancer,结肠癌
+DISEASE,CAC,Colitis-associated colon cancer,结肠炎相关结肠癌
+DISEASE,Celiac disease,Celiac disease,乳糜泻
+DISEASE,IBS,Irritable bowel syndrome,肠易激综合征
+DISEASE,Leaky gut,Leaky gut,肠漏
+DISEASE,Dysbiosis,Dysbiosis,菌群失调
+DISEASE,Colitis,Colitis,结肠炎
+DISEASE,Obesity,Obesity,肥胖
+DISEASE,Metabolic disorders,Metabolic disorders,代谢紊乱
+DISEASE,Cataract,Cataract,白内障
+DISEASE,Atherosclerosis,Atherosclerosis,动脉粥样硬化
+DISEASE,Inflammation,Inflammation,炎症
+DISEASE,Oxidative stress,Oxidative stress,氧化应激
+DISEASE,Insulin resistance,Insulin resistance,胰岛素抵抗
+DISEASE,Ferroptosis,Ferroptosis,铁死亡
+PATHWAY,NF-κB signaling pathway,NF-κB signaling pathway,核因子κB信号通路
+PATHWAY,Nrf2 signaling pathway,Nrf2 signaling pathway,Nrf2信号通路
+PATHWAY,TLR4 signaling pathway,TLR4 signaling pathway,Toll样受体4信号通路
+PATHWAY,Wnt signaling pathway,Wnt signaling pathway,Wnt信号通路
+PATHWAY,MAPK signaling pathway,MAPK signaling pathway,MAPK信号通路
+PATHWAY,ERK signaling pathway,ERK signaling pathway,ERK信号通路
+PATHWAY,p38 MAPK signaling pathway,p38 MAPK signaling pathway,p38 MAPK信号通路
+PATHWAY,PI3K/AKT signaling pathway,PI3K/AKT signaling pathway,PI3K/AKT信号通路
+PATHWAY,PKC signaling pathway,PKC signaling pathway,蛋白激酶C信号通路
+PATHWAY,JAK/STAT signaling pathway,JAK/STAT signaling pathway,JAK/STAT信号通路
+PATHWAY,HO-1 antioxidant pathway,HO-1 antioxidant pathway,血红素加氧酶-1抗氧化通路
+SPECIES,Akkermansia muciniphila,Akkermansia muciniphila,嗜黏蛋白阿克曼菌
+SPECIES,Bifidobacterium,Bifidobacterium,双歧杆菌
+SPECIES,Bifidobacterium infantis,Bifidobacterium infantis,婴儿双歧杆菌
+SPECIES,Lactobacillus,Lactobacillus,乳杆菌
+SPECIES,Lactobacillus acidophilus,Lactobacillus acidophilus,嗜酸乳杆菌
+SPECIES,Lactococcus,Lactococcus,乳球菌
+SPECIES,Faecalibacterium prausnitzii,Faecalibacterium prausnitzii,普拉梭菌
+SPECIES,Faecalibacterium,Faecalibacterium,粪杆菌属
+SPECIES,Eubacterium rectale,Eubacterium rectale,直肠真杆菌
+SPECIES,Eubacterium coprostanoligenes,Eubacterium coprostanoligenes,产粪甾醇真杆菌
+SPECIES,Ruminococcus gnavus,Ruminococcus gnavus,活泼瘤胃球菌
+SPECIES,Ruminococcus torques,Ruminococcus torques,扭转瘤胃球菌
+SPECIES,Clostridium,Clostridium,梭菌属
+SPECIES,Clostridium clostridioforme,Clostridium clostridioforme,梭形梭菌
+SPECIES,Clostridium histolyticum,Clostridium histolyticum,溶组织梭菌
+SPECIES,Clostridium cluster IV,Clostridium cluster IV,梭菌簇IV
+SPECIES,Clostridium cluster XIVa,Clostridium cluster XIVa,梭菌簇XIVa
+SPECIES,Ruminococcaceae,Ruminococcaceae,瘤胃球菌科
+SPECIES,Lachnospiraceae,Lachnospiraceae,毛螺菌科
+SPECIES,Bacteroides,Bacteroides,拟杆菌属
+SPECIES,Bacteroides acidifaciens,Bacteroides acidifaciens,产酸拟杆菌
+SPECIES,Bacteroides-Prevotella,Bacteroides-Prevotella,拟杆菌-普雷沃菌属
+SPECIES,Enterobacter cloacae,Enterobacter cloacae,阴沟肠杆菌
+SPECIES,Escherichia coli,Escherichia coli,大肠杆菌
+SPECIES,Fusobacterium nucleatum,Fusobacterium nucleatum,具核梭杆菌
+SPECIES,Bilophila wadsworthia,Bilophila wadsworthia,沃氏嗜胆菌
+SPECIES,Enterobacteria,Enterobacteria,肠杆菌科
+SPECIES,Parasutterella,Parasutterella,副萨特氏菌属
+SPECIES,Flavonifractor,Flavonifractor,类黄酮裂解菌属
+SPECIES,Holdemania,Holdemania,霍尔德曼氏菌属
+SPECIES,Dialister,Dialister,戴阿利斯特菌属
+SPECIES,Streptococcus thermophilus,Streptococcus thermophilus,嗜热链球菌
+SPECIES,Butyricicoccus,Butyricicoccus,丁酸球菌属
+SPECIES,Mus musculus,Mus musculus,小鼠
+SPECIES,C57BL/6,C57BL/6 mouse,C57BL/6小鼠
+SPECIES,Rattus norvegicus,Rattus norvegicus,大鼠
+SPECIES,ICR mouse,ICR mouse,ICR小鼠
+SPECIES,Canine,Canine,犬
+SPECIES,Geese,Geese,鹅
+SPECIES,Caco-2,Caco-2 cells,Caco-2细胞
+SPECIES,HT-29,HT-29 cells,HT-29细胞
+SPECIES,SW480,SW480 cells,SW480细胞
+SPECIES,HCT-116,HCT-116 cells,HCT-116细胞
+SPECIES,CCD-18,CCD-18 cells,CCD-18细胞
+SPECIES,LS174T,LS174T cells,LS174T细胞
+SPECIES,Jurkat,Jurkat cells,Jurkat细胞
+SPECIES,U-937,U-937 cells,U-937细胞
+SPECIES,IL-10−/− mouse,IL-10 knockout mouse,IL-10基因敲除小鼠
+SPECIES,Rag1−/− mouse,Rag1 knockout mouse,Rag1基因敲除小鼠
+SPECIES,DQ8 transgenic mouse,DQ8 transgenic mouse,DQ8转基因小鼠
+ANATOMY,GI tract,Gastrointestinal tract,胃肠道
+ANATOMY,Small intestine,Small intestine,小肠
+ANATOMY,Large intestine,Large intestine,大肠
+ANATOMY,Colon,Colon,结肠
+ANATOMY,Cecum,Cecum,盲肠
+ANATOMY,Ileum,Ileum,回肠
+ANATOMY,Intestinal epithelium,Intestinal epithelium,肠道上皮
+ANATOMY,Intestinal mucosa,Intestinal mucosa,肠黏膜
+ANATOMY,Intestinal mucus,Intestinal mucus,肠道黏液层
+ANATOMY,Tight junction,Tight junction,紧密连接
+ANATOMY,Goblet cells,Goblet cells,杯状细胞
+ANATOMY,Enterocytes,Enterocytes,肠上皮细胞
+ANATOMY,Colonocytes,Colonocytes,结肠细胞
+ANATOMY,Mucosal barrier,Mucosal barrier,黏膜屏障
+ANATOMY,Epithelial barrier,Epithelial barrier,上皮屏障
+ANATOMY,Basolateral membrane,Basolateral membrane,基底侧膜
+ANATOMY,Apical membrane,Apical membrane,顶膜
+ANATOMY,Intestinal lumen,Intestinal lumen,肠腔
+ANATOMY,Villi,Villi,绒毛
+ANATOMY,Crypts,Crypts,隐窝
+ANATOMY,Microvilli,Microvilli,微绒毛
+ANATOMY,Paracellular pathway,Paracellular pathway,旁细胞途径
+ANATOMY,Transepithelial pathway,Transepithelial pathway,跨上皮途径
+ANATOMY,Hippocampus,Hippocampus,海马
+PHENOMENA,Oxidative stress,Oxidative stress,氧化应激
+PHENOMENA,Inflammation,Inflammation,炎症
+PHENOMENA,Chronic inflammation,Chronic inflammation,慢性炎症
+PHENOMENA,Systemic inflammation,Systemic inflammation,全身性炎症
+PHENOMENA,Apoptosis,Apoptosis,细胞凋亡
+PHENOMENA,Autophagy,Autophagy,自噬
+PHENOMENA,Ferroptosis,Ferroptosis,铁死亡
+PHENOMENA,Necrosis,Necrosis,坏死
+PHENOMENA,Intestinal permeability,Intestinal permeability,肠道通透性
+PHENOMENA,Leaky gut,Leaky gut,肠漏
+PHENOMENA,Barrier dysfunction,Barrier dysfunction,屏障功能障碍
+PHENOMENA,Dysbiosis,Dysbiosis,菌群失调
+PHENOMENA,Carcinogenesis,Carcinogenesis,癌变
+PHENOMENA,Tumorigenesis,Tumorigenesis,肿瘤发生
+PHENOMENA,Epithelial-mesenchymal transition,Epithelial-mesenchymal transition,上皮-间质转化
+PHENOMENA,Oxidative phosphorylation,Oxidative phosphorylation,氧化磷酸化
+PHENOMENA,Anaerobic respiration,Anaerobic respiration,无氧呼吸
+PHENOMENA,Quorum sensing,Quorum sensing,群体感应
+PHENOMENA,Biofilm formation,Biofilm formation,生物膜形成
+PHENOMENA,Extracellular electron transfer,Extracellular electron transfer,胞外电子转移
+PHENOMENA,Villous atrophy,Villous atrophy,绒毛萎缩
+PHENOMENA,Crypt hyperplasia,Crypt hyperplasia,隐窝增生
+PHENOMENA,Visceral hypersensitivity,Visceral hypersensitivity,内脏高敏感性
+PHENOMENA,Intraepithelial lymphocyte infiltration,Intraepithelial lymphocyte infiltration,上皮内淋巴细胞浸润
+PHENOMENA,Cell cycle arrest,Cell cycle arrest,细胞周期阻滞
+PHENOMENA,DNA damage,DNA damage,DNA损伤
+INTERVENTION,Grape,Grape,葡萄
+INTERVENTION,Grape juice,Grape juice,葡萄汁
+INTERVENTION,Grape powder,Grape powder,葡萄粉
+INTERVENTION,FDGP,Freeze-dried grape powder,冷冻干燥葡萄粉
+INTERVENTION,California table grape powder,California table grape powder,加州鲜食葡萄粉
+INTERVENTION,Grape seed extract,Grape seed extract,葡萄籽提取物
+INTERVENTION,Grape seed meal,Grape seed meal,葡萄籽粕
+INTERVENTION,Grape seed proanthocyanidin extract,Grape seed proanthocyanidin extract,葡萄籽原花青素提取物
+INTERVENTION,Grape seed procyanidins,Grape seed procyanidins,葡萄籽原花青素
+INTERVENTION,Grape pomace,Grape pomace,葡萄渣
+INTERVENTION,Grape pomace extract,Grape pomace extract,葡萄渣提取物
+INTERVENTION,Grape polyphenol extract,Grape polyphenol extract,葡萄多酚提取物
+INTERVENTION,Grape skin extract,Grape skin extract,葡萄皮提取物
+INTERVENTION,Red wine,Red wine,红葡萄酒
+INTERVENTION,Resveratrol,Resveratrol,白藜芦醇
+INTERVENTION,Quercetin,Quercetin,槲皮素
+INTERVENTION,Kaempferol,Kaempferol,山柰酚
+INTERVENTION,Curcumin,Curcumin,姜黄素
+INTERVENTION,Proanthocyanidins,Proanthocyanidins,原花青素
+INTERVENTION,Anthocyanins,Anthocyanins,花青素
+INTERVENTION,Procyanidin B2,Procyanidin B2,原花青素B2
+INTERVENTION,Cyanidin-3-glucoside,Cyanidin-3-glucoside,矢车菊素-3-葡萄糖苷
+INTERVENTION,Polyphenol-rich diet,Polyphenol-rich diet,富含多酚的饮食
+INTERVENTION,Prebiotic,Prebiotic,益生元
+INTERVENTION,Probiotic,Probiotic,益生菌
+INTERVENTION,Synbiotic,Synbiotic,合生元
+INTERVENTION,FMT,Fecal microbiota transplantation,粪便微生物移植
+INTERVENTION,Aspirin,Aspirin,阿司匹林
+INTERVENTION,Gluten-free diet,Gluten-free diet,无麸质饮食
+INTERVENTION,Gliadin,Gliadin,麦醇溶蛋白
+INTERVENTION,Placebo,Placebo,安慰剂
+INTERVENTION,High-fat diet,High-fat diet,高脂饮食
+INTERVENTION,Antibiotic,Antibiotic,抗生素
+MEASUREMENT,TEER,Transepithelial electrical resistance,跨上皮电阻
+MEASUREMENT,IP,Intestinal permeability,肠道通透性
+MEASUREMENT,Zonulin,Zonulin,连蛋白
+MEASUREMENT,Serum zonulin,Serum zonulin,血清连蛋白
+MEASUREMENT,MPOD,Macular pigment optical density,黄斑色素光密度
+MEASUREMENT,Mucosal barrier function,Mucosal barrier function,黏膜屏障功能
+MEASUREMENT,Epithelial integrity,Epithelial integrity,上皮完整性
+MEASUREMENT,Tight junction protein expression,Tight junction protein expression,紧密连接蛋白表达
+MEASUREMENT,Cytokine levels,Cytokine levels,细胞因子水平
+MEASUREMENT,TNF-α,TNF-alpha,肿瘤坏死因子α
+MEASUREMENT,IL-1β,IL-1 beta,白细胞介素-1β
+MEASUREMENT,IL-6,IL-6,白细胞介素-6
+MEASUREMENT,IL-10,IL-10,白细胞介素-10
+MEASUREMENT,hs-CRP,High-sensitivity C-reactive protein,高敏C反应蛋白
+MEASUREMENT,CRP,C-reactive protein,C反应蛋白
+MEASUREMENT,NF-κB activity,NF-κB activity,核因子κB活性
+MEASUREMENT,Nrf2 activity,Nrf2 activity,Nrf2活性
+MEASUREMENT,Colitis activity index,Colitis activity index,结肠炎活动指数
+MEASUREMENT,Fecal bleeding,Fecal bleeding,便血
+MEASUREMENT,Diarrhea,Diarrhea,腹泻
+MEASUREMENT,DAI,Disease activity index,疾病活动指数
+MEASUREMENT,Alpha-diversity,Alpha-diversity,α多样性
+MEASUREMENT,Beta-diversity,Beta-diversity,β多样性
+MEASUREMENT,Microbial richness,Microbial richness,微生物丰富度
+MEASUREMENT,Microbial evenness,Microbial evenness,微生物均匀度
+MEASUREMENT,SCFA,Short-chain fatty acids,短链脂肪酸
+MEASUREMENT,Butyrate,Butyrate,丁酸
+MEASUREMENT,Acetate,Acetate,乙酸
+MEASUREMENT,Propionate,Propionate,丙酸
+MEASUREMENT,Bile acid,Bile acid,胆汁酸
+MEASUREMENT,Deoxycholic acid,Deoxycholic acid,脱氧胆酸
+MEASUREMENT,Secondary bile acid,Secondary bile acid,次级胆汁酸
+MEASUREMENT,LPS,Lipopolysaccharide,脂多糖
+MEASUREMENT,Endotoxin,Endotoxin,内毒素
+MEASUREMENT,Diamine oxidase,Diamine oxidase,二胺氧化酶
+MEASUREMENT,D-Lactic acid,D-Lactic acid,D-乳酸
+MEASUREMENT,Serum zonulin,Serum zonulin,血清连蛋白
+MEASUREMENT,Blood pressure,Blood pressure,血压
+MEASUREMENT,Systolic blood pressure,Systolic blood pressure,收缩压
+MEASUREMENT,Diastolic blood pressure,Diastolic blood pressure,舒张压
+MEASUREMENT,Body weight,Body weight,体重
+MEASUREMENT,Body mass index,Body mass index,体重指数
+MEASUREMENT,Fecal microbiota,Fecal microbiota,粪便微生物群
+MEASUREMENT,Cecal microbiota,Cecal microbiota,盲肠微生物群
+MEASUREMENT,Antioxidant capacity,Antioxidant capacity,抗氧化能力
+MEASUREMENT,Total antioxidant capacity,Total antioxidant capacity,总抗氧化能力
+MEASUREMENT,SOD activity,Superoxide dismutase activity,超氧化物歧化酶活性
+MEASUREMENT,CAT activity,Catalase activity,过氧化氢酶活性
+MEASUREMENT,GPx activity,Glutathione peroxidase activity,谷胱甘肽过氧化物酶活性
+MEASUREMENT,GST activity,Glutathione S-transferase activity,谷胱甘肽S-转移酶活性
+MEASUREMENT,ORAC,Oxygen radical absorbance capacity,氧自由基吸收能力
+MEASUREMENT,ELISA,Enzyme-linked immunosorbent assay,酶联免疫吸附测定
+MEASUREMENT,PCR,Polymerase chain reaction,聚合酶链式反应
+MEASUREMENT,qPCR,Quantitative polymerase chain reaction,实时荧光定量PCR
+MEASUREMENT,Western blot,Western blot,蛋白质印迹
+MEASUREMENT,Immunohistochemistry,Immunohistochemistry,免疫组织化学
+MEASUREMENT,RNA sequencing,RNA sequencing,RNA测序
+MEASUREMENT,Metabolomics,Metabolomics,代谢组学
+MEASUREMENT,Molecular docking,Molecular docking,分子对接
+MISC,Polyphenols,Polyphenols,多酚
+MISC,Flavonoids,Flavonoids,类黄酮
+MISC,Nonflavonoids,Nonflavonoids,非类黄酮
+MISC,Phenolic compounds,Phenolic compounds,酚类化合物
+MISC,Phytochemicals,Phytochemicals,植物化学物
+MISC,Bioactive compounds,Bioactive compounds,生物活性化合物
+MISC,Bioavailability,Bioavailability,生物利用度
+MISC,Bioaccessibility,Bioaccessibility,生物可及性
+MISC,Metabolites,Metabolites,代谢产物
+MISC,Aglycones,Aglycones,苷元
+MISC,Microbiome,Microbiome,微生物组
+MISC,Gut microbiota,Gut microbiota,肠道菌群
+MISC,Gut microbiome,Gut microbiome,肠道微生物组
+MISC,Dysbiosis,Dysbiosis,菌群失调
+MISC,Probiotics,Probiotics,益生菌
+MISC,Prebiotics,Prebiotics,益生元
+MISC,Synbiotics,Synbiotics,合生元
+MISC,Biomarkers,Biomarkers,生物标志物
+MISC,Inflammatory markers,Inflammatory markers,炎症标志物
+MISC,Oxidative markers,Oxidative markers,氧化标志物
+MISC,Clinical trial,Clinical trial,临床试验
+MISC,Randomized controlled trial,Randomized controlled trial,随机对照试验
+MISC,Double-blind study,Double-blind study,双盲研究
+MISC,Placebo-controlled study,Placebo-controlled study,安慰剂对照研究
+MISC,Crossover study,Crossover study,交叉研究
+MISC,Meta-analysis,Meta-analysis,荟萃分析
+MISC,Systematic review,Systematic review,系统综述
+MISC,In vivo,In vivo,体内
+MISC,In vitro,In vitro,体外
+MISC,Ex vivo,Ex vivo,离体
+MISC,Preclinical study,Preclinical study,临床前研究
+MISC,Animal model,Animal model,动物模型
+MISC,Cell culture,Cell culture,细胞培养
+MISC,Pharmacodynamics,Pharmacodynamics,药效学
+MISC,Pharmacokinetics,Pharmacokinetics,药代动力学
+MISC,Pharmacovigilance,Pharmacovigilance,药物警戒
+MISC,Dietary intervention,Dietary intervention,膳食干预
+MISC,Nutritional supplement,Nutritional supplement,营养补充剂
+MISC,Functional food,Functional food,功能性食品
+MISC,Synergistic effect,Synergistic effect,协同效应
+MISC,Gut-brain axis,Gut-brain axis,肠-脑轴
+MISC,Immune homeostasis,Immune homeostasis,免疫稳态
+MISC,Antioxidant defense system,Antioxidant defense system,抗氧化防御系统
+MISC,Phase I metabolism,Phase I metabolism,I相代谢
+MISC,Phase II metabolism,Phase II metabolism,II相代谢
+MISC,Glucuronidation,Glucuronidation,葡萄糖醛酸化
+MISC,Sulfation,Sulfation,硫酸化
+MISC,Methylation,Methylation,甲基化
+MISC,Hydroxylation,Hydroxylation,羟基化
+MISC,Deconjugation,Deconjugation,去结合
+MISC,Hydrolysis,Hydrolysis,水解
+MISC,Reduction,Reduction,还原
+MISC,Demethylation,Demethylation,去甲基化
+MISC,Decarboxylation,Decarboxylation,脱羧
+MISC,Ring cleavage,Ring cleavage,开环

@@ -1,0 +1,46 @@
+{
+  "id": "19_muscle_health_long",
+  "title": "Muscle Health. Long-Term Dietary Consumption of Grapes Alters Phenotypic Expression in Skeletal Muscle of Aged Male and Female Mice. This study assessed gene expression in the skeletal muscles of male and female mice fed a grape-enriched diet, human equivalent of 2 servings per day, versus a control diet over 2.5 years. Daily consumption of grapes significantly altered muscle gene expression, including up- and down-regulation of gene expression with improved muscle function. Additionally, gene expression pattern analytics showed a more pronounced effect in females, suggesting male and female muscle convergence, with greater enhancement of female muscle traits toward a male-like phenotype. The results are suggestive of broad health benefits.",
+  "sentences": [
+    {
+      "text": "Muscle Health.",
+      "start": 0.1,
+      "end": 1.0,
+      "word_count": 2
+    },
+    {
+      "text": "Long-Term Dietary Consumption of Grapes Alters Phenotypic Expression in Skeletal Muscle of Aged Male and Female Mice.",
+      "start": 1.875,
+      "end": 8.85,
+      "word_count": 17
+    },
+    {
+      "text": "This study assessed gene expression in the skeletal muscles of male and female mice fed a grape-enriched diet, human equivalent of 2 servings per day, versus a control diet over 2.5 years.",
+      "start": 9.725,
+      "end": 22.637,
+      "word_count": 32
+    },
+    {
+      "text": "Daily consumption of grapes significantly altered muscle gene expression, including up- and down-regulation of gene expression with improved muscle function.",
+      "start": 22.65,
+      "end": 32.425,
+      "word_count": 20
+    },
+    {
+      "text": "Additionally, gene expression pattern analytics showed a more pronounced effect in females, suggesting male and female muscle convergence, with greater enhancement of female muscle traits toward a male-like phenotype.",
+      "start": 32.712,
+      "end": 45.125,
+      "word_count": 29
+    },
+    {
+      "text": "The results are suggestive of broad health benefits.",
+      "start": 45.138,
+      "end": 47.888,
+      "word_count": 7
+    }
+  ],
+  "sentence_count": 6,
+  "word_count": 107,
+  "total_duration": 47.888,
+  "voice": "en-US-AriaNeural"
+}

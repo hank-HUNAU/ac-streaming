@@ -1,0 +1,298 @@
+{
+  "id": "15_nutrigenomic_effects_in",
+  "title": "Nutrigenomic Effects in Humans and Primates. In the current volume, chapters are included that describe the influence of grape consumption on the human microbiome as well as the human metabolome. In this section, we present information related to grapes and human nutrigenomics. It is now apparent that all of the subject areas, and more, are interrelated and need to be intertwined in a holistic manner in order to approach a realistic understanding of the human megaverse. Unfortunately, this is beyond our scope, but given this proposition, it is worth noting some examples of how diet influences the metabolome.",
+  "sentences": [
+    {
+      "text": "Nutrigenomic Effects in Humans and Primates.",
+      "start": 0.1,
+      "end": 2.862,
+      "word_count": 6
+    },
+    {
+      "text": "In the current volume, chapters are included that describe the influence of grape consumption on the human microbiome as well as the human metabolome.",
+      "start": 3.725,
+      "end": 11.75,
+      "word_count": 24
+    },
+    {
+      "text": "In this section, we present information related to grapes and human nutrigenomics.",
+      "start": 12.613,
+      "end": 17.538,
+      "word_count": 12
+    },
+    {
+      "text": "It is now apparent that all of the subject areas, and more, are interrelated and need to be intertwined in a holistic manner in order to approach a realistic understanding of the human megaverse.",
+      "start": 18.413,
+      "end": 29.188,
+      "word_count": 34
+    },
+    {
+      "text": "Unfortunately, this is beyond our scope, but given this proposition, it is worth noting some examples of how diet influences the metabolome.",
+      "start": 30.05,
+      "end": 38.212,
+      "word_count": 22
+    },
+    {
+      "text": "Manoharan and colleagues investigated the metabolome of human subjects provided with the Okinawan-based Nordic diet for 12 weeks and observed changes in the beta-diversity of the microbiome and changes in 323 of 602 metabolites.",
+      "start": 39.075,
+      "end": 53.5,
+      "word_count": 34
+    },
+    {
+      "text": "These diet-induced changes corresponded with reduced weight and inflammation and improved glucose and lipid metabolism.",
+      "start": 54.362,
+      "end": 61.15,
+      "word_count": 15
+    },
+    {
+      "text": "Many clinical investigations have reported metabolomic alterations following the consumption of the Mediterranean diet, with a variety of different subject groups, for example, cardiovascular risk, pregnancy, low physical activity, cognitive decline, all with promising outcomes.",
+      "start": 62.025,
+      "end": 79.062,
+      "word_count": 35
+    },
+    {
+      "text": "Sample collection for metabolomic studies is rather straightforward: blood, urine, feces.",
+      "start": 79.925,
+      "end": 85.575,
+      "word_count": 11
+    },
+    {
+      "text": "For nutrigenomics, the situation is more complicated.",
+      "start": 86.438,
+      "end": 89.675,
+      "word_count": 7
+    },
+    {
+      "text": "While the question of greatest interest may relate to changes in gene expression in various tissues or organs, when studying the effects of diet in humans or primates, harvesting tissues for the purpose of analysis is not practicable.",
+      "start": 90.537,
+      "end": 103.662,
+      "word_count": 38
+    },
+    {
+      "text": "Accordingly, peripheral blood mononuclear cells have typically been used for transcriptomic profiling.",
+      "start": 104.537,
+      "end": 110.5,
+      "word_count": 12
+    },
+    {
+      "text": "Focusing on key components of the Mediterranean diet using a curated database containing data from the peripheral blood mononuclear cells of human subjects, researchers reported changes in gene expression, suggesting the diet may be useful in reducing schizophrenia, neoplasms, rheumatic arthritis, and dementia in obese patients.",
+      "start": 111.375,
+      "end": 131.25,
+      "word_count": 46
+    },
+    {
+      "text": "Also employing peripheral blood mononuclear cells obtained from human subjects after weight loss secondary to a hypocaloric Mediterranean diet, researchers identified 634 differentially expressed genes of which 262 demonstrated relative higher expression levels and 372 demonstrated lower expression levels.",
+      "start": 132.125,
+      "end": 152.762,
+      "word_count": 39
+    },
+    {
+      "text": "They conclude these changes are consistent with modifying the endocrine system and nutritional disease.",
+      "start": 153.637,
+      "end": 159.037,
+      "word_count": 14
+    },
+    {
+      "text": "With the cynomolgus macaque, using peripheral blood mononuclear cells for analysis, researchers investigated the effect of diet manipulations, Western or Mediterranean diet, over a period of 15 months.",
+      "start": 159.9,
+      "end": 172.55,
+      "word_count": 28
+    },
+    {
+      "text": "As a result, approximately 40 percent of the transcripts showed differential expression.",
+      "start": 173.412,
+      "end": 179.85,
+      "word_count": 12
+    },
+    {
+      "text": "Further, the Western diet shifted expression patterns to those associated with adiposity in humans.",
+      "start": 180.125,
+      "end": 186.287,
+      "word_count": 14
+    },
+    {
+      "text": "In addition, behavior changes were altered, with the Western diet leading to greater anxiety and reduced socialization.",
+      "start": 186.3,
+      "end": 194.275,
+      "word_count": 17
+    },
+    {
+      "text": "Thus, it is clear that diet can have a strong influence on the microbiome, metabolome, and nutrigenomic responses.",
+      "start": 194.4,
+      "end": 201.762,
+      "word_count": 18
+    },
+    {
+      "text": "It is important to bear this in mind when studying the effects of grapes.",
+      "start": 201.775,
+      "end": 206.4,
+      "word_count": 14
+    },
+    {
+      "text": "When working with laboratory animals, responses can be closely linked to grape-mediated effects since isocaloric, semi-synthetic diets can be supplemented with grapes and used for control studies.",
+      "start": 206.412,
+      "end": 218.588,
+      "word_count": 27
+    },
+    {
+      "text": "When dealing with human subjects, some dietary restrictions can be recommended, but the influence of other dietary confounders must be borne in mind.",
+      "start": 218.6,
+      "end": 228.062,
+      "word_count": 23
+    },
+    {
+      "text": "Now, turning to grapes, researchers performed a one-year clinical trial in which human subjects at risk for cardiovascular disease were provided with placebo, grape extract, or grape extract supplement with resveratrol.",
+      "start": 228.275,
+      "end": 242.287,
+      "word_count": 31
+    },
+    {
+      "text": "Subjects provided with the grape extract, with or without resveratrol supplementation, showed decreased high-sensitivity C-reactive protein, tumor necrosis factor-alpha, plasminogen activator inhibitor type 1, and interleukin-6 to interleukin-10 ratio, and increased anti-inflammatory interleukin-10.",
+      "start": 242.3,
+      "end": 262.15,
+      "word_count": 33
+    },
+    {
+      "text": "The results suggest dietary intervention as a means of primary prevention of cardiovascular disease.",
+      "start": 262.163,
+      "end": 270.618,
+      "word_count": 14
+    },
+    {
+      "text": "However, it was subsequently reported that only the resveratrol-supplemented grape extract demonstrated an effect based on transcriptional profiling of inflammatory genes in peripheral blood mononuclear cells.",
+      "start": 270.793,
+      "end": 283.543,
+      "word_count": 26
+    },
+    {
+      "text": "Namely, six key inflammation-related transcription factors were significantly activated or inhibited, and 27 extracellular-space acting genes involved in inflammation, cell migration, and T-cell interaction signals were downregulated.",
+      "start": 283.805,
+      "end": 299.168,
+      "word_count": 27
+    },
+    {
+      "text": "In a third study performed with hypertensive, diabetic male patients, only the grape extract supplemented with resveratrol mediated the investigated effects with peripheral blood mononuclear cells.",
+      "start": 299.18,
+      "end": 311.655,
+      "word_count": 26
+    },
+    {
+      "text": "The expression of the pro-inflammatory cytokines C C L 3, I L-1 beta, and T N F-alpha was reduced and transcriptional repressor L R R F I P-1 was increased.",
+      "start": 311.668,
+      "end": 324.105,
+      "word_count": 30
+    },
+    {
+      "text": "Also, a group of miRs involved in the regulation of the inflammatory response were modulated in the group consuming the resveratrol supplement grape extract for 12 months.",
+      "start": 324.317,
+      "end": 334.505,
+      "word_count": 27
+    },
+    {
+      "text": "Studies of direct relevance to the current discussion have been reported by Milella and colleagues.",
+      "start": 334.517,
+      "end": 340.48,
+      "word_count": 15
+    },
+    {
+      "text": "Peripheral blood mononuclear cells from human subjects were analyzed at time zero, at day 21 following a table grape-rich diet, and after a 30-day washout period.",
+      "start": 340.493,
+      "end": 351.63,
+      "word_count": 26
+    },
+    {
+      "text": "A total of 930 differentially expressed transcripts were identified.",
+      "start": 351.642,
+      "end": 357.442,
+      "word_count": 9
+    },
+    {
+      "text": "Functional interpretations suggested antithrombotic and anti-inflammatory effects on day 21 as well as day 30.",
+      "start": 357.455,
+      "end": 365.23,
+      "word_count": 15
+    },
+    {
+      "text": "Other favorable transcriptional changes were interpreted to be associated with immune response, D N A and protein repair, autophagy, and mitochondrial biogenesis.",
+      "start": 365.243,
+      "end": 376.293,
+      "word_count": 22
+    },
+    {
+      "text": "Gene functional analysis revealed changes suggestive of anti-thrombotic and anti-inflammatory effects.",
+      "start": 376.305,
+      "end": 382.93,
+      "word_count": 11
+    },
+    {
+      "text": "In a second report by this group, healthy subjects ate black seedless grapes for three consecutive weeks.",
+      "start": 382.942,
+      "end": 389.942,
+      "word_count": 17
+    },
+    {
+      "text": "Following grape consumption, analysis of peripheral blood mononuclear cells demonstrated the modulation of 463 genes, and this number increased to 849 one month later.",
+      "start": 389.955,
+      "end": 401.78,
+      "word_count": 24
+    },
+    {
+      "text": "The investigators conclude that more than 200 of these genes are non-coding R N As that are important in regulating gene expression, and further studies revealed the modulation of 20 circulating micro R N As, mainly implicated in cancer development.",
+      "start": 401.793,
+      "end": 418.23,
+      "word_count": 40
+    },
+    {
+      "text": "Overall, the results indicated that grape intake exerts beneficial effects by modulating genes involved in critical physiological processes such as the immune response, inflammation, autophagy, D N A repair, and mitochondrial functionality.",
+      "start": 418.53,
+      "end": 433.93,
+      "word_count": 32
+    },
+    {
+      "text": "It is clear from this work that human consumption of grapes modulates gene expression and thereby mediates a nutrigenomic response.",
+      "start": 433.942,
+      "end": 442.03,
+      "word_count": 20
+    },
+    {
+      "text": "As additional evidence, in a human tissue other than peripheral blood mononuclear cells, as part of a study examining the potential of grapes to diminish the response of human skin to ultraviolet irradiation, skin biopsies were procured and subjected to R N A-Seq analysis.",
+      "start": 442.043,
+      "end": 459.305,
+      "word_count": 44
+    },
+    {
+      "text": "The results of differential gene expression are shown with four different human subjects, designated as S, T, V, and X.",
+      "start": 459.317,
+      "end": 467.18,
+      "word_count": 20
+    },
+    {
+      "text": "Elements of the Venn diagrams labeled as S1, T1, V1, and X1 were derived from biopsies taken at the start of the protocol, following a two-week period on a bland, restricted diet.",
+      "start": 467.192,
+      "end": 479.905,
+      "word_count": 32
+    },
+    {
+      "text": "The second elements of the Venn diagrams, labeled as S2, T2, V2, and X2, are biopsies taken from the same subjects following two weeks of supplementing the bland, restricted diet with the equivalent of three servings of fresh grapes per day.",
+      "start": 479.918,
+      "end": 496.405,
+      "word_count": 41
+    },
+    {
+      "text": "In every case, approximately 10 percent of the recorded gene transcripts are uniquely expressed in the individual skin specimens following grape consumption.",
+      "start": 496.418,
+      "end": 506.28,
+      "word_count": 22
+    },
+    {
+      "text": "This is compelling evidence that eating grapes mediates a nutrigenomic effect in human beings.",
+      "start": 506.293,
+      "end": 511.118,
+      "word_count": 12
+    }
+  ],
+  "sentence_count": 48,
+  "word_count": 1118,
+  "total_duration": 511.118,
+  "voice": "en-US-AriaNeural"
+}

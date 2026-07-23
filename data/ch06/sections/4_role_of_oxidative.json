@@ -1,0 +1,82 @@
+{
+  "id": "4_role_of_oxidative",
+  "title": "Role of Oxidative Stress in the Skin. Oxidative stress is one of the important triggering factors for skin aging and a multitude of other skin disorders including inflammatory skin conditions and cancer. Oxidative stress is induced by reactive oxygen species generated intrinsically during intracellular mitochondrial metabolism or extrinsically by ultraviolet radiation, pollutants, and psychological stress. These reactive oxygen species or free radicals, such as superoxide anion radical, hydroxyl radical, singlet oxygen, hydrogen peroxide, nitric oxide, and peroxynitrite, impart harmful effects in the skin.",
+  "sentences": [
+    {
+      "text": "Role of Oxidative Stress in the Skin.",
+      "start": 0.1,
+      "end": 2.212,
+      "word_count": 7
+    },
+    {
+      "text": "Oxidative stress is one of the important triggering factors for skin aging and a multitude of other skin disorders including inflammatory skin conditions and cancer.",
+      "start": 3.087,
+      "end": 12.275,
+      "word_count": 25
+    },
+    {
+      "text": "Oxidative stress is induced by reactive oxygen species generated intrinsically during intracellular mitochondrial metabolism or extrinsically by ultraviolet radiation, pollutants, and psychological stress.",
+      "start": 13.15,
+      "end": 25.663,
+      "word_count": 23
+    },
+    {
+      "text": "These reactive oxygen species or free radicals, such as superoxide anion radical, hydroxyl radical, singlet oxygen, hydrogen peroxide, nitric oxide, and peroxynitrite, impart harmful effects in the skin.",
+      "start": 26.525,
+      "end": 40.638,
+      "word_count": 28
+    },
+    {
+      "text": "Generally, the human body has an innate antioxidant defense system, constituting glutathione peroxidase, superoxide dismutase, catalase, glutathione, ascorbic acid, and tocopherol.",
+      "start": 41.513,
+      "end": 53.712,
+      "word_count": 21
+    },
+    {
+      "text": "These antioxidants neutralize free radicals and maintain a healthy balance of reactive oxygen species in the body and skin.",
+      "start": 54.587,
+      "end": 61.812,
+      "word_count": 19
+    },
+    {
+      "text": "Nonetheless, the innate antioxidant system can be overpowered by excessive production of reactive oxygen species, thereby leading to a state of oxidative stress.",
+      "start": 62.675,
+      "end": 72.362,
+      "word_count": 23
+    },
+    {
+      "text": "Subsequent oxidation of nucleic acids, proteins, lipids, and enzymes alters the normal cellular functions.",
+      "start": 73.225,
+      "end": 80.325,
+      "word_count": 14
+    },
+    {
+      "text": "Overall, two groups of dermatologic diseases in response to reactive oxygen species are reported.",
+      "start": 81.188,
+      "end": 87.287,
+      "word_count": 14
+    },
+    {
+      "text": "In the first group of dermatological diseases, the skin disease is initiated by reactive oxygen species as the primary trigger, whereas the second group is stimulated by inflammatory mediators, which induce reactive oxygen species production, that further aggravate the disease process.",
+      "start": 88.15,
+      "end": 104.85,
+      "word_count": 41
+    },
+    {
+      "text": "Reactive oxygen species can trigger multiple cell signaling pathways, for example, the production of nuclear transcription factors like activator protein 1 and nuclear factor-kappa B, which regulate the genes involved in cell proliferation, cell differentiation, and inflammation.",
+      "start": 105.713,
+      "end": 122.825,
+      "word_count": 37
+    },
+    {
+      "text": "Consequently, oxidative stress can result in a variety of skin conditions that alter the structure and function of the skin, some of which are discussed below.",
+      "start": 123.7,
+      "end": 132.363,
+      "word_count": 26
+    }
+  ],
+  "sentence_count": 12,
+  "word_count": 278,
+  "total_duration": 132.363,
+  "voice": "en-US-AriaNeural"
+}

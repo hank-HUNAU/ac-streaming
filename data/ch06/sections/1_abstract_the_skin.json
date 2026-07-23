@@ -1,0 +1,88 @@
+{
+  "id": "1_abstract_the_skin",
+  "title": "Abstract. The skin is one of the most crucial organs of the body, providing a barrier that serves as the body's first line of defense against external insults. Skin health is important for the physical and emotional well-being of a person, since skin disorders can not only compromise the integrity and function of the skin but also have a tremendous impact on overall quality of life. Skin disorders may range from common issues such as allergies and acne to more severe conditions such as psoriasis and cancer. Nutritional deficiencies and external factors can damage the skin, making it more susceptible to these diseases. Oxidative stress and inflammation are key contributors to the development of various skin disorders. There has been a constant effort to identify novel compounds that can combat oxidative stress and inflammation and maintain skin health. Phytochemicals have recently garnered the interest of the scientific community as possible alternatives for the management of skin disorders, owing to their limited side effects. Grapes, Vitis vinifera, are rich in a wide variety of phytochemicals with varied biological effects such as anti-inflammatory, antioxidant, anti-pigmentation, wound healing, and antiproliferative properties, making them worthy of research for skin health. Whole grapes, grape extracts, and grape phytochemicals have been shown to decrease oxidative stress, inflammation, and skin aging. Preclinical studies have suggested that grape polyphenols may be a viable approach towards offering effective strategies for inflammatory skin disorders and skin cancer. Grape-based cosmetic products are being used for their ability to improve skin elasticity and firmness, reduce the appearance of wrinkles and fine lines, and alleviate skin pigmentation and inflammation. This chapter discusses the growing body of evidence supporting the use of grapes in managing skin disorders and their emerging role as valuable ingredients in skincare products.",
+  "sentences": [
+    {
+      "text": "Abstract.",
+      "start": 0.1,
+      "end": 0.988,
+      "word_count": 1
+    },
+    {
+      "text": "The skin is one of the most crucial organs of the body, providing a barrier that serves as the body's first line of defense against external insults.",
+      "start": 1.837,
+      "end": 9.938,
+      "word_count": 27
+    },
+    {
+      "text": "Skin health is important for the physical and emotional well-being of a person, since skin disorders can not only compromise the integrity and function of the skin but also have a tremendous impact on overall quality of life.",
+      "start": 10.8,
+      "end": 22.975,
+      "word_count": 38
+    },
+    {
+      "text": "Skin disorders may range from common issues such as allergies and acne to more severe conditions such as psoriasis and cancer.",
+      "start": 23.837,
+      "end": 30.887,
+      "word_count": 21
+    },
+    {
+      "text": "Nutritional deficiencies and external factors can damage the skin, making it more susceptible to these diseases.",
+      "start": 31.75,
+      "end": 38.2,
+      "word_count": 16
+    },
+    {
+      "text": "Oxidative stress and inflammation are key contributors to the development of various skin disorders.",
+      "start": 39.075,
+      "end": 44.5,
+      "word_count": 14
+    },
+    {
+      "text": "There has been a constant effort to identify novel compounds that can combat oxidative stress and inflammation and maintain skin health.",
+      "start": 45.375,
+      "end": 53.05,
+      "word_count": 21
+    },
+    {
+      "text": "Phytochemicals have recently garnered the interest of the scientific community as possible alternatives for the management of skin disorders, owing to their limited side effects.",
+      "start": 53.925,
+      "end": 63.362,
+      "word_count": 25
+    },
+    {
+      "text": "Grapes, Vitis vinifera, are rich in a wide variety of phytochemicals with varied biological effects such as anti-inflammatory, antioxidant, anti-pigmentation, wound healing, and antiproliferative properties, making them worthy of research for skin health.",
+      "start": 64.225,
+      "end": 79.763,
+      "word_count": 33
+    },
+    {
+      "text": "Whole grapes, grape extracts, and grape phytochemicals have been shown to decrease oxidative stress, inflammation, and skin aging.",
+      "start": 80.638,
+      "end": 88.35,
+      "word_count": 18
+    },
+    {
+      "text": "Preclinical studies have suggested that grape polyphenols may be a viable approach towards offering effective strategies for inflammatory skin disorders and skin cancer.",
+      "start": 89.225,
+      "end": 98.513,
+      "word_count": 23
+    },
+    {
+      "text": "Grape-based cosmetic products are being used for their ability to improve skin elasticity and firmness, reduce the appearance of wrinkles and fine lines, and alleviate skin pigmentation and inflammation.",
+      "start": 99.375,
+      "end": 110.912,
+      "word_count": 29
+    },
+    {
+      "text": "This chapter discusses the growing body of evidence supporting the use of grapes in managing skin disorders and their emerging role as valuable ingredients in skincare products.",
+      "start": 111.775,
+      "end": 121.412,
+      "word_count": 27
+    }
+  ],
+  "sentence_count": 13,
+  "word_count": 293,
+  "total_duration": 121.412,
+  "voice": "en-US-AriaNeural"
+}

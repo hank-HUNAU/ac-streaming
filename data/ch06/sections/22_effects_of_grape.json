@@ -1,0 +1,94 @@
+{
+  "id": "22_effects_of_grape",
+  "title": "Effects of Grape Seed Proanthocyanidins on Non-melanoma Skin Cancer. Multiple other components of grapes are shown to possess antiproliferative effects. The grape seed proanthocyanidins have been shown to protect against photo-carcinogenesis as shown by reduced tumor incidence, tumor multiplicity, and tumor size in SKH-1 hairless mice. It inhibits malignant conversion of benign skin papilloma to carcinoma in SKH-1 hairless mice exposed to ultraviolet B radiation. It has been demonstrated that ultraviolet B-induced oxidative stress may increase the rate of malignant transformation by enhancing genetic instability, which in turn speeds up the evolution of non-malignant lesions. It appears that grape seed proanthocyanidins mitigate the malignant transformation via reducing oxidative stress and its associated damage. In addition, grape seed proanthocyanidins have been shown to inhibit the proliferation of squamous cell carcinoma cells in a dose-dependent manner and to suppress the mobility and invasiveness of these cells by downregulating matrix metalloproteinase-2 and matrix metalloproteinase-9. Moreover, evidence shows the induction of both autophagic and apoptotic machinery in squamous cell carcinoma cells upon treatment with grape seed proanthocyanidins. Additionally, proanthocyanidins target the hsa_circ_0070934 and miR-136-5p and P R A F 2 axis to hinder the proliferation, migration, and cell cycle processes while causing apoptosis in squamous cell carcinoma cells. The circ R N A was shown to be an important participant in squamous cell carcinoma progression. It is associated with downregulation of miR-136-5p and higher P R A F 2 levels, both of which indicate poor prognosis for cancer patients. Grape seed proanthocyanidins restrained the progression of squamous cell carcinoma by promoting miR-136-5p while decreasing the expression of P R A F 2. Previously, it was shown that proanthocyanidins can reverse epithelial-to-mesenchymal transition and impede cell invasion via inhibition of the phosphorylation of E R K 1 and 2 and E G F R in head and neck cutaneous squamous cell carcinoma. Together, the studies provide evidence for the potential chemopreventive efficacy of grape seed proanthocyanidins against non-melanoma skin cancer.",
+  "sentences": [
+    {
+      "text": "Effects of Grape Seed Proanthocyanidins on Non-melanoma Skin Cancer.",
+      "start": 0.1,
+      "end": 4.35,
+      "word_count": 9
+    },
+    {
+      "text": "Multiple other components of grapes are shown to possess antiproliferative effects.",
+      "start": 5.213,
+      "end": 9.75,
+      "word_count": 11
+    },
+    {
+      "text": "The grape seed proanthocyanidins have been shown to protect against photo-carcinogenesis as shown by reduced tumor incidence, tumor multiplicity, and tumor size in SKH-1 hairless mice.",
+      "start": 10.613,
+      "end": 22.087,
+      "word_count": 26
+    },
+    {
+      "text": "It inhibits malignant conversion of benign skin papilloma to carcinoma in SKH-1 hairless mice exposed to ultraviolet B radiation.",
+      "start": 22.95,
+      "end": 31.413,
+      "word_count": 19
+    },
+    {
+      "text": "It has been demonstrated that ultraviolet B-induced oxidative stress may increase the rate of malignant transformation by enhancing genetic instability, which in turn speeds up the evolution of non-malignant lesions.",
+      "start": 32.275,
+      "end": 44.312,
+      "word_count": 30
+    },
+    {
+      "text": "It appears that grape seed proanthocyanidins mitigate the malignant transformation via reducing oxidative stress and its associated damage.",
+      "start": 45.188,
+      "end": 53.163,
+      "word_count": 18
+    },
+    {
+      "text": "In addition, grape seed proanthocyanidins have been shown to inhibit the proliferation of squamous cell carcinoma cells in a dose-dependent manner and to suppress the mobility and invasiveness of these cells by downregulating matrix metalloproteinase-2 and matrix metalloproteinase-9.",
+      "start": 54.025,
+      "end": 70.688,
+      "word_count": 38
+    },
+    {
+      "text": "Moreover, evidence shows the induction of both autophagic and apoptotic machinery in squamous cell carcinoma cells upon treatment with grape seed proanthocyanidins.",
+      "start": 71.55,
+      "end": 81.25,
+      "word_count": 22
+    },
+    {
+      "text": "Additionally, proanthocyanidins target the hsa_circ_0070934 and miR-136-5p and P R A F 2 axis to hinder the proliferation, migration, and cell cycle processes while causing apoptosis in squamous cell carcinoma cells.",
+      "start": 82.125,
+      "end": 101.688,
+      "word_count": 31
+    },
+    {
+      "text": "The circ R N A was shown to be an important participant in squamous cell carcinoma progression.",
+      "start": 102.55,
+      "end": 107.825,
+      "word_count": 17
+    },
+    {
+      "text": "It is associated with downregulation of miR-136-5p and higher P R A F 2 levels, both of which indicate poor prognosis for cancer patients.",
+      "start": 108.7,
+      "end": 119.0,
+      "word_count": 24
+    },
+    {
+      "text": "Grape seed proanthocyanidins restrained the progression of squamous cell carcinoma by promoting miR-136-5p while decreasing the expression of P R A F 2.",
+      "start": 119.875,
+      "end": 130.188,
+      "word_count": 23
+    },
+    {
+      "text": "Previously, it was shown that proanthocyanidins can reverse epithelial-to-mesenchymal transition and impede cell invasion via inhibition of the phosphorylation of E R K 1 and 2 and E G F R in head and neck cutaneous squamous cell carcinoma.",
+      "start": 131.062,
+      "end": 145.938,
+      "word_count": 39
+    },
+    {
+      "text": "Together, the studies provide evidence for the potential chemopreventive efficacy of grape seed proanthocyanidins against non-melanoma skin cancer.",
+      "start": 146.812,
+      "end": 155.463,
+      "word_count": 18
+    }
+  ],
+  "sentence_count": 14,
+  "word_count": 325,
+  "total_duration": 155.463,
+  "voice": "en-US-AriaNeural"
+}

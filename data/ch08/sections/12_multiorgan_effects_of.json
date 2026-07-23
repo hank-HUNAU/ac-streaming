@@ -1,0 +1,106 @@
+{
+  "id": "12_multiorgan_effects_of",
+  "title": "Multiorgan Effects of Grapes. Employing female mice, long-term supplementation with a semi-synthetic diet equivalent to the human consumption of 2.5 servings of grapes per day for 12 months led to significant gene expression changes across multiple organs, including the liver, kidney, colon, and ovary. Analysis of differentially expressed genes indicated that grape consumption may enhance metabolic detoxification and regulate reactive oxygen species in the liver, support cellular metabolism, and promote anti-inflammatory activity in the ovary and kidney. In the colon, the data suggested a role in suppressing mitochondrial dysfunction, reducing inflammation, and maintaining homeostasis. Pathway analysis revealed a combination of up- and down-regulation across tissues, with gene expression predominantly up-regulated in the kidney and down-regulated in the ovary. These findings suggest that grape consumption broadly influences gene expression throughout the body, potentially contributing to the diverse physiological benefits observed in tissues such as the brain, heart, eye, bladder, and colon.",
+  "sentences": [
+    {
+      "text": "Multiorgan Effects of Grapes.",
+      "start": 0.1,
+      "end": 1.962,
+      "word_count": 4
+    },
+    {
+      "text": "Employing female mice, long-term supplementation with a semi-synthetic diet equivalent to the human consumption of 2.5 servings of grapes per day for 12 months led to significant gene expression changes across multiple organs, including the liver, kidney, colon, and ovary.",
+      "start": 2.837,
+      "end": 19.875,
+      "word_count": 40
+    },
+    {
+      "text": "Analysis of differentially expressed genes indicated that grape consumption may enhance metabolic detoxification and regulate reactive oxygen species in the liver, support cellular metabolism, and promote anti-inflammatory activity in the ovary and kidney.",
+      "start": 20.738,
+      "end": 36.087,
+      "word_count": 33
+    },
+    {
+      "text": "In the colon, the data suggested a role in suppressing mitochondrial dysfunction, reducing inflammation, and maintaining homeostasis.",
+      "start": 36.962,
+      "end": 44.875,
+      "word_count": 17
+    },
+    {
+      "text": "Pathway analysis revealed a combination of up- and down-regulation across tissues, with gene expression predominantly up-regulated in the kidney and down-regulated in the ovary.",
+      "start": 45.737,
+      "end": 55.7,
+      "word_count": 24
+    },
+    {
+      "text": "These findings suggest that grape consumption broadly influences gene expression throughout the body, potentially contributing to the diverse physiological benefits observed in tissues such as the brain, heart, eye, bladder, and colon.",
+      "start": 56.562,
+      "end": 69.987,
+      "word_count": 32
+    },
+    {
+      "text": "Effect Grapes on Male and Female Liver and Colon.",
+      "start": 70.862,
+      "end": 73.838,
+      "word_count": 9
+    },
+    {
+      "text": "For these analyses, the overall experimental approach has been described previously.",
+      "start": 74.7,
+      "end": 79.588,
+      "word_count": 11
+    },
+    {
+      "text": "The results presented below are novel.",
+      "start": 80.45,
+      "end": 82.688,
+      "word_count": 6
+    },
+    {
+      "text": "In brief, to assess the impact of grape consumption on aging and metabolic regulation, male and female C57BL/6 J mice were introduced to a standard diet at 4 weeks of age.",
+      "start": 83.55,
+      "end": 95.188,
+      "word_count": 31
+    },
+    {
+      "text": "Upon reaching 1 year, mice were randomly assigned into four equal groups.",
+      "start": 95.2,
+      "end": 100.425,
+      "word_count": 12
+    },
+    {
+      "text": "Half of the mice continued on the standard diet, while the other half were switched to the grape diet, adding 5 percent grape powder to a mouse diet roughly equates to the human consumption of two servings of grapes per day.",
+      "start": 100.438,
+      "end": 113.963,
+      "word_count": 41
+    },
+    {
+      "text": "The study spanned 2.5 years, approximating 80 years of human age, allowing for an assessment of dietary impact over a full lifespan.",
+      "start": 114.838,
+      "end": 125.0,
+      "word_count": 22
+    },
+    {
+      "text": "At the conclusion of the study, mice from each group were euthanized following an overnight fasting period, and tissues, including the liver, colon, kidney, and skeletal muscles, were collected for analysis.",
+      "start": 125.013,
+      "end": 138.25,
+      "word_count": 31
+    },
+    {
+      "text": "R N A sequencing was employed to investigate the gene expression changes.",
+      "start": 138.262,
+      "end": 143.7,
+      "word_count": 12
+    },
+    {
+      "text": "As illustrated below, the findings revealed sex-specific differences in response to grape consumption across multiple tissues.",
+      "start": 143.713,
+      "end": 150.2,
+      "word_count": 14
+    }
+  ],
+  "sentence_count": 16,
+  "word_count": 339,
+  "total_duration": 150.2,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "5_bladder_health_a",
+  "title": "Bladder Health. A Grape-Enriched Diet Helped Protect Bladder Function Against Oxidative Damage Caused by Obstruction to the Bladder. Obstructive bladder dysfunction, such as that observed with prostate enlargement, is linked to oxidative damage of the nerves, synapses, and smooth muscle cells within the bladder wall. A series of animal studies investigated the impact of adding grapes to the diet on bladder function. The studies showed that grapes provided an antioxidant effect that helped to prevent and delay the damaging effects of oxygen deprivation and free radicals to cells that result from a partial obstruction to the bladder. Grapes helped maintain membrane and mitochondrial function in the cells and reduce and reverse bladder damage caused by partial outlet obstruction. The beneficial effects were attributed to the combination of multiple active components in grapes, not just one.",
+  "sentences": [
+    {
+      "text": "Bladder Health.",
+      "start": 0.1,
+      "end": 0.963,
+      "word_count": 2
+    },
+    {
+      "text": "A Grape-Enriched Diet Helped Protect Bladder Function Against Oxidative Damage Caused by Obstruction to the Bladder.",
+      "start": 1.837,
+      "end": 8.025,
+      "word_count": 16
+    },
+    {
+      "text": "Obstructive bladder dysfunction, such as that observed with prostate enlargement, is linked to oxidative damage of the nerves, synapses, and smooth muscle cells within the bladder wall.",
+      "start": 8.887,
+      "end": 19.312,
+      "word_count": 27
+    },
+    {
+      "text": "A series of animal studies investigated the impact of adding grapes to the diet on bladder function.",
+      "start": 20.188,
+      "end": 25.812,
+      "word_count": 17
+    },
+    {
+      "text": "The studies showed that grapes provided an antioxidant effect that helped to prevent and delay the damaging effects of oxygen deprivation and free radicals to cells that result from a partial obstruction to the bladder.",
+      "start": 26.675,
+      "end": 38.112,
+      "word_count": 35
+    },
+    {
+      "text": "Grapes helped maintain membrane and mitochondrial function in the cells and reduce and reverse bladder damage caused by partial outlet obstruction.",
+      "start": 38.975,
+      "end": 46.837,
+      "word_count": 21
+    },
+    {
+      "text": "The beneficial effects were attributed to the combination of multiple active components in grapes, not just one.",
+      "start": 47.7,
+      "end": 53.825,
+      "word_count": 17
+    }
+  ],
+  "sentence_count": 7,
+  "word_count": 135,
+  "total_duration": 53.825,
+  "voice": "en-US-AriaNeural"
+}

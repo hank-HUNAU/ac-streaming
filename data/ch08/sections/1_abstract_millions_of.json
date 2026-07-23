@@ -1,0 +1,106 @@
+{
+  "id": "1_abstract_millions_of",
+  "title": "Abstract. Millions of tons of fresh table grapes are consumed by the general population each year, primarily as a snack, raising the question of whether there are any health benefits. Preclinical and clinical trials have indicated there are health benefits, either directly or indirectly, via prolongation of healthspan. The array of responses with seemingly independent conditions such as cardiovascular, neurological, and metabolic disorders is astonishing but suggests a commonality leading to amelioration. Issues such as oxidative stress and inflammation are often cited as generic causative problems, and modification of disease-specific targets and pathways is often investigated. Functioning through these particular mechanisms is certainly possible given the scores of phytochemicals found in grapes. However, a unifying mode of action seems more satisfying: a broad-based nutrigenomic response. In general, systemic responses may be actuated by modulation of the microbiome or metabolome, for example, but here we focus on the genome. Grapes have been shown in both animal models and humans to significantly modify gene expression in ways that can be understood as being consistent with disease prevention. These expression patterns vary from organ to organ, from person to person, and between males and females, yet in every case, the expression patterns differ before and after grape consumption. This suggests a commonality: a resetting of homeostasis. We know that consumption of grapes is not harmful, we know that consumption leads to measurable phenotypic changes, and we know that clinical trials have indicated promising potential for ameliorating human ailments. It seems likely that such molecular and physiological alterations by grapes have consequences relevant to disease prevention. Although the gene expression changes as a downstream response resulting from transcriptional regulation are extraordinarily intricate and complicated, they are not insurmountable to study. With the available technology, we can unravel these processes. By understanding them, perhaps using grapes as a whole food prototype, we may gain a clearer understanding of how to improve and extend healthspan.",
+  "sentences": [
+    {
+      "text": "Abstract.",
+      "start": 0.1,
+      "end": 0.988,
+      "word_count": 1
+    },
+    {
+      "text": "Millions of tons of fresh table grapes are consumed by the general population each year, primarily as a snack, raising the question of whether there are any health benefits.",
+      "start": 1.837,
+      "end": 11.775,
+      "word_count": 29
+    },
+    {
+      "text": "Preclinical and clinical trials have indicated there are health benefits, either directly or indirectly, via prolongation of healthspan.",
+      "start": 12.637,
+      "end": 20.25,
+      "word_count": 18
+    },
+    {
+      "text": "The array of responses with seemingly independent conditions such as cardiovascular, neurological, and metabolic disorders is astonishing but suggests a commonality leading to amelioration.",
+      "start": 21.113,
+      "end": 32.138,
+      "word_count": 24
+    },
+    {
+      "text": "Issues such as oxidative stress and inflammation are often cited as generic causative problems, and modification of disease-specific targets and pathways is often investigated.",
+      "start": 33.013,
+      "end": 43.487,
+      "word_count": 24
+    },
+    {
+      "text": "Functioning through these particular mechanisms is certainly possible given the scores of phytochemicals found in grapes.",
+      "start": 44.35,
+      "end": 50.55,
+      "word_count": 16
+    },
+    {
+      "text": "However, a unifying mode of action seems more satisfying: a broad-based nutrigenomic response.",
+      "start": 51.413,
+      "end": 57.375,
+      "word_count": 13
+    },
+    {
+      "text": "In general, systemic responses may be actuated by modulation of the microbiome or metabolome, for example, but here we focus on the genome.",
+      "start": 58.25,
+      "end": 67.125,
+      "word_count": 23
+    },
+    {
+      "text": "Grapes have been shown in both animal models and humans to significantly modify gene expression in ways that can be understood as being consistent with disease prevention.",
+      "start": 67.987,
+      "end": 76.912,
+      "word_count": 27
+    },
+    {
+      "text": "These expression patterns vary from organ to organ, from person to person, and between males and females, yet in every case, the expression patterns differ before and after grape consumption.",
+      "start": 77.775,
+      "end": 89.15,
+      "word_count": 30
+    },
+    {
+      "text": "This suggests a commonality: a resetting of homeostasis.",
+      "start": 90.025,
+      "end": 93.688,
+      "word_count": 8
+    },
+    {
+      "text": "We know that consumption of grapes is not harmful, we know that consumption leads to measurable phenotypic changes, and we know that clinical trials have indicated promising potential for ameliorating human ailments.",
+      "start": 94.55,
+      "end": 106.175,
+      "word_count": 32
+    },
+    {
+      "text": "It seems likely that such molecular and physiological alterations by grapes have consequences relevant to disease prevention.",
+      "start": 107.05,
+      "end": 114.088,
+      "word_count": 17
+    },
+    {
+      "text": "Although the gene expression changes as a downstream response resulting from transcriptional regulation are extraordinarily intricate and complicated, they are not insurmountable to study.",
+      "start": 114.963,
+      "end": 125.162,
+      "word_count": 24
+    },
+    {
+      "text": "With the available technology, we can unravel these processes.",
+      "start": 126.037,
+      "end": 129.787,
+      "word_count": 9
+    },
+    {
+      "text": "By understanding them, perhaps using grapes as a whole food prototype, we may gain a clearer understanding of how to improve and extend healthspan.",
+      "start": 130.65,
+      "end": 139.088,
+      "word_count": 24
+    }
+  ],
+  "sentence_count": 16,
+  "word_count": 319,
+  "total_duration": 139.088,
+  "voice": "en-US-AriaNeural"
+}

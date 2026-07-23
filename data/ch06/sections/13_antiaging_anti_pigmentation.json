@@ -1,0 +1,118 @@
+{
+  "id": "13_antiaging_anti_pigmentation",
+  "title": "Antiaging, Anti-pigmentation, and Photoprotection Activities. The antiaging activity of resveratrol, quercetin, and proanthocyanidins in grapes is linked to their antioxidant and anti-inflammatory properties, which follow various mechanisms. For example, aqueous extract of grape leaves inhibits I L-8 secretion from human keratinocytes induced by pro-inflammatory stimuli, such as ultraviolet B, T N F alpha, and lipopolysaccharide. This was modulated by decreasing N F-kappa B-driven transcription of inflammatory mediators in keratinocytes. This shows that grape leaves extract can help protect the skin from ultraviolet radiation, which is also a common cause of the early onset of wrinkles and dark spots.",
+  "sentences": [
+    {
+      "text": "Antiaging, Anti-pigmentation, and Photoprotection Activities.",
+      "start": 0.1,
+      "end": 4.075,
+      "word_count": 5
+    },
+    {
+      "text": "The antiaging activity of resveratrol, quercetin, and proanthocyanidins in grapes is linked to their antioxidant and anti-inflammatory properties, which follow various mechanisms.",
+      "start": 4.938,
+      "end": 16.087,
+      "word_count": 22
+    },
+    {
+      "text": "For example, aqueous extract of grape leaves inhibits I L-8 secretion from human keratinocytes induced by pro-inflammatory stimuli, such as ultraviolet B, T N F alpha, and lipopolysaccharide.",
+      "start": 16.95,
+      "end": 29.788,
+      "word_count": 28
+    },
+    {
+      "text": "This was modulated by decreasing N F-kappa B-driven transcription of inflammatory mediators in keratinocytes.",
+      "start": 30.663,
+      "end": 37.45,
+      "word_count": 14
+    },
+    {
+      "text": "This shows that grape leaves extract can help protect the skin from ultraviolet radiation, which is also a common cause of the early onset of wrinkles and dark spots.",
+      "start": 38.325,
+      "end": 47.688,
+      "word_count": 29
+    },
+    {
+      "text": "Ultraviolet B radiation is known to induce reactive oxygen species, which activates three skin aging pathways: matrix metalloproteinase-1; M A P K and activator protein 1 and N F-kappa B, C O X-2-mediated inflammation; and p53 and Bax and cytochrome C-mediated apoptosis in the skin.",
+      "start": 48.55,
+      "end": 69.3,
+      "word_count": 45
+    },
+    {
+      "text": "Ultraviolet radiation causes the release of T N F alpha and I L-1 and, in turn, activates N F-kappa B, facilitating the formation of activator protein 1 transcription factor complex.",
+      "start": 70.175,
+      "end": 82.675,
+      "word_count": 30
+    },
+    {
+      "text": "It increases matrix metalloproteinases that degrade collagen, elastin, and other extracellular matrix components and interfere with intracellular signaling pathways that control the production of extracellular matrix components by fibroblasts.",
+      "start": 83.55,
+      "end": 98.25,
+      "word_count": 29
+    },
+    {
+      "text": "Consequently, there is a breakdown of elastin and hyaluronic acid, as well as the deterioration of collagen types one and three, which incurs fibrillar skin lesions.",
+      "start": 99.112,
+      "end": 108.963,
+      "word_count": 26
+    },
+    {
+      "text": "An in vivo study conducted in mice has shown that resveratrol could inhibit the expression of activator protein 1 and N F-kappa B transcription factors, which limits skin inflammation and the breakdown of extracellular matrix components, such as collagen and elastin.",
+      "start": 109.838,
+      "end": 125.737,
+      "word_count": 41
+    },
+    {
+      "text": "This was supported by another study in human dermal fibroblast cells and reconstructed human skin tissue model, where resveratrol reduced the levels of matrix metalloproteinase-1, I L-6, C O X-2, and other inflammatory cascades, preventing inflammation-induced skin aging.",
+      "start": 126.612,
+      "end": 144.438,
+      "word_count": 38
+    },
+    {
+      "text": "Resveratrol has also been shown to inhibit lipid oxidation, regulate keratinocyte viability and proliferation, lower malondialdehyde levels, and shield antioxidant cellular enzymes, such as glutathione peroxidase and superoxide dismutase, all of which contribute to its antiaging property.",
+      "start": 145.312,
+      "end": 164.425,
+      "word_count": 37
+    },
+    {
+      "text": "Resveratrol impedes melanin synthesis by modulating tyrosinase activity and posttranscriptional regulation of melanogenic genes.",
+      "start": 165.287,
+      "end": 173.45,
+      "word_count": 14
+    },
+    {
+      "text": "Resveratrol has been shown to suppress the messenger ribonucleic acid expression of melanogenic genes including MITF, DCT, TYR, TYRP1, and TYRP2 in human melanocytes.",
+      "start": 174.312,
+      "end": 187.963,
+      "word_count": 24
+    },
+    {
+      "text": "Furthermore, it has been demonstrated that resveratrol activates the Nrf2 and A R E pathway, which in turn activates the P I 3 K and Akt signaling pathway, hence negatively regulating melanogenesis.",
+      "start": 188.825,
+      "end": 202.287,
+      "word_count": 32
+    },
+    {
+      "text": "It was reported that the topical application of resveratrol can significantly reduce ultraviolet-induced pigmentation.",
+      "start": 203.15,
+      "end": 209.938,
+      "word_count": 14
+    },
+    {
+      "text": "It increases procollagen 1 and decreases the activity of matrix metalloproteinase-1 in fibroblasts, protecting them from ultraviolet B radiations.",
+      "start": 210.812,
+      "end": 220.012,
+      "word_count": 19
+    },
+    {
+      "text": "This evidence suggests that grapes are emerging as promising candidates for cosmetic and dermatological applications, attributed to their rich content of phytochemicals, especially polyphenols, which offer a range of biological activities and health-promoting benefits.",
+      "start": 220.887,
+      "end": 236.4,
+      "word_count": 34
+    }
+  ],
+  "sentence_count": 18,
+  "word_count": 481,
+  "total_duration": 236.4,
+  "voice": "en-US-AriaNeural"
+}

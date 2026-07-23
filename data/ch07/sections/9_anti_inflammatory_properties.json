@@ -1,0 +1,40 @@
+{
+  "id": "9_anti_inflammatory_properties",
+  "title": "Anti-inflammatory Properties. Ultraviolet B radiation can cause edema, erythema, and hyperplastic epithelial responses via a mechanism that involves C O X-2-mediated increase in prostaglandin production. Resveratrol reduces C O X-2 expression through several different mechanisms. Resveratrol prevents p65 phosphorylation and targets I kappa B kinase, which attenuates the transcriptional activity of N F-kappa B. Resveratrol also inhibits the activation of extracellular signal-regulated kinase. C O X-2 is a transcriptional target of both N F-kappa B and E R K. Therefore, the decreased activity of N F-kappa B and E R K induced by resveratrol leads to a decrease in C O X-2 expression and reduces ultraviolet-induced inflammation.",
+  "sentences": [
+    {
+      "text": "Anti-inflammatory Properties.",
+      "start": 0.1,
+      "end": 2.0,
+      "word_count": 2
+    },
+    {
+      "text": "Ultraviolet B radiation can cause edema, erythema, and hyperplastic epithelial responses via a mechanism that involves C O X-2-mediated increase in prostaglandin production.",
+      "start": 2.862,
+      "end": 14.338,
+      "word_count": 23
+    },
+    {
+      "text": "Resveratrol reduces C O X-2 expression through several different mechanisms.",
+      "start": 15.213,
+      "end": 19.962,
+      "word_count": 10
+    },
+    {
+      "text": "Resveratrol prevents p65 phosphorylation and targets I kappa B kinase, which attenuates the transcriptional activity of N F-kappa B. Resveratrol also inhibits the activation of extracellular signal-regulated kinase.",
+      "start": 20.825,
+      "end": 35.05,
+      "word_count": 28
+    },
+    {
+      "text": "C O X-2 is a transcriptional target of both N F-kappa B and E R K. Therefore, the decreased activity of N F-kappa B and E R K induced by resveratrol leads to a decrease in C O X-2 expression and reduces ultraviolet-induced inflammation.",
+      "start": 35.913,
+      "end": 52.825,
+      "word_count": 44
+    }
+  ],
+  "sentence_count": 5,
+  "word_count": 107,
+  "total_duration": 52.825,
+  "voice": "en-US-AriaNeural"
+}

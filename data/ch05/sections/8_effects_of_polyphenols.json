@@ -1,0 +1,160 @@
+{
+  "id": "8_effects_of_polyphenols",
+  "title": "Effects of Polyphenols and Grapes on Intestinal Disorders. In addition to the observation that grape polyphenols and related products appear to protect gut barrier functions, numerous studies have revealed their impact on various intestinal disorders.",
+  "sentences": [
+    {
+      "text": "Effects of Polyphenols and Grapes on Intestinal Disorders.",
+      "start": 0.1,
+      "end": 3.337,
+      "word_count": 8
+    },
+    {
+      "text": "In addition to the observation that grape polyphenols and related products appear to protect gut barrier functions, numerous studies have revealed their impact on various intestinal disorders.",
+      "start": 4.213,
+      "end": 14.887,
+      "word_count": 27
+    },
+    {
+      "text": "Effects of Grape Polyphenols and Whole Grapes on Colitis and Gut Microbiota in Preclinical and Clinical Studies.",
+      "start": 15.762,
+      "end": 22.212,
+      "word_count": 17
+    },
+    {
+      "text": "Inflammatory bowel diseases, which include Crohn's disease and ulcerative colitis, affect up to 2.4 million Americans.",
+      "start": 23.075,
+      "end": 30.875,
+      "word_count": 16
+    },
+    {
+      "text": "Inflammatory bowel disease patients are known to have an increased risk of colorectal cancer and to develop colorectal cancer at a younger age compared to the healthy population.",
+      "start": 31.738,
+      "end": 41.5,
+      "word_count": 28
+    },
+    {
+      "text": "The supplementation of grape polyphenols has been shown to mitigate experimental colitis and modulate gut microbiota in rodents.",
+      "start": 42.362,
+      "end": 49.663,
+      "word_count": 18
+    },
+    {
+      "text": "For instance, the supplementation of resveratrol at various doses attenuated dextran sulfate sodium-induced colitis and inflammation.",
+      "start": 50.538,
+      "end": 58.85,
+      "word_count": 16
+    },
+    {
+      "text": "Resveratrol treatment increased the fecal counts of potentially beneficial microbes, including Lactobacillus and Bifidobacterium, and decreased potentially pathogenic bacteria, including Escherichia coli and Enterobacteria, compared to controls.",
+      "start": 59.725,
+      "end": 75.425,
+      "word_count": 27
+    },
+    {
+      "text": "Resveratrol, quercetin aglycones, or quercetin monoglycosides are found to attenuate colitis-induced decline in alpha-diversity.",
+      "start": 76.287,
+      "end": 84.4,
+      "word_count": 14
+    },
+    {
+      "text": "In another study where trinitrobenzene sulfonic acid was used to induce colitis, resveratrol not only attenuated colitis but also reversed colitis-associated decrease of Akkermansia muciniphila and Ruminococcus gnavus or an increase in Bacteroides acidifaciens.",
+      "start": 85.263,
+      "end": 101.725,
+      "word_count": 34
+    },
+    {
+      "text": "Interestingly, quercetin supplementation was reported to alleviate experimental colitis, reduce colitis-induced bacterial penetration into the basolateral surface of colonic epithelial cells, partly via a heme oxygenase-1-dependent mechanism, and lower the relative abundance of potentially pathogenic microbe Escherichia coli in a T cell-dependent colitis model that was induced by the adoptive transfer of naive T cells into recombinase-activating gene-1-deficient mice.",
+      "start": 102.6,
+      "end": 131.463,
+      "word_count": 59
+    },
+    {
+      "text": "In addition to purified grape polyphenol compounds, grape seed extracts or grape powder has been demonstrated to be protective against experimental colitis.",
+      "start": 132.338,
+      "end": 141.613,
+      "word_count": 22
+    },
+    {
+      "text": "For instance, the supplementation of grape seed extract mitigated inflammatory bowel disease indices, increased colonic goblet cell numbers, and elevated the relative abundance of Bacteroides and Lactobacillus in I L-10 knockout mice.",
+      "start": 142.475,
+      "end": 156.588,
+      "word_count": 32
+    },
+    {
+      "text": "Similarly, researchers reported that grape seed proanthocyanidin extract dose-dependently attenuated dextran sulfate sodium-induced pathological damage to the colonic mucosa and suppressed the elevation of pro-inflammatory N F-kappa B and cytokines, such as I L-1 beta, I L-6, and T N F-alpha.",
+      "start": 157.463,
+      "end": 176.863,
+      "word_count": 41
+    },
+    {
+      "text": "Further, grape seed proanthocyanidin extract also increased Nrf2 while decreasing Keap-1, indicating the promotion of antioxidant defense.",
+      "start": 177.725,
+      "end": 187.088,
+      "word_count": 17
+    },
+    {
+      "text": "In addition, researchers reported that 10 percent freeze-dried grape powder in a diet attenuated dextran sulfate sodium-induced fecal bleeding and diarrhea, as well as histological colitis.",
+      "start": 187.95,
+      "end": 200.625,
+      "word_count": 26
+    },
+    {
+      "text": "Another group observed that grape seed proanthocyanidin alleviated intestinal inflammation in canines, reduced intestinal permeability, and increased the abundance of bacteria with potential anti-inflammatory properties and involvement in bile acid metabolism, including Ruminococcaceae, Faecalibacterium, Ruminococcus torques group, and Lachnospiraceae NK4A136.",
+      "start": 200.637,
+      "end": 225.9,
+      "word_count": 40
+    },
+    {
+      "text": "Consistent with research in experimental colitis, clinical studies have documented the beneficial effects of resveratrol or proanthocyanidins in ulcerative colitis patients.",
+      "start": 225.912,
+      "end": 236.613,
+      "word_count": 21
+    },
+    {
+      "text": "In a randomized, double-blind, placebo-controlled study, 50 eligible patients with active mild-to-moderate ulcerative colitis were supplemented with either 500 milligrams of resveratrol or a placebo capsule for 6 weeks.",
+      "start": 236.625,
+      "end": 251.775,
+      "word_count": 29
+    },
+    {
+      "text": "Resveratrol supplementation resulted in a significant reduction in the plasma levels of T N F-alpha, C-reactive protein, and N F-kappa B activity in peripheral blood mononuclear cells, whereas there were no significant changes in these factors in the placebo group.",
+      "start": 251.787,
+      "end": 268.738,
+      "word_count": 40
+    },
+    {
+      "text": "Resveratrol supplementation also significantly reduced colitis activity index scores.",
+      "start": 269.716,
+      "end": 275.441,
+      "word_count": 9
+    },
+    {
+      "text": "In a similar clinical study, 500 milligrams per day of resveratrol supplementation was found to improve the quality of life of patients with ulcerative colitis, partially through a reduction in oxidative stress.",
+      "start": 275.454,
+      "end": 288.641,
+      "word_count": 32
+    },
+    {
+      "text": "In addition, in another clinical study including a group of patients with ulcerative colitis in remission, the dietary intake of proanthocyanidins was found to be associated with reduced frequencies of bowel movements and increased production of mucus, which is considered beneficial for intestinal healing.",
+      "start": 288.654,
+      "end": 306.779,
+      "word_count": 44
+    },
+    {
+      "text": "In summary, both preclinical and clinical studies have consistently demonstrated that grape polyphenols, grape extracts, and freeze-dried grape powder as whole foods protect gut barrier functions, attenuate colitis symptoms, cause favorable changes in gut microbiota, and exert anti-inflammatory effects in conditions relevant to inflammatory bowel diseases.",
+      "start": 306.791,
+      "end": 329.553,
+      "word_count": 46
+    },
+    {
+      "text": "Therefore, grapes and relevant products may be useful for mitigating and controlling inflammatory bowel diseases.",
+      "start": 329.878,
+      "end": 335.503,
+      "word_count": 14
+    }
+  ],
+  "sentence_count": 25,
+  "word_count": 677,
+  "total_duration": 335.503,
+  "voice": "en-US-AriaNeural"
+}

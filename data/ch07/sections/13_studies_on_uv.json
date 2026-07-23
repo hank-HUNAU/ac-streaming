@@ -1,0 +1,52 @@
+{
+  "id": "13_studies_on_uv",
+  "title": "Studies on UV-Induced Skin Damage with Resveratrate. Resveratrate is a stabilized derivative of resveratrol. In a study involving 15 healthy volunteers, researchers examined the effects of this product, applied topically, in preventing ultraviolet-induced skin damage. Their study showed that resveratrate significantly reduces erythema, sunburn cell formation, and melanin accumulation compared to untreated or vehicle-treated areas. The most significant protection is observed when resveratrate is combined with additional antioxidants, highlighting its ability to modulate skin inflammation and pigmentation. These findings demonstrate that resveratrate provides direct photoprotective benefits when applied to skin, effectively attenuating ultraviolet radiation-induced sunburn and suntan in human skin. This highlights its potential as a topical agent for reducing ultraviolet-mediated skin damage.",
+  "sentences": [
+    {
+      "text": "Studies on UV-Induced Skin Damage with Resveratrate.",
+      "start": 0.1,
+      "end": 3.25,
+      "word_count": 7
+    },
+    {
+      "text": "Resveratrate is a stabilized derivative of resveratrol.",
+      "start": 4.112,
+      "end": 7.388,
+      "word_count": 7
+    },
+    {
+      "text": "In a study involving 15 healthy volunteers, researchers examined the effects of this product, applied topically, in preventing ultraviolet-induced skin damage.",
+      "start": 8.262,
+      "end": 18.113,
+      "word_count": 21
+    },
+    {
+      "text": "Their study showed that resveratrate significantly reduces erythema, sunburn cell formation, and melanin accumulation compared to untreated or vehicle-treated areas.",
+      "start": 18.975,
+      "end": 29.175,
+      "word_count": 20
+    },
+    {
+      "text": "The most significant protection is observed when resveratrate is combined with additional antioxidants, highlighting its ability to modulate skin inflammation and pigmentation.",
+      "start": 30.038,
+      "end": 39.75,
+      "word_count": 22
+    },
+    {
+      "text": "These findings demonstrate that resveratrate provides direct photoprotective benefits when applied to skin, effectively attenuating ultraviolet radiation-induced sunburn and suntan in human skin.",
+      "start": 40.625,
+      "end": 51.9,
+      "word_count": 23
+    },
+    {
+      "text": "This highlights its potential as a topical agent for reducing ultraviolet-mediated skin damage.",
+      "start": 52.775,
+      "end": 58.275,
+      "word_count": 13
+    }
+  ],
+  "sentence_count": 7,
+  "word_count": 113,
+  "total_duration": 58.275,
+  "voice": "en-US-AriaNeural"
+}

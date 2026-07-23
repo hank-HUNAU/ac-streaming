@@ -1,0 +1,304 @@
+{
+  "id": "12_the_role_of",
+  "title": "The Role of Gut Microbiota in Polyphenol-Mediated Beneficial Effects. As discussed above, polyphenols appear to be capable of increasing probiotics such as Lactobacillus and Bifidobacterium, Akkermansia, and butyrate producers, including Faecalibacterium prausnitzii, Eubacterium rectale, Clostridium cluster IV and XIVa, and Butyricicoccus, under both healthy and diseased conditions. In the meantime, Lactobacillus and Bifidobacterium have been shown to attenuate colitis and inhibit the development of colitis-associated colon cancer. Moreover, polyphenols are found to reverse disease-associated changes in the gut microbial profile, as indicated by observations that the gut microbial composition in polyphenol-treated disease animals often resembles those in the healthy ones. These results indicate that polyphenols promote beneficial gut microbes and render resistance to disease-caused dysbiosis. Further, the polyphenol promotion of these beneficial microbes may play a role in their anticolitis and anti-colitis-associated colon cancer actions.",
+  "sentences": [
+    {
+      "text": "The Role of Gut Microbiota in Polyphenol-Mediated Beneficial Effects.",
+      "start": 0.1,
+      "end": 4.287,
+      "word_count": 9
+    },
+    {
+      "text": "As discussed above, polyphenols appear to be capable of increasing probiotics such as Lactobacillus and Bifidobacterium, Akkermansia, and butyrate producers, including Faecalibacterium prausnitzii, Eubacterium rectale, Clostridium cluster IV and XIVa, and Butyricicoccus, under both healthy and diseased conditions.",
+      "start": 5.15,
+      "end": 25.9,
+      "word_count": 38
+    },
+    {
+      "text": "In the meantime, Lactobacillus and Bifidobacterium have been shown to attenuate colitis and inhibit the development of colitis-associated colon cancer.",
+      "start": 26.775,
+      "end": 35.788,
+      "word_count": 20
+    },
+    {
+      "text": "Moreover, polyphenols are found to reverse disease-associated changes in the gut microbial profile, as indicated by observations that the gut microbial composition in polyphenol-treated disease animals often resembles those in the healthy ones.",
+      "start": 36.663,
+      "end": 50.95,
+      "word_count": 33
+    },
+    {
+      "text": "These results indicate that polyphenols promote beneficial gut microbes and render resistance to disease-caused dysbiosis.",
+      "start": 51.825,
+      "end": 58.812,
+      "word_count": 15
+    },
+    {
+      "text": "Further, the polyphenol promotion of these beneficial microbes may play a role in their anticolitis and anti-colitis-associated colon cancer actions.",
+      "start": 59.688,
+      "end": 68.45,
+      "word_count": 20
+    },
+    {
+      "text": "In addition to the observations that grape polyphenols have favorable influences on gut microbiota, the role of modulating gut microbiota in grape polyphenols-mediated beneficial effects has been investigated using fecal microbiota transplantation or depletion of gut microbiota using antibiotics.",
+      "start": 69.312,
+      "end": 86.987,
+      "word_count": 39
+    },
+    {
+      "text": "For instance, using fecal microbiota transplantation, resveratrol was shown to exert anti-obesity effects by modulating gut microbiota in high-fat-diet-fed mice.",
+      "start": 87.862,
+      "end": 98.312,
+      "word_count": 20
+    },
+    {
+      "text": "Specifically, treatment with feces from donor mice that were fed resveratrol significantly lowered leaky gut markers and increased tight junction proteins, such as Z O-1, occludin, claudin-1, and claudin-2, compared to controls, indicating the causative role of resveratrol-modulated gut microbes in the protection of gut-barrier integrity.",
+      "start": 99.188,
+      "end": 119.8,
+      "word_count": 46
+    },
+    {
+      "text": "Moreover, researchers compared the effects of a grape powder on colitis in mice in the presence and absence of antibiotics.",
+      "start": 120.675,
+      "end": 127.8,
+      "word_count": 20
+    },
+    {
+      "text": "To this end, 10 percent grape powder mitigated dextran sulfate sodium-induced colitis in conventional mice but failed to show anticolitis effects in gut-microbiota-depleted mice after being treated with antibiotics, supporting the notion that modulating gut microbiota plays a causal role in the beneficial effects of the grape powder.",
+      "start": 128.675,
+      "end": 149.113,
+      "word_count": 48
+    },
+    {
+      "text": "In addition, another group used fecal microbiota transplantation to determine whether the modulation of gut microbiota is a key mechanism underlying the anti-inflammation effects of grape seed proanthocyanidin.",
+      "start": 149.125,
+      "end": 162.8,
+      "word_count": 28
+    },
+    {
+      "text": "Specifically, a rectal enema using fecal samples from donor dogs that were treated with grape seed proanthocyanidin resulted in decreased pro-inflammatory cytokines in dogs with mild inflammatory bowel diseases.",
+      "start": 163.125,
+      "end": 175.463,
+      "word_count": 29
+    },
+    {
+      "text": "These beneficial effects of fecal microbiota transplantation were similar to those from another study where dogs with mild inflammatory bowel diseases were treated with grape seed proanthocyanidin directly.",
+      "start": 175.475,
+      "end": 188.062,
+      "word_count": 28
+    },
+    {
+      "text": "Together, these studies provide evidence that the interaction of grape polyphenols and gut microbiome plays a causative role in the beneficial effects of polyphenols.",
+      "start": 188.4,
+      "end": 197.963,
+      "word_count": 24
+    },
+    {
+      "text": "Summary and Conclusions.",
+      "start": 197.975,
+      "end": 200.75,
+      "word_count": 3
+    },
+    {
+      "text": "Accumulating evidence indicates that grapes and grape polyphenols have a profound impact on gastrointestinal health, including the promotion of intestinal barrier integrity.",
+      "start": 200.762,
+      "end": 211.55,
+      "word_count": 22
+    },
+    {
+      "text": "Specifically, studies using cells and animal models have demonstrated that grape polyphenols can protect gut barrier functions, as indicated by counteracting infection- or inflammation-induced intestinal barrier dysfunction, compromised expression of tight junction proteins, increased intestinal epithelial apoptosis and elevation of pro-inflammatory markers.",
+      "start": 211.85,
+      "end": 234.238,
+      "word_count": 42
+    },
+    {
+      "text": "Consistently, a polyphenol-rich diet has been shown to decrease a leaky gut marker among people with increased intestinal permeability.",
+      "start": 234.525,
+      "end": 242.887,
+      "word_count": 19
+    },
+    {
+      "text": "Furthermore, polyphenol-rich grape extracts and powder are shown to be capable of mitigating or preventing intestinal diseases, including inflammatory bowel diseases, celiac disease, irritable bowel syndrome, and colorectal cancer.",
+      "start": 243.15,
+      "end": 257.538,
+      "word_count": 29
+    },
+    {
+      "text": "These observations strongly suggest that consuming grapes and grape polyphenols may be useful for maintaining a healthy gut and preventing intestine-associated diseases.",
+      "start": 257.55,
+      "end": 268.994,
+      "word_count": 22
+    },
+    {
+      "text": "Multiple factors likely contribute to the protective effects of grape polyphenols on gut health.",
+      "start": 269.007,
+      "end": 274.869,
+      "word_count": 14
+    },
+    {
+      "text": "First, excessive pro-inflammatory cytokines are known to compromise gut barrier integrity.",
+      "start": 275.019,
+      "end": 281.257,
+      "word_count": 11
+    },
+    {
+      "text": "Imbalanced immune responses result in pathological conditions, as evidenced by interleukin-10 knockout mice that developed colitis.",
+      "start": 281.269,
+      "end": 289.694,
+      "word_count": 16
+    },
+    {
+      "text": "Many polyphenols have been shown to have anti-inflammatory activities, including suppressing N F-kappa B-regulated pro-inflammatory cytokines.",
+      "start": 289.707,
+      "end": 299.469,
+      "word_count": 16
+    },
+    {
+      "text": "Second, oxidative stress is also known to cause tissue damage and disrupt tight junction barriers.",
+      "start": 299.731,
+      "end": 305.894,
+      "word_count": 15
+    },
+    {
+      "text": "It is well known that polyphenols have antioxidant effects, through electron donation to scavenge reactive oxidation species.",
+      "start": 305.906,
+      "end": 314.669,
+      "word_count": 17
+    },
+    {
+      "text": "Polyphenols can also enhance total antioxidant capacity and elevate antioxidant enzymes, such as catalase and superoxide dismutase, via the activation of Nrf-2-regulated gene expression.",
+      "start": 314.682,
+      "end": 327.844,
+      "word_count": 24
+    },
+    {
+      "text": "These anti-inflammatory and antioxidant properties likely contribute to the beneficial effects of grape polyphenols on intestinal integrity by attenuating exacerbated immune responses and countering oxidative-stress-induced damage, respectively.",
+      "start": 327.856,
+      "end": 343.031,
+      "word_count": 27
+    },
+    {
+      "text": "In addition to anti-inflammatory and antioxidant actions, it has become clear that mutual interactions between grape polyphenols and gut microbiota play an important role in polyphenol-mediated protection.",
+      "start": 343.044,
+      "end": 356.481,
+      "word_count": 27
+    },
+    {
+      "text": "Specifically, grapes and grape polyphenols have been found to promote beneficial gut microbes, enhancing gut barrier functions and counteracting excessive immune responses.",
+      "start": 356.769,
+      "end": 367.094,
+      "word_count": 22
+    },
+    {
+      "text": "Meanwhile, polyphenols can also block the growth of pathogenic bacteria.",
+      "start": 367.307,
+      "end": 372.244,
+      "word_count": 10
+    },
+    {
+      "text": "Further, gut microbes can catabolize polyphenols to generate bioactive metabolites that have anti-inflammatory and even anticancer effects.",
+      "start": 372.519,
+      "end": 381.919,
+      "word_count": 17
+    },
+    {
+      "text": "Further, emerging evidence supports the idea that the interaction between polyphenols and gut microbiota plays a causative role in the beneficial effects of polyphenols on gut health.",
+      "start": 382.244,
+      "end": 392.606,
+      "word_count": 27
+    },
+    {
+      "text": "To this end, fecal microbiota transplantation using fecal samples from donors receiving grape polyphenols is found to display similar beneficial effects on gut health as a result of the direct supplementation of grape-related products.",
+      "start": 392.619,
+      "end": 407.119,
+      "word_count": 34
+    },
+    {
+      "text": "Further, depleting gut microbe communities with antibiotics is shown to compromise the beneficial effects of grape polyphenols.",
+      "start": 407.419,
+      "end": 414.932,
+      "word_count": 17
+    },
+    {
+      "text": "As a whole, the polyphenol-gut microbiota interaction, together with antioxidant and anti-inflammatory actions, make grape polyphenols ideal for maintaining or promoting gut health and preventing intestinal diseases.",
+      "start": 414.944,
+      "end": 428.844,
+      "word_count": 27
+    },
+    {
+      "text": "While research has revealed the beneficial effects of grape polyphenols on gastrointestinal health, additional research is needed to potentially optimize the use of grape-related products to manage intestinal diseases.",
+      "start": 428.856,
+      "end": 441.882,
+      "word_count": 29
+    },
+    {
+      "text": "First, emerging evidence suggests that polyphenols in whole foods, such as grape powder, may be better similar for attenuating diseases compared to purified polyphenols.",
+      "start": 442.069,
+      "end": 452.457,
+      "word_count": 24
+    },
+    {
+      "text": "This is exciting as diverse bioactive components in whole foods may offer synergistic benefits compared to a single polyphenolic compound.",
+      "start": 452.469,
+      "end": 461.307,
+      "word_count": 20
+    },
+    {
+      "text": "The use of whole foods may also potentially reduce side effects in contrast to the supplementation of purified compounds at a relatively high dose.",
+      "start": 461.319,
+      "end": 470.944,
+      "word_count": 24
+    },
+    {
+      "text": "However, there is limited research in this area, and so it is necessary to compare the efficacy of single polyphenol compounds versus whole grapes regarding their impact on gut barrier functions, inflammation, oxidative stress, and gut microbiota in the future.",
+      "start": 471.219,
+      "end": 487.382,
+      "word_count": 40
+    },
+    {
+      "text": "Second, studies concerning the effect of grape polyphenols on celiac disease or irritable bowel syndrome have been relatively limited.",
+      "start": 487.594,
+      "end": 495.869,
+      "word_count": 19
+    },
+    {
+      "text": "Future research is warranted on this topic, considering the encouraging data supporting the idea that grapes and grape polyphenols may be useful for mitigating these diseases.",
+      "start": 495.882,
+      "end": 506.219,
+      "word_count": 26
+    },
+    {
+      "text": "Third, grape polyphenols should be considered in combination therapies for preventing colorectal cancer.",
+      "start": 506.531,
+      "end": 512.707,
+      "word_count": 13
+    },
+    {
+      "text": "For instance, combining aspirin with grape polyphenols may be particularly interesting, which is supported by other novel aspirin combinations.",
+      "start": 512.719,
+      "end": 522.523,
+      "word_count": 19
+    },
+    {
+      "text": "Moreover, although extensive research has been done to delineate mutual interactions between polyphenols and gut microbiota, how such interaction may have an impact on intestinal immune responses should be further elucidated.",
+      "start": 522.81,
+      "end": 535.822,
+      "word_count": 31
+    },
+    {
+      "text": "For instance, given that the interplay between intestinal microbiota and immunity is critical to gut homeostasis, research should be conducted in the future to delineate how polyphenols-gut microbiota interactions influence intestinal immunity or how polyphenols-intestinal immunity interactions impact gut microbiota.",
+      "start": 535.835,
+      "end": 555.322,
+      "word_count": 40
+    },
+    {
+      "text": "In addition, given that grape polyphenols can promote beneficial bacteria, developing synbiotics using combinations of polyphenols and probiotics should be explored to improve gastrointestinal health, as suggested by emerging relevant research.",
+      "start": 555.335,
+      "end": 569.673,
+      "word_count": 30
+    }
+  ],
+  "sentence_count": 49,
+  "word_count": 1190,
+  "total_duration": 569.673,
+  "voice": "en-US-AriaNeural"
+}

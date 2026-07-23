@@ -1,0 +1,118 @@
+{
+  "id": "4_targeted_actions_mediated",
+  "title": "Targeted Actions Mediated by Grapes. Supposedly, the word superfood entered the American lexicon in the early twentieth century. It has since been applied to hundreds of foods, generally perceived as a nutrient-rich food that is considered to be beneficial for health and well-being. The term is not recognized by the F D A, and the headline of the American Heart Association dealing with this topic states \"So-called superfoods alone won't make you healthier, but adding these nutritious foods to an already balanced diet can bring health benefits.\"",
+  "sentences": [
+    {
+      "text": "Targeted Actions Mediated by Grapes.",
+      "start": 0.1,
+      "end": 2.462,
+      "word_count": 5
+    },
+    {
+      "text": "Supposedly, the word superfood entered the American lexicon in the early twentieth century.",
+      "start": 3.337,
+      "end": 8.675,
+      "word_count": 13
+    },
+    {
+      "text": "It has since been applied to hundreds of foods, generally perceived as a nutrient-rich food that is considered to be beneficial for health and well-being.",
+      "start": 9.537,
+      "end": 17.363,
+      "word_count": 25
+    },
+    {
+      "text": "The term is not recognized by the F D A, and the headline of the American Heart Association dealing with this topic states \"So-called superfoods alone won't make you healthier, but adding these nutritious foods to an already balanced diet can bring health benefits.\"",
+      "start": 18.238,
+      "end": 32.825,
+      "word_count": 44
+    },
+    {
+      "text": "Logically, grapes and other berries are included in the list of foods grouped as superfoods.",
+      "start": 33.7,
+      "end": 38.6,
+      "word_count": 15
+    },
+    {
+      "text": "Such a classification is justified based on the results of many clinical and preclinical studies.",
+      "start": 39.462,
+      "end": 45.05,
+      "word_count": 15
+    },
+    {
+      "text": "The scope of potential health-promoting activities mediated by grapes, for example, metabolic syndrome, heart, eye, skin, etc., is noteworthy.",
+      "start": 45.913,
+      "end": 54.938,
+      "word_count": 19
+    },
+    {
+      "text": "This leads to the notion of a common mechanism leading to maladies, which often fall into the general categories of oxidative damage and inflammation.",
+      "start": 55.812,
+      "end": 64.062,
+      "word_count": 24
+    },
+    {
+      "text": "In turn, the antioxidant potential of superfoods, including grapes, is often emphasized.",
+      "start": 64.925,
+      "end": 70.65,
+      "word_count": 12
+    },
+    {
+      "text": "In a simplistic way, the antioxidant potential of a dietary substance may be considered as direct interactions leading to the reduction of oxidative stress through quenching or scavenging.",
+      "start": 71.513,
+      "end": 82.013,
+      "word_count": 28
+    },
+    {
+      "text": "While this may play some role in the process, it is difficult to imagine achieving sufficiently high concentrations of the requisite antioxidants at the target site to facilitate efficient reactions.",
+      "start": 82.888,
+      "end": 93.75,
+      "word_count": 30
+    },
+    {
+      "text": "This leads to the idea of plant antioxidants functioning in an indirect manner based on gene expression.",
+      "start": 94.625,
+      "end": 100.625,
+      "word_count": 17
+    },
+    {
+      "text": "Consider, for example, the induction of the messenger R N A coding for an enzyme such as catalase, which catalyzes the reaction 2 hydrogen peroxide to oxygen plus water.",
+      "start": 101.5,
+      "end": 112.25,
+      "word_count": 29
+    },
+    {
+      "text": "The messenger R N A copy may facilitate the generation of 1000 copies of the enzyme, and an enzyme such as catalase has a turnover number of up to 4 times 10 to the 7 per second.",
+      "start": 113.112,
+      "end": 124.287,
+      "word_count": 37
+    },
+    {
+      "text": "In other words, the antioxidant potential may be enhanced by over 10 to the 10-fold per second.",
+      "start": 125.15,
+      "end": 130.875,
+      "word_count": 17
+    },
+    {
+      "text": "Grapes regulate genes associated with inflammation, oxidative stress, and metabolism.",
+      "start": 131.738,
+      "end": 137.113,
+      "word_count": 10
+    },
+    {
+      "text": "Long-term grape consumption in animal models has been shown to enhance antioxidant defenses, mitigate chronic inflammatory responses, and influence epigenetic markers such as D N A methylation and histone modifications, potentially contributing to healthier aging.",
+      "start": 137.988,
+      "end": 153.9,
+      "word_count": 35
+    },
+    {
+      "text": "Several examples of specific targeted genes, the expression of which is influenced by grapes, are presented in the following section.",
+      "start": 154.762,
+      "end": 162.25,
+      "word_count": 20
+    }
+  ],
+  "sentence_count": 18,
+  "word_count": 395,
+  "total_duration": 162.25,
+  "voice": "en-US-AriaNeural"
+}

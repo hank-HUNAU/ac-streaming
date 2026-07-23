@@ -1,0 +1,4165 @@
+[
+  {
+    "id": 0,
+    "term_id": "t000",
+    "term": "Resveratrol",
+    "normalized_name": "Resveratrol",
+    "category": "CHEMICAL",
+    "synonyms": "白藜芦醇"
+  },
+  {
+    "id": 1,
+    "term_id": "t001",
+    "term": "trans-Resveratrol",
+    "normalized_name": "trans-Resveratrol",
+    "category": "CHEMICAL",
+    "synonyms": "反式白藜芦醇",
+    "audio_file": "term_audio/t001/t001.mp3"
+  },
+  {
+    "id": 2,
+    "term_id": "t002",
+    "term": "cis-Resveratrol",
+    "normalized_name": "cis-Resveratrol",
+    "category": "CHEMICAL",
+    "synonyms": "顺式白藜芦醇",
+    "audio_file": "term_audio/t002/t002.mp3"
+  },
+  {
+    "id": 3,
+    "term_id": "t003",
+    "term": "Piceatannol",
+    "normalized_name": "Piceatannol",
+    "category": "CHEMICAL",
+    "synonyms": "白皮杉醇"
+  },
+  {
+    "id": 4,
+    "term_id": "t004",
+    "term": "Pterostilbene",
+    "normalized_name": "Pterostilbene",
+    "category": "CHEMICAL",
+    "synonyms": "紫檀芪"
+  },
+  {
+    "id": 5,
+    "term_id": "t005",
+    "term": "Epsilon-viniferin",
+    "normalized_name": "Epsilon-viniferin",
+    "category": "CHEMICAL",
+    "synonyms": "ε-葡萄素",
+    "audio_file": "term_audio/t005/t005.mp3"
+  },
+  {
+    "id": 6,
+    "term_id": "t006",
+    "term": "Labruscol",
+    "normalized_name": "Labruscol",
+    "category": "CHEMICAL",
+    "synonyms": "Labruscol"
+  },
+  {
+    "id": 7,
+    "term_id": "t007",
+    "term": "Piceid",
+    "normalized_name": "Piceid",
+    "category": "CHEMICAL",
+    "synonyms": "云杉苷"
+  },
+  {
+    "id": 8,
+    "term_id": "t008",
+    "term": "Viniferins",
+    "normalized_name": "Viniferins",
+    "category": "CHEMICAL",
+    "synonyms": "葡萄素"
+  },
+  {
+    "id": 9,
+    "term_id": "t009",
+    "term": "Ampelopsin C",
+    "normalized_name": "Ampelopsin C",
+    "category": "CHEMICAL",
+    "synonyms": "蛇葡萄素C",
+    "audio_file": "term_audio/t009/t009.mp3"
+  },
+  {
+    "id": 10,
+    "term_id": "t010",
+    "term": "Vitisin A",
+    "normalized_name": "Vitisin A",
+    "category": "CHEMICAL",
+    "synonyms": "葡萄素A",
+    "audio_file": "term_audio/t010/t010.mp3"
+  },
+  {
+    "id": 11,
+    "term_id": "t011",
+    "term": "Quercetin",
+    "normalized_name": "Quercetin",
+    "category": "CHEMICAL",
+    "synonyms": "槲皮素"
+  },
+  {
+    "id": 12,
+    "term_id": "t012",
+    "term": "Quercetagetin",
+    "normalized_name": "Quercetagetin",
+    "category": "CHEMICAL",
+    "synonyms": "槲皮万寿菊素"
+  },
+  {
+    "id": 13,
+    "term_id": "t013",
+    "term": "Kaempferol",
+    "normalized_name": "Kaempferol",
+    "category": "CHEMICAL",
+    "synonyms": "山柰酚"
+  },
+  {
+    "id": 14,
+    "term_id": "t014",
+    "term": "Myricetin",
+    "normalized_name": "Myricetin",
+    "category": "CHEMICAL",
+    "synonyms": "杨梅素"
+  },
+  {
+    "id": 15,
+    "term_id": "t015",
+    "term": "Fisetin",
+    "normalized_name": "Fisetin",
+    "category": "CHEMICAL",
+    "synonyms": "非瑟酮"
+  },
+  {
+    "id": 16,
+    "term_id": "t016",
+    "term": "Sciadopitysin",
+    "normalized_name": "Sciadopitysin",
+    "category": "CHEMICAL",
+    "synonyms": "金松双黄酮"
+  },
+  {
+    "id": 17,
+    "term_id": "t017",
+    "term": "Syringetin",
+    "normalized_name": "Syringetin",
+    "category": "CHEMICAL",
+    "synonyms": "丁香亭"
+  },
+  {
+    "id": 18,
+    "term_id": "t018",
+    "term": "Catechin",
+    "normalized_name": "Catechin",
+    "category": "CHEMICAL",
+    "synonyms": "儿茶素"
+  },
+  {
+    "id": 19,
+    "term_id": "t019",
+    "term": "Epicatechin",
+    "normalized_name": "Epicatechin",
+    "category": "CHEMICAL",
+    "synonyms": "表儿茶素"
+  },
+  {
+    "id": 20,
+    "term_id": "t020",
+    "term": "Epicatechin 3-gallate",
+    "normalized_name": "Epicatechin 3-gallate",
+    "category": "CHEMICAL",
+    "synonyms": "表儿茶素-3-没食子酸酯",
+    "audio_file": "term_audio/t020/t020.mp3"
+  },
+  {
+    "id": 21,
+    "term_id": "t021",
+    "term": "Epigallocatechin",
+    "normalized_name": "Epigallocatechin",
+    "category": "CHEMICAL",
+    "synonyms": "表没食子儿茶素"
+  },
+  {
+    "id": 22,
+    "term_id": "t022",
+    "term": "Epigallocatechin-3-gallate",
+    "normalized_name": "Epigallocatechin-3-gallate",
+    "category": "CHEMICAL",
+    "synonyms": "表没食子儿茶素-3-没食子酸酯",
+    "audio_file": "term_audio/t022/t022.mp3"
+  },
+  {
+    "id": 23,
+    "term_id": "t023",
+    "term": "Procyanidin",
+    "normalized_name": "Procyanidin",
+    "category": "CHEMICAL",
+    "synonyms": "原花青素"
+  },
+  {
+    "id": 24,
+    "term_id": "t024",
+    "term": "Procyanidin C1",
+    "normalized_name": "Procyanidin C1",
+    "category": "CHEMICAL",
+    "synonyms": "原花青素C1",
+    "audio_file": "term_audio/t024/t024.mp3"
+  },
+  {
+    "id": 25,
+    "term_id": "t025",
+    "term": "Proanthocyanidins",
+    "normalized_name": "Proanthocyanidins",
+    "category": "CHEMICAL",
+    "synonyms": "原花青素"
+  },
+  {
+    "id": 26,
+    "term_id": "t026",
+    "term": "Anthocyanins",
+    "normalized_name": "Anthocyanins",
+    "category": "CHEMICAL",
+    "synonyms": "花青素"
+  },
+  {
+    "id": 27,
+    "term_id": "t027",
+    "term": "Anthocyanidins",
+    "normalized_name": "Anthocyanidins",
+    "category": "CHEMICAL",
+    "synonyms": "花青素苷元"
+  },
+  {
+    "id": 28,
+    "term_id": "t028",
+    "term": "Cyanidin",
+    "normalized_name": "Cyanidin",
+    "category": "CHEMICAL",
+    "synonyms": "矢车菊色素"
+  },
+  {
+    "id": 29,
+    "term_id": "t029",
+    "term": "Delphinidin",
+    "normalized_name": "Delphinidin",
+    "category": "CHEMICAL",
+    "synonyms": "飞燕草色素"
+  },
+  {
+    "id": 30,
+    "term_id": "t030",
+    "term": "Petunidin",
+    "normalized_name": "Petunidin",
+    "category": "CHEMICAL",
+    "synonyms": "矮牵牛色素"
+  },
+  {
+    "id": 31,
+    "term_id": "t031",
+    "term": "Peonidin",
+    "normalized_name": "Peonidin",
+    "category": "CHEMICAL",
+    "synonyms": "芍药色素"
+  },
+  {
+    "id": 32,
+    "term_id": "t032",
+    "term": "Peonidin 3-O-glucoside",
+    "normalized_name": "Peonidin 3-O-glucoside",
+    "category": "CHEMICAL",
+    "synonyms": "芍药色素-3-O-葡萄糖苷",
+    "audio_file": "term_audio/t032/t032.mp3"
+  },
+  {
+    "id": 33,
+    "term_id": "t033",
+    "term": "Malvidin",
+    "normalized_name": "Malvidin",
+    "category": "CHEMICAL",
+    "synonyms": "锦葵色素"
+  },
+  {
+    "id": 34,
+    "term_id": "t034",
+    "term": "Pelargonidin",
+    "normalized_name": "Pelargonidin",
+    "category": "CHEMICAL",
+    "synonyms": "天竺葵色素"
+  },
+  {
+    "id": 35,
+    "term_id": "t035",
+    "term": "Tannins",
+    "normalized_name": "Tannins",
+    "category": "CHEMICAL",
+    "synonyms": "单宁"
+  },
+  {
+    "id": 36,
+    "term_id": "t036",
+    "term": "Tannic acid",
+    "normalized_name": "Tannic acid",
+    "category": "CHEMICAL",
+    "synonyms": "鞣酸",
+    "audio_file": "term_audio/t036/t036.mp3"
+  },
+  {
+    "id": 37,
+    "term_id": "t037",
+    "term": "Gallotannin",
+    "normalized_name": "Gallotannin",
+    "category": "CHEMICAL",
+    "synonyms": "没食子单宁"
+  },
+  {
+    "id": 38,
+    "term_id": "t038",
+    "term": "Phenolic acids",
+    "normalized_name": "Phenolic acids",
+    "category": "CHEMICAL",
+    "synonyms": "酚酸",
+    "audio_file": "term_audio/t038/t038.mp3"
+  },
+  {
+    "id": 39,
+    "term_id": "t039",
+    "term": "Hydroxybenzoic acid",
+    "normalized_name": "Hydroxybenzoic acid",
+    "category": "CHEMICAL",
+    "synonyms": "羟基苯甲酸",
+    "audio_file": "term_audio/t039/t039.mp3"
+  },
+  {
+    "id": 40,
+    "term_id": "t040",
+    "term": "Hydroxycinnamic acid",
+    "normalized_name": "Hydroxycinnamic acid",
+    "category": "CHEMICAL",
+    "synonyms": "羟基肉桂酸",
+    "audio_file": "term_audio/t040/t040.mp3"
+  },
+  {
+    "id": 41,
+    "term_id": "t041",
+    "term": "Gallic acid",
+    "normalized_name": "Gallic acid",
+    "category": "CHEMICAL",
+    "synonyms": "没食子酸",
+    "audio_file": "term_audio/t041/t041.mp3"
+  },
+  {
+    "id": 42,
+    "term_id": "t042",
+    "term": "Caffeic acid",
+    "normalized_name": "Caffeic acid",
+    "category": "CHEMICAL",
+    "synonyms": "咖啡酸",
+    "audio_file": "term_audio/t042/t042.mp3"
+  },
+  {
+    "id": 43,
+    "term_id": "t043",
+    "term": "Coumaric acid",
+    "normalized_name": "Coumaric acid",
+    "category": "CHEMICAL",
+    "synonyms": "香豆酸",
+    "audio_file": "term_audio/t043/t043.mp3"
+  },
+  {
+    "id": 44,
+    "term_id": "t044",
+    "term": "Ferulic acid",
+    "normalized_name": "Ferulic acid",
+    "category": "CHEMICAL",
+    "synonyms": "阿魏酸",
+    "audio_file": "term_audio/t044/t044.mp3"
+  },
+  {
+    "id": 45,
+    "term_id": "t045",
+    "term": "Sinapic acid",
+    "normalized_name": "Sinapic acid",
+    "category": "CHEMICAL",
+    "synonyms": "芥子酸",
+    "audio_file": "term_audio/t045/t045.mp3"
+  },
+  {
+    "id": 46,
+    "term_id": "t046",
+    "term": "Chlorogenic acid",
+    "normalized_name": "Chlorogenic acid",
+    "category": "CHEMICAL",
+    "synonyms": "绿原酸",
+    "audio_file": "term_audio/t046/t046.mp3"
+  },
+  {
+    "id": 47,
+    "term_id": "t047",
+    "term": "Vanillic acid",
+    "normalized_name": "Vanillic acid",
+    "category": "CHEMICAL",
+    "synonyms": "香草酸",
+    "audio_file": "term_audio/t047/t047.mp3"
+  },
+  {
+    "id": 48,
+    "term_id": "t048",
+    "term": "Syringic acid",
+    "normalized_name": "Syringic acid",
+    "category": "CHEMICAL",
+    "synonyms": "丁香酸",
+    "audio_file": "term_audio/t048/t048.mp3"
+  },
+  {
+    "id": 49,
+    "term_id": "t049",
+    "term": "Gentisic acid",
+    "normalized_name": "Gentisic acid",
+    "category": "CHEMICAL",
+    "synonyms": "龙胆酸",
+    "audio_file": "term_audio/t049/t049.mp3"
+  },
+  {
+    "id": 50,
+    "term_id": "t050",
+    "term": "Ellagic acid",
+    "normalized_name": "Ellagic acid",
+    "category": "CHEMICAL",
+    "synonyms": "鞣花酸",
+    "audio_file": "term_audio/t050/t050.mp3"
+  },
+  {
+    "id": 51,
+    "term_id": "t051",
+    "term": "Protocatechuic acid",
+    "normalized_name": "Protocatechuic acid",
+    "category": "CHEMICAL",
+    "synonyms": "原儿茶酸",
+    "audio_file": "term_audio/t051/t051.mp3"
+  },
+  {
+    "id": 52,
+    "term_id": "t052",
+    "term": "Cinnamic acid",
+    "normalized_name": "Cinnamic acid",
+    "category": "CHEMICAL",
+    "synonyms": "肉桂酸",
+    "audio_file": "term_audio/t052/t052.mp3"
+  },
+  {
+    "id": 53,
+    "term_id": "t053",
+    "term": "Flavonoids",
+    "normalized_name": "Flavonoids",
+    "category": "CHEMICAL",
+    "synonyms": "类黄酮"
+  },
+  {
+    "id": 54,
+    "term_id": "t054",
+    "term": "Flavonols",
+    "normalized_name": "Flavonols",
+    "category": "CHEMICAL",
+    "synonyms": "黄酮醇"
+  },
+  {
+    "id": 55,
+    "term_id": "t055",
+    "term": "Flavan-3-ols",
+    "normalized_name": "Flavan-3-ols",
+    "category": "CHEMICAL",
+    "synonyms": "黄烷-3-醇",
+    "audio_file": "term_audio/t055/t055.mp3"
+  },
+  {
+    "id": 56,
+    "term_id": "t056",
+    "term": "Stilbenes",
+    "normalized_name": "Stilbenes",
+    "category": "CHEMICAL",
+    "synonyms": "芪类"
+  },
+  {
+    "id": 57,
+    "term_id": "t057",
+    "term": "Polyphenols",
+    "normalized_name": "Polyphenols",
+    "category": "CHEMICAL",
+    "synonyms": "多酚"
+  },
+  {
+    "id": 58,
+    "term_id": "t058",
+    "term": "Phytosterols",
+    "normalized_name": "Phytosterols",
+    "category": "CHEMICAL",
+    "synonyms": "植物甾醇"
+  },
+  {
+    "id": 59,
+    "term_id": "t059",
+    "term": "Tocopherols",
+    "normalized_name": "Tocopherols",
+    "category": "CHEMICAL",
+    "synonyms": "生育酚"
+  },
+  {
+    "id": 60,
+    "term_id": "t060",
+    "term": "Tocotrienols",
+    "normalized_name": "Tocotrienols",
+    "category": "CHEMICAL",
+    "synonyms": "生育三烯酚"
+  },
+  {
+    "id": 61,
+    "term_id": "t061",
+    "term": "Ascorbic acid",
+    "normalized_name": "Ascorbic acid",
+    "category": "CHEMICAL",
+    "synonyms": "抗坏血酸",
+    "audio_file": "term_audio/t061/t061.mp3"
+  },
+  {
+    "id": 62,
+    "term_id": "t062",
+    "term": "Linoleic acid",
+    "normalized_name": "Linoleic acid",
+    "category": "CHEMICAL",
+    "synonyms": "亚油酸",
+    "audio_file": "term_audio/t062/t062.mp3"
+  },
+  {
+    "id": 63,
+    "term_id": "t063",
+    "term": "Palmitic acid",
+    "normalized_name": "Palmitic acid",
+    "category": "CHEMICAL",
+    "synonyms": "棕榈酸",
+    "audio_file": "term_audio/t063/t063.mp3"
+  },
+  {
+    "id": 64,
+    "term_id": "t064",
+    "term": "Stearic acid",
+    "normalized_name": "Stearic acid",
+    "category": "CHEMICAL",
+    "synonyms": "硬脂酸",
+    "audio_file": "term_audio/t064/t064.mp3"
+  },
+  {
+    "id": 65,
+    "term_id": "t065",
+    "term": "Oleic acid",
+    "normalized_name": "Oleic acid",
+    "category": "CHEMICAL",
+    "synonyms": "油酸",
+    "audio_file": "term_audio/t065/t065.mp3"
+  },
+  {
+    "id": 66,
+    "term_id": "t066",
+    "term": "Hydroxyproline",
+    "normalized_name": "Hydroxyproline",
+    "category": "CHEMICAL",
+    "synonyms": "羟脯氨酸"
+  },
+  {
+    "id": 67,
+    "term_id": "t067",
+    "term": "Hyaluronic acid",
+    "normalized_name": "Hyaluronic acid",
+    "category": "CHEMICAL",
+    "synonyms": "透明质酸",
+    "audio_file": "term_audio/t067/t067.mp3"
+  },
+  {
+    "id": 68,
+    "term_id": "t068",
+    "term": "Procollagen",
+    "normalized_name": "Procollagen",
+    "category": "CHEMICAL",
+    "synonyms": "前胶原蛋白"
+  },
+  {
+    "id": 69,
+    "term_id": "t069",
+    "term": "Betulinic acid",
+    "normalized_name": "Betulinic acid",
+    "category": "CHEMICAL",
+    "synonyms": "桦木酸",
+    "audio_file": "term_audio/t069/t069.mp3"
+  },
+  {
+    "id": 70,
+    "term_id": "t070",
+    "term": "ROS",
+    "normalized_name": "Reactive oxygen species",
+    "category": "CHEMICAL",
+    "synonyms": "活性氧",
+    "audio_file": "term_audio/t070/t070.mp3"
+  },
+  {
+    "id": 71,
+    "term_id": "t071",
+    "term": "Superoxide anion",
+    "normalized_name": "Superoxide anion",
+    "category": "CHEMICAL",
+    "synonyms": "超氧阴离子",
+    "audio_file": "term_audio/t071/t071.mp3"
+  },
+  {
+    "id": 72,
+    "term_id": "t072",
+    "term": "Hydroxyl radical",
+    "normalized_name": "Hydroxyl radical",
+    "category": "CHEMICAL",
+    "synonyms": "羟基自由基",
+    "audio_file": "term_audio/t072/t072.mp3"
+  },
+  {
+    "id": 73,
+    "term_id": "t073",
+    "term": "Singlet oxygen",
+    "normalized_name": "Singlet oxygen",
+    "category": "CHEMICAL",
+    "synonyms": "单线态氧",
+    "audio_file": "term_audio/t073/t073.mp3"
+  },
+  {
+    "id": 74,
+    "term_id": "t074",
+    "term": "Hydrogen peroxide",
+    "normalized_name": "Hydrogen peroxide",
+    "category": "CHEMICAL",
+    "synonyms": "过氧化氢",
+    "audio_file": "term_audio/t074/t074.mp3"
+  },
+  {
+    "id": 75,
+    "term_id": "t075",
+    "term": "Nitric oxide",
+    "normalized_name": "Nitric oxide",
+    "category": "CHEMICAL",
+    "synonyms": "一氧化氮",
+    "audio_file": "term_audio/t075/t075.mp3"
+  },
+  {
+    "id": 76,
+    "term_id": "t076",
+    "term": "Peroxynitrite",
+    "normalized_name": "Peroxynitrite",
+    "category": "CHEMICAL",
+    "synonyms": "过氧亚硝酸盐"
+  },
+  {
+    "id": 77,
+    "term_id": "t077",
+    "term": "Malondialdehyde",
+    "normalized_name": "Malondialdehyde",
+    "category": "CHEMICAL",
+    "synonyms": "丙二醛"
+  },
+  {
+    "id": 78,
+    "term_id": "t078",
+    "term": "8-OHdG",
+    "normalized_name": "8-Hydroxydeoxyguanosine",
+    "category": "CHEMICAL",
+    "synonyms": "8-羟基脱氧鸟苷",
+    "audio_file": "term_audio/t078/t078.mp3"
+  },
+  {
+    "id": 79,
+    "term_id": "t079",
+    "term": "Prostaglandins",
+    "normalized_name": "Prostaglandins",
+    "category": "CHEMICAL",
+    "synonyms": "前列腺素"
+  },
+  {
+    "id": 80,
+    "term_id": "t080",
+    "term": "Leukotrienes",
+    "normalized_name": "Leukotrienes",
+    "category": "CHEMICAL",
+    "synonyms": "白三烯"
+  },
+  {
+    "id": 81,
+    "term_id": "t081",
+    "term": "Histamine",
+    "normalized_name": "Histamine",
+    "category": "CHEMICAL",
+    "synonyms": "组胺"
+  },
+  {
+    "id": 82,
+    "term_id": "t082",
+    "term": "Proteases",
+    "normalized_name": "Proteases",
+    "category": "CHEMICAL",
+    "synonyms": "蛋白酶"
+  },
+  {
+    "id": 83,
+    "term_id": "t083",
+    "term": "Prostanoids",
+    "normalized_name": "Prostanoids",
+    "category": "CHEMICAL",
+    "synonyms": "前列腺素类"
+  },
+  {
+    "id": 84,
+    "term_id": "t084",
+    "term": "Cyclobutane pyrimidine dimers",
+    "normalized_name": "Cyclobutane pyrimidine dimers",
+    "category": "CHEMICAL",
+    "synonyms": "环丁烷嘧啶二聚体",
+    "audio_file": "term_audio/t084/t084.mp3"
+  },
+  {
+    "id": 85,
+    "term_id": "t085",
+    "term": "5-Fluorouracil",
+    "normalized_name": "5-Fluorouracil",
+    "category": "CHEMICAL",
+    "synonyms": "5-氟尿嘧啶",
+    "audio_file": "term_audio/t085/t085.mp3"
+  },
+  {
+    "id": 86,
+    "term_id": "t086",
+    "term": "Imatinib",
+    "normalized_name": "Imatinib",
+    "category": "CHEMICAL",
+    "synonyms": "伊马替尼"
+  },
+  {
+    "id": 87,
+    "term_id": "t087",
+    "term": "DMBA",
+    "normalized_name": "7",
+    "category": "CHEMICAL",
+    "synonyms": "12-Dimethylbenz[a]anthracene",
+    "audio_file": "term_audio/t087/t087.mp3"
+  },
+  {
+    "id": 88,
+    "term_id": "t088",
+    "term": "TPA",
+    "normalized_name": "12-O-Tetradecanoylphorbol-13-acetate",
+    "category": "CHEMICAL",
+    "synonyms": "12-O-十四烷酰佛波醇-13-乙酸酯",
+    "audio_file": "term_audio/t088/t088.mp3"
+  },
+  {
+    "id": 89,
+    "term_id": "t089",
+    "term": "Benzoyl peroxide",
+    "normalized_name": "Benzoyl peroxide",
+    "category": "CHEMICAL",
+    "synonyms": "过氧化苯甲酰",
+    "audio_file": "term_audio/t089/t089.mp3"
+  },
+  {
+    "id": 90,
+    "term_id": "t090",
+    "term": "Baicalin",
+    "normalized_name": "Baicalin",
+    "category": "CHEMICAL",
+    "synonyms": "黄芩苷"
+  },
+  {
+    "id": 91,
+    "term_id": "t091",
+    "term": "Genistein",
+    "normalized_name": "Genistein",
+    "category": "CHEMICAL",
+    "synonyms": "金雀异黄酮"
+  },
+  {
+    "id": 92,
+    "term_id": "t092",
+    "term": "Apigenin",
+    "normalized_name": "Apigenin",
+    "category": "CHEMICAL",
+    "synonyms": "芹菜素"
+  },
+  {
+    "id": 93,
+    "term_id": "t093",
+    "term": "Curcumin",
+    "normalized_name": "Curcumin",
+    "category": "CHEMICAL",
+    "synonyms": "姜黄素"
+  },
+  {
+    "id": 94,
+    "term_id": "t094",
+    "term": "Coenzyme Q10",
+    "normalized_name": "Coenzyme Q10",
+    "category": "CHEMICAL",
+    "synonyms": "辅酶Q10",
+    "audio_file": "term_audio/t094/t094.mp3"
+  },
+  {
+    "id": 95,
+    "term_id": "t095",
+    "term": "Retinyl palmitate",
+    "normalized_name": "Retinyl palmitate",
+    "category": "CHEMICAL",
+    "synonyms": "视黄醇棕榈酸酯",
+    "audio_file": "term_audio/t095/t095.mp3"
+  },
+  {
+    "id": 96,
+    "term_id": "t096",
+    "term": "Collagen",
+    "normalized_name": "Collagen",
+    "category": "CHEMICAL",
+    "synonyms": "胶原蛋白"
+  },
+  {
+    "id": 97,
+    "term_id": "t097",
+    "term": "Elastin",
+    "normalized_name": "Elastin",
+    "category": "CHEMICAL",
+    "synonyms": "弹性蛋白"
+  },
+  {
+    "id": 98,
+    "term_id": "t098",
+    "term": "Fibronectin",
+    "normalized_name": "Fibronectin",
+    "category": "CHEMICAL",
+    "synonyms": "纤连蛋白"
+  },
+  {
+    "id": 99,
+    "term_id": "t099",
+    "term": "Proteoglycans",
+    "normalized_name": "Proteoglycans",
+    "category": "CHEMICAL",
+    "synonyms": "蛋白聚糖"
+  },
+  {
+    "id": 100,
+    "term_id": "t100",
+    "term": "Melanin",
+    "normalized_name": "Melanin",
+    "category": "CHEMICAL",
+    "synonyms": "黑色素"
+  },
+  {
+    "id": 101,
+    "term_id": "t101",
+    "term": "Eotaxin",
+    "normalized_name": "Eotaxin",
+    "category": "CHEMICAL",
+    "synonyms": "嗜酸性粒细胞趋化因子"
+  },
+  {
+    "id": 102,
+    "term_id": "t102",
+    "term": "IgE",
+    "normalized_name": "Immunoglobulin E",
+    "category": "CHEMICAL",
+    "synonyms": "免疫球蛋白E",
+    "audio_file": "term_audio/t102/t102.mp3"
+  },
+  {
+    "id": 103,
+    "term_id": "t103",
+    "term": "BRAF",
+    "normalized_name": "BRAF",
+    "category": "PROTEIN_GENE",
+    "synonyms": "BRAF基因",
+    "audio_file": "term_audio/t103/t103.mp3"
+  },
+  {
+    "id": 104,
+    "term_id": "t104",
+    "term": "NRAS",
+    "normalized_name": "NRAS",
+    "category": "PROTEIN_GENE",
+    "synonyms": "NRAS基因",
+    "audio_file": "term_audio/t104/t104.mp3"
+  },
+  {
+    "id": 105,
+    "term_id": "t105",
+    "term": "CDKN2A",
+    "normalized_name": "CDKN2A",
+    "category": "PROTEIN_GENE",
+    "synonyms": "CDKN2A基因",
+    "audio_file": "term_audio/t105/t105.mp3"
+  },
+  {
+    "id": 106,
+    "term_id": "t106",
+    "term": "NF1",
+    "normalized_name": "NF1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "NF1基因",
+    "audio_file": "term_audio/t106/t106.mp3"
+  },
+  {
+    "id": 107,
+    "term_id": "t107",
+    "term": "MITF",
+    "normalized_name": "Microphthalmia-associated transcription factor",
+    "category": "PROTEIN_GENE",
+    "synonyms": "小眼畸形相关转录因子",
+    "audio_file": "term_audio/t107/t107.mp3"
+  },
+  {
+    "id": 108,
+    "term_id": "t108",
+    "term": "RAC1",
+    "normalized_name": "RAC1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "RAC1基因",
+    "audio_file": "term_audio/t108/t108.mp3"
+  },
+  {
+    "id": 109,
+    "term_id": "t109",
+    "term": "PPP6C",
+    "normalized_name": "PPP6C",
+    "category": "PROTEIN_GENE",
+    "synonyms": "PPP6C基因",
+    "audio_file": "term_audio/t109/t109.mp3"
+  },
+  {
+    "id": 110,
+    "term_id": "t110",
+    "term": "STK19",
+    "normalized_name": "STK19",
+    "category": "PROTEIN_GENE",
+    "synonyms": "STK19基因",
+    "audio_file": "term_audio/t110/t110.mp3"
+  },
+  {
+    "id": 111,
+    "term_id": "t111",
+    "term": "PTEN",
+    "normalized_name": "PTEN",
+    "category": "PROTEIN_GENE",
+    "synonyms": "PTEN基因",
+    "audio_file": "term_audio/t111/t111.mp3"
+  },
+  {
+    "id": 112,
+    "term_id": "t112",
+    "term": "c-Kit",
+    "normalized_name": "c-Kit",
+    "category": "PROTEIN_GENE",
+    "synonyms": "c-Kit蛋白",
+    "audio_file": "term_audio/t112/t112.mp3"
+  },
+  {
+    "id": 113,
+    "term_id": "t113",
+    "term": "β-Catenin",
+    "normalized_name": "Beta-catenin",
+    "category": "PROTEIN_GENE",
+    "synonyms": "β-连环蛋白",
+    "audio_file": "term_audio/t113/t113.mp3"
+  },
+  {
+    "id": 114,
+    "term_id": "t114",
+    "term": "TYR",
+    "normalized_name": "Tyrosinase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "酪氨酸酶",
+    "audio_file": "term_audio/t114/t114.mp3"
+  },
+  {
+    "id": 115,
+    "term_id": "t115",
+    "term": "TYRP1",
+    "normalized_name": "Tyrosinase-related protein 1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "酪氨酸酶相关蛋白1",
+    "audio_file": "term_audio/t115/t115.mp3"
+  },
+  {
+    "id": 116,
+    "term_id": "t116",
+    "term": "TYRP2",
+    "normalized_name": "Tyrosinase-related protein 2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "酪氨酸酶相关蛋白2",
+    "audio_file": "term_audio/t116/t116.mp3"
+  },
+  {
+    "id": 117,
+    "term_id": "t117",
+    "term": "DCT",
+    "normalized_name": "Dopachrome tautomerase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "多巴色素异构酶",
+    "audio_file": "term_audio/t117/t117.mp3"
+  },
+  {
+    "id": 118,
+    "term_id": "t118",
+    "term": "PAH",
+    "normalized_name": "Phenylalanine hydroxylase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "苯丙氨酸羟化酶",
+    "audio_file": "term_audio/t118/t118.mp3"
+  },
+  {
+    "id": 119,
+    "term_id": "t119",
+    "term": "CREB",
+    "normalized_name": "cAMP-responsive element-binding protein",
+    "category": "PROTEIN_GENE",
+    "synonyms": "cAMP反应元件结合蛋白",
+    "audio_file": "term_audio/t119/t119.mp3"
+  },
+  {
+    "id": 120,
+    "term_id": "t120",
+    "term": "MAPK",
+    "normalized_name": "Mitogen-activated protein kinase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "丝裂原活化蛋白激酶",
+    "audio_file": "term_audio/t120/t120.mp3"
+  },
+  {
+    "id": 121,
+    "term_id": "t121",
+    "term": "ERK",
+    "normalized_name": "Extracellular signal-regulated kinase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞外信号调节激酶",
+    "audio_file": "term_audio/t121/t121.mp3"
+  },
+  {
+    "id": 122,
+    "term_id": "t122",
+    "term": "ERK1",
+    "normalized_name": "Extracellular signal-regulated kinase 1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞外信号调节激酶1",
+    "audio_file": "term_audio/t122/t122.mp3"
+  },
+  {
+    "id": 123,
+    "term_id": "t123",
+    "term": "ERK2",
+    "normalized_name": "Extracellular signal-regulated kinase 2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞外信号调节激酶2",
+    "audio_file": "term_audio/t123/t123.mp3"
+  },
+  {
+    "id": 124,
+    "term_id": "t124",
+    "term": "MEK",
+    "normalized_name": "MEK",
+    "category": "PROTEIN_GENE",
+    "synonyms": "MEK激酶",
+    "audio_file": "term_audio/t124/t124.mp3"
+  },
+  {
+    "id": 125,
+    "term_id": "t125",
+    "term": "MEK1",
+    "normalized_name": "MEK1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "MEK1激酶",
+    "audio_file": "term_audio/t125/t125.mp3"
+  },
+  {
+    "id": 126,
+    "term_id": "t126",
+    "term": "JNK",
+    "normalized_name": "c-Jun N-terminal kinase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "c-Jun N-末端激酶",
+    "audio_file": "term_audio/t126/t126.mp3"
+  },
+  {
+    "id": 127,
+    "term_id": "t127",
+    "term": "p38",
+    "normalized_name": "p38 MAPK",
+    "category": "PROTEIN_GENE",
+    "synonyms": "p38丝裂原活化蛋白激酶",
+    "audio_file": "term_audio/t127/t127.mp3"
+  },
+  {
+    "id": 128,
+    "term_id": "t128",
+    "term": "PI3K",
+    "normalized_name": "Phosphoinositide 3-kinase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "磷脂酰肌醇3-激酶",
+    "audio_file": "term_audio/t128/t128.mp3"
+  },
+  {
+    "id": 129,
+    "term_id": "t129",
+    "term": "AKT",
+    "normalized_name": "Protein kinase B",
+    "category": "PROTEIN_GENE",
+    "synonyms": "蛋白激酶B",
+    "audio_file": "term_audio/t129/t129.mp3"
+  },
+  {
+    "id": 130,
+    "term_id": "t130",
+    "term": "mTOR",
+    "normalized_name": "Mammalian target of rapamycin",
+    "category": "PROTEIN_GENE",
+    "synonyms": "雷帕霉素靶蛋白",
+    "audio_file": "term_audio/t130/t130.mp3"
+  },
+  {
+    "id": 131,
+    "term_id": "t131",
+    "term": "FOXO",
+    "normalized_name": "Forkhead box O",
+    "category": "PROTEIN_GENE",
+    "synonyms": "叉头框O转录因子",
+    "audio_file": "term_audio/t131/t131.mp3"
+  },
+  {
+    "id": 132,
+    "term_id": "t132",
+    "term": "JAK",
+    "normalized_name": "Janus kinase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "Janus激酶",
+    "audio_file": "term_audio/t132/t132.mp3"
+  },
+  {
+    "id": 133,
+    "term_id": "t133",
+    "term": "JAK1",
+    "normalized_name": "Janus kinase 1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "Janus激酶1",
+    "audio_file": "term_audio/t133/t133.mp3"
+  },
+  {
+    "id": 134,
+    "term_id": "t134",
+    "term": "STAT",
+    "normalized_name": "Signal transducer and activator of transcription",
+    "category": "PROTEIN_GENE",
+    "synonyms": "信号转导与转录激活因子",
+    "audio_file": "term_audio/t134/t134.mp3"
+  },
+  {
+    "id": 135,
+    "term_id": "t135",
+    "term": "STAT3",
+    "normalized_name": "Signal transducer and activator of transcription 3",
+    "category": "PROTEIN_GENE",
+    "synonyms": "信号转导与转录激活因子3",
+    "audio_file": "term_audio/t135/t135.mp3"
+  },
+  {
+    "id": 136,
+    "term_id": "t136",
+    "term": "NF-κB",
+    "normalized_name": "Nuclear factor-kappa B",
+    "category": "PROTEIN_GENE",
+    "synonyms": "核因子κB",
+    "audio_file": "term_audio/t136/t136.mp3"
+  },
+  {
+    "id": 137,
+    "term_id": "t137",
+    "term": "IκB-α",
+    "normalized_name": "Inhibitor of nuclear factor kappa B alpha",
+    "category": "PROTEIN_GENE",
+    "synonyms": "核因子κB抑制蛋白α",
+    "audio_file": "term_audio/t137/t137.mp3"
+  },
+  {
+    "id": 138,
+    "term_id": "t138",
+    "term": "AP-1",
+    "normalized_name": "Activator protein 1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "激活蛋白1",
+    "audio_file": "term_audio/t138/t138.mp3"
+  },
+  {
+    "id": 139,
+    "term_id": "t139",
+    "term": "Nrf2",
+    "normalized_name": "Nuclear factor erythroid 2-related factor 2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "核因子E2相关因子2",
+    "audio_file": "term_audio/t139/t139.mp3"
+  },
+  {
+    "id": 140,
+    "term_id": "t140",
+    "term": "ARE",
+    "normalized_name": "Antioxidant responsive element",
+    "category": "PROTEIN_GENE",
+    "synonyms": "抗氧化反应元件",
+    "audio_file": "term_audio/t140/t140.mp3"
+  },
+  {
+    "id": 141,
+    "term_id": "t141",
+    "term": "COX-2",
+    "normalized_name": "Cyclooxygenase-2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "环氧合酶-2",
+    "audio_file": "term_audio/t141/t141.mp3"
+  },
+  {
+    "id": 142,
+    "term_id": "t142",
+    "term": "iNOS",
+    "normalized_name": "Inducible nitric oxide synthase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "诱导型一氧化氮合酶",
+    "audio_file": "term_audio/t142/t142.mp3"
+  },
+  {
+    "id": 143,
+    "term_id": "t143",
+    "term": "eNOS",
+    "normalized_name": "Endothelial nitric oxide synthase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "内皮型一氧化氮合酶",
+    "audio_file": "term_audio/t143/t143.mp3"
+  },
+  {
+    "id": 144,
+    "term_id": "t144",
+    "term": "SOD",
+    "normalized_name": "Superoxide dismutase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "超氧化物歧化酶",
+    "audio_file": "term_audio/t144/t144.mp3"
+  },
+  {
+    "id": 145,
+    "term_id": "t145",
+    "term": "CAT",
+    "normalized_name": "Catalase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "过氧化氢酶",
+    "audio_file": "term_audio/t145/t145.mp3"
+  },
+  {
+    "id": 146,
+    "term_id": "t146",
+    "term": "GPx",
+    "normalized_name": "Glutathione peroxidase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "谷胱甘肽过氧化物酶",
+    "audio_file": "term_audio/t146/t146.mp3"
+  },
+  {
+    "id": 147,
+    "term_id": "t147",
+    "term": "GST",
+    "normalized_name": "Glutathione S-transferase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "谷胱甘肽S-转移酶",
+    "audio_file": "term_audio/t147/t147.mp3"
+  },
+  {
+    "id": 148,
+    "term_id": "t148",
+    "term": "MMP-1",
+    "normalized_name": "Matrix metalloproteinase-1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "基质金属蛋白酶1",
+    "audio_file": "term_audio/t148/t148.mp3"
+  },
+  {
+    "id": 149,
+    "term_id": "t149",
+    "term": "MMP-2",
+    "normalized_name": "Matrix metalloproteinase-2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "基质金属蛋白酶2",
+    "audio_file": "term_audio/t149/t149.mp3"
+  },
+  {
+    "id": 150,
+    "term_id": "t150",
+    "term": "MMP-9",
+    "normalized_name": "Matrix metalloproteinase-9",
+    "category": "PROTEIN_GENE",
+    "synonyms": "基质金属蛋白酶9",
+    "audio_file": "term_audio/t150/t150.mp3"
+  },
+  {
+    "id": 151,
+    "term_id": "t151",
+    "term": "VEGF",
+    "normalized_name": "Vascular endothelial growth factor",
+    "category": "PROTEIN_GENE",
+    "synonyms": "血管内皮生长因子",
+    "audio_file": "term_audio/t151/t151.mp3"
+  },
+  {
+    "id": 152,
+    "term_id": "t152",
+    "term": "VEGFA",
+    "normalized_name": "Vascular endothelial growth factor A",
+    "category": "PROTEIN_GENE",
+    "synonyms": "血管内皮生长因子A",
+    "audio_file": "term_audio/t152/t152.mp3"
+  },
+  {
+    "id": 153,
+    "term_id": "t153",
+    "term": "TGF-β",
+    "normalized_name": "Transforming growth factor beta",
+    "category": "PROTEIN_GENE",
+    "synonyms": "转化生长因子β",
+    "audio_file": "term_audio/t153/t153.mp3"
+  },
+  {
+    "id": 154,
+    "term_id": "t154",
+    "term": "TNFα",
+    "normalized_name": "Tumor necrosis factor alpha",
+    "category": "PROTEIN_GENE",
+    "synonyms": "肿瘤坏死因子α",
+    "audio_file": "term_audio/t154/t154.mp3"
+  },
+  {
+    "id": 155,
+    "term_id": "t155",
+    "term": "TNFβ",
+    "normalized_name": "Tumor necrosis factor beta",
+    "category": "PROTEIN_GENE",
+    "synonyms": "肿瘤坏死因子β",
+    "audio_file": "term_audio/t155/t155.mp3"
+  },
+  {
+    "id": 156,
+    "term_id": "t156",
+    "term": "IL-1",
+    "normalized_name": "Interleukin-1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "白细胞介素-1",
+    "audio_file": "term_audio/t156/t156.mp3"
+  },
+  {
+    "id": 157,
+    "term_id": "t157",
+    "term": "IL-1β",
+    "normalized_name": "Interleukin-1 beta",
+    "category": "PROTEIN_GENE",
+    "synonyms": "白细胞介素-1β",
+    "audio_file": "term_audio/t157/t157.mp3"
+  },
+  {
+    "id": 158,
+    "term_id": "t158",
+    "term": "IL-3",
+    "normalized_name": "Interleukin-3",
+    "category": "PROTEIN_GENE",
+    "synonyms": "白细胞介素-3",
+    "audio_file": "term_audio/t158/t158.mp3"
+  },
+  {
+    "id": 159,
+    "term_id": "t159",
+    "term": "IL-4",
+    "normalized_name": "Interleukin-4",
+    "category": "PROTEIN_GENE",
+    "synonyms": "白细胞介素-4",
+    "audio_file": "term_audio/t159/t159.mp3"
+  },
+  {
+    "id": 160,
+    "term_id": "t160",
+    "term": "IL-5",
+    "normalized_name": "Interleukin-5",
+    "category": "PROTEIN_GENE",
+    "synonyms": "白细胞介素-5",
+    "audio_file": "term_audio/t160/t160.mp3"
+  },
+  {
+    "id": 161,
+    "term_id": "t161",
+    "term": "IL-6",
+    "normalized_name": "Interleukin-6",
+    "category": "PROTEIN_GENE",
+    "synonyms": "白细胞介素-6",
+    "audio_file": "term_audio/t161/t161.mp3"
+  },
+  {
+    "id": 162,
+    "term_id": "t162",
+    "term": "IL-8",
+    "normalized_name": "Interleukin-8",
+    "category": "PROTEIN_GENE",
+    "synonyms": "白细胞介素-8",
+    "audio_file": "term_audio/t162/t162.mp3"
+  },
+  {
+    "id": 163,
+    "term_id": "t163",
+    "term": "IL-12",
+    "normalized_name": "Interleukin-12",
+    "category": "PROTEIN_GENE",
+    "synonyms": "白细胞介素-12",
+    "audio_file": "term_audio/t163/t163.mp3"
+  },
+  {
+    "id": 164,
+    "term_id": "t164",
+    "term": "IL-13",
+    "normalized_name": "Interleukin-13",
+    "category": "PROTEIN_GENE",
+    "synonyms": "白细胞介素-13",
+    "audio_file": "term_audio/t164/t164.mp3"
+  },
+  {
+    "id": 165,
+    "term_id": "t165",
+    "term": "IL-17",
+    "normalized_name": "Interleukin-17",
+    "category": "PROTEIN_GENE",
+    "synonyms": "白细胞介素-17",
+    "audio_file": "term_audio/t165/t165.mp3"
+  },
+  {
+    "id": 166,
+    "term_id": "t166",
+    "term": "IL-18",
+    "normalized_name": "Interleukin-18",
+    "category": "PROTEIN_GENE",
+    "synonyms": "白细胞介素-18",
+    "audio_file": "term_audio/t166/t166.mp3"
+  },
+  {
+    "id": 167,
+    "term_id": "t167",
+    "term": "IL-23",
+    "normalized_name": "Interleukin-23",
+    "category": "PROTEIN_GENE",
+    "synonyms": "白细胞介素-23",
+    "audio_file": "term_audio/t167/t167.mp3"
+  },
+  {
+    "id": 168,
+    "term_id": "t168",
+    "term": "IFNγ",
+    "normalized_name": "Interferon gamma",
+    "category": "PROTEIN_GENE",
+    "synonyms": "干扰素γ",
+    "audio_file": "term_audio/t168/t168.mp3"
+  },
+  {
+    "id": 169,
+    "term_id": "t169",
+    "term": "CXCL1",
+    "normalized_name": "CXCL1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "CXCL1趋化因子",
+    "audio_file": "term_audio/t169/t169.mp3"
+  },
+  {
+    "id": 170,
+    "term_id": "t170",
+    "term": "CXCL2",
+    "normalized_name": "CXCL2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "CXCL2趋化因子",
+    "audio_file": "term_audio/t170/t170.mp3"
+  },
+  {
+    "id": 171,
+    "term_id": "t171",
+    "term": "CXCL3",
+    "normalized_name": "CXCL3",
+    "category": "PROTEIN_GENE",
+    "synonyms": "CXCL3趋化因子",
+    "audio_file": "term_audio/t171/t171.mp3"
+  },
+  {
+    "id": 172,
+    "term_id": "t172",
+    "term": "CXCL5",
+    "normalized_name": "CXCL5",
+    "category": "PROTEIN_GENE",
+    "synonyms": "CXCL5趋化因子",
+    "audio_file": "term_audio/t172/t172.mp3"
+  },
+  {
+    "id": 173,
+    "term_id": "t173",
+    "term": "CXCL8",
+    "normalized_name": "CXCL8",
+    "category": "PROTEIN_GENE",
+    "synonyms": "CXCL8趋化因子",
+    "audio_file": "term_audio/t173/t173.mp3"
+  },
+  {
+    "id": 174,
+    "term_id": "t174",
+    "term": "CXCL10",
+    "normalized_name": "CXCL10",
+    "category": "PROTEIN_GENE",
+    "synonyms": "CXCL10趋化因子",
+    "audio_file": "term_audio/t174/t174.mp3"
+  },
+  {
+    "id": 175,
+    "term_id": "t175",
+    "term": "CCL2",
+    "normalized_name": "CCL2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "CCL2趋化因子",
+    "audio_file": "term_audio/t175/t175.mp3"
+  },
+  {
+    "id": 176,
+    "term_id": "t176",
+    "term": "CCL3",
+    "normalized_name": "CCL3",
+    "category": "PROTEIN_GENE",
+    "synonyms": "CCL3趋化因子",
+    "audio_file": "term_audio/t176/t176.mp3"
+  },
+  {
+    "id": 177,
+    "term_id": "t177",
+    "term": "CCL4",
+    "normalized_name": "CCL4",
+    "category": "PROTEIN_GENE",
+    "synonyms": "CCL4趋化因子",
+    "audio_file": "term_audio/t177/t177.mp3"
+  },
+  {
+    "id": 178,
+    "term_id": "t178",
+    "term": "MIP-1α",
+    "normalized_name": "Macrophage inflammatory protein-1 alpha",
+    "category": "PROTEIN_GENE",
+    "synonyms": "巨噬细胞炎症蛋白1α",
+    "audio_file": "term_audio/t178/t178.mp3"
+  },
+  {
+    "id": 179,
+    "term_id": "t179",
+    "term": "MIP-2",
+    "normalized_name": "Macrophage inflammatory protein-2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "巨噬细胞炎症蛋白2",
+    "audio_file": "term_audio/t179/t179.mp3"
+  },
+  {
+    "id": 180,
+    "term_id": "t180",
+    "term": "TSLP",
+    "normalized_name": "Thymic stromal lymphopoietin",
+    "category": "PROTEIN_GENE",
+    "synonyms": "胸腺基质淋巴细胞生成素",
+    "audio_file": "term_audio/t180/t180.mp3"
+  },
+  {
+    "id": 181,
+    "term_id": "t181",
+    "term": "HMGB1",
+    "normalized_name": "High mobility group box 1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "高迁移率族蛋白B1",
+    "audio_file": "term_audio/t181/t181.mp3"
+  },
+  {
+    "id": 182,
+    "term_id": "t182",
+    "term": "RAGE",
+    "normalized_name": "Receptor for advanced glycation end products",
+    "category": "PROTEIN_GENE",
+    "synonyms": "晚期糖基化终末产物受体",
+    "audio_file": "term_audio/t182/t182.mp3"
+  },
+  {
+    "id": 183,
+    "term_id": "t183",
+    "term": "AIM2",
+    "normalized_name": "Absent in melanoma 2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "AIM2炎症小体",
+    "audio_file": "term_audio/t183/t183.mp3"
+  },
+  {
+    "id": 184,
+    "term_id": "t184",
+    "term": "PPARγ",
+    "normalized_name": "Peroxisome proliferator-activated receptor gamma",
+    "category": "PROTEIN_GENE",
+    "synonyms": "过氧化物酶体增殖物激活受体γ",
+    "audio_file": "term_audio/t184/t184.mp3"
+  },
+  {
+    "id": 185,
+    "term_id": "t185",
+    "term": "Syk",
+    "normalized_name": "Spleen tyrosine kinase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "脾酪氨酸激酶"
+  },
+  {
+    "id": 186,
+    "term_id": "t186",
+    "term": "SphK1",
+    "normalized_name": "Sphingosine kinase 1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "鞘氨醇激酶1",
+    "audio_file": "term_audio/t186/t186.mp3"
+  },
+  {
+    "id": 187,
+    "term_id": "t187",
+    "term": "EGFR",
+    "normalized_name": "Epidermal growth factor receptor",
+    "category": "PROTEIN_GENE",
+    "synonyms": "表皮生长因子受体",
+    "audio_file": "term_audio/t187/t187.mp3"
+  },
+  {
+    "id": 188,
+    "term_id": "t188",
+    "term": "EGF",
+    "normalized_name": "Epidermal growth factor",
+    "category": "PROTEIN_GENE",
+    "synonyms": "表皮生长因子",
+    "audio_file": "term_audio/t188/t188.mp3"
+  },
+  {
+    "id": 189,
+    "term_id": "t189",
+    "term": "SHCBP1",
+    "normalized_name": "SHC binding and spindle-associated 1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "SHC结合与纺锤体相关蛋白1",
+    "audio_file": "term_audio/t189/t189.mp3"
+  },
+  {
+    "id": 190,
+    "term_id": "t190",
+    "term": "PKM2",
+    "normalized_name": "Pyruvate kinase M2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "丙酮酸激酶M2",
+    "audio_file": "term_audio/t190/t190.mp3"
+  },
+  {
+    "id": 191,
+    "term_id": "t191",
+    "term": "Bcl-2",
+    "normalized_name": "B-cell lymphoma 2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "B细胞淋巴瘤2",
+    "audio_file": "term_audio/t191/t191.mp3"
+  },
+  {
+    "id": 192,
+    "term_id": "t192",
+    "term": "Bax",
+    "normalized_name": "Bcl-2-associated X protein",
+    "category": "PROTEIN_GENE",
+    "synonyms": "Bcl-2相关X蛋白"
+  },
+  {
+    "id": 193,
+    "term_id": "t193",
+    "term": "p21",
+    "normalized_name": "p21/WAF1/CIP1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "p21蛋白",
+    "audio_file": "term_audio/t193/t193.mp3"
+  },
+  {
+    "id": 194,
+    "term_id": "t194",
+    "term": "p27",
+    "normalized_name": "p27",
+    "category": "PROTEIN_GENE",
+    "synonyms": "p27蛋白",
+    "audio_file": "term_audio/t194/t194.mp3"
+  },
+  {
+    "id": 195,
+    "term_id": "t195",
+    "term": "p53",
+    "normalized_name": "p53",
+    "category": "PROTEIN_GENE",
+    "synonyms": "p53蛋白",
+    "audio_file": "term_audio/t195/t195.mp3"
+  },
+  {
+    "id": 196,
+    "term_id": "t196",
+    "term": "Cyclin A",
+    "normalized_name": "Cyclin A",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞周期蛋白A",
+    "audio_file": "term_audio/t196/t196.mp3"
+  },
+  {
+    "id": 197,
+    "term_id": "t197",
+    "term": "Cyclin B",
+    "normalized_name": "Cyclin B",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞周期蛋白B",
+    "audio_file": "term_audio/t197/t197.mp3"
+  },
+  {
+    "id": 198,
+    "term_id": "t198",
+    "term": "Cyclin B1",
+    "normalized_name": "Cyclin B1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞周期蛋白B1",
+    "audio_file": "term_audio/t198/t198.mp3"
+  },
+  {
+    "id": 199,
+    "term_id": "t199",
+    "term": "Cyclin D1",
+    "normalized_name": "Cyclin D1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞周期蛋白D1",
+    "audio_file": "term_audio/t199/t199.mp3"
+  },
+  {
+    "id": 200,
+    "term_id": "t200",
+    "term": "Cyclin D2",
+    "normalized_name": "Cyclin D2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞周期蛋白D2",
+    "audio_file": "term_audio/t200/t200.mp3"
+  },
+  {
+    "id": 201,
+    "term_id": "t201",
+    "term": "Cyclin E",
+    "normalized_name": "Cyclin E",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞周期蛋白E",
+    "audio_file": "term_audio/t201/t201.mp3"
+  },
+  {
+    "id": 202,
+    "term_id": "t202",
+    "term": "CDK1",
+    "normalized_name": "Cyclin-dependent kinase 1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞周期蛋白依赖性激酶1",
+    "audio_file": "term_audio/t202/t202.mp3"
+  },
+  {
+    "id": 203,
+    "term_id": "t203",
+    "term": "CDK2",
+    "normalized_name": "Cyclin-dependent kinase 2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞周期蛋白依赖性激酶2",
+    "audio_file": "term_audio/t203/t203.mp3"
+  },
+  {
+    "id": 204,
+    "term_id": "t204",
+    "term": "CDK4",
+    "normalized_name": "Cyclin-dependent kinase 4",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞周期蛋白依赖性激酶4",
+    "audio_file": "term_audio/t204/t204.mp3"
+  },
+  {
+    "id": 205,
+    "term_id": "t205",
+    "term": "CDK6",
+    "normalized_name": "Cyclin-dependent kinase 6",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞周期蛋白依赖性激酶6",
+    "audio_file": "term_audio/t205/t205.mp3"
+  },
+  {
+    "id": 206,
+    "term_id": "t206",
+    "term": "pRb",
+    "normalized_name": "Retinoblastoma protein",
+    "category": "PROTEIN_GENE",
+    "synonyms": "视网膜母细胞瘤蛋白",
+    "audio_file": "term_audio/t206/t206.mp3"
+  },
+  {
+    "id": 207,
+    "term_id": "t207",
+    "term": "PCNA",
+    "normalized_name": "Proliferating cell nuclear antigen",
+    "category": "PROTEIN_GENE",
+    "synonyms": "增殖细胞核抗原",
+    "audio_file": "term_audio/t207/t207.mp3"
+  },
+  {
+    "id": 208,
+    "term_id": "t208",
+    "term": "Ki67",
+    "normalized_name": "Ki67",
+    "category": "PROTEIN_GENE",
+    "synonyms": "Ki67蛋白",
+    "audio_file": "term_audio/t208/t208.mp3"
+  },
+  {
+    "id": 209,
+    "term_id": "t209",
+    "term": "CHOP",
+    "normalized_name": "C/EBP homologous protein",
+    "category": "PROTEIN_GENE",
+    "synonyms": "C/EBP同源蛋白",
+    "audio_file": "term_audio/t209/t209.mp3"
+  },
+  {
+    "id": 210,
+    "term_id": "t210",
+    "term": "eIF-2α",
+    "normalized_name": "Eukaryotic initiation factor 2 alpha",
+    "category": "PROTEIN_GENE",
+    "synonyms": "真核起始因子2α",
+    "audio_file": "term_audio/t210/t210.mp3"
+  },
+  {
+    "id": 211,
+    "term_id": "t211",
+    "term": "Caspase-1",
+    "normalized_name": "Caspase-1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "半胱天冬酶-1",
+    "audio_file": "term_audio/t211/t211.mp3"
+  },
+  {
+    "id": 212,
+    "term_id": "t212",
+    "term": "Cytochrome c",
+    "normalized_name": "Cytochrome c",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞色素c",
+    "audio_file": "term_audio/t212/t212.mp3"
+  },
+  {
+    "id": 213,
+    "term_id": "t213",
+    "term": "Ornithine decarboxylase",
+    "normalized_name": "Ornithine decarboxylase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "鸟氨酸脱羧酶",
+    "audio_file": "term_audio/t213/t213.mp3"
+  },
+  {
+    "id": 214,
+    "term_id": "t214",
+    "term": "Phospholipase A2",
+    "normalized_name": "Phospholipase A2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "磷脂酶A2",
+    "audio_file": "term_audio/t214/t214.mp3"
+  },
+  {
+    "id": 215,
+    "term_id": "t215",
+    "term": "β-Glucosidase",
+    "normalized_name": "Beta-glucosidase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "β-葡萄糖苷酶",
+    "audio_file": "term_audio/t215/t215.mp3"
+  },
+  {
+    "id": 216,
+    "term_id": "t216",
+    "term": "α-MSH",
+    "normalized_name": "Alpha-melanocyte-stimulating hormone",
+    "category": "PROTEIN_GENE",
+    "synonyms": "α-促黑素细胞激素",
+    "audio_file": "term_audio/t216/t216.mp3"
+  },
+  {
+    "id": 217,
+    "term_id": "t217",
+    "term": "NQO2",
+    "normalized_name": "Dihydronicotinamide riboside quinone reductase 2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "二氢烟酰胺核糖醌还原酶2",
+    "audio_file": "term_audio/t217/t217.mp3"
+  },
+  {
+    "id": 218,
+    "term_id": "t218",
+    "term": "PP2A",
+    "normalized_name": "Protein phosphatase 2A",
+    "category": "PROTEIN_GENE",
+    "synonyms": "蛋白磷酸酶2A",
+    "audio_file": "term_audio/t218/t218.mp3"
+  },
+  {
+    "id": 219,
+    "term_id": "t219",
+    "term": "HSP47",
+    "normalized_name": "Heat shock protein 47",
+    "category": "PROTEIN_GENE",
+    "synonyms": "热休克蛋白47",
+    "audio_file": "term_audio/t219/t219.mp3"
+  },
+  {
+    "id": 220,
+    "term_id": "t220",
+    "term": "CCN1",
+    "normalized_name": "Cellular communication network factor 1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "细胞通讯网络因子1",
+    "audio_file": "term_audio/t220/t220.mp3"
+  },
+  {
+    "id": 221,
+    "term_id": "t221",
+    "term": "Filaggrin",
+    "normalized_name": "Filaggrin",
+    "category": "PROTEIN_GENE",
+    "synonyms": "丝聚蛋白"
+  },
+  {
+    "id": 222,
+    "term_id": "t222",
+    "term": "PRAF2",
+    "normalized_name": "PRAF2",
+    "category": "PROTEIN_GENE",
+    "synonyms": "PRAF2蛋白",
+    "audio_file": "term_audio/t222/t222.mp3"
+  },
+  {
+    "id": 223,
+    "term_id": "t223",
+    "term": "miR-136-5p",
+    "normalized_name": "miR-136-5p",
+    "category": "PROTEIN_GENE",
+    "synonyms": "miR-136-5p",
+    "audio_file": "term_audio/t223/t223.mp3"
+  },
+  {
+    "id": 224,
+    "term_id": "t224",
+    "term": "miRNA-106b",
+    "normalized_name": "miRNA-106b",
+    "category": "PROTEIN_GENE",
+    "synonyms": "miRNA-106b",
+    "audio_file": "term_audio/t224/t224.mp3"
+  },
+  {
+    "id": 225,
+    "term_id": "t225",
+    "term": "hsa_circ_0070934",
+    "normalized_name": "hsa_circ_0070934",
+    "category": "PROTEIN_GENE",
+    "synonyms": "hsa_circ_0070934",
+    "audio_file": "term_audio/t225/t225.mp3"
+  },
+  {
+    "id": 226,
+    "term_id": "t226",
+    "term": "β-catenin",
+    "normalized_name": "Beta-catenin",
+    "category": "PROTEIN_GENE",
+    "synonyms": "β-连环蛋白",
+    "audio_file": "term_audio/t226/t226.mp3"
+  },
+  {
+    "id": 227,
+    "term_id": "t227",
+    "term": "Th1",
+    "normalized_name": "Th1 cell",
+    "category": "PROTEIN_GENE",
+    "synonyms": "Th1细胞",
+    "audio_file": "term_audio/t227/t227.mp3"
+  },
+  {
+    "id": 228,
+    "term_id": "t228",
+    "term": "Th17",
+    "normalized_name": "Th17 cell",
+    "category": "PROTEIN_GENE",
+    "synonyms": "Th17细胞",
+    "audio_file": "term_audio/t228/t228.mp3"
+  },
+  {
+    "id": 229,
+    "term_id": "t229",
+    "term": "Th22",
+    "normalized_name": "Th22 cell",
+    "category": "PROTEIN_GENE",
+    "synonyms": "Th22细胞",
+    "audio_file": "term_audio/t229/t229.mp3"
+  },
+  {
+    "id": 230,
+    "term_id": "t230",
+    "term": "Treg",
+    "normalized_name": "Regulatory T cell",
+    "category": "PROTEIN_GENE",
+    "synonyms": "调节性T细胞"
+  },
+  {
+    "id": 231,
+    "term_id": "t231",
+    "term": "Melanoma",
+    "normalized_name": "Melanoma",
+    "category": "DISEASE",
+    "synonyms": "黑色素瘤"
+  },
+  {
+    "id": 232,
+    "term_id": "t232",
+    "term": "Cutaneous melanoma",
+    "normalized_name": "Cutaneous melanoma",
+    "category": "DISEASE",
+    "synonyms": "皮肤黑色素瘤",
+    "audio_file": "term_audio/t232/t232.mp3"
+  },
+  {
+    "id": 233,
+    "term_id": "t233",
+    "term": "NMSC",
+    "normalized_name": "Non-melanoma skin cancer",
+    "category": "DISEASE",
+    "synonyms": "非黑色素瘤皮肤癌",
+    "audio_file": "term_audio/t233/t233.mp3"
+  },
+  {
+    "id": 234,
+    "term_id": "t234",
+    "term": "BCC",
+    "normalized_name": "Basal cell carcinoma",
+    "category": "DISEASE",
+    "synonyms": "基底细胞癌",
+    "audio_file": "term_audio/t234/t234.mp3"
+  },
+  {
+    "id": 235,
+    "term_id": "t235",
+    "term": "SCC",
+    "normalized_name": "Squamous cell carcinoma",
+    "category": "DISEASE",
+    "synonyms": "鳞状细胞癌",
+    "audio_file": "term_audio/t235/t235.mp3"
+  },
+  {
+    "id": 236,
+    "term_id": "t236",
+    "term": "Atopic dermatitis",
+    "normalized_name": "Atopic dermatitis",
+    "category": "DISEASE",
+    "synonyms": "特应性皮炎",
+    "audio_file": "term_audio/t236/t236.mp3"
+  },
+  {
+    "id": 237,
+    "term_id": "t237",
+    "term": "Psoriasis",
+    "normalized_name": "Psoriasis",
+    "category": "DISEASE",
+    "synonyms": "银屑病"
+  },
+  {
+    "id": 238,
+    "term_id": "t238",
+    "term": "Skin cancer",
+    "normalized_name": "Skin cancer",
+    "category": "DISEASE",
+    "synonyms": "皮肤癌",
+    "audio_file": "term_audio/t238/t238.mp3"
+  },
+  {
+    "id": 239,
+    "term_id": "t239",
+    "term": "Skin aging",
+    "normalized_name": "Skin aging",
+    "category": "DISEASE",
+    "synonyms": "皮肤老化",
+    "audio_file": "term_audio/t239/t239.mp3"
+  },
+  {
+    "id": 240,
+    "term_id": "t240",
+    "term": "Photoaging",
+    "normalized_name": "Photoaging",
+    "category": "DISEASE",
+    "synonyms": "光老化"
+  },
+  {
+    "id": 241,
+    "term_id": "t241",
+    "term": "Hyperpigmentation",
+    "normalized_name": "Hyperpigmentation",
+    "category": "DISEASE",
+    "synonyms": "色素沉着过度"
+  },
+  {
+    "id": 242,
+    "term_id": "t242",
+    "term": "Hypopigmentation",
+    "normalized_name": "Hypopigmentation",
+    "category": "DISEASE",
+    "synonyms": "色素减退"
+  },
+  {
+    "id": 243,
+    "term_id": "t243",
+    "term": "Melasma",
+    "normalized_name": "Melasma",
+    "category": "DISEASE",
+    "synonyms": "黄褐斑"
+  },
+  {
+    "id": 244,
+    "term_id": "t244",
+    "term": "Actinic lentigo",
+    "normalized_name": "Actinic lentigo",
+    "category": "DISEASE",
+    "synonyms": "日光性雀斑样痣",
+    "audio_file": "term_audio/t244/t244.mp3"
+  },
+  {
+    "id": 245,
+    "term_id": "t245",
+    "term": "Post-inflammatory hyperpigmentation",
+    "normalized_name": "Post-inflammatory hyperpigmentation",
+    "category": "DISEASE",
+    "synonyms": "炎症后色素沉着",
+    "audio_file": "term_audio/t245/t245.mp3"
+  },
+  {
+    "id": 246,
+    "term_id": "t246",
+    "term": "Vitiligo",
+    "normalized_name": "Vitiligo",
+    "category": "DISEASE",
+    "synonyms": "白癜风"
+  },
+  {
+    "id": 247,
+    "term_id": "t247",
+    "term": "Acne",
+    "normalized_name": "Acne",
+    "category": "DISEASE",
+    "synonyms": "痤疮"
+  },
+  {
+    "id": 248,
+    "term_id": "t248",
+    "term": "Inflammatory acne",
+    "normalized_name": "Inflammatory acne",
+    "category": "DISEASE",
+    "synonyms": "炎症性痤疮",
+    "audio_file": "term_audio/t248/t248.mp3"
+  },
+  {
+    "id": 249,
+    "term_id": "t249",
+    "term": "Allergies",
+    "normalized_name": "Allergies",
+    "category": "DISEASE",
+    "synonyms": "过敏"
+  },
+  {
+    "id": 250,
+    "term_id": "t250",
+    "term": "Solar dermatitis",
+    "normalized_name": "Solar dermatitis",
+    "category": "DISEASE",
+    "synonyms": "日光性皮炎",
+    "audio_file": "term_audio/t250/t250.mp3"
+  },
+  {
+    "id": 251,
+    "term_id": "t251",
+    "term": "Scleroderma",
+    "normalized_name": "Scleroderma",
+    "category": "DISEASE",
+    "synonyms": "硬皮病"
+  },
+  {
+    "id": 252,
+    "term_id": "t252",
+    "term": "Sunburn",
+    "normalized_name": "Sunburn",
+    "category": "DISEASE",
+    "synonyms": "晒伤"
+  },
+  {
+    "id": 253,
+    "term_id": "t253",
+    "term": "Pruritus",
+    "normalized_name": "Pruritus",
+    "category": "DISEASE",
+    "synonyms": "瘙痒"
+  },
+  {
+    "id": 254,
+    "term_id": "t254",
+    "term": "Eczema",
+    "normalized_name": "Eczema",
+    "category": "DISEASE",
+    "synonyms": "湿疹"
+  },
+  {
+    "id": 255,
+    "term_id": "t255",
+    "term": "Wrinkles",
+    "normalized_name": "Wrinkles",
+    "category": "DISEASE",
+    "synonyms": "皱纹"
+  },
+  {
+    "id": 256,
+    "term_id": "t256",
+    "term": "Cataracts",
+    "normalized_name": "Cataracts",
+    "category": "DISEASE",
+    "synonyms": "白内障"
+  },
+  {
+    "id": 257,
+    "term_id": "t257",
+    "term": "Arthritis",
+    "normalized_name": "Arthritis",
+    "category": "DISEASE",
+    "synonyms": "关节炎"
+  },
+  {
+    "id": 258,
+    "term_id": "t258",
+    "term": "Inflammatory arthritis",
+    "normalized_name": "Inflammatory arthritis",
+    "category": "DISEASE",
+    "synonyms": "炎症性关节炎",
+    "audio_file": "term_audio/t258/t258.mp3"
+  },
+  {
+    "id": 259,
+    "term_id": "t259",
+    "term": "Pharyngitis",
+    "normalized_name": "Pharyngitis",
+    "category": "DISEASE",
+    "synonyms": "咽炎"
+  },
+  {
+    "id": 260,
+    "term_id": "t260",
+    "term": "Synovitis",
+    "normalized_name": "Synovitis",
+    "category": "DISEASE",
+    "synonyms": "滑膜炎"
+  },
+  {
+    "id": 261,
+    "term_id": "t261",
+    "term": "Neuroinflammation",
+    "normalized_name": "Neuroinflammation",
+    "category": "DISEASE",
+    "synonyms": "神经炎症"
+  },
+  {
+    "id": 262,
+    "term_id": "t262",
+    "term": "Dermatitis",
+    "normalized_name": "Dermatitis",
+    "category": "DISEASE",
+    "synonyms": "皮炎"
+  },
+  {
+    "id": 263,
+    "term_id": "t263",
+    "term": "Cutaneous ulcers",
+    "normalized_name": "Cutaneous ulcers",
+    "category": "DISEASE",
+    "synonyms": "皮肤溃疡",
+    "audio_file": "term_audio/t263/t263.mp3"
+  },
+  {
+    "id": 264,
+    "term_id": "t264",
+    "term": "Skin infection",
+    "normalized_name": "Skin infection",
+    "category": "DISEASE",
+    "synonyms": "皮肤感染",
+    "audio_file": "term_audio/t264/t264.mp3"
+  },
+  {
+    "id": 265,
+    "term_id": "t265",
+    "term": "Delayed wound healing",
+    "normalized_name": "Delayed wound healing",
+    "category": "DISEASE",
+    "synonyms": "伤口愈合延迟",
+    "audio_file": "term_audio/t265/t265.mp3"
+  },
+  {
+    "id": 266,
+    "term_id": "t266",
+    "term": "Dry skin",
+    "normalized_name": "Dry skin",
+    "category": "DISEASE",
+    "synonyms": "皮肤干燥",
+    "audio_file": "term_audio/t266/t266.mp3"
+  },
+  {
+    "id": 267,
+    "term_id": "t267",
+    "term": "Dyspigmentation",
+    "normalized_name": "Dyspigmentation",
+    "category": "DISEASE",
+    "synonyms": "色素异常"
+  },
+  {
+    "id": 268,
+    "term_id": "t268",
+    "term": "Inflammatory skin disorders",
+    "normalized_name": "Inflammatory skin disorders",
+    "category": "DISEASE",
+    "synonyms": "炎症性皮肤病",
+    "audio_file": "term_audio/t268/t268.mp3"
+  },
+  {
+    "id": 269,
+    "term_id": "t269",
+    "term": "MAPK signaling pathway",
+    "normalized_name": "MAPK signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "MAPK信号通路",
+    "audio_file": "term_audio/t269/t269.mp3"
+  },
+  {
+    "id": 270,
+    "term_id": "t270",
+    "term": "ERK signaling pathway",
+    "normalized_name": "ERK signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "ERK信号通路",
+    "audio_file": "term_audio/t270/t270.mp3"
+  },
+  {
+    "id": 271,
+    "term_id": "t271",
+    "term": "PI3K/AKT signaling pathway",
+    "normalized_name": "PI3K/AKT signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "PI3K/AKT信号通路",
+    "audio_file": "term_audio/t271/t271.mp3"
+  },
+  {
+    "id": 272,
+    "term_id": "t272",
+    "term": "NF-κB signaling pathway",
+    "normalized_name": "NF-κB signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "核因子κB信号通路",
+    "audio_file": "term_audio/t272/t272.mp3"
+  },
+  {
+    "id": 273,
+    "term_id": "t273",
+    "term": "JAK/STAT signaling pathway",
+    "normalized_name": "JAK/STAT signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "JAK/STAT信号通路",
+    "audio_file": "term_audio/t273/t273.mp3"
+  },
+  {
+    "id": 274,
+    "term_id": "t274",
+    "term": "Wnt/β-catenin signaling pathway",
+    "normalized_name": "Wnt/β-catenin signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "Wnt/β-连环蛋白信号通路",
+    "audio_file": "term_audio/t274/t274.mp3"
+  },
+  {
+    "id": 275,
+    "term_id": "t275",
+    "term": "Nrf2 signaling pathway",
+    "normalized_name": "Nrf2 signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "Nrf2信号通路",
+    "audio_file": "term_audio/t275/t275.mp3"
+  },
+  {
+    "id": 276,
+    "term_id": "t276",
+    "term": "p53 signaling pathway",
+    "normalized_name": "p53 signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "p53信号通路",
+    "audio_file": "term_audio/t276/t276.mp3"
+  },
+  {
+    "id": 277,
+    "term_id": "t277",
+    "term": "TGF-β signaling pathway",
+    "normalized_name": "TGF-β signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "TGF-β信号通路",
+    "audio_file": "term_audio/t277/t277.mp3"
+  },
+  {
+    "id": 278,
+    "term_id": "t278",
+    "term": "PPARγ signaling pathway",
+    "normalized_name": "PPARγ signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "PPARγ信号通路",
+    "audio_file": "term_audio/t278/t278.mp3"
+  },
+  {
+    "id": 279,
+    "term_id": "t279",
+    "term": "Apoptosis signaling pathway",
+    "normalized_name": "Apoptosis signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "凋亡信号通路",
+    "audio_file": "term_audio/t279/t279.mp3"
+  },
+  {
+    "id": 280,
+    "term_id": "t280",
+    "term": "ER stress signaling pathway",
+    "normalized_name": "ER stress signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "内质网应激信号通路",
+    "audio_file": "term_audio/t280/t280.mp3"
+  },
+  {
+    "id": 281,
+    "term_id": "t281",
+    "term": "AMPK signaling pathway",
+    "normalized_name": "AMPK signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "AMPK信号通路",
+    "audio_file": "term_audio/t281/t281.mp3"
+  },
+  {
+    "id": 282,
+    "term_id": "t282",
+    "term": "Vitis vinifera",
+    "normalized_name": "Vitis vinifera",
+    "category": "SPECIES",
+    "synonyms": "欧洲葡萄",
+    "audio_file": "term_audio/t282/t282.mp3"
+  },
+  {
+    "id": 283,
+    "term_id": "t283",
+    "term": "Vitis amurensis",
+    "normalized_name": "Vitis amurensis",
+    "category": "SPECIES",
+    "synonyms": "山葡萄",
+    "audio_file": "term_audio/t283/t283.mp3"
+  },
+  {
+    "id": 284,
+    "term_id": "t284",
+    "term": "Vitis thunbergii",
+    "normalized_name": "Vitis thunbergii",
+    "category": "SPECIES",
+    "synonyms": "掌裂葡萄",
+    "audio_file": "term_audio/t284/t284.mp3"
+  },
+  {
+    "id": 285,
+    "term_id": "t285",
+    "term": "Mus musculus",
+    "normalized_name": "Mus musculus",
+    "category": "SPECIES",
+    "synonyms": "小鼠",
+    "audio_file": "term_audio/t285/t285.mp3"
+  },
+  {
+    "id": 286,
+    "term_id": "t286",
+    "term": "C57BL/6",
+    "normalized_name": "C57BL/6 mouse",
+    "category": "SPECIES",
+    "synonyms": "C57BL/6小鼠",
+    "audio_file": "term_audio/t286/t286.mp3"
+  },
+  {
+    "id": 287,
+    "term_id": "t287",
+    "term": "SKH-1",
+    "normalized_name": "SKH-1 hairless mouse",
+    "category": "SPECIES",
+    "synonyms": "SKH-1无毛小鼠",
+    "audio_file": "term_audio/t287/t287.mp3"
+  },
+  {
+    "id": 288,
+    "term_id": "t288",
+    "term": "NC/NgaTndCrlj",
+    "normalized_name": "NC/NgaTndCrlj mouse",
+    "category": "SPECIES",
+    "synonyms": "NC/NgaTndCrlj小鼠",
+    "audio_file": "term_audio/t288/t288.mp3"
+  },
+  {
+    "id": 289,
+    "term_id": "t289",
+    "term": "Balb/c",
+    "normalized_name": "Balb/c mouse",
+    "category": "SPECIES",
+    "synonyms": "Balb/c小鼠",
+    "audio_file": "term_audio/t289/t289.mp3"
+  },
+  {
+    "id": 290,
+    "term_id": "t290",
+    "term": "Rattus norvegicus",
+    "normalized_name": "Rattus norvegicus",
+    "category": "SPECIES",
+    "synonyms": "大鼠",
+    "audio_file": "term_audio/t290/t290.mp3"
+  },
+  {
+    "id": 291,
+    "term_id": "t291",
+    "term": "Guinea pig",
+    "normalized_name": "Guinea pig",
+    "category": "SPECIES",
+    "synonyms": "豚鼠",
+    "audio_file": "term_audio/t291/t291.mp3"
+  },
+  {
+    "id": 292,
+    "term_id": "t292",
+    "term": "Canine",
+    "normalized_name": "Canine",
+    "category": "SPECIES",
+    "synonyms": "犬"
+  },
+  {
+    "id": 293,
+    "term_id": "t293",
+    "term": "Porcine",
+    "normalized_name": "Porcine",
+    "category": "SPECIES",
+    "synonyms": "猪"
+  },
+  {
+    "id": 294,
+    "term_id": "t294",
+    "term": "Human",
+    "normalized_name": "Homo sapiens",
+    "category": "SPECIES",
+    "synonyms": "人类"
+  },
+  {
+    "id": 295,
+    "term_id": "t295",
+    "term": "HCT-116",
+    "normalized_name": "HCT-116 cells",
+    "category": "SPECIES",
+    "synonyms": "HCT-116细胞",
+    "audio_file": "term_audio/t295/t295.mp3"
+  },
+  {
+    "id": 296,
+    "term_id": "t296",
+    "term": "A375SM",
+    "normalized_name": "A375SM melanoma cells",
+    "category": "SPECIES",
+    "synonyms": "A375SM黑色素瘤细胞",
+    "audio_file": "term_audio/t296/t296.mp3"
+  },
+  {
+    "id": 297,
+    "term_id": "t297",
+    "term": "B16F10",
+    "normalized_name": "B16F10 melanoma cells",
+    "category": "SPECIES",
+    "synonyms": "B16F10黑色素瘤细胞",
+    "audio_file": "term_audio/t297/t297.mp3"
+  },
+  {
+    "id": 298,
+    "term_id": "t298",
+    "term": "SK-Mel-28",
+    "normalized_name": "SK-Mel-28 melanoma cells",
+    "category": "SPECIES",
+    "synonyms": "SK-Mel-28黑色素瘤细胞",
+    "audio_file": "term_audio/t298/t298.mp3"
+  },
+  {
+    "id": 299,
+    "term_id": "t299",
+    "term": "HT-144",
+    "normalized_name": "HT-144 melanoma cells",
+    "category": "SPECIES",
+    "synonyms": "HT-144黑色素瘤细胞",
+    "audio_file": "term_audio/t299/t299.mp3"
+  },
+  {
+    "id": 300,
+    "term_id": "t300",
+    "term": "Cutibacterium acnes",
+    "normalized_name": "Cutibacterium acnes",
+    "category": "SPECIES",
+    "synonyms": "痤疮丙酸杆菌",
+    "audio_file": "term_audio/t300/t300.mp3"
+  },
+  {
+    "id": 301,
+    "term_id": "t301",
+    "term": "Propionibacterium acnes",
+    "normalized_name": "Propionibacterium acnes",
+    "category": "SPECIES",
+    "synonyms": "痤疮丙酸杆菌",
+    "audio_file": "term_audio/t301/t301.mp3"
+  },
+  {
+    "id": 302,
+    "term_id": "t302",
+    "term": "Staphylococcus aureus",
+    "normalized_name": "Staphylococcus aureus",
+    "category": "SPECIES",
+    "synonyms": "金黄色葡萄球菌",
+    "audio_file": "term_audio/t302/t302.mp3"
+  },
+  {
+    "id": 303,
+    "term_id": "t303",
+    "term": "Escherichia coli",
+    "normalized_name": "Escherichia coli",
+    "category": "SPECIES",
+    "synonyms": "大肠杆菌",
+    "audio_file": "term_audio/t303/t303.mp3"
+  },
+  {
+    "id": 304,
+    "term_id": "t304",
+    "term": "Helicobacter pylori",
+    "normalized_name": "Helicobacter pylori",
+    "category": "SPECIES",
+    "synonyms": "幽门螺杆菌",
+    "audio_file": "term_audio/t304/t304.mp3"
+  },
+  {
+    "id": 305,
+    "term_id": "t305",
+    "term": "Keratinocytes",
+    "normalized_name": "Keratinocytes",
+    "category": "SPECIES",
+    "synonyms": "角质形成细胞"
+  },
+  {
+    "id": 306,
+    "term_id": "t306",
+    "term": "Fibroblasts",
+    "normalized_name": "Fibroblasts",
+    "category": "SPECIES",
+    "synonyms": "成纤维细胞"
+  },
+  {
+    "id": 307,
+    "term_id": "t307",
+    "term": "Melanocytes",
+    "normalized_name": "Melanocytes",
+    "category": "SPECIES",
+    "synonyms": "黑素细胞"
+  },
+  {
+    "id": 308,
+    "term_id": "t308",
+    "term": "Mast cells",
+    "normalized_name": "Mast cells",
+    "category": "SPECIES",
+    "synonyms": "肥大细胞",
+    "audio_file": "term_audio/t308/t308.mp3"
+  },
+  {
+    "id": 309,
+    "term_id": "t309",
+    "term": "Skin",
+    "normalized_name": "Skin",
+    "category": "ANATOMY",
+    "synonyms": "皮肤"
+  },
+  {
+    "id": 310,
+    "term_id": "t310",
+    "term": "Epidermis",
+    "normalized_name": "Epidermis",
+    "category": "ANATOMY",
+    "synonyms": "表皮"
+  },
+  {
+    "id": 311,
+    "term_id": "t311",
+    "term": "Dermis",
+    "normalized_name": "Dermis",
+    "category": "ANATOMY",
+    "synonyms": "真皮"
+  },
+  {
+    "id": 312,
+    "term_id": "t312",
+    "term": "Hypodermis",
+    "normalized_name": "Hypodermis",
+    "category": "ANATOMY",
+    "synonyms": "皮下组织"
+  },
+  {
+    "id": 313,
+    "term_id": "t313",
+    "term": "Stratum corneum",
+    "normalized_name": "Stratum corneum",
+    "category": "ANATOMY",
+    "synonyms": "角质层",
+    "audio_file": "term_audio/t313/t313.mp3"
+  },
+  {
+    "id": 314,
+    "term_id": "t314",
+    "term": "Hair follicles",
+    "normalized_name": "Hair follicles",
+    "category": "ANATOMY",
+    "synonyms": "毛囊",
+    "audio_file": "term_audio/t314/t314.mp3"
+  },
+  {
+    "id": 315,
+    "term_id": "t315",
+    "term": "Sebaceous glands",
+    "normalized_name": "Sebaceous glands",
+    "category": "ANATOMY",
+    "synonyms": "皮脂腺",
+    "audio_file": "term_audio/t315/t315.mp3"
+  },
+  {
+    "id": 316,
+    "term_id": "t316",
+    "term": "Sweat glands",
+    "normalized_name": "Sweat glands",
+    "category": "ANATOMY",
+    "synonyms": "汗腺",
+    "audio_file": "term_audio/t316/t316.mp3"
+  },
+  {
+    "id": 317,
+    "term_id": "t317",
+    "term": "Arrector pili muscle",
+    "normalized_name": "Arrector pili muscle",
+    "category": "ANATOMY",
+    "synonyms": "立毛肌",
+    "audio_file": "term_audio/t317/t317.mp3"
+  },
+  {
+    "id": 318,
+    "term_id": "t318",
+    "term": "Extracellular matrix",
+    "normalized_name": "Extracellular matrix",
+    "category": "ANATOMY",
+    "synonyms": "细胞外基质",
+    "audio_file": "term_audio/t318/t318.mp3"
+  },
+  {
+    "id": 319,
+    "term_id": "t319",
+    "term": "Basement membrane",
+    "normalized_name": "Basement membrane",
+    "category": "ANATOMY",
+    "synonyms": "基底膜",
+    "audio_file": "term_audio/t319/t319.mp3"
+  },
+  {
+    "id": 320,
+    "term_id": "t320",
+    "term": "Collagen fibers",
+    "normalized_name": "Collagen fibers",
+    "category": "ANATOMY",
+    "synonyms": "胶原纤维",
+    "audio_file": "term_audio/t320/t320.mp3"
+  },
+  {
+    "id": 321,
+    "term_id": "t321",
+    "term": "Elastic fibers",
+    "normalized_name": "Elastic fibers",
+    "category": "ANATOMY",
+    "synonyms": "弹性纤维",
+    "audio_file": "term_audio/t321/t321.mp3"
+  },
+  {
+    "id": 322,
+    "term_id": "t322",
+    "term": "Cellular membrane",
+    "normalized_name": "Cellular membrane",
+    "category": "ANATOMY",
+    "synonyms": "细胞膜",
+    "audio_file": "term_audio/t322/t322.mp3"
+  },
+  {
+    "id": 323,
+    "term_id": "t323",
+    "term": "Mitochondria",
+    "normalized_name": "Mitochondria",
+    "category": "ANATOMY",
+    "synonyms": "线粒体"
+  },
+  {
+    "id": 324,
+    "term_id": "t324",
+    "term": "Endoplasmic reticulum",
+    "normalized_name": "Endoplasmic reticulum",
+    "category": "ANATOMY",
+    "synonyms": "内质网",
+    "audio_file": "term_audio/t324/t324.mp3"
+  },
+  {
+    "id": 325,
+    "term_id": "t325",
+    "term": "Golgi apparatus",
+    "normalized_name": "Golgi apparatus",
+    "category": "ANATOMY",
+    "synonyms": "高尔基体",
+    "audio_file": "term_audio/t325/t325.mp3"
+  },
+  {
+    "id": 326,
+    "term_id": "t326",
+    "term": "Nucleus",
+    "normalized_name": "Nucleus",
+    "category": "ANATOMY",
+    "synonyms": "细胞核"
+  },
+  {
+    "id": 327,
+    "term_id": "t327",
+    "term": "Thymus",
+    "normalized_name": "Thymus",
+    "category": "ANATOMY",
+    "synonyms": "胸腺"
+  },
+  {
+    "id": 328,
+    "term_id": "t328",
+    "term": "Spleen",
+    "normalized_name": "Spleen",
+    "category": "ANATOMY",
+    "synonyms": "脾脏"
+  },
+  {
+    "id": 329,
+    "term_id": "t329",
+    "term": "Oxidative stress",
+    "normalized_name": "Oxidative stress",
+    "category": "PHENOMENA",
+    "synonyms": "氧化应激",
+    "audio_file": "term_audio/t329/t329.mp3"
+  },
+  {
+    "id": 330,
+    "term_id": "t330",
+    "term": "Inflammation",
+    "normalized_name": "Inflammation",
+    "category": "PHENOMENA",
+    "synonyms": "炎症"
+  },
+  {
+    "id": 331,
+    "term_id": "t331",
+    "term": "Chronic inflammation",
+    "normalized_name": "Chronic inflammation",
+    "category": "PHENOMENA",
+    "synonyms": "慢性炎症",
+    "audio_file": "term_audio/t331/t331.mp3"
+  },
+  {
+    "id": 332,
+    "term_id": "t332",
+    "term": "Apoptosis",
+    "normalized_name": "Apoptosis",
+    "category": "PHENOMENA",
+    "synonyms": "细胞凋亡"
+  },
+  {
+    "id": 333,
+    "term_id": "t333",
+    "term": "Autophagy",
+    "normalized_name": "Autophagy",
+    "category": "PHENOMENA",
+    "synonyms": "自噬"
+  },
+  {
+    "id": 334,
+    "term_id": "t334",
+    "term": "Necrosis",
+    "normalized_name": "Necrosis",
+    "category": "PHENOMENA",
+    "synonyms": "坏死"
+  },
+  {
+    "id": 335,
+    "term_id": "t335",
+    "term": "Cell proliferation",
+    "normalized_name": "Cell proliferation",
+    "category": "PHENOMENA",
+    "synonyms": "细胞增殖",
+    "audio_file": "term_audio/t335/t335.mp3"
+  },
+  {
+    "id": 336,
+    "term_id": "t336",
+    "term": "Cell cycle arrest",
+    "normalized_name": "Cell cycle arrest",
+    "category": "PHENOMENA",
+    "synonyms": "细胞周期阻滞",
+    "audio_file": "term_audio/t336/t336.mp3"
+  },
+  {
+    "id": 337,
+    "term_id": "t337",
+    "term": "Cell migration",
+    "normalized_name": "Cell migration",
+    "category": "PHENOMENA",
+    "synonyms": "细胞迁移",
+    "audio_file": "term_audio/t337/t337.mp3"
+  },
+  {
+    "id": 338,
+    "term_id": "t338",
+    "term": "Cell invasion",
+    "normalized_name": "Cell invasion",
+    "category": "PHENOMENA",
+    "synonyms": "细胞侵袭",
+    "audio_file": "term_audio/t338/t338.mp3"
+  },
+  {
+    "id": 339,
+    "term_id": "t339",
+    "term": "Epithelial-mesenchymal transition",
+    "normalized_name": "Epithelial-mesenchymal transition",
+    "category": "PHENOMENA",
+    "synonyms": "上皮-间质转化",
+    "audio_file": "term_audio/t339/t339.mp3"
+  },
+  {
+    "id": 340,
+    "term_id": "t340",
+    "term": "Angiogenesis",
+    "normalized_name": "Angiogenesis",
+    "category": "PHENOMENA",
+    "synonyms": "血管生成"
+  },
+  {
+    "id": 341,
+    "term_id": "t341",
+    "term": "Metastasis",
+    "normalized_name": "Metastasis",
+    "category": "PHENOMENA",
+    "synonyms": "转移"
+  },
+  {
+    "id": 342,
+    "term_id": "t342",
+    "term": "Tumorigenesis",
+    "normalized_name": "Tumorigenesis",
+    "category": "PHENOMENA",
+    "synonyms": "肿瘤发生"
+  },
+  {
+    "id": 343,
+    "term_id": "t343",
+    "term": "Carcinogenesis",
+    "normalized_name": "Carcinogenesis",
+    "category": "PHENOMENA",
+    "synonyms": "癌变"
+  },
+  {
+    "id": 344,
+    "term_id": "t344",
+    "term": "Photocarcinogenesis",
+    "normalized_name": "Photocarcinogenesis",
+    "category": "PHENOMENA",
+    "synonyms": "光致癌"
+  },
+  {
+    "id": 345,
+    "term_id": "t345",
+    "term": "Photoaging",
+    "normalized_name": "Photoaging",
+    "category": "PHENOMENA",
+    "synonyms": "光老化"
+  },
+  {
+    "id": 346,
+    "term_id": "t346",
+    "term": "Photoprotection",
+    "normalized_name": "Photoprotection",
+    "category": "PHENOMENA",
+    "synonyms": "光保护"
+  },
+  {
+    "id": 347,
+    "term_id": "t347",
+    "term": "Melanogenesis",
+    "normalized_name": "Melanogenesis",
+    "category": "PHENOMENA",
+    "synonyms": "黑色素生成"
+  },
+  {
+    "id": 348,
+    "term_id": "t348",
+    "term": "Depigmentation",
+    "normalized_name": "Depigmentation",
+    "category": "PHENOMENA",
+    "synonyms": "脱色"
+  },
+  {
+    "id": 349,
+    "term_id": "t349",
+    "term": "Wound healing",
+    "normalized_name": "Wound healing",
+    "category": "PHENOMENA",
+    "synonyms": "伤口愈合",
+    "audio_file": "term_audio/t349/t349.mp3"
+  },
+  {
+    "id": 350,
+    "term_id": "t350",
+    "term": "Skin regeneration",
+    "normalized_name": "Skin regeneration",
+    "category": "PHENOMENA",
+    "synonyms": "皮肤再生",
+    "audio_file": "term_audio/t350/t350.mp3"
+  },
+  {
+    "id": 351,
+    "term_id": "t351",
+    "term": "Collagen synthesis",
+    "normalized_name": "Collagen synthesis",
+    "category": "PHENOMENA",
+    "synonyms": "胶原蛋白合成",
+    "audio_file": "term_audio/t351/t351.mp3"
+  },
+  {
+    "id": 352,
+    "term_id": "t352",
+    "term": "Collagen degradation",
+    "normalized_name": "Collagen degradation",
+    "category": "PHENOMENA",
+    "synonyms": "胶原蛋白降解",
+    "audio_file": "term_audio/t352/t352.mp3"
+  },
+  {
+    "id": 353,
+    "term_id": "t353",
+    "term": "Elastin degradation",
+    "normalized_name": "Elastin degradation",
+    "category": "PHENOMENA",
+    "synonyms": "弹性蛋白降解",
+    "audio_file": "term_audio/t353/t353.mp3"
+  },
+  {
+    "id": 354,
+    "term_id": "t354",
+    "term": "Angiogenesis",
+    "normalized_name": "Angiogenesis",
+    "category": "PHENOMENA",
+    "synonyms": "血管生成"
+  },
+  {
+    "id": 355,
+    "term_id": "t355",
+    "term": "Epidermal hyperplasia",
+    "normalized_name": "Epidermal hyperplasia",
+    "category": "PHENOMENA",
+    "synonyms": "表皮增生",
+    "audio_file": "term_audio/t355/t355.mp3"
+  },
+  {
+    "id": 356,
+    "term_id": "t356",
+    "term": "Epithelialization",
+    "normalized_name": "Epithelialization",
+    "category": "PHENOMENA",
+    "synonyms": "上皮化"
+  },
+  {
+    "id": 357,
+    "term_id": "t357",
+    "term": "Cellular senescence",
+    "normalized_name": "Cellular senescence",
+    "category": "PHENOMENA",
+    "synonyms": "细胞衰老",
+    "audio_file": "term_audio/t357/t357.mp3"
+  },
+  {
+    "id": 358,
+    "term_id": "t358",
+    "term": "Oxidative damage",
+    "normalized_name": "Oxidative damage",
+    "category": "PHENOMENA",
+    "synonyms": "氧化损伤",
+    "audio_file": "term_audio/t358/t358.mp3"
+  },
+  {
+    "id": 359,
+    "term_id": "t359",
+    "term": "DNA damage",
+    "normalized_name": "DNA damage",
+    "category": "PHENOMENA",
+    "synonyms": "DNA损伤",
+    "audio_file": "term_audio/t359/t359.mp3"
+  },
+  {
+    "id": 360,
+    "term_id": "t360",
+    "term": "Lipid peroxidation",
+    "normalized_name": "Lipid peroxidation",
+    "category": "PHENOMENA",
+    "synonyms": "脂质过氧化",
+    "audio_file": "term_audio/t360/t360.mp3"
+  },
+  {
+    "id": 361,
+    "term_id": "t361",
+    "term": "Telomere lengthening",
+    "normalized_name": "Telomere lengthening",
+    "category": "PHENOMENA",
+    "synonyms": "端粒延长",
+    "audio_file": "term_audio/t361/t361.mp3"
+  },
+  {
+    "id": 362,
+    "term_id": "t362",
+    "term": "Telomerase activity",
+    "normalized_name": "Telomerase activity",
+    "category": "PHENOMENA",
+    "synonyms": "端粒酶活性",
+    "audio_file": "term_audio/t362/t362.mp3"
+  },
+  {
+    "id": 363,
+    "term_id": "t363",
+    "term": "Grape",
+    "normalized_name": "Grape",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄"
+  },
+  {
+    "id": 364,
+    "term_id": "t364",
+    "term": "Whole grape",
+    "normalized_name": "Whole grape",
+    "category": "INTERVENTION",
+    "synonyms": "全葡萄",
+    "audio_file": "term_audio/t364/t364.mp3"
+  },
+  {
+    "id": 365,
+    "term_id": "t365",
+    "term": "Grape juice",
+    "normalized_name": "Grape juice",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄汁",
+    "audio_file": "term_audio/t365/t365.mp3"
+  },
+  {
+    "id": 366,
+    "term_id": "t366",
+    "term": "Grape powder",
+    "normalized_name": "Grape powder",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄粉",
+    "audio_file": "term_audio/t366/t366.mp3"
+  },
+  {
+    "id": 367,
+    "term_id": "t367",
+    "term": "Dried grape powder",
+    "normalized_name": "Dried grape powder",
+    "category": "INTERVENTION",
+    "synonyms": "干燥葡萄粉",
+    "audio_file": "term_audio/t367/t367.mp3"
+  },
+  {
+    "id": 368,
+    "term_id": "t368",
+    "term": "Grape seed",
+    "normalized_name": "Grape seed",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄籽",
+    "audio_file": "term_audio/t368/t368.mp3"
+  },
+  {
+    "id": 369,
+    "term_id": "t369",
+    "term": "Grape seed extract",
+    "normalized_name": "Grape seed extract",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄籽提取物",
+    "audio_file": "term_audio/t369/t369.mp3"
+  },
+  {
+    "id": 370,
+    "term_id": "t370",
+    "term": "Grape seed oil",
+    "normalized_name": "Grape seed oil",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄籽油",
+    "audio_file": "term_audio/t370/t370.mp3"
+  },
+  {
+    "id": 371,
+    "term_id": "t371",
+    "term": "Grape skin extract",
+    "normalized_name": "Grape skin extract",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄皮提取物",
+    "audio_file": "term_audio/t371/t371.mp3"
+  },
+  {
+    "id": 372,
+    "term_id": "t372",
+    "term": "Grape leaf extract",
+    "normalized_name": "Grape leaf extract",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄叶提取物",
+    "audio_file": "term_audio/t372/t372.mp3"
+  },
+  {
+    "id": 373,
+    "term_id": "t373",
+    "term": "Grape pomace",
+    "normalized_name": "Grape pomace",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄渣",
+    "audio_file": "term_audio/t373/t373.mp3"
+  },
+  {
+    "id": 374,
+    "term_id": "t374",
+    "term": "Grape pomace extract",
+    "normalized_name": "Grape pomace extract",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄渣提取物",
+    "audio_file": "term_audio/t374/t374.mp3"
+  },
+  {
+    "id": 375,
+    "term_id": "t375",
+    "term": "Grape marc",
+    "normalized_name": "Grape marc",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄渣",
+    "audio_file": "term_audio/t375/t375.mp3"
+  },
+  {
+    "id": 376,
+    "term_id": "t376",
+    "term": "Wine lees",
+    "normalized_name": "Wine lees",
+    "category": "INTERVENTION",
+    "synonyms": "酒糟",
+    "audio_file": "term_audio/t376/t376.mp3"
+  },
+  {
+    "id": 377,
+    "term_id": "t377",
+    "term": "Red wine",
+    "normalized_name": "Red wine",
+    "category": "INTERVENTION",
+    "synonyms": "红葡萄酒",
+    "audio_file": "term_audio/t377/t377.mp3"
+  },
+  {
+    "id": 378,
+    "term_id": "t378",
+    "term": "Resveratrol",
+    "normalized_name": "Resveratrol",
+    "category": "INTERVENTION",
+    "synonyms": "白藜芦醇"
+  },
+  {
+    "id": 379,
+    "term_id": "t379",
+    "term": "Resveratrol solution",
+    "normalized_name": "Resveratrol solution",
+    "category": "INTERVENTION",
+    "synonyms": "白藜芦醇溶液",
+    "audio_file": "term_audio/t379/t379.mp3"
+  },
+  {
+    "id": 380,
+    "term_id": "t380",
+    "term": "Piceatannol",
+    "normalized_name": "Piceatannol",
+    "category": "INTERVENTION",
+    "synonyms": "白皮杉醇"
+  },
+  {
+    "id": 381,
+    "term_id": "t381",
+    "term": "Pterostilbene",
+    "normalized_name": "Pterostilbene",
+    "category": "INTERVENTION",
+    "synonyms": "紫檀芪"
+  },
+  {
+    "id": 382,
+    "term_id": "t382",
+    "term": "Proanthocyanidins",
+    "normalized_name": "Proanthocyanidins",
+    "category": "INTERVENTION",
+    "synonyms": "原花青素"
+  },
+  {
+    "id": 383,
+    "term_id": "t383",
+    "term": "GSPs",
+    "normalized_name": "Grape seed proanthocyanidins",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄籽原花青素",
+    "audio_file": "term_audio/t383/t383.mp3"
+  },
+  {
+    "id": 384,
+    "term_id": "t384",
+    "term": "Quercetin",
+    "normalized_name": "Quercetin",
+    "category": "INTERVENTION",
+    "synonyms": "槲皮素"
+  },
+  {
+    "id": 385,
+    "term_id": "t385",
+    "term": "Fisetin",
+    "normalized_name": "Fisetin",
+    "category": "INTERVENTION",
+    "synonyms": "非瑟酮"
+  },
+  {
+    "id": 386,
+    "term_id": "t386",
+    "term": "Tannic acid",
+    "normalized_name": "Tannic acid",
+    "category": "INTERVENTION",
+    "synonyms": "鞣酸",
+    "audio_file": "term_audio/t386/t386.mp3"
+  },
+  {
+    "id": 387,
+    "term_id": "t387",
+    "term": "Procyanidin C1",
+    "normalized_name": "Procyanidin C1",
+    "category": "INTERVENTION",
+    "synonyms": "原花青素C1",
+    "audio_file": "term_audio/t387/t387.mp3"
+  },
+  {
+    "id": 388,
+    "term_id": "t388",
+    "term": "Anthocyanins",
+    "normalized_name": "Anthocyanins",
+    "category": "INTERVENTION",
+    "synonyms": "花青素"
+  },
+  {
+    "id": 389,
+    "term_id": "t389",
+    "term": "OPCs",
+    "normalized_name": "Oligomeric proanthocyanidins",
+    "category": "INTERVENTION",
+    "synonyms": "低聚原花青素",
+    "audio_file": "term_audio/t389/t389.mp3"
+  },
+  {
+    "id": 390,
+    "term_id": "t390",
+    "term": "Curcumin",
+    "normalized_name": "Curcumin",
+    "category": "INTERVENTION",
+    "synonyms": "姜黄素"
+  },
+  {
+    "id": 391,
+    "term_id": "t391",
+    "term": "Genistein",
+    "normalized_name": "Genistein",
+    "category": "INTERVENTION",
+    "synonyms": "金雀异黄酮"
+  },
+  {
+    "id": 392,
+    "term_id": "t392",
+    "term": "Apigenin",
+    "normalized_name": "Apigenin",
+    "category": "INTERVENTION",
+    "synonyms": "芹菜素"
+  },
+  {
+    "id": 393,
+    "term_id": "t393",
+    "term": "Syringetin",
+    "normalized_name": "Syringetin",
+    "category": "INTERVENTION",
+    "synonyms": "丁香亭"
+  },
+  {
+    "id": 394,
+    "term_id": "t394",
+    "term": "EFLA 945",
+    "normalized_name": "EFLA 945",
+    "category": "INTERVENTION",
+    "synonyms": "EFLA 945提取物",
+    "audio_file": "term_audio/t394/t394.mp3"
+  },
+  {
+    "id": 395,
+    "term_id": "t395",
+    "term": "5-Fluorouracil",
+    "normalized_name": "5-Fluorouracil",
+    "category": "INTERVENTION",
+    "synonyms": "5-氟尿嘧啶",
+    "audio_file": "term_audio/t395/t395.mp3"
+  },
+  {
+    "id": 396,
+    "term_id": "t396",
+    "term": "Imiquimod",
+    "normalized_name": "Imiquimod",
+    "category": "INTERVENTION",
+    "synonyms": "咪喹莫特"
+  },
+  {
+    "id": 397,
+    "term_id": "t397",
+    "term": "Imatinib",
+    "normalized_name": "Imatinib",
+    "category": "INTERVENTION",
+    "synonyms": "伊马替尼"
+  },
+  {
+    "id": 398,
+    "term_id": "t398",
+    "term": "Aspirin",
+    "normalized_name": "Aspirin",
+    "category": "INTERVENTION",
+    "synonyms": "阿司匹林"
+  },
+  {
+    "id": 399,
+    "term_id": "t399",
+    "term": "Placebo",
+    "normalized_name": "Placebo",
+    "category": "INTERVENTION",
+    "synonyms": "安慰剂"
+  },
+  {
+    "id": 400,
+    "term_id": "t400",
+    "term": "Sunscreen",
+    "normalized_name": "Sunscreen",
+    "category": "INTERVENTION",
+    "synonyms": "防晒霜"
+  },
+  {
+    "id": 401,
+    "term_id": "t401",
+    "term": "Topical cream",
+    "normalized_name": "Topical cream",
+    "category": "INTERVENTION",
+    "synonyms": "外用乳膏",
+    "audio_file": "term_audio/t401/t401.mp3"
+  },
+  {
+    "id": 402,
+    "term_id": "t402",
+    "term": "Nanoemulgel",
+    "normalized_name": "Nanoemulgel",
+    "category": "INTERVENTION",
+    "synonyms": "纳米乳凝胶"
+  },
+  {
+    "id": 403,
+    "term_id": "t403",
+    "term": "Invasomal gel",
+    "normalized_name": "Invasomal gel",
+    "category": "INTERVENTION",
+    "synonyms": "脂质体凝胶",
+    "audio_file": "term_audio/t403/t403.mp3"
+  },
+  {
+    "id": 404,
+    "term_id": "t404",
+    "term": "Nanoparticles",
+    "normalized_name": "Nanoparticles",
+    "category": "INTERVENTION",
+    "synonyms": "纳米颗粒"
+  },
+  {
+    "id": 405,
+    "term_id": "t405",
+    "term": "Organogels",
+    "normalized_name": "Organogels",
+    "category": "INTERVENTION",
+    "synonyms": "有机凝胶"
+  },
+  {
+    "id": 406,
+    "term_id": "t406",
+    "term": "Dermocosmetic",
+    "normalized_name": "Dermocosmetic",
+    "category": "INTERVENTION",
+    "synonyms": "皮肤化妆品"
+  },
+  {
+    "id": 407,
+    "term_id": "t407",
+    "term": "SPF",
+    "normalized_name": "Sun protection factor",
+    "category": "MEASUREMENT",
+    "synonyms": "防晒系数",
+    "audio_file": "term_audio/t407/t407.mp3"
+  },
+  {
+    "id": 408,
+    "term_id": "t408",
+    "term": "DPPH assay",
+    "normalized_name": "DPPH assay",
+    "category": "MEASUREMENT",
+    "synonyms": "DPPH自由基清除能力测定",
+    "audio_file": "term_audio/t408/t408.mp3"
+  },
+  {
+    "id": 409,
+    "term_id": "t409",
+    "term": "ABTS assay",
+    "normalized_name": "ABTS assay",
+    "category": "MEASUREMENT",
+    "synonyms": "ABTS自由基清除能力测定",
+    "audio_file": "term_audio/t409/t409.mp3"
+  },
+  {
+    "id": 410,
+    "term_id": "t410",
+    "term": "FRAP assay",
+    "normalized_name": "FRAP assay",
+    "category": "MEASUREMENT",
+    "synonyms": "铁还原抗氧化能力测定",
+    "audio_file": "term_audio/t410/t410.mp3"
+  },
+  {
+    "id": 411,
+    "term_id": "t411",
+    "term": "TEER",
+    "normalized_name": "Transepithelial electrical resistance",
+    "category": "MEASUREMENT",
+    "synonyms": "跨上皮电阻",
+    "audio_file": "term_audio/t411/t411.mp3"
+  },
+  {
+    "id": 412,
+    "term_id": "t412",
+    "term": "Transepidermal water loss",
+    "normalized_name": "Transepidermal water loss",
+    "category": "MEASUREMENT",
+    "synonyms": "经皮水分丢失",
+    "audio_file": "term_audio/t412/t412.mp3"
+  },
+  {
+    "id": 413,
+    "term_id": "t413",
+    "term": "ELISA",
+    "normalized_name": "Enzyme-linked immunosorbent assay",
+    "category": "MEASUREMENT",
+    "synonyms": "酶联免疫吸附测定",
+    "audio_file": "term_audio/t413/t413.mp3"
+  },
+  {
+    "id": 414,
+    "term_id": "t414",
+    "term": "Western blot",
+    "normalized_name": "Western blot",
+    "category": "MEASUREMENT",
+    "synonyms": "蛋白质印迹",
+    "audio_file": "term_audio/t414/t414.mp3"
+  },
+  {
+    "id": 415,
+    "term_id": "t415",
+    "term": "qPCR",
+    "normalized_name": "Quantitative polymerase chain reaction",
+    "category": "MEASUREMENT",
+    "synonyms": "实时荧光定量PCR",
+    "audio_file": "term_audio/t415/t415.mp3"
+  },
+  {
+    "id": 416,
+    "term_id": "t416",
+    "term": "HPLC",
+    "normalized_name": "High-performance liquid chromatography",
+    "category": "MEASUREMENT",
+    "synonyms": "高效液相色谱",
+    "audio_file": "term_audio/t416/t416.mp3"
+  },
+  {
+    "id": 417,
+    "term_id": "t417",
+    "term": "Immunohistochemistry",
+    "normalized_name": "Immunohistochemistry",
+    "category": "MEASUREMENT",
+    "synonyms": "免疫组织化学"
+  },
+  {
+    "id": 418,
+    "term_id": "t418",
+    "term": "Skin hydration",
+    "normalized_name": "Skin hydration",
+    "category": "MEASUREMENT",
+    "synonyms": "皮肤水合作用",
+    "audio_file": "term_audio/t418/t418.mp3"
+  },
+  {
+    "id": 419,
+    "term_id": "t419",
+    "term": "Skin elasticity",
+    "normalized_name": "Skin elasticity",
+    "category": "MEASUREMENT",
+    "synonyms": "皮肤弹性",
+    "audio_file": "term_audio/t419/t419.mp3"
+  },
+  {
+    "id": 420,
+    "term_id": "t420",
+    "term": "Skin firmness",
+    "normalized_name": "Skin firmness",
+    "category": "MEASUREMENT",
+    "synonyms": "皮肤紧致度",
+    "audio_file": "term_audio/t420/t420.mp3"
+  },
+  {
+    "id": 421,
+    "term_id": "t421",
+    "term": "Skin moisture",
+    "normalized_name": "Skin moisture",
+    "category": "MEASUREMENT",
+    "synonyms": "皮肤水分",
+    "audio_file": "term_audio/t421/t421.mp3"
+  },
+  {
+    "id": 422,
+    "term_id": "t422",
+    "term": "Melanin index",
+    "normalized_name": "Melanin index",
+    "category": "MEASUREMENT",
+    "synonyms": "黑色素指数",
+    "audio_file": "term_audio/t422/t422.mp3"
+  },
+  {
+    "id": 423,
+    "term_id": "t423",
+    "term": "Erythema",
+    "normalized_name": "Erythema",
+    "category": "MEASUREMENT",
+    "synonyms": "红斑"
+  },
+  {
+    "id": 424,
+    "term_id": "t424",
+    "term": "Sebum production",
+    "normalized_name": "Sebum production",
+    "category": "MEASUREMENT",
+    "synonyms": "皮脂分泌",
+    "audio_file": "term_audio/t424/t424.mp3"
+  },
+  {
+    "id": 425,
+    "term_id": "t425",
+    "term": "Pore size",
+    "normalized_name": "Pore size",
+    "category": "MEASUREMENT",
+    "synonyms": "毛孔大小",
+    "audio_file": "term_audio/t425/t425.mp3"
+  },
+  {
+    "id": 426,
+    "term_id": "t426",
+    "term": "Tumor multiplicity",
+    "normalized_name": "Tumor multiplicity",
+    "category": "MEASUREMENT",
+    "synonyms": "肿瘤数量",
+    "audio_file": "term_audio/t426/t426.mp3"
+  },
+  {
+    "id": 427,
+    "term_id": "t427",
+    "term": "Tumor incidence",
+    "normalized_name": "Tumor incidence",
+    "category": "MEASUREMENT",
+    "synonyms": "肿瘤发生率",
+    "audio_file": "term_audio/t427/t427.mp3"
+  },
+  {
+    "id": 428,
+    "term_id": "t428",
+    "term": "Tumor volume",
+    "normalized_name": "Tumor volume",
+    "category": "MEASUREMENT",
+    "synonyms": "肿瘤体积",
+    "audio_file": "term_audio/t428/t428.mp3"
+  },
+  {
+    "id": 429,
+    "term_id": "t429",
+    "term": "Wrinkle depth",
+    "normalized_name": "Wrinkle depth",
+    "category": "MEASUREMENT",
+    "synonyms": "皱纹深度",
+    "audio_file": "term_audio/t429/t429.mp3"
+  },
+  {
+    "id": 430,
+    "term_id": "t430",
+    "term": "MPOD",
+    "normalized_name": "Macular pigment optical density",
+    "category": "MEASUREMENT",
+    "synonyms": "黄斑色素光密度",
+    "audio_file": "term_audio/t430/t430.mp3"
+  },
+  {
+    "id": 431,
+    "term_id": "t431",
+    "term": "CDAI",
+    "normalized_name": "Composite Dietary Antioxidant Index",
+    "category": "MEASUREMENT",
+    "synonyms": "复合膳食抗氧化指数",
+    "audio_file": "term_audio/t431/t431.mp3"
+  },
+  {
+    "id": 432,
+    "term_id": "t432",
+    "term": "Phytochemicals",
+    "normalized_name": "Phytochemicals",
+    "category": "MISC",
+    "synonyms": "植物化学物"
+  },
+  {
+    "id": 433,
+    "term_id": "t433",
+    "term": "Polyphenols",
+    "normalized_name": "Polyphenols",
+    "category": "MISC",
+    "synonyms": "多酚"
+  },
+  {
+    "id": 434,
+    "term_id": "t434",
+    "term": "Flavonoids",
+    "normalized_name": "Flavonoids",
+    "category": "MISC",
+    "synonyms": "类黄酮"
+  },
+  {
+    "id": 435,
+    "term_id": "t435",
+    "term": "Nonflavonoids",
+    "normalized_name": "Nonflavonoids",
+    "category": "MISC",
+    "synonyms": "非类黄酮"
+  },
+  {
+    "id": 436,
+    "term_id": "t436",
+    "term": "Phenolic compounds",
+    "normalized_name": "Phenolic compounds",
+    "category": "MISC",
+    "synonyms": "酚类化合物",
+    "audio_file": "term_audio/t436/t436.mp3"
+  },
+  {
+    "id": 437,
+    "term_id": "t437",
+    "term": "Bioactive compounds",
+    "normalized_name": "Bioactive compounds",
+    "category": "MISC",
+    "synonyms": "生物活性化合物",
+    "audio_file": "term_audio/t437/t437.mp3"
+  },
+  {
+    "id": 438,
+    "term_id": "t438",
+    "term": "Bioavailability",
+    "normalized_name": "Bioavailability",
+    "category": "MISC",
+    "synonyms": "生物利用度"
+  },
+  {
+    "id": 439,
+    "term_id": "t439",
+    "term": "Bioaccessibility",
+    "normalized_name": "Bioaccessibility",
+    "category": "MISC",
+    "synonyms": "生物可及性"
+  },
+  {
+    "id": 440,
+    "term_id": "t440",
+    "term": "Antioxidants",
+    "normalized_name": "Antioxidants",
+    "category": "MISC",
+    "synonyms": "抗氧化剂"
+  },
+  {
+    "id": 441,
+    "term_id": "t441",
+    "term": "Pro-oxidants",
+    "normalized_name": "Pro-oxidants",
+    "category": "MISC",
+    "synonyms": "促氧化剂",
+    "audio_file": "term_audio/t441/t441.mp3"
+  },
+  {
+    "id": 442,
+    "term_id": "t442",
+    "term": "Free radicals",
+    "normalized_name": "Free radicals",
+    "category": "MISC",
+    "synonyms": "自由基",
+    "audio_file": "term_audio/t442/t442.mp3"
+  },
+  {
+    "id": 443,
+    "term_id": "t443",
+    "term": "Reactive oxygen species",
+    "normalized_name": "Reactive oxygen species",
+    "category": "MISC",
+    "synonyms": "活性氧",
+    "audio_file": "term_audio/t443/t443.mp3"
+  },
+  {
+    "id": 444,
+    "term_id": "t444",
+    "term": "Phytoalexins",
+    "normalized_name": "Phytoalexins",
+    "category": "MISC",
+    "synonyms": "植物抗毒素"
+  },
+  {
+    "id": 445,
+    "term_id": "t445",
+    "term": "Antioxidant defense system",
+    "normalized_name": "Antioxidant defense system",
+    "category": "MISC",
+    "synonyms": "抗氧化防御系统",
+    "audio_file": "term_audio/t445/t445.mp3"
+  },
+  {
+    "id": 446,
+    "term_id": "t446",
+    "term": "Innate immunity",
+    "normalized_name": "Innate immunity",
+    "category": "MISC",
+    "synonyms": "先天免疫",
+    "audio_file": "term_audio/t446/t446.mp3"
+  },
+  {
+    "id": 447,
+    "term_id": "t447",
+    "term": "Chemoprevention",
+    "normalized_name": "Chemoprevention",
+    "category": "MISC",
+    "synonyms": "化学预防"
+  },
+  {
+    "id": 448,
+    "term_id": "t448",
+    "term": "Pharmacokinetics",
+    "normalized_name": "Pharmacokinetics",
+    "category": "MISC",
+    "synonyms": "药代动力学"
+  },
+  {
+    "id": 449,
+    "term_id": "t449",
+    "term": "Pharmacodynamics",
+    "normalized_name": "Pharmacodynamics",
+    "category": "MISC",
+    "synonyms": "药效学"
+  },
+  {
+    "id": 450,
+    "term_id": "t450",
+    "term": "Pharmacovigilance",
+    "normalized_name": "Pharmacovigilance",
+    "category": "MISC",
+    "synonyms": "药物警戒"
+  },
+  {
+    "id": 451,
+    "term_id": "t451",
+    "term": "Cosmeceutical",
+    "normalized_name": "Cosmeceutical",
+    "category": "MISC",
+    "synonyms": "药妆品"
+  },
+  {
+    "id": 452,
+    "term_id": "t452",
+    "term": "Emollient",
+    "normalized_name": "Emollient",
+    "category": "MISC",
+    "synonyms": "润肤剂"
+  },
+  {
+    "id": 453,
+    "term_id": "t453",
+    "term": "Photostabilizer",
+    "normalized_name": "Photostabilizer",
+    "category": "MISC",
+    "synonyms": "光稳定剂"
+  },
+  {
+    "id": 454,
+    "term_id": "t454",
+    "term": "Clinical trial",
+    "normalized_name": "Clinical trial",
+    "category": "MISC",
+    "synonyms": "临床试验",
+    "audio_file": "term_audio/t454/t454.mp3"
+  },
+  {
+    "id": 455,
+    "term_id": "t455",
+    "term": "Randomized controlled trial",
+    "normalized_name": "Randomized controlled trial",
+    "category": "MISC",
+    "synonyms": "随机对照试验",
+    "audio_file": "term_audio/t455/t455.mp3"
+  },
+  {
+    "id": 456,
+    "term_id": "t456",
+    "term": "Double-blind study",
+    "normalized_name": "Double-blind study",
+    "category": "MISC",
+    "synonyms": "双盲研究",
+    "audio_file": "term_audio/t456/t456.mp3"
+  },
+  {
+    "id": 457,
+    "term_id": "t457",
+    "term": "Placebo-controlled study",
+    "normalized_name": "Placebo-controlled study",
+    "category": "MISC",
+    "synonyms": "安慰剂对照研究",
+    "audio_file": "term_audio/t457/t457.mp3"
+  },
+  {
+    "id": 458,
+    "term_id": "t458",
+    "term": "Crossover study",
+    "normalized_name": "Crossover study",
+    "category": "MISC",
+    "synonyms": "交叉研究",
+    "audio_file": "term_audio/t458/t458.mp3"
+  },
+  {
+    "id": 459,
+    "term_id": "t459",
+    "term": "In vivo",
+    "normalized_name": "In vivo",
+    "category": "MISC",
+    "synonyms": "体内",
+    "audio_file": "term_audio/t459/t459.mp3"
+  },
+  {
+    "id": 460,
+    "term_id": "t460",
+    "term": "In vitro",
+    "normalized_name": "In vitro",
+    "category": "MISC",
+    "synonyms": "体外",
+    "audio_file": "term_audio/t460/t460.mp3"
+  },
+  {
+    "id": 461,
+    "term_id": "t461",
+    "term": "Ex vivo",
+    "normalized_name": "Ex vivo",
+    "category": "MISC",
+    "synonyms": "离体",
+    "audio_file": "term_audio/t461/t461.mp3"
+  },
+  {
+    "id": 462,
+    "term_id": "t462",
+    "term": "Preclinical study",
+    "normalized_name": "Preclinical study",
+    "category": "MISC",
+    "synonyms": "临床前研究",
+    "audio_file": "term_audio/t462/t462.mp3"
+  },
+  {
+    "id": 463,
+    "term_id": "t463",
+    "term": "Xenograft model",
+    "normalized_name": "Xenograft model",
+    "category": "MISC",
+    "synonyms": "异种移植模型",
+    "audio_file": "term_audio/t463/t463.mp3"
+  },
+  {
+    "id": 464,
+    "term_id": "t464",
+    "term": "Syngeneic model",
+    "normalized_name": "Syngeneic model",
+    "category": "MISC",
+    "synonyms": "同基因模型",
+    "audio_file": "term_audio/t464/t464.mp3"
+  },
+  {
+    "id": 465,
+    "term_id": "t465",
+    "term": "Animal model",
+    "normalized_name": "Animal model",
+    "category": "MISC",
+    "synonyms": "动物模型",
+    "audio_file": "term_audio/t465/t465.mp3"
+  },
+  {
+    "id": 466,
+    "term_id": "t466",
+    "term": "Cell culture",
+    "normalized_name": "Cell culture",
+    "category": "MISC",
+    "synonyms": "细胞培养",
+    "audio_file": "term_audio/t466/t466.mp3"
+  },
+  {
+    "id": 467,
+    "term_id": "t467",
+    "term": "Biomarkers",
+    "normalized_name": "Biomarkers",
+    "category": "MISC",
+    "synonyms": "生物标志物"
+  },
+  {
+    "id": 468,
+    "term_id": "t468",
+    "term": "Inflammatory markers",
+    "normalized_name": "Inflammatory markers",
+    "category": "MISC",
+    "synonyms": "炎症标志物",
+    "audio_file": "term_audio/t468/t468.mp3"
+  },
+  {
+    "id": 469,
+    "term_id": "t469",
+    "term": "Oxidative markers",
+    "normalized_name": "Oxidative markers",
+    "category": "MISC",
+    "synonyms": "氧化标志物",
+    "audio_file": "term_audio/t469/t469.mp3"
+  },
+  {
+    "id": 470,
+    "term_id": "t470",
+    "term": "Extracellular matrix",
+    "normalized_name": "Extracellular matrix",
+    "category": "MISC",
+    "synonyms": "细胞外基质",
+    "audio_file": "term_audio/t470/t470.mp3"
+  },
+  {
+    "id": 471,
+    "term_id": "t471",
+    "term": "Tumor microenvironment",
+    "normalized_name": "Tumor microenvironment",
+    "category": "MISC",
+    "synonyms": "肿瘤微环境",
+    "audio_file": "term_audio/t471/t471.mp3"
+  },
+  {
+    "id": 472,
+    "term_id": "t472",
+    "term": "Skin barrier function",
+    "normalized_name": "Skin barrier function",
+    "category": "MISC",
+    "synonyms": "皮肤屏障功能",
+    "audio_file": "term_audio/t472/t472.mp3"
+  },
+  {
+    "id": 473,
+    "term_id": "t473",
+    "term": "Skin pigmentation",
+    "normalized_name": "Skin pigmentation",
+    "category": "MISC",
+    "synonyms": "皮肤色素沉着",
+    "audio_file": "term_audio/t473/t473.mp3"
+  },
+  {
+    "id": 474,
+    "term_id": "t474",
+    "term": "Skin rejuvenation",
+    "normalized_name": "Skin rejuvenation",
+    "category": "MISC",
+    "synonyms": "皮肤再生",
+    "audio_file": "term_audio/t474/t474.mp3"
+  },
+  {
+    "id": 475,
+    "term_id": "t475",
+    "term": "Skin photoprotection",
+    "normalized_name": "Skin photoprotection",
+    "category": "MISC",
+    "synonyms": "皮肤光保护",
+    "audio_file": "term_audio/t475/t475.mp3"
+  },
+  {
+    "id": 476,
+    "term_id": "t476",
+    "term": "Collagen homeostasis",
+    "normalized_name": "Collagen homeostasis",
+    "category": "MISC",
+    "synonyms": "胶原蛋白稳态",
+    "audio_file": "term_audio/t476/t476.mp3"
+  },
+  {
+    "id": 477,
+    "term_id": "t477",
+    "term": "Zero-waste",
+    "normalized_name": "Zero-waste",
+    "category": "MISC",
+    "synonyms": "零浪费",
+    "audio_file": "term_audio/t477/t477.mp3"
+  },
+  {
+    "id": 478,
+    "term_id": "t478",
+    "term": "Synergistic effect",
+    "normalized_name": "Synergistic effect",
+    "category": "MISC",
+    "synonyms": "协同效应",
+    "audio_file": "term_audio/t478/t478.mp3"
+  }
+]

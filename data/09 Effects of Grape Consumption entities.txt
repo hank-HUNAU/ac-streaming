@@ -1,0 +1,213 @@
+category,term,normalized_name,synonyms
+CHEMICAL,Metabolomics,Metabolomics,代谢组学
+CHEMICAL,Metabolome,Metabolome,代谢组
+CHEMICAL,Metabolites,Metabolites,代谢产物
+CHEMICAL,Biomarkers,Biomarkers,生物标志物
+CHEMICAL,Organic acids,Organic acids,有机酸
+CHEMICAL,Amino acids,Amino acids,氨基酸
+CHEMICAL,Lipids,Lipids,脂质
+CHEMICAL,Sugars,Sugars,糖类
+CHEMICAL,Short peptides,Short peptides,短肽
+CHEMICAL,Phenolic acids,Phenolic acids,酚酸
+CHEMICAL,4-Hydroxybenzoic acid,4-Hydroxybenzoic acid,4-羟基苯甲酸
+CHEMICAL,Dihydroferulic acid,Dihydroferulic acid,二氢阿魏酸
+CHEMICAL,Syringic acid,Syringic acid,丁香酸
+CHEMICAL,3-Hydroxyhippuric acid,3-Hydroxyhippuric acid,3-羟基马尿酸
+CHEMICAL,4-Hydroxyhippuric acid,4-Hydroxyhippuric acid,4-羟基马尿酸
+CHEMICAL,4-Hydroxymandelic acid,4-Hydroxymandelic acid,4-羟基扁桃酸
+CHEMICAL,3-Hydroxyphenylacetic acid,3-Hydroxyphenylacetic acid,3-羟基苯乙酸
+CHEMICAL,Pyrogallol,Pyrogallol,焦性没食子酸
+CHEMICAL,4-Hydroxyphenylacetic acid,4-Hydroxyphenylacetic acid,4-羟基苯乙酸
+CHEMICAL,Isovanillic acid,Isovanillic acid,异香草酸
+CHEMICAL,3-Hydroxyphenylpropionic acid,3-Hydroxyphenylpropionic acid,3-羟基苯丙酸
+CHEMICAL,Homovanillic acid,Homovanillic acid,高香草酸
+CHEMICAL,3-(3-Hydroxyphenyl)-3-hydroxypropionic acid,3-(3-Hydroxyphenyl)-3-hydroxypropionic acid,3-(3-羟基苯基)-3-羟基丙酸
+CHEMICAL,Vanillylmandelic acid,Vanillylmandelic acid,香草扁桃酸
+CHEMICAL,3,4-Dihydroxyphenylpropionic acid,3,4-Dihydroxyphenylpropionic acid,3,4-二羟基苯丙酸
+CHEMICAL,Ferulic acid,Ferulic acid,阿魏酸
+CHEMICAL,Vanillic acid,Vanillic acid,香草酸
+CHEMICAL,Hippuric acid,Hippuric acid,马尿酸
+CHEMICAL,Tartaric acid,Tartaric acid,酒石酸
+CHEMICAL,Catechol,Catechol,儿茶酚
+CHEMICAL,Indole-3-lactic acid,Indole-3-lactic acid,吲哚-3-乳酸
+CHEMICAL,Glucose-1-phosphate,Glucose-1-phosphate,葡萄糖-1-磷酸
+CHEMICAL,1-Methylhistidine,1-Methylhistidine,1-甲基组氨酸
+CHEMICAL,p-Cresol sulfate,p-Cresol sulfate,对甲酚硫酸酯
+CHEMICAL,3,4-Dihydroxyphenylglycol,3,4-Dihydroxyphenylglycol,3,4-二羟基苯乙二醇
+CHEMICAL,3-Indoxylsulfuric acid,3-Indoxylsulfuric acid,3-吲哚氧基硫酸
+CHEMICAL,2'-Deoxyribonic acid,2'-Deoxyribonic acid,2'-脱氧核糖酸
+CHEMICAL,Glutaconic acid,Glutaconic acid,戊烯二酸
+CHEMICAL,3-Indoleacetic acid,3-Indoleacetic acid,3-吲哚乙酸
+CHEMICAL,Valine,Valine,缬氨酸
+CHEMICAL,Ribose,Ribose,核糖
+CHEMICAL,2,3-Dihydroxybutanoic acid,2,3-Dihydroxybutanoic acid,2,3-二羟基丁酸
+CHEMICAL,Galactose,Galactose,半乳糖
+CHEMICAL,Glucose,Glucose,葡萄糖
+CHEMICAL,Carbamic acid,Carbamic acid,氨基甲酸
+CHEMICAL,Malonic acid,Malonic acid,丙二酸
+CHEMICAL,Levoglucosan,Levoglucosan,左旋葡聚糖
+CHEMICAL,Gluconic acid,Gluconic acid,葡萄糖酸
+CHEMICAL,myo-Inositol,myo-Inositol,肌醇
+CHEMICAL,Glyceric acid,Glyceric acid,甘油酸
+CHEMICAL,Glycolic acid,Glycolic acid,乙醇酸
+CHEMICAL,5-Hydroxyindole,5-Hydroxyindole,5-羟基吲哚
+CHEMICAL,scyllo-Inositol,scyllo-Inositol,肌醇
+CHEMICAL,Mannitol,Mannitol,甘露醇
+CHEMICAL,Xylitol,Xylitol,木糖醇
+CHEMICAL,Sphingomyelin,Sphingomyelin,鞘磷脂
+CHEMICAL,Dehydroepiandrosterone sulfate,Dehydroepiandrosterone sulfate,硫酸脱氢表雄酮
+CHEMICAL,Threonine,Threonine,苏氨酸
+CHEMICAL,Lysine,Lysine,赖氨酸
+CHEMICAL,Tyrosine,Tyrosine,酪氨酸
+CHEMICAL,Stearic acid,Stearic acid,硬脂酸
+CHEMICAL,β-D-Glucuronic acid,Beta-D-glucuronic acid,β-D-葡萄糖醛酸
+CHEMICAL,Leucine,Leucine,亮氨酸
+CHEMICAL,Isoleucine,Isoleucine,异亮氨酸
+CHEMICAL,Alanine,Alanine,丙氨酸
+CHEMICAL,Proline,Proline,脯氨酸
+CHEMICAL,α-Keto-β-methylvalerate,Alpha-keto-beta-methylvalerate,α-酮-β-甲基戊酸
+CHEMICAL,β-Hydroxybutyrate,Beta-hydroxybutyrate,β-羟基丁酸
+CHEMICAL,Resveratrol,Resveratrol,白藜芦醇
+CHEMICAL,Isorhamnetin,Isorhamnetin,异鼠李素
+CHEMICAL,Quercetin,Quercetin,槲皮素
+CHEMICAL,Flavonoids,Flavonoids,类黄酮
+CHEMICAL,Polyphenols,Polyphenols,多酚
+CHEMICAL,Proanthocyanidins,Proanthocyanidins,原花青素
+CHEMICAL,Gallic acid,Gallic acid,没食子酸
+CHEMICAL,3,4-Dihydroxyphenylacetic acid,3,4-Dihydroxyphenylacetic acid,3,4-二羟基苯乙酸
+CHEMICAL,3,4-Dihydroxyphenylpropanoic acid,3,4-Dihydroxyphenylpropanoic acid,3,4-二羟基苯丙酸
+CHEMICAL,Epigallocatechin,Epigallocatechin,表没食子儿茶素
+CHEMICAL,Enterolactone,Enterolactone,肠内酯
+CHEMICAL,Gallic ethyl ester,Gallic ethyl ester,没食子酸乙酯
+CHEMICAL,Protocatechuic acid,Protocatechuic acid,原儿茶酸
+CHEMICAL,Catechin,Catechin,儿茶素
+CHEMICAL,3,5-Dihydroxyphenylpropionic acid,3,5-Dihydroxyphenylpropionic acid,3,5-二羟基苯丙酸
+CHEMICAL,Lysophosphatidylcholine,Lysophosphatidylcholine,溶血磷脂酰胆碱
+CHEMICAL,2′-Deoxyribonolactone,2′-Deoxyribonolactone,2′-脱氧核糖酸内酯
+CHEMICAL,2′-Deoxyribose,2′-Deoxyribose,2′-脱氧核糖
+CHEMICAL,Abasic sites,Abasic sites,无碱基位点
+CHEMICAL,DNA repair,DNA repair,DNA修复
+CHEMICAL,Glutamate,Glutamate,谷氨酸
+PROTEIN_GENE,β-Glucuronidase,Beta-glucuronidase,β-葡萄糖醛酸酶
+PROTEIN_GENE,Gut microbiota enzymes,Gut microbiota enzymes,肠道菌群酶
+DISEASE,Cardiovascular disease,Cardiovascular disease,心血管疾病
+DISEASE,Type 2 diabetes,Type 2 diabetes,2型糖尿病
+DISEASE,Obesity,Obesity,肥胖
+DISEASE,Metabolic syndrome,Metabolic syndrome,代谢综合征
+DISEASE,Inflammation,Inflammation,炎症
+DISEASE,Oxidative stress,Oxidative stress,氧化应激
+PATHWAY,Tyrosine metabolism,Tyrosine metabolism,酪氨酸代谢
+PATHWAY,Glutamate metabolism,Glutamate metabolism,谷氨酸代谢
+SPECIES,Clostridium symbiosum,Clostridium symbiosum,共生梭菌
+SPECIES,Parabacteroides,Parabacteroides,副拟杆菌属
+SPECIES,Clostridia,Clostridia,梭菌纲
+SPECIES,Klebsiella pneumoniae,Klebsiella pneumoniae,肺炎克雷伯菌
+SPECIES,C57BL/6J,C57BL/6J mouse,C57BL/6J小鼠
+SPECIES,Mus musculus,Mus musculus,小鼠
+SPECIES,Homo sapiens,Homo sapiens,人类
+ANATOMY,Urine,Urine,尿液
+ANATOMY,Plasma,Plasma,血浆
+ANATOMY,Serum,Serum,血清
+ANATOMY,Liver,Liver,肝脏
+ANATOMY,Kidney,Kidney,肾脏
+ANATOMY,Gut,Gut,肠道
+ANATOMY,Small intestine,Small intestine,小肠
+ANATOMY,Colon,Colon,结肠
+ANATOMY,Blood,Blood,血液
+ANATOMY,Tissues,Tissues,组织
+ANATOMY,Cells,Cells,细胞
+PHENOMENA,Metabolomics,Metabolomics,代谢组学
+PHENOMENA,Lipidomics,Lipidomics,脂质组学
+PHENOMENA,Metabolism,Metabolism,代谢
+PHENOMENA,Deconjugation,Deconjugation,去结合
+PHENOMENA,Derivatization,Derivatization,衍生化
+PHENOMENA,Hydrolysis,Hydrolysis,水解
+PHENOMENA,Glucuronidation,Glucuronidation,葡萄糖醛酸化
+PHENOMENA,Sulfation,Sulfation,硫酸化
+PHENOMENA,Oxidation,Oxidation,氧化
+PHENOMENA,Microbial metabolism,Microbial metabolism,微生物代谢
+PHENOMENA,DNA repair,DNA repair,DNA修复
+PHENOMENA,Gut microbial metabolism,Gut microbial metabolism,肠道微生物代谢
+PHENOMENA,First-pass metabolism,First-pass metabolism,首过代谢
+PHENOMENA,Energy metabolism,Energy metabolism,能量代谢
+PHENOMENA,Glucose utilization,Glucose utilization,葡萄糖利用
+PHENOMENA,Antioxidant effect,Antioxidant effect,抗氧化效应
+PHENOMENA,Caloric excess,Caloric excess,热量过剩
+PHENOMENA,Catabolism,Catabolism,分解代谢
+INTERVENTION,Grape,Grape,葡萄
+INTERVENTION,Table grape,Table grape,鲜食葡萄
+INTERVENTION,Whole grape,Whole grape,全葡萄
+INTERVENTION,Freeze-dried grape powder,Freeze-dried grape powder,冷冻干燥葡萄粉
+INTERVENTION,Grape powder,Grape powder,葡萄粉
+INTERVENTION,Grape extract,Grape extract,葡萄提取物
+INTERVENTION,Red wine extract,Red wine extract,红葡萄酒提取物
+INTERVENTION,Grape juice extract,Grape juice extract,葡萄汁提取物
+INTERVENTION,Red wine,Red wine,红葡萄酒
+INTERVENTION,Grape juice,Grape juice,葡萄汁
+INTERVENTION,Red grape polyphenol extract,Red grape polyphenol extract,红葡萄多酚提取物
+INTERVENTION,Grape polyphenol extract,Grape polyphenol extract,葡萄多酚提取物
+INTERVENTION,Placebo,Placebo,安慰剂
+INTERVENTION,High-fat diet,High-fat diet,高脂饮食
+INTERVENTION,Standard diet,Standard diet,标准饮食
+INTERVENTION,Western diet,Western diet,西方饮食
+MEASUREMENT,GC-MS,Gas chromatography-mass spectrometry,气相色谱-质谱联用
+MEASUREMENT,LC-MS,Liquid chromatography-mass spectrometry,液相色谱-质谱联用
+MEASUREMENT,NMR,Nuclear magnetic resonance,核磁共振
+MEASUREMENT,Folin-Ciocalteu assay,Folin-Ciocalteu assay,Folin-Ciocalteu测定
+MEASUREMENT,Targeted metabolomics,Targeted metabolomics,靶向代谢组学
+MEASUREMENT,Untargeted metabolomics,Untargeted metabolomics,非靶向代谢组学
+MEASUREMENT,Semi-quantitative analysis,Semi-quantitative analysis,半定量分析
+MEASUREMENT,24-hour urine collection,24-hour urine collection,24小时尿液收集
+MEASUREMENT,Randomized controlled trial,Randomized controlled trial,随机对照试验
+MEASUREMENT,Placebo-controlled study,Placebo-controlled study,安慰剂对照研究
+MEASUREMENT,Crossover study,Crossover study,交叉研究
+MEASUREMENT,Double-blind study,Double-blind study,双盲研究
+MEASUREMENT,Bioavailability,Bioavailability,生物利用度
+MEASUREMENT,Pharmacokinetics,Pharmacokinetics,药代动力学
+MEASUREMENT,Biomarker,Biomarker,生物标志物
+MEASUREMENT,Minimal Erythema Dose,Minimal Erythema Dose,最小红斑剂量
+MEASUREMENT,Serum lipids,Serum lipids,血清脂质
+MEASUREMENT,Plasma amino acids,Plasma amino acids,血浆氨基酸
+MEASUREMENT,Branched chain amino acids,Branched chain amino acids,支链氨基酸
+MEASUREMENT,Ketone bodies,Ketone bodies,酮体
+MEASUREMENT,Sphingomyelin,Sphingomyelin,鞘磷脂
+MEASUREMENT,Lysophosphatidylcholine,Lysophosphatidylcholine,溶血磷脂酰胆碱
+MEASUREMENT,Dehydroepiandrosterone sulfate,Dehydroepiandrosterone sulfate,硫酸脱氢表雄酮
+MEASUREMENT,Total cholesterol,Total cholesterol,总胆固醇
+MEASUREMENT,LDL cholesterol,LDL cholesterol,LDL胆固醇
+MEASUREMENT,HDL cholesterol,HDL cholesterol,HDL胆固醇
+MEASUREMENT,Triglycerides,Triglycerides,甘油三酯
+MEASUREMENT,Fasting glucose,Fasting glucose,空腹血糖
+MEASUREMENT,Blood pressure,Blood pressure,血压
+MISC,Metabolomics,Metabolomics,代谢组学
+MISC,Lipidomics,Lipidomics,脂质组学
+MISC,Genomics,Genomics,基因组学
+MISC,Proteomics,Proteomics,蛋白质组学
+MISC,Transcriptomics,Transcriptomics,转录组学
+MISC,Nutrigenomics,Nutrigenomics,营养基因组学
+MISC,Microbiome,Microbiome,微生物组
+MISC,Gut microbiome,Gut microbiome,肠道微生物组
+MISC,Gut metabolome,Gut metabolome,肠道代谢组
+MISC,Metabolite profile,Metabolite profile,代谢物谱
+MISC,Mass spectrometry,Mass spectrometry,质谱
+MISC,Enzymatic deconjugation,Enzymatic deconjugation,酶法去结合
+MISC,Chemical derivatization,Chemical derivatization,化学衍生化
+MISC,Carryover effect,Carryover effect,残留效应
+MISC,Washout period,Washout period,洗脱期
+MISC,Intervention,Intervention,干预
+MISC,Exposome,Exposome,暴露组
+MISC,Endogenous compounds,Endogenous compounds,内源性化合物
+MISC,Exogenous compounds,Exogenous compounds,外源性化合物
+MISC,Primary metabolism,Primary metabolism,初级代谢
+MISC,Secondary metabolism,Secondary metabolism,次级代谢
+MISC,Bioactive compounds,Bioactive compounds,生物活性化合物
+MISC,Clinical trial,Clinical trial,临床试验
+MISC,Preclinical study,Preclinical study,临床前研究
+MISC,In vivo,In vivo,体内
+MISC,In vitro,In vitro,体外
+MISC,Disease progression,Disease progression,疾病进展
+MISC,Disease remission,Disease remission,疾病缓解
+MISC,Healthspan,Healthspan,健康寿命
+MISC,Therapeutic intervention,Therapeutic intervention,治疗干预
+MISC,Dietary intervention,Dietary intervention,膳食干预
+MISC,Species differences,Species differences,物种差异

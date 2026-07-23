@@ -1,0 +1,208 @@
+{
+  "id": "11_grapes_and_grape",
+  "title": "Grapes and Grape Phytochemicals. Grapes, Vitis vinifera, are a significant source of pharmacologically active components that have a broad spectrum of bioactivities. Seeds, leaves, fruits, and other parts of grapes are used in herbal medicine and as a dietary supplement. Evidence suggests that grapes can protect the skin from ultraviolet damage, revitalize the skin, and improve skin elasticity. These effects stem from the variety of chemical constituents present in grapes. These include a wide range of vitamins, sugars, lipids, and polyphenols such as phenolic acids, flavonoids, carotenoids, anthocyanins, proanthocyanidins, hydroxycinnamic acid derivatives, and stilbenes. Phytochemicals including ascorbic acid, tocopherols, tocotrienols, flavan-3-ols, resveratrol, proanthocyanidins, fatty acids, and phytosterols are mostly present in the skin and seeds of grapes. The flesh contains only trace amounts of anthocyanins and other phenolic compounds. Important grape constituents are described below.",
+  "sentences": [
+    {
+      "text": "Grapes and Grape Phytochemicals.",
+      "start": 0.1,
+      "end": 2.0,
+      "word_count": 4
+    },
+    {
+      "text": "Grapes, Vitis vinifera, are a significant source of pharmacologically active components that have a broad spectrum of bioactivities.",
+      "start": 2.862,
+      "end": 10.55,
+      "word_count": 18
+    },
+    {
+      "text": "Seeds, leaves, fruits, and other parts of grapes are used in herbal medicine and as a dietary supplement.",
+      "start": 11.412,
+      "end": 17.688,
+      "word_count": 18
+    },
+    {
+      "text": "Evidence suggests that grapes can protect the skin from ultraviolet damage, revitalize the skin, and improve skin elasticity.",
+      "start": 18.55,
+      "end": 26.125,
+      "word_count": 18
+    },
+    {
+      "text": "These effects stem from the variety of chemical constituents present in grapes.",
+      "start": 26.988,
+      "end": 31.312,
+      "word_count": 12
+    },
+    {
+      "text": "These include a wide range of vitamins, sugars, lipids, and polyphenols such as phenolic acids, flavonoids, carotenoids, anthocyanins, proanthocyanidins, hydroxycinnamic acid derivatives, and stilbenes.",
+      "start": 32.175,
+      "end": 46.225,
+      "word_count": 24
+    },
+    {
+      "text": "Phytochemicals including ascorbic acid, tocopherols, tocotrienols, flavan-3-ols, resveratrol, proanthocyanidins, fatty acids, and phytosterols are mostly present in the skin and seeds of grapes.",
+      "start": 47.1,
+      "end": 60.675,
+      "word_count": 23
+    },
+    {
+      "text": "The flesh contains only trace amounts of anthocyanins and other phenolic compounds.",
+      "start": 61.538,
+      "end": 66.35,
+      "word_count": 12
+    },
+    {
+      "text": "Important grape constituents are described below.",
+      "start": 67.225,
+      "end": 69.95,
+      "word_count": 6
+    },
+    {
+      "text": "Phenolic Acids.",
+      "start": 70.825,
+      "end": 72.013,
+      "word_count": 2
+    },
+    {
+      "text": "Grapes contain a plethora of phenolic compounds including hydroxybenzoic or hydroxycinnamic acids either in free form or as condensed tannins or conjugated with sugars and anthocyanins.",
+      "start": 72.875,
+      "end": 84.125,
+      "word_count": 26
+    },
+    {
+      "text": "The major hydroxycinnamic acids in grapes are coumaric acid, sinapic acid, chlorogenic acid, caffeic acid, and ferulic acid.",
+      "start": 85.0,
+      "end": 93.7,
+      "word_count": 18
+    },
+    {
+      "text": "Vanillic acid, syringic acid, gallic acid, gentisic acid, ellagic acid, and protocatechuic acid are the hydroxybenzoic acids present in the grapes.",
+      "start": 94.562,
+      "end": 104.85,
+      "word_count": 21
+    },
+    {
+      "text": "Flavonoids.",
+      "start": 105.713,
+      "end": 106.675,
+      "word_count": 1
+    },
+    {
+      "text": "Flavonoids are essential components of grapes that protect the plants against biotic and abiotic stresses.",
+      "start": 107.525,
+      "end": 113.388,
+      "word_count": 15
+    },
+    {
+      "text": "Red grapes have a larger concentration of flavonoids than other types of grapes.",
+      "start": 114.263,
+      "end": 118.575,
+      "word_count": 13
+    },
+    {
+      "text": "The flavonols, anthocyanins, flavan-3-ols derivatives of flavonoids, tannins, and pigments are concentrated in the outer layer of the grape skin.",
+      "start": 119.438,
+      "end": 128.512,
+      "word_count": 20
+    },
+    {
+      "text": "The seeds contain tannins, flavan-3-ol derivatives, and flavan-3-ol oligomers such as procyanidins.",
+      "start": 129.387,
+      "end": 136.25,
+      "word_count": 12
+    },
+    {
+      "text": "Tannins and proanthocyanidins are also abundant in grapes.",
+      "start": 137.113,
+      "end": 140.7,
+      "word_count": 8
+    },
+    {
+      "text": "Anthocyanins.",
+      "start": 141.562,
+      "end": 142.675,
+      "word_count": 1
+    },
+    {
+      "text": "Anthocyanins are glycosides and acyl glycosides of anthocyanidins.",
+      "start": 143.525,
+      "end": 148.0,
+      "word_count": 8
+    },
+    {
+      "text": "These are the natural pigments responsible for the red, blue, purple, orange, green, and pink colors of grapes.",
+      "start": 148.863,
+      "end": 155.637,
+      "word_count": 18
+    },
+    {
+      "text": "The darker color of grapes is associated with higher contents of anthocyanins present in the grape skin.",
+      "start": 156.5,
+      "end": 162.062,
+      "word_count": 17
+    },
+    {
+      "text": "The major anthocyanidins found in grapes are pelargonidin, cyanidin, delphinidin, petunidin, peonidin, and malvidin.",
+      "start": 162.938,
+      "end": 170.525,
+      "word_count": 14
+    },
+    {
+      "text": "Proanthocyanidins.",
+      "start": 171.387,
+      "end": 172.762,
+      "word_count": 1
+    },
+    {
+      "text": "Grape seeds are a rich source of proanthocyanidins, which are polyhydroxyflavan oligomers or polymers.",
+      "start": 173.613,
+      "end": 179.8,
+      "word_count": 14
+    },
+    {
+      "text": "These compounds primarily consist of catechin, epicatechin, epicatechin 3-gallate, epigallocatechin, and trace amounts of gallocatechin.",
+      "start": 180.675,
+      "end": 189.25,
+      "word_count": 15
+    },
+    {
+      "text": "The levels of catechin and epicatechin are higher in the dark colored grapes, and they play a key role in influencing the astringency, color stability, and bitterness of grapes.",
+      "start": 190.125,
+      "end": 200.162,
+      "word_count": 29
+    },
+    {
+      "text": "Stilbenes.",
+      "start": 201.025,
+      "end": 201.963,
+      "word_count": 1
+    },
+    {
+      "text": "Stilbenes are the phytoalexins naturally found in some edible plants, including grapes.",
+      "start": 202.825,
+      "end": 208.075,
+      "word_count": 12
+    },
+    {
+      "text": "Distinct types of stilbenes have been identified in grapes including cis- and trans-resveratrol, resveratrol-3-O-beta-d-glucopyranoside known as piceid, resveratrol dimers known as viniferins, and piceatannol.",
+      "start": 208.95,
+      "end": 222.625,
+      "word_count": 24
+    },
+    {
+      "text": "Resveratrol is the most widely investigated stilbene in grapes that possess multiple biological activities.",
+      "start": 223.488,
+      "end": 229.838,
+      "word_count": 14
+    },
+    {
+      "text": "The presence of different phytochemicals like phenolic acids, flavonoids, proanthocyanidins, and stilbenes bestows grapes with beneficial biological properties that are further discussed in the following section.",
+      "start": 230.7,
+      "end": 242.688,
+      "word_count": 26
+    }
+  ],
+  "sentence_count": 33,
+  "word_count": 465,
+  "total_duration": 242.688,
+  "voice": "en-US-AriaNeural"
+}

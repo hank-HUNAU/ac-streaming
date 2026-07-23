@@ -1,0 +1,64 @@
+{
+  "id": "13_effects_of_grapes",
+  "title": "Effects of Grapes on Gene Expression in Male and Female Liver. In males, G O term biological process-related pathways showed enrichment of circadian rhythm, rhythmic processes, circadian behavior, and steroid metabolic process. In contrast, immune-related pathways such as adaptive immune response, granulocyte migration, positive regulation of immune response, cell activation involved in immune response, and immune response-activating signal transduction were down-regulated compared to the standard male diet. This suggests that the grape diet may regulate immune responses while promoting metabolic functions in the liver. In females, the G O term biologic process showed enrichment in immune-related pathways such as leukocyte migration, T cell proliferation, lymphocyte proliferation, mononuclear cell proliferation, leukocyte proliferation, positive regulation of T cell proliferation, together with pathways involved in metal ion homeostasis, ankyrin binding, tetrapyrrole biosynthesis and metabolism, erythrocyte development, porphyrin-containing compound metabolism, exogenous drug catabolism, and cell surface interactions at the vascular wall. These pathways are essential for maintaining liver homeostasis and highlight various mechanisms through which the grape diet enhances liver physiology.",
+  "sentences": [
+    {
+      "text": "Effects of Grapes on Gene Expression in Male and Female Liver.",
+      "start": 0.1,
+      "end": 3.6,
+      "word_count": 11
+    },
+    {
+      "text": "In males, G O term biological process-related pathways showed enrichment of circadian rhythm, rhythmic processes, circadian behavior, and steroid metabolic process.",
+      "start": 4.463,
+      "end": 15.2,
+      "word_count": 21
+    },
+    {
+      "text": "In contrast, immune-related pathways such as adaptive immune response, granulocyte migration, positive regulation of immune response, cell activation involved in immune response, and immune response-activating signal transduction were down-regulated compared to the standard male diet.",
+      "start": 16.075,
+      "end": 33.038,
+      "word_count": 35
+    },
+    {
+      "text": "This suggests that the grape diet may regulate immune responses while promoting metabolic functions in the liver.",
+      "start": 33.9,
+      "end": 39.9,
+      "word_count": 17
+    },
+    {
+      "text": "In females, the G O term biologic process showed enrichment in immune-related pathways such as leukocyte migration, T cell proliferation, lymphocyte proliferation, mononuclear cell proliferation, leukocyte proliferation, positive regulation of T cell proliferation, together with pathways involved in metal ion homeostasis, ankyrin binding, tetrapyrrole biosynthesis and metabolism, erythrocyte development, porphyrin-containing compound metabolism, exogenous drug catabolism, and cell surface interactions at the vascular wall.",
+      "start": 40.763,
+      "end": 76.25,
+      "word_count": 63
+    },
+    {
+      "text": "These pathways are essential for maintaining liver homeostasis and highlight various mechanisms through which the grape diet enhances liver physiology.",
+      "start": 77.125,
+      "end": 85.525,
+      "word_count": 20
+    },
+    {
+      "text": "A comparison of all four groups revealed that the majority of genes were expressed similarly.",
+      "start": 86.4,
+      "end": 91.312,
+      "word_count": 15
+    },
+    {
+      "text": "However, each of the four groups also demonstrated expression of genes unique to their cohort, indicating differences between males and females, with and without grape supplementation.",
+      "start": 92.188,
+      "end": 102.688,
+      "word_count": 26
+    },
+    {
+      "text": "When comparing the respective male and female groups, differential expression patterns were induced by supplementing the diet with grapes.",
+      "start": 103.562,
+      "end": 110.9,
+      "word_count": 19
+    }
+  ],
+  "sentence_count": 9,
+  "word_count": 227,
+  "total_duration": 110.9,
+  "voice": "en-US-AriaNeural"
+}

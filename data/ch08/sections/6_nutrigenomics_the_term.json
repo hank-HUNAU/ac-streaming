@@ -1,0 +1,52 @@
+{
+  "id": "6_nutrigenomics_the_term",
+  "title": "Nutrigenomics. The term nutrigenomics was first introduced publicly around the turn of the current century: \"Nutrigenomics is the understanding of the effects of nutrients in molecular level processes in the body as well as the variable effects of nutrients and nonnutritive dietary phytochemicals have on each individual person.\" Over the years, along with the science, in addition to the broad term of nutrigenomics, how nutrients affect gene expression and molecular mechanisms, the lexicon is expanding to include terms such as nutriomes, nutrient combinations; nutrigenetics, how genetic variations influence individual responses to nutrients; nutriepigenetic, nutrient effects through epigenetic modifications; and the generic term nutritional genomics has come into play. The interplay and application of nutritional genomics to human disease states is widespread, for example, cardiovascular disease, metabolic disorders, cancer, circulatory system diseases, and obesity.",
+  "sentences": [
+    {
+      "text": "Nutrigenomics.",
+      "start": 0.1,
+      "end": 1.275,
+      "word_count": 1
+    },
+    {
+      "text": "The term nutrigenomics was first introduced publicly around the turn of the current century: \"Nutrigenomics is the understanding of the effects of nutrients in molecular level processes in the body as well as the variable effects of nutrients and nonnutritive dietary phytochemicals have on each individual person.\"",
+      "start": 2.138,
+      "end": 19.2,
+      "word_count": 47
+    },
+    {
+      "text": "Over the years, along with the science, in addition to the broad term of nutrigenomics, how nutrients affect gene expression and molecular mechanisms, the lexicon is expanding to include terms such as nutriomes, nutrient combinations; nutrigenetics, how genetic variations influence individual responses to nutrients; nutriepigenetic, nutrient effects through epigenetic modifications; and the generic term nutritional genomics has come into play.",
+      "start": 20.062,
+      "end": 47.212,
+      "word_count": 60
+    },
+    {
+      "text": "The interplay and application of nutritional genomics to human disease states is widespread, for example, cardiovascular disease, metabolic disorders, cancer, circulatory system diseases, and obesity.",
+      "start": 48.087,
+      "end": 60.875,
+      "word_count": 25
+    },
+    {
+      "text": "As illustrated in this monograph and elsewhere, grapes have been investigated for potential to ameliorate a wide range of disease states.",
+      "start": 61.75,
+      "end": 69.325,
+      "word_count": 21
+    },
+    {
+      "text": "From a superficial perspective, the ability of one dietary substance to modulate such a diversity array of maladies seems unfathomable.",
+      "start": 70.188,
+      "end": 78.062,
+      "word_count": 20
+    },
+    {
+      "text": "Nonetheless, the results of the studies are reliable, and taking the broad-based omics responses mediated by grape consumption into account, a rational explanation is beginning to emerge.",
+      "start": 78.925,
+      "end": 89.825,
+      "word_count": 27
+    }
+  ],
+  "sentence_count": 7,
+  "word_count": 201,
+  "total_duration": 89.825,
+  "voice": "en-US-AriaNeural"
+}

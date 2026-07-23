@@ -1,0 +1,142 @@
+{
+  "id": "16_future_directions_until",
+  "title": "Future Directions. Until a time when human organs can readily be replaced with completely functional facsimiles, the current focus on healthspan, healthy living within lifespan, seems more reasonable than focusing on extending maximal life expectancy. Advancing precision nutrition and optimizing dietary interventions can certainly have an influence on healthspan.",
+  "sentences": [
+    {
+      "text": "Future Directions.",
+      "start": 0.1,
+      "end": 1.363,
+      "word_count": 2
+    },
+    {
+      "text": "Until a time when human organs can readily be replaced with completely functional facsimiles, the current focus on healthspan, healthy living within lifespan, seems more reasonable than focusing on extending maximal life expectancy.",
+      "start": 2.225,
+      "end": 15.775,
+      "word_count": 33
+    },
+    {
+      "text": "Advancing precision nutrition and optimizing dietary interventions can certainly have an influence on healthspan.",
+      "start": 16.65,
+      "end": 23.175,
+      "word_count": 14
+    },
+    {
+      "text": "Including grapes in the diet is already commonplace but potentially could be viewed as a dietary intervention that is broadly applicable to all age groups in the general population.",
+      "start": 24.05,
+      "end": 33.663,
+      "word_count": 29
+    },
+    {
+      "text": "If health benefits were to be proven, grape consumption may increase, but irrespective of this consideration, it is a value to know if and how grapes function.",
+      "start": 34.538,
+      "end": 43.362,
+      "word_count": 27
+    },
+    {
+      "text": "It is currently clear from clinical trials that grape consumption does have the potential of influencing human health.",
+      "start": 44.225,
+      "end": 50.312,
+      "word_count": 18
+    },
+    {
+      "text": "Since human clinical trials that measure clinical endpoints is the only way of definitively demonstrating efficacy, it would be desirable to conduct more trials with greater numbers of subjects in the future.",
+      "start": 51.175,
+      "end": 62.325,
+      "word_count": 32
+    },
+    {
+      "text": "This is certainly feasible given the safety of grape consumption and the availability of a surrogate standardized product that is fully representative of the whole food.",
+      "start": 63.188,
+      "end": 71.688,
+      "word_count": 26
+    },
+    {
+      "text": "The ability of grapes to affect such a large variety of human ailments at first seems surprising.",
+      "start": 72.55,
+      "end": 77.888,
+      "word_count": 17
+    },
+    {
+      "text": "However, given the causative commonality, for example, oxidative stress and inflammation, and the capability of the grape to mediate a nutrigenomic response, the pleiotropic responses mediated by grapes are credible.",
+      "start": 78.763,
+      "end": 91.588,
+      "word_count": 30
+    },
+    {
+      "text": "We have shown multiorgan phenotypic changes induced by grape consumption in animal models consistent with health improvements.",
+      "start": 92.45,
+      "end": 99.425,
+      "word_count": 17
+    },
+    {
+      "text": "This is especially true with brain, liver, muscle, and kidney.",
+      "start": 100.3,
+      "end": 104.25,
+      "word_count": 10
+    },
+    {
+      "text": "Differences exist between males and females.",
+      "start": 105.125,
+      "end": 107.825,
+      "word_count": 6
+    },
+    {
+      "text": "While this work is very promising, it is realized that investigating the implications that can be gleaned from interrogating over 20,000 gene transcripts is only a start.",
+      "start": 108.688,
+      "end": 118.213,
+      "word_count": 27
+    },
+    {
+      "text": "It is reasonable to assume transcriptional modification leads downstream responses, but this needs to be shown in greater detail.",
+      "start": 119.075,
+      "end": 126.388,
+      "word_count": 19
+    },
+    {
+      "text": "Further, the influence of epigenetic markers such as D N A methylation and histone modifications, and other nutrigenetic factors, remains to be explored.",
+      "start": 127.263,
+      "end": 136.887,
+      "word_count": 23
+    },
+    {
+      "text": "And even beyond this, the interrelationships with other omic outcomes that are modulated by grape consumption, for example, metabolome and microbiome, should be investigated.",
+      "start": 137.75,
+      "end": 148.05,
+      "word_count": 24
+    },
+    {
+      "text": "This is a daunting task, but not beyond the capability of contemporary science.",
+      "start": 148.912,
+      "end": 153.537,
+      "word_count": 13
+    },
+    {
+      "text": "Finally, it is important to note that work with grapes is not ethereal.",
+      "start": 154.412,
+      "end": 158.225,
+      "word_count": 13
+    },
+    {
+      "text": "We know that millions of tons of grapes are consumed by human beings every year, and we know that grapes affect the microbiome, the metabolome, and the gene expression of humans, as currently illustrated with peripheral blood mononuclear cells and skin.",
+      "start": 159.088,
+      "end": 172.95,
+      "word_count": 41
+    },
+    {
+      "text": "Although it remains to be shown, it is perfectly reasonable to expect modulation of gene expression in other tissues and organs of humans, and this will probably vary individual by individual and by sex.",
+      "start": 173.812,
+      "end": 185.688,
+      "word_count": 34
+    },
+    {
+      "text": "Not only are we learning about grape action, which may already have an ongoing yet ill-defined effect on human health, but grapes are serving as a prototype that is fueling the nutrigenomics era.",
+      "start": 186.562,
+      "end": 197.188,
+      "word_count": 33
+    }
+  ],
+  "sentence_count": 22,
+  "word_count": 488,
+  "total_duration": 197.188,
+  "voice": "en-US-AriaNeural"
+}

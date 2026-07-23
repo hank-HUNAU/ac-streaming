@@ -1,0 +1,76 @@
+{
+  "id": "8_pigmentary_skin_disorders",
+  "title": "Pigmentary Skin Disorders. Skin color and pigmentation are regulated by the melanin produced by melanocytes. There is evidence that oxidative stress in the skin has a paradoxical action on pigmentation: on one end, it can promote melanogenesis, while on the other, it can enhance depigmentation through melanocyte degeneration. For instance, among the multiple pathways, reactive oxygen species can accelerate ultraviolet-induced pigmentation by activating melanogenesis-related proteins, including C A M P-responsive element-binding protein, microphthalmia-associated transcription factor, tyrosinase, and phenylalanine hydroxylase. Moreover, the nuclear factor erythroid 2-related factor 2 signaling pathway functions to reinforce the intracellular antioxidant capacity and inhibit melanogenesis. This pathway has been found to be downregulated in patients with ultraviolet-induced skin hyperpigmentation. In addition, keratinocytes also contribute to melanogenesis, since nitric oxide derived from keratinocyte differentiation can increase the melanogenic factors such as tyrosinase and tyrosinase-related protein 1.",
+  "sentences": [
+    {
+      "text": "Pigmentary Skin Disorders.",
+      "start": 0.1,
+      "end": 1.837,
+      "word_count": 3
+    },
+    {
+      "text": "Skin color and pigmentation are regulated by the melanin produced by melanocytes.",
+      "start": 2.7,
+      "end": 7.575,
+      "word_count": 12
+    },
+    {
+      "text": "There is evidence that oxidative stress in the skin has a paradoxical action on pigmentation: on one end, it can promote melanogenesis, while on the other, it can enhance depigmentation through melanocyte degeneration.",
+      "start": 8.438,
+      "end": 20.762,
+      "word_count": 33
+    },
+    {
+      "text": "For instance, among the multiple pathways, reactive oxygen species can accelerate ultraviolet-induced pigmentation by activating melanogenesis-related proteins, including C A M P-responsive element-binding protein, microphthalmia-associated transcription factor, tyrosinase, and phenylalanine hydroxylase.",
+      "start": 21.637,
+      "end": 41.4,
+      "word_count": 31
+    },
+    {
+      "text": "Moreover, the nuclear factor erythroid 2-related factor 2 signaling pathway functions to reinforce the intracellular antioxidant capacity and inhibit melanogenesis.",
+      "start": 42.263,
+      "end": 52.788,
+      "word_count": 20
+    },
+    {
+      "text": "This pathway has been found to be downregulated in patients with ultraviolet-induced skin hyperpigmentation.",
+      "start": 53.65,
+      "end": 59.812,
+      "word_count": 14
+    },
+    {
+      "text": "In addition, keratinocytes also contribute to melanogenesis, since nitric oxide derived from keratinocyte differentiation can increase the melanogenic factors such as tyrosinase and tyrosinase-related protein 1.",
+      "start": 60.688,
+      "end": 73.875,
+      "word_count": 26
+    },
+    {
+      "text": "In contrast, melanocyte degeneration induced by oxidative stress is mainly caused by the imbalance of endogenous reactive oxygen species scavenging system.",
+      "start": 74.737,
+      "end": 84.325,
+      "word_count": 21
+    },
+    {
+      "text": "For example, the transfer of hydrogen peroxide from keratinocytes to melanocytes is thought to be one of the pathogenetic mechanisms of vitiligo.",
+      "start": 85.2,
+      "end": 93.6,
+      "word_count": 22
+    },
+    {
+      "text": "Since there are low levels of antioxidant catalase and high levels of superoxide dismutase in the skin of patients with vitiligo, this results in low activity of the reactive oxygen species scavenging system and inhibition of melanogenesis.",
+      "start": 94.463,
+      "end": 108.675,
+      "word_count": 37
+    },
+    {
+      "text": "To sum up, oxidative stress can induce skin pigmentary disorders either by increasing melanogenesis or by enhancing depigmentation.",
+      "start": 109.537,
+      "end": 117.4,
+      "word_count": 18
+    }
+  ],
+  "sentence_count": 11,
+  "word_count": 237,
+  "total_duration": 117.4,
+  "voice": "en-US-AriaNeural"
+}

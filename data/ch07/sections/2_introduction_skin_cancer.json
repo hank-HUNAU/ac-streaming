@@ -1,0 +1,82 @@
+{
+  "id": "2_introduction_skin_cancer",
+  "title": "Introduction. Skin cancer is the most common form of cancer in the United States, constituting 5 percent of all new cancer cases in 2024. The primary cause of skin cancer is exposure to ultraviolet radiation. Ultraviolet exposure promotes abnormal proliferation of cells within the epidermis due to D N A damage. If D N A damage repair mechanisms fail, the affected cells undergo malignant transformation and develop into skin cancer. Phytochemicals have gained increased attention for the prevention of ultraviolet-induced skin cancer. Diets rich in plant-derived phytochemicals have anti-inflammatory, antioxidant, and anticancer properties. Numerous studies have shown that resveratrol and other phytochemicals found in grapes provide protection against ultraviolet-induced skin cancer. Resveratrol can reduce the levels of reactive oxygen species caused by ultraviolet exposure and prevent D N A damage and subsequent malignant transformation. Resveratrol also preserves genomic stability by enhancing D N A repair mechanisms.",
+  "sentences": [
+    {
+      "text": "Introduction.",
+      "start": 0.1,
+      "end": 1.05,
+      "word_count": 1
+    },
+    {
+      "text": "Skin cancer is the most common form of cancer in the United States, constituting 5 percent of all new cancer cases in 2024.",
+      "start": 1.913,
+      "end": 11.65,
+      "word_count": 23
+    },
+    {
+      "text": "The primary cause of skin cancer is exposure to ultraviolet radiation.",
+      "start": 11.662,
+      "end": 17.525,
+      "word_count": 11
+    },
+    {
+      "text": "Ultraviolet exposure promotes abnormal proliferation of cells within the epidermis due to D N A damage.",
+      "start": 17.538,
+      "end": 23.812,
+      "word_count": 16
+    },
+    {
+      "text": "If D N A damage repair mechanisms fail, the affected cells undergo malignant transformation and develop into skin cancer.",
+      "start": 23.825,
+      "end": 32.788,
+      "word_count": 19
+    },
+    {
+      "text": "Phytochemicals have gained increased attention for the prevention of ultraviolet-induced skin cancer.",
+      "start": 32.8,
+      "end": 38.737,
+      "word_count": 12
+    },
+    {
+      "text": "Diets rich in plant-derived phytochemicals have anti-inflammatory, antioxidant, and anticancer properties.",
+      "start": 38.75,
+      "end": 46.562,
+      "word_count": 11
+    },
+    {
+      "text": "Numerous studies have shown that resveratrol and other phytochemicals found in grapes provide protection against ultraviolet-induced skin cancer.",
+      "start": 46.575,
+      "end": 55.625,
+      "word_count": 18
+    },
+    {
+      "text": "Resveratrol can reduce the levels of reactive oxygen species caused by ultraviolet exposure and prevent D N A damage and subsequent malignant transformation.",
+      "start": 55.638,
+      "end": 66.213,
+      "word_count": 23
+    },
+    {
+      "text": "Resveratrol also preserves genomic stability by enhancing D N A repair mechanisms.",
+      "start": 66.225,
+      "end": 71.812,
+      "word_count": 12
+    },
+    {
+      "text": "The broad topic of grapes and skin health is discussed in another chapter in this monograph.",
+      "start": 71.825,
+      "end": 77.725,
+      "word_count": 16
+    },
+    {
+      "text": "Here, we focus on the efficacy of grapes and the active components of grapes as chemopreventive agents against ultraviolet-induced damage in human skin.",
+      "start": 77.737,
+      "end": 85.6,
+      "word_count": 21
+    }
+  ],
+  "sentence_count": 12,
+  "word_count": 183,
+  "total_duration": 85.6,
+  "voice": "en-US-AriaNeural"
+}

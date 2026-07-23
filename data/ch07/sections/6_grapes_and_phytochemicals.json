@@ -1,0 +1,118 @@
+{
+  "id": "6_grapes_and_phytochemicals",
+  "title": "Grapes and Phytochemicals for Skin Health in Humans. Physical, mental, and social well-being are critical to maintaining human health, which are heavily influenced by diet. What you eat directly impacts your well-being. A healthy eating plan emphasizes fruits, vegetables, whole grains, fat-free or low-fat dairy products, and proteins that are low in free sugars, salt, and saturated fats. A healthy diet not only provides essential nutrients to maintain human health, but it also contains chemical components that may directly prevent chronic diseases, such as type 2 diabetes mellitus, cardiovascular disease, obesity, and cancer. Some chemical components in healthy foods may also provide photoprotection from ultraviolet B-induced D N A damage and lower the risk of skin cancer. Approximately 5 percent of F D A-approved drugs are derived from compounds isolated from natural products found in foods such as fruits, plants, vegetables, spices, etc. There are numerous chemical components within food items that may have medicinal properties and, therefore, have beneficial effects on human health.",
+  "sentences": [
+    {
+      "text": "Grapes and Phytochemicals for Skin Health in Humans.",
+      "start": 0.1,
+      "end": 3.013,
+      "word_count": 8
+    },
+    {
+      "text": "Physical, mental, and social well-being are critical to maintaining human health, which are heavily influenced by diet.",
+      "start": 3.875,
+      "end": 10.613,
+      "word_count": 17
+    },
+    {
+      "text": "What you eat directly impacts your well-being.",
+      "start": 11.475,
+      "end": 14.0,
+      "word_count": 7
+    },
+    {
+      "text": "A healthy eating plan emphasizes fruits, vegetables, whole grains, fat-free or low-fat dairy products, and proteins that are low in free sugars, salt, and saturated fats.",
+      "start": 14.875,
+      "end": 25.913,
+      "word_count": 26
+    },
+    {
+      "text": "A healthy diet not only provides essential nutrients to maintain human health, but it also contains chemical components that may directly prevent chronic diseases, such as type 2 diabetes mellitus, cardiovascular disease, obesity, and cancer.",
+      "start": 26.775,
+      "end": 41.712,
+      "word_count": 35
+    },
+    {
+      "text": "Some chemical components in healthy foods may also provide photoprotection from ultraviolet B-induced D N A damage and lower the risk of skin cancer.",
+      "start": 42.587,
+      "end": 51.337,
+      "word_count": 24
+    },
+    {
+      "text": "Approximately 5 percent of F D A-approved drugs are derived from compounds isolated from natural products found in foods such as fruits, plants, vegetables, spices, etc.",
+      "start": 52.212,
+      "end": 64.537,
+      "word_count": 26
+    },
+    {
+      "text": "There are numerous chemical components within food items that may have medicinal properties and, therefore, have beneficial effects on human health.",
+      "start": 64.55,
+      "end": 74.088,
+      "word_count": 21
+    },
+    {
+      "text": "Grapes, Vitis vinifera, have more than 1600 phytonutrients and are rich in antioxidants such as resveratrol and other polyphenolic compounds that offer protective and restorative benefits for the skin.",
+      "start": 74.25,
+      "end": 87.513,
+      "word_count": 29
+    },
+    {
+      "text": "Grape-derived compounds also help strengthen and promote hydration of the skin barrier by minimizing water loss and promoting better elasticity, protect skin cells from damage, and support even skin tone, which are important for slowing the aging process.",
+      "start": 87.525,
+      "end": 103.25,
+      "word_count": 38
+    },
+    {
+      "text": "Resveratrol is a polyphenolic compound found primarily in grape skin but also in nuts, berries, and other plants.",
+      "start": 103.263,
+      "end": 110.638,
+      "word_count": 18
+    },
+    {
+      "text": "As a phytoalexin, it is synthesized in response to ultraviolet radiation, fungal, bacterial, and viral infections, and other noxious events.",
+      "start": 110.65,
+      "end": 120.475,
+      "word_count": 20
+    },
+    {
+      "text": "It has two phenol rings connected by an ethylene.",
+      "start": 120.487,
+      "end": 124.175,
+      "word_count": 9
+    },
+    {
+      "text": "There are cis- and trans-isomers.",
+      "start": 124.188,
+      "end": 127.6,
+      "word_count": 5
+    },
+    {
+      "text": "Resveratrol protects against ultraviolet-induced D N A damage by reducing inflammation and activating repair mechanisms.",
+      "start": 127.612,
+      "end": 135.338,
+      "word_count": 15
+    },
+    {
+      "text": "It has been shown to minimize photoaging signs like discoloration and fine lines.",
+      "start": 135.35,
+      "end": 141.037,
+      "word_count": 13
+    },
+    {
+      "text": "While resveratrol is highly soluble in fat, ethanol, and polar solvents such as D M S O, it is highly insoluble in water.",
+      "start": 141.05,
+      "end": 150.15,
+      "word_count": 23
+    },
+    {
+      "text": "Therefore, in a human body, it has very low bioavailability.",
+      "start": 150.275,
+      "end": 153.412,
+      "word_count": 9
+    }
+  ],
+  "sentence_count": 18,
+  "word_count": 343,
+  "total_duration": 153.412,
+  "voice": "en-US-AriaNeural"
+}

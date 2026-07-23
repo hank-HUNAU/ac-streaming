@@ -1,0 +1,244 @@
+{
+  "id": "14_preclinical_trials_performed",
+  "title": "Preclinical Trials Performed with Resveratrol and Grapes. Resveratrol's diverse therapeutic potential has led to its exploration in a wide spectrum of applications, including cardiovascular disease, anti-inflammatory effects, cancer chemoprevention, and metabolic and anti-aging effects. Several studies have been conducted to assess the basic pharmacological properties of resveratrol including mechanism of action, absorption, distribution, metabolism, and elimination. Resveratrol's role in cancer prevention is thought to be attributed to its ability to induce apoptosis, regulate the cell cycle, and enhance D N A damage repair mechanisms. However, to date, few clinical trials have been conducted to fully validate these effects in humans. Importantly, several of the studies include trials that focus on formulation, pharmacokinetics, and combination therapies with other drugs, rather than on resveratrol alone. Additionally, these studies span all types of cancers, making it challenging to draw specific conclusions about their efficacy for any single cancer type.",
+  "sentences": [
+    {
+      "text": "Preclinical Trials Performed with Resveratrol and Grapes.",
+      "start": 0.1,
+      "end": 3.5,
+      "word_count": 7
+    },
+    {
+      "text": "Resveratrol's diverse therapeutic potential has led to its exploration in a wide spectrum of applications, including cardiovascular disease, anti-inflammatory effects, cancer chemoprevention, and metabolic and anti-aging effects.",
+      "start": 4.362,
+      "end": 18.925,
+      "word_count": 27
+    },
+    {
+      "text": "Several studies have been conducted to assess the basic pharmacological properties of resveratrol including mechanism of action, absorption, distribution, metabolism, and elimination.",
+      "start": 19.788,
+      "end": 30.875,
+      "word_count": 22
+    },
+    {
+      "text": "Resveratrol's role in cancer prevention is thought to be attributed to its ability to induce apoptosis, regulate the cell cycle, and enhance D N A damage repair mechanisms.",
+      "start": 31.75,
+      "end": 42.125,
+      "word_count": 28
+    },
+    {
+      "text": "However, to date, few clinical trials have been conducted to fully validate these effects in humans.",
+      "start": 42.987,
+      "end": 48.825,
+      "word_count": 16
+    },
+    {
+      "text": "Importantly, several of the studies include trials that focus on formulation, pharmacokinetics, and combination therapies with other drugs, rather than on resveratrol alone.",
+      "start": 49.7,
+      "end": 60.288,
+      "word_count": 23
+    },
+    {
+      "text": "Additionally, these studies span all types of cancers, making it challenging to draw specific conclusions about their efficacy for any single cancer type.",
+      "start": 61.15,
+      "end": 70.037,
+      "word_count": 23
+    },
+    {
+      "text": "Another major challenge in studying resveratrol's chemopreventive effects is the impracticality of long-term human trials.",
+      "start": 70.9,
+      "end": 77.888,
+      "word_count": 15
+    },
+    {
+      "text": "Proper evaluation would require participants to take resveratrol over extended periods, which is often not feasible due to logistical, ethical, and compliance issues.",
+      "start": 78.75,
+      "end": 88.85,
+      "word_count": 23
+    },
+    {
+      "text": "Consequently, while preclinical data are promising, translating resveratrol's chemopreventive potential into clinical practice remains limited and necessitates further rigorous research.",
+      "start": 89.725,
+      "end": 100.525,
+      "word_count": 20
+    },
+    {
+      "text": "Additionally, resveratrol has been extensively studied in metabolic disorders such as diabetes and obesity due to its regulation of insulin sensitivity, mitochondrial function, and lipid metabolism.",
+      "start": 101.388,
+      "end": 113.362,
+      "word_count": 26
+    },
+    {
+      "text": "Furthermore, its antioxidant properties and ability to promote genomic stability may contribute to its anti-aging effects, with studies exploring its impact on longevity and age-related diseases.",
+      "start": 114.237,
+      "end": 125.9,
+      "word_count": 26
+    },
+    {
+      "text": "While these areas have dominated clinical research, growing interest in resveratrol's photoprotective properties and its role in ultraviolet-induced skin damage has led to investigations into its potential applications in dermatology, particularly for skin cancer prevention and repair.",
+      "start": 126.763,
+      "end": 143.588,
+      "word_count": 37
+    },
+    {
+      "text": "Very few studies have investigated the protective effects of resveratrol and grape constituents on ultraviolet radiation-induced skin damage.",
+      "start": 144.463,
+      "end": 152.55,
+      "word_count": 18
+    },
+    {
+      "text": "Numerous studies have reported that phytochemicals, including resveratrol, are able to prevent skin cancer in animal models.",
+      "start": 153.412,
+      "end": 160.95,
+      "word_count": 17
+    },
+    {
+      "text": "However, the most common animal models rely on chemical carcinogens to promote skin cancer.",
+      "start": 161.812,
+      "end": 167.438,
+      "word_count": 14
+    },
+    {
+      "text": "This could lead to differences in the mechanism, whereby resveratrol prevents skin cancer and reduces the relevance of findings from animal studies.",
+      "start": 168.3,
+      "end": 176.375,
+      "word_count": 22
+    },
+    {
+      "text": "Using ultraviolet irradiation to induce skin cancer in mice would produce information relevant to skin cancer in humans.",
+      "start": 177.238,
+      "end": 184.3,
+      "word_count": 18
+    },
+    {
+      "text": "Resveratrol and UVB-Induced Inflammation in Neonatal Foreskin Keratinocytes.",
+      "start": 185.175,
+      "end": 190.2,
+      "word_count": 8
+    },
+    {
+      "text": "Neonatal foreskin provides a valuable model for studying drug effects on the epidermis, offering human tissue with an unaltered genetic background that closely mimics in vivo skin conditions.",
+      "start": 191.075,
+      "end": 202.037,
+      "word_count": 28
+    },
+    {
+      "text": "As a byproduct of circumcision, it presents an ethically accessible and clinically relevant system for investigating epidermal biology and therapeutic responses in human skin.",
+      "start": 202.912,
+      "end": 213.225,
+      "word_count": 24
+    },
+    {
+      "text": "Using this model, researchers investigated the protective effects of resveratrol against ultraviolet B-induced damage in neonatal foreskin-derived keratinocytes.",
+      "start": 214.088,
+      "end": 223.762,
+      "word_count": 18
+    },
+    {
+      "text": "Ultraviolet B exposure is known to activate N F-kappa B, a redox-sensitive transcription factor that plays a critical role in skin biology and is implicated in skin carcinogenesis, particularly through inflammation-promoting pathways.",
+      "start": 224.637,
+      "end": 238.925,
+      "word_count": 32
+    },
+    {
+      "text": "In their study using a normal human epidermal keratinocyte model, the researchers demonstrate that resveratrol effectively blocked ultraviolet B-mediated activation of N F-kappa B in both a dose-dependent and time-dependent manner.",
+      "start": 239.787,
+      "end": 253.075,
+      "word_count": 31
+    },
+    {
+      "text": "Furthermore, they showed that resveratrol treatment inhibits two key steps in the N F-kappa B activation pathway: the phosphorylation and degradation of I kappa B alpha and the activation of I K K alpha.",
+      "start": 253.95,
+      "end": 267.301,
+      "word_count": 34
+    },
+    {
+      "text": "These findings indicate some of the molecular bases for resveratrol's chemopreventive action in ultraviolet protection.",
+      "start": 268.176,
+      "end": 275.214,
+      "word_count": 15
+    },
+    {
+      "text": "Grapes.",
+      "start": 276.076,
+      "end": 276.701,
+      "word_count": 1
+    },
+    {
+      "text": "A preliminary study suggested the potential of orally administered grapes to prevent skin cancer induced by ultraviolet exposure.",
+      "start": 277.551,
+      "end": 285.101,
+      "word_count": 18
+    },
+    {
+      "text": "Oral administration of a grape powder equivalent to two servings of fresh grapes five times per week significantly reduced edema in ultraviolet-irradiated SKH:hr-1 hairless mice.",
+      "start": 285.964,
+      "end": 296.688,
+      "word_count": 25
+    },
+    {
+      "text": "After one week, a reduction of about 50 percent was observed.",
+      "start": 296.701,
+      "end": 301.751,
+      "word_count": 11
+    },
+    {
+      "text": "The reduction increased with time, reaching about 90 percent after eight weeks.",
+      "start": 302.626,
+      "end": 308.226,
+      "word_count": 12
+    },
+    {
+      "text": "The decrease correlated with photoprotection of lipids in the epidermis.",
+      "start": 308.238,
+      "end": 313.051,
+      "word_count": 10
+    },
+    {
+      "text": "More compelling preclinical evidence suggesting the potential of grapes to protect from ultraviolet exposure has been reported by Ahmad and coworkers.",
+      "start": 313.063,
+      "end": 322.014,
+      "word_count": 21
+    },
+    {
+      "text": "With a SKH-1 hairless mouse model using an ultraviolet B initiation and promotion protocol, dietary grapes delayed the onset of tumorigenesis and reduced tumor incidence.",
+      "start": 322.026,
+      "end": 334.101,
+      "word_count": 25
+    },
+    {
+      "text": "These responses were associated with enhanced D N A damage repair, reduced proliferation, increased apoptosis, and modulation of oxidative stress markers.",
+      "start": 334.113,
+      "end": 344.751,
+      "word_count": 21
+    },
+    {
+      "text": "In follow-up studies using tandem mass tag quantitative global proteomics, 2629 proteins were modulated by grape feeding, and it was deduced that grape consumption may mitigate tumorigenesis by enhancing protein ubiquitination and degradation caused by oxidative stress.",
+      "start": 344.764,
+      "end": 363.426,
+      "word_count": 37
+    },
+    {
+      "text": "Further, following short-term exposure to ultraviolet B irradiation, grape protected against early-stage epithelial hyperplasia and mast cell infiltration in male and female SKH-1 hairless mice.",
+      "start": 363.738,
+      "end": 376.988,
+      "word_count": 25
+    },
+    {
+      "text": "Long-term studies confirmed that dietary grapes reduced tumor counts and malignant conversion and demonstrated significant decreases in mast cell infiltration, serum I g E, and eotaxin.",
+      "start": 377.001,
+      "end": 389.363,
+      "word_count": 26
+    },
+    {
+      "text": "Based on these promising preclinical studies, human trials have been conducted to investigate the potential of grape consumption to mitigate ultraviolet-induced skin damage.",
+      "start": 389.376,
+      "end": 398.514,
+      "word_count": 22
+    }
+  ],
+  "sentence_count": 39,
+  "word_count": 826,
+  "total_duration": 398.514,
+  "voice": "en-US-AriaNeural"
+}

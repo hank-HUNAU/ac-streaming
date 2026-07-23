@@ -1,0 +1,46 @@
+{
+  "id": "15_immune_health_circadian",
+  "title": "Immune Health. Circadian Modulation of the Antioxidant Effect of Grape Consumption: A Randomized, Controlled Trial. This study investigated the impact of timing of grape intake on the magnitude of its antioxidant effect. In the randomized, controlled study, 32 healthy men and women consumed either a grape drink, equivalent to 1.5 servings per day, or placebo drink with a high fat meal in the morning or evening. The study results support a protective effect of grape consumption against morning sensitivity to oxidative stress. Total F2 isoprostane excretion was highest in the a.m. versus p.m. and highest with the placebo group versus the other groups.",
+  "sentences": [
+    {
+      "text": "Immune Health.",
+      "start": 0.1,
+      "end": 0.975,
+      "word_count": 2
+    },
+    {
+      "text": "Circadian Modulation of the Antioxidant Effect of Grape Consumption: A Randomized, Controlled Trial.",
+      "start": 1.85,
+      "end": 7.9,
+      "word_count": 13
+    },
+    {
+      "text": "This study investigated the impact of timing of grape intake on the magnitude of its antioxidant effect.",
+      "start": 8.762,
+      "end": 14.662,
+      "word_count": 17
+    },
+    {
+      "text": "In the randomized, controlled study, 32 healthy men and women consumed either a grape drink, equivalent to 1.5 servings per day, or placebo drink with a high fat meal in the morning or evening.",
+      "start": 15.525,
+      "end": 27.387,
+      "word_count": 34
+    },
+    {
+      "text": "The study results support a protective effect of grape consumption against morning sensitivity to oxidative stress.",
+      "start": 28.262,
+      "end": 34.587,
+      "word_count": 16
+    },
+    {
+      "text": "Total F2 isoprostane excretion was highest in the a.m. versus p.m. and highest with the placebo group versus the other groups.",
+      "start": 35.45,
+      "end": 42.525,
+      "word_count": 21
+    }
+  ],
+  "sentence_count": 6,
+  "word_count": 103,
+  "total_duration": 42.525,
+  "voice": "en-US-AriaNeural"
+}

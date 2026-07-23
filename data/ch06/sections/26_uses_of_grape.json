@@ -1,0 +1,94 @@
+{
+  "id": "26_uses_of_grape",
+  "title": "Uses of Grape Formulations for Photoprotection and Sunscreens. Cosmetic products based on grape-derived components are popular in many countries. One of the applications of grape-derived components in cosmetics is their role in photoprotection. A study investigating the photoprotective effects of whole grape powder in mice found that these extracts could significantly reduce ultraviolet-induced skin damage and inflammation. Grape seed extracts have shown significant photostabilizing effects when incorporated into sunscreen formulations. It improves the photostability of common ultraviolet filters, such as benzophenone-3 and ethylhexyl methoxycinnamate, and enhances the broad-spectrum protection offered by sunscreen products. Sunscreen formulations containing both grape seed extracts and ultraviolet filters showed an increase in S P F values and maintained a broad-spectrum protection even after exposure to ultraviolet irradiation. These formulations also demonstrated improved photostability, which is often a limitation of conventional ultraviolet filters. In one study, extracts from the Obeidi variety of Lebanese grapes with high proanthocyanidin content were incorporated into commercial creams. These extracts not only maintained stability but also significantly enhanced the antioxidant and photoprotection capacity of the formulations. Another sunscreen formulation containing the grape seed extract was tested in Asian females. Twice-daily application of 3 percent grape seed extract significantly improved skin elasticity and hydration and reduced the level of melanin. This formulation not only protected against ultraviolet-induced skin damage but also improved overall skin appearance. These investigations clearly demonstrate that grapes have photoprotective effects, which is probably associated with the transcriptional regulation of antiaging genes.",
+  "sentences": [
+    {
+      "text": "Uses of Grape Formulations for Photoprotection and Sunscreens.",
+      "start": 0.1,
+      "end": 3.913,
+      "word_count": 8
+    },
+    {
+      "text": "Cosmetic products based on grape-derived components are popular in many countries.",
+      "start": 4.787,
+      "end": 9.438,
+      "word_count": 11
+    },
+    {
+      "text": "One of the applications of grape-derived components in cosmetics is their role in photoprotection.",
+      "start": 10.3,
+      "end": 15.637,
+      "word_count": 14
+    },
+    {
+      "text": "A study investigating the photoprotective effects of whole grape powder in mice found that these extracts could significantly reduce ultraviolet-induced skin damage and inflammation.",
+      "start": 16.512,
+      "end": 26.512,
+      "word_count": 24
+    },
+    {
+      "text": "Grape seed extracts have shown significant photostabilizing effects when incorporated into sunscreen formulations.",
+      "start": 27.387,
+      "end": 33.95,
+      "word_count": 13
+    },
+    {
+      "text": "It improves the photostability of common ultraviolet filters, such as benzophenone-3 and ethylhexyl methoxycinnamate, and enhances the broad-spectrum protection offered by sunscreen products.",
+      "start": 34.825,
+      "end": 46.15,
+      "word_count": 23
+    },
+    {
+      "text": "Sunscreen formulations containing both grape seed extracts and ultraviolet filters showed an increase in S P F values and maintained a broad-spectrum protection even after exposure to ultraviolet irradiation.",
+      "start": 47.013,
+      "end": 59.362,
+      "word_count": 29
+    },
+    {
+      "text": "These formulations also demonstrated improved photostability, which is often a limitation of conventional ultraviolet filters.",
+      "start": 60.237,
+      "end": 67.825,
+      "word_count": 15
+    },
+    {
+      "text": "In one study, extracts from the Obeidi variety of Lebanese grapes with high proanthocyanidin content were incorporated into commercial creams.",
+      "start": 68.7,
+      "end": 77.062,
+      "word_count": 20
+    },
+    {
+      "text": "These extracts not only maintained stability but also significantly enhanced the antioxidant and photoprotection capacity of the formulations.",
+      "start": 77.925,
+      "end": 86.25,
+      "word_count": 18
+    },
+    {
+      "text": "Another sunscreen formulation containing the grape seed extract was tested in Asian females.",
+      "start": 87.125,
+      "end": 92.388,
+      "word_count": 13
+    },
+    {
+      "text": "Twice-daily application of 3 percent grape seed extract significantly improved skin elasticity and hydration and reduced the level of melanin.",
+      "start": 93.263,
+      "end": 102.625,
+      "word_count": 20
+    },
+    {
+      "text": "This formulation not only protected against ultraviolet-induced skin damage but also improved overall skin appearance.",
+      "start": 102.638,
+      "end": 110.513,
+      "word_count": 15
+    },
+    {
+      "text": "These investigations clearly demonstrate that grapes have photoprotective effects, which is probably associated with the transcriptional regulation of antiaging genes.",
+      "start": 110.525,
+      "end": 119.537,
+      "word_count": 19
+    }
+  ],
+  "sentence_count": 14,
+  "word_count": 242,
+  "total_duration": 119.537,
+  "voice": "en-US-AriaNeural"
+}

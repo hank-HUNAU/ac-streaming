@@ -1,0 +1,64 @@
+{
+  "id": "14_effects_of_grapes",
+  "title": "Effects of Grapes on Gene Expression in Male and Female Colon. In the colon, the grape diet affects gene expression in both sexes with greater uniformity, primarily influencing digestion, absorption, and metabolic processes. In males, the G O term biological process showed enrichment of digestion and absorption, fatty acid binding, quaternary ammonium group binding, metallocarboxypeptidase, and carboxypeptidase activity, multicellular organismal water homeostasis, lipid digestion, epidermis development, and zymogen granule formation. In females, indicated by G O term biological process, the same pathways were enriched, together with additional pathways linked to lipase activity, carboxylic ester hydrolase activity, and antimicrobial humoral response. Reactome analyses indicated pathways such as Cobalamin transport and metabolism, digestion and absorption, and digestion of dietary carbohydrate present in both males and females. As with the liver, a comparison of all four groups revealed that the majority of genes were expressed similarly, but each of the four groups also demonstrated unique expression as well, indicating differences between males and females, with and without grape supplementation. Also, as with the liver, when comparing the respective male and female groups, differential expression patterns were observed when the diets were supplemented with grapes. These results highlight the role of nutrigenomics in shaping dietary influences on gene expression and sex-specific physiological responses. While further research is needed to confirm these effects in humans, this study shows the potential of dietary interventions in modulating gene expression, promoting tissue health, and mitigating age-related functional decline.",
+  "sentences": [
+    {
+      "text": "Effects of Grapes on Gene Expression in Male and Female Colon.",
+      "start": 0.1,
+      "end": 3.7,
+      "word_count": 11
+    },
+    {
+      "text": "In the colon, the grape diet affects gene expression in both sexes with greater uniformity, primarily influencing digestion, absorption, and metabolic processes.",
+      "start": 4.562,
+      "end": 14.713,
+      "word_count": 22
+    },
+    {
+      "text": "In males, the G O term biological process showed enrichment of digestion and absorption, fatty acid binding, quaternary ammonium group binding, metallocarboxypeptidase, and carboxypeptidase activity, multicellular organismal water homeostasis, lipid digestion, epidermis development, and zymogen granule formation.",
+      "start": 15.575,
+      "end": 36.025,
+      "word_count": 37
+    },
+    {
+      "text": "In females, indicated by G O term biological process, the same pathways were enriched, together with additional pathways linked to lipase activity, carboxylic ester hydrolase activity, and antimicrobial humoral response.",
+      "start": 36.9,
+      "end": 51.55,
+      "word_count": 30
+    },
+    {
+      "text": "Reactome analyses indicated pathways such as Cobalamin transport and metabolism, digestion and absorption, and digestion of dietary carbohydrate present in both males and females.",
+      "start": 52.413,
+      "end": 64.287,
+      "word_count": 24
+    },
+    {
+      "text": "As with the liver, a comparison of all four groups revealed that the majority of genes were expressed similarly, but each of the four groups also demonstrated unique expression as well, indicating differences between males and females, with and without grape supplementation.",
+      "start": 65.15,
+      "end": 80.6,
+      "word_count": 42
+    },
+    {
+      "text": "Also, as with the liver, when comparing the respective male and female groups, differential expression patterns were observed when the diets were supplemented with grapes.",
+      "start": 81.475,
+      "end": 90.513,
+      "word_count": 25
+    },
+    {
+      "text": "These results highlight the role of nutrigenomics in shaping dietary influences on gene expression and sex-specific physiological responses.",
+      "start": 91.375,
+      "end": 99.812,
+      "word_count": 18
+    },
+    {
+      "text": "While further research is needed to confirm these effects in humans, this study shows the potential of dietary interventions in modulating gene expression, promoting tissue health, and mitigating age-related functional decline.",
+      "start": 100.688,
+      "end": 113.6,
+      "word_count": 31
+    }
+  ],
+  "sentence_count": 9,
+  "word_count": 240,
+  "total_duration": 113.6,
+  "voice": "en-US-AriaNeural"
+}

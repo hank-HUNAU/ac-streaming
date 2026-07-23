@@ -1,0 +1,100 @@
+{
+  "id": "9_skin_aging_skin",
+  "title": "Skin Aging. Skin aging is a complex process characterized by wrinkling, sagging, dryness, roughness, and changes in skin pigmentation. The skin gradually loses its natural functional characteristics and regenerative potential. During the aging process, oxidative stress is attributed to both augmented reactive oxygen species production and reduced levels of enzymatic and nonenzymatic protectors. Exposure to ultraviolet radiation or environmental pollutants can promote skin aging due to the underlying reactive oxygen species generation. Chronic oxidative stress manipulates M A P Ks, N F-kappa B, Nrf2, A P-1, T G F-beta, and some other signaling pathways to damage skin structures such as by increasing the production of multiple matrix metalloproteinases and collapsing dermal fibroblasts. The inhibition of T G F-beta signaling is critical in maintaining the structural and mechanical integrity of dermal connective tissue, resulting in reduced production of collagen, fibronectin, and elastin, as well as thinning of the dermis. Reactive oxygen species also creates a pro-inflammatory microenvironment by inducing multiple inflammatory mediators. One example is cellular communication network factor 1, a member of C N family of secreted proteins, which regulates cell adhesion, cell-matrix interaction, collagen homeostasis, and a pro-inflammatory genetic program in response to skin injury due to oxidative stress. These processes weaken the dermal structure and mechanical integrity and contribute to age-related skin disorders such as delayed wound healing, dry skin, wrinkles, dyspigmentation, and in severe cases skin cancer.",
+  "sentences": [
+    {
+      "text": "Skin Aging.",
+      "start": 0.1,
+      "end": 1.087,
+      "word_count": 2
+    },
+    {
+      "text": "Skin aging is a complex process characterized by wrinkling, sagging, dryness, roughness, and changes in skin pigmentation.",
+      "start": 1.962,
+      "end": 9.863,
+      "word_count": 17
+    },
+    {
+      "text": "The skin gradually loses its natural functional characteristics and regenerative potential.",
+      "start": 10.738,
+      "end": 15.812,
+      "word_count": 11
+    },
+    {
+      "text": "During the aging process, oxidative stress is attributed to both augmented reactive oxygen species production and reduced levels of enzymatic and nonenzymatic protectors.",
+      "start": 16.688,
+      "end": 26.725,
+      "word_count": 23
+    },
+    {
+      "text": "Exposure to ultraviolet radiation or environmental pollutants can promote skin aging due to the underlying reactive oxygen species generation.",
+      "start": 27.6,
+      "end": 36.062,
+      "word_count": 19
+    },
+    {
+      "text": "Chronic oxidative stress manipulates M A P Ks, N F-kappa B, Nrf2, A P-1, T G F-beta, and some other signaling pathways to damage skin structures such as by increasing the production of multiple matrix metalloproteinases and collapsing dermal fibroblasts.",
+      "start": 36.938,
+      "end": 54.45,
+      "word_count": 40
+    },
+    {
+      "text": "The inhibition of T G F-beta signaling is critical in maintaining the structural and mechanical integrity of dermal connective tissue, resulting in reduced production of collagen, fibronectin, and elastin, as well as thinning of the dermis.",
+      "start": 55.312,
+      "end": 68.95,
+      "word_count": 36
+    },
+    {
+      "text": "Reactive oxygen species also creates a pro-inflammatory microenvironment by inducing multiple inflammatory mediators.",
+      "start": 69.825,
+      "end": 77.1,
+      "word_count": 13
+    },
+    {
+      "text": "One example is cellular communication network factor 1, a member of C N family of secreted proteins, which regulates cell adhesion, cell-matrix interaction, collagen homeostasis, and a pro-inflammatory genetic program in response to skin injury due to oxidative stress.",
+      "start": 77.975,
+      "end": 95.013,
+      "word_count": 39
+    },
+    {
+      "text": "These processes weaken the dermal structure and mechanical integrity and contribute to age-related skin disorders such as delayed wound healing, dry skin, wrinkles, dyspigmentation, and in severe cases skin cancer.",
+      "start": 95.875,
+      "end": 108.55,
+      "word_count": 30
+    },
+    {
+      "text": "In short, oxidative stress can cause inflammation, alter skin function, and affect the overall health of the skin.",
+      "start": 109.425,
+      "end": 115.95,
+      "word_count": 18
+    },
+    {
+      "text": "Since oxidative stress is caused by imbalances of reactive oxygen species and antioxidants in the skin, it can be managed by antioxidants.",
+      "start": 116.825,
+      "end": 125.287,
+      "word_count": 22
+    },
+    {
+      "text": "There has been a growing interest in antioxidant-rich dietary sources, as these are considered safe to use.",
+      "start": 126.162,
+      "end": 132.325,
+      "word_count": 17
+    },
+    {
+      "text": "Multiple dietary constituents fall under this category and can benefit skin health.",
+      "start": 133.188,
+      "end": 137.975,
+      "word_count": 12
+    },
+    {
+      "text": "The importance of various dietary antioxidants is briefly discussed in the following section.",
+      "start": 138.85,
+      "end": 143.912,
+      "word_count": 13
+    }
+  ],
+  "sentence_count": 15,
+  "word_count": 312,
+  "total_duration": 143.912,
+  "voice": "en-US-AriaNeural"
+}

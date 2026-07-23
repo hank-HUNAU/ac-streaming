@@ -1,0 +1,136 @@
+{
+  "id": "18_conclusions_and_future",
+  "title": "Conclusions and Future Directions. The skin is often considered the largest organ of the human body, representing about 15 percent of total body weight. Exposure of the skin to ultraviolet irradiation emanating from the sun can lead to many untoward disorders, the most threatening being cancer. Clearly, the most definitive way to prevent such problems is to avoid exposure by the use of clothing, sunscreens, etc. Nonetheless, the incidence of skin cancer remains high. Although the majority of cases can be completely resolved if detected at an early stage and surgically eliminated, presently, more than two people die of skin cancer every hour in the United States. Overall, it seems reasonable to explore how natural components of the diet may affect the risk of skin cancer.",
+  "sentences": [
+    {
+      "text": "Conclusions and Future Directions.",
+      "start": 0.1,
+      "end": 2.25,
+      "word_count": 4
+    },
+    {
+      "text": "The skin is often considered the largest organ of the human body, representing about 15 percent of total body weight.",
+      "start": 3.112,
+      "end": 11.488,
+      "word_count": 20
+    },
+    {
+      "text": "Exposure of the skin to ultraviolet irradiation emanating from the sun can lead to many untoward disorders, the most threatening being cancer.",
+      "start": 11.5,
+      "end": 20.15,
+      "word_count": 22
+    },
+    {
+      "text": "Clearly, the most definitive way to prevent such problems is to avoid exposure by the use of clothing, sunscreens, etc.",
+      "start": 20.35,
+      "end": 28.75,
+      "word_count": 20
+    },
+    {
+      "text": "Nonetheless, the incidence of skin cancer remains high.",
+      "start": 29.05,
+      "end": 32.688,
+      "word_count": 8
+    },
+    {
+      "text": "Although the majority of cases can be completely resolved if detected at an early stage and surgically eliminated, presently, more than two people die of skin cancer every hour in the United States.",
+      "start": 32.7,
+      "end": 44.788,
+      "word_count": 33
+    },
+    {
+      "text": "Overall, it seems reasonable to explore how natural components of the diet may affect the risk of skin cancer.",
+      "start": 45.038,
+      "end": 51.612,
+      "word_count": 19
+    },
+    {
+      "text": "In this context, we and others have demonstrated that grape consumption is capable of increasing the level of ultraviolet exposure required to induce erythema.",
+      "start": 51.625,
+      "end": 61.45,
+      "word_count": 24
+    },
+    {
+      "text": "An increase in the minimal erythema dose suggests increased resistance to ultraviolet irradiation and, by implication, a reduction in the risk of damage at a fixed exposure level.",
+      "start": 61.462,
+      "end": 73.0,
+      "word_count": 28
+    },
+    {
+      "text": "But perhaps more importantly, following grape consumption, biomarkers of skin carcinogenesis are up- and downregulated in a manner that suggests protection.",
+      "start": 73.013,
+      "end": 83.025,
+      "word_count": 21
+    },
+    {
+      "text": "It will be important to have a detailed mechanistic understanding of these ameliorative responses, both in the context of how diet may affect this public health risk and what strategies may be considered in general to augment natural defense mechanisms and reduce risk.",
+      "start": 83.037,
+      "end": 98.338,
+      "word_count": 43
+    },
+    {
+      "text": "In the case of grapes, one constituent in particular has gained a great deal of attention, i.e., resveratrol, but it is unlikely that the quantity of resveratrol found in a normal diet has much or any influence.",
+      "start": 98.35,
+      "end": 111.838,
+      "word_count": 37
+    },
+    {
+      "text": "The grape as a whole food, with scores of different phytochemicals, does have an influence on the skin.",
+      "start": 111.85,
+      "end": 118.225,
+      "word_count": 18
+    },
+    {
+      "text": "In addition to enhancing resistance to ultraviolet as indicated by erythema, as well as modulating biomarkers, we have recently observed alteration of gene expression in the skin of human volunteers after grape consumption.",
+      "start": 118.237,
+      "end": 132.375,
+      "word_count": 33
+    },
+    {
+      "text": "This far-reaching response warrants further investigation.",
+      "start": 132.387,
+      "end": 136.338,
+      "word_count": 6
+    },
+    {
+      "text": "As a start, with data derived from the skin of the human subjects, using G O enrichment analysis, for example, we can assess the impact on biological processes, cellular locations, and molecular functions.",
+      "start": 136.35,
+      "end": 150.325,
+      "word_count": 33
+    },
+    {
+      "text": "But what are the pathophysiological consequences of such alterations?",
+      "start": 150.338,
+      "end": 155.213,
+      "word_count": 9
+    },
+    {
+      "text": "What type of fundamental mechanisms contributes to the modulation of gene expression?",
+      "start": 155.225,
+      "end": 160.588,
+      "word_count": 12
+    },
+    {
+      "text": "What epigenetic mechanisms are involved?",
+      "start": 160.6,
+      "end": 163.65,
+      "word_count": 5
+    },
+    {
+      "text": "We know that grape consumption is not harmful, and some data suggest that grape consumption is beneficial, but what are the actual downstream molecular pathways that are affected in the skin?",
+      "start": 163.662,
+      "end": 174.912,
+      "word_count": 31
+    },
+    {
+      "text": "Thus, there are many avenues to explore that should lead us to a better understanding of the potential of grape consumption to influence human health, as well as helping us to better define the profound impact of diet on human homeostasis and physiology.",
+      "start": 175.2,
+      "end": 188.5,
+      "word_count": 42
+    }
+  ],
+  "sentence_count": 21,
+  "word_count": 468,
+  "total_duration": 188.5,
+  "voice": "en-US-AriaNeural"
+}

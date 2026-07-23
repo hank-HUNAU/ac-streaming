@@ -1,0 +1,340 @@
+{
+  "id": "6_grape_products_promote",
+  "title": "Grape Products Promote Beneficial Gut Microbiome. Accumulating research indicates that gut microbiota plays significant roles in maintaining a healthy gut and attenuating intestinal diseases, including inflammatory bowel diseases and colorectal cancer. For instance, patients with colorectal cancer and inflammatory bowel diseases have reduced the relative abundance of beneficial bacteria, including butyrate producers, and increased the abundance of opportunistic pathogen species. Importantly, the fecal microbiota transplantation of stool samples from colorectal cancer patients has been reported to promote carcinogen-induced macroscopic polyps and colonic inflammation in mice compared to those treated with stool samples from healthy volunteers. Moreover, fecal microbiota transplantation using microbial community from healthy donors has been found to mitigate colitis-associated dysbiosis and even result in colitis remission in inflammatory bowel disease patients. Therefore, it has been proposed that the modulation of gut microbiota by preventive agents may be an effective strategy for controlling colitis and inhibiting colitis-associated colon cancer. To this end, polyphenols in grapes appear to be able to cultivate a healthy microbial community that prevents or restores dysbiosis.",
+  "sentences": [
+    {
+      "text": "Grape Products Promote Beneficial Gut Microbiome.",
+      "start": 0.1,
+      "end": 2.962,
+      "word_count": 6
+    },
+    {
+      "text": "Accumulating research indicates that gut microbiota plays significant roles in maintaining a healthy gut and attenuating intestinal diseases, including inflammatory bowel diseases and colorectal cancer.",
+      "start": 3.837,
+      "end": 16.038,
+      "word_count": 25
+    },
+    {
+      "text": "For instance, patients with colorectal cancer and inflammatory bowel diseases have reduced the relative abundance of beneficial bacteria, including butyrate producers, and increased the abundance of opportunistic pathogen species.",
+      "start": 16.9,
+      "end": 30.488,
+      "word_count": 29
+    },
+    {
+      "text": "Importantly, the fecal microbiota transplantation of stool samples from colorectal cancer patients has been reported to promote carcinogen-induced macroscopic polyps and colonic inflammation in mice compared to those treated with stool samples from healthy volunteers.",
+      "start": 31.35,
+      "end": 46.5,
+      "word_count": 35
+    },
+    {
+      "text": "Moreover, fecal microbiota transplantation using microbial community from healthy donors has been found to mitigate colitis-associated dysbiosis and even result in colitis remission in inflammatory bowel disease patients.",
+      "start": 46.675,
+      "end": 60.038,
+      "word_count": 28
+    },
+    {
+      "text": "Therefore, it has been proposed that the modulation of gut microbiota by preventive agents may be an effective strategy for controlling colitis and inhibiting colitis-associated colon cancer.",
+      "start": 60.913,
+      "end": 71.787,
+      "word_count": 27
+    },
+    {
+      "text": "To this end, polyphenols in grapes appear to be able to cultivate a healthy microbial community that prevents or restores dysbiosis.",
+      "start": 72.662,
+      "end": 80.263,
+      "word_count": 21
+    },
+    {
+      "text": "Modulation of Gut Microbiota by Grape Polyphenols in Healthy Humans.",
+      "start": 81.138,
+      "end": 85.35,
+      "word_count": 10
+    },
+    {
+      "text": "Many studies have documented the modulatory effects of polyphenols on gut microbiota, including promoting beneficial bacteria in humans.",
+      "start": 86.213,
+      "end": 94.6,
+      "word_count": 18
+    },
+    {
+      "text": "In particular, the supplementation of polyphenol-rich whole foods or polyphenol extracts has been reported to enhance fecal Bifidobacterium and/or Lactobacillus, which are considered beneficial and commonly used in probiotic products.",
+      "start": 95.475,
+      "end": 109.475,
+      "word_count": 30
+    },
+    {
+      "text": "For instance, in a randomized trial, researchers reported that the moderate intake of red wine polyphenols for 20 days increased Bifidobacterium but did not affect Lactobacillus.",
+      "start": 110.338,
+      "end": 122.862,
+      "word_count": 26
+    },
+    {
+      "text": "Consistently, the ex vivo cultivation of feces from healthy volunteers with polyphenol extracts from grape seeds resulted in a significant increase in the number of Bifidobacterium species and Lactobacillus-Enterococcus group and the inhibition of the growth of the Clostridium histolyticum and Bacteroides-Prevotella groups.",
+      "start": 123.088,
+      "end": 141.738,
+      "word_count": 43
+    },
+    {
+      "text": "In another study, researchers showed that compared to a low-polyphenol diet, 4-week consumption of California table grape powder significantly increased the alpha-diversity index of the gut microbiota and elevated Akkermansia, Flavonifractor, and Lachnospiraceae UCG-010 but decreased Bifidobacterium and Dialister at the genus level in healthy adults.",
+      "start": 141.75,
+      "end": 165.438,
+      "word_count": 46
+    },
+    {
+      "text": "Interestingly, grape powder treatment decreased total bile acid by 40.9 percent.",
+      "start": 165.738,
+      "end": 171.963,
+      "word_count": 11
+    },
+    {
+      "text": "Moreover, in a randomized crossover controlled trial, red wine consumption was found to significantly change gut microbial composition; enrich Parasutterella, Ruminococcaceae, and several Bacteroides species; and shift metabolomics to improve redox homeostasis.",
+      "start": 171.975,
+      "end": 189.213,
+      "word_count": 32
+    },
+    {
+      "text": "Another group reported that the 2-week consumption of grapes equivalent to three servings per day did not change the alpha- or beta-diversity of the microbial community in healthy humans but decreased Holdemania species and increased Streptococcus thermophiles.",
+      "start": 189.225,
+      "end": 203.762,
+      "word_count": 37
+    },
+    {
+      "text": "These investigators also observed that grape consumption resulted in the elevation of 2'-deoxyribonic acid, glutaconic acid, and 3-hydroxyphenylacetic acid.",
+      "start": 203.775,
+      "end": 215.05,
+      "word_count": 19
+    },
+    {
+      "text": "Additionally, in another randomized crossover controlled feeding trial, polyphenols were observed to counteract animal-based diet-induced elevation of secondary bile acids, decrease short-chain fatty acids, and change microbial composition.",
+      "start": 215.062,
+      "end": 230.525,
+      "word_count": 28
+    },
+    {
+      "text": "This observation is relevant as elevated concentrations of secondary bile acids, particularly deoxycholic acid, are believed to be strongly associated with an increased risk of colorectal cancer, whereas short-chain fatty acids, especially butyrate, are recognized to play a role in colorectal cancer prevention.",
+      "start": 230.537,
+      "end": 250.637,
+      "word_count": 43
+    },
+    {
+      "text": "Modulation of Gut Microbiota by Grape Polyphenols in Healthy Animals.",
+      "start": 250.65,
+      "end": 255.525,
+      "word_count": 10
+    },
+    {
+      "text": "In agreement with the observations in humans, polyphenols have been found to cause favorable changes in gut microbiota in animals.",
+      "start": 255.537,
+      "end": 265.124,
+      "word_count": 20
+    },
+    {
+      "text": "For instance, research in animals has revealed the elevation of cecal or fecal Lactobacillus and/or Bifidobacterium in response to the supplementation of polyphenols, including resveratrol and anthocyanin-rich extracts.",
+      "start": 265.399,
+      "end": 280.199,
+      "word_count": 28
+    },
+    {
+      "text": "Moreover, curcumin or resveratrol was found to prevent age-related reductions in gut microbial richness.",
+      "start": 280.212,
+      "end": 287.036,
+      "word_count": 14
+    },
+    {
+      "text": "The supplementation of resveratrol at 300 milligrams per kilogram body weight significantly changed microbial composition compared with control diets.",
+      "start": 287.049,
+      "end": 297.286,
+      "word_count": 19
+    },
+    {
+      "text": "Moreover, researchers reported that compared to a control diet with matched nonpolyphenol content, 10 percent but not 3 percent grape powder increased gut bacterial evenness, Lachnospiraceae, and fecal short-chain fatty acids, including butyrate, in healthy mice.",
+      "start": 297.299,
+      "end": 315.312,
+      "word_count": 36
+    },
+    {
+      "text": "In addition, researchers observed that the supplementation of grape seed procyanidins in geese increased microbial richness and diversity, enhanced the relative abundance of Firmicutes, and decreased that of Bacteroidetes in the cecum.",
+      "start": 315.324,
+      "end": 329.599,
+      "word_count": 32
+    },
+    {
+      "text": "These grape seed procyanidin-supplemented diets also enriched Eubacterium coprostanoligenes and Faecalibacterium and substantially raised concentrations of acetic, propionic, and butyric acid in the cecum.",
+      "start": 329.611,
+      "end": 342.712,
+      "word_count": 24
+    },
+    {
+      "text": "In summary, studies in healthy animals and humans have consistently demonstrated that grape polyphenols can promote beneficial gut microbes and cause favorable changes in microbial communities and their metabolism.",
+      "start": 342.724,
+      "end": 355.449,
+      "word_count": 29
+    },
+    {
+      "text": "In the subsequent sections, we will also discuss the modulatory effects of grape polyphenols on gut microbes under pathogenic conditions and the causal role of modulating gut microbiota in polyphenols-mediated disease protection effects.",
+      "start": 355.774,
+      "end": 371.674,
+      "word_count": 33
+    },
+    {
+      "text": "Antioxidant, Anti-inflammatory, and Anticancer Activities of Grape Polyphenols.",
+      "start": 371.687,
+      "end": 376.337,
+      "word_count": 8
+    },
+    {
+      "text": "Oxidative stress and inflammation play important roles in gut barrier dysfunction and intestinal disorders, including inflammatory bowel diseases and colorectal cancer.",
+      "start": 376.349,
+      "end": 387.087,
+      "word_count": 21
+    },
+    {
+      "text": "Numerous studies have documented the antioxidant, anti-inflammatory, and anticancer effects of polyphenols.",
+      "start": 387.099,
+      "end": 394.024,
+      "word_count": 12
+    },
+    {
+      "text": "This section will focus on the impact of grape polyphenols on key regulatory players that control oxidative stress and inflammatory responses in the intestine, while anti-colorectal cancer effects and the mechanisms of polyphenols, including antiproliferation and proapoptosis activities, have been summarized in some recent reviews.",
+      "start": 394.036,
+      "end": 415.424,
+      "word_count": 45
+    },
+    {
+      "text": "Polyphenols may exert antioxidant effects via various mechanisms.",
+      "start": 415.437,
+      "end": 420.049,
+      "word_count": 8
+    },
+    {
+      "text": "First, phenolic moieties in polyphenols can donate electrons and hydrogens for the scavenging of reactive oxygen species, thus counteracting oxidative stress.",
+      "start": 420.062,
+      "end": 430.899,
+      "word_count": 21
+    },
+    {
+      "text": "Second, grape polyphenols can promote antioxidant defense via the activation of nuclear factor erythroid 2-related factor 2, a master transcription factor that upregulates antioxidant and anti-inflammatory enzymes, such as superoxide dismutase and heme oxygenase 1, as well as detoxification enzymes by interacting with the antioxidant responsive element.",
+      "start": 430.911,
+      "end": 455.536,
+      "word_count": 47
+    },
+    {
+      "text": "For instance, cyanidin-3-glucoside and resveratrol have been found to increase the DNA-binding activity of Nrf2, upregulate the messenger ribonucleic acid of heme oxygenase 1, and alleviate cytokine-induced reactive oxygen species in colon epithelial HT29 cells.",
+      "start": 455.549,
+      "end": 473.361,
+      "word_count": 35
+    },
+    {
+      "text": "Resveratrol and grape seed extract attenuated lipopolysaccharide-induced decrease in transepithelial electrical resistance, antioxidant enzymes, and tight junction proteins in Caco-2 cells and mitigated colitis-associated decrease in Nrf2 and heme oxygenase 1 expression in mice.",
+      "start": 473.374,
+      "end": 493.324,
+      "word_count": 34
+    },
+    {
+      "text": "Mechanistically, procyanidin B2 was shown to activate Nrf2 by stimulating the phosphorylation of p38 mitogen-activated protein kinase and extracellular signal-regulated protein kinases.",
+      "start": 493.337,
+      "end": 506.087,
+      "word_count": 22
+    },
+    {
+      "text": "Indeed, flavonoids are believed to modulate signaling kinases, including phosphoinositide 3 kinase, Akt and protein kinase B, MAP kinase, and protein kinase C. For instance, quercetin was found to increase mucins like MUC2 and MUC5AC, possibly by increasing extracellular signal-regulated kinase 1 and 2 and protein kinase C alpha in human intestinal goblet cell-like LS174T.",
+      "start": 506.099,
+      "end": 534.912,
+      "word_count": 55
+    },
+    {
+      "text": "Consistent with these studies, resveratrol, quercetin, and grape seed proanthocyanidin extract alleviated dextran sulfate sodium-induced crypt loss, elevated pro-inflammatory cytokines, and enhanced the expression of Nrf2 and heme oxygenase 1, as well as antioxidant enzymes, in rodents.",
+      "start": 535.099,
+      "end": 556.111,
+      "word_count": 37
+    },
+    {
+      "text": "It is well recognized that polyphenols can exert anti-inflammatory effects via the suppression of nuclear factor-kappa B activation, Toll-like receptors, and pro-inflammatory cytokines in models relevant to inflammatory bowel diseases.",
+      "start": 556.123,
+      "end": 571.598,
+      "word_count": 30
+    },
+    {
+      "text": "For instance, resveratrol and quercetin have been reported to decrease lipopolysaccharide-induced Toll-like receptor 4 expression, N F-kappa B activation, and pro-inflammatory cytokines in human colon epithelial Caco-2 and SW480 cells or rat intestinal microvascular endothelial cells.",
+      "start": 571.611,
+      "end": 591.373,
+      "word_count": 36
+    },
+    {
+      "text": "Quercetin was shown to attenuate the lipopolysaccharide-induced expression of Toll-like receptor 4 and nucleotide-binding oligomerization domain-like receptor 3, as well as interleukin-18, I L-1 beta, I L-6, and T N F-alpha, in mouse gut.",
+      "start": 591.385,
+      "end": 609.436,
+      "word_count": 34
+    },
+    {
+      "text": "Moreover, the supplementation of grape pomace extract blocked the lipopolysaccharide- or T N F-alpha-enhanced DNA-binding activity of N F-kappa B and inhibited the production of I L-6 and monocyte chemoattractant protein-1, as well as the expression of matrix metalloproteinase-2 and matrix metalloproteinase-9, in intestinal Caco-2 cells.",
+      "start": 609.448,
+      "end": 631.586,
+      "word_count": 46
+    },
+    {
+      "text": "In addition to intestinal epithelium cells, resveratrol was found to attenuate N F-kappa B activity in immune cells, such as myeloid cells and lymphoid cells.",
+      "start": 631.598,
+      "end": 643.048,
+      "word_count": 25
+    },
+    {
+      "text": "Quercetin and kaempferol inhibited lipopolysaccharide-induced phosphorylation of inhibitor of nuclear factor kappa B alpha and the expression of inducible nitric oxide synthase and T N F-alpha in primary bone-marrow-derived mouse macrophages.",
+      "start": 643.061,
+      "end": 657.66,
+      "word_count": 31
+    },
+    {
+      "text": "Consistent with cell-based studies, resveratrol, quercetin, kaempferol, and grape-related products have been documented to decrease Toll-like receptor 4 and attenuate N F-kappa B activation, cytokines, cyclooxygenase-2 and inducible nitric oxide synthase in colon tissue in various experimental colitis models in rodents.",
+      "start": 657.91,
+      "end": 678.236,
+      "word_count": 41
+    },
+    {
+      "text": "In agreement with these preclinical studies, in a randomized, double-blinded, placebo-controlled study, the 6-week supplementation of resveratrol significantly lowered the plasma concentrations of T N F-alpha, high-sensitivity C-reactive protein, and N F-kappa B activity in peripheral blood mononuclear cells among patients with ulcerative colitis compared to the placebo group.",
+      "start": 678.248,
+      "end": 702.51,
+      "word_count": 49
+    },
+    {
+      "text": "Although extensive studies have documented antioxidant, anti-inflammatory, and anticancer effects of polyphenols, the extent of these activities contribute to the beneficial effects in vivo is not clear as polyphenols are known to have poor bioavailability.",
+      "start": 702.523,
+      "end": 718.673,
+      "word_count": 35
+    },
+    {
+      "text": "In cell-based studies, polyphenols at 10 to 100 micromolar have been shown to exhibit antioxidant, anticancer, or anti-inflammatory effects.",
+      "start": 718.686,
+      "end": 728.41,
+      "word_count": 19
+    },
+    {
+      "text": "However, the concentrations of these compounds are often below a few micromolar in the plasma or serum of animals and humans.",
+      "start": 728.423,
+      "end": 735.798,
+      "word_count": 21
+    },
+    {
+      "text": "On the other hand, polyphenols may transiently exist at higher concentrations in the colon due to poor absorption.",
+      "start": 736.111,
+      "end": 744.298,
+      "word_count": 18
+    },
+    {
+      "text": "Indeed, emerging research shows that polyphenols appear to be bioavailable in the gut and able to modulate the gut microbiota.",
+      "start": 744.311,
+      "end": 751.635,
+      "word_count": 20
+    },
+    {
+      "text": "Therefore, it is important to consider the antioxidant, anti-inflammatory, and anticancer actions and gut-microbe-modulating activities of polyphenols and their metabolites when assessing their impact on gut health.",
+      "start": 751.648,
+      "end": 762.548,
+      "word_count": 23
+    }
+  ],
+  "sentence_count": 55,
+  "word_count": 1532,
+  "total_duration": 762.548,
+  "voice": "en-US-AriaNeural"
+}

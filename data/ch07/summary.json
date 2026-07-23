@@ -1,0 +1,162 @@
+{
+  "id": "ch07",
+  "title": "07 Effect of Grapes and Grape Constituents",
+  "total_sentences": 321,
+  "total_duration_s": 3144.7,
+  "total_terms": 271,
+  "total_sections": 19,
+  "sections": [
+    {
+      "id": "0_effect_of_grapes",
+      "title": "Effect of Grapes and Grape Constituents on UV-Induced Skin Damage in Humans. Dana-Lynn T. Koomoa, Sumi Piya, John M. Pezzuto, and Ingo Lange.",
+      "sentence_count": 2,
+      "word_count": 23,
+      "duration_s": 10.1,
+      "passage_audio_url": "chpt07_audio/0_effect_of_grapes/0_effect_of_grapes.mp3"
+    },
+    {
+      "id": "1_abstract_in_the",
+      "title": "Abstract. In the United States alone, over five million cases of skin cancer are diagnosed each year, mainly due to ultraviolet exposure derived from the sun. While it seems obvious that exposure to ultraviolet irradiation could be prevented or limited to a safe level, the existence of a public health issue of this magnitude suggests that some type of augmentation would be helpful. Based on compelling preclinical data, the potential of grape consumption to alleviate ultraviolet damage to the skin seemed feasible, and translational studies conducted with human beings proved this to be the case. The ultraviolet protective action of one component of the grape, resveratrol, has been highly touted. As described herein, mechanistic studies have been extensive and highly instructive. However, due to minuscule amounts in the diet, physicochemical limitations such as poor absorption and rapid metabolism, it is unlikely that resveratrol has much practical application other than when applied as a topical agent. The grape, however, as a whole food containing scores of phytochemical constituents, is suitable for providing protection through normal dietary habits. Clinical trials revealed that consumption of normal daily quantities of grapes leads to enhanced resistance to ultraviolet irradiation, based on increased doses required to induce erythema and modulation of biomarkers indicative of carcinogenesis. More broadly, grape consumption leads to differential gene expression in the skin of humans. Further work is required to more completely define the mode by which grape consumption may help to alleviate skin damage. Nonetheless, the results are promising, suggesting that diet may play an even greater role than is commonly acknowledged in disease prevention and in augmenting defense mechanisms essential for responding to exogenous health risks.",
+      "sentence_count": 12,
+      "word_count": 276,
+      "duration_s": 115.5,
+      "passage_audio_url": "chpt07_audio/1_abstract_in_the/1_abstract_in_the.mp3"
+    },
+    {
+      "id": "2_introduction_skin_cancer",
+      "title": "Introduction. Skin cancer is the most common form of cancer in the United States, constituting 5 percent of all new cancer cases in 2024. The primary cause of skin cancer is exposure to ultraviolet radiation. Ultraviolet exposure promotes abnormal proliferation of cells within the epidermis due to D N A damage. If D N A damage repair mechanisms fail, the affected cells undergo malignant transformation and develop into skin cancer. Phytochemicals have gained increased attention for the prevention of ultraviolet-induced skin cancer. Diets rich in plant-derived phytochemicals have anti-inflammatory, antioxidant, and anticancer properties. Numerous studies have shown that resveratrol and other phytochemicals found in grapes provide protection against ultraviolet-induced skin cancer. Resveratrol can reduce the levels of reactive oxygen species caused by ultraviolet exposure and prevent D N A damage and subsequent malignant transformation. Resveratrol also preserves genomic stability by enhancing D N A repair mechanisms.",
+      "sentence_count": 12,
+      "word_count": 183,
+      "duration_s": 85.6,
+      "passage_audio_url": "chpt07_audio/2_introduction_skin_cancer/2_introduction_skin_cancer.mp3"
+    },
+    {
+      "id": "3_ultraviolet_radiation_ultraviolet",
+      "title": "Ultraviolet Radiation. Ultraviolet is categorized as a complete carcinogen because it plays a role in every stage of malignant transformation of skin cells and skin cancer progression. Ultraviolet exerts a complex effect on human skin health. Ultraviolet radiation is molecularly and epidemiologically linked to skin cancer. However, ultraviolet also mediates the natural synthesis of vitamin D and chromophores in the skin, benefiting human skin health.",
+      "sentence_count": 10,
+      "word_count": 183,
+      "duration_s": 88.2,
+      "passage_audio_url": "chpt07_audio/3_ultraviolet_radiation_ultraviolet/3_ultraviolet_radiation_ultraviolet.mp3"
+    },
+    {
+      "id": "4_epidemiology_of_skin",
+      "title": "Epidemiology of Skin Cancer. There are three main types of skin cancer. The origin of the mutated cell determines the type of cancer. Basal cell carcinoma develops from the transformation of basal skin cells. It is the most common type of skin cancer. Squamous cell carcinoma originates in squamous cells and is the second most common type of skin cancer. Basal cell carcinoma and squamous cell carcinoma are categorized as non-melanoma skin cancers. Melanoma arises from pigment-producing melanocytes in the basal layer of the epidermis. This is the most aggressive skin cancer and has a high potential to spread.",
+      "sentence_count": 18,
+      "word_count": 283,
+      "duration_s": 126.0,
+      "passage_audio_url": "chpt07_audio/4_epidemiology_of_skin/4_epidemiology_of_skin.mp3"
+    },
+    {
+      "id": "5_skin_cancer_there",
+      "title": "Skin Cancer. There are three major components of human skin: the epidermis, dermis, and hypodermis, or subcutaneous tissue. The epidermis is the outermost layer of the skin that is made up predominantly of keratinocytes but may also contain melanocytes, as well as Merkel and Langerhans cells. The dermis is the layer below the epidermis and contains connective tissue, blood vessels, nerve endings, sweat glands, and hair follicles. The hypodermis or subcutaneous tissue is the deepest layer of the skin and is made up predominantly of connective tissue and adipocytes. The skin serves as a barrier and protects against ultraviolet radiation.",
+      "sentence_count": 48,
+      "word_count": 1112,
+      "duration_s": 498.8,
+      "passage_audio_url": "chpt07_audio/5_skin_cancer_there/5_skin_cancer_there.mp3"
+    },
+    {
+      "id": "6_grapes_and_phytochemicals",
+      "title": "Grapes and Phytochemicals for Skin Health in Humans. Physical, mental, and social well-being are critical to maintaining human health, which are heavily influenced by diet. What you eat directly impacts your well-being. A healthy eating plan emphasizes fruits, vegetables, whole grains, fat-free or low-fat dairy products, and proteins that are low in free sugars, salt, and saturated fats. A healthy diet not only provides essential nutrients to maintain human health, but it also contains chemical components that may directly prevent chronic diseases, such as type 2 diabetes mellitus, cardiovascular disease, obesity, and cancer. Some chemical components in healthy foods may also provide photoprotection from ultraviolet B-induced D N A damage and lower the risk of skin cancer. Approximately 5 percent of F D A-approved drugs are derived from compounds isolated from natural products found in foods such as fruits, plants, vegetables, spices, etc. There are numerous chemical components within food items that may have medicinal properties and, therefore, have beneficial effects on human health.",
+      "sentence_count": 18,
+      "word_count": 343,
+      "duration_s": 153.4,
+      "passage_audio_url": "chpt07_audio/6_grapes_and_phytochemicals/6_grapes_and_phytochemicals.mp3"
+    },
+    {
+      "id": "7_mechanism_of_action",
+      "title": "Mechanism of Action of Grapes and Their Active Components. Polyphenolic compounds in grapes, such as resveratrol, can function as photoprotective agents that prevent or reduce ultraviolet-induced inflammation, oxidative stress, and D N A damage. Resveratrol is found in grape skin. When applied topically, it can act as a sunscreen and prevent ultraviolet B-induced skin cancer by absorbing ultraviolet B radiation. In addition, topical resveratrol also prevents the upregulation of cell cycle proteins and M A P K induced by ultraviolet B and upregulates the expression of p21 and p53.",
+      "sentence_count": 5,
+      "word_count": 89,
+      "duration_s": 41.1,
+      "passage_audio_url": "chpt07_audio/7_mechanism_of_action/7_mechanism_of_action.mp3"
+    },
+    {
+      "id": "8_cell_cycle_arrest",
+      "title": "Cell Cycle Arrest and Apoptosis. Resveratrol administered orally induces cell cycle arrest and apoptosis in melanoma cells through a number of different mechanisms. Studies have shown that resveratrol activates p21, which modulates cyclin-cdk machinery and causes G1 cell cycle arrest. Resveratrol also induces apoptosis in melanoma cells via a mechanism that involves the upregulation of the expression of the tumor suppressor p53 and increased degradation of the pro-survival protein Bcl-2. This process involves resveratrol-induced downregulation of P K M 2. P K M 2 phosphorylates Bcl-2 and prevents the degradation of Bcl-2. Overall, the effects of resveratrol cause apoptosis and the release of cytochrome c from the mitochondria.",
+      "sentence_count": 7,
+      "word_count": 108,
+      "duration_s": 53.3,
+      "passage_audio_url": "chpt07_audio/8_cell_cycle_arrest/8_cell_cycle_arrest.mp3"
+    },
+    {
+      "id": "9_anti_inflammatory_properties",
+      "title": "Anti-inflammatory Properties. Ultraviolet B radiation can cause edema, erythema, and hyperplastic epithelial responses via a mechanism that involves C O X-2-mediated increase in prostaglandin production. Resveratrol reduces C O X-2 expression through several different mechanisms. Resveratrol prevents p65 phosphorylation and targets I kappa B kinase, which attenuates the transcriptional activity of N F-kappa B. Resveratrol also inhibits the activation of extracellular signal-regulated kinase. C O X-2 is a transcriptional target of both N F-kappa B and E R K. Therefore, the decreased activity of N F-kappa B and E R K induced by resveratrol leads to a decrease in C O X-2 expression and reduces ultraviolet-induced inflammation.",
+      "sentence_count": 5,
+      "word_count": 107,
+      "duration_s": 52.8,
+      "passage_audio_url": "chpt07_audio/9_anti_inflammatory_properties/9_anti_inflammatory_properties.mp3"
+    },
+    {
+      "id": "10_antioxidant_properties_ultraviolet",
+      "title": "Antioxidant Properties. Ultraviolet B induces the production of reactive oxygen species, which can cause oxidative stress and D N A damage. Resveratrol has antioxidant properties through numerous mechanisms. Resveratrol increases the expression and activity of enzymes that help balance oxidation and reduction in cells. These enzymes include, but are not limited to, superoxide dismutase, glutathione peroxidase, and heme oxygenase. Resveratrol also inhibits enzymes that promote the production of reactive oxygen species and may serve as a metal ion chelator to attenuate the production of free radicals. The three hydroxyl groups, aromatic rings, and double bond in resveratrol confer its ability to remove free radicals, including reactive oxygen species and reactive nitrogen species.",
+      "sentence_count": 14,
+      "word_count": 284,
+      "duration_s": 133.2,
+      "passage_audio_url": "chpt07_audio/10_antioxidant_properties_ultraviolet/10_antioxidant_properties_ultraviolet.mp3"
+    },
+    {
+      "id": "11_clinical_trial_insights",
+      "title": "Clinical Trial Insights: Alcohol Consumption and Skin Cancer Risk. In a large-scale clinical study, researchers investigated the relationship between alcohol consumption and the risk of melanoma and non-melanoma skin cancer. The results showed that overall alcohol intake was associated with an increased incidence of both melanoma and non-melanoma skin cancer. However, an intriguing finding emerged: red wine consumption demonstrated an inverse association with non-melanoma skin cancer risk in women but not in men. This observation suggests that certain components of red wine, particularly resveratrol, may have a protective effect against ultraviolet-induced skin damage. Given that red wine is a rich source of resveratrol, this finding aligns with previous research highlighting the compound's anti-inflammatory and antioxidant properties. The sex-specific differences warrant further investigation into the potential mechanisms behind resveratrol's protective effects and its interaction with hormonal or metabolic pathways.",
+      "sentence_count": 7,
+      "word_count": 138,
+      "duration_s": 65.7,
+      "passage_audio_url": "chpt07_audio/11_clinical_trial_insights/11_clinical_trial_insights.mp3"
+    },
+    {
+      "id": "12_innate_immune_cells",
+      "title": "Innate Immune Cells and UV-Induced Inflammation: The Key to R O S. Many studies highlight the critical role of the innate immune system in responding to ultraviolet-induced skin damage. As with any form of cellular damage, the innate immune system is the first line of cellular defense. Resident macrophages play a central role in tissue repair, serving as first responders that secrete inflammatory cytokines and chemokines to recruit neutrophils to the site of inflammation. While neutrophils are essential for clearing cellular debris and preventing further pathogen infiltration at the damaged skin site, their highly reactive nature can also exacerbate tissue damage if not tightly regulated. Additionally, mast cells release inflammatory mediators such as histamine, which amplify inflammation and contribute to tissue injury. However, they also play a crucial role in immune suppression following ultraviolet exposure, helping to counterbalance the cytotoxic effects of neutrophils and prevent excessive tissue destruction.",
+      "sentence_count": 21,
+      "word_count": 527,
+      "duration_s": 243.0,
+      "passage_audio_url": "chpt07_audio/12_innate_immune_cells/12_innate_immune_cells.mp3"
+    },
+    {
+      "id": "13_studies_on_uv",
+      "title": "Studies on UV-Induced Skin Damage with Resveratrate. Resveratrate is a stabilized derivative of resveratrol. In a study involving 15 healthy volunteers, researchers examined the effects of this product, applied topically, in preventing ultraviolet-induced skin damage. Their study showed that resveratrate significantly reduces erythema, sunburn cell formation, and melanin accumulation compared to untreated or vehicle-treated areas. The most significant protection is observed when resveratrate is combined with additional antioxidants, highlighting its ability to modulate skin inflammation and pigmentation. These findings demonstrate that resveratrate provides direct photoprotective benefits when applied to skin, effectively attenuating ultraviolet radiation-induced sunburn and suntan in human skin. This highlights its potential as a topical agent for reducing ultraviolet-mediated skin damage.",
+      "sentence_count": 7,
+      "word_count": 113,
+      "duration_s": 58.3,
+      "passage_audio_url": "chpt07_audio/13_studies_on_uv/13_studies_on_uv.mp3"
+    },
+    {
+      "id": "14_preclinical_trials_performed",
+      "title": "Preclinical Trials Performed with Resveratrol and Grapes. Resveratrol's diverse therapeutic potential has led to its exploration in a wide spectrum of applications, including cardiovascular disease, anti-inflammatory effects, cancer chemoprevention, and metabolic and anti-aging effects. Several studies have been conducted to assess the basic pharmacological properties of resveratrol including mechanism of action, absorption, distribution, metabolism, and elimination. Resveratrol's role in cancer prevention is thought to be attributed to its ability to induce apoptosis, regulate the cell cycle, and enhance D N A damage repair mechanisms. However, to date, few clinical trials have been conducted to fully validate these effects in humans. Importantly, several of the studies include trials that focus on formulation, pharmacokinetics, and combination therapies with other drugs, rather than on resveratrol alone. Additionally, these studies span all types of cancers, making it challenging to draw specific conclusions about their efficacy for any single cancer type.",
+      "sentence_count": 39,
+      "word_count": 826,
+      "duration_s": 398.5,
+      "passage_audio_url": "chpt07_audio/14_preclinical_trials_performed/14_preclinical_trials_performed.mp3"
+    },
+    {
+      "id": "15_grape_consumption_and",
+      "title": "Grape Consumption and UV Resistance in Humans. The first human study that established the effect of oral administration of dietary table grape on ultraviolet treatment was reported by Elmets and coworkers. The study evaluates the effects of dietary table grape consumption on ultraviolet-induced skin damage in 19 healthy humans over the course of 2 weeks. They reported an overall protective effect of dietary grapes, suggesting greater resistance to ultraviolet-induced sunburn. When analyzing the response of the 19 subjects individually, the minimal erythema dose, a measure of ultraviolet resistance which was determined before and after treatment, increased in 11 participants, remained unchanged in 7, and decreased in only 1.",
+      "sentence_count": 24,
+      "word_count": 609,
+      "duration_s": 278.3,
+      "passage_audio_url": "chpt07_audio/15_grape_consumption_and/15_grape_consumption_and.mp3"
+    },
+    {
+      "id": "16_new_findings_on",
+      "title": "New Findings on the Effect of Grape Powder on Human Skin After Acute Exposure to UVB. In previous studies, we have demonstrated that consumption of grapes is capable of enhancing the skin's ultraviolet resistance in approximately 1 in 3 subjects, 31 percent, based on increases in the minimal erythema dose. Naturally, the clinical protocol used to monitor the minimal erythema dose changes was designed to produce no serious damage to the skin, for example, first-, second-, or third-degree burns. As indicated by the name of the evaluation procedure, ultraviolet exposure was minimal. To approach maximal redness, a dose of about 6 to 10 minimal erythema doses is required. The broader consequences of greater sun exposure have been reviewed. In the context of a minimal erythema dose, however, although an increase resulting from a dietary intervention may imply greater skin resilience to sun exposure, the actual test parameter is simply the minimal visible response induced by a low dose of ultraviolet irradiation, which results in redness caused by engorgement of capillaries.",
+      "sentence_count": 32,
+      "word_count": 843,
+      "duration_s": 362.1,
+      "passage_audio_url": "chpt07_audio/16_new_findings_on/16_new_findings_on.mp3"
+    },
+    {
+      "id": "17_r_n_a",
+      "title": "R N A-Seq with Human Skin Biopsies. As described elsewhere in the volume, consumption of grapes modulates gene expression in the skin of humans. This is confirmed by the R N A-seq data shown below, from a human subject referred to by the code letter S. Comparison of a skin biopsy obtained prior to the consumption of grapes for two weeks with a biopsy obtained following grape consumption for two weeks showed 21,507 gene transcripts shared in common, while 1894 genes were uniquely expressed in the pre-grape sample, and 2296 were uniquely expressed in the post-grape sample. Thus, grape consumption, per se, influences gene expression.",
+      "sentence_count": 19,
+      "word_count": 421,
+      "duration_s": 192.2,
+      "passage_audio_url": "chpt07_audio/17_r_n_a/17_r_n_a.mp3"
+    },
+    {
+      "id": "18_conclusions_and_future",
+      "title": "Conclusions and Future Directions. The skin is often considered the largest organ of the human body, representing about 15 percent of total body weight. Exposure of the skin to ultraviolet irradiation emanating from the sun can lead to many untoward disorders, the most threatening being cancer. Clearly, the most definitive way to prevent such problems is to avoid exposure by the use of clothing, sunscreens, etc. Nonetheless, the incidence of skin cancer remains high. Although the majority of cases can be completely resolved if detected at an early stage and surgically eliminated, presently, more than two people die of skin cancer every hour in the United States. Overall, it seems reasonable to explore how natural components of the diet may affect the risk of skin cancer.",
+      "sentence_count": 21,
+      "word_count": 468,
+      "duration_s": 188.5,
+      "passage_audio_url": "chpt07_audio/18_conclusions_and_future/18_conclusions_and_future.mp3"
+    }
+  ]
+}

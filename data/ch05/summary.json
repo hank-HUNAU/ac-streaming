@@ -1,0 +1,114 @@
+{
+  "id": "ch05",
+  "title": "05 Grapes and Gastrointestinal Health",
+  "total_sentences": 270,
+  "total_duration_s": 3364.9,
+  "total_terms": 418,
+  "total_sections": 13,
+  "sections": [
+    {
+      "id": "0_grapes_and_gastrointestinal",
+      "title": "Grapes and Gastrointestinal Health. Qing Jiang and Qianyue Wang.",
+      "sentence_count": 2,
+      "word_count": 9,
+      "duration_s": 4.9,
+      "passage_audio_url": "chpt05_audio/0_grapes_and_gastrointestinal/0_grapes_and_gastrointestinal.mp3"
+    },
+    {
+      "id": "1_abstract_the_gastrointestinal",
+      "title": "Abstract. The gastrointestinal tract functions to digest food components and absorb nutrients and water. The intestinal epithelium and mucus form an important physical barrier that prevents resident and environmental toxic components from entering the circulation and tissues, including microorganisms, toxins, and other harmful compounds. Intestinal barrier defects may result in an uncontrolled influx of antigens and microorganisms, which can consequently interrupt mucosal immune homeostasis and trigger inflammation in the mucus and intestinal tissues. Interestingly, accumulating evidence shows that grapes and grape polyphenols have profound impacts on gut barrier integrity, gut microbiota, and intestinal immune response. In this chapter, we discuss the interactions of grape polyphenols with gut microbiota, the effects of polyphenols and their metabolites on intestinal barrier functions, and intestinal inflammation. Overall, existing evidence supports the notion that grapes and grape polyphenols can protect intestinal barrier integrity, promote beneficial gut microbiome, exert antioxidant and anti-inflammatory actions, and prevent or mitigate intestinal diseases, including inflammatory bowel disease, celiac disease, irritable bowel syndrome, and colorectal cancer.",
+      "sentence_count": 7,
+      "word_count": 165,
+      "duration_s": 83.2,
+      "passage_audio_url": "chpt05_audio/1_abstract_the_gastrointestinal/1_abstract_the_gastrointestinal.mp3"
+    },
+    {
+      "id": "2_introduction_the_gastrointestinal",
+      "title": "Introduction. The gastrointestinal tract serves as a highly selective barrier that is essential for the absorption of nutrients. The intestinal epithelium and intestinal mucus form a key physical defense to prevent resident and environmental toxic compounds, microbes, and pathogens from entering host circulation and tissues. Tight junction proteins, including occludins, claudins, and zonula occludins, are crucial for the maintenance of epithelial barrier integrity. When the intestinal barrier integrity is compromised, the resultant influx of intestine lumen content, including gut bacteria, can trigger exaggerated mucosal immune responses. Compromised intestinal barrier function leads to chronic local and even systemic inflammatory conditions that contribute to the development of chronic diseases, including inflammatory bowel diseases, obesity, and metabolic disorders.",
+      "sentence_count": 9,
+      "word_count": 192,
+      "duration_s": 92.5,
+      "passage_audio_url": "chpt05_audio/2_introduction_the_gastrointestinal/2_introduction_the_gastrointestinal.mp3"
+    },
+    {
+      "id": "3_major_polyphenols_in",
+      "title": "Major Polyphenols in Grapes. Polyphenols in grapes consist of flavonoids, which include flavonols, anthocyanidins, and catechins, and nonflavonoids, which include phenolic acids and stilbenes. Grape flavonols contain flavan-3-ols catechin and epicatechin and conjugated flavonols, for example, quercetin glucoside, kaempferol glucoside, isorhamnetin glucoside, and myricetin glucoside. Anthocyanins contain malvidin, cyanidin, delphinidin, and petunidin, which are also present in glycoside forms. Grape seeds are also rich sources of proanthocyanidins, which are oligomeric and polymeric flavonoids. Grape phenolic acids include gallic acids, hydroxybenzoic acids, and hydroxycinnamates such as caffeic and coumaric acids. Stilbenes in grapes include trans-resveratrol, cis-resveratrol, and trans-resveratrol glucoside.",
+      "sentence_count": 7,
+      "word_count": 98,
+      "duration_s": 58.7,
+      "passage_audio_url": "chpt05_audio/3_major_polyphenols_in/3_major_polyphenols_in.mp3"
+    },
+    {
+      "id": "4_absorption_and_metabolism",
+      "title": "Absorption and Metabolism of Grape Polyphenols. Conjugated polyphenols, such as flavanol glycosides, need to be hydrolyzed into free polyphenols, aglycones, via beta-glucosidase in order to be effectively absorbed into enterocytes in the small intestine. After aglycones are absorbed into enterocytes, these polyphenols are metabolized through phase one modification, including oxidation and hydroxylation, and phase two conjugation, such as sulfation, methylation, and glucuronidation. Similar processes of metabolism and conjugation also take place in the liver. Consequently, sulfated and glucuronidated polyphenols are found in plasma after flavonoid ingestion. Unabsorbed polyphenols move to the colon, where they interact with microbiota extensively. Research has shown that substantial amounts of ingested flavan-3-ol monomers and proanthocyanidins remain unabsorbed in the small intestine and reach the colon. There, they are efficiently transformed by the colonic microbiota into low-molecular-weight phenolic compounds, which can be absorbed by colonocytes. Specifically, polyphenols are biotransformed by gut microbiota via catabolic reactions, including deconjugation, hydrolysis, and reduction. The resultant metabolites and aglycones are absorbed for further metabolism in colonocytes and the liver.",
+      "sentence_count": 15,
+      "word_count": 273,
+      "duration_s": 139.1,
+      "passage_audio_url": "chpt05_audio/4_absorption_and_metabolism/4_absorption_and_metabolism.mp3"
+    },
+    {
+      "id": "5_mutual_interactions_of",
+      "title": "Mutual Interactions of Polyphenols and Gut Microbiota. It is believed that only a small portion of polyphenols is absorbed in the upper gastrointestinal tract, but up to 90 to 95 percent of consumed polyphenols can reach the large intestine, where gut microbes reside. Accumulating evidence indicates that polyphenols and gut microbes can modulate each other through mutual interactions.",
+      "sentence_count": 35,
+      "word_count": 910,
+      "duration_s": 460.4,
+      "passage_audio_url": "chpt05_audio/5_mutual_interactions_of/5_mutual_interactions_of.mp3"
+    },
+    {
+      "id": "6_grape_products_promote",
+      "title": "Grape Products Promote Beneficial Gut Microbiome. Accumulating research indicates that gut microbiota plays significant roles in maintaining a healthy gut and attenuating intestinal diseases, including inflammatory bowel diseases and colorectal cancer. For instance, patients with colorectal cancer and inflammatory bowel diseases have reduced the relative abundance of beneficial bacteria, including butyrate producers, and increased the abundance of opportunistic pathogen species. Importantly, the fecal microbiota transplantation of stool samples from colorectal cancer patients has been reported to promote carcinogen-induced macroscopic polyps and colonic inflammation in mice compared to those treated with stool samples from healthy volunteers. Moreover, fecal microbiota transplantation using microbial community from healthy donors has been found to mitigate colitis-associated dysbiosis and even result in colitis remission in inflammatory bowel disease patients. Therefore, it has been proposed that the modulation of gut microbiota by preventive agents may be an effective strategy for controlling colitis and inhibiting colitis-associated colon cancer. To this end, polyphenols in grapes appear to be able to cultivate a healthy microbial community that prevents or restores dysbiosis.",
+      "sentence_count": 55,
+      "word_count": 1532,
+      "duration_s": 762.5,
+      "passage_audio_url": "chpt05_audio/6_grape_products_promote/6_grape_products_promote.mp3"
+    },
+    {
+      "id": "7_the_impact_of",
+      "title": "The Impact of Polyphenols on Intestinal Permeability and Barrier Functions. Accumulating research has reported that grape polyphenols can offer protective effects on intestinal barrier functions, possibly via antioxidant and anti-inflammatory activities, and also promote beneficial gut microbes. For instance, researchers showed that a diet containing 1 percent grape polyphenol extracts rich in B-type proanthocyanidin compounds increased the relative abundance of fecal and cecal Akkermansia muciniphila in mice. Akkermansia muciniphila is known to stimulate intestinal mucin thickness to improve gut barrier integrity. Another group examined the effects of a diet containing 8 percent grape seed meal, which is rich in bioactive compounds, including polyphenols, polyunsaturated fatty acids, and fiber, on the markers of colonic epithelial integrity, mucosal barrier function, and inflammation in dextran sulfate sodium-treated piglets. These investigators observed that the grape seed diet restored epithelial integrity and mucosal barrier reinforcement through the modulation of tight junction genes and proteins, including claudins, occludins, and zonula-1, and tight junction regulators, such as myosin IXB and protein tyrosine phosphatase, as well as mucin-2 gene. The grape seed meal also decreased pro-inflammatory matrix metalloproteinase-2 and matrix metalloproteinase-9 expression and suppressed Toll-like receptor-2 and Toll-like receptor-4 genes. Further, the supplementation of the grape polyphenol extract decreased the ileal gene expression of the lipopolysaccharide-binding protein, an acute-phase protein that promotes pro-inflammatory cytokine expression, suggesting reduced lipopolysaccharide in the circulation and protection of gut barrier integrity. Moreover, researchers reported that the supplementation of grape seed procyanidins decreased the serum concentrations of diamine oxidase, D-lactic acid, and endotoxin in geese, indicating the protection of intestine barrier integrity, and increased the total antioxidant capacity and superoxide dismutase and catalase activity in cecal mucosa. In addition, grape seed proanthocyanidin extract markedly suppressed the dextran sulfate sodium-induced elevation of the T N F-alpha, I L-1 beta, and messenger ribonucleic acid of N L R P 3 while upregulating the messenger ribonucleic acids of tight junction proteins, including zonula occludens-1, occludins, and claudin-1, suggesting the potential improvement of mucosa integrity.",
+      "sentence_count": 23,
+      "word_count": 720,
+      "duration_s": 356.0,
+      "passage_audio_url": "chpt05_audio/7_the_impact_of/7_the_impact_of.mp3"
+    },
+    {
+      "id": "8_effects_of_polyphenols",
+      "title": "Effects of Polyphenols and Grapes on Intestinal Disorders. In addition to the observation that grape polyphenols and related products appear to protect gut barrier functions, numerous studies have revealed their impact on various intestinal disorders.",
+      "sentence_count": 25,
+      "word_count": 677,
+      "duration_s": 335.5,
+      "passage_audio_url": "chpt05_audio/8_effects_of_polyphenols/8_effects_of_polyphenols.mp3"
+    },
+    {
+      "id": "9_effects_of_grape",
+      "title": "Effects of Grape Polyphenols on Celiac Disease. Celiac disease, which affects 1 to 2 percent of the general population with increased prevalence in recent years, is an autoimmune inflammatory condition of the small intestine that is caused by the ingestion of gluten proteins in genetically susceptible individuals. Celiac disease is associated with a damaged small intestine and dysfunction in absorbing nutrients from food. Although the symptoms of celiac disease, including villous atrophy, can be alleviated by gluten-free diets, this dietary regimen can be highly restrictive and sometimes difficult to maintain. For this reason, it is important to develop new therapies capable of mitigating and controlling the disease.",
+      "sentence_count": 10,
+      "word_count": 259,
+      "duration_s": 115.7,
+      "passage_audio_url": "chpt05_audio/9_effects_of_grape/9_effects_of_grape.mp3"
+    },
+    {
+      "id": "10_the_effects_of",
+      "title": "The Effects of Grape Polyphenols on Irritable Bowel Syndrome. The prevalence of irritable bowel syndrome in the United States is between 7 and 16 percent, with a higher prevalence among women than men. The main symptoms include diarrhea, constipation, abdominal pain, or bloating. Although the pathophysiology of irritable bowel syndrome is not fully understood, irritable bowel syndrome is believed to have disordered communication between the gut and the brain, leading to motility disturbances, visceral hypersensitivity, and altered central nervous system processing. Common treatments include dietary changes, such as increasing the intake of soluble fiber. Interestingly, emerging research has documented the potential impact of polyphenols on irritable bowel syndrome in experimental animals. For instance, researchers showed that trans-resveratrol ameliorated chronic-acute combined stress-caused irritable bowel syndrome-like symptoms including depression, anxiety, and intestinal dysfunction in male ICR mice. In another study, quercetin treatment markedly elevated the pain threshold pressure, decreased visceral motor response, and reduced 5-hydroxytryptamine in pro-inflammatory irritable bowel syndrome animals. In addition, researchers observed that rats that received chronic-acute combined stress exhibited depression and anxiety-like behavior, visceral hypersensitivity, and altered intestinal motility, as well as reduced 5-hydroxytryptamine in the hippocampus. Importantly, resveratrol dose-dependently attenuated chronic-acute combined stress-induced above-mentioned central nervous and peripheral dysfunction.",
+      "sentence_count": 10,
+      "word_count": 201,
+      "duration_s": 102.3,
+      "passage_audio_url": "chpt05_audio/10_the_effects_of/10_the_effects_of.mp3"
+    },
+    {
+      "id": "11_preventive_effects_of",
+      "title": "Preventive Effects of Grape Polyphenols and Grapes Against Colon Cancer. Colorectal cancer is the second-leading cause of cancer death in men and women combined, accounting for 8 to 9 percent of all cancer mortality in the United States. Since there is a lack of effective treatment for advanced cancer, it is necessary to develop relatively safe and effective preventive agents that can inhibit or delay the progression of early-stage colorectal cancer. To this end, many grape polyphenols have been evaluated for their colorectal cancer-preventing potentials in preclinical cell and animal models. Many studies have documented the anticancer effects of purified bioactive polyphenols found in grapes, such as resveratrol and quercetin, against colon cancer in cell-based studies and animal models. Overall, these compounds have been shown to be able to block colon cancer cell proliferation, induce apoptosis, and suppress inflammation in colon cancer cells, as well as display chemopreventive actions in various animal models against colitis-associated colon cancer or sporadic colon cancer. In this article, we focus on the anticancer effects of grape extracts or whole grapes against colon cancer in the recent 5 years.",
+      "sentence_count": 23,
+      "word_count": 620,
+      "duration_s": 284.5,
+      "passage_audio_url": "chpt05_audio/11_preventive_effects_of/11_preventive_effects_of.mp3"
+    },
+    {
+      "id": "12_the_role_of",
+      "title": "The Role of Gut Microbiota in Polyphenol-Mediated Beneficial Effects. As discussed above, polyphenols appear to be capable of increasing probiotics such as Lactobacillus and Bifidobacterium, Akkermansia, and butyrate producers, including Faecalibacterium prausnitzii, Eubacterium rectale, Clostridium cluster IV and XIVa, and Butyricicoccus, under both healthy and diseased conditions. In the meantime, Lactobacillus and Bifidobacterium have been shown to attenuate colitis and inhibit the development of colitis-associated colon cancer. Moreover, polyphenols are found to reverse disease-associated changes in the gut microbial profile, as indicated by observations that the gut microbial composition in polyphenol-treated disease animals often resembles those in the healthy ones. These results indicate that polyphenols promote beneficial gut microbes and render resistance to disease-caused dysbiosis. Further, the polyphenol promotion of these beneficial microbes may play a role in their anticolitis and anti-colitis-associated colon cancer actions.",
+      "sentence_count": 49,
+      "word_count": 1190,
+      "duration_s": 569.7,
+      "passage_audio_url": "chpt05_audio/12_the_role_of/12_the_role_of.mp3"
+    }
+  ]
+}

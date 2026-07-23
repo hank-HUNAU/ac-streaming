@@ -1,0 +1,52 @@
+{
+  "id": "3_major_polyphenols_in",
+  "title": "Major Polyphenols in Grapes. Polyphenols in grapes consist of flavonoids, which include flavonols, anthocyanidins, and catechins, and nonflavonoids, which include phenolic acids and stilbenes. Grape flavonols contain flavan-3-ols catechin and epicatechin and conjugated flavonols, for example, quercetin glucoside, kaempferol glucoside, isorhamnetin glucoside, and myricetin glucoside. Anthocyanins contain malvidin, cyanidin, delphinidin, and petunidin, which are also present in glycoside forms. Grape seeds are also rich sources of proanthocyanidins, which are oligomeric and polymeric flavonoids. Grape phenolic acids include gallic acids, hydroxybenzoic acids, and hydroxycinnamates such as caffeic and coumaric acids. Stilbenes in grapes include trans-resveratrol, cis-resveratrol, and trans-resveratrol glucoside.",
+  "sentences": [
+    {
+      "text": "Major Polyphenols in Grapes.",
+      "start": 0.1,
+      "end": 1.9,
+      "word_count": 4
+    },
+    {
+      "text": "Polyphenols in grapes consist of flavonoids, which include flavonols, anthocyanidins, and catechins, and nonflavonoids, which include phenolic acids and stilbenes.",
+      "start": 2.763,
+      "end": 13.238,
+      "word_count": 20
+    },
+    {
+      "text": "Grape flavonols contain flavan-3-ols catechin and epicatechin and conjugated flavonols, for example, quercetin glucoside, kaempferol glucoside, isorhamnetin glucoside, and myricetin glucoside.",
+      "start": 14.113,
+      "end": 27.15,
+      "word_count": 21
+    },
+    {
+      "text": "Anthocyanins contain malvidin, cyanidin, delphinidin, and petunidin, which are also present in glycoside forms.",
+      "start": 28.012,
+      "end": 35.388,
+      "word_count": 14
+    },
+    {
+      "text": "Grape seeds are also rich sources of proanthocyanidins, which are oligomeric and polymeric flavonoids.",
+      "start": 36.25,
+      "end": 42.425,
+      "word_count": 14
+    },
+    {
+      "text": "Grape phenolic acids include gallic acids, hydroxybenzoic acids, and hydroxycinnamates such as caffeic and coumaric acids.",
+      "start": 43.288,
+      "end": 51.5,
+      "word_count": 16
+    },
+    {
+      "text": "Stilbenes in grapes include trans-resveratrol, cis-resveratrol, and trans-resveratrol glucoside.",
+      "start": 52.362,
+      "end": 58.688,
+      "word_count": 9
+    }
+  ],
+  "sentence_count": 7,
+  "word_count": 98,
+  "total_duration": 58.688,
+  "voice": "en-US-AriaNeural"
+}

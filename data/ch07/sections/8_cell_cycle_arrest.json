@@ -1,0 +1,52 @@
+{
+  "id": "8_cell_cycle_arrest",
+  "title": "Cell Cycle Arrest and Apoptosis. Resveratrol administered orally induces cell cycle arrest and apoptosis in melanoma cells through a number of different mechanisms. Studies have shown that resveratrol activates p21, which modulates cyclin-cdk machinery and causes G1 cell cycle arrest. Resveratrol also induces apoptosis in melanoma cells via a mechanism that involves the upregulation of the expression of the tumor suppressor p53 and increased degradation of the pro-survival protein Bcl-2. This process involves resveratrol-induced downregulation of P K M 2. P K M 2 phosphorylates Bcl-2 and prevents the degradation of Bcl-2. Overall, the effects of resveratrol cause apoptosis and the release of cytochrome c from the mitochondria.",
+  "sentences": [
+    {
+      "text": "Cell Cycle Arrest and Apoptosis.",
+      "start": 0.1,
+      "end": 2.413,
+      "word_count": 5
+    },
+    {
+      "text": "Resveratrol administered orally induces cell cycle arrest and apoptosis in melanoma cells through a number of different mechanisms.",
+      "start": 3.275,
+      "end": 10.762,
+      "word_count": 18
+    },
+    {
+      "text": "Studies have shown that resveratrol activates p21, which modulates cyclin-cdk machinery and causes G1 cell cycle arrest.",
+      "start": 11.625,
+      "end": 20.262,
+      "word_count": 17
+    },
+    {
+      "text": "Resveratrol also induces apoptosis in melanoma cells via a mechanism that involves the upregulation of the expression of the tumor suppressor p53 and increased degradation of the pro-survival protein Bcl-2.",
+      "start": 21.125,
+      "end": 34.188,
+      "word_count": 30
+    },
+    {
+      "text": "This process involves resveratrol-induced downregulation of P K M 2.",
+      "start": 35.062,
+      "end": 39.8,
+      "word_count": 10
+    },
+    {
+      "text": "P K M 2 phosphorylates Bcl-2 and prevents the degradation of Bcl-2.",
+      "start": 40.675,
+      "end": 45.913,
+      "word_count": 12
+    },
+    {
+      "text": "Overall, the effects of resveratrol cause apoptosis and the release of cytochrome c from the mitochondria.",
+      "start": 46.788,
+      "end": 53.312,
+      "word_count": 16
+    }
+  ],
+  "sentence_count": 7,
+  "word_count": 108,
+  "total_duration": 53.312,
+  "voice": "en-US-AriaNeural"
+}

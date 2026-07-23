@@ -1,0 +1,100 @@
+{
+  "id": "20_effects_of_grapes",
+  "title": "Effects of Grapes on Non-melanoma Skin Cancer. Non-melanoma skin cancers, including basal cell carcinoma and squamous cell carcinoma, are primarily caused by ultraviolet radiation, a well-established environmental carcinogen. The increasing incidence of non-melanoma skin cancers, particularly among older populations and individuals with prolonged ultraviolet exposure, has prompted increased interest of researchers towards novel chemopreventive strategies to combat these neoplasms. Among the promising candidates for protection against ultraviolet-induced skin damage are grape-derived compounds. Most of the research relevant to grapes in this direction has focused on resveratrol, though a few studies have examined whole grapes or combinations of grape phytochemicals. Recent studies have demonstrated the chemoprotective effects of grape powder against ultraviolet B-induced skin tumorigenesis. For example, a short-term study using male and female SKH-1 mice revealed that grape powder supplementation significantly protected against early-stage skin lesions. These effects were observed in both sexes, indicating that grape powder offers protection across genders. In a long-term study, grape powder reduced tumor counts, malignant conversion, and associated markers of inflammation, such as serum I g E and eotaxin. Further, inhibition of p38 phosphorylation and reduced P C N A, Ki67, and B C L 2 levels were also observed. Additionally, in another study, topical application of grape seed extracts significantly inhibited ultraviolet B-induced sunburn cells and cyclobutane pyrimidine dimers, which are markers of D N A damage. It also reduced the levels of pro-inflammatory cytokines T N F alpha and I L-6 while protecting the skin from ultraviolet-induced damage. These findings highlight the effectiveness of whole grapes or grape constituents in skin cancer.",
+  "sentences": [
+    {
+      "text": "Effects of Grapes on Non-melanoma Skin Cancer.",
+      "start": 0.1,
+      "end": 2.925,
+      "word_count": 7
+    },
+    {
+      "text": "Non-melanoma skin cancers, including basal cell carcinoma and squamous cell carcinoma, are primarily caused by ultraviolet radiation, a well-established environmental carcinogen.",
+      "start": 3.788,
+      "end": 15.062,
+      "word_count": 21
+    },
+    {
+      "text": "The increasing incidence of non-melanoma skin cancers, particularly among older populations and individuals with prolonged ultraviolet exposure, has prompted increased interest of researchers towards novel chemopreventive strategies to combat these neoplasms.",
+      "start": 15.925,
+      "end": 31.488,
+      "word_count": 31
+    },
+    {
+      "text": "Among the promising candidates for protection against ultraviolet-induced skin damage are grape-derived compounds.",
+      "start": 32.362,
+      "end": 38.737,
+      "word_count": 13
+    },
+    {
+      "text": "Most of the research relevant to grapes in this direction has focused on resveratrol, though a few studies have examined whole grapes or combinations of grape phytochemicals.",
+      "start": 39.612,
+      "end": 48.9,
+      "word_count": 27
+    },
+    {
+      "text": "Recent studies have demonstrated the chemoprotective effects of grape powder against ultraviolet B-induced skin tumorigenesis.",
+      "start": 49.763,
+      "end": 56.95,
+      "word_count": 15
+    },
+    {
+      "text": "For example, a short-term study using male and female SKH-1 mice revealed that grape powder supplementation significantly protected against early-stage skin lesions.",
+      "start": 57.825,
+      "end": 68.15,
+      "word_count": 22
+    },
+    {
+      "text": "These effects were observed in both sexes, indicating that grape powder offers protection across genders.",
+      "start": 69.025,
+      "end": 75.15,
+      "word_count": 15
+    },
+    {
+      "text": "In a long-term study, grape powder reduced tumor counts, malignant conversion, and associated markers of inflammation, such as serum I g E and eotaxin.",
+      "start": 76.025,
+      "end": 85.862,
+      "word_count": 24
+    },
+    {
+      "text": "Further, inhibition of p38 phosphorylation and reduced P C N A, Ki67, and B C L 2 levels were also observed.",
+      "start": 86.725,
+      "end": 95.513,
+      "word_count": 21
+    },
+    {
+      "text": "Additionally, in another study, topical application of grape seed extracts significantly inhibited ultraviolet B-induced sunburn cells and cyclobutane pyrimidine dimers, which are markers of D N A damage.",
+      "start": 96.388,
+      "end": 109.037,
+      "word_count": 28
+    },
+    {
+      "text": "It also reduced the levels of pro-inflammatory cytokines T N F alpha and I L-6 while protecting the skin from ultraviolet-induced damage.",
+      "start": 109.9,
+      "end": 118.388,
+      "word_count": 22
+    },
+    {
+      "text": "These findings highlight the effectiveness of whole grapes or grape constituents in skin cancer.",
+      "start": 119.25,
+      "end": 124.412,
+      "word_count": 14
+    },
+    {
+      "text": "More research on the utility of whole grapes on cancer prevention and cancer treatment endpoints is needed.",
+      "start": 125.275,
+      "end": 130.825,
+      "word_count": 17
+    },
+    {
+      "text": "Some of the investigations done in individual grape constituents are discussed below.",
+      "start": 131.688,
+      "end": 136.387,
+      "word_count": 12
+    }
+  ],
+  "sentence_count": 15,
+  "word_count": 289,
+  "total_duration": 136.387,
+  "voice": "en-US-AriaNeural"
+}

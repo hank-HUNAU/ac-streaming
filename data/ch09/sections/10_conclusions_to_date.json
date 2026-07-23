@@ -1,0 +1,40 @@
+{
+  "id": "10_conclusions_to_date",
+  "title": "Conclusions. To date, human metabolomics studies involving consumption of grapes, grape extracts, and wine extracts have focused on changes in phenolic acid levels in urine and plasma. Grape consumption alters the urine and plasma levels of phenolic acids, perhaps by altering the gut microbiome to produce these compounds as degradation products of grape polyphenols. Also, gas chromatography-mass spectrometry has been the primary analytical tool used so far for human metabolomics studies involving grape consumption, although the use of liquid chromatography-mass spectrometry would enable additional classes of metabolites to be measured. For example, lipidomics studies of the effects of grape consumption have not been carried out but might reveal additional benefits of grapes to human health.",
+  "sentences": [
+    {
+      "text": "Conclusions.",
+      "start": 0.1,
+      "end": 1.05,
+      "word_count": 1
+    },
+    {
+      "text": "To date, human metabolomics studies involving consumption of grapes, grape extracts, and wine extracts have focused on changes in phenolic acid levels in urine and plasma.",
+      "start": 1.913,
+      "end": 12.613,
+      "word_count": 26
+    },
+    {
+      "text": "Grape consumption alters the urine and plasma levels of phenolic acids, perhaps by altering the gut microbiome to produce these compounds as degradation products of grape polyphenols.",
+      "start": 13.475,
+      "end": 23.938,
+      "word_count": 27
+    },
+    {
+      "text": "Also, gas chromatography-mass spectrometry has been the primary analytical tool used so far for human metabolomics studies involving grape consumption, although the use of liquid chromatography-mass spectrometry would enable additional classes of metabolites to be measured.",
+      "start": 24.8,
+      "end": 40.763,
+      "word_count": 36
+    },
+    {
+      "text": "For example, lipidomics studies of the effects of grape consumption have not been carried out but might reveal additional benefits of grapes to human health.",
+      "start": 41.638,
+      "end": 49.975,
+      "word_count": 25
+    }
+  ],
+  "sentence_count": 5,
+  "word_count": 115,
+  "total_duration": 49.975,
+  "voice": "en-US-AriaNeural"
+}

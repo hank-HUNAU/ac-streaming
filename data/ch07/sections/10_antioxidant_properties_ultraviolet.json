@@ -1,0 +1,94 @@
+{
+  "id": "10_antioxidant_properties_ultraviolet",
+  "title": "Antioxidant Properties. Ultraviolet B induces the production of reactive oxygen species, which can cause oxidative stress and D N A damage. Resveratrol has antioxidant properties through numerous mechanisms. Resveratrol increases the expression and activity of enzymes that help balance oxidation and reduction in cells. These enzymes include, but are not limited to, superoxide dismutase, glutathione peroxidase, and heme oxygenase. Resveratrol also inhibits enzymes that promote the production of reactive oxygen species and may serve as a metal ion chelator to attenuate the production of free radicals. The three hydroxyl groups, aromatic rings, and double bond in resveratrol confer its ability to remove free radicals, including reactive oxygen species and reactive nitrogen species.",
+  "sentences": [
+    {
+      "text": "Antioxidant Properties.",
+      "start": 0.1,
+      "end": 1.712,
+      "word_count": 2
+    },
+    {
+      "text": "Ultraviolet B induces the production of reactive oxygen species, which can cause oxidative stress and D N A damage.",
+      "start": 2.575,
+      "end": 9.975,
+      "word_count": 19
+    },
+    {
+      "text": "Resveratrol has antioxidant properties through numerous mechanisms.",
+      "start": 10.838,
+      "end": 14.85,
+      "word_count": 7
+    },
+    {
+      "text": "Resveratrol increases the expression and activity of enzymes that help balance oxidation and reduction in cells.",
+      "start": 15.713,
+      "end": 22.462,
+      "word_count": 16
+    },
+    {
+      "text": "These enzymes include, but are not limited to, superoxide dismutase, glutathione peroxidase, and heme oxygenase.",
+      "start": 23.337,
+      "end": 31.038,
+      "word_count": 15
+    },
+    {
+      "text": "Resveratrol also inhibits enzymes that promote the production of reactive oxygen species and may serve as a metal ion chelator to attenuate the production of free radicals.",
+      "start": 31.9,
+      "end": 41.875,
+      "word_count": 27
+    },
+    {
+      "text": "The three hydroxyl groups, aromatic rings, and double bond in resveratrol confer its ability to remove free radicals, including reactive oxygen species and reactive nitrogen species.",
+      "start": 42.75,
+      "end": 54.362,
+      "word_count": 26
+    },
+    {
+      "text": "Enhance D N A Damage Repair.",
+      "start": 55.225,
+      "end": 57.25,
+      "word_count": 6
+    },
+    {
+      "text": "Resveratrol protects cells against ultraviolet B by enhancing D N A damage repair mechanisms.",
+      "start": 58.125,
+      "end": 64.237,
+      "word_count": 14
+    },
+    {
+      "text": "It also promotes more efficient repair of double-stranded D N A breaks and thereby maintains genomic stability.",
+      "start": 65.1,
+      "end": 71.45,
+      "word_count": 17
+    },
+    {
+      "text": "A P E and Ref-1, a D N A repair enzyme, is upregulated in melanoma compared to noncancerous melanocytes.",
+      "start": 72.325,
+      "end": 80.075,
+      "word_count": 19
+    },
+    {
+      "text": "In addition to its D N A repair function, A P E and Ref-1 also regulates the binding of several transcription factors to D N A, including Jun and Fox, Myb, N F-kappa B, p53, and C R E B. Resveratrol binds in a pocket of A P E and Ref-1 and inhibit its function as a D N A repair enzyme as well as inhibit downstream transcription factors, such as A P-1, and sensitize melanoma to chemotherapy.",
+      "start": 80.95,
+      "end": 110.475,
+      "word_count": 78
+    },
+    {
+      "text": "In sum, resveratrol has diverse therapeutic potential to prevent skin carcinogenesis.",
+      "start": 111.35,
+      "end": 116.95,
+      "word_count": 11
+    },
+    {
+      "text": "Resveratrol prevents ultraviolet B-induced skin carcinogenesis through numerous mechanisms, including its anti-inflammatory and antioxidant properties, enhancement of D N A damage repair, and anti-proliferative and pro-apoptotic effects.",
+      "start": 117.812,
+      "end": 133.175,
+      "word_count": 27
+    }
+  ],
+  "sentence_count": 14,
+  "word_count": 284,
+  "total_duration": 133.175,
+  "voice": "en-US-AriaNeural"
+}

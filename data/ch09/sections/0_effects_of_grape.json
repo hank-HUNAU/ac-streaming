@@ -1,0 +1,22 @@
+{
+  "id": "0_effects_of_grape",
+  "title": "Effects of Grape Consumption on the Human Metabolome. Richard B. van Breemen.",
+  "sentences": [
+    {
+      "text": "Effects of Grape Consumption on the Human Metabolome.",
+      "start": 0.1,
+      "end": 3.013,
+      "word_count": 8
+    },
+    {
+      "text": "Richard B. van Breemen.",
+      "start": 3.888,
+      "end": 5.438,
+      "word_count": 4
+    }
+  ],
+  "sentence_count": 2,
+  "word_count": 12,
+  "total_duration": 5.438,
+  "voice": "en-US-AriaNeural"
+}

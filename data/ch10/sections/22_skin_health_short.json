@@ -1,0 +1,136 @@
+{
+  "id": "22_skin_health_short",
+  "title": "Skin Health. Short-Term Grape Consumption Diminishes UV-Induced Skin Erythema. In this study, 29 human volunteers consumed whole grape powder, equivalent to 2.25 cups of grapes per day, for 14 days. Measurement of Minimal Erythema Dose plus metabolomic analysis of the gut microbiome, blood, and urinary samples was undertaken. One-third of the subjects showed increased ultraviolet resistance following grape consumption, and these same subjects displayed unique and significant differences in the microbiome and metabolome, compared to non-responders, suggesting a correlation between the gut and skin. Natural components known as polyphenols found in grapes are thought to be responsible for these beneficial effects.",
+  "sentences": [
+    {
+      "text": "Skin Health.",
+      "start": 0.1,
+      "end": 0.988,
+      "word_count": 2
+    },
+    {
+      "text": "Short-Term Grape Consumption Diminishes UV-Induced Skin Erythema.",
+      "start": 1.863,
+      "end": 5.75,
+      "word_count": 7
+    },
+    {
+      "text": "In this study, 29 human volunteers consumed whole grape powder, equivalent to 2.25 cups of grapes per day, for 14 days.",
+      "start": 6.612,
+      "end": 17.137,
+      "word_count": 21
+    },
+    {
+      "text": "Measurement of Minimal Erythema Dose plus metabolomic analysis of the gut microbiome, blood, and urinary samples was undertaken.",
+      "start": 17.15,
+      "end": 25.95,
+      "word_count": 18
+    },
+    {
+      "text": "One-third of the subjects showed increased ultraviolet resistance following grape consumption, and these same subjects displayed unique and significant differences in the microbiome and metabolome, compared to non-responders, suggesting a correlation between the gut and skin.",
+      "start": 25.962,
+      "end": 42.45,
+      "word_count": 36
+    },
+    {
+      "text": "Natural components known as polyphenols found in grapes are thought to be responsible for these beneficial effects.",
+      "start": 42.462,
+      "end": 49.188,
+      "word_count": 17
+    },
+    {
+      "text": "Dietary Table Grape Protects Against UV Photodamage in Humans.",
+      "start": 49.2,
+      "end": 53.275,
+      "word_count": 9
+    },
+    {
+      "text": "In a human pilot study, subjects consuming grapes, equivalent to 2.25 cups per day, showed increased resistance to sunburn and a reduction in markers of ultraviolet damage at the cellular level.",
+      "start": 53.288,
+      "end": 67.013,
+      "word_count": 31
+    },
+    {
+      "text": "The skin response of subjects to ultraviolet light was measured before and after consuming grapes by determining the Minimal Erythema Dose.",
+      "start": 67.025,
+      "end": 75.5,
+      "word_count": 21
+    },
+    {
+      "text": "Grape consumption was protective; more ultraviolet exposure was required to cause sunburn following grape consumption, with Minimal Erythema Dose increasing on average by 74.8 percent.",
+      "start": 75.513,
+      "end": 88.45,
+      "word_count": 25
+    },
+    {
+      "text": "Analysis of skin biopsies showed that the grape diet was associated with decreased D N A damage, reduced loss of skin cells, and a reduction in inflammatory markers.",
+      "start": 88.463,
+      "end": 99.225,
+      "word_count": 28
+    },
+    {
+      "text": "Protective Effects of Dietary Grape on UVB-Mediated Cutaneous Damages and Skin Tumorigenesis in SKH-1 Mice.",
+      "start": 99.237,
+      "end": 106.938,
+      "word_count": 15
+    },
+    {
+      "text": "In a study that utilized both a short-term model of ultraviolet B-mediated skin damage and long-term model of skin carcinogenesis, researchers observed that with a grape-enriched diet, there was a reduction in tumor growth and malignant conversion of cells, where cells in normal tissue or benign tumors become cancerous.",
+      "start": 106.95,
+      "end": 126.963,
+      "word_count": 49
+    },
+    {
+      "text": "These benefits are attributed to the antioxidant properties of grapes, which likely inhibit early oxidative injury, leading to downstream anti-inflammatory effects and changes in other pathways.",
+      "start": 126.975,
+      "end": 139.912,
+      "word_count": 26
+    },
+    {
+      "text": "Chemoprotective Effects of Dietary Grape Powder on UVB Radiation-Mediated Skin Carcinogenesis in SKH-1 Hairless Mice.",
+      "start": 139.925,
+      "end": 147.85,
+      "word_count": 15
+    },
+    {
+      "text": "In a study using an animal model of ultraviolet B-induced skin cancer, consuming either a 3 percent or 5 percent grape powder diet for 28 weeks significantly inhibited tumor incidence and delayed the onset of tumor growth.",
+      "start": 147.863,
+      "end": 164.287,
+      "word_count": 37
+    },
+    {
+      "text": "The grape-mediated protective response was accompanied by enhanced D N A damage repair, reduced proliferation, increased cancer cell death, and beneficial changes in several markers of oxidative stress.",
+      "start": 164.3,
+      "end": 177.387,
+      "word_count": 28
+    },
+    {
+      "text": "Identification of Molecular Targets of Dietary Grape-Mediated Chemoprevention of Ultraviolet B Skin Carcinogenesis: A Comparative Quantitative Proteomics Analysis.",
+      "start": 177.4,
+      "end": 188.137,
+      "word_count": 18
+    },
+    {
+      "text": "This follow-up study evaluated the potential mechanisms for the beneficial effects observed in earlier studies.",
+      "start": 188.15,
+      "end": 194.363,
+      "word_count": 15
+    },
+    {
+      "text": "The approach of tandem mass tag quantitative global proteomics on skin tumors from mice exposed to ultraviolet B and fed control or grape diet was applied.",
+      "start": 194.375,
+      "end": 204.262,
+      "word_count": 26
+    },
+    {
+      "text": "It is reported that grapes act as an anti-inflammatory agent and enhance the activity of a protein complex, the 20S proteasome, that plays a role in cell cycle regulation including disposal of damaged proteins that contribute to the progression of cancer.",
+      "start": 204.275,
+      "end": 217.55,
+      "word_count": 35
+    }
+  ],
+  "sentence_count": 21,
+  "word_count": 479,
+  "total_duration": 217.55,
+  "voice": "en-US-AriaNeural"
+}

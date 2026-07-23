@@ -1,0 +1,70 @@
+{
+  "id": "7_bone_and_joint",
+  "title": "Bone and Joint Health. Grape Consumption Improves Joint Mobility and Relieves Pain Associated with Knee Osteoarthritis. A 16-week clinical study investigated the benefits of grape consumption on inflammation and osteoarthritis outcomes. A group of 72 men and women with knee osteoarthritis were assigned to consume either the equivalent of 1.5 cups of grapes or a placebo, each day. Both men and women consuming the grape-enriched diet had a significant decrease in activity-related pain from beginning to end compared to placebo and, by mid-term, an overall decrease in total knee symptoms, with this beneficial effect more pronounced in females. Age-related differences were observed related to activity: grape-consuming subjects under 64 years of age reported a 70 percent increase in very hard activity, while those receiving the placebo reported a significant decrease in very hard activity. Participants over 65 years reported a decline in moderate to hard activities whether consuming grapes or the placebo. No difference in range of motion was observed for either the grape group or the placebo group. A serum marker for inflammation measured was increased in both placebo and grape groups. However, the increase was reduced in the grape group, suggesting some modulatory influence of the grape polyphenols.",
+  "sentences": [
+    {
+      "text": "Bone and Joint Health.",
+      "start": 0.1,
+      "end": 1.25,
+      "word_count": 4
+    },
+    {
+      "text": "Grape Consumption Improves Joint Mobility and Relieves Pain Associated with Knee Osteoarthritis.",
+      "start": 2.125,
+      "end": 7.6,
+      "word_count": 12
+    },
+    {
+      "text": "A 16-week clinical study investigated the benefits of grape consumption on inflammation and osteoarthritis outcomes.",
+      "start": 8.475,
+      "end": 15.738,
+      "word_count": 15
+    },
+    {
+      "text": "A group of 72 men and women with knee osteoarthritis were assigned to consume either the equivalent of 1.5 cups of grapes or a placebo, each day.",
+      "start": 16.613,
+      "end": 26.7,
+      "word_count": 27
+    },
+    {
+      "text": "Both men and women consuming the grape-enriched diet had a significant decrease in activity-related pain from beginning to end compared to placebo and, by mid-term, an overall decrease in total knee symptoms, with this beneficial effect more pronounced in females.",
+      "start": 26.712,
+      "end": 43.138,
+      "word_count": 40
+    },
+    {
+      "text": "Age-related differences were observed related to activity: grape-consuming subjects under 64 years of age reported a 70 percent increase in very hard activity, while those receiving the placebo reported a significant decrease in very hard activity.",
+      "start": 43.15,
+      "end": 60.388,
+      "word_count": 36
+    },
+    {
+      "text": "Participants over 65 years reported a decline in moderate to hard activities whether consuming grapes or the placebo.",
+      "start": 60.4,
+      "end": 67.375,
+      "word_count": 18
+    },
+    {
+      "text": "No difference in range of motion was observed for either the grape group or the placebo group.",
+      "start": 67.388,
+      "end": 72.763,
+      "word_count": 17
+    },
+    {
+      "text": "A serum marker for inflammation measured was increased in both placebo and grape groups.",
+      "start": 72.775,
+      "end": 79.125,
+      "word_count": 14
+    },
+    {
+      "text": "However, the increase was reduced in the grape group, suggesting some modulatory influence of the grape polyphenols.",
+      "start": 79.138,
+      "end": 83.987,
+      "word_count": 13
+    }
+  ],
+  "sentence_count": 10,
+  "word_count": 196,
+  "total_duration": 83.987,
+  "voice": "en-US-AriaNeural"
+}

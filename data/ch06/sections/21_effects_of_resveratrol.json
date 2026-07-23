@@ -1,0 +1,106 @@
+{
+  "id": "21_effects_of_resveratrol",
+  "title": "Effects of Resveratrol on Non-melanoma Skin Cancer. Phytochemicals in grapes, particularly resveratrol, have a myriad of activities on cellular processes that may translate into anticancer or cancer prevention activity. Resveratrol has been extensively studied in vitro and in vivo for its anticancer potential against non-melanoma skin cancer through various mechanisms, including the induction of apoptosis, cell cycle regulation, inhibition of cell proliferation, modulation of protein kinase signaling and effect on oxidative stress, and inflammation. Resveratrol has shown significant potential in preventing ultraviolet B-induced skin damage by modulating redox balance, inflammatory responses, and cell cycle progression. Resveratrol has been shown to significantly enhance the effectiveness of traditional chemotherapeutic agents, such as 5-fluorouracil, in the animal model of skin cancer. It was observed that topical application of a lipid nanosystem-based gel containing resveratrol and 5-fluorouracil significantly reduced ultraviolet-mediated skin hyperplasia, edema, and phototoxicity, leading to lower tumor incidence and delayed onset of tumorigenesis in the animal model of skin cancer. Similarly, in a two-stage D M B A-initiated and T P A-promoted murine skin cancer model, resveratrol showed a 98 percent decrease in skin cancer. Similar results were obtained by Soleas and colleagues employing the same animal model, where topical application of resveratrol solution on the skin of mice showed a 60 percent decrease in papillomas. Resveratrol has been shown to exert its effects against non-melanoma skin cancer through various mechanisms in ultraviolet-induced skin cancer model in SKH-1 hairless mice, including reduction of the cell cycle regulators, hyperphosphorylated pRb proteins, M E K 1 and E R K 1 and 2, and A P-1 signaling pathways. It was shown to induce G1-phase cell cycle arrest and upregulate the tumor suppressor p21 and W A F 1 and C I P 1, contributing to its anticancer activity. Resveratrol was shown to decrease the skin hyperplasia induced by multiple ultraviolet B exposures in SKH-1 hairless mice. These effects were accompanied by reduced levels of cyclins D1 and D2; Cdk 2, 4, and 6; P C N A; and an increase in p21 and W A F 1 and C I P 1. In addition, there was inhibited expression of anti-apoptotic proteins and markers of tumor promotion, C O X-2, and ornithine decarboxylase in the same model. Recently, resveratrol-loaded invasomal gels have shown higher skin penetration and better inhibition of tumor growth compared to other formulations in an animal model of squamous cell carcinoma. Taken together, resveratrol has a potential in the management of non-melanoma skin cancer by targeting multiple mechanisms. Further research including clinical studies is necessary to fully establish its safety, efficacy, and optimal dosing.",
+  "sentences": [
+    {
+      "text": "Effects of Resveratrol on Non-melanoma Skin Cancer.",
+      "start": 0.1,
+      "end": 3.413,
+      "word_count": 7
+    },
+    {
+      "text": "Phytochemicals in grapes, particularly resveratrol, have a myriad of activities on cellular processes that may translate into anticancer or cancer prevention activity.",
+      "start": 4.275,
+      "end": 14.525,
+      "word_count": 22
+    },
+    {
+      "text": "Resveratrol has been extensively studied in vitro and in vivo for its anticancer potential against non-melanoma skin cancer through various mechanisms, including the induction of apoptosis, cell cycle regulation, inhibition of cell proliferation, modulation of protein kinase signaling and effect on oxidative stress, and inflammation.",
+      "start": 15.387,
+      "end": 36.25,
+      "word_count": 45
+    },
+    {
+      "text": "Resveratrol has shown significant potential in preventing ultraviolet B-induced skin damage by modulating redox balance, inflammatory responses, and cell cycle progression.",
+      "start": 37.125,
+      "end": 47.875,
+      "word_count": 21
+    },
+    {
+      "text": "Resveratrol has been shown to significantly enhance the effectiveness of traditional chemotherapeutic agents, such as 5-fluorouracil, in the animal model of skin cancer.",
+      "start": 48.75,
+      "end": 58.825,
+      "word_count": 23
+    },
+    {
+      "text": "It was observed that topical application of a lipid nanosystem-based gel containing resveratrol and 5-fluorouracil significantly reduced ultraviolet-mediated skin hyperplasia, edema, and phototoxicity, leading to lower tumor incidence and delayed onset of tumorigenesis in the animal model of skin cancer.",
+      "start": 59.7,
+      "end": 78.763,
+      "word_count": 40
+    },
+    {
+      "text": "Similarly, in a two-stage D M B A-initiated and T P A-promoted murine skin cancer model, resveratrol showed a 98 percent decrease in skin cancer.",
+      "start": 79.625,
+      "end": 91.088,
+      "word_count": 25
+    },
+    {
+      "text": "Similar results were obtained by Soleas and colleagues employing the same animal model, where topical application of resveratrol solution on the skin of mice showed a 60 percent decrease in papillomas.",
+      "start": 91.1,
+      "end": 103.75,
+      "word_count": 31
+    },
+    {
+      "text": "Resveratrol has been shown to exert its effects against non-melanoma skin cancer through various mechanisms in ultraviolet-induced skin cancer model in SKH-1 hairless mice, including reduction of the cell cycle regulators, hyperphosphorylated pRb proteins, M E K 1 and E R K 1 and 2, and A P-1 signaling pathways.",
+      "start": 103.763,
+      "end": 125.562,
+      "word_count": 50
+    },
+    {
+      "text": "It was shown to induce G1-phase cell cycle arrest and upregulate the tumor suppressor p21 and W A F 1 and C I P 1, contributing to its anticancer activity.",
+      "start": 125.575,
+      "end": 138.2,
+      "word_count": 30
+    },
+    {
+      "text": "Resveratrol was shown to decrease the skin hyperplasia induced by multiple ultraviolet B exposures in SKH-1 hairless mice.",
+      "start": 138.213,
+      "end": 146.725,
+      "word_count": 18
+    },
+    {
+      "text": "These effects were accompanied by reduced levels of cyclins D1 and D2; Cdk 2, 4, and 6; P C N A; and an increase in p21 and W A F 1 and C I P 1.",
+      "start": 146.738,
+      "end": 160.637,
+      "word_count": 36
+    },
+    {
+      "text": "In addition, there was inhibited expression of anti-apoptotic proteins and markers of tumor promotion, C O X-2, and ornithine decarboxylase in the same model.",
+      "start": 160.925,
+      "end": 173.025,
+      "word_count": 24
+    },
+    {
+      "text": "Recently, resveratrol-loaded invasomal gels have shown higher skin penetration and better inhibition of tumor growth compared to other formulations in an animal model of squamous cell carcinoma.",
+      "start": 173.037,
+      "end": 184.137,
+      "word_count": 27
+    },
+    {
+      "text": "Taken together, resveratrol has a potential in the management of non-melanoma skin cancer by targeting multiple mechanisms.",
+      "start": 184.45,
+      "end": 192.438,
+      "word_count": 17
+    },
+    {
+      "text": "Further research including clinical studies is necessary to fully establish its safety, efficacy, and optimal dosing.",
+      "start": 192.45,
+      "end": 198.55,
+      "word_count": 14
+    }
+  ],
+  "sentence_count": 16,
+  "word_count": 430,
+  "total_duration": 198.55,
+  "voice": "en-US-AriaNeural"
+}

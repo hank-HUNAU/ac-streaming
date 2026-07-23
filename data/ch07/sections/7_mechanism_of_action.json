@@ -1,0 +1,40 @@
+{
+  "id": "7_mechanism_of_action",
+  "title": "Mechanism of Action of Grapes and Their Active Components. Polyphenolic compounds in grapes, such as resveratrol, can function as photoprotective agents that prevent or reduce ultraviolet-induced inflammation, oxidative stress, and D N A damage. Resveratrol is found in grape skin. When applied topically, it can act as a sunscreen and prevent ultraviolet B-induced skin cancer by absorbing ultraviolet B radiation. In addition, topical resveratrol also prevents the upregulation of cell cycle proteins and M A P K induced by ultraviolet B and upregulates the expression of p21 and p53.",
+  "sentences": [
+    {
+      "text": "Mechanism of Action of Grapes and Their Active Components.",
+      "start": 0.1,
+      "end": 3.312,
+      "word_count": 9
+    },
+    {
+      "text": "Polyphenolic compounds in grapes, such as resveratrol, can function as photoprotective agents that prevent or reduce ultraviolet-induced inflammation, oxidative stress, and D N A damage.",
+      "start": 4.188,
+      "end": 15.838,
+      "word_count": 25
+    },
+    {
+      "text": "Resveratrol is found in grape skin.",
+      "start": 16.7,
+      "end": 18.863,
+      "word_count": 6
+    },
+    {
+      "text": "When applied topically, it can act as a sunscreen and prevent ultraviolet B-induced skin cancer by absorbing ultraviolet B radiation.",
+      "start": 19.738,
+      "end": 27.65,
+      "word_count": 20
+    },
+    {
+      "text": "In addition, topical resveratrol also prevents the upregulation of cell cycle proteins and M A P K induced by ultraviolet B and upregulates the expression of p21 and p53.",
+      "start": 28.525,
+      "end": 41.138,
+      "word_count": 29
+    }
+  ],
+  "sentence_count": 5,
+  "word_count": 89,
+  "total_duration": 41.138,
+  "voice": "en-US-AriaNeural"
+}

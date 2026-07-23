@@ -1,0 +1,334 @@
+{
+  "id": "23_effects_of_grapes",
+  "title": "Effects of Grapes on Atopic Dermatitis. Atopic dermatitis is a chronic, inflammatory skin disorder that affects millions of people worldwide and is characterized by skin lesions, pruritus, and impaired skin barrier function. The pathogenesis of atopic dermatitis is complex, involving immune system dysregulation, infiltration of inflammatory mediators, and epidermal barrier dysfunction. Among the multiple mediators of atopic dermatitis, filaggrin protein, keratinocytes, T cells, mast cells, and other signaling molecules such as I L-4, I L-13, and thymic stromal lymphopoietin are significant for its pathogenesis. Traditional therapies, such as corticosteroids and immunotherapy, are often associated with side effects, leading to the need for alternative, safer treatments.",
+  "sentences": [
+    {
+      "text": "Effects of Grapes on Atopic Dermatitis.",
+      "start": 0.1,
+      "end": 2.688,
+      "word_count": 6
+    },
+    {
+      "text": "Atopic dermatitis is a chronic, inflammatory skin disorder that affects millions of people worldwide and is characterized by skin lesions, pruritus, and impaired skin barrier function.",
+      "start": 3.55,
+      "end": 14.775,
+      "word_count": 26
+    },
+    {
+      "text": "The pathogenesis of atopic dermatitis is complex, involving immune system dysregulation, infiltration of inflammatory mediators, and epidermal barrier dysfunction.",
+      "start": 15.65,
+      "end": 26.163,
+      "word_count": 19
+    },
+    {
+      "text": "Among the multiple mediators of atopic dermatitis, filaggrin protein, keratinocytes, T cells, mast cells, and other signaling molecules such as I L-4, I L-13, and thymic stromal lymphopoietin are significant for its pathogenesis.",
+      "start": 27.038,
+      "end": 43.1,
+      "word_count": 33
+    },
+    {
+      "text": "Traditional therapies, such as corticosteroids and immunotherapy, are often associated with side effects, leading to the need for alternative, safer treatments.",
+      "start": 43.962,
+      "end": 53.587,
+      "word_count": 21
+    },
+    {
+      "text": "In recent years, natural compounds, including those derived from grapes, have been studied for their potential benefits in atopic dermatitis owing to their antioxidant and anti-inflammatory properties.",
+      "start": 54.462,
+      "end": 66.325,
+      "word_count": 27
+    },
+    {
+      "text": "Grape's antioxidants can counteract the oxidative stress associated with atopic dermatitis and help to protect skin cells from reactive oxygen species-induced inflammation.",
+      "start": 67.188,
+      "end": 77.25,
+      "word_count": 22
+    },
+    {
+      "text": "Studies have demonstrated that dried grape powder is effective in preventing and treating atopic dermatitis-like symptoms in murine models.",
+      "start": 78.125,
+      "end": 85.725,
+      "word_count": 19
+    },
+    {
+      "text": "In a study using diets containing 3 percent and 5 percent grape powder in 2,4-dinitrofluorobenzene-induced atopic dermatitis in NC/NgaTndCrlj mice, researchers observed a significant reduction in the symptoms of atopic dermatitis, such as decreases in lesions, epidermal thickness, skin ulceration, and immune cell infiltration.",
+      "start": 86.588,
+      "end": 108.275,
+      "word_count": 44
+    },
+    {
+      "text": "Since atopic dermatitis is characterized by infiltration of immune cells and cytokines that cause barrier defects and inflammation, grape powder's ability to modulate these responses is noteworthy.",
+      "start": 108.287,
+      "end": 120.925,
+      "word_count": 27
+    },
+    {
+      "text": "It was found that grape powder alleviated atopic dermatitis-associated inflammation by decreasing the levels of cytokines I L-4, I L-5, I L-6, I F N gamma, and T N F alpha and chemokines C X C L 1, C X C L 10, C C L 2, C C L 3, C C L 4, and C X C L 2.",
+      "start": 120.938,
+      "end": 144.05,
+      "word_count": 61
+    },
+    {
+      "text": "Grape powder was found to modulate beta-catenin, Nrf2, V E G F A, E G F R, and matrix metalloproteinase-9, which have been implicated in the pathogenesis of atopic dermatitis.",
+      "start": 144.062,
+      "end": 157.425,
+      "word_count": 30
+    },
+    {
+      "text": "The grape antioxidant quercetin has also been shown to reduce I L-6 and inhibit matrix metalloproteinase-9 along with the E R K 1 and 2 and N F-kappa B pathways in atopic dermatitis models.",
+      "start": 157.438,
+      "end": 171.0,
+      "word_count": 34
+    },
+    {
+      "text": "Similarly, topical cream containing grape seed extract, rich in procyanidins and flavonoids, showed significant reductions in eczema severity and pruritus in individuals with mild-to-moderate atopic dermatitis.",
+      "start": 171.012,
+      "end": 184.85,
+      "word_count": 26
+    },
+    {
+      "text": "This treatment led to improved skin hydration and reduced transepidermal water loss, suggesting a beneficial effect on the skin barrier function.",
+      "start": 184.863,
+      "end": 194.113,
+      "word_count": 21
+    },
+    {
+      "text": "These results support the potential of grapes as the target for the management of atopic dermatitis.",
+      "start": 194.125,
+      "end": 200.188,
+      "word_count": 16
+    },
+    {
+      "text": "More studies are required to determine the exact mechanism by which grapes modulate signaling pathways to inhibit atopic dermatitis and its effectiveness in human patients.",
+      "start": 200.2,
+      "end": 210.938,
+      "word_count": 25
+    },
+    {
+      "text": "Anti-inflammatory and Skin Remodeling Effects of Resveratrol on Atopic Dermatitis.",
+      "start": 210.95,
+      "end": 216.925,
+      "word_count": 10
+    },
+    {
+      "text": "Resveratrol has been extensively studied in the treatment of inflammatory disorders, leading to a deeper understanding of its pharmacological properties and possible therapeutic applications.",
+      "start": 216.938,
+      "end": 228.412,
+      "word_count": 24
+    },
+    {
+      "text": "Owing to its anti-inflammatory and antioxidant properties, resveratrol can aid people with atopic dermatitis in managing their illness by lowering skin inflammation, itching, and the intensity of skin lesions.",
+      "start": 228.425,
+      "end": 242.0,
+      "word_count": 29
+    },
+    {
+      "text": "Some of the related studies are discussed below.",
+      "start": 242.012,
+      "end": 245.562,
+      "word_count": 8
+    },
+    {
+      "text": "In a mouse model of atopic dermatitis induced by house dust mite extract, resveratrol was shown to significantly reduce the severity of atopic dermatitis-like skin lesions, as well as reduce epidermal hyperplasia, mast cell infiltration, and inflammatory cell migration.",
+      "start": 245.575,
+      "end": 263.3,
+      "word_count": 39
+    },
+    {
+      "text": "It also inhibited key inflammatory markers such as T N F alpha, I L-1 beta, I L-4, and I F N gamma through the inhibition of N F-kappa B, P I 3 K and Akt, and J A K and S T A T pathways.",
+      "start": 263.312,
+      "end": 278.738,
+      "word_count": 45
+    },
+    {
+      "text": "Furthermore, resveratrol modulated the high mobility group box 1 pathway, suggesting that high mobility group box 1 could be a potential therapeutic target in atopic dermatitis.",
+      "start": 278.75,
+      "end": 291.618,
+      "word_count": 26
+    },
+    {
+      "text": "Mast cells play a crucial role in the initiation and progression of inflammation in atopic dermatitis.",
+      "start": 291.631,
+      "end": 298.568,
+      "word_count": 16
+    },
+    {
+      "text": "Moon and colleagues studied the effect of resveratrol on the regulation of thymic stromal lymphopoietin, a pro-inflammatory cytokine released by mast cells that contribute to the impairment of the epidermal barrier and innate immunity in atopic dermatitis.",
+      "start": 298.581,
+      "end": 314.019,
+      "word_count": 37
+    },
+    {
+      "text": "It was demonstrated that resveratrol treatment reduced the production of thymic stromal lymphopoietin in conjunction with the downregulation of N F-kappa B. Additionally, resveratrol decreased the activation of the S1P-producing enzyme sphingosine kinase 1 and S T A T 3, both of which are involved in mast cell-mediated skin remodeling in atopic dermatitis.",
+      "start": 314.031,
+      "end": 336.894,
+      "word_count": 53
+    },
+    {
+      "text": "Through its action on epithelial cytokines and epithelial apoptosis, resveratrol can effectively alleviate histological changes and inflammation associated with atopic dermatitis.",
+      "start": 336.906,
+      "end": 349.094,
+      "word_count": 21
+    },
+    {
+      "text": "The results of these studies provide a strong rationale to thoroughly investigate the mechanism of action of resveratrol in atopic dermatitis.",
+      "start": 349.106,
+      "end": 357.981,
+      "word_count": 21
+    },
+    {
+      "text": "In addition, clinical studies are needed to prove the efficacy of resveratrol in atopic dermatitis patients.",
+      "start": 357.993,
+      "end": 365.531,
+      "word_count": 16
+    },
+    {
+      "text": "Anti-inflammatory and Immune-Modulating Effects of Piceatannol on Atopic Dermatitis.",
+      "start": 365.543,
+      "end": 371.668,
+      "word_count": 9
+    },
+    {
+      "text": "Piceatannol has also been found to be beneficial against atopic dermatitis.",
+      "start": 371.681,
+      "end": 377.043,
+      "word_count": 11
+    },
+    {
+      "text": "In a study conducted on NC/Nga mice, atopic dermatitis-like skin lesions were induced by repeated topical application of Dermatophagoides farinae extract on mice skin.",
+      "start": 377.056,
+      "end": 388.681,
+      "word_count": 24
+    },
+    {
+      "text": "Later topical treatment with piceatannol solution attenuated the development of atopic dermatitis-like symptoms by reducing skin thickness, inflammation, itching, rash, and skin water loss in atopic dermatitis lesion in mice.",
+      "start": 388.693,
+      "end": 403.269,
+      "word_count": 30
+    },
+    {
+      "text": "At cellular and molecular levels, piceatannol inhibited the immune cell infiltration and the release of pro-inflammatory markers from the thymus, downregulating the expression of various chemokines and cytokines involved in atopic dermatitis pathogenesis.",
+      "start": 403.281,
+      "end": 418.331,
+      "word_count": 33
+    },
+    {
+      "text": "In this study, piceatannol was found to suppress the J A K and S T A T signaling, a key regulator of the cytokine signaling pathway.",
+      "start": 418.344,
+      "end": 428.356,
+      "word_count": 26
+    },
+    {
+      "text": "J A K and S T A T signaling controls the interaction between I g E and mast cells as well as the production of I L-4 and I L-3 that are necessary for the development of atopic dermatitis.",
+      "start": 428.368,
+      "end": 441.456,
+      "word_count": 39
+    },
+    {
+      "text": "Additionally, another in vitro study in isolated enzyme has shown that piceatannol is an inhibitor of Syk tyrosine kinase, which is crucial for the release of inflammatory mediators from mast cells.",
+      "start": 441.469,
+      "end": 454.831,
+      "word_count": 31
+    },
+    {
+      "text": "Lee and colleagues suggested that piceatannol may play an important role as a multi-inhibitor for J A K 1, Syk, and P I 3 K in atopic dermatitis.",
+      "start": 454.844,
+      "end": 465.556,
+      "word_count": 28
+    },
+    {
+      "text": "However, additional preclinical and clinical studies are needed to validate these findings in appropriate models.",
+      "start": 465.568,
+      "end": 472.943,
+      "word_count": 15
+    },
+    {
+      "text": "Effects of Other Grape Phytochemicals on Atopic Dermatitis.",
+      "start": 472.956,
+      "end": 477.193,
+      "word_count": 8
+    },
+    {
+      "text": "Tannic acid, another phenolic compound abundant in grapes, has shown potential for the treatment of atopic dermatitis.",
+      "start": 477.206,
+      "end": 485.306,
+      "word_count": 17
+    },
+    {
+      "text": "In a study, tannic acid significantly alleviated atopic dermatitis-like symptoms, including skin inflammation and immune cell infiltration.",
+      "start": 485.318,
+      "end": 494.969,
+      "word_count": 17
+    },
+    {
+      "text": "It down-regulated the expression of inflammatory markers T N F alpha, I L-1 beta, high mobility group box 1, and receptor for advanced glycation end products.",
+      "start": 494.981,
+      "end": 506.568,
+      "word_count": 26
+    },
+    {
+      "text": "Additionally, tannic acid induced the expression of P P A R gamma, a nuclear receptor involved in regulating immune responses and skin barrier function.",
+      "start": 506.581,
+      "end": 517.168,
+      "word_count": 24
+    },
+    {
+      "text": "These findings suggest that tannic acid could act through the N F-kappa B signaling pathway and P P A R gamma activation to mitigate inflammation in atopic dermatitis.",
+      "start": 517.181,
+      "end": 528.193,
+      "word_count": 28
+    },
+    {
+      "text": "In addition, Bangash and colleagues have studied the effect of pterostilbene, a phytoalexin structurally similar to resveratrol, in an animal model of atopic dermatitis.",
+      "start": 528.206,
+      "end": 539.356,
+      "word_count": 24
+    },
+    {
+      "text": "Pterostilbene is present in grapevines and has been shown to have anti-inflammatory, antioxidant, and anticancer effects.",
+      "start": 539.369,
+      "end": 547.418,
+      "word_count": 16
+    },
+    {
+      "text": "Bangash and colleagues demonstrated that pterostilbene treatment reduced ear inflammation, skin thickness, and the weight and size of the thymus glands and spleen in mice.",
+      "start": 547.619,
+      "end": 559.123,
+      "word_count": 25
+    },
+    {
+      "text": "Moreover, pterostilbene improved the expression of oxidative stress markers in the skin and decreased inflammatory markers.",
+      "start": 559.135,
+      "end": 566.236,
+      "word_count": 16
+    },
+    {
+      "text": "Overall, pterostilbene alleviated atopic dermatitis symptoms by reducing inflammation, inflammatory cytokines, and oxidative damage in the skin of mice.",
+      "start": 566.248,
+      "end": 578.073,
+      "word_count": 19
+    },
+    {
+      "text": "Together, these findings highlight the potential of grape-derived compounds for the treatment of atopic dermatitis.",
+      "start": 578.086,
+      "end": 584.773,
+      "word_count": 15
+    },
+    {
+      "text": "Preclinical evidence supports the idea that grape supplements could be a safer alternative to conventional therapies.",
+      "start": 584.785,
+      "end": 592.048,
+      "word_count": 16
+    },
+    {
+      "text": "However, more detailed preclinical and clinical studies are needed to validate these promising results. these promising results",
+      "start": 592.061,
+      "end": 600.26,
+      "word_count": 17
+    }
+  ],
+  "sentence_count": 54,
+  "word_count": 1316,
+  "total_duration": 600.26,
+  "voice": "en-US-AriaNeural"
+}

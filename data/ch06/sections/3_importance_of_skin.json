@@ -1,0 +1,136 @@
+{
+  "id": "3_importance_of_skin",
+  "title": "Importance of Skin Health. The skin is the largest organ of the body that serves as the first line of defense against environmental insults. It provides a protective physical barrier against chemical or mechanical damage, microorganisms, toxins, and fluid loss. In addition, the skin is highly adaptive and plays a role in sensory perception, regulation of body temperature, immunologic surveillance, homeostasis, and certain extremely important biochemical processes, such as the production of vitamin D. A very sophisticated structure of the skin contains specialized cells, for example, keratinocytes, fibroblasts, melanocytes, and mast cells; macromolecules, for example, collagen and elastin; and appendages, for example, sebaceous glands, sweat glands, arrector pili muscle, and hair follicles. This structure allows the skin to perform its important functions including providing protective barrier, providing pigmentation, and maintaining strength, elasticity, and flexibility. In addition, skin has mast cells, which are the key players in releasing histamine, prostanoids, proteases, leukotrienes and other cytokines and chemokines and provide host defense, innate immunity and allergic responses to surface antigens. Skin health has a substantial impact on physical and psychological well-being, influencing mood, self-respect, and social interactions. Skin health is affected by multiple endogenous and exogenous factors.",
+  "sentences": [
+    {
+      "text": "Importance of Skin Health.",
+      "start": 0.1,
+      "end": 1.613,
+      "word_count": 4
+    },
+    {
+      "text": "The skin is the largest organ of the body that serves as the first line of defense against environmental insults.",
+      "start": 2.487,
+      "end": 8.35,
+      "word_count": 20
+    },
+    {
+      "text": "It provides a protective physical barrier against chemical or mechanical damage, microorganisms, toxins, and fluid loss.",
+      "start": 9.213,
+      "end": 16.863,
+      "word_count": 16
+    },
+    {
+      "text": "In addition, the skin is highly adaptive and plays a role in sensory perception, regulation of body temperature, immunologic surveillance, homeostasis, and certain extremely important biochemical processes, such as the production of vitamin D. A very sophisticated structure of the skin contains specialized cells, for example, keratinocytes, fibroblasts, melanocytes, and mast cells; macromolecules, for example, collagen and elastin; and appendages, for example, sebaceous glands, sweat glands, arrector pili muscle, and hair follicles.",
+      "start": 17.738,
+      "end": 53.462,
+      "word_count": 72
+    },
+    {
+      "text": "This structure allows the skin to perform its important functions including providing protective barrier, providing pigmentation, and maintaining strength, elasticity, and flexibility.",
+      "start": 54.337,
+      "end": 65.25,
+      "word_count": 22
+    },
+    {
+      "text": "In addition, skin has mast cells, which are the key players in releasing histamine, prostanoids, proteases, leukotrienes and other cytokines and chemokines and provide host defense, innate immunity and allergic responses to surface antigens.",
+      "start": 66.112,
+      "end": 81.138,
+      "word_count": 34
+    },
+    {
+      "text": "Skin health has a substantial impact on physical and psychological well-being, influencing mood, self-respect, and social interactions.",
+      "start": 82.013,
+      "end": 90.225,
+      "word_count": 17
+    },
+    {
+      "text": "Skin health is affected by multiple endogenous and exogenous factors.",
+      "start": 91.1,
+      "end": 95.2,
+      "word_count": 10
+    },
+    {
+      "text": "Endogenous factors include oxidative stress, the aging process, nutritional status of the body, and diseases.",
+      "start": 96.075,
+      "end": 103.175,
+      "word_count": 15
+    },
+    {
+      "text": "Exogenous factors such as ultraviolet radiation, microorganisms, toxins, environment temperature, chemicals, allergens, and air pollution can affect the overall health of the skin.",
+      "start": 104.05,
+      "end": 115.55,
+      "word_count": 23
+    },
+    {
+      "text": "These factors may affect the protective function of the skin and make it injured, irritated, less elastic, and easily damaged.",
+      "start": 116.412,
+      "end": 123.6,
+      "word_count": 20
+    },
+    {
+      "text": "Any injury to the skin due to internal or external factors can lead to infections and diseases that can range from simple allergies and acne to severe skin conditions like psoriasis and skin cancers.",
+      "start": 124.463,
+      "end": 135.65,
+      "word_count": 34
+    },
+    {
+      "text": "For example, skin color is determined by the amount and distribution of melanin pigment synthesized by melanocytes in the epidermis.",
+      "start": 136.525,
+      "end": 144.2,
+      "word_count": 20
+    },
+    {
+      "text": "The abnormal production of melanin leads to skin problems including melasma, post-inflammatory hyperpigmentation, and actinic lentigo.",
+      "start": 145.062,
+      "end": 153.113,
+      "word_count": 16
+    },
+    {
+      "text": "Furthermore, exposure to ultraviolet radiation from the sun can cause multiple negative effects on the skin.",
+      "start": 153.975,
+      "end": 160.113,
+      "word_count": 16
+    },
+    {
+      "text": "Short-term exposure to ultraviolet radiation can cause sunburn and reduce skin elasticity, while prolonged exposure can trigger premature skin aging, hyperpigmentation, and wrinkles and weaken the immune system, making the skin less able to protect itself.",
+      "start": 160.988,
+      "end": 176.188,
+      "word_count": 36
+    },
+    {
+      "text": "Moreover, ultraviolet radiation is associated with melanoma and non-melanoma skin cancers.",
+      "start": 177.05,
+      "end": 183.0,
+      "word_count": 11
+    },
+    {
+      "text": "Autoimmune disorders such as psoriasis can have debilitating effects.",
+      "start": 183.875,
+      "end": 187.938,
+      "word_count": 9
+    },
+    {
+      "text": "Hence, maintaining the integrity and health of the skin is necessary for a better quality of life.",
+      "start": 188.8,
+      "end": 194.262,
+      "word_count": 17
+    },
+    {
+      "text": "Oxidative stress is an important mechanism by which internal and external factors can impart skin damage.",
+      "start": 195.125,
+      "end": 201.012,
+      "word_count": 16
+    },
+    {
+      "text": "The next section discusses the ways by which oxidative stress can alter skin integrity, making it prone to various skin conditions.",
+      "start": 201.875,
+      "end": 209.475,
+      "word_count": 21
+    }
+  ],
+  "sentence_count": 21,
+  "word_count": 449,
+  "total_duration": 209.475,
+  "voice": "en-US-AriaNeural"
+}

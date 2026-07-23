@@ -1,0 +1,112 @@
+{
+  "id": "27_uses_of_grapes",
+  "title": "Uses of Grapes and Resveratrol for Skin Depigmentation. Grape polyphenols are considered useful in cosmetics for their skin-rejuvenating benefits. Studies have demonstrated the ability of these compounds to inhibit tyrosinase, the enzyme associated with melanin production and skin pigmentation disorders. When encapsulated in matrices such as hemp protein isolate or soy protein isolate, these polyphenols show multiple skin benefits, including pigmentation modulation, antioxidant activity, and antimicrobial properties. Proanthocyanidin-rich grape seed extract has been shown to cause skin lightening in animal models of ultraviolet-induced skin pigmentation. Similar results have been obtained in short-term human trials. For example, in a 12-week randomized, placebo-controlled study on Japanese women, the effect of red wine on skin color and hydration was observed. The authors used red wine beverages and concentrated these in vacuo to obtain the extract and quantify oligomeric procyanidins using high performance liquid chromatography. The oligomeric procyanidin-containing beverage was administered daily to women, and it was found that the intake of grape oligomeric procyanidins significantly reduced skin pigmentation and melanin index while improving skin moisture content, suggesting that these oligomeric procyanidins may offer benefits in managing sun-induced pigmentation and enhancing skin hydration, making them useful as dietary supplements or functional ingredients in skincare formulations. Additionally, resveratrol has been found to impact the posttranscriptional regulation of melanogenic genes. Resveratrol suppresses melanin formation by downregulating the messenger ribonucleic acid expression of TYR, TYRP1, TYRP2, and MITF in human melanocytes. This effect has been validated in studies, where resveratrol suppressed melanin formation by lowering TYPR2 expression in alpha-M S H-stimulated B16 melanoma cell line and greatly decreased the hyperpigmentation in ultraviolet B-stimulated guinea pig skin in vivo. Additionally, tyrosinase activity can be modulated by resveratrol's chelating capacity via copper ion in the reactive center of the enzyme. Altogether, based on in vitro and in vivo findings, resveratrol and its analogs can function as whitening agents in cosmetics.",
+  "sentences": [
+    {
+      "text": "Uses of Grapes and Resveratrol for Skin Depigmentation.",
+      "start": 0.1,
+      "end": 3.612,
+      "word_count": 8
+    },
+    {
+      "text": "Grape polyphenols are considered useful in cosmetics for their skin-rejuvenating benefits.",
+      "start": 4.475,
+      "end": 9.475,
+      "word_count": 11
+    },
+    {
+      "text": "Studies have demonstrated the ability of these compounds to inhibit tyrosinase, the enzyme associated with melanin production and skin pigmentation disorders.",
+      "start": 10.35,
+      "end": 19.3,
+      "word_count": 21
+    },
+    {
+      "text": "When encapsulated in matrices such as hemp protein isolate or soy protein isolate, these polyphenols show multiple skin benefits, including pigmentation modulation, antioxidant activity, and antimicrobial properties.",
+      "start": 20.175,
+      "end": 33.987,
+      "word_count": 27
+    },
+    {
+      "text": "Proanthocyanidin-rich grape seed extract has been shown to cause skin lightening in animal models of ultraviolet-induced skin pigmentation.",
+      "start": 34.85,
+      "end": 42.775,
+      "word_count": 18
+    },
+    {
+      "text": "Similar results have been obtained in short-term human trials.",
+      "start": 43.65,
+      "end": 47.0,
+      "word_count": 9
+    },
+    {
+      "text": "For example, in a 12-week randomized, placebo-controlled study on Japanese women, the effect of red wine on skin color and hydration was observed.",
+      "start": 47.862,
+      "end": 56.775,
+      "word_count": 23
+    },
+    {
+      "text": "The authors used red wine beverages and concentrated these in vacuo to obtain the extract and quantify oligomeric procyanidins using high performance liquid chromatography.",
+      "start": 57.638,
+      "end": 67.675,
+      "word_count": 24
+    },
+    {
+      "text": "The oligomeric procyanidin-containing beverage was administered daily to women, and it was found that the intake of grape oligomeric procyanidins significantly reduced skin pigmentation and melanin index while improving skin moisture content, suggesting that these oligomeric procyanidins may offer benefits in managing sun-induced pigmentation and enhancing skin hydration, making them useful as dietary supplements or functional ingredients in skincare formulations.",
+      "start": 68.537,
+      "end": 95.55,
+      "word_count": 60
+    },
+    {
+      "text": "Additionally, resveratrol has been found to impact the posttranscriptional regulation of melanogenic genes.",
+      "start": 96.425,
+      "end": 102.85,
+      "word_count": 13
+    },
+    {
+      "text": "Resveratrol suppresses melanin formation by downregulating the messenger ribonucleic acid expression of TYR, TYRP1, TYRP2, and MITF in human melanocytes.",
+      "start": 103.713,
+      "end": 116.062,
+      "word_count": 20
+    },
+    {
+      "text": "This effect has been validated in studies, where resveratrol suppressed melanin formation by lowering TYPR2 expression in alpha-M S H-stimulated B16 melanoma cell line and greatly decreased the hyperpigmentation in ultraviolet B-stimulated guinea pig skin in vivo.",
+      "start": 116.938,
+      "end": 133.575,
+      "word_count": 37
+    },
+    {
+      "text": "Additionally, tyrosinase activity can be modulated by resveratrol's chelating capacity via copper ion in the reactive center of the enzyme.",
+      "start": 134.45,
+      "end": 142.975,
+      "word_count": 20
+    },
+    {
+      "text": "Altogether, based on in vitro and in vivo findings, resveratrol and its analogs can function as whitening agents in cosmetics.",
+      "start": 143.838,
+      "end": 151.988,
+      "word_count": 20
+    },
+    {
+      "text": "Further, a few other components in grapes have been shown to stimulate skin pigmentation.",
+      "start": 152.863,
+      "end": 157.812,
+      "word_count": 14
+    },
+    {
+      "text": "Recently, syringetin, found in red grape extract, has been shown to promote melanogenesis in melanoma cells by increasing melanin production and tyrosinase activity, suggesting that it may have potential for stimulating pigmentation in cosmetic applications for conditions such as vitiligo.",
+      "start": 158.688,
+      "end": 176.275,
+      "word_count": 40
+    },
+    {
+      "text": "However, further investigations are required to validate whether this pigment enhancing effect is only related to syringetin or if there are other compounds in grapes that have similar effects.",
+      "start": 177.137,
+      "end": 187.875,
+      "word_count": 29
+    }
+  ],
+  "sentence_count": 17,
+  "word_count": 394,
+  "total_duration": 187.875,
+  "voice": "en-US-AriaNeural"
+}

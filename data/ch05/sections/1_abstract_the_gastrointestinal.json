@@ -1,0 +1,52 @@
+{
+  "id": "1_abstract_the_gastrointestinal",
+  "title": "Abstract. The gastrointestinal tract functions to digest food components and absorb nutrients and water. The intestinal epithelium and mucus form an important physical barrier that prevents resident and environmental toxic components from entering the circulation and tissues, including microorganisms, toxins, and other harmful compounds. Intestinal barrier defects may result in an uncontrolled influx of antigens and microorganisms, which can consequently interrupt mucosal immune homeostasis and trigger inflammation in the mucus and intestinal tissues. Interestingly, accumulating evidence shows that grapes and grape polyphenols have profound impacts on gut barrier integrity, gut microbiota, and intestinal immune response. In this chapter, we discuss the interactions of grape polyphenols with gut microbiota, the effects of polyphenols and their metabolites on intestinal barrier functions, and intestinal inflammation. Overall, existing evidence supports the notion that grapes and grape polyphenols can protect intestinal barrier integrity, promote beneficial gut microbiome, exert antioxidant and anti-inflammatory actions, and prevent or mitigate intestinal diseases, including inflammatory bowel disease, celiac disease, irritable bowel syndrome, and colorectal cancer.",
+  "sentences": [
+    {
+      "text": "Abstract.",
+      "start": 0.1,
+      "end": 0.988,
+      "word_count": 1
+    },
+    {
+      "text": "The gastrointestinal tract functions to digest food components and absorb nutrients and water.",
+      "start": 1.837,
+      "end": 7.45,
+      "word_count": 13
+    },
+    {
+      "text": "The intestinal epithelium and mucus form an important physical barrier that prevents resident and environmental toxic components from entering the circulation and tissues, including microorganisms, toxins, and other harmful compounds.",
+      "start": 8.312,
+      "end": 22.262,
+      "word_count": 30
+    },
+    {
+      "text": "Intestinal barrier defects may result in an uncontrolled influx of antigens and microorganisms, which can consequently interrupt mucosal immune homeostasis and trigger inflammation in the mucus and intestinal tissues.",
+      "start": 23.137,
+      "end": 36.362,
+      "word_count": 29
+    },
+    {
+      "text": "Interestingly, accumulating evidence shows that grapes and grape polyphenols have profound impacts on gut barrier integrity, gut microbiota, and intestinal immune response.",
+      "start": 37.237,
+      "end": 47.837,
+      "word_count": 22
+    },
+    {
+      "text": "In this chapter, we discuss the interactions of grape polyphenols with gut microbiota, the effects of polyphenols and their metabolites on intestinal barrier functions, and intestinal inflammation.",
+      "start": 48.712,
+      "end": 60.087,
+      "word_count": 27
+    },
+    {
+      "text": "Overall, existing evidence supports the notion that grapes and grape polyphenols can protect intestinal barrier integrity, promote beneficial gut microbiome, exert antioxidant and anti-inflammatory actions, and prevent or mitigate intestinal diseases, including inflammatory bowel disease, celiac disease, irritable bowel syndrome, and colorectal cancer.",
+      "start": 60.962,
+      "end": 83.162,
+      "word_count": 43
+    }
+  ],
+  "sentence_count": 7,
+  "word_count": 165,
+  "total_duration": 83.162,
+  "voice": "en-US-AriaNeural"
+}

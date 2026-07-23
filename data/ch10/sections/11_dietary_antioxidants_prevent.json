@@ -1,0 +1,34 @@
+{
+  "id": "11_dietary_antioxidants_prevent",
+  "title": "Dietary Antioxidants Prevent Age-Related Retinal Pigment Epithelium Damage and Blindness in Mice Lacking the Alpha-v-Beta-5 Integrin. In an animal model of vision loss representative of human macular degeneration, a grape-enriched diet significantly decreased 4-hydroxynonenal-adduct content and lipofuscin granule buildup and prevented age-related cone and rod photoreceptor dysfunction. The grape diet was protective when fed at a younger age, 3 to 6 months or 6 to 9 months, but offered no protection when fed at 9 to 12 months. The grape powder was significantly more protective than lutein.",
+  "sentences": [
+    {
+      "text": "Dietary Antioxidants Prevent Age-Related Retinal Pigment Epithelium Damage and Blindness in Mice Lacking the Alpha-v-Beta-5 Integrin.",
+      "start": 0.1,
+      "end": 8.387,
+      "word_count": 16
+    },
+    {
+      "text": "In an animal model of vision loss representative of human macular degeneration, a grape-enriched diet significantly decreased 4-hydroxynonenal-adduct content and lipofuscin granule buildup and prevented age-related cone and rod photoreceptor dysfunction.",
+      "start": 9.25,
+      "end": 24.325,
+      "word_count": 31
+    },
+    {
+      "text": "The grape diet was protective when fed at a younger age, 3 to 6 months or 6 to 9 months, but offered no protection when fed at 9 to 12 months.",
+      "start": 25.2,
+      "end": 34.125,
+      "word_count": 31
+    },
+    {
+      "text": "The grape powder was significantly more protective than lutein.",
+      "start": 34.987,
+      "end": 38.237,
+      "word_count": 9
+    }
+  ],
+  "sentence_count": 4,
+  "word_count": 87,
+  "total_duration": 38.237,
+  "voice": "en-US-AriaNeural"
+}

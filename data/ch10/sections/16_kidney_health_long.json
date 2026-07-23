@@ -1,0 +1,76 @@
+{
+  "id": "16_kidney_health_long",
+  "title": "Kidney Health. Long-Term Dietary Consumption of Grapes Affects Kidney Health in C57BL/6 J Mice. In mice consuming a grape-enriched diet for one year, beneficial impacts on kidney health were observed, compared to those on the standard diet. Those consuming the grape-enriched diet exhibited decreased body to kidney weight ratio; significantly reduced blood urea nitrogen which was associated with enhanced perfusion in the kidney that may have contributed to that protective effect; and beneficial up- and down-regulation of specific genes related to kidney health, immune health, and others, including improved mitochondrial function.",
+  "sentences": [
+    {
+      "text": "Kidney Health.",
+      "start": 0.1,
+      "end": 0.938,
+      "word_count": 2
+    },
+    {
+      "text": "Long-Term Dietary Consumption of Grapes Affects Kidney Health in C57BL/6 J Mice.",
+      "start": 1.812,
+      "end": 7.537,
+      "word_count": 12
+    },
+    {
+      "text": "In mice consuming a grape-enriched diet for one year, beneficial impacts on kidney health were observed, compared to those on the standard diet.",
+      "start": 7.55,
+      "end": 16.413,
+      "word_count": 23
+    },
+    {
+      "text": "Those consuming the grape-enriched diet exhibited decreased body to kidney weight ratio; significantly reduced blood urea nitrogen which was associated with enhanced perfusion in the kidney that may have contributed to that protective effect; and beneficial up- and down-regulation of specific genes related to kidney health, immune health, and others, including improved mitochondrial function.",
+      "start": 16.425,
+      "end": 39.3,
+      "word_count": 54
+    },
+    {
+      "text": "Multi-Organ Nutrigenomic Effects of Dietary Grapes in a Mouse Model.",
+      "start": 39.312,
+      "end": 44.85,
+      "word_count": 10
+    },
+    {
+      "text": "In a year-long study where mice consumed a grape-enriched diet, eating the equivalent of 2.5 servings of grapes per day, study findings showed the ability of grapes to modulate gene expression in the kidney.",
+      "start": 44.862,
+      "end": 57.925,
+      "word_count": 34
+    },
+    {
+      "text": "Consuming grapes enriched an array of beneficial pathways and down-regulated harmful pathways, resulting in enhanced immune regulators, repair potential of the kidneys, ability to fight infections, and suppressed genes related to carcinogenesis.",
+      "start": 57.938,
+      "end": 73.138,
+      "word_count": 32
+    },
+    {
+      "text": "Daily Intake of Grape Powder Prevents the Progression of Kidney Disease in Obese Type 2 Diabetic ZSF1 Rats.",
+      "start": 73.15,
+      "end": 80.787,
+      "word_count": 18
+    },
+    {
+      "text": "In a study using an animal model for metabolic syndrome-associated chronic kidney disease, consuming a 5 percent grape powder diet for 6 months protected renal function in obese, diabetic animals, preventing the progression of kidney disease.",
+      "start": 80.8,
+      "end": 96.85,
+      "word_count": 36
+    },
+    {
+      "text": "The grape-enriched diet prevented kidney tissue damage by increasing antioxidant defense in the kidneys, upregulating antioxidant promoting genes and downregulating genes linked to oxidative stress.",
+      "start": 96.862,
+      "end": 109.787,
+      "word_count": 25
+    },
+    {
+      "text": "Consumption of the grape diet also lowered serum glucose and improved serum protein status. status",
+      "start": 109.8,
+      "end": 116.612,
+      "word_count": 15
+    }
+  ],
+  "sentence_count": 11,
+  "word_count": 261,
+  "total_duration": 116.612,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "2_introduction_metabolomics_applies",
+  "title": "Introduction. Metabolomics applies analytical chemistry techniques to the characterization of small molecular mass metabolites, typically less than 1500 Daltons, and their relative levels in cells, organs, tissues, or biofluids. The metabolome may be considered a complete profile of metabolites in a biological sample at a particular point in time and includes endogenous compounds, such as organic acids, amino acids, lipids, sugars, or short peptides that are produced through primary metabolism by enzymes encoded by the genome. The metabolome can also include exogenous compounds from the environment or diet, such as grape constituents. By focusing on small molecules, metabolomics uses a distinctly different approach than proteomics and genomics.",
+  "sentences": [
+    {
+      "text": "Introduction.",
+      "start": 0.1,
+      "end": 1.05,
+      "word_count": 1
+    },
+    {
+      "text": "Metabolomics applies analytical chemistry techniques to the characterization of small molecular mass metabolites, typically less than 1500 Daltons, and their relative levels in cells, organs, tissues, or biofluids.",
+      "start": 1.913,
+      "end": 15.45,
+      "word_count": 28
+    },
+    {
+      "text": "The metabolome may be considered a complete profile of metabolites in a biological sample at a particular point in time and includes endogenous compounds, such as organic acids, amino acids, lipids, sugars, or short peptides that are produced through primary metabolism by enzymes encoded by the genome.",
+      "start": 16.312,
+      "end": 34.862,
+      "word_count": 47
+    },
+    {
+      "text": "The metabolome can also include exogenous compounds from the environment or diet, such as grape constituents.",
+      "start": 35.725,
+      "end": 42.188,
+      "word_count": 16
+    },
+    {
+      "text": "By focusing on small molecules, metabolomics uses a distinctly different approach than proteomics and genomics.",
+      "start": 43.062,
+      "end": 49.812,
+      "word_count": 15
+    },
+    {
+      "text": "By comparing the metabolomes of individuals in healthy and diseased states, diagnoses can be made, and biomarkers can be identified, which may be used to facilitate monitoring of disease progression or remission.",
+      "start": 50.675,
+      "end": 63.025,
+      "word_count": 32
+    },
+    {
+      "text": "Alternatively, metabolomics may be used to determine how therapeutic interventions or dietary changes, such as daily consumption of grapes, alter the metabolome and improve biomarkers of disease or disease risk.",
+      "start": 63.9,
+      "end": 76.537,
+      "word_count": 30
+    },
+    {
+      "text": "For example, a subset of metabolomics called lipidomics has been used to assess how diet can affect levels of serum lipids and cardiovascular risk.",
+      "start": 77.4,
+      "end": 86.213,
+      "word_count": 24
+    },
+    {
+      "text": "Decades before the name metabolomics was coined in 1998, gas chromatography-mass spectrometry had been used beginning in the 1960s to profile and compare the metabolic profiles of urine and tissue.",
+      "start": 87.075,
+      "end": 100.425,
+      "word_count": 30
+    },
+    {
+      "text": "The development of liquid chromatography-mass spectrometry broadened the scope of metabolomics in the 1990s to include the measurement of compounds that had been too polar, nonvolatile, or thermally unstable to pass through a gas chromatography column.",
+      "start": 100.438,
+      "end": 115.513,
+      "word_count": 36
+    },
+    {
+      "text": "Although less sensitive than mass spectrometry-based approaches, nuclear magnetic resonance is also widely applied to metabolomics, so that today, gas chromatography-mass spectrometry, liquid chromatography-mass spectrometry, and nuclear magnetic resonance are all being used to study the human metabolome.",
+      "start": 115.525,
+      "end": 133.363,
+      "word_count": 37
+    }
+  ],
+  "sentence_count": 11,
+  "word_count": 296,
+  "total_duration": 133.363,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "5_modulation_of_targeted",
+  "title": "Modulation of Targeted Gene Expression by Grapes. The consumption of fruits and vegetables has long been known to modulate the expression of specific genes capable of reducing the risk of disease. Some generic examples include proinflammatory genes, such as I C A M 1, I L 1 R 1, I L 6, T N F-alpha, and N F-kappa B; p53; P T E N; and detoxification genes, including phase one cytochrome P450 enzymes, phase two conjugation enzymes, Nrf2 signaling, and metallothionein. Some interactions with medications that result from the consumption of fruits and vegetables are also well-known, as exemplified by grapefruit. More recently, the broader impact of diet on mammalian homeostasis has been recognized. In regard to grapes, and in some cases grape products or phytochemicals associated with grapes, there are numerous examples of modulation of gene expression presented throughout this monograph. In humans, laboratory animals, or in vitro studies, grapes have been shown to modulate genes relevant to atherosclerosis, for example, glutathione peroxidase, serum adiponectin, superoxide dismutase, catalase, T N F-alpha, I L-6, M C P-1, I L-10, A M P K activation, the P P A R gamma, L X R-alpha, A B C A 1 pathway, N F-kappa B, hypoxia inducible factor; gastrointestinal health, for example, N F-kappa B activation, toll-like receptors, I L-18, I L-1 beta, I L-6, and T N F-alpha, M M P-2, M M P-9, claudins, occludin, Zonula-1, myosin I X B, protein tyrosine phosphatase, mucin-2, Toll-like receptor-2 and -4, diamine oxidase, superoxide dismutase, catalase; vision, for example, pro-inflammatory genes, Nrf2 pathway, antioxidant enzymes, X-linked inhibitor of apoptosis protein; brain, for example, superoxide dismutase, catalase, peroxidase, brain-derived neurotrophic factor, nerve growth factor, Ca M K two, markers of microglial activation, a marker of astrocyte activation; metabolic syndrome, for example, high-mobility group A1 protein, endothelial nitric oxide synthase, T N F-alpha, I L-1 beta, I L-6, N F-kappa B, C O X-2, i N O S, lipoxygenase, I L-10, glutathione peroxidase, mesenteric white adipose tissue, adiponectin, N O X 2, D J-1 and M E K K 1 and J N K pathways, extracellular-space acting genes, C C L 3, transcriptional repressor L R R F I P-1, miR-21, miR-181b, miR-663, miR-30c2, miR-155, and miR-34a; and skin, for example, P P A R gamma, C O X, e N O S, Nrf2 and P I 3 K and Akt pathways, phospholipase A2, N F-kappa B, T N F-beta, T N F-alpha, I L-6, I L-8, M I P-1 alpha, M A P K, A P-1, M I T F, D C T, T Y R P 1, T Y R P 2, Nrf2 and A R E pathway, tumor promoter miRNA-106b, P C N A, Ki67, B C L 2, M M P-2, M M P-9, miR-136-5p, P R A F 2, I L-4, I L-5, I F N gamma, C X C L 1, C X C L 10, C C L 2, C C L 3, C C L 4 and C X C L 2, beta-catenin, V E G F A, E G F R, I L-1 beta, P I 3 K and Akt and J A K and S T A T pathways, H M G B 1, R A G E, V E G F, M M P-1, tyrosinase, collagen III alpha 1, hemoxygenase-1. A summary of some genes and or pathways modulated by grapes that are associated with various conditions is presented.",
+  "sentences": [
+    {
+      "text": "Modulation of Targeted Gene Expression by Grapes.",
+      "start": 0.1,
+      "end": 3.1,
+      "word_count": 7
+    },
+    {
+      "text": "The consumption of fruits and vegetables has long been known to modulate the expression of specific genes capable of reducing the risk of disease.",
+      "start": 3.975,
+      "end": 11.55,
+      "word_count": 24
+    },
+    {
+      "text": "Some generic examples include proinflammatory genes, such as I C A M 1, I L 1 R 1, I L 6, T N F-alpha, and N F-kappa B; p53; P T E N; and detoxification genes, including phase one cytochrome P450 enzymes, phase two conjugation enzymes, Nrf2 signaling, and metallothionein.",
+      "start": 12.412,
+      "end": 35.475,
+      "word_count": 50
+    },
+    {
+      "text": "Some interactions with medications that result from the consumption of fruits and vegetables are also well-known, as exemplified by grapefruit.",
+      "start": 36.35,
+      "end": 44.325,
+      "word_count": 20
+    },
+    {
+      "text": "More recently, the broader impact of diet on mammalian homeostasis has been recognized.",
+      "start": 45.188,
+      "end": 50.65,
+      "word_count": 13
+    },
+    {
+      "text": "In regard to grapes, and in some cases grape products or phytochemicals associated with grapes, there are numerous examples of modulation of gene expression presented throughout this monograph.",
+      "start": 51.525,
+      "end": 62.625,
+      "word_count": 28
+    },
+    {
+      "text": "In humans, laboratory animals, or in vitro studies, grapes have been shown to modulate genes relevant to atherosclerosis, for example, glutathione peroxidase, serum adiponectin, superoxide dismutase, catalase, T N F-alpha, I L-6, M C P-1, I L-10, A M P K activation, the P P A R gamma, L X R-alpha, A B C A 1 pathway, N F-kappa B, hypoxia inducible factor; gastrointestinal health, for example, N F-kappa B activation, toll-like receptors, I L-18, I L-1 beta, I L-6, and T N F-alpha, M M P-2, M M P-9, claudins, occludin, Zonula-1, myosin I X B, protein tyrosine phosphatase, mucin-2, Toll-like receptor-2 and -4, diamine oxidase, superoxide dismutase, catalase; vision, for example, pro-inflammatory genes, Nrf2 pathway, antioxidant enzymes, X-linked inhibitor of apoptosis protein; brain, for example, superoxide dismutase, catalase, peroxidase, brain-derived neurotrophic factor, nerve growth factor, Ca M K two, markers of microglial activation, a marker of astrocyte activation; metabolic syndrome, for example, high-mobility group A1 protein, endothelial nitric oxide synthase, T N F-alpha, I L-1 beta, I L-6, N F-kappa B, C O X-2, i N O S, lipoxygenase, I L-10, glutathione peroxidase, mesenteric white adipose tissue, adiponectin, N O X 2, D J-1 and M E K K 1 and J N K pathways, extracellular-space acting genes, C C L 3, transcriptional repressor L R R F I P-1, miR-21, miR-181b, miR-663, miR-30c2, miR-155, and miR-34a; and skin, for example, P P A R gamma, C O X, e N O S, Nrf2 and P I 3 K and Akt pathways, phospholipase A2, N F-kappa B, T N F-beta, T N F-alpha, I L-6, I L-8, M I P-1 alpha, M A P K, A P-1, M I T F, D C T, T Y R P 1, T Y R P 2, Nrf2 and A R E pathway, tumor promoter miRNA-106b, P C N A, Ki67, B C L 2, M M P-2, M M P-9, miR-136-5p, P R A F 2, I L-4, I L-5, I F N gamma, C X C L 1, C X C L 10, C C L 2, C C L 3, C C L 4 and C X C L 2, beta-catenin, V E G F A, E G F R, I L-1 beta, P I 3 K and Akt and J A K and S T A T pathways, H M G B 1, R A G E, V E G F, M M P-1, tyrosinase, collagen III alpha 1, hemoxygenase-1.",
+      "start": 63.487,
+      "end": 260.8,
+      "word_count": 413
+    },
+    {
+      "text": "A summary of some genes and or pathways modulated by grapes that are associated with various conditions is presented.",
+      "start": 261.012,
+      "end": 268.812,
+      "word_count": 19
+    },
+    {
+      "text": "Thus, it is clear that grapes are broadly capable of modulating gene expression, as exemplified by numerous studies that have investigated targeted products relevant to the disease state being scrutinized.",
+      "start": 268.825,
+      "end": 281.038,
+      "word_count": 30
+    },
+    {
+      "text": "In many of the cases presented above, several other specific genes were interrogated with no effect on expression being observed.",
+      "start": 281.05,
+      "end": 289.312,
+      "word_count": 20
+    },
+    {
+      "text": "All of these data help us to understand the relevant mechanisms of grape action.",
+      "start": 289.325,
+      "end": 294.55,
+      "word_count": 14
+    },
+    {
+      "text": "Naturally, however, targeted studies are designed to investigate, reveal, and quantify the expression of only a limited set of entities.",
+      "start": 294.562,
+      "end": 303.575,
+      "word_count": 20
+    },
+    {
+      "text": "However, bearing in mind the concept of nutrigenomics, it is reasonable to expect that the expression of these particular genes only represents the tip of the iceberg.",
+      "start": 303.587,
+      "end": 313.95,
+      "word_count": 27
+    },
+    {
+      "text": "As described below, this is indeed the case, as demonstrated with various animal models and a limited number of human trials. trials",
+      "start": 313.962,
+      "end": 322.812,
+      "word_count": 22
+    }
+  ],
+  "sentence_count": 14,
+  "word_count": 707,
+  "total_duration": 322.812,
+  "voice": "en-US-AriaNeural"
+}

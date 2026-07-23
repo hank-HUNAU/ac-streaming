@@ -1,0 +1,166 @@
+{
+  "id": "16_effects_of_resveratrol",
+  "title": "Effects of Resveratrol and Its Derivatives on Melanoma. In the last few decades, resveratrol has garnered significant attention for its broad spectrum of biological activities including antiproliferative potential. Resveratrol has been shown to have apoptosis-inducing activity, cell cycle modulatory effects, anti-inflammatory effects, and the ability to modulate protein kinase signaling, among other events. In the context of melanoma, resveratrol has been shown to exert its antiproliferative response by targeting multiple signaling pathways, such as extracellular growth factors and receptor tyrosine kinases, E G F, T G F-beta, p53; multiprotein complexes, P T E N and Akt, M E K and E R K; cell metabolism, redox imbalance; cell cycle regulation; and integrin signaling.",
+  "sentences": [
+    {
+      "text": "Effects of Resveratrol and Its Derivatives on Melanoma.",
+      "start": 0.1,
+      "end": 3.337,
+      "word_count": 8
+    },
+    {
+      "text": "In the last few decades, resveratrol has garnered significant attention for its broad spectrum of biological activities including antiproliferative potential.",
+      "start": 4.2,
+      "end": 13.55,
+      "word_count": 20
+    },
+    {
+      "text": "Resveratrol has been shown to have apoptosis-inducing activity, cell cycle modulatory effects, anti-inflammatory effects, and the ability to modulate protein kinase signaling, among other events.",
+      "start": 14.412,
+      "end": 26.712,
+      "word_count": 25
+    },
+    {
+      "text": "In the context of melanoma, resveratrol has been shown to exert its antiproliferative response by targeting multiple signaling pathways, such as extracellular growth factors and receptor tyrosine kinases, E G F, T G F-beta, p53; multiprotein complexes, P T E N and Akt, M E K and E R K; cell metabolism, redox imbalance; cell cycle regulation; and integrin signaling.",
+      "start": 27.575,
+      "end": 54.263,
+      "word_count": 60
+    },
+    {
+      "text": "One of the key mutations in melanoma is in the BRAF gene, which causes persistent activation of the M E K and E R K pathway, leading to uncontrolled cell proliferation.",
+      "start": 55.138,
+      "end": 66.287,
+      "word_count": 31
+    },
+    {
+      "text": "This pathway is also activated by alpha-melanocyte-stimulating hormone, which regulates melanogenesis and immune responses in melanoma.",
+      "start": 67.162,
+      "end": 75.425,
+      "word_count": 16
+    },
+    {
+      "text": "A study has shown that resveratrol inhibits melanoma cell growth and induces apoptosis by phosphorylating and inhibiting the M E K and E R K pathway in melanoma cells.",
+      "start": 76.287,
+      "end": 87.175,
+      "word_count": 29
+    },
+    {
+      "text": "It also downregulates alpha-melanocyte-stimulating hormone and its downstream regulators, such as beta-catenin, c-Kit, and MITF, which are essential for melanin synthesis.",
+      "start": 88.037,
+      "end": 99.025,
+      "word_count": 21
+    },
+    {
+      "text": "At effective concentrations, resveratrol alone or in combination with imatinib has been shown to inhibit the viability and invasion capacity of melanoma cells.",
+      "start": 99.888,
+      "end": 109.612,
+      "word_count": 23
+    },
+    {
+      "text": "A recent study has shown that resveratrol downregulated the phosphorylation of E R K 1 and 2 by inhibiting S H C binding and spindle-associated 1 expression in melanoma cells.",
+      "start": 110.475,
+      "end": 121.65,
+      "word_count": 30
+    },
+    {
+      "text": "This, in turn, modulates the expression of cell cycle cyclins A, E, and B1, with subsequent irreversible arrest of the cells in the S phase resulting in apoptosis.",
+      "start": 122.525,
+      "end": 133.238,
+      "word_count": 28
+    },
+    {
+      "text": "In addition, resveratrol was also shown to target the P T E N and Akt pathway, which is frequently dysregulated in melanoma.",
+      "start": 134.1,
+      "end": 142.15,
+      "word_count": 22
+    },
+    {
+      "text": "Resveratrol was found to decrease the phosphorylation of Akt, m T O R, and F O X O, subsequently preventing the translocation of F O X O to the nucleus and its activation.",
+      "start": 143.025,
+      "end": 154.625,
+      "word_count": 33
+    },
+    {
+      "text": "It was found that treatment with resveratrol decreased tumor growth and metastasis, with downregulation of Akt signaling in a syngenic mouse model of melanoma.",
+      "start": 155.5,
+      "end": 164.812,
+      "word_count": 24
+    },
+    {
+      "text": "Similarly, resveratrol treatment has also been shown to effectively inhibit melanoma metastasis in the lungs, with decreased angiogenesis and tumor infiltration by regulatory T cells.",
+      "start": 165.688,
+      "end": 177.15,
+      "word_count": 25
+    },
+    {
+      "text": "Regulatory T cells are known to impair the ability of immune system to fight tumors, and their inhibition by resveratrol supports the immune-mediated suppression of melanoma cells.",
+      "start": 178.025,
+      "end": 188.325,
+      "word_count": 27
+    },
+    {
+      "text": "Furthermore, resveratrol treatment was found to increase the basal expression of dihydronicotinamide riboside quinone reductase 2, potentially contributing to enhanced p53 expression and growth suppression in melanoma cells.",
+      "start": 189.188,
+      "end": 202.75,
+      "word_count": 28
+    },
+    {
+      "text": "Interestingly, resveratrol's antiproliferative effects have also been shown to be mediated via a pro-oxidant response.",
+      "start": 203.625,
+      "end": 210.562,
+      "word_count": 15
+    },
+    {
+      "text": "Treatment of malignant melanoma cells with high dose of resveratrol was shown to increase reactive oxygen species-mediated expression of phosphorylated p38 M A P K, triggering both p53 and E R stress pathways.",
+      "start": 211.438,
+      "end": 225.2,
+      "word_count": 33
+    },
+    {
+      "text": "This led to increased expression levels of phosphorylated eukaryotic initiation factor-2 alpha and C/EBP homologous protein, which in turn upregulated pro-apoptotic proteins Bax, p21, and p27 while downregulating anti-apoptotic proteins such as Bcl-2 and cyclin B.",
+      "start": 226.075,
+      "end": 244.6,
+      "word_count": 36
+    },
+    {
+      "text": "These changes contributed to the growth inhibition and cell cycle arrest in malignant melanoma cells.",
+      "start": 244.613,
+      "end": 250.938,
+      "word_count": 15
+    },
+    {
+      "text": "Another study revealed that resveratrol induces melanoma cell apoptosis by targeting M2-type pyruvate kinase-mediated E R stress and mitochondrial fission, independent of p53.",
+      "start": 250.95,
+      "end": 263.9,
+      "word_count": 23
+    },
+    {
+      "text": "It suppressed pyruvate kinase M2 and phosphorylation of upstream E R K 1 and 2, which then fails to stabilize Bcl-2, leading to its degradation and the release of cytochrome c. Hence, resveratrol downregulates E R K and pyruvate kinase M2 and Bcl-2 axis in malignant melanoma cells to induce apoptosis.",
+      "start": 263.913,
+      "end": 287.25,
+      "word_count": 51
+    },
+    {
+      "text": "Derivatives of resveratrol, such as pterostilbene, labruscol, and epsilon-viniferin, have also been shown to have growth inhibitory effects in melanoma.",
+      "start": 287.262,
+      "end": 298.113,
+      "word_count": 20
+    },
+    {
+      "text": "These derivatives have been shown to cause a S-phase cell cycle arrest by modulating cyclins A, E, and D1 as well as their associated cyclin-dependent kinases 1 and 2, leading to reduced melanoma cell viability and invasiveness.",
+      "start": 298.125,
+      "end": 313.012,
+      "word_count": 37
+    },
+    {
+      "text": "Overall, studies in a variety of experimental models suggest that resveratrol and its derivatives have antiproliferative effects in melanoma and require further investigation and validation in preclinical and clinical models. clinical models",
+      "start": 313.025,
+      "end": 328.125,
+      "word_count": 32
+    }
+  ],
+  "sentence_count": 26,
+  "word_count": 712,
+  "total_duration": 328.125,
+  "voice": "en-US-AriaNeural"
+}

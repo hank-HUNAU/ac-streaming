@@ -1,0 +1,112 @@
+{
+  "id": "10_eye_health_impacts",
+  "title": "Eye Health. Impacts of Regular Consumption of Grapes on Macular Pigment Accumulation in Singapore Older Adults: A Randomized, Controlled Trial. In a randomized, controlled human study, 34 human subjects consumed either grapes, equivalent to 1.5 cups of grapes per day, or a placebo for 16 weeks. Those consuming grapes showed a significant increase in Macular Pigment Optical Density, plasma antioxidant capacity, and total phenolic content compared to those on placebo. Those who did not consume grapes experienced a significant increase in harmful ocular advanced glycation end products.",
+  "sentences": [
+    {
+      "text": "Eye Health.",
+      "start": 0.1,
+      "end": 0.762,
+      "word_count": 2
+    },
+    {
+      "text": "Impacts of Regular Consumption of Grapes on Macular Pigment Accumulation in Singapore Older Adults: A Randomized, Controlled Trial.",
+      "start": 1.637,
+      "end": 9.475,
+      "word_count": 18
+    },
+    {
+      "text": "In a randomized, controlled human study, 34 human subjects consumed either grapes, equivalent to 1.5 cups of grapes per day, or a placebo for 16 weeks.",
+      "start": 10.338,
+      "end": 22.5,
+      "word_count": 26
+    },
+    {
+      "text": "Those consuming grapes showed a significant increase in Macular Pigment Optical Density, plasma antioxidant capacity, and total phenolic content compared to those on placebo.",
+      "start": 22.512,
+      "end": 34.05,
+      "word_count": 24
+    },
+    {
+      "text": "Those who did not consume grapes experienced a significant increase in harmful ocular advanced glycation end products.",
+      "start": 34.062,
+      "end": 41.462,
+      "word_count": 17
+    },
+    {
+      "text": "A Grape-Supplemented Diet Prevented Ultraviolet Radiation-Induced Cataract by Regulating Nrf2 and XIAP Pathways.",
+      "start": 41.475,
+      "end": 50.362,
+      "word_count": 13
+    },
+    {
+      "text": "This study examined the impact of grape consumption for 3 months against ultraviolet-induced cataract formation in mice.",
+      "start": 50.375,
+      "end": 58.325,
+      "word_count": 17
+    },
+    {
+      "text": "Animals were fed a diet comprised of 5, 10, or 15 percent grape powder.",
+      "start": 58.337,
+      "end": 64.338,
+      "word_count": 14
+    },
+    {
+      "text": "The results showed that adding grapes to the diet dose-dependently inhibited cataract formation and preserved glutathione pools.",
+      "start": 64.35,
+      "end": 72.575,
+      "word_count": 17
+    },
+    {
+      "text": "The 15 percent grape diet most significantly inhibited the onset and severity of cataracts, resulting in clear lenses.",
+      "start": 72.588,
+      "end": 82.675,
+      "word_count": 18
+    },
+    {
+      "text": "Additionally, ultraviolet-induced Nrf2 activation was abolished in groups on the grape diet, suggesting improved redox homeostasis in the lens.",
+      "start": 82.688,
+      "end": 90.912,
+      "word_count": 19
+    },
+    {
+      "text": "Protective Effects of a Grape Supplemented Diet in a Mouse Model of Retinal Degeneration.",
+      "start": 90.925,
+      "end": 96.438,
+      "word_count": 14
+    },
+    {
+      "text": "In this study, adding freeze-dried grape powder to the diet preserved retinal structure and function compared to a sugar-matched control.",
+      "start": 96.65,
+      "end": 105.088,
+      "word_count": 20
+    },
+    {
+      "text": "In addition, retinal thickness and photoreceptor numbers were preserved by the grape-supplemented diet compared to controls.",
+      "start": 105.1,
+      "end": 112.575,
+      "word_count": 16
+    },
+    {
+      "text": "The Sustained Delivery of Resveratrol or a Defined Grape Powder Inhibits New Blood Vessel Formation in a Mouse Model of Choroidal Neovascularization.",
+      "start": 112.588,
+      "end": 121.588,
+      "word_count": 22
+    },
+    {
+      "text": "In a controlled feeding trial with mice, provision of grape powder significantly reduced the formation of harmful blood vessels, choroidal neovascularization, associated with models of the wet form of age-related macular degeneration, a leading cause of blindness in the industrialized world.",
+      "start": 121.6,
+      "end": 139.863,
+      "word_count": 41
+    },
+    {
+      "text": "Researchers found that grape consumption activated the notch signaling pathway to reduce pathological angiogenesis.",
+      "start": 139.875,
+      "end": 145.55,
+      "word_count": 11
+    }
+  ],
+  "sentence_count": 17,
+  "word_count": 309,
+  "total_duration": 145.55,
+  "voice": "en-US-AriaNeural"
+}

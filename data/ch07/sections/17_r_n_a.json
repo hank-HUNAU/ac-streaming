@@ -1,0 +1,124 @@
+{
+  "id": "17_r_n_a",
+  "title": "R N A-Seq with Human Skin Biopsies. As described elsewhere in the volume, consumption of grapes modulates gene expression in the skin of humans. This is confirmed by the R N A-seq data shown below, from a human subject referred to by the code letter S. Comparison of a skin biopsy obtained prior to the consumption of grapes for two weeks with a biopsy obtained following grape consumption for two weeks showed 21,507 gene transcripts shared in common, while 1894 genes were uniquely expressed in the pre-grape sample, and 2296 were uniquely expressed in the post-grape sample. Thus, grape consumption, per se, influences gene expression.",
+  "sentences": [
+    {
+      "text": "R N A-Seq with Human Skin Biopsies.",
+      "start": 0.1,
+      "end": 2.65,
+      "word_count": 7
+    },
+    {
+      "text": "As described elsewhere in the volume, consumption of grapes modulates gene expression in the skin of humans.",
+      "start": 3.513,
+      "end": 9.637,
+      "word_count": 17
+    },
+    {
+      "text": "This is confirmed by the R N A-seq data shown below, from a human subject referred to by the code letter S. Comparison of a skin biopsy obtained prior to the consumption of grapes for two weeks with a biopsy obtained following grape consumption for two weeks showed 21,507 gene transcripts shared in common, while 1894 genes were uniquely expressed in the pre-grape sample, and 2296 were uniquely expressed in the post-grape sample.",
+      "start": 10.512,
+      "end": 39.475,
+      "word_count": 73
+    },
+    {
+      "text": "Thus, grape consumption, per se, influences gene expression.",
+      "start": 40.337,
+      "end": 44.513,
+      "word_count": 8
+    },
+    {
+      "text": "Also, ultraviolet irradiation of human skin, per se, results in phenotypic alterations.",
+      "start": 45.388,
+      "end": 51.587,
+      "word_count": 12
+    },
+    {
+      "text": "This is illustrated by the comparison of pre-grape no ultraviolet exposure and pre-grape with ultraviolet exposure.",
+      "start": 52.45,
+      "end": 59.2,
+      "word_count": 16
+    },
+    {
+      "text": "In this analysis, there were 19,495 transcripts in common with both specimens, but 3906 transcripts were unique to the no ultraviolet sample, and 2480 transcripts were unique to the ultraviolet sample.",
+      "start": 60.062,
+      "end": 76.05,
+      "word_count": 31
+    },
+    {
+      "text": "The next question to be addressed is how the expression pattern compares with exposure to ultraviolet, both before and after grape consumption.",
+      "start": 76.912,
+      "end": 84.912,
+      "word_count": 22
+    },
+    {
+      "text": "This is illustrated by the comparison of no grape consumption with ultraviolet exposure and two weeks of grape consumption with ultraviolet exposure.",
+      "start": 85.787,
+      "end": 93.963,
+      "word_count": 22
+    },
+    {
+      "text": "In this case, with ultraviolet-exposed specimens, 19,225 transcripts were shared between the two samples, whereas 2750 and 3443 unique transcripts were observed with the pre-grape and post-grape samples, respectively.",
+      "start": 94.825,
+      "end": 111.362,
+      "word_count": 29
+    },
+    {
+      "text": "Finally, the results obtained with and without ultraviolet exposure were compared following two weeks of grape consumption.",
+      "start": 112.225,
+      "end": 118.9,
+      "word_count": 17
+    },
+    {
+      "text": "This is illustrated with two weeks of grape consumption with no ultraviolet irradiation versus two weeks of grape consumption with ultraviolet irradiation.",
+      "start": 119.763,
+      "end": 128.4,
+      "word_count": 22
+    },
+    {
+      "text": "The results showed 20,687 transcripts shared between the two samples, with 3116 and 1981 unique transcripts observed in the no ultraviolet and ultraviolet samples, respectively.",
+      "start": 129.262,
+      "end": 142.662,
+      "word_count": 25
+    },
+    {
+      "text": "An overlay of all these data is provided in the Venn diagram that includes all four specimens.",
+      "start": 143.537,
+      "end": 148.738,
+      "word_count": 17
+    },
+    {
+      "text": "As expected, based on the results described above, each of the four specimens showed unique expression patterns not in common with one another.",
+      "start": 149.6,
+      "end": 157.575,
+      "word_count": 23
+    },
+    {
+      "text": "Relative to the side-by-side comparisons, however, the number of unique transcripts was reduced by roughly two- to threefold, to the range of 800 to 1200.",
+      "start": 158.438,
+      "end": 168.262,
+      "word_count": 25
+    },
+    {
+      "text": "It is likely that some of these phenotypic changes induced by grape consumption have downstream consequences that affect responses to ultraviolet irradiation.",
+      "start": 169.125,
+      "end": 177.75,
+      "word_count": 22
+    },
+    {
+      "text": "Numerically, the same patterns of gene expression were observed with three additional human subjects.",
+      "start": 178.625,
+      "end": 184.162,
+      "word_count": 14
+    },
+    {
+      "text": "We are currently in the process of identifying differentially expressed genes and interpreting the biological relevance of the changes.",
+      "start": 185.025,
+      "end": 192.213,
+      "word_count": 19
+    }
+  ],
+  "sentence_count": 19,
+  "word_count": 421,
+  "total_duration": 192.213,
+  "voice": "en-US-AriaNeural"
+}

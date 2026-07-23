@@ -1,0 +1,40 @@
+{
+  "id": "21_prostate_health_a",
+  "title": "Prostate Health. A Grape-Enriched Diet Attenuated Obesity-Related Inflammation and Prostate Cancer Progression. The chemopreventive potential of grape-supplemented diets was evaluated in genetically predisposed and obesity-provoked prostate cancer, using prostate-specific Pten heterozygous transgenic mice. The animals were fed a low- and high-fat diet, supplemented with 10 percent grape powder for 33 weeks. Consuming grapes had a beneficial impact: researchers observed a reduction in proliferation of prostate epithelial cells, rescue of P T E N expression, a protective effect against high-fat diet induced inflammation, activation of cell survival pathways and angiogenesis, as well as reduced circulating levels of cancer-promoting micro R N As.",
+  "sentences": [
+    {
+      "text": "Prostate Health.",
+      "start": 0.1,
+      "end": 1.062,
+      "word_count": 2
+    },
+    {
+      "text": "A Grape-Enriched Diet Attenuated Obesity-Related Inflammation and Prostate Cancer Progression.",
+      "start": 1.938,
+      "end": 7.425,
+      "word_count": 10
+    },
+    {
+      "text": "The chemopreventive potential of grape-supplemented diets was evaluated in genetically predisposed and obesity-provoked prostate cancer, using prostate-specific Pten heterozygous transgenic mice.",
+      "start": 8.3,
+      "end": 19.913,
+      "word_count": 21
+    },
+    {
+      "text": "The animals were fed a low- and high-fat diet, supplemented with 10 percent grape powder for 33 weeks.",
+      "start": 20.788,
+      "end": 28.5,
+      "word_count": 18
+    },
+    {
+      "text": "Consuming grapes had a beneficial impact: researchers observed a reduction in proliferation of prostate epithelial cells, rescue of P T E N expression, a protective effect against high-fat diet induced inflammation, activation of cell survival pathways and angiogenesis, as well as reduced circulating levels of cancer-promoting micro R N As.",
+      "start": 28.512,
+      "end": 49.7,
+      "word_count": 49
+    }
+  ],
+  "sentence_count": 5,
+  "word_count": 100,
+  "total_duration": 49.7,
+  "voice": "en-US-AriaNeural"
+}

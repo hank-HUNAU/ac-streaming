@@ -1,0 +1,46 @@
+{
+  "id": "14_role_of_grapes",
+  "title": "Role of Grapes or Grape Constituents in Skin Diseases. Skin diseases are among the most common health conditions. These disorders arise from a complex interplay of genetic and environmental factors, with the contribution of each element varying depending on the specific condition. Phytochemicals from natural sources, such as those found in grapes, hold considerable promise in addressing these conditions. Grape constituents have been shown to exhibit multiple biological activities and modulate important signaling events, which may protect against a variety of skin diseases. Some of these activities are described below.",
+  "sentences": [
+    {
+      "text": "Role of Grapes or Grape Constituents in Skin Diseases.",
+      "start": 0.1,
+      "end": 3.275,
+      "word_count": 9
+    },
+    {
+      "text": "Skin diseases are among the most common health conditions.",
+      "start": 4.15,
+      "end": 7.213,
+      "word_count": 9
+    },
+    {
+      "text": "These disorders arise from a complex interplay of genetic and environmental factors, with the contribution of each element varying depending on the specific condition.",
+      "start": 8.075,
+      "end": 17.212,
+      "word_count": 24
+    },
+    {
+      "text": "Phytochemicals from natural sources, such as those found in grapes, hold considerable promise in addressing these conditions.",
+      "start": 18.075,
+      "end": 25.35,
+      "word_count": 17
+    },
+    {
+      "text": "Grape constituents have been shown to exhibit multiple biological activities and modulate important signaling events, which may protect against a variety of skin diseases.",
+      "start": 26.212,
+      "end": 35.888,
+      "word_count": 24
+    },
+    {
+      "text": "Some of these activities are described below.",
+      "start": 36.75,
+      "end": 39.163,
+      "word_count": 7
+    }
+  ],
+  "sentence_count": 6,
+  "word_count": 90,
+  "total_duration": 39.163,
+  "voice": "en-US-AriaNeural"
+}

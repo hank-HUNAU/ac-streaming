@@ -1,0 +1,22 @@
+{
+  "id": "0_grapes_and_gastrointestinal",
+  "title": "Grapes and Gastrointestinal Health. Qing Jiang and Qianyue Wang.",
+  "sentences": [
+    {
+      "text": "Grapes and Gastrointestinal Health.",
+      "start": 0.1,
+      "end": 2.112,
+      "word_count": 4
+    },
+    {
+      "text": "Qing Jiang and Qianyue Wang.",
+      "start": 2.987,
+      "end": 4.875,
+      "word_count": 5
+    }
+  ],
+  "sentence_count": 2,
+  "word_count": 9,
+  "total_duration": 4.875,
+  "voice": "en-US-AriaNeural"
+}

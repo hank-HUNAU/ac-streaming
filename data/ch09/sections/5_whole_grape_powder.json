@@ -1,0 +1,154 @@
+{
+  "id": "5_whole_grape_powder",
+  "title": "Whole Grape Powder. In a metabolomics study involving intervention with whole grapes instead of extracts, another research group administered freeze-dried table grape powder equivalent to 3 servings of grapes per day for 14 days to 29 participants, 13 women and 16 men. Urine was collected for 24 hours immediately before intervention, after grape powder intervention, and following a 30-day washout period. A limitation of the study was the lack of a placebo group.",
+  "sentences": [
+    {
+      "text": "Whole Grape Powder.",
+      "start": 0.1,
+      "end": 1.212,
+      "word_count": 3
+    },
+    {
+      "text": "In a metabolomics study involving intervention with whole grapes instead of extracts, another research group administered freeze-dried table grape powder equivalent to 3 servings of grapes per day for 14 days to 29 participants, 13 women and 16 men.",
+      "start": 2.075,
+      "end": 19.15,
+      "word_count": 39
+    },
+    {
+      "text": "Urine was collected for 24 hours immediately before intervention, after grape powder intervention, and following a 30-day washout period.",
+      "start": 19.163,
+      "end": 28.938,
+      "word_count": 19
+    },
+    {
+      "text": "A limitation of the study was the lack of a placebo group.",
+      "start": 28.95,
+      "end": 33.075,
+      "word_count": 12
+    },
+    {
+      "text": "Urinary levels of four metabolites, 2'-deoxyribonic acid, tartaric acid, glutaconic acid, and 3-hydroxyphenylacetic acid, increased due to grape consumption and then decreased during the washout period.",
+      "start": 33.087,
+      "end": 47.5,
+      "word_count": 26
+    },
+    {
+      "text": "A biomarker of DNA repair, 2'-deoxyribonic acid is a hydrolysis product of 2'-deoxyribonolactone, which is formed in DNA by the oxidation of 2'-deoxyribose at abasic sites.",
+      "start": 47.513,
+      "end": 60.612,
+      "word_count": 26
+    },
+    {
+      "text": "Abundant in grapes, tartaric acid elimination in urine increased by 500 percent following grape powder administration.",
+      "start": 60.625,
+      "end": 69.075,
+      "word_count": 16
+    },
+    {
+      "text": "Derived from the amino acid glutamate, glutaconic acid was elevated in urine after grape powder consumption, and levels of 3-hydroxyphenylacetic acid, which is related to tyrosine metabolism, also increased.",
+      "start": 69.088,
+      "end": 83.213,
+      "word_count": 29
+    },
+    {
+      "text": "The earlier two groups also reported that 3-hydroxyphenylacetic acid increased in urine following consumption of a polyphenol-rich extract of red wine and grape juice.",
+      "start": 83.225,
+      "end": 93.463,
+      "word_count": 24
+    },
+    {
+      "text": "The group who also evaluated changes in the gut microbiome resulting from grape powder consumption indicated that glutaconic acid and 3-hydroxyphenylacetic acid were probably formed through the metabolism of grape constituents by gut bacteria such as Clostridium symbiosum, Parabacteroides species, Clostridia species, or Klebsiella pneumoniae.",
+      "start": 93.475,
+      "end": 115.425,
+      "word_count": 45
+    },
+    {
+      "text": "The other group suggested that 3-hydroxyphenylacetic acid might also be a gut microbiome degradation product of grape flavonoids such as quercetin.",
+      "start": 115.438,
+      "end": 124.975,
+      "word_count": 21
+    },
+    {
+      "text": "In contrast to the metabolomics studies of wine and grape juice extracts, consumption of freeze-dried whole grapes resulted in a decrease of hippuric acid.",
+      "start": 124.987,
+      "end": 134.963,
+      "word_count": 24
+    },
+    {
+      "text": "Urinary excretion of 3-indoleacetic acid, valine, ribose, 2,3-dihydroxybutanoic acid, galactose, glucose, carbamic acid, malonic acid, and levoglucosan also decreased due to grape powder consumption.",
+      "start": 134.975,
+      "end": 149.912,
+      "word_count": 24
+    },
+    {
+      "text": "Whole Grape Powder and Urine Metabolomics in the Mouse.",
+      "start": 149.925,
+      "end": 153.738,
+      "word_count": 9
+    },
+    {
+      "text": "Although this review focuses on the effects of grape consumption on human metabolomics, one animal study has studied the effects of whole grape powder on metabolomics and is discussed here for comparison.",
+      "start": 153.75,
+      "end": 165.637,
+      "word_count": 32
+    },
+    {
+      "text": "In this study, researchers investigated the effects on the urine metabolome of adding 5 percent weight per weight freeze-dried table grape powder to the diets of female C57BL/6 J mice, 10 mice per group, consuming a standard laboratory diet or a high-fat Western diet for 91 days.",
+      "start": 165.65,
+      "end": 185.463,
+      "word_count": 47
+    },
+    {
+      "text": "Although grape powder consumption added to the standard diet produced changes in the mouse urine metabolome, with gluconic acid, myo-inositol, glyceric acid, glycolic acid, 5-hydroxyindole, and 4-hydroxyphenylacetic acid all decreasing, only 4-hydroxyphenylacetic acid has been reported to change in human urine after consuming grape products.",
+      "start": 185.475,
+      "end": 207.725,
+      "word_count": 45
+    },
+    {
+      "text": "In the human study, the first group found that 4-hydroxyphenylacetic acid levels in urine increased, rather than decreased as observed in the mouse, following consumption of wine and grape extracts.",
+      "start": 207.738,
+      "end": 220.4,
+      "word_count": 30
+    },
+    {
+      "text": "In mice fed a high-fat diet, consumption of freeze-dried grape powder produced an entirely different set of changes in the urine metabolome.",
+      "start": 220.412,
+      "end": 229.55,
+      "word_count": 22
+    },
+    {
+      "text": "Concentrations of galactose, gluconic acid, scyllo-inositol, mannitol, xylitol, 2-deoxyribonic acid, tartaric acid, and 5-hydroxyindole increased in mouse urine.",
+      "start": 229.562,
+      "end": 241.863,
+      "word_count": 18
+    },
+    {
+      "text": "Although no urine metabolomics data have been published concerning the effects of grape consumption on humans eating a high-fat diet, several of these mouse urine metabolites have been found to change in human urine following consumption of grape products in addition to a normal diet.",
+      "start": 241.875,
+      "end": 257.812,
+      "word_count": 45
+    },
+    {
+      "text": "As in the mouse, the whole grape powder study reported that grape powder consumption increased urinary levels of 2-deoxyribonic acid and tartaric acid, the latter being an organic acid in grapes.",
+      "start": 257.825,
+      "end": 270.837,
+      "word_count": 31
+    },
+    {
+      "text": "In contrast to the mouse, the whole grape powder study found that galactose levels in urine decreased after consuming grape powder.",
+      "start": 270.85,
+      "end": 279.676,
+      "word_count": 21
+    },
+    {
+      "text": "This lack of correlation between changes in the urine metabolomes of mice and humans might be due, at least in part, to species differences.",
+      "start": 279.688,
+      "end": 287.089,
+      "word_count": 22
+    }
+  ],
+  "sentence_count": 24,
+  "word_count": 630,
+  "total_duration": 287.089,
+  "voice": "en-US-AriaNeural"
+}

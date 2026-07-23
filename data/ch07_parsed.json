@@ -1,0 +1,2220 @@
+{
+  "chapter": "07",
+  "title": "07 Effect of Grapes and Grape Constituents",
+  "sections": [
+    {
+      "id": "effect_of_grapes_and_grape_constituents_on_uv_induced_skin_damage_in_humans_dana_lynn_t_koomoa_sumi_piya_john_m_pezzuto_and_ingo_lange",
+      "title": "Effect of Grapes and Grape Constituents on UV-Induced Skin Damage in Humans. Dana-Lynn T. Koomoa, Sumi Piya, John M. Pezzuto, and Ingo Lange.",
+      "text": "Effect of Grapes and Grape Constituents on UV-Induced Skin Damage in Humans. Dana-Lynn T. Koomoa, Sumi Piya, John M. Pezzuto, and Ingo Lange.",
+      "index": 0,
+      "paragraph_count": 1,
+      "total_chars": 141,
+      "final_id": "0_effect_of_grapes_and_grape"
+    },
+    {
+      "id": "abstract_in_the_united_states_alone_over_five_million_cases_of_skin_cancer_are_diagnosed_each_year_mainly_due_to_ultraviolet_exposure_derived_from_the_sun_while_it_seems_obvious_that_exposure_to_ultraviolet_irradiation_could_be_prevented_or_limited_to_a_safe_level_the_existence_of_a_public_health_issue_of_this_magnitude_suggests_that_some_type_of_augmentation_would_be_helpful_based_on_compelling_preclinical_data_the_potential_of_grape_consumption_to_alleviate_ultraviolet_damage_to_the_skin_seemed_feasible_and_translational_studies_conducted_with_human_beings_proved_this_to_be_the_case_the_ultraviolet_protective_action_of_one_component_of_the_grape_resveratrol_has_been_highly_touted_as_described_herein_mechanistic_studies_have_been_extensive_and_highly_instructive_however_due_to_minuscule_amounts_in_the_diet_physicochemical_limitations_such_as_poor_absorption_and_rapid_metabolism_it_is_unlikely_that_resveratrol_has_much_practical_application_other_than_when_applied_as_a_topical_agent_the_grape_however_as_a_whole_food_containing_scores_of_phytochemical_constituents_is_suitable_for_providing_protection_through_normal_dietary_habits_clinical_trials_revealed_that_consumption_of_normal_daily_quantities_of_grapes_leads_to_enhanced_resistance_to_ultraviolet_irradiation_based_on_increased_doses_required_to_induce_erythema_and_modulation_of_biomarkers_indicative_of_carcinogenesis_more_broadly_grape_consumption_leads_to_differential_gene_expression_in_the_skin_of_humans_further_work_is_required_to_more_completely_define_the_mode_by_which_grape_consumption_may_help_to_alleviate_skin_damage_nonetheless_the_results_are_promising_suggesting_that_diet_may_play_an_even_greater_role_than_is_commonly_acknowledged_in_disease_prevention_and_in_augmenting_defense_mechanisms_essential_for_responding_to_exogenous_health_risks",
+      "title": "Abstract. In the United States alone, over five million cases of skin cancer are diagnosed each year, mainly due to ultraviolet exposure derived from the sun. While it seems obvious that exposure to ultraviolet irradiation could be prevented or limited to a safe level, the existence of a public health issue of this magnitude suggests that some type of augmentation would be helpful. Based on compelling preclinical data, the potential of grape consumption to alleviate ultraviolet damage to the skin seemed feasible, and translational studies conducted with human beings proved this to be the case. The ultraviolet protective action of one component of the grape, resveratrol, has been highly touted. As described herein, mechanistic studies have been extensive and highly instructive. However, due to minuscule amounts in the diet, physicochemical limitations such as poor absorption and rapid metabolism, it is unlikely that resveratrol has much practical application other than when applied as a topical agent. The grape, however, as a whole food containing scores of phytochemical constituents, is suitable for providing protection through normal dietary habits. Clinical trials revealed that consumption of normal daily quantities of grapes leads to enhanced resistance to ultraviolet irradiation, based on increased doses required to induce erythema and modulation of biomarkers indicative of carcinogenesis. More broadly, grape consumption leads to differential gene expression in the skin of humans. Further work is required to more completely define the mode by which grape consumption may help to alleviate skin damage. Nonetheless, the results are promising, suggesting that diet may play an even greater role than is commonly acknowledged in disease prevention and in augmenting defense mechanisms essential for responding to exogenous health risks.",
+      "text": "Abstract. In the United States alone, over five million cases of skin cancer are diagnosed each year, mainly due to ultraviolet exposure derived from the sun. While it seems obvious that exposure to ultraviolet irradiation could be prevented or limited to a safe level, the existence of a public health issue of this magnitude suggests that some type of augmentation would be helpful. Based on compelling preclinical data, the potential of grape consumption to alleviate ultraviolet damage to the skin seemed feasible, and translational studies conducted with human beings proved this to be the case. The ultraviolet protective action of one component of the grape, resveratrol, has been highly touted. As described herein, mechanistic studies have been extensive and highly instructive. However, due to minuscule amounts in the diet, physicochemical limitations such as poor absorption and rapid metabolism, it is unlikely that resveratrol has much practical application other than when applied as a topical agent. The grape, however, as a whole food containing scores of phytochemical constituents, is suitable for providing protection through normal dietary habits. Clinical trials revealed that consumption of normal daily quantities of grapes leads to enhanced resistance to ultraviolet irradiation, based on increased doses required to induce erythema and modulation of biomarkers indicative of carcinogenesis. More broadly, grape consumption leads to differential gene expression in the skin of humans. Further work is required to more completely define the mode by which grape consumption may help to alleviate skin damage. Nonetheless, the results are promising, suggesting that diet may play an even greater role than is commonly acknowledged in disease prevention and in augmenting defense mechanisms essential for responding to exogenous health risks.",
+      "index": 1,
+      "paragraph_count": 1,
+      "total_chars": 1863,
+      "final_id": "1_abstract_in_the_united_states"
+    },
+    {
+      "id": "introduction_skin_cancer_is_the_most_common_form_of_cancer_in_the_united_states_constituting_5_percent_of_all_new_cancer_cases_in_2024_the_primary_cause_of_skin_cancer_is_exposure_to_ultraviolet_radiation_ultraviolet_exposure_promotes_abnormal_proliferation_of_cells_within_the_epidermis_due_to_d_n_a_damage_if_d_n_a_damage_repair_mechanisms_fail_the_affected_cells_undergo_malignant_transformation_and_develop_into_skin_cancer_phytochemicals_have_gained_increased_attention_for_the_prevention_of_ultraviolet_induced_skin_cancer_diets_rich_in_plant_derived_phytochemicals_have_anti_inflammatory_antioxidant_and_anticancer_properties_numerous_studies_have_shown_that_resveratrol_and_other_phytochemicals_found_in_grapes_provide_protection_against_ultraviolet_induced_skin_cancer_resveratrol_can_reduce_the_levels_of_reactive_oxygen_species_caused_by_ultraviolet_exposure_and_prevent_d_n_a_damage_and_subsequent_malignant_transformation_resveratrol_also_preserves_genomic_stability_by_enhancing_d_n_a_repair_mechanisms",
+      "title": "Introduction. Skin cancer is the most common form of cancer in the United States, constituting 5 percent of all new cancer cases in 2024. The primary cause of skin cancer is exposure to ultraviolet radiation. Ultraviolet exposure promotes abnormal proliferation of cells within the epidermis due to D N A damage. If D N A damage repair mechanisms fail, the affected cells undergo malignant transformation and develop into skin cancer. Phytochemicals have gained increased attention for the prevention of ultraviolet-induced skin cancer. Diets rich in plant-derived phytochemicals have anti-inflammatory, antioxidant, and anticancer properties. Numerous studies have shown that resveratrol and other phytochemicals found in grapes provide protection against ultraviolet-induced skin cancer. Resveratrol can reduce the levels of reactive oxygen species caused by ultraviolet exposure and prevent D N A damage and subsequent malignant transformation. Resveratrol also preserves genomic stability by enhancing D N A repair mechanisms.",
+      "text": "Introduction. Skin cancer is the most common form of cancer in the United States, constituting 5 percent of all new cancer cases in 2024. The primary cause of skin cancer is exposure to ultraviolet radiation. Ultraviolet exposure promotes abnormal proliferation of cells within the epidermis due to D N A damage. If D N A damage repair mechanisms fail, the affected cells undergo malignant transformation and develop into skin cancer. Phytochemicals have gained increased attention for the prevention of ultraviolet-induced skin cancer. Diets rich in plant-derived phytochemicals have anti-inflammatory, antioxidant, and anticancer properties. Numerous studies have shown that resveratrol and other phytochemicals found in grapes provide protection against ultraviolet-induced skin cancer. Resveratrol can reduce the levels of reactive oxygen species caused by ultraviolet exposure and prevent D N A damage and subsequent malignant transformation. Resveratrol also preserves genomic stability by enhancing D N A repair mechanisms.",
+      "index": 2,
+      "paragraph_count": 1,
+      "total_chars": 1030,
+      "final_id": "2_introduction_skin_cancer_is_the"
+    },
+    {
+      "id": "the_broad_topic_of_grapes_and_skin_health_is_discussed_in_another_chapter_in_this_monograph_here_we_focus_on_the_efficacy_of_grapes_and_the_active_components_of_grapes_as_chemopreventive_agents_against_ultraviolet_induced_damage_in_human_skin",
+      "title": "The broad topic of grapes and skin health is discussed in another chapter in this monograph. Here, we focus on the efficacy of grapes and the active components of grapes as chemopreventive agents against ultraviolet-induced damage in human skin.",
+      "text": "The broad topic of grapes and skin health is discussed in another chapter in this monograph. Here, we focus on the efficacy of grapes and the active components of grapes as chemopreventive agents against ultraviolet-induced damage in human skin.",
+      "index": 3,
+      "paragraph_count": 1,
+      "total_chars": 245,
+      "final_id": "3_the_broad_topic_of_grapes"
+    },
+    {
+      "id": "ultraviolet_radiation_ultraviolet_is_categorized_as_a_complete_carcinogen_because_it_plays_a_role_in_every_stage_of_malignant_transformation_of_skin_cells_and_skin_cancer_progression_ultraviolet_exerts_a_complex_effect_on_human_skin_health_ultraviolet_radiation_is_molecularly_and_epidemiologically_linked_to_skin_cancer_however_ultraviolet_also_mediates_the_natural_synthesis_of_vitamin_d_and_chromophores_in_the_skin_benefiting_human_skin_health",
+      "title": "Ultraviolet Radiation. Ultraviolet is categorized as a complete carcinogen because it plays a role in every stage of malignant transformation of skin cells and skin cancer progression. Ultraviolet exerts a complex effect on human skin health. Ultraviolet radiation is molecularly and epidemiologically linked to skin cancer. However, ultraviolet also mediates the natural synthesis of vitamin D and chromophores in the skin, benefiting human skin health.",
+      "text": "Ultraviolet Radiation. Ultraviolet is categorized as a complete carcinogen because it plays a role in every stage of malignant transformation of skin cells and skin cancer progression. Ultraviolet exerts a complex effect on human skin health. Ultraviolet radiation is molecularly and epidemiologically linked to skin cancer. However, ultraviolet also mediates the natural synthesis of vitamin D and chromophores in the skin, benefiting human skin health.",
+      "index": 4,
+      "paragraph_count": 1,
+      "total_chars": 454,
+      "final_id": "4_ultraviolet_radiation_ultraviolet_is_categorized"
+    },
+    {
+      "id": "the_ultraviolet_spectrum_is_subdivided_into_three_categories_ultraviolet_a_ultraviolet_b_and_ultraviolet_c_of_these_three_subcategories_only_two_actually_reach_the_earths_surface_ultraviolet_a_and_ultraviolet_b_ultraviolet_c_is_mostly_absorbed_by_the_ozone_layer_of_the_atmosphere_the_wavelength_of_ultraviolet_a_ranges_from_320_to_400_nanometers_and_comprises_90_to_95_percent_of_the_ultraviolet_radiation_that_reaches_the_earth_ultraviolet_a_penetrates_deeper_into_the_skin_than_ultraviolet_b_approximately_1000_micrometers_into_the_epidermis_and_dermis_the_wavelength_of_ultraviolet_b_ranges_from_290_to_320_nanometers_and_comprises_only_5_percent_of_ultraviolet_radiation_that_reaches_the_earth_ultraviolet_b_can_penetrate_160_to_180_micrometers_into_the_epidermis",
+      "title": "The ultraviolet spectrum is subdivided into three categories: ultraviolet A, ultraviolet B, and ultraviolet C. Of these three subcategories, only two actually reach the earth's surface: ultraviolet A and ultraviolet B. Ultraviolet C is mostly absorbed by the ozone layer of the atmosphere. The wavelength of ultraviolet A ranges from 320 to 400 nanometers and comprises 90 to 95 percent of the ultraviolet radiation that reaches the earth. Ultraviolet A penetrates deeper into the skin than ultraviolet B, approximately 1000 micrometers into the epidermis and dermis. The wavelength of ultraviolet B ranges from 290 to 320 nanometers and comprises only 5 percent of ultraviolet radiation that reaches the earth. Ultraviolet B can penetrate 160 to 180 micrometers into the epidermis.",
+      "text": "The ultraviolet spectrum is subdivided into three categories: ultraviolet A, ultraviolet B, and ultraviolet C. Of these three subcategories, only two actually reach the earth's surface: ultraviolet A and ultraviolet B. Ultraviolet C is mostly absorbed by the ozone layer of the atmosphere. The wavelength of ultraviolet A ranges from 320 to 400 nanometers and comprises 90 to 95 percent of the ultraviolet radiation that reaches the earth. Ultraviolet A penetrates deeper into the skin than ultraviolet B, approximately 1000 micrometers into the epidermis and dermis. The wavelength of ultraviolet B ranges from 290 to 320 nanometers and comprises only 5 percent of ultraviolet radiation that reaches the earth. Ultraviolet B can penetrate 160 to 180 micrometers into the epidermis.",
+      "index": 5,
+      "paragraph_count": 1,
+      "total_chars": 782,
+      "final_id": "5_the_ultraviolet_spectrum_is_subdivided"
+    },
+    {
+      "id": "epidemiology_of_skin_cancer_there_are_three_main_types_of_skin_cancer_the_origin_of_the_mutated_cell_determines_the_type_of_cancer_basal_cell_carcinoma_develops_from_the_transformation_of_basal_skin_cells_it_is_the_most_common_type_of_skin_cancer_squamous_cell_carcinoma_originates_in_squamous_cells_and_is_the_second_most_common_type_of_skin_cancer_basal_cell_carcinoma_and_squamous_cell_carcinoma_are_categorized_as_non_melanoma_skin_cancers_melanoma_arises_from_pigment_producing_melanocytes_in_the_basal_layer_of_the_epidermis_this_is_the_most_aggressive_skin_cancer_and_has_a_high_potential_to_spread",
+      "title": "Epidemiology of Skin Cancer. There are three main types of skin cancer. The origin of the mutated cell determines the type of cancer. Basal cell carcinoma develops from the transformation of basal skin cells. It is the most common type of skin cancer. Squamous cell carcinoma originates in squamous cells and is the second most common type of skin cancer. Basal cell carcinoma and squamous cell carcinoma are categorized as non-melanoma skin cancers. Melanoma arises from pigment-producing melanocytes in the basal layer of the epidermis. This is the most aggressive skin cancer and has a high potential to spread.",
+      "text": "Epidemiology of Skin Cancer. There are three main types of skin cancer. The origin of the mutated cell determines the type of cancer. Basal cell carcinoma develops from the transformation of basal skin cells. It is the most common type of skin cancer. Squamous cell carcinoma originates in squamous cells and is the second most common type of skin cancer. Basal cell carcinoma and squamous cell carcinoma are categorized as non-melanoma skin cancers. Melanoma arises from pigment-producing melanocytes in the basal layer of the epidermis. This is the most aggressive skin cancer and has a high potential to spread.",
+      "index": 6,
+      "paragraph_count": 1,
+      "total_chars": 614,
+      "final_id": "6_epidemiology_of_skin_cancer_there"
+    },
+    {
+      "id": "the_incidence_rate_of_melanoma_in_the_united_states_increased_by_315_percent_between_2011_and_2019_the_american_cancer_society_estimates_that_over_104000_people_in_the_united_states_will_be_newly_diagnosed_with_melanoma_in_2025_white_populations_have_a_higher_incidence_of_melanoma_than_populations_with_darker_skin_tones_this_cancer_disparity_is_largely_due_to_the_larger_melanosomes_that_contain_more_melanin_in_dark_skinned_people_which_absorb_ultraviolet_more_effectively_than_the_smaller_melanosomes_in_white_people_unfortunately_people_with_darker_skin_tones_are_more_likely_to_be_diagnosed_with_advanced_stage_melanoma_when_the_cancer_has_already_disseminated_to_other_parts_of_the_body_the_survival_rate_for_patients_diagnosed_with_advanced_stage_disseminated_melanoma_is_35_percent_compared_to_99_percent_survival_rate_for_patients_diagnosed_with_melanoma_before_it_spreads",
+      "title": "The incidence rate of melanoma in the United States increased by 31.5 percent between 2011 and 2019. The American Cancer Society estimates that over 104,000 people in the United States will be newly diagnosed with melanoma in 2025. White populations have a higher incidence of melanoma than populations with darker skin tones. This cancer disparity is largely due to the larger melanosomes that contain more melanin in dark-skinned people, which absorb ultraviolet more effectively than the smaller melanosomes in white people. Unfortunately, people with darker skin tones are more likely to be diagnosed with advanced stage melanoma when the cancer has already disseminated to other parts of the body. The survival rate for patients diagnosed with advanced stage disseminated melanoma is 35 percent compared to 99 percent survival rate for patients diagnosed with melanoma before it spreads.",
+      "text": "The incidence rate of melanoma in the United States increased by 31.5 percent between 2011 and 2019. The American Cancer Society estimates that over 104,000 people in the United States will be newly diagnosed with melanoma in 2025. White populations have a higher incidence of melanoma than populations with darker skin tones. This cancer disparity is largely due to the larger melanosomes that contain more melanin in dark-skinned people, which absorb ultraviolet more effectively than the smaller melanosomes in white people. Unfortunately, people with darker skin tones are more likely to be diagnosed with advanced stage melanoma when the cancer has already disseminated to other parts of the body. The survival rate for patients diagnosed with advanced stage disseminated melanoma is 35 percent compared to 99 percent survival rate for patients diagnosed with melanoma before it spreads.",
+      "index": 7,
+      "paragraph_count": 1,
+      "total_chars": 892,
+      "final_id": "7_the_incidence_rate_of_melanoma"
+    },
+    {
+      "id": "non_melanoma_skin_cancer_which_includes_basal_cell_carcinoma_and_squamous_cell_carcinoma_is_the_most_common_type_of_cancer_in_the_united_states_over_5_million_people_are_diagnosed_with_non_melanoma_skin_cancer_each_year_of_which_approximately_75_to_80_percent_are_basal_cell_carcinoma_non_melanoma_skin_cancer_incidence_continues_to_increase_every_year",
+      "title": "Non-melanoma skin cancer, which includes basal cell carcinoma and squamous cell carcinoma, is the most common type of cancer in the United States. Over 5 million people are diagnosed with non-melanoma skin cancer each year, of which approximately 75 to 80 percent are basal cell carcinoma. Non-melanoma skin cancer incidence continues to increase every year.",
+      "text": "Non-melanoma skin cancer, which includes basal cell carcinoma and squamous cell carcinoma, is the most common type of cancer in the United States. Over 5 million people are diagnosed with non-melanoma skin cancer each year, of which approximately 75 to 80 percent are basal cell carcinoma. Non-melanoma skin cancer incidence continues to increase every year.",
+      "index": 8,
+      "paragraph_count": 1,
+      "total_chars": 358,
+      "final_id": "8_non_melanoma_skin_cancer_which"
+    },
+    {
+      "id": "skin_cancer_there_are_three_major_components_of_human_skin_the_epidermis_dermis_and_hypodermis_or_subcutaneous_tissue_the_epidermis_is_the_outermost_layer_of_the_skin_that_is_made_up_predominantly_of_keratinocytes_but_may_also_contain_melanocytes_as_well_as_merkel_and_langerhans_cells_the_dermis_is_the_layer_below_the_epidermis_and_contains_connective_tissue_blood_vessels_nerve_endings_sweat_glands_and_hair_follicles_the_hypodermis_or_subcutaneous_tissue_is_the_deepest_layer_of_the_skin_and_is_made_up_predominantly_of_connective_tissue_and_adipocytes_the_skin_serves_as_a_barrier_and_protects_against_ultraviolet_radiation",
+      "title": "Skin Cancer. There are three major components of human skin: the epidermis, dermis, and hypodermis, or subcutaneous tissue. The epidermis is the outermost layer of the skin that is made up predominantly of keratinocytes but may also contain melanocytes, as well as Merkel and Langerhans cells. The dermis is the layer below the epidermis and contains connective tissue, blood vessels, nerve endings, sweat glands, and hair follicles. The hypodermis or subcutaneous tissue is the deepest layer of the skin and is made up predominantly of connective tissue and adipocytes. The skin serves as a barrier and protects against ultraviolet radiation.",
+      "text": "Skin Cancer. There are three major components of human skin: the epidermis, dermis, and hypodermis, or subcutaneous tissue. The epidermis is the outermost layer of the skin that is made up predominantly of keratinocytes but may also contain melanocytes, as well as Merkel and Langerhans cells. The dermis is the layer below the epidermis and contains connective tissue, blood vessels, nerve endings, sweat glands, and hair follicles. The hypodermis or subcutaneous tissue is the deepest layer of the skin and is made up predominantly of connective tissue and adipocytes. The skin serves as a barrier and protects against ultraviolet radiation.",
+      "index": 9,
+      "paragraph_count": 1,
+      "total_chars": 643,
+      "final_id": "9_skin_cancer_there_are_three"
+    },
+    {
+      "id": "there_are_acute_and_chronic_effects_of_ultraviolet_radiation_that_vary_depending_on_the_dose_of_ultraviolet_radiation_acute_effects_of_ultraviolet_radiation_refer_to_short_term_effects_on_the_skin_caused_by_exposure_to_ultraviolet_light_these_include_erythema_commonly_referred_to_as_sunburn_and_ultraviolet_stimulated_production_of_melanin_which_could_lead_to_the_development_of_tanned_skin_due_to_the_increase_in_melanin_chronic_ultraviolet_radiation_effects_refer_to_repeated_long_term_ultraviolet_radiation_exposure_which_can_lead_to_premature_aging_and_skin_cancer",
+      "title": "There are acute and chronic effects of ultraviolet radiation that vary depending on the dose of ultraviolet radiation. Acute effects of ultraviolet radiation refer to short-term effects on the skin caused by exposure to ultraviolet light. These include erythema, commonly referred to as sunburn, and ultraviolet-stimulated production of melanin, which could lead to the development of tanned skin due to the increase in melanin. Chronic ultraviolet radiation effects refer to repeated, long-term ultraviolet radiation exposure, which can lead to premature aging and skin cancer.",
+      "text": "There are acute and chronic effects of ultraviolet radiation that vary depending on the dose of ultraviolet radiation. Acute effects of ultraviolet radiation refer to short-term effects on the skin caused by exposure to ultraviolet light. These include erythema, commonly referred to as sunburn, and ultraviolet-stimulated production of melanin, which could lead to the development of tanned skin due to the increase in melanin. Chronic ultraviolet radiation effects refer to repeated, long-term ultraviolet radiation exposure, which can lead to premature aging and skin cancer.",
+      "index": 10,
+      "paragraph_count": 1,
+      "total_chars": 578,
+      "final_id": "10_there_are_acute_and_chronic"
+    },
+    {
+      "id": "multiple_mechanisms_exist_to_protect_the_skin_against_ultraviolet_radiation_induced_d_n_a_damage_chromophores_are_molecules_that_absorb_light_and_radiation_at_certain_wavelengths_hemoglobin_and_melanin_are_the_most_abundant_chromophores_in_the_skin_that_effectively_absorb_ultraviolet_radiation_and_prevent_the_harmful_effects_of_the_ultraviolet_radiation_on_skin_cells_such_as_keratinocytes_and_melanocytes_also_d_n_a_damage_may_be_resolved_by_flavoenzymes_d_n_a_photolyase_the_nucleotide_excision_repair_system_or_enzymatic_and_nonenzymatic_antioxidants_in_addition_ultraviolet_radiation_can_stimulate_the_production_of_alpha_melanocyte_stimulating_hormone_and_binding_of_alpha_melanocyte_stimulating_hormone_to_melanocortin_1_receptor_which_activates_the_production_of_eumelanin_a_sun_protective_pigment_mutations_in_the_melanocortin_1_receptor_gene_therefore_increase_the_damaging_effects_of_ultraviolet_radiation_when_the_skins_natural_defenses_are_overwhelmed_by_ultraviolet_induced_d_n_a_damage_it_leads_to_skin_carcinogenesis",
+      "title": "Multiple mechanisms exist to protect the skin against ultraviolet radiation-induced D N A damage. Chromophores are molecules that absorb light and radiation at certain wavelengths. Hemoglobin and melanin are the most abundant chromophores in the skin that effectively absorb ultraviolet radiation and prevent the harmful effects of the ultraviolet radiation on skin cells, such as keratinocytes and melanocytes. Also, D N A damage may be resolved by flavoenzymes, D N A photolyase, the nucleotide excision repair system, or enzymatic and nonenzymatic antioxidants. In addition, ultraviolet radiation can stimulate the production of alpha-melanocyte-stimulating hormone and binding of alpha-melanocyte-stimulating hormone to melanocortin-1 receptor, which activates the production of eumelanin, a sun-protective pigment. Mutations in the melanocortin-1 receptor gene therefore increase the damaging effects of ultraviolet radiation. When the skin's natural defenses are overwhelmed by ultraviolet-induced D N A damage, it leads to skin carcinogenesis.",
+      "text": "Multiple mechanisms exist to protect the skin against ultraviolet radiation-induced D N A damage. Chromophores are molecules that absorb light and radiation at certain wavelengths. Hemoglobin and melanin are the most abundant chromophores in the skin that effectively absorb ultraviolet radiation and prevent the harmful effects of the ultraviolet radiation on skin cells, such as keratinocytes and melanocytes. Also, D N A damage may be resolved by flavoenzymes, D N A photolyase, the nucleotide excision repair system, or enzymatic and nonenzymatic antioxidants. In addition, ultraviolet radiation can stimulate the production of alpha-melanocyte-stimulating hormone and binding of alpha-melanocyte-stimulating hormone to melanocortin-1 receptor, which activates the production of eumelanin, a sun-protective pigment. Mutations in the melanocortin-1 receptor gene therefore increase the damaging effects of ultraviolet radiation. When the skin's natural defenses are overwhelmed by ultraviolet-induced D N A damage, it leads to skin carcinogenesis.",
+      "index": 11,
+      "paragraph_count": 1,
+      "total_chars": 1050,
+      "final_id": "11_multiple_mechanisms_exist_to_protect"
+    },
+    {
+      "id": "ultraviolet_a_radiation_can_generate_reactive_oxygen_species_mainly_singlet_oxygen_or_type_1_photosensitization_reactions_that_cause_guanine_base_modifications_and_the_generation_of_78_dihydro_8_oxoguanine_lesions_that_induce_specific_d_n_a_mutations_d_n_a_damage_may_also_be_induced_by_ultraviolet_a_directly_via_the_generation_of_cyclobutene_pyrimidine_dimers_which_most_often_produce_thymine_dimers_ultraviolet_b_radiation_also_causes_d_n_a_damage_directly_and_indirectly_the_direct_pathway_involves_the_absorption_of_ultraviolet_b_by_d_n_a_which_generates_cyclobutene_pyrimidine_dimers_and_6_pyrimidine_4_pyrimidone_photoproducts_the_indirect_pathway_involves_ultraviolet_b_radiation_increasing_the_production_of_reactive_oxygen_species_if_the_ultraviolet_induced_reactive_oxygen_species_surpasses_the_ability_of_the_skin_to_neutralize_reactive_oxygen_species_via_intrinsic_antioxidant_mechanisms_the_resulting_oxidative_stress_will_promote_d_n_a_damage_the_accumulation_of_ultraviolet_induced_genetic_mutations_causes_the_activation_of_oncogenes_and_inactivation_of_tumor_suppressors_increases_the_production_of_growth_factors_reduces_immune_function_produces_reactive_oxygen_species_that_cause_d_n_a_damage_compromises_mechanisms_that_repair_d_n_a_mutations_and_suppresses_apoptosis_these_changes_lead_to_malignant_transformation_stimulation_of_angiogenesis_and_evasion_of_immune_cells_and_eventually_promotes_invasion_and_metastasis",
+      "title": "Ultraviolet A radiation can generate reactive oxygen species, mainly singlet oxygen or type 1 photosensitization reactions, that cause guanine base modifications and the generation of 7,8-dihydro-8-oxoguanine lesions that induce specific D N A mutations. D N A damage may also be induced by ultraviolet A directly via the generation of cyclobutene pyrimidine dimers, which most often produce thymine dimers. Ultraviolet B radiation also causes D N A damage directly and indirectly. The direct pathway involves the absorption of ultraviolet B by D N A, which generates cyclobutene pyrimidine dimers and 6-pyrimidine-4-pyrimidone photoproducts. The indirect pathway involves ultraviolet B radiation increasing the production of reactive oxygen species. If the ultraviolet-induced reactive oxygen species surpasses the ability of the skin to neutralize reactive oxygen species via intrinsic antioxidant mechanisms, the resulting oxidative stress will promote D N A damage. The accumulation of ultraviolet-induced genetic mutations causes the activation of oncogenes and inactivation of tumor suppressors, increases the production of growth factors, reduces immune function, produces reactive oxygen species that cause D N A damage, compromises mechanisms that repair D N A mutations, and suppresses apoptosis. These changes lead to malignant transformation, stimulation of angiogenesis, and evasion of immune cells and eventually promotes invasion and metastasis.",
+      "text": "Ultraviolet A radiation can generate reactive oxygen species, mainly singlet oxygen or type 1 photosensitization reactions, that cause guanine base modifications and the generation of 7,8-dihydro-8-oxoguanine lesions that induce specific D N A mutations. D N A damage may also be induced by ultraviolet A directly via the generation of cyclobutene pyrimidine dimers, which most often produce thymine dimers. Ultraviolet B radiation also causes D N A damage directly and indirectly. The direct pathway involves the absorption of ultraviolet B by D N A, which generates cyclobutene pyrimidine dimers and 6-pyrimidine-4-pyrimidone photoproducts. The indirect pathway involves ultraviolet B radiation increasing the production of reactive oxygen species. If the ultraviolet-induced reactive oxygen species surpasses the ability of the skin to neutralize reactive oxygen species via intrinsic antioxidant mechanisms, the resulting oxidative stress will promote D N A damage. The accumulation of ultraviolet-induced genetic mutations causes the activation of oncogenes and inactivation of tumor suppressors, increases the production of growth factors, reduces immune function, produces reactive oxygen species that cause D N A damage, compromises mechanisms that repair D N A mutations, and suppresses apoptosis. These changes lead to malignant transformation, stimulation of angiogenesis, and evasion of immune cells and eventually promotes invasion and metastasis.",
+      "index": 12,
+      "paragraph_count": 1,
+      "total_chars": 1460,
+      "final_id": "12_ultraviolet_a_radiation_can_generate"
+    },
+    {
+      "id": "for_non_melanoma_skin_cancer_ultraviolet_radiation_causes_mutations_in_the_tumor_suppressor_p53_in_90_percent_of_squamous_cell_carcinoma_which_promotes_hyperproliferation_of_keratinocytes_in_addition_pathogenic_variants_of_melanocortin_1_receptor_have_been_linked_to_squamous_cell_carcinoma_the_number_of_melanocortin_1_receptor_pathogenic_variants_in_a_patient_increases_their_risk_of_developing_squamous_cell_carcinoma_mutations_in_the_tumor_suppressor_genes_of_p53_p_t_c_h_1_and_p_t_c_h_2_have_been_found_in_basal_cell_carcinoma_p_t_c_h_1_is_an_integral_protein_in_the_hedgehog_signal_transduction_pathway_p_t_c_h_1_inhibits_s_m_o_which_would_otherwise_activate_transcription_factors_and_cell_proliferation_genes_however_when_p_t_c_h_1_interacts_with_the_hedgehog_ligand_it_releases_its_inhibitory_effect_on_s_m_o_there_is_a_fine_balance_whereby_hedgehog_ligands_can_regulate_p_t_c_h_1_inhibitory_effect_on_s_m_o_and_s_m_o_activation_of_transcription_factors_and_cell_proliferation_genes_studies_have_identified_germline_and_somatic_pathogenic_variants_of_p_t_c_h_1_associated_with_basal_cell_carcinoma_while_the_role_of_p_t_c_h_2_in_basal_cell_carcinoma_remains_unresolved_pathogenic_variants_of_p_t_c_h_2_have_been_identified_in_basal_cell_carcinoma_in_addition_pathogenic_variants_of_melanocortin_1_receptor_and_b_r_c_a_1_associated_protein_1_have_also_been_associated_with_basal_cell_carcinoma",
+      "title": "For non-melanoma skin cancer, ultraviolet radiation causes mutations in the tumor suppressor p53 in 90 percent of squamous cell carcinoma, which promotes hyperproliferation of keratinocytes. In addition, pathogenic variants of melanocortin-1 receptor have been linked to squamous cell carcinoma. The number of melanocortin-1 receptor pathogenic variants in a patient increases their risk of developing squamous cell carcinoma. Mutations in the tumor suppressor genes of p53, P T C H 1, and P T C H 2 have been found in basal cell carcinoma. P T C H 1 is an integral protein in the Hedgehog signal transduction pathway. P T C H 1 inhibits S M O, which would otherwise activate transcription factors and cell proliferation genes. However, when P T C H 1 interacts with the Hedgehog ligand, it releases its inhibitory effect on S M O. There is a fine balance whereby Hedgehog ligands can regulate P T C H 1 inhibitory effect on S M O and S M O activation of transcription factors and cell proliferation genes. Studies have identified germline and somatic pathogenic variants of P T C H 1 associated with basal cell carcinoma. While the role of P T C H 2 in basal cell carcinoma remains unresolved, pathogenic variants of P T C H 2 have been identified in basal cell carcinoma. In addition, pathogenic variants of melanocortin-1 receptor and B R C A 1-associated protein 1 have also been associated with basal cell carcinoma.",
+      "text": "For non-melanoma skin cancer, ultraviolet radiation causes mutations in the tumor suppressor p53 in 90 percent of squamous cell carcinoma, which promotes hyperproliferation of keratinocytes. In addition, pathogenic variants of melanocortin-1 receptor have been linked to squamous cell carcinoma. The number of melanocortin-1 receptor pathogenic variants in a patient increases their risk of developing squamous cell carcinoma. Mutations in the tumor suppressor genes of p53, P T C H 1, and P T C H 2 have been found in basal cell carcinoma. P T C H 1 is an integral protein in the Hedgehog signal transduction pathway. P T C H 1 inhibits S M O, which would otherwise activate transcription factors and cell proliferation genes. However, when P T C H 1 interacts with the Hedgehog ligand, it releases its inhibitory effect on S M O. There is a fine balance whereby Hedgehog ligands can regulate P T C H 1 inhibitory effect on S M O and S M O activation of transcription factors and cell proliferation genes. Studies have identified germline and somatic pathogenic variants of P T C H 1 associated with basal cell carcinoma. While the role of P T C H 2 in basal cell carcinoma remains unresolved, pathogenic variants of P T C H 2 have been identified in basal cell carcinoma. In addition, pathogenic variants of melanocortin-1 receptor and B R C A 1-associated protein 1 have also been associated with basal cell carcinoma.",
+      "index": 13,
+      "paragraph_count": 1,
+      "total_chars": 1421,
+      "final_id": "13_for_non_melanoma_skin_cancer"
+    },
+    {
+      "id": "in_melanoma_carcinogenesis_the_ras_and_raf_signal_transduction_pathway_is_involved_with_regulating_the_transcription_of_genes_that_promote_proliferation_and_migration_oncogenes_that_are_upregulated_or_tumor_suppressors_genes_that_are_inactivated_include_cyclin_dependent_kinase_inhibitor_2a_cyclin_dependent_kinase_4_melanocortin_1_receptor_b_rapidly_accelerated_fibrosarcoma_and_p14_and_a_r_f_inherited_mutations_in_these_genes_constitute_a_genetic_susceptibility_that_increases_the_risk_of_melanoma_c_d_k_n_2_a_encodes_the_p14_and_a_r_f_and_p16_and_i_n_k_4_a_proteins_with_p14_a_r_f_being_an_alternative_reading_frame_variant_they_work_in_concert_to_regulate_the_p53_and_retinoblastoma_pathways_and_mediate_cell_cycle_arrest_at_g1_and_g2_and_m_to_allow_the_repair_of_d_n_a_damage_before_progressing_to_the_next_phase_of_the_cell_cycle_in_addition_c_d_k_4_variants_while_rare_can_lead_to_loss_of_p16_to_bind_to_and_inhibit_c_d_k_4_allowing_c_d_k_4_to_function_as_an_oncogene_finally_loss_of_function_mutations_of_melanocortin_1_receptor_prevents_the_synthesis_of_melanin_reducing_the_amount_of_radiation_absorbed_by_the_chromophore_and_increasing_the_risk_of_ultraviolet_radiation_induced_d_n_a_damage",
+      "title": "In melanoma carcinogenesis, the Ras and Raf signal transduction pathway is involved with regulating the transcription of genes that promote proliferation and migration. Oncogenes that are upregulated or tumor suppressors genes that are inactivated include cyclin-dependent kinase inhibitor 2A, cyclin-dependent kinase 4, melanocortin-1 receptor, B rapidly accelerated fibrosarcoma, and p14 and A R F. Inherited mutations in these genes constitute a genetic susceptibility that increases the risk of melanoma. C D K N 2 A encodes the p14 and A R F and p16 and I N K 4 A proteins, with p14 A R F being an alternative reading frame variant. They work in concert to regulate the p53 and retinoblastoma pathways and mediate cell cycle arrest at G1 and G2 and M to allow the repair of D N A damage before progressing to the next phase of the cell cycle. In addition, C D K 4 variants, while rare, can lead to loss of p16 to bind to and inhibit C D K 4, allowing C D K 4 to function as an oncogene. Finally, loss-of-function mutations of melanocortin-1 receptor prevents the synthesis of melanin, reducing the amount of radiation absorbed by the chromophore and increasing the risk of ultraviolet radiation-induced D N A damage.",
+      "text": "In melanoma carcinogenesis, the Ras and Raf signal transduction pathway is involved with regulating the transcription of genes that promote proliferation and migration. Oncogenes that are upregulated or tumor suppressors genes that are inactivated include cyclin-dependent kinase inhibitor 2A, cyclin-dependent kinase 4, melanocortin-1 receptor, B rapidly accelerated fibrosarcoma, and p14 and A R F. Inherited mutations in these genes constitute a genetic susceptibility that increases the risk of melanoma. C D K N 2 A encodes the p14 and A R F and p16 and I N K 4 A proteins, with p14 A R F being an alternative reading frame variant. They work in concert to regulate the p53 and retinoblastoma pathways and mediate cell cycle arrest at G1 and G2 and M to allow the repair of D N A damage before progressing to the next phase of the cell cycle. In addition, C D K 4 variants, while rare, can lead to loss of p16 to bind to and inhibit C D K 4, allowing C D K 4 to function as an oncogene. Finally, loss-of-function mutations of melanocortin-1 receptor prevents the synthesis of melanin, reducing the amount of radiation absorbed by the chromophore and increasing the risk of ultraviolet radiation-induced D N A damage.",
+      "index": 14,
+      "paragraph_count": 1,
+      "total_chars": 1221,
+      "final_id": "14_in_melanoma_carcinogenesis_the_ras"
+    },
+    {
+      "id": "diagnosing_skin_cancer_in_its_early_stages_can_greatly_improve_outcomes_warning_signs_of_skin_cancer_include_changes_in_shape_size_or_color_of_moles_nonhealing_sores_or_new_skin_growth_however_diagnosing_skin_cancer_in_individuals_with_darker_skin_tones_can_be_particularly_challenging_which_may_result_in_delayed_diagnosis_patients_with_darker_skin_tones_are_often_diagnosed_in_the_later_stages_of_melanoma_regular_self_examination_and_screening_is_highly_recommended_for_everyone_regardless_of_skin_type_the_a_b_c_d_e_s_of_melanoma_are_used_to_recognize_the_warning_signs_of_melanoma_a_equals_asymmetry_asymmetric_shape_b_equals_borders_ragged_blurred_or_uneven_borders_c_equals_color_color_varies_in_different_areas_d_equals_diameter_size_of_the_spot_e_equals_evolving_shape_size_or_color_changes",
+      "title": "Diagnosing skin cancer in its early stages can greatly improve outcomes. Warning signs of skin cancer include changes in shape, size, or color of moles, nonhealing sores, or new skin growth. However, diagnosing skin cancer in individuals with darker skin tones can be particularly challenging, which may result in delayed diagnosis. Patients with darker skin tones are often diagnosed in the later stages of melanoma. Regular self-examination and screening is highly recommended for everyone, regardless of skin type. The A B C D E s of melanoma are used to recognize the warning signs of melanoma: A equals asymmetry, asymmetric shape; B equals borders, ragged, blurred, or uneven borders; C equals color, color varies in different areas; D equals diameter, size of the spot; E equals evolving, shape, size, or color changes.",
+      "text": "Diagnosing skin cancer in its early stages can greatly improve outcomes. Warning signs of skin cancer include changes in shape, size, or color of moles, nonhealing sores, or new skin growth. However, diagnosing skin cancer in individuals with darker skin tones can be particularly challenging, which may result in delayed diagnosis. Patients with darker skin tones are often diagnosed in the later stages of melanoma. Regular self-examination and screening is highly recommended for everyone, regardless of skin type. The A B C D E s of melanoma are used to recognize the warning signs of melanoma: A equals asymmetry, asymmetric shape; B equals borders, ragged, blurred, or uneven borders; C equals color, color varies in different areas; D equals diameter, size of the spot; E equals evolving, shape, size, or color changes.",
+      "index": 15,
+      "paragraph_count": 1,
+      "total_chars": 826,
+      "final_id": "15_diagnosing_skin_cancer_in_its"
+    },
+    {
+      "id": "grapes_and_phytochemicals_for_skin_health_in_humans_physical_mental_and_social_well_being_are_critical_to_maintaining_human_health_which_are_heavily_influenced_by_diet_what_you_eat_directly_impacts_your_well_being_a_healthy_eating_plan_emphasizes_fruits_vegetables_whole_grains_fat_free_or_low_fat_dairy_products_and_proteins_that_are_low_in_free_sugars_salt_and_saturated_fats_a_healthy_diet_not_only_provides_essential_nutrients_to_maintain_human_health_but_it_also_contains_chemical_components_that_may_directly_prevent_chronic_diseases_such_as_type_2_diabetes_mellitus_cardiovascular_disease_obesity_and_cancer_some_chemical_components_in_healthy_foods_may_also_provide_photoprotection_from_ultraviolet_b_induced_d_n_a_damage_and_lower_the_risk_of_skin_cancer_approximately_5_percent_of_f_d_a_approved_drugs_are_derived_from_compounds_isolated_from_natural_products_found_in_foods_such_as_fruits_plants_vegetables_spices_etc_there_are_numerous_chemical_components_within_food_items_that_may_have_medicinal_properties_and_therefore_have_beneficial_effects_on_human_health",
+      "title": "Grapes and Phytochemicals for Skin Health in Humans. Physical, mental, and social well-being are critical to maintaining human health, which are heavily influenced by diet. What you eat directly impacts your well-being. A healthy eating plan emphasizes fruits, vegetables, whole grains, fat-free or low-fat dairy products, and proteins that are low in free sugars, salt, and saturated fats. A healthy diet not only provides essential nutrients to maintain human health, but it also contains chemical components that may directly prevent chronic diseases, such as type 2 diabetes mellitus, cardiovascular disease, obesity, and cancer. Some chemical components in healthy foods may also provide photoprotection from ultraviolet B-induced D N A damage and lower the risk of skin cancer. Approximately 5 percent of F D A-approved drugs are derived from compounds isolated from natural products found in foods such as fruits, plants, vegetables, spices, etc. There are numerous chemical components within food items that may have medicinal properties and, therefore, have beneficial effects on human health.",
+      "text": "Grapes and Phytochemicals for Skin Health in Humans. Physical, mental, and social well-being are critical to maintaining human health, which are heavily influenced by diet. What you eat directly impacts your well-being. A healthy eating plan emphasizes fruits, vegetables, whole grains, fat-free or low-fat dairy products, and proteins that are low in free sugars, salt, and saturated fats. A healthy diet not only provides essential nutrients to maintain human health, but it also contains chemical components that may directly prevent chronic diseases, such as type 2 diabetes mellitus, cardiovascular disease, obesity, and cancer. Some chemical components in healthy foods may also provide photoprotection from ultraviolet B-induced D N A damage and lower the risk of skin cancer. Approximately 5 percent of F D A-approved drugs are derived from compounds isolated from natural products found in foods such as fruits, plants, vegetables, spices, etc. There are numerous chemical components within food items that may have medicinal properties and, therefore, have beneficial effects on human health.",
+      "index": 16,
+      "paragraph_count": 1,
+      "total_chars": 1102,
+      "final_id": "16_grapes_and_phytochemicals_for_skin"
+    },
+    {
+      "id": "grapes_vitis_vinifera_have_more_than_1600_phytonutrients_and_are_rich_in_antioxidants_such_as_resveratrol_and_other_polyphenolic_compounds_that_offer_protective_and_restorative_benefits_for_the_skin_grape_derived_compounds_also_help_strengthen_and_promote_hydration_of_the_skin_barrier_by_minimizing_water_loss_and_promoting_better_elasticity_protect_skin_cells_from_damage_and_support_even_skin_tone_which_are_important_for_slowing_the_aging_process",
+      "title": "Grapes, Vitis vinifera, have more than 1600 phytonutrients and are rich in antioxidants such as resveratrol and other polyphenolic compounds that offer protective and restorative benefits for the skin. Grape-derived compounds also help strengthen and promote hydration of the skin barrier by minimizing water loss and promoting better elasticity, protect skin cells from damage, and support even skin tone, which are important for slowing the aging process.",
+      "text": "Grapes, Vitis vinifera, have more than 1600 phytonutrients and are rich in antioxidants such as resveratrol and other polyphenolic compounds that offer protective and restorative benefits for the skin. Grape-derived compounds also help strengthen and promote hydration of the skin barrier by minimizing water loss and promoting better elasticity, protect skin cells from damage, and support even skin tone, which are important for slowing the aging process.",
+      "index": 17,
+      "paragraph_count": 1,
+      "total_chars": 457,
+      "final_id": "17_grapes_vitis_vinifera_have_more"
+    },
+    {
+      "id": "resveratrol_is_a_polyphenolic_compound_found_primarily_in_grape_skin_but_also_in_nuts_berries_and_other_plants_as_a_phytoalexin_it_is_synthesized_in_response_to_ultraviolet_radiation_fungal_bacterial_and_viral_infections_and_other_noxious_events_it_has_two_phenol_rings_connected_by_an_ethylene_there_are_cis_and_trans_isomers_resveratrol_protects_against_ultraviolet_induced_d_n_a_damage_by_reducing_inflammation_and_activating_repair_mechanisms_it_has_been_shown_to_minimize_photoaging_signs_like_discoloration_and_fine_lines_while_resveratrol_is_highly_soluble_in_fat_ethanol_and_polar_solvents_such_as_d_m_s_o_it_is_highly_insoluble_in_water_therefore_in_a_human_body_it_has_very_low_bioavailability",
+      "title": "Resveratrol is a polyphenolic compound found primarily in grape skin but also in nuts, berries, and other plants. As a phytoalexin, it is synthesized in response to ultraviolet radiation, fungal, bacterial, and viral infections, and other noxious events. It has two phenol rings connected by an ethylene. There are cis- and trans-isomers. Resveratrol protects against ultraviolet-induced D N A damage by reducing inflammation and activating repair mechanisms. It has been shown to minimize photoaging signs like discoloration and fine lines. While resveratrol is highly soluble in fat, ethanol, and polar solvents such as D M S O, it is highly insoluble in water. Therefore, in a human body, it has very low bioavailability.",
+      "text": "Resveratrol is a polyphenolic compound found primarily in grape skin but also in nuts, berries, and other plants. As a phytoalexin, it is synthesized in response to ultraviolet radiation, fungal, bacterial, and viral infections, and other noxious events. It has two phenol rings connected by an ethylene. There are cis- and trans-isomers. Resveratrol protects against ultraviolet-induced D N A damage by reducing inflammation and activating repair mechanisms. It has been shown to minimize photoaging signs like discoloration and fine lines. While resveratrol is highly soluble in fat, ethanol, and polar solvents such as D M S O, it is highly insoluble in water. Therefore, in a human body, it has very low bioavailability.",
+      "index": 18,
+      "paragraph_count": 1,
+      "total_chars": 724,
+      "final_id": "18_resveratrol_is_a_polyphenolic_compound"
+    },
+    {
+      "id": "mechanism_of_action_of_grapes_and_their_active_components_polyphenolic_compounds_in_grapes_such_as_resveratrol_can_function_as_photoprotective_agents_that_prevent_or_reduce_ultraviolet_induced_inflammation_oxidative_stress_and_d_n_a_damage_resveratrol_is_found_in_grape_skin_when_applied_topically_it_can_act_as_a_sunscreen_and_prevent_ultraviolet_b_induced_skin_cancer_by_absorbing_ultraviolet_b_radiation_in_addition_topical_resveratrol_also_prevents_the_upregulation_of_cell_cycle_proteins_and_m_a_p_k_induced_by_ultraviolet_b_and_upregulates_the_expression_of_p21_and_p53",
+      "title": "Mechanism of Action of Grapes and Their Active Components. Polyphenolic compounds in grapes, such as resveratrol, can function as photoprotective agents that prevent or reduce ultraviolet-induced inflammation, oxidative stress, and D N A damage. Resveratrol is found in grape skin. When applied topically, it can act as a sunscreen and prevent ultraviolet B-induced skin cancer by absorbing ultraviolet B radiation. In addition, topical resveratrol also prevents the upregulation of cell cycle proteins and M A P K induced by ultraviolet B and upregulates the expression of p21 and p53.",
+      "text": "Mechanism of Action of Grapes and Their Active Components. Polyphenolic compounds in grapes, such as resveratrol, can function as photoprotective agents that prevent or reduce ultraviolet-induced inflammation, oxidative stress, and D N A damage. Resveratrol is found in grape skin. When applied topically, it can act as a sunscreen and prevent ultraviolet B-induced skin cancer by absorbing ultraviolet B radiation. In addition, topical resveratrol also prevents the upregulation of cell cycle proteins and M A P K induced by ultraviolet B and upregulates the expression of p21 and p53.",
+      "index": 19,
+      "paragraph_count": 1,
+      "total_chars": 586,
+      "final_id": "19_mechanism_of_action_of_grapes"
+    },
+    {
+      "id": "cell_cycle_arrest_and_apoptosis_resveratrol_administered_orally_induces_cell_cycle_arrest_and_apoptosis_in_melanoma_cells_through_a_number_of_different_mechanisms_studies_have_shown_that_resveratrol_activates_p21_which_modulates_cyclin_cdk_machinery_and_causes_g1_cell_cycle_arrest_resveratrol_also_induces_apoptosis_in_melanoma_cells_via_a_mechanism_that_involves_the_upregulation_of_the_expression_of_the_tumor_suppressor_p53_and_increased_degradation_of_the_pro_survival_protein_bcl_2_this_process_involves_resveratrol_induced_downregulation_of_p_k_m_2_p_k_m_2_phosphorylates_bcl_2_and_prevents_the_degradation_of_bcl_2_overall_the_effects_of_resveratrol_cause_apoptosis_and_the_release_of_cytochrome_c_from_the_mitochondria",
+      "title": "Cell Cycle Arrest and Apoptosis. Resveratrol administered orally induces cell cycle arrest and apoptosis in melanoma cells through a number of different mechanisms. Studies have shown that resveratrol activates p21, which modulates cyclin-cdk machinery and causes G1 cell cycle arrest. Resveratrol also induces apoptosis in melanoma cells via a mechanism that involves the upregulation of the expression of the tumor suppressor p53 and increased degradation of the pro-survival protein Bcl-2. This process involves resveratrol-induced downregulation of P K M 2. P K M 2 phosphorylates Bcl-2 and prevents the degradation of Bcl-2. Overall, the effects of resveratrol cause apoptosis and the release of cytochrome c from the mitochondria.",
+      "text": "Cell Cycle Arrest and Apoptosis. Resveratrol administered orally induces cell cycle arrest and apoptosis in melanoma cells through a number of different mechanisms. Studies have shown that resveratrol activates p21, which modulates cyclin-cdk machinery and causes G1 cell cycle arrest. Resveratrol also induces apoptosis in melanoma cells via a mechanism that involves the upregulation of the expression of the tumor suppressor p53 and increased degradation of the pro-survival protein Bcl-2. This process involves resveratrol-induced downregulation of P K M 2. P K M 2 phosphorylates Bcl-2 and prevents the degradation of Bcl-2. Overall, the effects of resveratrol cause apoptosis and the release of cytochrome c from the mitochondria.",
+      "index": 20,
+      "paragraph_count": 1,
+      "total_chars": 736,
+      "final_id": "20_cell_cycle_arrest_and_apoptosis"
+    },
+    {
+      "id": "anti_inflammatory_properties_ultraviolet_b_radiation_can_cause_edema_erythema_and_hyperplastic_epithelial_responses_via_a_mechanism_that_involves_c_o_x_2_mediated_increase_in_prostaglandin_production_resveratrol_reduces_c_o_x_2_expression_through_several_different_mechanisms_resveratrol_prevents_p65_phosphorylation_and_targets_i_kappa_b_kinase_which_attenuates_the_transcriptional_activity_of_n_f_kappa_b_resveratrol_also_inhibits_the_activation_of_extracellular_signal_regulated_kinase_c_o_x_2_is_a_transcriptional_target_of_both_n_f_kappa_b_and_e_r_k_therefore_the_decreased_activity_of_n_f_kappa_b_and_e_r_k_induced_by_resveratrol_leads_to_a_decrease_in_c_o_x_2_expression_and_reduces_ultraviolet_induced_inflammation",
+      "title": "Anti-inflammatory Properties. Ultraviolet B radiation can cause edema, erythema, and hyperplastic epithelial responses via a mechanism that involves C O X-2-mediated increase in prostaglandin production. Resveratrol reduces C O X-2 expression through several different mechanisms. Resveratrol prevents p65 phosphorylation and targets I kappa B kinase, which attenuates the transcriptional activity of N F-kappa B. Resveratrol also inhibits the activation of extracellular signal-regulated kinase. C O X-2 is a transcriptional target of both N F-kappa B and E R K. Therefore, the decreased activity of N F-kappa B and E R K induced by resveratrol leads to a decrease in C O X-2 expression and reduces ultraviolet-induced inflammation.",
+      "text": "Anti-inflammatory Properties. Ultraviolet B radiation can cause edema, erythema, and hyperplastic epithelial responses via a mechanism that involves C O X-2-mediated increase in prostaglandin production. Resveratrol reduces C O X-2 expression through several different mechanisms. Resveratrol prevents p65 phosphorylation and targets I kappa B kinase, which attenuates the transcriptional activity of N F-kappa B. Resveratrol also inhibits the activation of extracellular signal-regulated kinase. C O X-2 is a transcriptional target of both N F-kappa B and E R K. Therefore, the decreased activity of N F-kappa B and E R K induced by resveratrol leads to a decrease in C O X-2 expression and reduces ultraviolet-induced inflammation.",
+      "index": 21,
+      "paragraph_count": 1,
+      "total_chars": 733,
+      "final_id": "21_anti_inflammatory_properties_ultraviolet_b"
+    },
+    {
+      "id": "antioxidant_properties_ultraviolet_b_induces_the_production_of_reactive_oxygen_species_which_can_cause_oxidative_stress_and_d_n_a_damage_resveratrol_has_antioxidant_properties_through_numerous_mechanisms_resveratrol_increases_the_expression_and_activity_of_enzymes_that_help_balance_oxidation_and_reduction_in_cells_these_enzymes_include_but_are_not_limited_to_superoxide_dismutase_glutathione_peroxidase_and_heme_oxygenase_resveratrol_also_inhibits_enzymes_that_promote_the_production_of_reactive_oxygen_species_and_may_serve_as_a_metal_ion_chelator_to_attenuate_the_production_of_free_radicals_the_three_hydroxyl_groups_aromatic_rings_and_double_bond_in_resveratrol_confer_its_ability_to_remove_free_radicals_including_reactive_oxygen_species_and_reactive_nitrogen_species",
+      "title": "Antioxidant Properties. Ultraviolet B induces the production of reactive oxygen species, which can cause oxidative stress and D N A damage. Resveratrol has antioxidant properties through numerous mechanisms. Resveratrol increases the expression and activity of enzymes that help balance oxidation and reduction in cells. These enzymes include, but are not limited to, superoxide dismutase, glutathione peroxidase, and heme oxygenase. Resveratrol also inhibits enzymes that promote the production of reactive oxygen species and may serve as a metal ion chelator to attenuate the production of free radicals. The three hydroxyl groups, aromatic rings, and double bond in resveratrol confer its ability to remove free radicals, including reactive oxygen species and reactive nitrogen species.",
+      "text": "Antioxidant Properties. Ultraviolet B induces the production of reactive oxygen species, which can cause oxidative stress and D N A damage. Resveratrol has antioxidant properties through numerous mechanisms. Resveratrol increases the expression and activity of enzymes that help balance oxidation and reduction in cells. These enzymes include, but are not limited to, superoxide dismutase, glutathione peroxidase, and heme oxygenase. Resveratrol also inhibits enzymes that promote the production of reactive oxygen species and may serve as a metal ion chelator to attenuate the production of free radicals. The three hydroxyl groups, aromatic rings, and double bond in resveratrol confer its ability to remove free radicals, including reactive oxygen species and reactive nitrogen species.",
+      "index": 22,
+      "paragraph_count": 1,
+      "total_chars": 789,
+      "final_id": "22_antioxidant_properties_ultraviolet_b_induces"
+    },
+    {
+      "id": "enhance_d_n_a_damage_repair_resveratrol_protects_cells_against_ultraviolet_b_by_enhancing_d_n_a_damage_repair_mechanisms_it_also_promotes_more_efficient_repair_of_double_stranded_d_n_a_breaks_and_thereby_maintains_genomic_stability_a_p_e_and_ref_1_a_d_n_a_repair_enzyme_is_upregulated_in_melanoma_compared_to_noncancerous_melanocytes_in_addition_to_its_d_n_a_repair_function_a_p_e_and_ref_1_also_regulates_the_binding_of_several_transcription_factors_to_d_n_a_including_jun_and_fox_myb_n_f_kappa_b_p53_and_c_r_e_b_resveratrol_binds_in_a_pocket_of_a_p_e_and_ref_1_and_inhibit_its_function_as_a_d_n_a_repair_enzyme_as_well_as_inhibit_downstream_transcription_factors_such_as_a_p_1_and_sensitize_melanoma_to_chemotherapy",
+      "title": "Enhance D N A Damage Repair. Resveratrol protects cells against ultraviolet B by enhancing D N A damage repair mechanisms. It also promotes more efficient repair of double-stranded D N A breaks and thereby maintains genomic stability. A P E and Ref-1, a D N A repair enzyme, is upregulated in melanoma compared to noncancerous melanocytes. In addition to its D N A repair function, A P E and Ref-1 also regulates the binding of several transcription factors to D N A, including Jun and Fox, Myb, N F-kappa B, p53, and C R E B. Resveratrol binds in a pocket of A P E and Ref-1 and inhibit its function as a D N A repair enzyme as well as inhibit downstream transcription factors, such as A P-1, and sensitize melanoma to chemotherapy.",
+      "text": "Enhance D N A Damage Repair. Resveratrol protects cells against ultraviolet B by enhancing D N A damage repair mechanisms. It also promotes more efficient repair of double-stranded D N A breaks and thereby maintains genomic stability. A P E and Ref-1, a D N A repair enzyme, is upregulated in melanoma compared to noncancerous melanocytes. In addition to its D N A repair function, A P E and Ref-1 also regulates the binding of several transcription factors to D N A, including Jun and Fox, Myb, N F-kappa B, p53, and C R E B. Resveratrol binds in a pocket of A P E and Ref-1 and inhibit its function as a D N A repair enzyme as well as inhibit downstream transcription factors, such as A P-1, and sensitize melanoma to chemotherapy.",
+      "index": 23,
+      "paragraph_count": 1,
+      "total_chars": 733,
+      "final_id": "23_enhance_d_n_a_damage"
+    },
+    {
+      "id": "in_sum_resveratrol_has_diverse_therapeutic_potential_to_prevent_skin_carcinogenesis_resveratrol_prevents_ultraviolet_b_induced_skin_carcinogenesis_through_numerous_mechanisms_including_its_anti_inflammatory_and_antioxidant_properties_enhancement_of_d_n_a_damage_repair_and_anti_proliferative_and_pro_apoptotic_effects",
+      "title": "In sum, resveratrol has diverse therapeutic potential to prevent skin carcinogenesis. Resveratrol prevents ultraviolet B-induced skin carcinogenesis through numerous mechanisms, including its anti-inflammatory and antioxidant properties, enhancement of D N A damage repair, and anti-proliferative and pro-apoptotic effects.",
+      "text": "In sum, resveratrol has diverse therapeutic potential to prevent skin carcinogenesis. Resveratrol prevents ultraviolet B-induced skin carcinogenesis through numerous mechanisms, including its anti-inflammatory and antioxidant properties, enhancement of D N A damage repair, and anti-proliferative and pro-apoptotic effects.",
+      "index": 24,
+      "paragraph_count": 1,
+      "total_chars": 323,
+      "final_id": "24_in_sum_resveratrol_has_diverse"
+    },
+    {
+      "id": "clinical_trial_insights_alcohol_consumption_and_skin_cancer_risk_in_a_large_scale_clinical_study_researchers_investigated_the_relationship_between_alcohol_consumption_and_the_risk_of_melanoma_and_non_melanoma_skin_cancer_the_results_showed_that_overall_alcohol_intake_was_associated_with_an_increased_incidence_of_both_melanoma_and_non_melanoma_skin_cancer_however_an_intriguing_finding_emerged_red_wine_consumption_demonstrated_an_inverse_association_with_non_melanoma_skin_cancer_risk_in_women_but_not_in_men_this_observation_suggests_that_certain_components_of_red_wine_particularly_resveratrol_may_have_a_protective_effect_against_ultraviolet_induced_skin_damage_given_that_red_wine_is_a_rich_source_of_resveratrol_this_finding_aligns_with_previous_research_highlighting_the_compounds_anti_inflammatory_and_antioxidant_properties_the_sex_specific_differences_warrant_further_investigation_into_the_potential_mechanisms_behind_resveratrols_protective_effects_and_its_interaction_with_hormonal_or_metabolic_pathways",
+      "title": "Clinical Trial Insights: Alcohol Consumption and Skin Cancer Risk. In a large-scale clinical study, researchers investigated the relationship between alcohol consumption and the risk of melanoma and non-melanoma skin cancer. The results showed that overall alcohol intake was associated with an increased incidence of both melanoma and non-melanoma skin cancer. However, an intriguing finding emerged: red wine consumption demonstrated an inverse association with non-melanoma skin cancer risk in women but not in men. This observation suggests that certain components of red wine, particularly resveratrol, may have a protective effect against ultraviolet-induced skin damage. Given that red wine is a rich source of resveratrol, this finding aligns with previous research highlighting the compound's anti-inflammatory and antioxidant properties. The sex-specific differences warrant further investigation into the potential mechanisms behind resveratrol's protective effects and its interaction with hormonal or metabolic pathways.",
+      "text": "Clinical Trial Insights: Alcohol Consumption and Skin Cancer Risk. In a large-scale clinical study, researchers investigated the relationship between alcohol consumption and the risk of melanoma and non-melanoma skin cancer. The results showed that overall alcohol intake was associated with an increased incidence of both melanoma and non-melanoma skin cancer. However, an intriguing finding emerged: red wine consumption demonstrated an inverse association with non-melanoma skin cancer risk in women but not in men. This observation suggests that certain components of red wine, particularly resveratrol, may have a protective effect against ultraviolet-induced skin damage. Given that red wine is a rich source of resveratrol, this finding aligns with previous research highlighting the compound's anti-inflammatory and antioxidant properties. The sex-specific differences warrant further investigation into the potential mechanisms behind resveratrol's protective effects and its interaction with hormonal or metabolic pathways.",
+      "index": 25,
+      "paragraph_count": 1,
+      "total_chars": 1033,
+      "final_id": "25_clinical_trial_insights_alcohol_consumption"
+    },
+    {
+      "id": "innate_immune_cells_and_uv_induced_inflammation_the_key_to_r_o_s_many_studies_highlight_the_critical_role_of_the_innate_immune_system_in_responding_to_ultraviolet_induced_skin_damage_as_with_any_form_of_cellular_damage_the_innate_immune_system_is_the_first_line_of_cellular_defense_resident_macrophages_play_a_central_role_in_tissue_repair_serving_as_first_responders_that_secrete_inflammatory_cytokines_and_chemokines_to_recruit_neutrophils_to_the_site_of_inflammation_while_neutrophils_are_essential_for_clearing_cellular_debris_and_preventing_further_pathogen_infiltration_at_the_damaged_skin_site_their_highly_reactive_nature_can_also_exacerbate_tissue_damage_if_not_tightly_regulated_additionally_mast_cells_release_inflammatory_mediators_such_as_histamine_which_amplify_inflammation_and_contribute_to_tissue_injury_however_they_also_play_a_crucial_role_in_immune_suppression_following_ultraviolet_exposure_helping_to_counterbalance_the_cytotoxic_effects_of_neutrophils_and_prevent_excessive_tissue_destruction",
+      "title": "Innate Immune Cells and UV-Induced Inflammation: The Key to R O S. Many studies highlight the critical role of the innate immune system in responding to ultraviolet-induced skin damage. As with any form of cellular damage, the innate immune system is the first line of cellular defense. Resident macrophages play a central role in tissue repair, serving as first responders that secrete inflammatory cytokines and chemokines to recruit neutrophils to the site of inflammation. While neutrophils are essential for clearing cellular debris and preventing further pathogen infiltration at the damaged skin site, their highly reactive nature can also exacerbate tissue damage if not tightly regulated. Additionally, mast cells release inflammatory mediators such as histamine, which amplify inflammation and contribute to tissue injury. However, they also play a crucial role in immune suppression following ultraviolet exposure, helping to counterbalance the cytotoxic effects of neutrophils and prevent excessive tissue destruction.",
+      "text": "Innate Immune Cells and UV-Induced Inflammation: The Key to R O S. Many studies highlight the critical role of the innate immune system in responding to ultraviolet-induced skin damage. As with any form of cellular damage, the innate immune system is the first line of cellular defense. Resident macrophages play a central role in tissue repair, serving as first responders that secrete inflammatory cytokines and chemokines to recruit neutrophils to the site of inflammation. While neutrophils are essential for clearing cellular debris and preventing further pathogen infiltration at the damaged skin site, their highly reactive nature can also exacerbate tissue damage if not tightly regulated. Additionally, mast cells release inflammatory mediators such as histamine, which amplify inflammation and contribute to tissue injury. However, they also play a crucial role in immune suppression following ultraviolet exposure, helping to counterbalance the cytotoxic effects of neutrophils and prevent excessive tissue destruction.",
+      "index": 26,
+      "paragraph_count": 1,
+      "total_chars": 1030,
+      "final_id": "26_innate_immune_cells_and_uv"
+    },
+    {
+      "id": "overall_this_response_is_a_finely_tuned_and_highly_choreographed_process_that_if_disrupted_can_exacerbate_skin_injury_resveratrol_may_influence_this_process_through_multiple_mechanisms_beyond_its_well_documented_effects_on_inflammatory_signaling_it_likely_modulates_innate_immune_responses_reducing_excessive_inflammation_and_mitigating_the_harmful_effects_of_an_overactive_immune_response_resveratrols_action_in_this_process_appears_to_be_multifaceted_in_addition_to_its_impact_on_systemic_canonical_inflammatory_signaling_it_also_targets_the_t_r_p_m_2_ion_channel_which_is_highly_expressed_in_neutrophils_and_macrophages_t_r_p_m_2_is_activated_by_reactive_oxygen_species_making_it_a_key_oxidative_stress_sensor_as_well_as_its_agonist_a_d_p_r_playing_a_crucial_role_in_mediating_neutrophil_chemotaxis_migration_and_tissue_infiltration",
+      "title": "Overall, this response is a finely tuned and highly choreographed process that, if disrupted, can exacerbate skin injury. Resveratrol may influence this process through multiple mechanisms. Beyond its well-documented effects on inflammatory signaling, it likely modulates innate immune responses, reducing excessive inflammation and mitigating the harmful effects of an overactive immune response. Resveratrol's action in this process appears to be multifaceted. In addition to its impact on systemic canonical inflammatory signaling, it also targets the T R P M 2 ion channel, which is highly expressed in neutrophils and macrophages. T R P M 2 is activated by reactive oxygen species, making it a key oxidative stress sensor, as well as its agonist A D P R, playing a crucial role in mediating neutrophil chemotaxis, migration, and tissue infiltration.",
+      "text": "Overall, this response is a finely tuned and highly choreographed process that, if disrupted, can exacerbate skin injury. Resveratrol may influence this process through multiple mechanisms. Beyond its well-documented effects on inflammatory signaling, it likely modulates innate immune responses, reducing excessive inflammation and mitigating the harmful effects of an overactive immune response. Resveratrol's action in this process appears to be multifaceted. In addition to its impact on systemic canonical inflammatory signaling, it also targets the T R P M 2 ion channel, which is highly expressed in neutrophils and macrophages. T R P M 2 is activated by reactive oxygen species, making it a key oxidative stress sensor, as well as its agonist A D P R, playing a crucial role in mediating neutrophil chemotaxis, migration, and tissue infiltration.",
+      "index": 27,
+      "paragraph_count": 1,
+      "total_chars": 854,
+      "final_id": "27_overall_this_response_is_a"
+    },
+    {
+      "id": "upon_activation_t_r_p_m_2_facilitates_calcium_influx_which_amplifies_broad_phagocyte_inflammatory_signaling_and_regulates_neutrophil_activity_while_this_response_is_essential_for_host_defense_excessive_t_r_p_m_2_activation_may_prolong_neutrophil_activity_leading_to_uncontrolled_inflammation_and_collateral_tissue_damage_particularly_in_conditions_such_as_ultraviolet_induced_skin_injury",
+      "title": "Upon activation, T R P M 2 facilitates calcium influx, which amplifies broad phagocyte inflammatory signaling and regulates neutrophil activity. While this response is essential for host defense, excessive T R P M 2 activation may prolong neutrophil activity, leading to uncontrolled inflammation and collateral tissue damage, particularly in conditions such as ultraviolet-induced skin injury.",
+      "text": "Upon activation, T R P M 2 facilitates calcium influx, which amplifies broad phagocyte inflammatory signaling and regulates neutrophil activity. While this response is essential for host defense, excessive T R P M 2 activation may prolong neutrophil activity, leading to uncontrolled inflammation and collateral tissue damage, particularly in conditions such as ultraviolet-induced skin injury.",
+      "index": 28,
+      "paragraph_count": 1,
+      "total_chars": 394,
+      "final_id": "28_upon_activation_t_r_p"
+    },
+    {
+      "id": "resveratrol_exerts_its_effects_on_modulating_t_r_p_m_2_activity_through_multiple_mechanisms_first_resveratrol_upregulates_s_i_r_t_1_which_in_turn_inhibits_the_n_l_r_p_3_inflammasome_a_key_driver_of_ultraviolet_induced_inflammation_by_interfering_with_two_critical_pathways_second_s_i_r_t_1_reduces_n_f_kappa_b_expression_leading_to_the_suppression_of_pro_inflammatory_cytokine_production_third_s_i_r_t_1_modulates_calcium_influx_via_t_r_p_m_2_potentially_reducing_reactive_oxygen_species_production_and_thus_controlling_oxidative_stress",
+      "title": "Resveratrol exerts its effects on modulating T R P M 2 activity through multiple mechanisms. First, resveratrol upregulates S I R T 1, which in turn inhibits the N L R P 3 inflammasome, a key driver of ultraviolet-induced inflammation, by interfering with two critical pathways. Second, S I R T 1 reduces N F-kappa B expression, leading to the suppression of pro-inflammatory cytokine production. Third, S I R T 1 modulates calcium influx via T R P M 2, potentially reducing reactive oxygen species production and thus controlling oxidative stress.",
+      "text": "Resveratrol exerts its effects on modulating T R P M 2 activity through multiple mechanisms. First, resveratrol upregulates S I R T 1, which in turn inhibits the N L R P 3 inflammasome, a key driver of ultraviolet-induced inflammation, by interfering with two critical pathways. Second, S I R T 1 reduces N F-kappa B expression, leading to the suppression of pro-inflammatory cytokine production. Third, S I R T 1 modulates calcium influx via T R P M 2, potentially reducing reactive oxygen species production and thus controlling oxidative stress.",
+      "index": 29,
+      "paragraph_count": 1,
+      "total_chars": 548,
+      "final_id": "29_resveratrol_exerts_its_effects_on"
+    },
+    {
+      "id": "since_t_r_p_m_2_mediated_calcium_influx_enhances_cytokine_production_in_macrophages_exacerbating_neutrophil_infiltration_and_inflammation_resveratrols_ability_to_suppress_this_pathway_at_multiple_levels_underscores_its_multifaceted_role_in_regulating_the_innate_immune_response_by_modulating_these_interconnected_pathways_resveratrol_helps_sway_the_immune_response_towards_a_more_balanced_moderate_action_preventing_excessive_cytotoxicity_while_still_promoting_effective_defense_mechanisms",
+      "title": "Since T R P M 2-mediated calcium influx enhances cytokine production in macrophages, exacerbating neutrophil infiltration and inflammation, resveratrol's ability to suppress this pathway at multiple levels underscores its multifaceted role in regulating the innate immune response. By modulating these interconnected pathways, resveratrol helps sway the immune response towards a more balanced, moderate action, preventing excessive cytotoxicity while still promoting effective defense mechanisms.",
+      "text": "Since T R P M 2-mediated calcium influx enhances cytokine production in macrophages, exacerbating neutrophil infiltration and inflammation, resveratrol's ability to suppress this pathway at multiple levels underscores its multifaceted role in regulating the innate immune response. By modulating these interconnected pathways, resveratrol helps sway the immune response towards a more balanced, moderate action, preventing excessive cytotoxicity while still promoting effective defense mechanisms.",
+      "index": 30,
+      "paragraph_count": 1,
+      "total_chars": 497,
+      "final_id": "30_since_t_r_p_m"
+    },
+    {
+      "id": "through_its_broad_mechanisms_targeting_inflammatory_signaling_oxidative_stress_and_ion_channel_activity_in_addition_to_its_well_known_canonical_actions_resveratrol_exhibits_a_remarkable_degree_of_molecular_promiscuity_affecting_multiple_physiological_pathways_and_playing_diverse_critical_roles_across_various_biological_contexts",
+      "title": "Through its broad mechanisms, targeting inflammatory signaling, oxidative stress, and ion channel activity, in addition to its well-known canonical actions, resveratrol exhibits a remarkable degree of molecular promiscuity, affecting multiple physiological pathways and playing diverse, critical roles across various biological contexts.",
+      "text": "Through its broad mechanisms, targeting inflammatory signaling, oxidative stress, and ion channel activity, in addition to its well-known canonical actions, resveratrol exhibits a remarkable degree of molecular promiscuity, affecting multiple physiological pathways and playing diverse, critical roles across various biological contexts.",
+      "index": 31,
+      "paragraph_count": 1,
+      "total_chars": 337,
+      "final_id": "31_through_its_broad_mechanisms_targeting"
+    },
+    {
+      "id": "studies_on_uv_induced_skin_damage_with_resveratrate_resveratrate_is_a_stabilized_derivative_of_resveratrol_in_a_study_involving_15_healthy_volunteers_researchers_examined_the_effects_of_this_product_applied_topically_in_preventing_ultraviolet_induced_skin_damage_their_study_showed_that_resveratrate_significantly_reduces_erythema_sunburn_cell_formation_and_melanin_accumulation_compared_to_untreated_or_vehicle_treated_areas_the_most_significant_protection_is_observed_when_resveratrate_is_combined_with_additional_antioxidants_highlighting_its_ability_to_modulate_skin_inflammation_and_pigmentation_these_findings_demonstrate_that_resveratrate_provides_direct_photoprotective_benefits_when_applied_to_skin_effectively_attenuating_ultraviolet_radiation_induced_sunburn_and_suntan_in_human_skin_this_highlights_its_potential_as_a_topical_agent_for_reducing_ultraviolet_mediated_skin_damage",
+      "title": "Studies on UV-Induced Skin Damage with Resveratrate. Resveratrate is a stabilized derivative of resveratrol. In a study involving 15 healthy volunteers, researchers examined the effects of this product, applied topically, in preventing ultraviolet-induced skin damage. Their study showed that resveratrate significantly reduces erythema, sunburn cell formation, and melanin accumulation compared to untreated or vehicle-treated areas. The most significant protection is observed when resveratrate is combined with additional antioxidants, highlighting its ability to modulate skin inflammation and pigmentation. These findings demonstrate that resveratrate provides direct photoprotective benefits when applied to skin, effectively attenuating ultraviolet radiation-induced sunburn and suntan in human skin. This highlights its potential as a topical agent for reducing ultraviolet-mediated skin damage.",
+      "text": "Studies on UV-Induced Skin Damage with Resveratrate. Resveratrate is a stabilized derivative of resveratrol. In a study involving 15 healthy volunteers, researchers examined the effects of this product, applied topically, in preventing ultraviolet-induced skin damage. Their study showed that resveratrate significantly reduces erythema, sunburn cell formation, and melanin accumulation compared to untreated or vehicle-treated areas. The most significant protection is observed when resveratrate is combined with additional antioxidants, highlighting its ability to modulate skin inflammation and pigmentation. These findings demonstrate that resveratrate provides direct photoprotective benefits when applied to skin, effectively attenuating ultraviolet radiation-induced sunburn and suntan in human skin. This highlights its potential as a topical agent for reducing ultraviolet-mediated skin damage.",
+      "index": 32,
+      "paragraph_count": 1,
+      "total_chars": 903,
+      "final_id": "32_studies_on_uv_induced_skin"
+    },
+    {
+      "id": "preclinical_trials_performed_with_resveratrol_and_grapes_resveratrols_diverse_therapeutic_potential_has_led_to_its_exploration_in_a_wide_spectrum_of_applications_including_cardiovascular_disease_anti_inflammatory_effects_cancer_chemoprevention_and_metabolic_and_anti_aging_effects_several_studies_have_been_conducted_to_assess_the_basic_pharmacological_properties_of_resveratrol_including_mechanism_of_action_absorption_distribution_metabolism_and_elimination_resveratrols_role_in_cancer_prevention_is_thought_to_be_attributed_to_its_ability_to_induce_apoptosis_regulate_the_cell_cycle_and_enhance_d_n_a_damage_repair_mechanisms_however_to_date_few_clinical_trials_have_been_conducted_to_fully_validate_these_effects_in_humans_importantly_several_of_the_studies_include_trials_that_focus_on_formulation_pharmacokinetics_and_combination_therapies_with_other_drugs_rather_than_on_resveratrol_alone_additionally_these_studies_span_all_types_of_cancers_making_it_challenging_to_draw_specific_conclusions_about_their_efficacy_for_any_single_cancer_type",
+      "title": "Preclinical Trials Performed with Resveratrol and Grapes. Resveratrol's diverse therapeutic potential has led to its exploration in a wide spectrum of applications, including cardiovascular disease, anti-inflammatory effects, cancer chemoprevention, and metabolic and anti-aging effects. Several studies have been conducted to assess the basic pharmacological properties of resveratrol including mechanism of action, absorption, distribution, metabolism, and elimination. Resveratrol's role in cancer prevention is thought to be attributed to its ability to induce apoptosis, regulate the cell cycle, and enhance D N A damage repair mechanisms. However, to date, few clinical trials have been conducted to fully validate these effects in humans. Importantly, several of the studies include trials that focus on formulation, pharmacokinetics, and combination therapies with other drugs, rather than on resveratrol alone. Additionally, these studies span all types of cancers, making it challenging to draw specific conclusions about their efficacy for any single cancer type.",
+      "text": "Preclinical Trials Performed with Resveratrol and Grapes. Resveratrol's diverse therapeutic potential has led to its exploration in a wide spectrum of applications, including cardiovascular disease, anti-inflammatory effects, cancer chemoprevention, and metabolic and anti-aging effects. Several studies have been conducted to assess the basic pharmacological properties of resveratrol including mechanism of action, absorption, distribution, metabolism, and elimination. Resveratrol's role in cancer prevention is thought to be attributed to its ability to induce apoptosis, regulate the cell cycle, and enhance D N A damage repair mechanisms. However, to date, few clinical trials have been conducted to fully validate these effects in humans. Importantly, several of the studies include trials that focus on formulation, pharmacokinetics, and combination therapies with other drugs, rather than on resveratrol alone. Additionally, these studies span all types of cancers, making it challenging to draw specific conclusions about their efficacy for any single cancer type.",
+      "index": 33,
+      "paragraph_count": 1,
+      "total_chars": 1074,
+      "final_id": "33_preclinical_trials_performed_with_resveratrol"
+    },
+    {
+      "id": "another_major_challenge_in_studying_resveratrols_chemopreventive_effects_is_the_impracticality_of_long_term_human_trials_proper_evaluation_would_require_participants_to_take_resveratrol_over_extended_periods_which_is_often_not_feasible_due_to_logistical_ethical_and_compliance_issues_consequently_while_preclinical_data_are_promising_translating_resveratrols_chemopreventive_potential_into_clinical_practice_remains_limited_and_necessitates_further_rigorous_research_additionally_resveratrol_has_been_extensively_studied_in_metabolic_disorders_such_as_diabetes_and_obesity_due_to_its_regulation_of_insulin_sensitivity_mitochondrial_function_and_lipid_metabolism_furthermore_its_antioxidant_properties_and_ability_to_promote_genomic_stability_may_contribute_to_its_anti_aging_effects_with_studies_exploring_its_impact_on_longevity_and_age_related_diseases",
+      "title": "Another major challenge in studying resveratrol's chemopreventive effects is the impracticality of long-term human trials. Proper evaluation would require participants to take resveratrol over extended periods, which is often not feasible due to logistical, ethical, and compliance issues. Consequently, while preclinical data are promising, translating resveratrol's chemopreventive potential into clinical practice remains limited and necessitates further rigorous research. Additionally, resveratrol has been extensively studied in metabolic disorders such as diabetes and obesity due to its regulation of insulin sensitivity, mitochondrial function, and lipid metabolism. Furthermore, its antioxidant properties and ability to promote genomic stability may contribute to its anti-aging effects, with studies exploring its impact on longevity and age-related diseases.",
+      "text": "Another major challenge in studying resveratrol's chemopreventive effects is the impracticality of long-term human trials. Proper evaluation would require participants to take resveratrol over extended periods, which is often not feasible due to logistical, ethical, and compliance issues. Consequently, while preclinical data are promising, translating resveratrol's chemopreventive potential into clinical practice remains limited and necessitates further rigorous research. Additionally, resveratrol has been extensively studied in metabolic disorders such as diabetes and obesity due to its regulation of insulin sensitivity, mitochondrial function, and lipid metabolism. Furthermore, its antioxidant properties and ability to promote genomic stability may contribute to its anti-aging effects, with studies exploring its impact on longevity and age-related diseases.",
+      "index": 34,
+      "paragraph_count": 1,
+      "total_chars": 871,
+      "final_id": "34_another_major_challenge_in_studying"
+    },
+    {
+      "id": "while_these_areas_have_dominated_clinical_research_growing_interest_in_resveratrols_photoprotective_properties_and_its_role_in_ultraviolet_induced_skin_damage_has_led_to_investigations_into_its_potential_applications_in_dermatology_particularly_for_skin_cancer_prevention_and_repair_very_few_studies_have_investigated_the_protective_effects_of_resveratrol_and_grape_constituents_on_ultraviolet_radiation_induced_skin_damage",
+      "title": "While these areas have dominated clinical research, growing interest in resveratrol's photoprotective properties and its role in ultraviolet-induced skin damage has led to investigations into its potential applications in dermatology, particularly for skin cancer prevention and repair. Very few studies have investigated the protective effects of resveratrol and grape constituents on ultraviolet radiation-induced skin damage.",
+      "text": "While these areas have dominated clinical research, growing interest in resveratrol's photoprotective properties and its role in ultraviolet-induced skin damage has led to investigations into its potential applications in dermatology, particularly for skin cancer prevention and repair. Very few studies have investigated the protective effects of resveratrol and grape constituents on ultraviolet radiation-induced skin damage.",
+      "index": 35,
+      "paragraph_count": 1,
+      "total_chars": 428,
+      "final_id": "35_while_these_areas_have_dominated"
+    },
+    {
+      "id": "numerous_studies_have_reported_that_phytochemicals_including_resveratrol_are_able_to_prevent_skin_cancer_in_animal_models_however_the_most_common_animal_models_rely_on_chemical_carcinogens_to_promote_skin_cancer_this_could_lead_to_differences_in_the_mechanism_whereby_resveratrol_prevents_skin_cancer_and_reduces_the_relevance_of_findings_from_animal_studies_using_ultraviolet_irradiation_to_induce_skin_cancer_in_mice_would_produce_information_relevant_to_skin_cancer_in_humans",
+      "title": "Numerous studies have reported that phytochemicals, including resveratrol, are able to prevent skin cancer in animal models. However, the most common animal models rely on chemical carcinogens to promote skin cancer. This could lead to differences in the mechanism, whereby resveratrol prevents skin cancer and reduces the relevance of findings from animal studies. Using ultraviolet irradiation to induce skin cancer in mice would produce information relevant to skin cancer in humans.",
+      "text": "Numerous studies have reported that phytochemicals, including resveratrol, are able to prevent skin cancer in animal models. However, the most common animal models rely on chemical carcinogens to promote skin cancer. This could lead to differences in the mechanism, whereby resveratrol prevents skin cancer and reduces the relevance of findings from animal studies. Using ultraviolet irradiation to induce skin cancer in mice would produce information relevant to skin cancer in humans.",
+      "index": 36,
+      "paragraph_count": 1,
+      "total_chars": 486,
+      "final_id": "36_numerous_studies_have_reported_that"
+    },
+    {
+      "id": "resveratrol_and_uvb_induced_inflammation_in_neonatal_foreskin_keratinocytes_neonatal_foreskin_provides_a_valuable_model_for_studying_drug_effects_on_the_epidermis_offering_human_tissue_with_an_unaltered_genetic_background_that_closely_mimics_in_vivo_skin_conditions_as_a_byproduct_of_circumcision_it_presents_an_ethically_accessible_and_clinically_relevant_system_for_investigating_epidermal_biology_and_therapeutic_responses_in_human_skin",
+      "title": "Resveratrol and UVB-Induced Inflammation in Neonatal Foreskin Keratinocytes. Neonatal foreskin provides a valuable model for studying drug effects on the epidermis, offering human tissue with an unaltered genetic background that closely mimics in vivo skin conditions. As a byproduct of circumcision, it presents an ethically accessible and clinically relevant system for investigating epidermal biology and therapeutic responses in human skin.",
+      "text": "Resveratrol and UVB-Induced Inflammation in Neonatal Foreskin Keratinocytes. Neonatal foreskin provides a valuable model for studying drug effects on the epidermis, offering human tissue with an unaltered genetic background that closely mimics in vivo skin conditions. As a byproduct of circumcision, it presents an ethically accessible and clinically relevant system for investigating epidermal biology and therapeutic responses in human skin.",
+      "index": 37,
+      "paragraph_count": 1,
+      "total_chars": 444,
+      "final_id": "37_resveratrol_and_uvb_induced_inflammation"
+    },
+    {
+      "id": "using_this_model_researchers_investigated_the_protective_effects_of_resveratrol_against_ultraviolet_b_induced_damage_in_neonatal_foreskin_derived_keratinocytes_ultraviolet_b_exposure_is_known_to_activate_n_f_kappa_b_a_redox_sensitive_transcription_factor_that_plays_a_critical_role_in_skin_biology_and_is_implicated_in_skin_carcinogenesis_particularly_through_inflammation_promoting_pathways_in_their_study_using_a_normal_human_epidermal_keratinocyte_model_the_researchers_demonstrate_that_resveratrol_effectively_blocked_ultraviolet_b_mediated_activation_of_n_f_kappa_b_in_both_a_dose_dependent_and_time_dependent_manner_furthermore_they_showed_that_resveratrol_treatment_inhibits_two_key_steps_in_the_n_f_kappa_b_activation_pathway_the_phosphorylation_and_degradation_of_i_kappa_b_alpha_and_the_activation_of_i_k_k_alpha_these_findings_indicate_some_of_the_molecular_bases_for_resveratrols_chemopreventive_action_in_ultraviolet_protection",
+      "title": "Using this model, researchers investigated the protective effects of resveratrol against ultraviolet B-induced damage in neonatal foreskin-derived keratinocytes. Ultraviolet B exposure is known to activate N F-kappa B, a redox-sensitive transcription factor that plays a critical role in skin biology and is implicated in skin carcinogenesis, particularly through inflammation-promoting pathways. In their study using a normal human epidermal keratinocyte model, the researchers demonstrate that resveratrol effectively blocked ultraviolet B-mediated activation of N F-kappa B in both a dose-dependent and time-dependent manner. Furthermore, they showed that resveratrol treatment inhibits two key steps in the N F-kappa B activation pathway: the phosphorylation and degradation of I kappa B alpha and the activation of I K K alpha. These findings indicate some of the molecular bases for resveratrol's chemopreventive action in ultraviolet protection.",
+      "text": "Using this model, researchers investigated the protective effects of resveratrol against ultraviolet B-induced damage in neonatal foreskin-derived keratinocytes. Ultraviolet B exposure is known to activate N F-kappa B, a redox-sensitive transcription factor that plays a critical role in skin biology and is implicated in skin carcinogenesis, particularly through inflammation-promoting pathways. In their study using a normal human epidermal keratinocyte model, the researchers demonstrate that resveratrol effectively blocked ultraviolet B-mediated activation of N F-kappa B in both a dose-dependent and time-dependent manner. Furthermore, they showed that resveratrol treatment inhibits two key steps in the N F-kappa B activation pathway: the phosphorylation and degradation of I kappa B alpha and the activation of I K K alpha. These findings indicate some of the molecular bases for resveratrol's chemopreventive action in ultraviolet protection.",
+      "index": 38,
+      "paragraph_count": 1,
+      "total_chars": 952,
+      "final_id": "38_using_this_model_researchers_investigated"
+    },
+    {
+      "id": "grapes_a_preliminary_study_suggested_the_potential_of_orally_administered_grapes_to_prevent_skin_cancer_induced_by_ultraviolet_exposure_oral_administration_of_a_grape_powder_equivalent_to_two_servings_of_fresh_grapes_five_times_per_week_significantly_reduced_edema_in_ultraviolet_irradiated_skhhr_1_hairless_mice_after_one_week_a_reduction_of_about_50_percent_was_observed_the_reduction_increased_with_time_reaching_about_90_percent_after_eight_weeks_the_decrease_correlated_with_photoprotection_of_lipids_in_the_epidermis",
+      "title": "Grapes. A preliminary study suggested the potential of orally administered grapes to prevent skin cancer induced by ultraviolet exposure. Oral administration of a grape powder equivalent to two servings of fresh grapes five times per week significantly reduced edema in ultraviolet-irradiated SKH:hr-1 hairless mice. After one week, a reduction of about 50 percent was observed. The reduction increased with time, reaching about 90 percent after eight weeks. The decrease correlated with photoprotection of lipids in the epidermis.",
+      "text": "Grapes. A preliminary study suggested the potential of orally administered grapes to prevent skin cancer induced by ultraviolet exposure. Oral administration of a grape powder equivalent to two servings of fresh grapes five times per week significantly reduced edema in ultraviolet-irradiated SKH:hr-1 hairless mice. After one week, a reduction of about 50 percent was observed. The reduction increased with time, reaching about 90 percent after eight weeks. The decrease correlated with photoprotection of lipids in the epidermis.",
+      "index": 39,
+      "paragraph_count": 1,
+      "total_chars": 531,
+      "final_id": "39_grapes_a_preliminary_study_suggested"
+    },
+    {
+      "id": "more_compelling_preclinical_evidence_suggesting_the_potential_of_grapes_to_protect_from_ultraviolet_exposure_has_been_reported_by_ahmad_and_coworkers_with_a_skh_1_hairless_mouse_model_using_an_ultraviolet_b_initiation_and_promotion_protocol_dietary_grapes_delayed_the_onset_of_tumorigenesis_and_reduced_tumor_incidence_these_responses_were_associated_with_enhanced_d_n_a_damage_repair_reduced_proliferation_increased_apoptosis_and_modulation_of_oxidative_stress_markers",
+      "title": "More compelling preclinical evidence suggesting the potential of grapes to protect from ultraviolet exposure has been reported by Ahmad and coworkers. With a SKH-1 hairless mouse model using an ultraviolet B initiation and promotion protocol, dietary grapes delayed the onset of tumorigenesis and reduced tumor incidence. These responses were associated with enhanced D N A damage repair, reduced proliferation, increased apoptosis, and modulation of oxidative stress markers.",
+      "text": "More compelling preclinical evidence suggesting the potential of grapes to protect from ultraviolet exposure has been reported by Ahmad and coworkers. With a SKH-1 hairless mouse model using an ultraviolet B initiation and promotion protocol, dietary grapes delayed the onset of tumorigenesis and reduced tumor incidence. These responses were associated with enhanced D N A damage repair, reduced proliferation, increased apoptosis, and modulation of oxidative stress markers.",
+      "index": 40,
+      "paragraph_count": 1,
+      "total_chars": 476,
+      "final_id": "40_more_compelling_preclinical_evidence_suggesting"
+    },
+    {
+      "id": "in_follow_up_studies_using_tandem_mass_tag_quantitative_global_proteomics_2629_proteins_were_modulated_by_grape_feeding_and_it_was_deduced_that_grape_consumption_may_mitigate_tumorigenesis_by_enhancing_protein_ubiquitination_and_degradation_caused_by_oxidative_stress_further_following_short_term_exposure_to_ultraviolet_b_irradiation_grape_protected_against_early_stage_epithelial_hyperplasia_and_mast_cell_infiltration_in_male_and_female_skh_1_hairless_mice_long_term_studies_confirmed_that_dietary_grapes_reduced_tumor_counts_and_malignant_conversion_and_demonstrated_significant_decreases_in_mast_cell_infiltration_serum_i_g_e_and_eotaxin",
+      "title": "In follow-up studies using tandem mass tag quantitative global proteomics, 2629 proteins were modulated by grape feeding, and it was deduced that grape consumption may mitigate tumorigenesis by enhancing protein ubiquitination and degradation caused by oxidative stress. Further, following short-term exposure to ultraviolet B irradiation, grape protected against early-stage epithelial hyperplasia and mast cell infiltration in male and female SKH-1 hairless mice. Long-term studies confirmed that dietary grapes reduced tumor counts and malignant conversion and demonstrated significant decreases in mast cell infiltration, serum I g E, and eotaxin.",
+      "text": "In follow-up studies using tandem mass tag quantitative global proteomics, 2629 proteins were modulated by grape feeding, and it was deduced that grape consumption may mitigate tumorigenesis by enhancing protein ubiquitination and degradation caused by oxidative stress. Further, following short-term exposure to ultraviolet B irradiation, grape protected against early-stage epithelial hyperplasia and mast cell infiltration in male and female SKH-1 hairless mice. Long-term studies confirmed that dietary grapes reduced tumor counts and malignant conversion and demonstrated significant decreases in mast cell infiltration, serum I g E, and eotaxin.",
+      "index": 41,
+      "paragraph_count": 1,
+      "total_chars": 651,
+      "final_id": "41_in_follow_up_studies_using"
+    },
+    {
+      "id": "based_on_these_promising_preclinical_studies_human_trials_have_been_conducted_to_investigate_the_potential_of_grape_consumption_to_mitigate_ultraviolet_induced_skin_damage",
+      "title": "Based on these promising preclinical studies, human trials have been conducted to investigate the potential of grape consumption to mitigate ultraviolet-induced skin damage.",
+      "text": "Based on these promising preclinical studies, human trials have been conducted to investigate the potential of grape consumption to mitigate ultraviolet-induced skin damage.",
+      "index": 42,
+      "paragraph_count": 1,
+      "total_chars": 173,
+      "final_id": "42_based_on_these_promising_preclinical"
+    },
+    {
+      "id": "grape_consumption_and_uv_resistance_in_humans_the_first_human_study_that_established_the_effect_of_oral_administration_of_dietary_table_grape_on_ultraviolet_treatment_was_reported_by_elmets_and_coworkers_the_study_evaluates_the_effects_of_dietary_table_grape_consumption_on_ultraviolet_induced_skin_damage_in_19_healthy_humans_over_the_course_of_2_weeks_they_reported_an_overall_protective_effect_of_dietary_grapes_suggesting_greater_resistance_to_ultraviolet_induced_sunburn_when_analyzing_the_response_of_the_19_subjects_individually_the_minimal_erythema_dose_a_measure_of_ultraviolet_resistance_which_was_determined_before_and_after_treatment_increased_in_11_participants_remained_unchanged_in_7_and_decreased_in_only_1",
+      "title": "Grape Consumption and UV Resistance in Humans. The first human study that established the effect of oral administration of dietary table grape on ultraviolet treatment was reported by Elmets and coworkers. The study evaluates the effects of dietary table grape consumption on ultraviolet-induced skin damage in 19 healthy humans over the course of 2 weeks. They reported an overall protective effect of dietary grapes, suggesting greater resistance to ultraviolet-induced sunburn. When analyzing the response of the 19 subjects individually, the minimal erythema dose, a measure of ultraviolet resistance which was determined before and after treatment, increased in 11 participants, remained unchanged in 7, and decreased in only 1.",
+      "text": "Grape Consumption and UV Resistance in Humans. The first human study that established the effect of oral administration of dietary table grape on ultraviolet treatment was reported by Elmets and coworkers. The study evaluates the effects of dietary table grape consumption on ultraviolet-induced skin damage in 19 healthy humans over the course of 2 weeks. They reported an overall protective effect of dietary grapes, suggesting greater resistance to ultraviolet-induced sunburn. When analyzing the response of the 19 subjects individually, the minimal erythema dose, a measure of ultraviolet resistance which was determined before and after treatment, increased in 11 participants, remained unchanged in 7, and decreased in only 1.",
+      "index": 43,
+      "paragraph_count": 1,
+      "total_chars": 733,
+      "final_id": "43_grape_consumption_and_uv_resistance"
+    },
+    {
+      "id": "the_authors_noted_that_the_photoprotective_effect_is_not_attributed_to_changes_in_cutaneous_pigmentation_as_no_change_in_melanin_index_was_observed_before_and_after_treatment_because_polyphenols_are_considered_key_contributors_to_the_photoprotective_effects_of_grapes_the_dietary_table_grape_preparation_was_analyzed_by_mass_spectrometry_to_identify_additional_active_constituents_the_analysis_revealed_that_dietary_table_grape_contains_polyphenols_including_catechins_anthocyanidins_isorhamnetin_and_resveratrol_all_of_which_are_known_for_their_antioxidant_and_anti_inflammatory_properties",
+      "title": "The authors noted that the photoprotective effect is not attributed to changes in cutaneous pigmentation, as no change in melanin index was observed before and after treatment. Because polyphenols are considered key contributors to the photoprotective effects of grapes, the dietary table grape preparation was analyzed by mass spectrometry to identify additional active constituents. The analysis revealed that dietary table grape contains polyphenols, including catechins, anthocyanidins, isorhamnetin, and resveratrol, all of which are known for their antioxidant and anti-inflammatory properties.",
+      "text": "The authors noted that the photoprotective effect is not attributed to changes in cutaneous pigmentation, as no change in melanin index was observed before and after treatment. Because polyphenols are considered key contributors to the photoprotective effects of grapes, the dietary table grape preparation was analyzed by mass spectrometry to identify additional active constituents. The analysis revealed that dietary table grape contains polyphenols, including catechins, anthocyanidins, isorhamnetin, and resveratrol, all of which are known for their antioxidant and anti-inflammatory properties.",
+      "index": 44,
+      "paragraph_count": 1,
+      "total_chars": 600,
+      "final_id": "44_the_authors_noted_that_the"
+    },
+    {
+      "id": "overall_the_studies_demonstrate_that_grape_consumption_enhances_ultraviolet_protection_in_a_subset_of_individuals_without_significant_adverse_effects_highlighting_the_potential_of_dietary_polyphenols_in_reducing_photodamage_and_promoting_skin_health_the_study_reported_by_pezzuto_and_coworkers_was_designed_to_explore_the_systemic_photoprotective_effects_of_dietary_grape_consumption_with_an_objective_of_independently_confirming_and_expanding_the_results_of_elmets_and_coworkers_in_addition_to_baseline_minimal_erythema_dose_and_chromameter_measurements_to_assess_ultraviolet_induced_skin_response_this_study_included_fecal_sample_analysis_urine_analysis_and_whole_blood_and_plasma_analysis_as_well_as_the_collection_of_skin_biopsies_consistent_with_the_findings_of_elmets_and_colleagues_this_study_with_29_human_participants_confirms_that_consuming_grapes_for_two_weeks_reduces_skin_sensitivity_to_ultraviolet_radiation_in_a_significant_portion_of_the_study_population",
+      "title": "Overall, the studies demonstrate that grape consumption enhances ultraviolet protection in a subset of individuals without significant adverse effects, highlighting the potential of dietary polyphenols in reducing photodamage and promoting skin health. The study reported by Pezzuto and coworkers was designed to explore the systemic photoprotective effects of dietary grape consumption, with an objective of independently confirming and expanding the results of Elmets and coworkers. In addition to baseline minimal erythema dose and chromameter measurements to assess ultraviolet-induced skin response, this study included fecal sample analysis, urine analysis, and whole blood and plasma analysis, as well as the collection of skin biopsies. Consistent with the findings of Elmets and colleagues, this study with 29 human participants confirms that consuming grapes for two weeks reduces skin sensitivity to ultraviolet radiation in a significant portion of the study population.",
+      "text": "Overall, the studies demonstrate that grape consumption enhances ultraviolet protection in a subset of individuals without significant adverse effects, highlighting the potential of dietary polyphenols in reducing photodamage and promoting skin health. The study reported by Pezzuto and coworkers was designed to explore the systemic photoprotective effects of dietary grape consumption, with an objective of independently confirming and expanding the results of Elmets and coworkers. In addition to baseline minimal erythema dose and chromameter measurements to assess ultraviolet-induced skin response, this study included fecal sample analysis, urine analysis, and whole blood and plasma analysis, as well as the collection of skin biopsies. Consistent with the findings of Elmets and colleagues, this study with 29 human participants confirms that consuming grapes for two weeks reduces skin sensitivity to ultraviolet radiation in a significant portion of the study population.",
+      "index": 45,
+      "paragraph_count": 1,
+      "total_chars": 982,
+      "final_id": "45_overall_the_studies_demonstrate_that"
+    },
+    {
+      "id": "further_pezzuto_and_coworkers_conducted_a_detailed_analysis_where_individual_subjects_were_grouped_for_example_if_a_positive_response_was_observed_the_study_aimed_to_explore_what_made_the_responsive_individuals_unique_moreover_those_who_showed_greater_ultraviolet_resistance_could_be_clearly_distinguished_from_the_rest_of_the_group",
+      "title": "Further, Pezzuto and coworkers conducted a detailed analysis, where individual subjects were grouped, for example, if a positive response was observed, the study aimed to explore what made the responsive individuals unique. Moreover, those who showed greater ultraviolet resistance could be clearly distinguished from the rest of the group.",
+      "text": "Further, Pezzuto and coworkers conducted a detailed analysis, where individual subjects were grouped, for example, if a positive response was observed, the study aimed to explore what made the responsive individuals unique. Moreover, those who showed greater ultraviolet resistance could be clearly distinguished from the rest of the group.",
+      "index": 46,
+      "paragraph_count": 1,
+      "total_chars": 340,
+      "final_id": "46_further_pezzuto_and_coworkers_conducted"
+    },
+    {
+      "id": "the_study_focused_on_analyzing_the_gut_skin_axis_which_refers_to_the_connection_between_gut_health_skin_health_and_the_role_of_the_microbiome_specifically_it_examined_the_microbiome_composition_and_the_impact_of_grape_consumption_on_metabolite_profiles_including_a_k_e_g_g_pathway_analysis_to_identify_biological_processes_influenced_by_these_changes",
+      "title": "The study focused on analyzing the gut-skin axis, which refers to the connection between gut health, skin health, and the role of the microbiome. Specifically, it examined the microbiome composition and the impact of grape consumption on metabolite profiles, including a K E G G pathway analysis to identify biological processes influenced by these changes.",
+      "text": "The study focused on analyzing the gut-skin axis, which refers to the connection between gut health, skin health, and the role of the microbiome. Specifically, it examined the microbiome composition and the impact of grape consumption on metabolite profiles, including a K E G G pathway analysis to identify biological processes influenced by these changes.",
+      "index": 47,
+      "paragraph_count": 1,
+      "total_chars": 357,
+      "final_id": "47_the_study_focused_on_analyzing"
+    },
+    {
+      "id": "while_the_variety_of_microbial_species_within_a_single_persons_gut_microbiome_and_compared_among_groups_appeared_unaltered_striking_differences_in_the_microbiome_and_metabolome_were_resolved_when_comparing_the_individuals_showing_greater_ultraviolet_resistance_with_nonresponders",
+      "title": "While the variety of microbial species within a single person's gut microbiome and compared among groups appeared unaltered, striking differences in the microbiome and metabolome were resolved when comparing the individuals showing greater ultraviolet resistance with nonresponders.",
+      "text": "While the variety of microbial species within a single person's gut microbiome and compared among groups appeared unaltered, striking differences in the microbiome and metabolome were resolved when comparing the individuals showing greater ultraviolet resistance with nonresponders.",
+      "index": 48,
+      "paragraph_count": 1,
+      "total_chars": 282,
+      "final_id": "48_while_the_variety_of_microbial"
+    },
+    {
+      "id": "further_the_authors_showed_that_grape_consumption_modulated_microbiota_abundance_enzyme_levels_and_k_e_g_g_pathways_importantly_three_urine_metabolites_2_deoxyribonic_acid_3_hydroxyphenylacetic_acid_and_scyllo_inositol_were_lower_in_the_ultraviolet_resistant_group_notably_measurements_of_2_deoxyribonic_acid_a_byproduct_of_oxidative_d_n_a_damage_could_identify_a_ultraviolet_skin_nonresponder_as_a_predictor_of_ultraviolet_sensitivity_with_718_percent_accuracy",
+      "title": "Further, the authors showed that grape consumption modulated microbiota abundance, enzyme levels, and K E G G pathways. Importantly, three urine metabolites, 2'-deoxyribonic acid, 3-hydroxyphenylacetic acid, and scyllo-inositol, were lower in the ultraviolet-resistant group. Notably, measurements of 2'-deoxyribonic acid, a byproduct of oxidative D N A damage, could identify a ultraviolet skin nonresponder as a predictor of ultraviolet sensitivity with 71.8 percent accuracy.",
+      "text": "Further, the authors showed that grape consumption modulated microbiota abundance, enzyme levels, and K E G G pathways. Importantly, three urine metabolites, 2'-deoxyribonic acid, 3-hydroxyphenylacetic acid, and scyllo-inositol, were lower in the ultraviolet-resistant group. Notably, measurements of 2'-deoxyribonic acid, a byproduct of oxidative D N A damage, could identify a ultraviolet skin nonresponder as a predictor of ultraviolet sensitivity with 71.8 percent accuracy.",
+      "index": 49,
+      "paragraph_count": 1,
+      "total_chars": 478,
+      "final_id": "49_further_the_authors_showed_that"
+    },
+    {
+      "id": "differences_in_ultraviolet_sensitivity_might_also_be_linked_to_genetic_variations_in_the_glutathione_s_transferase_enzyme_which_helps_protect_against_oxidative_stress",
+      "title": "Differences in ultraviolet sensitivity might also be linked to genetic variations in the glutathione S-transferase enzyme, which helps protect against oxidative stress.",
+      "text": "Differences in ultraviolet sensitivity might also be linked to genetic variations in the glutathione S-transferase enzyme, which helps protect against oxidative stress.",
+      "index": 50,
+      "paragraph_count": 1,
+      "total_chars": 168,
+      "final_id": "50_differences_in_ultraviolet_sensitivity_might"
+    },
+    {
+      "id": "the_study_concluded_that_some_people_could_develop_greater_resistance_to_ultraviolet_induced_skin_damage_by_eating_grapes_possibly_due_to_changes_in_the_gut_skin_axis_while_it_is_not_certain_if_the_gut_skin_axis_directly_causes_this_ultraviolet_resistance_there_is_a_clear_correlation_more_broadly_these_findings_suggest_that_grapes_might_influence_other_health_benefits_through_similar_mechanisms",
+      "title": "The study concluded that some people could develop greater resistance to ultraviolet-induced skin damage by eating grapes, possibly due to changes in the gut-skin axis. While it is not certain if the gut-skin axis directly causes this ultraviolet resistance, there is a clear correlation. More broadly, these findings suggest that grapes might influence other health benefits through similar mechanisms.",
+      "text": "The study concluded that some people could develop greater resistance to ultraviolet-induced skin damage by eating grapes, possibly due to changes in the gut-skin axis. While it is not certain if the gut-skin axis directly causes this ultraviolet resistance, there is a clear correlation. More broadly, these findings suggest that grapes might influence other health benefits through similar mechanisms.",
+      "index": 51,
+      "paragraph_count": 1,
+      "total_chars": 403,
+      "final_id": "51_the_study_concluded_that_some"
+    },
+    {
+      "id": "new_findings_on_the_effect_of_grape_powder_on_human_skin_after_acute_exposure_to_uvb_in_previous_studies_we_have_demonstrated_that_consumption_of_grapes_is_capable_of_enhancing_the_skins_ultraviolet_resistance_in_approximately_1_in_3_subjects_31_percent_based_on_increases_in_the_minimal_erythema_dose_naturally_the_clinical_protocol_used_to_monitor_the_minimal_erythema_dose_changes_was_designed_to_produce_no_serious_damage_to_the_skin_for_example_first_second_or_third_degree_burns_as_indicated_by_the_name_of_the_evaluation_procedure_ultraviolet_exposure_was_minimal_to_approach_maximal_redness_a_dose_of_about_6_to_10_minimal_erythema_doses_is_required_the_broader_consequences_of_greater_sun_exposure_have_been_reviewed_in_the_context_of_a_minimal_erythema_dose_however_although_an_increase_resulting_from_a_dietary_intervention_may_imply_greater_skin_resilience_to_sun_exposure_the_actual_test_parameter_is_simply_the_minimal_visible_response_induced_by_a_low_dose_of_ultraviolet_irradiation_which_results_in_redness_caused_by_engorgement_of_capillaries",
+      "title": "New Findings on the Effect of Grape Powder on Human Skin After Acute Exposure to UVB. In previous studies, we have demonstrated that consumption of grapes is capable of enhancing the skin's ultraviolet resistance in approximately 1 in 3 subjects, 31 percent, based on increases in the minimal erythema dose. Naturally, the clinical protocol used to monitor the minimal erythema dose changes was designed to produce no serious damage to the skin, for example, first-, second-, or third-degree burns. As indicated by the name of the evaluation procedure, ultraviolet exposure was minimal. To approach maximal redness, a dose of about 6 to 10 minimal erythema doses is required. The broader consequences of greater sun exposure have been reviewed. In the context of a minimal erythema dose, however, although an increase resulting from a dietary intervention may imply greater skin resilience to sun exposure, the actual test parameter is simply the minimal visible response induced by a low dose of ultraviolet irradiation, which results in redness caused by engorgement of capillaries.",
+      "text": "New Findings on the Effect of Grape Powder on Human Skin After Acute Exposure to UVB. In previous studies, we have demonstrated that consumption of grapes is capable of enhancing the skin's ultraviolet resistance in approximately 1 in 3 subjects, 31 percent, based on increases in the minimal erythema dose. Naturally, the clinical protocol used to monitor the minimal erythema dose changes was designed to produce no serious damage to the skin, for example, first-, second-, or third-degree burns. As indicated by the name of the evaluation procedure, ultraviolet exposure was minimal. To approach maximal redness, a dose of about 6 to 10 minimal erythema doses is required. The broader consequences of greater sun exposure have been reviewed. In the context of a minimal erythema dose, however, although an increase resulting from a dietary intervention may imply greater skin resilience to sun exposure, the actual test parameter is simply the minimal visible response induced by a low dose of ultraviolet irradiation, which results in redness caused by engorgement of capillaries.",
+      "index": 52,
+      "paragraph_count": 1,
+      "total_chars": 1084,
+      "final_id": "52_new_findings_on_the_effect"
+    },
+    {
+      "id": "the_overall_study_design_used_to_investigate_the_potential_of_grape_consumption_to_affect_the_minimal_erythema_dose_is_outlined_in_brief_subjects_were_exposed_to_ultraviolet_to_determine_minimal_erythema_dose_values_on_day_15_and_16_this_determination_was_repeated_on_day_30_and_31_after_the_subjects_had_consumed_grapes_equivalent_to_three_servings_per_day_for_the_intervening_two_week_period_skin_biopsies_were_examined_from_the_site_not_exposed_to_ultraviolet_irradiation_on_day_15_and_from_the_ultraviolet_irradiated_site_and_again_on_day_31_following_grape_consumption_based_on_the_discussion_provided_above_a_priori_it_was_not_anticipated_that_the_histological_evaluation_would_reveal_any_significant_findings_protective_or_otherwise_in_terms_of_ultraviolet_response_or_in_terms_of_grape_consumption_this_proved_to_be_the_case_there_were_no_obvious_changes_in_control_samples_due_to_grape_consumption_nor_were_there_any_obvious_alterations_in_ultraviolet_treated_specimens_as_a_result_of_grape_consumption_it_was_beyond_the_scope_of_our_clinical_protocol_to_determine_the_potential_of_grapes_to_protect_against_higher_doses_of_ultraviolet_irradiation_thus_to_investigate_the_potential_of_grape_consumption_to_modulate_the_skins_response_to_ultraviolet_irradiation_in_greater_detail_both_in_subjects_demonstrating_enhancement_of_minimal_erythema_dose_values_and_in_those_showing_no_response_in_terms_of_minimal_erythema_dose_we_evaluated_some_molecular_markers_using_immunohistochemical_analysis_a_preliminary_account_is_presented_here_in_brief_using_biopsies_obtained_from_ultraviolet_exposed_skin_both_before_and_after_a_two_week_period_of_consuming_grapes_immunohistochemical_images_were_acquired_and_the_images_were_quantified_the_biomarkers_investigated_included_malondialdehyde_a_byproduct_of_lipid_peroxidation_that_serves_as_a_marker_for_oxidative_stress_bcl_2_levels_an_anti_apoptotic_marker_gamma_h_2_a_x_an_early_indicator_of_d_n_a_double_strand_breaks_c_o_x_2_a_marker_for_inflammation_and_oxidative_stress_p53_which_induces_cell_cycle_arrest_d_n_a_repair_and_apoptosis_c_o_x_1_another_anti_apoptotic_marker_and_fontana_masson_staining_for_melanin_the_production_of_which_is_triggered_by_ultraviolet_irradiation_the_interrelationships_of_these_markers_are_illustrated_the_overall_results_are_summarized",
+      "title": "The overall study design used to investigate the potential of grape consumption to affect the minimal erythema dose is outlined. In brief, subjects were exposed to ultraviolet to determine minimal erythema dose values on day 15 and 16. This determination was repeated on day 30 and 31, after the subjects had consumed grapes equivalent to three servings per day for the intervening two-week period. Skin biopsies were examined from the site not exposed to ultraviolet irradiation on day 15 and from the ultraviolet-irradiated site and again on day 31, following grape consumption. Based on the discussion provided above, a priori, it was not anticipated that the histological evaluation would reveal any significant findings, protective or otherwise, in terms of ultraviolet response or in terms of grape consumption. This proved to be the case. There were no obvious changes in control samples due to grape consumption, nor were there any obvious alterations in ultraviolet-treated specimens as a result of grape consumption. It was beyond the scope of our clinical protocol to determine the potential of grapes to protect against higher doses of ultraviolet irradiation. Thus, to investigate the potential of grape consumption to modulate the skin's response to ultraviolet irradiation in greater detail, both in subjects demonstrating enhancement of minimal erythema dose values and in those showing no response in terms of minimal erythema dose, we evaluated some molecular markers using immunohistochemical analysis. A preliminary account is presented here. In brief, using biopsies obtained from ultraviolet-exposed skin, both before and after a two-week period of consuming grapes, immunohistochemical images were acquired, and the images were quantified. The biomarkers investigated included malondialdehyde, a byproduct of lipid peroxidation that serves as a marker for oxidative stress; Bcl-2 levels, an anti-apoptotic marker; gamma H 2 A X, an early indicator of D N A double-strand breaks; C O X-2, a marker for inflammation and oxidative stress; p53, which induces cell cycle arrest, D N A repair, and apoptosis; C O X-1, another anti-apoptotic marker; and Fontana-Masson staining for melanin, the production of which is triggered by ultraviolet irradiation. The interrelationships of these markers are illustrated. The overall results are summarized.",
+      "text": "The overall study design used to investigate the potential of grape consumption to affect the minimal erythema dose is outlined. In brief, subjects were exposed to ultraviolet to determine minimal erythema dose values on day 15 and 16. This determination was repeated on day 30 and 31, after the subjects had consumed grapes equivalent to three servings per day for the intervening two-week period. Skin biopsies were examined from the site not exposed to ultraviolet irradiation on day 15 and from the ultraviolet-irradiated site and again on day 31, following grape consumption. Based on the discussion provided above, a priori, it was not anticipated that the histological evaluation would reveal any significant findings, protective or otherwise, in terms of ultraviolet response or in terms of grape consumption. This proved to be the case. There were no obvious changes in control samples due to grape consumption, nor were there any obvious alterations in ultraviolet-treated specimens as a result of grape consumption. It was beyond the scope of our clinical protocol to determine the potential of grapes to protect against higher doses of ultraviolet irradiation. Thus, to investigate the potential of grape consumption to modulate the skin's response to ultraviolet irradiation in greater detail, both in subjects demonstrating enhancement of minimal erythema dose values and in those showing no response in terms of minimal erythema dose, we evaluated some molecular markers using immunohistochemical analysis. A preliminary account is presented here. In brief, using biopsies obtained from ultraviolet-exposed skin, both before and after a two-week period of consuming grapes, immunohistochemical images were acquired, and the images were quantified. The biomarkers investigated included malondialdehyde, a byproduct of lipid peroxidation that serves as a marker for oxidative stress; Bcl-2 levels, an anti-apoptotic marker; gamma H 2 A X, an early indicator of D N A double-strand breaks; C O X-2, a marker for inflammation and oxidative stress; p53, which induces cell cycle arrest, D N A repair, and apoptosis; C O X-1, another anti-apoptotic marker; and Fontana-Masson staining for melanin, the production of which is triggered by ultraviolet irradiation. The interrelationships of these markers are illustrated. The overall results are summarized.",
+      "index": 53,
+      "paragraph_count": 1,
+      "total_chars": 2364,
+      "final_id": "53_the_overall_study_design_used"
+    },
+    {
+      "id": "as_noted_above_33_percent_of_the_subjects_in_the_study_demonstrated_an_increase_in_the_minimal_erythema_dose_following_grape_consumption_however_in_terms_of_biomarkers_with_both_groups_those_showing_increased_minimal_erythema_dose_values_following_grape_consumption_and_those_not_showing_an_increase_as_a_result_of_grape_consumption_more_than_30_percent_of_the_subjects_showed_modulation_of_biomarkers_that_are_indicative_of_amelioration_of_sun_damage_in_fact_the_percentage_of_subjects_who_consumed_grapes_but_showed_no_change_in_the_minimal_erythema_dose_test_generally_exceeded_the_percentage_of_responders_in_terms_of_biomarker_modulation_these_data_suggest_that_increased_resistance_to_ultraviolet_irradiation_based_on_increases_in_minimal_erythema_dose_values_may_not_be_fully_representative_of_the_magnitude_of_the_impact_of_grape_consumption_on_balance_the_results_of_biomarker_modulation_suggest_that_at_least_twice_as_many_individuals_are_responsive_to_grape_consumption_in_terms_of_their_response_to_ultraviolet_irradiation_more_likely_around_75_percent_when_considering_the_data_as_a_whole",
+      "title": "As noted above, 33 percent of the subjects in the study demonstrated an increase in the minimal erythema dose following grape consumption. However, in terms of biomarkers, with both groups, those showing increased minimal erythema dose values following grape consumption and those not showing an increase, as a result of grape consumption, more than 30 percent of the subjects showed modulation of biomarkers that are indicative of amelioration of sun damage. In fact, the percentage of subjects who consumed grapes but showed no change in the minimal erythema dose test generally exceeded the percentage of responders, in terms of biomarker modulation. These data suggest that increased resistance to ultraviolet irradiation based on increases in minimal erythema dose values may not be fully representative of the magnitude of the impact of grape consumption. On balance, the results of biomarker modulation suggest that at least twice as many individuals are responsive to grape consumption in terms of their response to ultraviolet irradiation, more likely, around 75 percent when considering the data as a whole.",
+      "text": "As noted above, 33 percent of the subjects in the study demonstrated an increase in the minimal erythema dose following grape consumption. However, in terms of biomarkers, with both groups, those showing increased minimal erythema dose values following grape consumption and those not showing an increase, as a result of grape consumption, more than 30 percent of the subjects showed modulation of biomarkers that are indicative of amelioration of sun damage. In fact, the percentage of subjects who consumed grapes but showed no change in the minimal erythema dose test generally exceeded the percentage of responders, in terms of biomarker modulation. These data suggest that increased resistance to ultraviolet irradiation based on increases in minimal erythema dose values may not be fully representative of the magnitude of the impact of grape consumption. On balance, the results of biomarker modulation suggest that at least twice as many individuals are responsive to grape consumption in terms of their response to ultraviolet irradiation, more likely, around 75 percent when considering the data as a whole.",
+      "index": 54,
+      "paragraph_count": 1,
+      "total_chars": 1117,
+      "final_id": "54_as_noted_above_33_percent"
+    },
+    {
+      "id": "further_examination_of_our_data_did_not_show_any_major_correlation_of_biomarker_change_based_on_sex_or_fitzpatrick_skin_type_nor_does_any_obvious_pattern_of_biomarker_modulation_emerge_when_comparing_minimal_erythema_dose_nonresponder_males_with_minimal_erythema_dose_nonresponder_females_differences_in_response_appear_to_be_due_to_inter_individual_variations_we_know_that_alteration_of_phenotypic_expression_varies_from_person_to_person_and_continues_to_vary_in_different_manner_on_an_individual_basis_following_grape_consumption_as_shown_below_with_a_single_individual_gene_expression_in_the_skin_varies_based_solely_on_grape_consumption_as_well_as_on_ultraviolet_exposure_taken_together_with_complex_signaling_induced_by_ultraviolet_radiation_the_dynamic_influence_of_the_gut_microbiome_metabolomic_alterations_potential_pharmacogenomic_effects_and_a_myriad_of_other_factors_it_is_likely_that_some_type_of_pharmacogenomic_paradigm_would_need_to_be_devised_to_predict_responsiveness",
+      "title": "Further examination of our data did not show any major correlation of biomarker change based on sex or Fitzpatrick skin type. Nor does any obvious pattern of biomarker modulation emerge when comparing minimal erythema dose nonresponder males with minimal erythema dose nonresponder females. Differences in response appear to be due to inter-individual variations. We know that alteration of phenotypic expression varies from person to person and continues to vary in different manner on an individual basis following grape consumption. As shown below with a single individual, gene expression in the skin varies, based solely on grape consumption as well as on ultraviolet exposure. Taken together with complex signaling induced by ultraviolet radiation, the dynamic influence of the gut microbiome, metabolomic alterations, potential pharmacogenomic effects, and a myriad of other factors, it is likely that some type of pharmacogenomic paradigm would need to be devised to predict responsiveness.",
+      "text": "Further examination of our data did not show any major correlation of biomarker change based on sex or Fitzpatrick skin type. Nor does any obvious pattern of biomarker modulation emerge when comparing minimal erythema dose nonresponder males with minimal erythema dose nonresponder females. Differences in response appear to be due to inter-individual variations. We know that alteration of phenotypic expression varies from person to person and continues to vary in different manner on an individual basis following grape consumption. As shown below with a single individual, gene expression in the skin varies, based solely on grape consumption as well as on ultraviolet exposure. Taken together with complex signaling induced by ultraviolet radiation, the dynamic influence of the gut microbiome, metabolomic alterations, potential pharmacogenomic effects, and a myriad of other factors, it is likely that some type of pharmacogenomic paradigm would need to be devised to predict responsiveness.",
+      "index": 55,
+      "paragraph_count": 1,
+      "total_chars": 998,
+      "final_id": "55_further_examination_of_our_data"
+    },
+    {
+      "id": "r_n_a_seq_with_human_skin_biopsies_as_described_elsewhere_in_the_volume_consumption_of_grapes_modulates_gene_expression_in_the_skin_of_humans_this_is_confirmed_by_the_r_n_a_seq_data_shown_below_from_a_human_subject_referred_to_by_the_code_letter_s_comparison_of_a_skin_biopsy_obtained_prior_to_the_consumption_of_grapes_for_two_weeks_with_a_biopsy_obtained_following_grape_consumption_for_two_weeks_showed_21507_gene_transcripts_shared_in_common_while_1894_genes_were_uniquely_expressed_in_the_pre_grape_sample_and_2296_were_uniquely_expressed_in_the_post_grape_sample_thus_grape_consumption_per_se_influences_gene_expression",
+      "title": "R N A-Seq with Human Skin Biopsies. As described elsewhere in the volume, consumption of grapes modulates gene expression in the skin of humans. This is confirmed by the R N A-seq data shown below, from a human subject referred to by the code letter S. Comparison of a skin biopsy obtained prior to the consumption of grapes for two weeks with a biopsy obtained following grape consumption for two weeks showed 21,507 gene transcripts shared in common, while 1894 genes were uniquely expressed in the pre-grape sample, and 2296 were uniquely expressed in the post-grape sample. Thus, grape consumption, per se, influences gene expression.",
+      "text": "R N A-Seq with Human Skin Biopsies. As described elsewhere in the volume, consumption of grapes modulates gene expression in the skin of humans. This is confirmed by the R N A-seq data shown below, from a human subject referred to by the code letter S. Comparison of a skin biopsy obtained prior to the consumption of grapes for two weeks with a biopsy obtained following grape consumption for two weeks showed 21,507 gene transcripts shared in common, while 1894 genes were uniquely expressed in the pre-grape sample, and 2296 were uniquely expressed in the post-grape sample. Thus, grape consumption, per se, influences gene expression.",
+      "index": 56,
+      "paragraph_count": 1,
+      "total_chars": 638,
+      "final_id": "56_r_n_a_seq_with"
+    },
+    {
+      "id": "also_ultraviolet_irradiation_of_human_skin_per_se_results_in_phenotypic_alterations_this_is_illustrated_by_the_comparison_of_pre_grape_no_ultraviolet_exposure_and_pre_grape_with_ultraviolet_exposure_in_this_analysis_there_were_19495_transcripts_in_common_with_both_specimens_but_3906_transcripts_were_unique_to_the_no_ultraviolet_sample_and_2480_transcripts_were_unique_to_the_ultraviolet_sample",
+      "title": "Also, ultraviolet irradiation of human skin, per se, results in phenotypic alterations. This is illustrated by the comparison of pre-grape no ultraviolet exposure and pre-grape with ultraviolet exposure. In this analysis, there were 19,495 transcripts in common with both specimens, but 3906 transcripts were unique to the no ultraviolet sample, and 2480 transcripts were unique to the ultraviolet sample.",
+      "text": "Also, ultraviolet irradiation of human skin, per se, results in phenotypic alterations. This is illustrated by the comparison of pre-grape no ultraviolet exposure and pre-grape with ultraviolet exposure. In this analysis, there were 19,495 transcripts in common with both specimens, but 3906 transcripts were unique to the no ultraviolet sample, and 2480 transcripts were unique to the ultraviolet sample.",
+      "index": 57,
+      "paragraph_count": 1,
+      "total_chars": 405,
+      "final_id": "57_also_ultraviolet_irradiation_of_human"
+    },
+    {
+      "id": "the_next_question_to_be_addressed_is_how_the_expression_pattern_compares_with_exposure_to_ultraviolet_both_before_and_after_grape_consumption_this_is_illustrated_by_the_comparison_of_no_grape_consumption_with_ultraviolet_exposure_and_two_weeks_of_grape_consumption_with_ultraviolet_exposure_in_this_case_with_ultraviolet_exposed_specimens_19225_transcripts_were_shared_between_the_two_samples_whereas_2750_and_3443_unique_transcripts_were_observed_with_the_pre_grape_and_post_grape_samples_respectively",
+      "title": "The next question to be addressed is how the expression pattern compares with exposure to ultraviolet, both before and after grape consumption. This is illustrated by the comparison of no grape consumption with ultraviolet exposure and two weeks of grape consumption with ultraviolet exposure. In this case, with ultraviolet-exposed specimens, 19,225 transcripts were shared between the two samples, whereas 2750 and 3443 unique transcripts were observed with the pre-grape and post-grape samples, respectively.",
+      "text": "The next question to be addressed is how the expression pattern compares with exposure to ultraviolet, both before and after grape consumption. This is illustrated by the comparison of no grape consumption with ultraviolet exposure and two weeks of grape consumption with ultraviolet exposure. In this case, with ultraviolet-exposed specimens, 19,225 transcripts were shared between the two samples, whereas 2750 and 3443 unique transcripts were observed with the pre-grape and post-grape samples, respectively.",
+      "index": 58,
+      "paragraph_count": 1,
+      "total_chars": 511,
+      "final_id": "58_the_next_question_to_be"
+    },
+    {
+      "id": "finally_the_results_obtained_with_and_without_ultraviolet_exposure_were_compared_following_two_weeks_of_grape_consumption_this_is_illustrated_with_two_weeks_of_grape_consumption_with_no_ultraviolet_irradiation_versus_two_weeks_of_grape_consumption_with_ultraviolet_irradiation_the_results_showed_20687_transcripts_shared_between_the_two_samples_with_3116_and_1981_unique_transcripts_observed_in_the_no_ultraviolet_and_ultraviolet_samples_respectively_an_overlay_of_all_these_data_is_provided_in_the_venn_diagram_that_includes_all_four_specimens_as_expected_based_on_the_results_described_above_each_of_the_four_specimens_showed_unique_expression_patterns_not_in_common_with_one_another_relative_to_the_side_by_side_comparisons_however_the_number_of_unique_transcripts_was_reduced_by_roughly_two_to_threefold_to_the_range_of_800_to_1200_it_is_likely_that_some_of_these_phenotypic_changes_induced_by_grape_consumption_have_downstream_consequences_that_affect_responses_to_ultraviolet_irradiation_numerically_the_same_patterns_of_gene_expression_were_observed_with_three_additional_human_subjects_we_are_currently_in_the_process_of_identifying_differentially_expressed_genes_and_interpreting_the_biological_relevance_of_the_changes",
+      "title": "Finally, the results obtained with and without ultraviolet exposure were compared following two weeks of grape consumption. This is illustrated with two weeks of grape consumption with no ultraviolet irradiation versus two weeks of grape consumption with ultraviolet irradiation. The results showed 20,687 transcripts shared between the two samples, with 3116 and 1981 unique transcripts observed in the no ultraviolet and ultraviolet samples, respectively. An overlay of all these data is provided in the Venn diagram that includes all four specimens. As expected, based on the results described above, each of the four specimens showed unique expression patterns not in common with one another. Relative to the side-by-side comparisons, however, the number of unique transcripts was reduced by roughly two- to threefold, to the range of 800 to 1200. It is likely that some of these phenotypic changes induced by grape consumption have downstream consequences that affect responses to ultraviolet irradiation. Numerically, the same patterns of gene expression were observed with three additional human subjects. We are currently in the process of identifying differentially expressed genes and interpreting the biological relevance of the changes.",
+      "text": "Finally, the results obtained with and without ultraviolet exposure were compared following two weeks of grape consumption. This is illustrated with two weeks of grape consumption with no ultraviolet irradiation versus two weeks of grape consumption with ultraviolet irradiation. The results showed 20,687 transcripts shared between the two samples, with 3116 and 1981 unique transcripts observed in the no ultraviolet and ultraviolet samples, respectively. An overlay of all these data is provided in the Venn diagram that includes all four specimens. As expected, based on the results described above, each of the four specimens showed unique expression patterns not in common with one another. Relative to the side-by-side comparisons, however, the number of unique transcripts was reduced by roughly two- to threefold, to the range of 800 to 1200. It is likely that some of these phenotypic changes induced by grape consumption have downstream consequences that affect responses to ultraviolet irradiation. Numerically, the same patterns of gene expression were observed with three additional human subjects. We are currently in the process of identifying differentially expressed genes and interpreting the biological relevance of the changes.",
+      "index": 59,
+      "paragraph_count": 1,
+      "total_chars": 1248,
+      "final_id": "59_finally_the_results_obtained_with"
+    },
+    {
+      "id": "conclusions_and_future_directions_the_skin_is_often_considered_the_largest_organ_of_the_human_body_representing_about_15_percent_of_total_body_weight_exposure_of_the_skin_to_ultraviolet_irradiation_emanating_from_the_sun_can_lead_to_many_untoward_disorders_the_most_threatening_being_cancer_clearly_the_most_definitive_way_to_prevent_such_problems_is_to_avoid_exposure_by_the_use_of_clothing_sunscreens_etc_nonetheless_the_incidence_of_skin_cancer_remains_high_although_the_majority_of_cases_can_be_completely_resolved_if_detected_at_an_early_stage_and_surgically_eliminated_presently_more_than_two_people_die_of_skin_cancer_every_hour_in_the_united_states_overall_it_seems_reasonable_to_explore_how_natural_components_of_the_diet_may_affect_the_risk_of_skin_cancer",
+      "title": "Conclusions and Future Directions. The skin is often considered the largest organ of the human body, representing about 15 percent of total body weight. Exposure of the skin to ultraviolet irradiation emanating from the sun can lead to many untoward disorders, the most threatening being cancer. Clearly, the most definitive way to prevent such problems is to avoid exposure by the use of clothing, sunscreens, etc. Nonetheless, the incidence of skin cancer remains high. Although the majority of cases can be completely resolved if detected at an early stage and surgically eliminated, presently, more than two people die of skin cancer every hour in the United States. Overall, it seems reasonable to explore how natural components of the diet may affect the risk of skin cancer.",
+      "text": "Conclusions and Future Directions. The skin is often considered the largest organ of the human body, representing about 15 percent of total body weight. Exposure of the skin to ultraviolet irradiation emanating from the sun can lead to many untoward disorders, the most threatening being cancer. Clearly, the most definitive way to prevent such problems is to avoid exposure by the use of clothing, sunscreens, etc. Nonetheless, the incidence of skin cancer remains high. Although the majority of cases can be completely resolved if detected at an early stage and surgically eliminated, presently, more than two people die of skin cancer every hour in the United States. Overall, it seems reasonable to explore how natural components of the diet may affect the risk of skin cancer.",
+      "index": 60,
+      "paragraph_count": 1,
+      "total_chars": 781,
+      "final_id": "60_conclusions_and_future_directions_the"
+    },
+    {
+      "id": "in_this_context_we_and_others_have_demonstrated_that_grape_consumption_is_capable_of_increasing_the_level_of_ultraviolet_exposure_required_to_induce_erythema_an_increase_in_the_minimal_erythema_dose_suggests_increased_resistance_to_ultraviolet_irradiation_and_by_implication_a_reduction_in_the_risk_of_damage_at_a_fixed_exposure_level_but_perhaps_more_importantly_following_grape_consumption_biomarkers_of_skin_carcinogenesis_are_up_and_downregulated_in_a_manner_that_suggests_protection_it_will_be_important_to_have_a_detailed_mechanistic_understanding_of_these_ameliorative_responses_both_in_the_context_of_how_diet_may_affect_this_public_health_risk_and_what_strategies_may_be_considered_in_general_to_augment_natural_defense_mechanisms_and_reduce_risk",
+      "title": "In this context, we and others have demonstrated that grape consumption is capable of increasing the level of ultraviolet exposure required to induce erythema. An increase in the minimal erythema dose suggests increased resistance to ultraviolet irradiation and, by implication, a reduction in the risk of damage at a fixed exposure level. But perhaps more importantly, following grape consumption, biomarkers of skin carcinogenesis are up- and downregulated in a manner that suggests protection. It will be important to have a detailed mechanistic understanding of these ameliorative responses, both in the context of how diet may affect this public health risk and what strategies may be considered in general to augment natural defense mechanisms and reduce risk.",
+      "text": "In this context, we and others have demonstrated that grape consumption is capable of increasing the level of ultraviolet exposure required to induce erythema. An increase in the minimal erythema dose suggests increased resistance to ultraviolet irradiation and, by implication, a reduction in the risk of damage at a fixed exposure level. But perhaps more importantly, following grape consumption, biomarkers of skin carcinogenesis are up- and downregulated in a manner that suggests protection. It will be important to have a detailed mechanistic understanding of these ameliorative responses, both in the context of how diet may affect this public health risk and what strategies may be considered in general to augment natural defense mechanisms and reduce risk.",
+      "index": 61,
+      "paragraph_count": 1,
+      "total_chars": 766,
+      "final_id": "61_in_this_context_we_and"
+    },
+    {
+      "id": "in_the_case_of_grapes_one_constituent_in_particular_has_gained_a_great_deal_of_attention_ie_resveratrol_but_it_is_unlikely_that_the_quantity_of_resveratrol_found_in_a_normal_diet_has_much_or_any_influence_the_grape_as_a_whole_food_with_scores_of_different_phytochemicals_does_have_an_influence_on_the_skin_in_addition_to_enhancing_resistance_to_ultraviolet_as_indicated_by_erythema_as_well_as_modulating_biomarkers_we_have_recently_observed_alteration_of_gene_expression_in_the_skin_of_human_volunteers_after_grape_consumption_this_far_reaching_response_warrants_further_investigation",
+      "title": "In the case of grapes, one constituent in particular has gained a great deal of attention, i.e., resveratrol, but it is unlikely that the quantity of resveratrol found in a normal diet has much or any influence. The grape as a whole food, with scores of different phytochemicals, does have an influence on the skin. In addition to enhancing resistance to ultraviolet as indicated by erythema, as well as modulating biomarkers, we have recently observed alteration of gene expression in the skin of human volunteers after grape consumption. This far-reaching response warrants further investigation.",
+      "text": "In the case of grapes, one constituent in particular has gained a great deal of attention, i.e., resveratrol, but it is unlikely that the quantity of resveratrol found in a normal diet has much or any influence. The grape as a whole food, with scores of different phytochemicals, does have an influence on the skin. In addition to enhancing resistance to ultraviolet as indicated by erythema, as well as modulating biomarkers, we have recently observed alteration of gene expression in the skin of human volunteers after grape consumption. This far-reaching response warrants further investigation.",
+      "index": 62,
+      "paragraph_count": 1,
+      "total_chars": 598,
+      "final_id": "62_in_the_case_of_grapes"
+    },
+    {
+      "id": "as_a_start_with_data_derived_from_the_skin_of_the_human_subjects_using_g_o_enrichment_analysis_for_example_we_can_assess_the_impact_on_biological_processes_cellular_locations_and_molecular_functions_but_what_are_the_pathophysiological_consequences_of_such_alterations_what_type_of_fundamental_mechanisms_contributes_to_the_modulation_of_gene_expression_what_epigenetic_mechanisms_are_involved_we_know_that_grape_consumption_is_not_harmful_and_some_data_suggest_that_grape_consumption_is_beneficial_but_what_are_the_actual_downstream_molecular_pathways_that_are_affected_in_the_skin",
+      "title": "As a start, with data derived from the skin of the human subjects, using G O enrichment analysis, for example, we can assess the impact on biological processes, cellular locations, and molecular functions. But what are the pathophysiological consequences of such alterations? What type of fundamental mechanisms contributes to the modulation of gene expression? What epigenetic mechanisms are involved? We know that grape consumption is not harmful, and some data suggest that grape consumption is beneficial, but what are the actual downstream molecular pathways that are affected in the skin?",
+      "text": "As a start, with data derived from the skin of the human subjects, using G O enrichment analysis, for example, we can assess the impact on biological processes, cellular locations, and molecular functions. But what are the pathophysiological consequences of such alterations? What type of fundamental mechanisms contributes to the modulation of gene expression? What epigenetic mechanisms are involved? We know that grape consumption is not harmful, and some data suggest that grape consumption is beneficial, but what are the actual downstream molecular pathways that are affected in the skin?",
+      "index": 63,
+      "paragraph_count": 1,
+      "total_chars": 594,
+      "final_id": "63_as_a_start_with_data"
+    },
+    {
+      "id": "thus_there_are_many_avenues_to_explore_that_should_lead_us_to_a_better_understanding_of_the_potential_of_grape_consumption_to_influence_human_health_as_well_as_helping_us_to_better_define_the_profound_impact_of_diet_on_human_homeostasis_and_physiology",
+      "title": "Thus, there are many avenues to explore that should lead us to a better understanding of the potential of grape consumption to influence human health, as well as helping us to better define the profound impact of diet on human homeostasis and physiology.",
+      "text": "Thus, there are many avenues to explore that should lead us to a better understanding of the potential of grape consumption to influence human health, as well as helping us to better define the profound impact of diet on human homeostasis and physiology.",
+      "index": 64,
+      "paragraph_count": 1,
+      "total_chars": 254,
+      "final_id": "64_thus_there_are_many_avenues"
+    }
+  ],
+  "entities": [
+    {
+      "category": "CHEMICAL",
+      "term": "Resveratrol",
+      "normalized_name": "Resveratrol",
+      "synonyms": "白藜芦醇"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Resveratrate",
+      "normalized_name": "Resveratrate",
+      "synonyms": "白藜芦醇衍生物"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "trans-Resveratrol",
+      "normalized_name": "trans-Resveratrol",
+      "synonyms": "反式白藜芦醇"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "cis-Resveratrol",
+      "normalized_name": "cis-Resveratrol",
+      "synonyms": "顺式白藜芦醇"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Catechins",
+      "normalized_name": "Catechins",
+      "synonyms": "儿茶素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Anthocyanidins",
+      "normalized_name": "Anthocyanidins",
+      "synonyms": "花青素苷元"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Isorhamnetin",
+      "normalized_name": "Isorhamnetin",
+      "synonyms": "异鼠李素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Polyphenols",
+      "normalized_name": "Polyphenols",
+      "synonyms": "多酚"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Phytochemicals",
+      "normalized_name": "Phytochemicals",
+      "synonyms": "植物化学物"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Phytoalexins",
+      "normalized_name": "Phytoalexins",
+      "synonyms": "植物抗毒素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Melanin",
+      "normalized_name": "Melanin",
+      "synonyms": "黑色素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Eumelanin",
+      "normalized_name": "Eumelanin",
+      "synonyms": "真黑色素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Chromophores",
+      "normalized_name": "Chromophores",
+      "synonyms": "生色团"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Hemoglobin",
+      "normalized_name": "Hemoglobin",
+      "synonyms": "血红蛋白"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Reactive oxygen species",
+      "normalized_name": "Reactive oxygen species",
+      "synonyms": "活性氧"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Singlet oxygen",
+      "normalized_name": "Singlet oxygen",
+      "synonyms": "单线态氧"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Superoxide anion",
+      "normalized_name": "Superoxide anion",
+      "synonyms": "超氧阴离子"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Hydroxyl radical",
+      "normalized_name": "Hydroxyl radical",
+      "synonyms": "羟基自由基"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Hydrogen peroxide",
+      "normalized_name": "Hydrogen peroxide",
+      "synonyms": "过氧化氢"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Nitric oxide",
+      "normalized_name": "Nitric oxide",
+      "synonyms": "一氧化氮"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Peroxynitrite",
+      "normalized_name": "Peroxynitrite",
+      "synonyms": "过氧亚硝酸盐"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Malondialdehyde",
+      "normalized_name": "Malondialdehyde",
+      "synonyms": "丙二醛"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "2'-Deoxyribonic acid",
+      "normalized_name": "2'-Deoxyribonic acid",
+      "synonyms": "2'-脱氧核糖酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "3-Hydroxyphenylacetic acid",
+      "normalized_name": "3-Hydroxyphenylacetic acid",
+      "synonyms": "3-羟基苯乙酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "scyllo-Inositol",
+      "normalized_name": "scyllo-Inositol",
+      "synonyms": "肌醇"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Cyclobutene pyrimidine dimers",
+      "normalized_name": "Cyclobutene pyrimidine dimers",
+      "synonyms": "环丁烯嘧啶二聚体"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "6-4PP",
+      "normalized_name": "6-4 Pyrimidine-pyrimidone photoproducts",
+      "synonyms": "6-4嘧啶-嘧啶酮光产物"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Thymine dimers",
+      "normalized_name": "Thymine dimers",
+      "synonyms": "胸腺嘧啶二聚体"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "7",
+      "normalized_name": "8-Dihydro-8-oxoguanine",
+      "synonyms": "7"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "DOL",
+      "normalized_name": "Dihydro-8-oxoguanine lesions",
+      "synonyms": "二氢-8-氧代鸟嘌呤损伤"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Cytochrome c",
+      "normalized_name": "Cytochrome c",
+      "synonyms": "细胞色素c"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Prostaglandins",
+      "normalized_name": "Prostaglandins",
+      "synonyms": "前列腺素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Histamine",
+      "normalized_name": "Histamine",
+      "synonyms": "组胺"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "ADPR",
+      "normalized_name": "Adenosine diphosphate ribose",
+      "synonyms": "二磷酸腺苷核糖"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Eotaxin",
+      "normalized_name": "Eotaxin",
+      "synonyms": "嗜酸性粒细胞趋化因子"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "IgE",
+      "normalized_name": "Immunoglobulin E",
+      "synonyms": "免疫球蛋白E"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "DMSO",
+      "normalized_name": "Dimethyl sulfoxide",
+      "synonyms": "二甲亚砜"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Collagen",
+      "normalized_name": "Collagen",
+      "synonyms": "胶原蛋白"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Elastin",
+      "normalized_name": "Elastin",
+      "synonyms": "弹性蛋白"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Carotenoids",
+      "normalized_name": "Carotenoids",
+      "synonyms": "类胡萝卜素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Vitamin D",
+      "normalized_name": "Vitamin D",
+      "synonyms": "维生素D"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "p53",
+      "normalized_name": "p53",
+      "synonyms": "肿瘤蛋白p53"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "p21",
+      "normalized_name": "p21/WAF1/CIP1",
+      "synonyms": "细胞周期蛋白依赖性激酶抑制剂1"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "BCL2",
+      "normalized_name": "B-cell lymphoma 2",
+      "synonyms": "B细胞淋巴瘤2"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "Bcl-2",
+      "normalized_name": "B-cell lymphoma 2",
+      "synonyms": "B细胞淋巴瘤2"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "Bax",
+      "normalized_name": "Bcl-2-associated X protein",
+      "synonyms": "Bcl-2相关X蛋白"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "BRAF",
+      "normalized_name": "B-rapidly accelerated fibrosarcoma",
+      "synonyms": "B-RAF"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "NRAS",
+      "normalized_name": "NRAS",
+      "synonyms": "NRAS"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "CDKN2A",
+      "normalized_name": "Cyclin-dependent kinase inhibitor 2A",
+      "synonyms": "细胞周期蛋白依赖性激酶抑制剂2A"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "CDKN2A/p16",
+      "normalized_name": "Cyclin-dependent kinase inhibitor 2A",
+      "synonyms": "p16"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "p14ARF",
+      "normalized_name": "p14/ARF",
+      "synonyms": "p14ARF"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "CDK4",
+      "normalized_name": "Cyclin-dependent kinase 4",
+      "synonyms": "细胞周期蛋白依赖性激酶4"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "MC1R",
+      "normalized_name": "Melanocortin-1 receptor",
+      "synonyms": "黑皮质素-1受体"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "PTCH1",
+      "normalized_name": "Patched 1",
+      "synonyms": "Patched 1"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "PTCH2",
+      "normalized_name": "Patched 2",
+      "synonyms": "Patched 2"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "SMO",
+      "normalized_name": "Smoothened",
+      "synonyms": "Smoothened"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "BAP1",
+      "normalized_name": "BRCA1-associated protein 1",
+      "synonyms": "BRCA1相关蛋白1"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "RB",
+      "normalized_name": "Retinoblastoma protein",
+      "synonyms": "视网膜母细胞瘤蛋白"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "MITF",
+      "normalized_name": "Microphthalmia-associated transcription factor",
+      "synonyms": "小眼畸形相关转录因子"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "NFR2",
+      "normalized_name": "Nuclear factor erythroid 2-related factor 2",
+      "synonyms": "核因子E2相关因子2"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "NF-κB",
+      "normalized_name": "Nuclear factor-kappa B",
+      "synonyms": "核因子κB"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "IκBα",
+      "normalized_name": "Inhibitor of nuclear factor kappa B alpha",
+      "synonyms": "核因子κB抑制蛋白α"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "IKKα",
+      "normalized_name": "IkappaB kinase alpha",
+      "synonyms": "IκB激酶α"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "IKK",
+      "normalized_name": "IkappaB kinase",
+      "synonyms": "IκB激酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "AP-1",
+      "normalized_name": "Activator protein 1",
+      "synonyms": "激活蛋白1"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "MAPK",
+      "normalized_name": "Mitogen-activated protein kinase",
+      "synonyms": "丝裂原活化蛋白激酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "ERK",
+      "normalized_name": "Extracellular signal-regulated kinase",
+      "synonyms": "细胞外信号调节激酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "ERK1/2",
+      "normalized_name": "Extracellular signal-regulated kinase 1/2",
+      "synonyms": "细胞外信号调节激酶1/2"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "MEK",
+      "normalized_name": "MEK",
+      "synonyms": "MEK激酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "JNK",
+      "normalized_name": "c-Jun N-terminal kinase",
+      "synonyms": "c-Jun N-末端激酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "p38",
+      "normalized_name": "p38 MAPK",
+      "synonyms": "p38丝裂原活化蛋白激酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "PI3K",
+      "normalized_name": "Phosphoinositide 3-kinase",
+      "synonyms": "磷脂酰肌醇3-激酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "AKT",
+      "normalized_name": "Protein kinase B",
+      "synonyms": "蛋白激酶B"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "mTOR",
+      "normalized_name": "Mammalian target of rapamycin",
+      "synonyms": "雷帕霉素靶蛋白"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "FOXO",
+      "normalized_name": "Forkhead box O",
+      "synonyms": "叉头框O"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "COX-1",
+      "normalized_name": "Cyclooxygenase-1",
+      "synonyms": "环氧合酶1"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "COX-2",
+      "normalized_name": "Cyclooxygenase-2",
+      "synonyms": "环氧合酶2"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "SIRT1",
+      "normalized_name": "Sirtuin 1",
+      "synonyms": "沉默信息调节因子1"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "NLRP3",
+      "normalized_name": "NOD-like receptor family pyrin domain containing 3",
+      "synonyms": "NOD样受体家族含pyrin结构域蛋白3"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "TRPM2",
+      "normalized_name": "Transient receptor potential melastatin 2",
+      "synonyms": "瞬时受体电位M2型通道"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "γH2AX",
+      "normalized_name": "Phosphorylated histone H2AX",
+      "synonyms": "磷酸化组蛋白H2AX"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "SOD",
+      "normalized_name": "Superoxide dismutase",
+      "synonyms": "超氧化物歧化酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "CAT",
+      "normalized_name": "Catalase",
+      "synonyms": "过氧化氢酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "GPx",
+      "normalized_name": "Glutathione peroxidase",
+      "synonyms": "谷胱甘肽过氧化物酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "HMOX1",
+      "normalized_name": "Heme oxygenase 1",
+      "synonyms": "血红素加氧酶1"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "GST",
+      "normalized_name": "Glutathione S-transferase",
+      "synonyms": "谷胱甘肽S-转移酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "APE/Ref-1",
+      "normalized_name": "Apurinic/apyrimidinic endonuclease 1/redox factor 1",
+      "synonyms": "脱嘌呤/脱嘧啶核酸内切酶1/氧化还原因子1"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "CREB",
+      "normalized_name": "cAMP response element-binding protein",
+      "synonyms": "cAMP反应元件结合蛋白"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "Jun",
+      "normalized_name": "Jun",
+      "synonyms": "Jun转录因子"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "Fox",
+      "normalized_name": "Forkhead box",
+      "synonyms": "叉头框转录因子"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "Myb",
+      "normalized_name": "Myb",
+      "synonyms": "Myb转录因子"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "PKM2",
+      "normalized_name": "Pyruvate kinase M2",
+      "synonyms": "丙酮酸激酶M2"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "MC1R",
+      "normalized_name": "Melanocortin-1 receptor",
+      "synonyms": "黑皮质素1受体"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "α-MSH",
+      "normalized_name": "Alpha-melanocyte-stimulating hormone",
+      "synonyms": "α-促黑素细胞激素"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Skin cancer",
+      "normalized_name": "Skin cancer",
+      "synonyms": "皮肤癌"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Melanoma",
+      "normalized_name": "Melanoma",
+      "synonyms": "黑色素瘤"
+    },
+    {
+      "category": "DISEASE",
+      "term": "NMSC",
+      "normalized_name": "Non-melanoma skin cancer",
+      "synonyms": "非黑色素瘤皮肤癌"
+    },
+    {
+      "category": "DISEASE",
+      "term": "BCC",
+      "normalized_name": "Basal cell carcinoma",
+      "synonyms": "基底细胞癌"
+    },
+    {
+      "category": "DISEASE",
+      "term": "SCC",
+      "normalized_name": "Squamous cell carcinoma",
+      "synonyms": "鳞状细胞癌"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Erythema",
+      "normalized_name": "Erythema",
+      "synonyms": "红斑"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Sunburn",
+      "normalized_name": "Sunburn",
+      "synonyms": "晒伤"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Photoaging",
+      "normalized_name": "Photoaging",
+      "synonyms": "光老化"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Hyperpigmentation",
+      "normalized_name": "Hyperpigmentation",
+      "synonyms": "色素沉着过度"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Type 2 diabetes mellitus",
+      "normalized_name": "Type 2 diabetes mellitus",
+      "synonyms": "2型糖尿病"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Cardiovascular disease",
+      "normalized_name": "Cardiovascular disease",
+      "synonyms": "心血管疾病"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Obesity",
+      "normalized_name": "Obesity",
+      "synonyms": "肥胖"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Inflammation",
+      "normalized_name": "Inflammation",
+      "synonyms": "炎症"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Oxidative stress",
+      "normalized_name": "Oxidative stress",
+      "synonyms": "氧化应激"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Edema",
+      "normalized_name": "Edema",
+      "synonyms": "水肿"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Skin hyperplasia",
+      "normalized_name": "Skin hyperplasia",
+      "synonyms": "皮肤增生"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Epidermal hyperplasia",
+      "normalized_name": "Epidermal hyperplasia",
+      "synonyms": "表皮增生"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "MAPK signaling pathway",
+      "normalized_name": "MAPK signaling pathway",
+      "synonyms": "MAPK信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "NF-κB signaling pathway",
+      "normalized_name": "NF-κB signaling pathway",
+      "synonyms": "核因子κB信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "PI3K/AKT signaling pathway",
+      "normalized_name": "PI3K/AKT signaling pathway",
+      "synonyms": "PI3K/AKT信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "ERK signaling pathway",
+      "normalized_name": "ERK signaling pathway",
+      "synonyms": "ERK信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "p53 signaling pathway",
+      "normalized_name": "p53 signaling pathway",
+      "synonyms": "p53信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "Hedgehog signaling pathway",
+      "normalized_name": "Hedgehog signaling pathway",
+      "synonyms": "Hedgehog信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "Ras/Raf signaling pathway",
+      "normalized_name": "Ras/Raf signaling pathway",
+      "synonyms": "Ras/Raf信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "SIRT1/NLRP3 signaling pathway",
+      "normalized_name": "SIRT1/NLRP3 signaling pathway",
+      "synonyms": "SIRT1/NLRP3信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "TRPM2 signaling pathway",
+      "normalized_name": "TRPM2 signaling pathway",
+      "synonyms": "TRPM2信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "Apoptosis signaling pathway",
+      "normalized_name": "Apoptosis signaling pathway",
+      "synonyms": "凋亡信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "Cell cycle signaling pathway",
+      "normalized_name": "Cell cycle signaling pathway",
+      "synonyms": "细胞周期信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "Nrf2 signaling pathway",
+      "normalized_name": "Nrf2 signaling pathway",
+      "synonyms": "Nrf2信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "DNA repair pathway",
+      "normalized_name": "DNA repair pathway",
+      "synonyms": "DNA修复通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "Nucleotide excision repair",
+      "normalized_name": "Nucleotide excision repair",
+      "synonyms": "核苷酸切除修复"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Vitis vinifera",
+      "normalized_name": "Vitis vinifera",
+      "synonyms": "欧洲葡萄"
+    },
+    {
+      "category": "SPECIES",
+      "term": "SKH-1",
+      "normalized_name": "SKH-1 hairless mouse",
+      "synonyms": "SKH-1无毛小鼠"
+    },
+    {
+      "category": "SPECIES",
+      "term": "SKH:hr-1",
+      "normalized_name": "SKH:hr-1 hairless mouse",
+      "synonyms": "SKH:hr-1无毛小鼠"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Mus musculus",
+      "normalized_name": "Mus musculus",
+      "synonyms": "小鼠"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Homo sapiens",
+      "normalized_name": "Homo sapiens",
+      "synonyms": "人类"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Human keratinocytes",
+      "normalized_name": "Human keratinocytes",
+      "synonyms": "人角质形成细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Melanocytes",
+      "normalized_name": "Melanocytes",
+      "synonyms": "黑素细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Neutrophils",
+      "normalized_name": "Neutrophils",
+      "synonyms": "中性粒细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Macrophages",
+      "normalized_name": "Macrophages",
+      "synonyms": "巨噬细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Mast cells",
+      "normalized_name": "Mast cells",
+      "synonyms": "肥大细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Resident macrophages",
+      "normalized_name": "Resident macrophages",
+      "synonyms": "驻留巨噬细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Keratinocytes",
+      "normalized_name": "Keratinocytes",
+      "synonyms": "角质形成细胞"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Skin",
+      "normalized_name": "Skin",
+      "synonyms": "皮肤"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Epidermis",
+      "normalized_name": "Epidermis",
+      "synonyms": "表皮"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Dermis",
+      "normalized_name": "Dermis",
+      "synonyms": "真皮"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Hypodermis",
+      "normalized_name": "Hypodermis",
+      "synonyms": "皮下组织"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Subcutaneous tissue",
+      "normalized_name": "Subcutaneous tissue",
+      "synonyms": "皮下组织"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Basal layer",
+      "normalized_name": "Basal layer",
+      "synonyms": "基底层"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Stratum corneum",
+      "normalized_name": "Stratum corneum",
+      "synonyms": "角质层"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Melanosomes",
+      "normalized_name": "Melanosomes",
+      "synonyms": "黑素体"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Hair follicles",
+      "normalized_name": "Hair follicles",
+      "synonyms": "毛囊"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Sweat glands",
+      "normalized_name": "Sweat glands",
+      "synonyms": "汗腺"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Blood vessels",
+      "normalized_name": "Blood vessels",
+      "synonyms": "血管"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Nerve endings",
+      "normalized_name": "Nerve endings",
+      "synonyms": "神经末梢"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Connective tissue",
+      "normalized_name": "Connective tissue",
+      "synonyms": "结缔组织"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Adipocytes",
+      "normalized_name": "Adipocytes",
+      "synonyms": "脂肪细胞"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Merkel cells",
+      "normalized_name": "Merkel cells",
+      "synonyms": "Merkel细胞"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Langerhans cells",
+      "normalized_name": "Langerhans cells",
+      "synonyms": "朗格汉斯细胞"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Oxidative stress",
+      "normalized_name": "Oxidative stress",
+      "synonyms": "氧化应激"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Inflammation",
+      "normalized_name": "Inflammation",
+      "synonyms": "炎症"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Apoptosis",
+      "normalized_name": "Apoptosis",
+      "synonyms": "细胞凋亡"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Cell cycle arrest",
+      "normalized_name": "Cell cycle arrest",
+      "synonyms": "细胞周期阻滞"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "G1 phase arrest",
+      "normalized_name": "G1 phase arrest",
+      "synonyms": "G1期阻滞"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "S phase arrest",
+      "normalized_name": "S phase arrest",
+      "synonyms": "S期阻滞"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "G2/M phase arrest",
+      "normalized_name": "G2/M phase arrest",
+      "synonyms": "G2/M期阻滞"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Cell proliferation",
+      "normalized_name": "Cell proliferation",
+      "synonyms": "细胞增殖"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Malignant transformation",
+      "normalized_name": "Malignant transformation",
+      "synonyms": "恶性转化"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Carcinogenesis",
+      "normalized_name": "Carcinogenesis",
+      "synonyms": "癌变"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Tumorigenesis",
+      "normalized_name": "Tumorigenesis",
+      "synonyms": "肿瘤发生"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "DNA damage",
+      "normalized_name": "DNA damage",
+      "synonyms": "DNA损伤"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "DNA repair",
+      "normalized_name": "DNA repair",
+      "synonyms": "DNA修复"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Genomic stability",
+      "normalized_name": "Genomic stability",
+      "synonyms": "基因组稳定性"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Oxidation",
+      "normalized_name": "Oxidation",
+      "synonyms": "氧化"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Reduction",
+      "normalized_name": "Reduction",
+      "synonyms": "还原"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Angiogenesis",
+      "normalized_name": "Angiogenesis",
+      "synonyms": "血管生成"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Metastasis",
+      "normalized_name": "Metastasis",
+      "synonyms": "转移"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Invasion",
+      "normalized_name": "Invasion",
+      "synonyms": "侵袭"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Phagocytosis",
+      "normalized_name": "Phagocytosis",
+      "synonyms": "吞噬作用"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Chemotaxis",
+      "normalized_name": "Chemotaxis",
+      "synonyms": "趋化性"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Neutrophil infiltration",
+      "normalized_name": "Neutrophil infiltration",
+      "synonyms": "中性粒细胞浸润"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Macrophage infiltration",
+      "normalized_name": "Macrophage infiltration",
+      "synonyms": "巨噬细胞浸润"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Mast cell infiltration",
+      "normalized_name": "Mast cell infiltration",
+      "synonyms": "肥大细胞浸润"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Leukocyte infiltration",
+      "normalized_name": "Leukocyte infiltration",
+      "synonyms": "白细胞浸润"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Melanogenesis",
+      "normalized_name": "Melanogenesis",
+      "synonyms": "黑色素生成"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Photoprotection",
+      "normalized_name": "Photoprotection",
+      "synonyms": "光保护"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Photoaging",
+      "normalized_name": "Photoaging",
+      "synonyms": "光老化"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Skin aging",
+      "normalized_name": "Skin aging",
+      "synonyms": "皮肤老化"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Skin barrier function",
+      "normalized_name": "Skin barrier function",
+      "synonyms": "皮肤屏障功能"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Sunburn cell formation",
+      "normalized_name": "Sunburn cell formation",
+      "synonyms": "晒伤细胞形成"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Epithelial hyperplasia",
+      "normalized_name": "Epithelial hyperplasia",
+      "synonyms": "上皮增生"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Mast cell degranulation",
+      "normalized_name": "Mast cell degranulation",
+      "synonyms": "肥大细胞脱颗粒"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Oxidative DNA damage",
+      "normalized_name": "Oxidative DNA damage",
+      "synonyms": "氧化性DNA损伤"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Lipid peroxidation",
+      "normalized_name": "Lipid peroxidation",
+      "synonyms": "脂质过氧化"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape",
+      "normalized_name": "Grape",
+      "synonyms": "葡萄"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Table grape",
+      "normalized_name": "Table grape",
+      "synonyms": "鲜食葡萄"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape powder",
+      "normalized_name": "Grape powder",
+      "synonyms": "葡萄粉"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Dietary grape",
+      "normalized_name": "Dietary grape",
+      "synonyms": "膳食葡萄"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape juice",
+      "normalized_name": "Grape juice",
+      "synonyms": "葡萄汁"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Red wine",
+      "normalized_name": "Red wine",
+      "synonyms": "红葡萄酒"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Resveratrol",
+      "normalized_name": "Resveratrol",
+      "synonyms": "白藜芦醇"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Resveratrate",
+      "normalized_name": "Resveratrate",
+      "synonyms": "白藜芦醇衍生物"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Topical resveratrol",
+      "normalized_name": "Topical resveratrol",
+      "synonyms": "外用白藜芦醇"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape seed extract",
+      "normalized_name": "Grape seed extract",
+      "synonyms": "葡萄籽提取物"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape skin extract",
+      "normalized_name": "Grape skin extract",
+      "synonyms": "葡萄皮提取物"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape pomace",
+      "normalized_name": "Grape pomace",
+      "synonyms": "葡萄渣"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Antioxidants",
+      "normalized_name": "Antioxidants",
+      "synonyms": "抗氧化剂"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Placebo",
+      "normalized_name": "Placebo",
+      "synonyms": "安慰剂"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Sunscreen",
+      "normalized_name": "Sunscreen",
+      "synonyms": "防晒霜"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Topical agent",
+      "normalized_name": "Topical agent",
+      "synonyms": "外用制剂"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "MED",
+      "normalized_name": "Minimal erythema dose",
+      "synonyms": "最小红斑剂量"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "SPF",
+      "normalized_name": "Sun protection factor",
+      "synonyms": "防晒系数"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Fitzpatrick skin type",
+      "normalized_name": "Fitzpatrick skin type",
+      "synonyms": "菲茨帕特里克皮肤分型"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Melanin index",
+      "normalized_name": "Melanin index",
+      "synonyms": "黑色素指数"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Chromameter",
+      "normalized_name": "Chromameter",
+      "synonyms": "色度计"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Immunohistochemistry",
+      "normalized_name": "Immunohistochemistry",
+      "synonyms": "免疫组织化学"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "RNA-seq",
+      "normalized_name": "RNA sequencing",
+      "synonyms": "RNA测序"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "TMT",
+      "normalized_name": "Tandem mass tag",
+      "synonyms": "tandem mass tag定量蛋白组学"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Proteomics",
+      "normalized_name": "Proteomics",
+      "synonyms": "蛋白质组学"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Metabolomics",
+      "normalized_name": "Metabolomics",
+      "synonyms": "代谢组学"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Microbiome analysis",
+      "normalized_name": "Microbiome analysis",
+      "synonyms": "微生物组分析"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "KEGG pathway analysis",
+      "normalized_name": "KEGG pathway analysis",
+      "synonyms": "KEGG通路分析"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "GO enrichment analysis",
+      "normalized_name": "Gene Ontology enrichment analysis",
+      "synonyms": "基因本体富集分析"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "ImageJ quantification",
+      "normalized_name": "ImageJ quantification",
+      "synonyms": "ImageJ图像定量"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "ELISA",
+      "normalized_name": "Enzyme-linked immunosorbent assay",
+      "synonyms": "酶联免疫吸附测定"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Western blot",
+      "normalized_name": "Western blot",
+      "synonyms": "蛋白质印迹"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Histopathology",
+      "normalized_name": "Histopathology",
+      "synonyms": "组织病理学"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Biopsy",
+      "normalized_name": "Biopsy",
+      "synonyms": "活检"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Serum IgE",
+      "normalized_name": "Serum immunoglobulin E",
+      "synonyms": "血清免疫球蛋白E"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Eotaxin",
+      "normalized_name": "Eotaxin",
+      "synonyms": "嗜酸性粒细胞趋化因子"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "UV irradiation",
+      "normalized_name": "UV irradiation",
+      "synonyms": "紫外线照射"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "UVB irradiation",
+      "normalized_name": "UVB irradiation",
+      "synonyms": "UVB照射"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "UVA irradiation",
+      "normalized_name": "UVA irradiation",
+      "synonyms": "UVA照射"
+    },
+    {
+      "category": "MISC",
+      "term": "Phytochemicals",
+      "normalized_name": "Phytochemicals",
+      "synonyms": "植物化学物"
+    },
+    {
+      "category": "MISC",
+      "term": "Polyphenols",
+      "normalized_name": "Polyphenols",
+      "synonyms": "多酚"
+    },
+    {
+      "category": "MISC",
+      "term": "Bioactive compounds",
+      "normalized_name": "Bioactive compounds",
+      "synonyms": "生物活性化合物"
+    },
+    {
+      "category": "MISC",
+      "term": "Phytoalexins",
+      "normalized_name": "Phytoalexins",
+      "synonyms": "植物抗毒素"
+    },
+    {
+      "category": "MISC",
+      "term": "Antioxidants",
+      "normalized_name": "Antioxidants",
+      "synonyms": "抗氧化剂"
+    },
+    {
+      "category": "MISC",
+      "term": "Free radicals",
+      "normalized_name": "Free radicals",
+      "synonyms": "自由基"
+    },
+    {
+      "category": "MISC",
+      "term": "Chemoprevention",
+      "normalized_name": "Chemoprevention",
+      "synonyms": "化学预防"
+    },
+    {
+      "category": "MISC",
+      "term": "Chromophores",
+      "normalized_name": "Chromophores",
+      "synonyms": "生色团"
+    },
+    {
+      "category": "MISC",
+      "term": "Carcinogens",
+      "normalized_name": "Carcinogens",
+      "synonyms": "致癌物"
+    },
+    {
+      "category": "MISC",
+      "term": "Oncogenes",
+      "normalized_name": "Oncogenes",
+      "synonyms": "癌基因"
+    },
+    {
+      "category": "MISC",
+      "term": "Tumor suppressors",
+      "normalized_name": "Tumor suppressors",
+      "synonyms": "肿瘤抑制基因"
+    },
+    {
+      "category": "MISC",
+      "term": "Gut-skin axis",
+      "normalized_name": "Gut-skin axis",
+      "synonyms": "肠-皮肤轴"
+    },
+    {
+      "category": "MISC",
+      "term": "Microbiome",
+      "normalized_name": "Microbiome",
+      "synonyms": "微生物组"
+    },
+    {
+      "category": "MISC",
+      "term": "Metabolome",
+      "normalized_name": "Metabolome",
+      "synonyms": "代谢组"
+    },
+    {
+      "category": "MISC",
+      "term": "Phenotypic expression",
+      "normalized_name": "Phenotypic expression",
+      "synonyms": "表型表达"
+    },
+    {
+      "category": "MISC",
+      "term": "Gene expression",
+      "normalized_name": "Gene expression",
+      "synonyms": "基因表达"
+    },
+    {
+      "category": "MISC",
+      "term": "Transcriptional regulation",
+      "normalized_name": "Transcriptional regulation",
+      "synonyms": "转录调控"
+    },
+    {
+      "category": "MISC",
+      "term": "Nutrigenomics",
+      "normalized_name": "Nutrigenomics",
+      "synonyms": "营养基因组学"
+    },
+    {
+      "category": "MISC",
+      "term": "Pharmacogenomics",
+      "normalized_name": "Pharmacogenomics",
+      "synonyms": "药物基因组学"
+    },
+    {
+      "category": "MISC",
+      "term": "Epigenetics",
+      "normalized_name": "Epigenetics",
+      "synonyms": "表观遗传学"
+    },
+    {
+      "category": "MISC",
+      "term": "Homeostasis",
+      "normalized_name": "Homeostasis",
+      "synonyms": "稳态"
+    },
+    {
+      "category": "MISC",
+      "term": "Health span",
+      "normalized_name": "Health span",
+      "synonyms": "健康寿命"
+    },
+    {
+      "category": "MISC",
+      "term": "ADME",
+      "normalized_name": "Absorption distribution metabolism elimination",
+      "synonyms": "吸收分布代谢排泄"
+    },
+    {
+      "category": "MISC",
+      "term": "Bioavailability",
+      "normalized_name": "Bioavailability",
+      "synonyms": "生物利用度"
+    },
+    {
+      "category": "MISC",
+      "term": "Pharmacokinetics",
+      "normalized_name": "Pharmacokinetics",
+      "synonyms": "药代动力学"
+    },
+    {
+      "category": "MISC",
+      "term": "Pharmacodynamics",
+      "normalized_name": "Pharmacodynamics",
+      "synonyms": "药效学"
+    },
+    {
+      "category": "MISC",
+      "term": "Clinical trial",
+      "normalized_name": "Clinical trial",
+      "synonyms": "临床试验"
+    },
+    {
+      "category": "MISC",
+      "term": "Randomized controlled trial",
+      "normalized_name": "Randomized controlled trial",
+      "synonyms": "随机对照试验"
+    },
+    {
+      "category": "MISC",
+      "term": "Double-blind study",
+      "normalized_name": "Double-blind study",
+      "synonyms": "双盲研究"
+    },
+    {
+      "category": "MISC",
+      "term": "Placebo-controlled study",
+      "normalized_name": "Placebo-controlled study",
+      "synonyms": "安慰剂对照研究"
+    },
+    {
+      "category": "MISC",
+      "term": "Preclinical study",
+      "normalized_name": "Preclinical study",
+      "synonyms": "临床前研究"
+    },
+    {
+      "category": "MISC",
+      "term": "Animal model",
+      "normalized_name": "Animal model",
+      "synonyms": "动物模型"
+    },
+    {
+      "category": "MISC",
+      "term": "In vivo",
+      "normalized_name": "In vivo",
+      "synonyms": "体内"
+    },
+    {
+      "category": "MISC",
+      "term": "In vitro",
+      "normalized_name": "In vitro",
+      "synonyms": "体外"
+    },
+    {
+      "category": "MISC",
+      "term": "Xenograft model",
+      "normalized_name": "Xenograft model",
+      "synonyms": "异种移植模型"
+    },
+    {
+      "category": "MISC",
+      "term": "Syngeneic model",
+      "normalized_name": "Syngeneic model",
+      "synonyms": "同基因模型"
+    },
+    {
+      "category": "MISC",
+      "term": "Biomarkers",
+      "normalized_name": "Biomarkers",
+      "synonyms": "生物标志物"
+    },
+    {
+      "category": "MISC",
+      "term": "Inflammatory markers",
+      "normalized_name": "Inflammatory markers",
+      "synonyms": "炎症标志物"
+    },
+    {
+      "category": "MISC",
+      "term": "Oxidative markers",
+      "normalized_name": "Oxidative markers",
+      "synonyms": "氧化标志物"
+    },
+    {
+      "category": "MISC",
+      "term": "DNA repair mechanisms",
+      "normalized_name": "DNA repair mechanisms",
+      "synonyms": "DNA修复机制"
+    },
+    {
+      "category": "MISC",
+      "term": "Nucleotide excision repair",
+      "normalized_name": "Nucleotide excision repair",
+      "synonyms": "核苷酸切除修复"
+    },
+    {
+      "category": "MISC",
+      "term": "Immune surveillance",
+      "normalized_name": "Immune surveillance",
+      "synonyms": "免疫监视"
+    },
+    {
+      "category": "MISC",
+      "term": "Innate immune response",
+      "normalized_name": "Innate immune response",
+      "synonyms": "先天免疫应答"
+    },
+    {
+      "category": "MISC",
+      "term": "Inflammasome",
+      "normalized_name": "Inflammasome",
+      "synonyms": "炎症小体"
+    }
+  ],
+  "entities_count": 271
+}

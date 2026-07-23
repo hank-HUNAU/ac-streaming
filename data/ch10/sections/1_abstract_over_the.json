@@ -1,0 +1,40 @@
+{
+  "id": "1_abstract_over_the",
+  "title": "Abstract. Over the past 25 years, scientific investigations supported by the California Table Grape Commission have led to the publication of over 60 peer-reviewed manuscripts relevant to grapes and health. Further, over 30 clinical investigations have been or are being conducted to explore the potential health benefits of grapes. Here, we provide an overview of the California Table Grape Commission Grapes and Health initiative, as well as synopses of published work. Citations of the literature references are provided, along with summaries in the following areas: antioxidant status, bladder health, breast health, bone and joint health, brain health, eye health, gastrointestinal health, heart health, inflammation, immune health, kidney health, liver health, metabolic health, muscle health, ovarian health, prostate health, and skin health.",
+  "sentences": [
+    {
+      "text": "Abstract.",
+      "start": 0.1,
+      "end": 0.988,
+      "word_count": 1
+    },
+    {
+      "text": "Over the past 25 years, scientific investigations supported by the California Table Grape Commission have led to the publication of over 60 peer-reviewed manuscripts relevant to grapes and health.",
+      "start": 1.837,
+      "end": 14.6,
+      "word_count": 29
+    },
+    {
+      "text": "Further, over 30 clinical investigations have been or are being conducted to explore the potential health benefits of grapes.",
+      "start": 14.812,
+      "end": 22.337,
+      "word_count": 19
+    },
+    {
+      "text": "Here, we provide an overview of the California Table Grape Commission Grapes and Health initiative, as well as synopses of published work.",
+      "start": 22.637,
+      "end": 31.25,
+      "word_count": 22
+    },
+    {
+      "text": "Citations of the literature references are provided, along with summaries in the following areas: antioxidant status, bladder health, breast health, bone and joint health, brain health, eye health, gastrointestinal health, heart health, inflammation, immune health, kidney health, liver health, metabolic health, muscle health, ovarian health, prostate health, and skin health.",
+      "start": 31.262,
+      "end": 53.85,
+      "word_count": 49
+    }
+  ],
+  "sentence_count": 5,
+  "word_count": 120,
+  "total_duration": 53.85,
+  "voice": "en-US-AriaNeural"
+}

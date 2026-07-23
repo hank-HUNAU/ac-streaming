@@ -1,0 +1,118 @@
+{
+  "id": "4_epidemiology_of_skin",
+  "title": "Epidemiology of Skin Cancer. There are three main types of skin cancer. The origin of the mutated cell determines the type of cancer. Basal cell carcinoma develops from the transformation of basal skin cells. It is the most common type of skin cancer. Squamous cell carcinoma originates in squamous cells and is the second most common type of skin cancer. Basal cell carcinoma and squamous cell carcinoma are categorized as non-melanoma skin cancers. Melanoma arises from pigment-producing melanocytes in the basal layer of the epidermis. This is the most aggressive skin cancer and has a high potential to spread.",
+  "sentences": [
+    {
+      "text": "Epidemiology of Skin Cancer.",
+      "start": 0.1,
+      "end": 2.125,
+      "word_count": 4
+    },
+    {
+      "text": "There are three main types of skin cancer.",
+      "start": 2.987,
+      "end": 5.25,
+      "word_count": 8
+    },
+    {
+      "text": "The origin of the mutated cell determines the type of cancer.",
+      "start": 6.125,
+      "end": 9.55,
+      "word_count": 11
+    },
+    {
+      "text": "Basal cell carcinoma develops from the transformation of basal skin cells.",
+      "start": 10.412,
+      "end": 14.762,
+      "word_count": 11
+    },
+    {
+      "text": "It is the most common type of skin cancer.",
+      "start": 15.625,
+      "end": 17.938,
+      "word_count": 9
+    },
+    {
+      "text": "Squamous cell carcinoma originates in squamous cells and is the second most common type of skin cancer.",
+      "start": 18.812,
+      "end": 24.825,
+      "word_count": 17
+    },
+    {
+      "text": "Basal cell carcinoma and squamous cell carcinoma are categorized as non-melanoma skin cancers.",
+      "start": 25.688,
+      "end": 31.613,
+      "word_count": 13
+    },
+    {
+      "text": "Melanoma arises from pigment-producing melanocytes in the basal layer of the epidermis.",
+      "start": 32.475,
+      "end": 37.562,
+      "word_count": 12
+    },
+    {
+      "text": "This is the most aggressive skin cancer and has a high potential to spread.",
+      "start": 38.425,
+      "end": 42.288,
+      "word_count": 14
+    },
+    {
+      "text": "The incidence rate of melanoma in the United States increased by 31.5 percent between 2011 and 2019.",
+      "start": 43.15,
+      "end": 53.575,
+      "word_count": 17
+    },
+    {
+      "text": "The American Cancer Society estimates that over 104,000 people in the United States will be newly diagnosed with melanoma in 2025.",
+      "start": 53.587,
+      "end": 63.263,
+      "word_count": 21
+    },
+    {
+      "text": "White populations have a higher incidence of melanoma than populations with darker skin tones.",
+      "start": 63.275,
+      "end": 69.825,
+      "word_count": 14
+    },
+    {
+      "text": "This cancer disparity is largely due to the larger melanosomes that contain more melanin in dark-skinned people, which absorb ultraviolet more effectively than the smaller melanosomes in white people.",
+      "start": 69.838,
+      "end": 81.75,
+      "word_count": 29
+    },
+    {
+      "text": "Unfortunately, people with darker skin tones are more likely to be diagnosed with advanced stage melanoma when the cancer has already disseminated to other parts of the body.",
+      "start": 81.763,
+      "end": 91.463,
+      "word_count": 28
+    },
+    {
+      "text": "The survival rate for patients diagnosed with advanced stage disseminated melanoma is 35 percent compared to 99 percent survival rate for patients diagnosed with melanoma before it spreads.",
+      "start": 91.475,
+      "end": 105.525,
+      "word_count": 28
+    },
+    {
+      "text": "Non-melanoma skin cancer, which includes basal cell carcinoma and squamous cell carcinoma, is the most common type of cancer in the United States.",
+      "start": 105.537,
+      "end": 114.325,
+      "word_count": 23
+    },
+    {
+      "text": "Over 5 million people are diagnosed with non-melanoma skin cancer each year, of which approximately 75 to 80 percent are basal cell carcinoma.",
+      "start": 114.338,
+      "end": 125.662,
+      "word_count": 23
+    },
+    {
+      "text": "Non-melanoma skin cancer incidence continues to increase every year.",
+      "start": 125.675,
+      "end": 126.05,
+      "word_count": 1
+    }
+  ],
+  "sentence_count": 18,
+  "word_count": 283,
+  "total_duration": 126.05,
+  "voice": "en-US-AriaNeural"
+}

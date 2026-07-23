@@ -1,0 +1,64 @@
+{
+  "id": "2_introduction_the_gastrointestinal",
+  "title": "Introduction. The gastrointestinal tract serves as a highly selective barrier that is essential for the absorption of nutrients. The intestinal epithelium and intestinal mucus form a key physical defense to prevent resident and environmental toxic compounds, microbes, and pathogens from entering host circulation and tissues. Tight junction proteins, including occludins, claudins, and zonula occludins, are crucial for the maintenance of epithelial barrier integrity. When the intestinal barrier integrity is compromised, the resultant influx of intestine lumen content, including gut bacteria, can trigger exaggerated mucosal immune responses. Compromised intestinal barrier function leads to chronic local and even systemic inflammatory conditions that contribute to the development of chronic diseases, including inflammatory bowel diseases, obesity, and metabolic disorders.",
+  "sentences": [
+    {
+      "text": "Introduction.",
+      "start": 0.1,
+      "end": 1.05,
+      "word_count": 1
+    },
+    {
+      "text": "The gastrointestinal tract serves as a highly selective barrier that is essential for the absorption of nutrients.",
+      "start": 1.913,
+      "end": 8.037,
+      "word_count": 17
+    },
+    {
+      "text": "The intestinal epithelium and intestinal mucus form a key physical defense to prevent resident and environmental toxic compounds, microbes, and pathogens from entering host circulation and tissues.",
+      "start": 8.912,
+      "end": 20.85,
+      "word_count": 27
+    },
+    {
+      "text": "Tight junction proteins, including occludins, claudins, and zonula occludins, are crucial for the maintenance of epithelial barrier integrity.",
+      "start": 21.712,
+      "end": 30.05,
+      "word_count": 18
+    },
+    {
+      "text": "When the intestinal barrier integrity is compromised, the resultant influx of intestine lumen content, including gut bacteria, can trigger exaggerated mucosal immune responses.",
+      "start": 30.913,
+      "end": 41.888,
+      "word_count": 23
+    },
+    {
+      "text": "Compromised intestinal barrier function leads to chronic local and even systemic inflammatory conditions that contribute to the development of chronic diseases, including inflammatory bowel diseases, obesity, and metabolic disorders.",
+      "start": 42.75,
+      "end": 56.388,
+      "word_count": 29
+    },
+    {
+      "text": "Accumulating research indicates that grapes and grape polyphenols have impacts on gut barrier integrity, gut microbiota, intestinal inflammation, and oxidative stress.",
+      "start": 57.263,
+      "end": 67.5,
+      "word_count": 21
+    },
+    {
+      "text": "This review focuses on the impact of grapes and grape polyphenols on intestinal barrier functions, their modulation of gut microbes and intestinal inflammation in cell-based studies, experimental animal models, and clinical studies in humans.",
+      "start": 68.375,
+      "end": 82.8,
+      "word_count": 34
+    },
+    {
+      "text": "We will also discuss the mechanisms underlying grape polyphenol-mediated protection of gut health and the role of these compounds in intestine-associated diseases.",
+      "start": 83.675,
+      "end": 92.5,
+      "word_count": 22
+    }
+  ],
+  "sentence_count": 9,
+  "word_count": 192,
+  "total_duration": 92.5,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,184 @@
+{
+  "id": "13_heart_health_grape",
+  "title": "Heart Health. Grape Polyphenols Reduce Blood Pressure and Increase Flow-Mediated Vasodilation in Men with Metabolic Syndrome. In this study, men with metabolic syndrome consumed either grape powder or a placebo for 30 days then switched to the alternate diet for 30 days following a 3-week washout period. Adding grapes to the diet improved vascular function by promoting relaxation of the arteries, reducing blood pressure, and reducing certain inflammatory molecules.",
+  "sentences": [
+    {
+      "text": "Heart Health.",
+      "start": 0.1,
+      "end": 0.85,
+      "word_count": 2
+    },
+    {
+      "text": "Grape Polyphenols Reduce Blood Pressure and Increase Flow-Mediated Vasodilation in Men with Metabolic Syndrome.",
+      "start": 1.725,
+      "end": 7.925,
+      "word_count": 14
+    },
+    {
+      "text": "In this study, men with metabolic syndrome consumed either grape powder or a placebo for 30 days then switched to the alternate diet for 30 days following a 3-week washout period.",
+      "start": 8.8,
+      "end": 21.038,
+      "word_count": 31
+    },
+    {
+      "text": "Adding grapes to the diet improved vascular function by promoting relaxation of the arteries, reducing blood pressure, and reducing certain inflammatory molecules.",
+      "start": 21.05,
+      "end": 32.538,
+      "word_count": 22
+    },
+    {
+      "text": "Vasoprotective Endothelial Effects of a Standardized Grape Product in Humans.",
+      "start": 32.55,
+      "end": 36.862,
+      "word_count": 10
+    },
+    {
+      "text": "In this human study, consuming grape powder in an amount equivalent to 1 1/4 cups of fresh grapes per day helped improve blood vessel function in five healthy adult male subjects.",
+      "start": 36.875,
+      "end": 49.2,
+      "word_count": 31
+    },
+    {
+      "text": "Consuming the same amount of grape powder, but twice a day for 21 days, caused even greater improvements in blood vessel function and antioxidant capacity.",
+      "start": 49.212,
+      "end": 59.962,
+      "word_count": 25
+    },
+    {
+      "text": "This study also demonstrated that consuming grapes with a high fat meal helped prevent the damaging impact, reduced blood flow, that was observed with a high fat meal consumed without grapes.",
+      "start": 59.975,
+      "end": 71.838,
+      "word_count": 31
+    },
+    {
+      "text": "Grape Polyphenols Exert a Cardioprotective Effect in Pre- and Post-menopausal Women by Lowering Plasma Lipids and Reducing Oxidative Stress.",
+      "start": 71.85,
+      "end": 80.188,
+      "word_count": 19
+    },
+    {
+      "text": "Key risk factors for coronary heart disease were reduced in pre- and post-menopausal women consuming the equivalent of 1 1/4 cups of grapes per day.",
+      "start": 80.2,
+      "end": 90.537,
+      "word_count": 25
+    },
+    {
+      "text": "These included a reduction in blood triglyceride levels, L D L cholesterol levels, and key markers for inflammation in the body.",
+      "start": 90.55,
+      "end": 99.987,
+      "word_count": 21
+    },
+    {
+      "text": "Additionally, the researchers observed a significant reduction in whole body oxidative stress.",
+      "start": 100.0,
+      "end": 105.438,
+      "word_count": 12
+    },
+    {
+      "text": "Vascular and Cardiac Effects of Grape Powder in the Spontaneously Hypertensive Rat.",
+      "start": 105.45,
+      "end": 111.05,
+      "word_count": 12
+    },
+    {
+      "text": "This study investigated the effects of grape consumption in spontaneously hypertensive rats.",
+      "start": 111.062,
+      "end": 116.812,
+      "word_count": 12
+    },
+    {
+      "text": "No changes to the physiology of the heart were observed.",
+      "start": 116.825,
+      "end": 122.375,
+      "word_count": 10
+    },
+    {
+      "text": "However, grape consumption elicited a significant reduction in blood pressure, improved arterial relaxation, increased vascular compliance, and attenuated cardiac hypertrophy.",
+      "start": 122.388,
+      "end": 132.875,
+      "word_count": 20
+    },
+    {
+      "text": "Grapes Added to the Diet Helped Lower Blood Pressure, Improve Heart Function, Reduce Inflammation, and Reduce Heart Muscle Damage Associated with a High-Salt Diet.",
+      "start": 132.887,
+      "end": 143.375,
+      "word_count": 24
+    },
+    {
+      "text": "In a series of laboratory animal studies, a grape-enriched diet helped protect against high blood pressure and the development of heart failure commonly associated with a high-salt diet.",
+      "start": 143.725,
+      "end": 154.3,
+      "word_count": 28
+    },
+    {
+      "text": "One study examined the impact of adding grapes to the diet of animals consuming either a high- or low-salt diet and also those receiving a mild dose of a common blood pressure drug, hydrazine.",
+      "start": 154.312,
+      "end": 166.275,
+      "word_count": 34
+    },
+    {
+      "text": "Those consuming a grape-enriched diet had lower blood pressure, better heart function, reduced inflammation throughout their bodies, and fewer signs of heart muscle damage than those consuming the same diet but without grapes.",
+      "start": 166.287,
+      "end": 179.012,
+      "word_count": 33
+    },
+    {
+      "text": "The group receiving the blood pressure medicine, but no grapes, demonstrated a reduction in blood pressure, but their hearts were not protected from damage as was the case in the grape-fed group.",
+      "start": 179.213,
+      "end": 190.287,
+      "word_count": 32
+    },
+    {
+      "text": "Two additional studies, using a similar study model and feeding a grape-enriched diet, also demonstrated these types of protective effects.",
+      "start": 190.3,
+      "end": 200.325,
+      "word_count": 20
+    },
+    {
+      "text": "Grape Powder Polyphenols Attenuate Atherosclerosis Development in Apolipoprotein E-Deficient Mice and Reduce Macrophage Atherogenicity.",
+      "start": 200.338,
+      "end": 207.963,
+      "word_count": 14
+    },
+    {
+      "text": "This study found that a grape-enriched diet helped prevent the accumulation of harmful oxidized cholesterol and reduced the development of atherosclerotic lesions by 41 percent.",
+      "start": 207.975,
+      "end": 220.162,
+      "word_count": 25
+    },
+    {
+      "text": "The animals consuming the grape-enriched diet also exhibited reduced oxidative stress, increased serum antioxidant capacity, reduced cell uptake of oxidized cholesterol, and decreased oxidation of L D L cholesterol.",
+      "start": 220.175,
+      "end": 235.938,
+      "word_count": 29
+    },
+    {
+      "text": "Grape Polyphenols Decrease Plasma Triglycerides and Cholesterol Accumulation in the Aorta of Ovariectomized Guinea Pigs.",
+      "start": 235.95,
+      "end": 242.575,
+      "word_count": 15
+    },
+    {
+      "text": "In an animal model for menopausal women, female ovariectomized guinea pigs were fed either a control diet or a grape-enriched diet for 12 weeks.",
+      "start": 242.588,
+      "end": 252.1,
+      "word_count": 24
+    },
+    {
+      "text": "Dietary cholesterol was added to both diets to raise plasma cholesterol levels and promote the development of atherosclerosis.",
+      "start": 252.113,
+      "end": 260.163,
+      "word_count": 18
+    },
+    {
+      "text": "Study findings showed that while plasma L D L concentrations did not differ between the groups, those consuming the grape-enriched diet had 39 percent lower plasma triglycerides, 50 percent lower V L D L cholesterol, and 33 percent lower concentrations of cholesterol in the aorta, compared with animals on the control diet.",
+      "start": 260.175,
+      "end": 279.2,
+      "word_count": 41
+    }
+  ],
+  "sentence_count": 29,
+  "word_count": 634,
+  "total_duration": 279.2,
+  "voice": "en-US-AriaNeural"
+}

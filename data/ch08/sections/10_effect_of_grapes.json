@@ -1,0 +1,46 @@
+{
+  "id": "10_effect_of_grapes",
+  "title": "Effect of Grapes on Skeletal Muscle. To investigate the effect of grapes on skeletal muscles, a mouse model was used to examine gene expression in males and females fed either a grape-enriched or a bland diet over 2.5 years. The results show sex-specific changes in gene expression within muscle tissue, with females exhibiting more pronounced alterations that trend toward a male-like phenotype. Up-regulation of genes such as Ahsg, Alb, Apoa1, and Arg1, together with down-regulation of Camp, Lcn2, and Irf4, suggested improved muscle function, a finding further supported by pathway analysis. A total of 25 differentially expressed genes associated with muscle health were identified, reinforcing the idea that long-term grape consumption may enhance muscle function. These findings suggest that grapes could have broader health benefits, particularly in modulating muscle physiology in a sex-dependent manner.",
+  "sentences": [
+    {
+      "text": "Effect of Grapes on Skeletal Muscle.",
+      "start": 0.1,
+      "end": 2.138,
+      "word_count": 6
+    },
+    {
+      "text": "To investigate the effect of grapes on skeletal muscles, a mouse model was used to examine gene expression in males and females fed either a grape-enriched or a bland diet over 2.5 years.",
+      "start": 3.013,
+      "end": 15.312,
+      "word_count": 33
+    },
+    {
+      "text": "The results show sex-specific changes in gene expression within muscle tissue, with females exhibiting more pronounced alterations that trend toward a male-like phenotype.",
+      "start": 15.325,
+      "end": 26.15,
+      "word_count": 23
+    },
+    {
+      "text": "Up-regulation of genes such as Ahsg, Alb, Apoa1, and Arg1, together with down-regulation of Camp, Lcn2, and Irf4, suggested improved muscle function, a finding further supported by pathway analysis.",
+      "start": 26.163,
+      "end": 40.487,
+      "word_count": 29
+    },
+    {
+      "text": "A total of 25 differentially expressed genes associated with muscle health were identified, reinforcing the idea that long-term grape consumption may enhance muscle function.",
+      "start": 40.5,
+      "end": 51.525,
+      "word_count": 24
+    },
+    {
+      "text": "These findings suggest that grapes could have broader health benefits, particularly in modulating muscle physiology in a sex-dependent manner.",
+      "start": 51.538,
+      "end": 59.212,
+      "word_count": 18
+    }
+  ],
+  "sentence_count": 6,
+  "word_count": 133,
+  "total_duration": 59.212,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "3_grapes_as_a",
+  "title": "Grapes as a Dietary Component. Grapes have profoundly influenced human civilization, impacting agriculture and culture over thousands of years. Traces of grape seeds, stalks, and skins have been found in Neolithic vessels from sites in China and the Middle East, roughly 6000 to 10,000 years ago. A recent genetic analysis of cultivated and wild grape varieties reveals that domestication occurred concurrently in multiple regions including Western Asia and the Caucasus. The domesticated grapevine, Vitis vinifera subspecies vinifera, has been integral not only as a food source but also as the foundation of winemaking. Early farmers selected grapevines for traits such as sweetness and resilience. Then, human migration facilitated cultural exchanges that led to widespread cultivation and the development of diverse varieties, especially in regions like Italy. Over time, selective breeding further enhanced grapevines' flavor, aroma, and adaptability.",
+  "sentences": [
+    {
+      "text": "Grapes as a Dietary Component.",
+      "start": 0.1,
+      "end": 2.025,
+      "word_count": 5
+    },
+    {
+      "text": "Grapes have profoundly influenced human civilization, impacting agriculture and culture over thousands of years.",
+      "start": 2.888,
+      "end": 9.613,
+      "word_count": 14
+    },
+    {
+      "text": "Traces of grape seeds, stalks, and skins have been found in Neolithic vessels from sites in China and the Middle East, roughly 6000 to 10,000 years ago.",
+      "start": 10.488,
+      "end": 21.75,
+      "word_count": 27
+    },
+    {
+      "text": "A recent genetic analysis of cultivated and wild grape varieties reveals that domestication occurred concurrently in multiple regions including Western Asia and the Caucasus.",
+      "start": 21.762,
+      "end": 33.175,
+      "word_count": 24
+    },
+    {
+      "text": "The domesticated grapevine, Vitis vinifera subspecies vinifera, has been integral not only as a food source but also as the foundation of winemaking.",
+      "start": 33.462,
+      "end": 42.612,
+      "word_count": 23
+    },
+    {
+      "text": "Early farmers selected grapevines for traits such as sweetness and resilience.",
+      "start": 42.625,
+      "end": 48.062,
+      "word_count": 11
+    },
+    {
+      "text": "Then, human migration facilitated cultural exchanges that led to widespread cultivation and the development of diverse varieties, especially in regions like Italy.",
+      "start": 48.075,
+      "end": 58.5,
+      "word_count": 22
+    },
+    {
+      "text": "Over time, selective breeding further enhanced grapevines' flavor, aroma, and adaptability.",
+      "start": 58.513,
+      "end": 64.312,
+      "word_count": 11
+    },
+    {
+      "text": "Like some other fruits, grapes are a unique commodity.",
+      "start": 64.325,
+      "end": 68.487,
+      "word_count": 9
+    },
+    {
+      "text": "Many components of the diet are not individually consumed.",
+      "start": 68.5,
+      "end": 72.963,
+      "word_count": 9
+    },
+    {
+      "text": "For example, onions are rarely consumed in isolation; they are typically combined with other ingredients in prepared dishes.",
+      "start": 72.975,
+      "end": 80.25,
+      "word_count": 18
+    },
+    {
+      "text": "This makes it difficult to assess their standalone biological effects.",
+      "start": 80.263,
+      "end": 84.862,
+      "word_count": 10
+    },
+    {
+      "text": "On the other hand, rather than one of the dishes in a meal, or as a combined ingredient, people generally eat grapes as a snack.",
+      "start": 84.875,
+      "end": 93.125,
+      "word_count": 25
+    },
+    {
+      "text": "One serving is defined as three-quarters of a cup.",
+      "start": 93.138,
+      "end": 96.688,
+      "word_count": 9
+    },
+    {
+      "text": "The magnitude of consumption varies year by year, but in the modern world, human beings consume around 30 million tons of fresh table grapes each year.",
+      "start": 96.7,
+      "end": 107.013,
+      "word_count": 26
+    },
+    {
+      "text": "Considering this backdrop, it is reasonable to explore the potential effect of grapes on human health as an individual entity.",
+      "start": 107.312,
+      "end": 115.025,
+      "word_count": 20
+    },
+    {
+      "text": "Indeed, as exemplified by the passages in this book, the physiological activity of grapes has been studied in a large number of preclinical and clinical investigations, in many cases, with promising results.",
+      "start": 115.037,
+      "end": 127.612,
+      "word_count": 32
+    },
+    {
+      "text": "In numerous studies, researchers have extracted bioactive compounds from food sources and investigated their mechanisms of action in isolation.",
+      "start": 127.938,
+      "end": 136.975,
+      "word_count": 19
+    },
+    {
+      "text": "As exemplified by one key component of grapes, resveratrol, this approach has value but tends to have little relationship with the real-life situation of consuming a whole food, fruit, or vegetable.",
+      "start": 136.988,
+      "end": 149.338,
+      "word_count": 31
+    },
+    {
+      "text": "Work with individual isolates is more geared toward the development of a drug or a dietary supplement.",
+      "start": 149.35,
+      "end": 155.125,
+      "word_count": 17
+    },
+    {
+      "text": "In terms of dietary influence, especially when a component of the diet is consumed in isolation, that is, as a snack, the question of great importance is how the supplemental dietary substance may function as a whole.",
+      "start": 155.137,
+      "end": 169.375,
+      "word_count": 37
+    },
+    {
+      "text": "This entails understanding the synergistic effects of multiple food-derived compounds.",
+      "start": 169.387,
+      "end": 174.175,
+      "word_count": 10
+    },
+    {
+      "text": "In the case of the grape, this corresponds to hundreds of different phytochemical components.",
+      "start": 174.188,
+      "end": 178.55,
+      "word_count": 11
+    }
+  ],
+  "sentence_count": 23,
+  "word_count": 420,
+  "total_duration": 178.55,
+  "voice": "en-US-AriaNeural"
+}

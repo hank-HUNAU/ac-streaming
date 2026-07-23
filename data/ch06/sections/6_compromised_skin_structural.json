@@ -1,0 +1,94 @@
+{
+  "id": "6_compromised_skin_structural",
+  "title": "Compromised Skin Structural Integrity. The structural integrity of the skin is maintained by its extracellular matrix, which among multiple components is made of fibrous proteins like collagen, elastin, and fibronectin. These components provide tensile strength, skin stretching, and recoil, regulate cell adhesion, and support chemotaxis and migration. Their turnover is regulated by matrix metalloproteinases, which degrade collagen, fibronectin, elastin, and proteoglycans and aid in maintaining the functional and structural characteristics of the skin. However, oxidative stress increases the levels of matrix metalloproteinases in the skin due to aging, chronic sun exposure, and inflammatory diseases, leading to excessive collagenolysis, fibrinolysis, and elastolysis. Among different mechanisms of reactive oxygen species-mediated increased activity of matrix metalloproteinases, N F-kappa B-induced formation of pro-inflammatory cytokines such as interleukin-1, interleukin-6, and tumor necrosis factor alpha is well known. Interleukin-1 and interleukin-6 are known to activate matrix metalloproteinase-1, which degrades type one collagen. This results in collagen fragmentation and disorganization of collagen fibers in the dermis, which leads to loss of skin elasticity, wrinkle formation, and premature skin aging.",
+  "sentences": [
+    {
+      "text": "Compromised Skin Structural Integrity.",
+      "start": 0.1,
+      "end": 2.362,
+      "word_count": 4
+    },
+    {
+      "text": "The structural integrity of the skin is maintained by its extracellular matrix, which among multiple components is made of fibrous proteins like collagen, elastin, and fibronectin.",
+      "start": 3.237,
+      "end": 13.688,
+      "word_count": 26
+    },
+    {
+      "text": "These components provide tensile strength, skin stretching, and recoil, regulate cell adhesion, and support chemotaxis and migration.",
+      "start": 14.562,
+      "end": 22.75,
+      "word_count": 17
+    },
+    {
+      "text": "Their turnover is regulated by matrix metalloproteinases, which degrade collagen, fibronectin, elastin, and proteoglycans and aid in maintaining the functional and structural characteristics of the skin.",
+      "start": 23.625,
+      "end": 35.775,
+      "word_count": 26
+    },
+    {
+      "text": "However, oxidative stress increases the levels of matrix metalloproteinases in the skin due to aging, chronic sun exposure, and inflammatory diseases, leading to excessive collagenolysis, fibrinolysis, and elastolysis.",
+      "start": 36.65,
+      "end": 50.85,
+      "word_count": 28
+    },
+    {
+      "text": "Among different mechanisms of reactive oxygen species-mediated increased activity of matrix metalloproteinases, N F-kappa B-induced formation of pro-inflammatory cytokines such as interleukin-1, interleukin-6, and tumor necrosis factor alpha is well known.",
+      "start": 51.725,
+      "end": 68.037,
+      "word_count": 31
+    },
+    {
+      "text": "Interleukin-1 and interleukin-6 are known to activate matrix metalloproteinase-1, which degrades type one collagen.",
+      "start": 68.9,
+      "end": 76.213,
+      "word_count": 14
+    },
+    {
+      "text": "This results in collagen fragmentation and disorganization of collagen fibers in the dermis, which leads to loss of skin elasticity, wrinkle formation, and premature skin aging.",
+      "start": 77.088,
+      "end": 87.763,
+      "word_count": 26
+    },
+    {
+      "text": "Studies have demonstrated that ultraviolet-mediated reactive oxygen species has dual effect on collagen synthesis.",
+      "start": 88.638,
+      "end": 95.425,
+      "word_count": 14
+    },
+    {
+      "text": "On one hand, it attenuates the synthesis of collagen regulated by activator protein 1 and matrix metalloproteinase-1.",
+      "start": 96.287,
+      "end": 103.7,
+      "word_count": 17
+    },
+    {
+      "text": "On the other hand, it generates multiple free radicals, such as singlet oxygen, hydrogen peroxide, and nitric oxide, which increase the collagen synthesis in dermal fibroblasts by activating heat shock protein 47.",
+      "start": 104.575,
+      "end": 118.237,
+      "word_count": 32
+    },
+    {
+      "text": "The latter effect is dominant in scleroderma patients, which is characterized by excessive collagen synthesis.",
+      "start": 119.1,
+      "end": 125.562,
+      "word_count": 15
+    },
+    {
+      "text": "Additionally, interleukin-6, interleukin-12, and tumor necrosis factor alpha have also been reported to cause degradation of elastic fibers, skin wrinkle formation, and increased epidermal thickness in response to skin aging and ultraviolet radiation.",
+      "start": 126.425,
+      "end": 142.175,
+      "word_count": 33
+    },
+    {
+      "text": "In conclusion, oxidative stress compromises the structural integrity of the skin and thus needs to be controlled for better skin health.",
+      "start": 143.05,
+      "end": 150.325,
+      "word_count": 21
+    }
+  ],
+  "sentence_count": 14,
+  "word_count": 304,
+  "total_duration": 150.325,
+  "voice": "en-US-AriaNeural"
+}
