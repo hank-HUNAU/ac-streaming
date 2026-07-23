@@ -173,7 +173,7 @@ body{
 .sentence-head-right{display:flex;align-items:center}
 .sentence-num{font-size:10px;color:var(--text2);font-weight:600;letter-spacing:.5px}
 .sentence-time{font-size:11px;color:var(--text2);font-weight:500}
-.sentence-text{font-family:'Georgia','Times New Roman',serif;font-size:15px;line-height:1.6;color:var(--text);padding-right:28px}
+.sentence-text{font-family:'Georgia','Times New Roman',serif;font-size:15px;line-height:1.6;color:var(--text);padding-right:28px;text-align:justify}
 .sentence-text .word-span{display:inline-block;cursor:pointer;border-radius:3px;padding:0 1px;transition:background .12s,color .12s;margin:0 -1px}
 .sentence-text .word-span:hover{background:var(--accent-teal);color:#fff}
 .sentence-text .word-span.active-word{background:var(--accent-teal);color:#fff}
@@ -678,7 +678,7 @@ function renderPassageView(data) {
   document.getElementById('modalFooter').innerHTML = ft;
 
   var h = '<div class="tab-wrap">';
-  for (var i = 0; i < secs.length; i++) h += '<div class="tab' + (i===0?' active':'') + '" onclick="loadPassageSection(' + i + ')">' + secs[i].title + '</div>';
+  for (var i = 0; i < secs.length; i++) h += '<div class="tab' + (i===0?' active':'') + '" onclick="loadPassageSection(' + i + ')">' + (i+1) + '</div>';
   h += '</div><div id="sentenceList" style="padding-bottom:40px"><div class="loading">选择章节加载</div></div>';
   document.getElementById('modalBody').innerHTML = h;
   loadPassageSection(0);
