@@ -985,7 +985,7 @@ function openGlossary() {
     for(var i=0;i<secs.length;i++){ var vts=secs[i].vocab_terms||[];
       for(var j=0;j<vts.length;j++){ var en=vts[j].en; if(!seen[en]){seen[en]=true;all.push(vts[j]);} }
     }
-    all.sort(function(a,b){return a.en.localeCompare(b.en);});
+    all.sort(function(a,b){var an=a.en||a.term, bn=b.en||b.term; return an.localeCompare(bn);});
     _allTermsCache=all; renderGlossary(all);
   }).catch(function(){ document.getElementById('modalBody').innerHTML='<div class="loading">加载失败</div>'; });
 }
@@ -994,7 +994,7 @@ function renderGlossary(terms) {
   document.getElementById('modalFooter').innerHTML='';
   var h='<input type="text" placeholder="搜索术语..." oninput="filterGlossary(this.value)" style="width:100%;padding:12px 16px;border:1px solid var(--sep);border-radius:10px;font-size:15px;outline:none;margin-bottom:16px;font-family:var(--ui-font)">';
   h+='<div class="vocab-list" id="glossaryList">';
-  for(var i=0;i<terms.length;i++) h+='<div class="vocab-item gloss-term" data-term="'+terms[i].en.toLowerCase()+'"><div class="vocab-en">'+terms[i].en+'</div><div class="vocab-zh">'+terms[i].zh+'</div><div class="vocab-cat">'+terms[i].category+'</div></div>';
+  for(var i=0;i<terms.length;i++){ var en=terms[i].en||terms[i].term, zh=terms[i].zh||terms[i].synonyms||''; h+='<div class="vocab-item gloss-term" data-term="'+(en||'').toLowerCase()+'"><div class="vocab-en">'+escapeHtml(en||'')+'</div><div class="vocab-zh">'+escapeHtml(zh)+'</div><div class="vocab-cat">'+escapeHtml(terms[i].category||'')+'</div></div>'; }
   h+='</div>';
   document.getElementById('modalBody').innerHTML = h;
 }
