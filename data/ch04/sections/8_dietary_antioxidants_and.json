@@ -1,0 +1,34 @@
+{
+  "id": "8_dietary_antioxidants_and",
+  "title": "Dietary Antioxidants and Their Benefits for Vision. Due to antioxidant effects and possible accumulation in the eyes, key nutrients and dietary antioxidants, such as vitamin A, vitamin C, vitamin E, and carotenoids like lutein and zeaxanthin, have gained significant attention for their potential to reduce the risk of eye diseases and support overall eye health. Additionally, essential minerals like zinc, omega-3 fatty acids such as eicosapentaenoic acid and D H A, along with polyphenols and flavonoids found in various plant-based foods, have been shown to combat oxidative stress and inflammation, which are associated with common eye disorders. Together, these dietary components help neutralize harmful free radicals and protect retinal cells and may play a crucial role in preventing or delaying the onset of conditions like A M D, cataracts, and other age-related vision impairments.",
+  "sentences": [
+    {
+      "text": "Dietary Antioxidants and Their Benefits for Vision.",
+      "start": 0.1,
+      "end": 3.212,
+      "word_count": 7
+    },
+    {
+      "text": "Due to antioxidant effects and possible accumulation in the eyes, key nutrients and dietary antioxidants, such as vitamin A, vitamin C, vitamin E, and carotenoids like lutein and zeaxanthin, have gained significant attention for their potential to reduce the risk of eye diseases and support overall eye health.",
+      "start": 4.075,
+      "end": 23.3,
+      "word_count": 48
+    },
+    {
+      "text": "Additionally, essential minerals like zinc, omega-3 fatty acids such as eicosapentaenoic acid and D H A, along with polyphenols and flavonoids found in various plant-based foods, have been shown to combat oxidative stress and inflammation, which are associated with common eye disorders.",
+      "start": 24.163,
+      "end": 41.763,
+      "word_count": 42
+    },
+    {
+      "text": "Together, these dietary components help neutralize harmful free radicals and protect retinal cells and may play a crucial role in preventing or delaying the onset of conditions like A M D, cataracts, and other age-related vision impairments.",
+      "start": 42.625,
+      "end": 57.325,
+      "word_count": 37
+    }
+  ],
+  "sentence_count": 4,
+  "word_count": 134,
+  "total_duration": 57.325,
+  "voice": "en-US-AriaNeural"
+}

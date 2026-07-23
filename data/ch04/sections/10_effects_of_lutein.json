@@ -1,0 +1,214 @@
+{
+  "id": "10_effects_of_lutein",
+  "title": "Effects of Lutein and Zeaxanthin on Eye Health. Lutein, zeaxanthin, and meso-zeaxanthin are macular xanthophylls commonly found together in the retina. Since meso-zeaxanthin cannot be obtained directly from the human diet and is instead synthesized from lutein, dietary macular xanthophylls are typically referred to as lutein and zeaxanthin. The most common dietary sources of these xanthophylls include green leafy vegetables such as kale, spinach, broccoli, peas, and lettuce, as well as egg yolk. While predominantly localized in the macula, lutein and zeaxanthin are also distributed throughout the retina, including in the photoreceptor outer segments and R P E, with the highest concentration in the outer plexiform layer. One of the protective roles of lutein and zeaxanthin is their ability to scavenge oxygen-free radicals under oxidative stress. In addition to their antioxidant properties, lutein and zeaxanthin selectively absorb blue light, peaking at an absorption wavelength of 446 nanometers. Light-induced retinal damage varies with wavelength, exposure time, and intensity, with blue light requiring significantly less intensity to cause damage compared to orange light. This suggests that lutein and zeaxanthin play a protective role in the macula by filtering harmful wavelengths and reducing photoreceptor damage.",
+  "sentences": [
+    {
+      "text": "Effects of Lutein and Zeaxanthin on Eye Health.",
+      "start": 0.1,
+      "end": 2.612,
+      "word_count": 8
+    },
+    {
+      "text": "Lutein, zeaxanthin, and meso-zeaxanthin are macular xanthophylls commonly found together in the retina.",
+      "start": 3.487,
+      "end": 9.562,
+      "word_count": 13
+    },
+    {
+      "text": "Since meso-zeaxanthin cannot be obtained directly from the human diet and is instead synthesized from lutein, dietary macular xanthophylls are typically referred to as lutein and zeaxanthin.",
+      "start": 10.438,
+      "end": 21.625,
+      "word_count": 27
+    },
+    {
+      "text": "The most common dietary sources of these xanthophylls include green leafy vegetables such as kale, spinach, broccoli, peas, and lettuce, as well as egg yolk.",
+      "start": 22.488,
+      "end": 32.225,
+      "word_count": 25
+    },
+    {
+      "text": "While predominantly localized in the macula, lutein and zeaxanthin are also distributed throughout the retina, including in the photoreceptor outer segments and R P E, with the highest concentration in the outer plexiform layer.",
+      "start": 33.1,
+      "end": 46.513,
+      "word_count": 34
+    },
+    {
+      "text": "One of the protective roles of lutein and zeaxanthin is their ability to scavenge oxygen-free radicals under oxidative stress.",
+      "start": 47.388,
+      "end": 54.638,
+      "word_count": 19
+    },
+    {
+      "text": "In addition to their antioxidant properties, lutein and zeaxanthin selectively absorb blue light, peaking at an absorption wavelength of 446 nanometers.",
+      "start": 55.5,
+      "end": 65.375,
+      "word_count": 21
+    },
+    {
+      "text": "Light-induced retinal damage varies with wavelength, exposure time, and intensity, with blue light requiring significantly less intensity to cause damage compared to orange light.",
+      "start": 66.25,
+      "end": 76.513,
+      "word_count": 24
+    },
+    {
+      "text": "This suggests that lutein and zeaxanthin play a protective role in the macula by filtering harmful wavelengths and reducing photoreceptor damage.",
+      "start": 77.388,
+      "end": 85.6,
+      "word_count": 21
+    },
+    {
+      "text": "Lutein and zeaxanthin have been extensively studied for their effects on ocular cells in cell cultures, experimental animal models of ocular diseases, and human clinical studies.",
+      "start": 86.463,
+      "end": 96.975,
+      "word_count": 26
+    },
+    {
+      "text": "In studies with R P E cells, the administration of lutein and zeaxanthin under oxidative stress conditions, induced by chemical agents such as hydrogen peroxide or by ultraviolet light mimicking blue light, has been shown to reduce cell apoptosis, decrease reactive oxygen species formation, prevent lipofuscin accumulation, and protect R P E cellular functions.",
+      "start": 97.838,
+      "end": 120.775,
+      "word_count": 54
+    },
+    {
+      "text": "Recent research also demonstrated that using a three-dimensional R P E monolayer, which more accurately mimics the human eye's anatomy, lutein promoted cell survival by reducing oxidative stress and improved the barrier and phagocytosis functions of light-damaged R P E cells.",
+      "start": 121.638,
+      "end": 138.0,
+      "word_count": 41
+    },
+    {
+      "text": "As lutein and zeaxanthin are fat soluble, researchers have also studied their solubilization into reconstituted high-density lipoprotein particles for improved therapeutic benefit.",
+      "start": 138.863,
+      "end": 149.637,
+      "word_count": 22
+    },
+    {
+      "text": "Lutein nanodisks, for example, have been found to protect human R P E cells from ultraviolet-light-induced damage by enhancing lutein uptake and reducing cell viability loss.",
+      "start": 150.5,
+      "end": 161.275,
+      "word_count": 26
+    },
+    {
+      "text": "Animal studies using apolipoprotein E-deficient mice to mimic the pathological changes seen in A M D have shown that supplementation with a complex of lutein, multivitamins, and glutathione can delay or even reverse structural changes, reduce vascular endothelial growth factor expression, decrease lipofuscin accumulation, and preserve photoreceptor integrity.",
+      "start": 162.15,
+      "end": 184.287,
+      "word_count": 48
+    },
+    {
+      "text": "Moreover, when treated with the Age-Related Eye Disease Study 2 formula, consisting of lutein and zeaxanthin, these same benefits were observed in the mouse retina.",
+      "start": 185.15,
+      "end": 194.412,
+      "word_count": 25
+    },
+    {
+      "text": "Human clinical evidence from systematic reviews and meta-analyses has demonstrated that consuming xanthophyll-rich foods or supplements improves visual outcomes, including macular pigment optical density, visual acuity, contrast sensitivity, and photostress recovery time.",
+      "start": 195.287,
+      "end": 212.062,
+      "word_count": 32
+    },
+    {
+      "text": "Large clinical trials, such as the Lutein Antioxidant Supplementation Trial two and the Lutein Intervention Study Austria, showed that macular pigment optical density increased with lutein supplementation, while it decreased without supplementation.",
+      "start": 212.925,
+      "end": 227.575,
+      "word_count": 32
+    },
+    {
+      "text": "This increase was most pronounced among subjects with low baseline macular pigment optical density.",
+      "start": 228.45,
+      "end": 234.012,
+      "word_count": 14
+    },
+    {
+      "text": "The Combination of Lutein Effects in the Aging Retina study also found similar results, further indicating that high macular pigment optical density may slow visual acuity decline during aging.",
+      "start": 234.887,
+      "end": 246.225,
+      "word_count": 29
+    },
+    {
+      "text": "The multiyear Age-Related Eye Disease Study 2 also concluded that lutein and zeaxanthin supplementation may be beneficial for delaying the progression from early- to late-stage A M D. Not limited to A M D, the beneficial effect of lutein and zeaxanthin on diabetic retinopathy has also been reported.",
+      "start": 247.1,
+      "end": 266.762,
+      "word_count": 48
+    },
+    {
+      "text": "Lutein and zeaxanthin supplementation has been shown to reverse pathological increases in oxidative stress, impaired visual function, inflammatory activation, and morphological alterations observed in diabetic retinopathy mice.",
+      "start": 267.624,
+      "end": 281.799,
+      "word_count": 27
+    },
+    {
+      "text": "In cross-sectional studies, plasma levels of lutein and zeaxanthin were found to be lower in patients with nonproliferative diabetic retinopathy compared to those without nonproliferative diabetic retinopathy.",
+      "start": 282.674,
+      "end": 294.499,
+      "word_count": 27
+    },
+    {
+      "text": "Smaller intervention studies also showed that administering 10 milligrams per day of lutein for 36 weeks or a combination of 6 milligrams lutein and 0.5 milligrams zeaxanthin daily for 3 months increases plasma levels of these carotenoids and improved visual acuity and contrast sensitivity in patients with nonproliferative diabetic retinopathy.",
+      "start": 295.374,
+      "end": 317.161,
+      "word_count": 50
+    },
+    {
+      "text": "The role of lutein in cataract prevention remains controversial.",
+      "start": 318.036,
+      "end": 321.687,
+      "word_count": 9
+    },
+    {
+      "text": "The Beaver Dam Eye Study showed that subjects with the highest quintile of lutein intake had a 50 percent reduction in the likelihood of cataract incidence compared to those in the lowest quintile.",
+      "start": 322.562,
+      "end": 334.111,
+      "word_count": 33
+    },
+    {
+      "text": "Another study of Finnish older adults reported similar findings, with subjects in the highest tertile of plasma lutein concentration having a 42 percent lower risk of developing nuclear cataracts.",
+      "start": 334.124,
+      "end": 347.074,
+      "word_count": 29
+    },
+    {
+      "text": "However, a study comparing xanthophyll levels between normal and cataractous lenses in the American population found no difference in lutein and zeaxanthin contents.",
+      "start": 347.087,
+      "end": 357.212,
+      "word_count": 23
+    },
+    {
+      "text": "The recent Age-Related Eye Disease Study 2 concluded that daily lutein supplementation did not significantly reduce the risk of cataract surgery or vision loss.",
+      "start": 357.224,
+      "end": 368.024,
+      "word_count": 24
+    },
+    {
+      "text": "However, lutein supplementation did reduce surgery risk among those with the lowest quintile of dietary lutein intake.",
+      "start": 368.036,
+      "end": 375.474,
+      "word_count": 17
+    },
+    {
+      "text": "This finding aligns with the understanding that nutritional deficiency is a risk factor for cataracts, suggesting that lutein's benefits are most evident among the undernourished population.",
+      "start": 375.486,
+      "end": 386.774,
+      "word_count": 26
+    },
+    {
+      "text": "Research has also shown that the coadministration of lutein with other antioxidants may enhance their beneficial effects.",
+      "start": 386.786,
+      "end": 394.449,
+      "word_count": 17
+    },
+    {
+      "text": "For instance, combining silk lutein extract with vitamin E has been shown to reduce ultraviolet B-mediated oxidative damage to R P E cells by lowering cellular reactive oxygen species levels and lipid peroxidation, thereby increasing cell viability and reducing apoptosis.",
+      "start": 394.786,
+      "end": 412.962,
+      "word_count": 40
+    },
+    {
+      "text": "Another study examined the performance of lutein and zeaxanthin in combination with different phenolic compounds against oxidative stress in R P E cells, suggesting that the effects of these combinations may vary depending on the specific xanthophylls used, warranting further investigation.",
+      "start": 412.974,
+      "end": 428.524,
+      "word_count": 39
+    }
+  ],
+  "sentence_count": 34,
+  "word_count": 950,
+  "total_duration": 428.524,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "4_age_related_macular",
+  "title": "Age-Related Macular Degeneration. A M D is a progressive eye disease that primarily affects individuals over the age of 60 and is the leading cause of vision loss among the older population worldwide. Initial symptoms often include a loss of central visual acuity and distortion of straight lines, which may appear wavy or curved. As the disease advances, a central scotoma, or blind spot, develops and expands, significantly impairing vision and affecting daily activities, such as reading and recognizing faces.",
+  "sentences": [
+    {
+      "text": "Age-Related Macular Degeneration.",
+      "start": 0.1,
+      "end": 2.25,
+      "word_count": 3
+    },
+    {
+      "text": "A M D is a progressive eye disease that primarily affects individuals over the age of 60 and is the leading cause of vision loss among the older population worldwide.",
+      "start": 3.125,
+      "end": 12.562,
+      "word_count": 30
+    },
+    {
+      "text": "Initial symptoms often include a loss of central visual acuity and distortion of straight lines, which may appear wavy or curved.",
+      "start": 13.438,
+      "end": 20.938,
+      "word_count": 21
+    },
+    {
+      "text": "As the disease advances, a central scotoma, or blind spot, develops and expands, significantly impairing vision and affecting daily activities, such as reading and recognizing faces.",
+      "start": 21.8,
+      "end": 33.013,
+      "word_count": 26
+    },
+    {
+      "text": "A M D is classified into two main types: dry, or atrophic, A M D and wet, or neovascular, A M D. Dry A M D accounts for about 80 to 90 percent of cases and is characterized by the accumulation of drusen, yellow deposits composed of lipids and proteins, beneath the R P E and a gradual thinning of the macula.",
+      "start": 33.875,
+      "end": 56.075,
+      "word_count": 62
+    },
+    {
+      "text": "Wet A M D is less common but more severe, involving abnormal growth of blood vessels beneath the retina, choroidal neovascularization, that leak fluid or blood, leading to rapid and severe vision loss.",
+      "start": 56.087,
+      "end": 69.425,
+      "word_count": 33
+    },
+    {
+      "text": "Recent clinical evidence supports the link between oxidative stress and A M D. Clinical studies examining postmortem donor eyes from A M D patients have provided strong evidence for the presence of D N A, protein, and lipid biomarkers, indicative of oxidative stress in A M D. Oxidative D N A damage, including elevated levels of 8-hydroxy-2-deoxyguanosine and enhanced levels of carboxyethylpyrrole protein adducts, biomarkers of D H A-containing lipid peroxidation, has been detected in A M D donor eyes.",
+      "start": 69.438,
+      "end": 104.787,
+      "word_count": 80
+    },
+    {
+      "text": "In addition to nuclear D N A damage, oxidative stress in A M D donor eyes has been linked to mitochondrial D N A damage within R P E cells.",
+      "start": 104.8,
+      "end": 115.213,
+      "word_count": 30
+    },
+    {
+      "text": "This suggests that disruptions in mitochondrial homeostasis and metabolic dysfunction due to oxidative stress may play a critical role in the progression of macular degeneration in A M D. A M D is a complex, age-driven, and multifactorial disease, and apart from oxidative stress, other factors, such as genetic predisposition and environmental influences, also play a crucial role in the development and progression of A M D. Understanding how these factors interconnect is essential for developing comprehensive prevention and treatment strategies.",
+      "start": 115.225,
+      "end": 149.613,
+      "word_count": 81
+    },
+    {
+      "text": "Many of the genes associated with A M D are linked to innate immunity and inflammation pathways, particularly those involving the complement system, such as complement factor H, complement component 3, complement component 2 and complement factor B, and C F H-related 1 and 3.",
+      "start": 149.625,
+      "end": 168.037,
+      "word_count": 45
+    },
+    {
+      "text": "In addition to genetic predisposition, several nongenetic risk factors play a significant role in A M D risk and progression.",
+      "start": 168.05,
+      "end": 177.325,
+      "word_count": 20
+    },
+    {
+      "text": "Environmental factors, like smoking, significantly contribute to oxidative stress in the retina.",
+      "start": 177.338,
+      "end": 183.688,
+      "word_count": 12
+    },
+    {
+      "text": "Smoking introduces additional reactive oxygen species and depletes antioxidant defenses, doubling the risk of developing A M D. Several other nongenetic risk factors have been identified as influencing the risk and progression of A M D. These include dietary habits, higher body mass index, elevated serum cholesterol levels, a history of cataract surgery, cardiovascular disease, hypertension, and prolonged exposure to blue light and ultraviolet light.",
+      "start": 183.7,
+      "end": 214.675,
+      "word_count": 65
+    },
+    {
+      "text": "Addressing these modifiable factors through lifestyle adjustments and preventive measures may help mitigate the risk and slow the progression of A M D.",
+      "start": 214.688,
+      "end": 222.175,
+      "word_count": 22
+    }
+  ],
+  "sentence_count": 14,
+  "word_count": 530,
+  "total_duration": 222.175,
+  "voice": "en-US-AriaNeural"
+}

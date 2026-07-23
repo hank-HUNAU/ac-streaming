@@ -1,0 +1,22 @@
+{
+  "id": "0_grapes_and_vision",
+  "title": "Grapes and Vision. Jung Eun Kim and Weili Hu.",
+  "sentences": [
+    {
+      "text": "Grapes and Vision.",
+      "start": 0.1,
+      "end": 1.137,
+      "word_count": 3
+    },
+    {
+      "text": "Jung Eun Kim and Weili Hu.",
+      "start": 2.013,
+      "end": 3.625,
+      "word_count": 6
+    }
+  ],
+  "sentence_count": 2,
+  "word_count": 9,
+  "total_duration": 3.625,
+  "voice": "en-US-AriaNeural"
+}

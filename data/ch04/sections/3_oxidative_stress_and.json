@@ -1,0 +1,94 @@
+{
+  "id": "3_oxidative_stress_and",
+  "title": "Oxidative Stress and Ocular Pathologies Related to Oxidative Stress. Oxidative stress plays a critical role in the etiology of various ocular pathologies, including age-related macular degeneration, cataracts, diabetic retinopathy, and glaucoma. An imbalance between the production of reactive oxygen species and the antioxidant defenses that neutralize them in the eye can also lead to the oxidation of cellular components and a consequent loss of cellular function. The eye is constantly exposed to damaging agents, such as ionizing radiation, visible light, especially high-energy blue light, high oxygen levels, and environmental chemicals from pollutants, industrial emissions, tobacco smoke, and vehicle exhaust fumes. These factors significantly promote the generation of reactive oxygen species beyond the capacity of ocular cells to dissipate them, leading to oxidative stress. Excess reactive oxygen species can react with lipids, proteins, and nucleic acids, ultimately causing the dysfunction of ocular tissues and contributing to various eye diseases.",
+  "sentences": [
+    {
+      "text": "Oxidative Stress and Ocular Pathologies Related to Oxidative Stress.",
+      "start": 0.1,
+      "end": 4.362,
+      "word_count": 9
+    },
+    {
+      "text": "Oxidative stress plays a critical role in the etiology of various ocular pathologies, including age-related macular degeneration, cataracts, diabetic retinopathy, and glaucoma.",
+      "start": 5.225,
+      "end": 16.5,
+      "word_count": 22
+    },
+    {
+      "text": "An imbalance between the production of reactive oxygen species and the antioxidant defenses that neutralize them in the eye can also lead to the oxidation of cellular components and a consequent loss of cellular function.",
+      "start": 17.375,
+      "end": 29.212,
+      "word_count": 35
+    },
+    {
+      "text": "The eye is constantly exposed to damaging agents, such as ionizing radiation, visible light, especially high-energy blue light, high oxygen levels, and environmental chemicals from pollutants, industrial emissions, tobacco smoke, and vehicle exhaust fumes.",
+      "start": 30.075,
+      "end": 46.513,
+      "word_count": 34
+    },
+    {
+      "text": "These factors significantly promote the generation of reactive oxygen species beyond the capacity of ocular cells to dissipate them, leading to oxidative stress.",
+      "start": 47.375,
+      "end": 56.663,
+      "word_count": 23
+    },
+    {
+      "text": "Excess reactive oxygen species can react with lipids, proteins, and nucleic acids, ultimately causing the dysfunction of ocular tissues and contributing to various eye diseases.",
+      "start": 57.525,
+      "end": 68.525,
+      "word_count": 25
+    },
+    {
+      "text": "Mitochondria in postmitotic retinal cells, when exposed to visible light, produce reactive oxygen species through interactions with mitochondrial photosensitizers, like cytochrome c oxidase.",
+      "start": 69.388,
+      "end": 81.562,
+      "word_count": 23
+    },
+    {
+      "text": "This process results in increased damage to mitochondrial D N A with age, contributing to mitochondrial dysfunction and cellular apoptosis.",
+      "start": 82.425,
+      "end": 91.362,
+      "word_count": 20
+    },
+    {
+      "text": "Additionally, specific tissues in the eye generate significant levels of reactive oxygen species from nonmitochondrial sources.",
+      "start": 92.237,
+      "end": 99.8,
+      "word_count": 16
+    },
+    {
+      "text": "Nicotinamide adenine dinucleotide phosphate oxidase, for instance, is a major source of superoxide in microvascular endothelial cells.",
+      "start": 100.675,
+      "end": 109.55,
+      "word_count": 17
+    },
+    {
+      "text": "The reactive oxygen species produced can contribute to oxidative damage of mitochondria, enhancing mitochondrial dysfunction and promoting ocular diseases.",
+      "start": 110.412,
+      "end": 119.588,
+      "word_count": 19
+    },
+    {
+      "text": "R P E cells may also experience excess oxidative stress due to their daily phagocytosis of photoreceptor outer segments.",
+      "start": 120.45,
+      "end": 127.987,
+      "word_count": 19
+    },
+    {
+      "text": "This process can yield hydrogen peroxide as a byproduct of phagosomal N A D P H oxidase activity or from peroxisomal beta-oxidation of phagocytosed lipids.",
+      "start": 128.863,
+      "end": 139.525,
+      "word_count": 25
+    },
+    {
+      "text": "Clinical and experimental studies consistently show that incomplete digestion of phagocytosed photoreceptor components leads to the formation and accumulation of lipofuscin, which is a complex mixture of oxidized, indigestible compounds rich in oxidized lipids and can act as a potent photo-inducible generator of reactive oxygen species upon exposure to light, further exacerbating oxidative stress and contributing to retinal degeneration within R P E cells.",
+      "start": 140.387,
+      "end": 168.375,
+      "word_count": 64
+    }
+  ],
+  "sentence_count": 14,
+  "word_count": 351,
+  "total_duration": 168.375,
+  "voice": "en-US-AriaNeural"
+}

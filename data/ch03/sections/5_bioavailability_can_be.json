@@ -1,0 +1,28 @@
+{
+  "id": "5_bioavailability_can_be",
+  "title": "Bioavailability can be described by several known factors and their functional roles. When discussing metabolic syndrome, it is crucial to analyze the link between the types of compounds present in grapes and their bioavailability. This specialized functional metabolomics approach could effectively explain the potential effects of grape metabolites, their bioavailability, and bioactivities that target specific clusters of events in the development of metabolic syndrome.",
+  "sentences": [
+    {
+      "text": "Bioavailability can be described by several known factors and their functional roles.",
+      "start": 0.1,
+      "end": 4.812,
+      "word_count": 12
+    },
+    {
+      "text": "When discussing metabolic syndrome, it is crucial to analyze the link between the types of compounds present in grapes and their bioavailability.",
+      "start": 5.675,
+      "end": 13.613,
+      "word_count": 22
+    },
+    {
+      "text": "This specialized functional metabolomics approach could effectively explain the potential effects of grape metabolites, their bioavailability, and bioactivities that target specific clusters of events in the development of metabolic syndrome.",
+      "start": 14.475,
+      "end": 28.113,
+      "word_count": 30
+    }
+  ],
+  "sentence_count": 3,
+  "word_count": 64,
+  "total_duration": 28.113,
+  "voice": "en-US-AriaNeural"
+}

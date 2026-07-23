@@ -1,0 +1,190 @@
+{
+  "id": "12_grapes_impact_on",
+  "title": "Grapes Impact on Cardiovascular Disease. More specific research has been conducted with resveratrol, a well-known compound found in grapes. Resveratrol is recognized for its potent antioxidant properties and also offers anti-inflammatory and heart-protective benefits. However, its development as a drug faces challenges, such as low solubility, poor bioavailability, and possible side effects. There are several clinical trials conducted so far, and proposed strategies are to make resveratrol a viable therapeutic option. Resveratrol has demonstrated significant protective effects in heart cells under ischemia-reperfusion conditions. Studies have found that resveratrol significantly improves heart function in rats and prevents an increase in autophagy caused by ischemia-reperfusion. It may protect against heart injury by modulating the D J-1 and mitogen-activated protein kinase kinase kinase 1 and c-Jun N-terminal Kinase pathways, suggesting a novel approach for maintaining heart health.",
+  "sentences": [
+    {
+      "text": "Grapes Impact on Cardiovascular Disease.",
+      "start": 0.1,
+      "end": 2.75,
+      "word_count": 5
+    },
+    {
+      "text": "More specific research has been conducted with resveratrol, a well-known compound found in grapes.",
+      "start": 3.612,
+      "end": 9.213,
+      "word_count": 14
+    },
+    {
+      "text": "Resveratrol is recognized for its potent antioxidant properties and also offers anti-inflammatory and heart-protective benefits.",
+      "start": 10.075,
+      "end": 17.8,
+      "word_count": 15
+    },
+    {
+      "text": "However, its development as a drug faces challenges, such as low solubility, poor bioavailability, and possible side effects.",
+      "start": 18.675,
+      "end": 26.575,
+      "word_count": 18
+    },
+    {
+      "text": "There are several clinical trials conducted so far, and proposed strategies are to make resveratrol a viable therapeutic option.",
+      "start": 27.438,
+      "end": 35.05,
+      "word_count": 19
+    },
+    {
+      "text": "Resveratrol has demonstrated significant protective effects in heart cells under ischemia-reperfusion conditions.",
+      "start": 35.913,
+      "end": 42.487,
+      "word_count": 12
+    },
+    {
+      "text": "Studies have found that resveratrol significantly improves heart function in rats and prevents an increase in autophagy caused by ischemia-reperfusion.",
+      "start": 43.362,
+      "end": 51.837,
+      "word_count": 20
+    },
+    {
+      "text": "It may protect against heart injury by modulating the D J-1 and mitogen-activated protein kinase kinase kinase 1 and c-Jun N-terminal Kinase pathways, suggesting a novel approach for maintaining heart health.",
+      "start": 52.7,
+      "end": 65.362,
+      "word_count": 31
+    },
+    {
+      "text": "Tome-Carneiro and colleagues investigated the effects of resveratrol-rich grape supplements on the inflammatory and fibrinolytic status of subjects at high risk of cardiovascular disease and treated with statins.",
+      "start": 66.237,
+      "end": 78.037,
+      "word_count": 28
+    },
+    {
+      "text": "Seventy-five patients consumed either a placebo, a resveratrol-rich grape supplement containing 8 milligrams resveratrol, or a conventional grape supplement lacking resveratrol for the first 6 months and a double dose for the next 6 months.",
+      "start": 78.912,
+      "end": 93.125,
+      "word_count": 35
+    },
+    {
+      "text": "In contrast to placebo and conventional grape supplements, the resveratrol-rich grape supplement significantly decreased high sensitivity C-reactive protein, T N F-alpha, plasminogen activator inhibitor type 1, and I L-6 to I L-10 ratio but increased anti-inflammatory I L-10.",
+      "start": 93.987,
+      "end": 112.412,
+      "word_count": 38
+    },
+    {
+      "text": "Tome-Carneiro and colleagues examined the effect of resveratrol-containing grape extracts on the transcriptional profiles of inflammatory genes in peripheral blood mononuclear cells in patients with stable coronary artery disease.",
+      "start": 113.287,
+      "end": 126.062,
+      "word_count": 29
+    },
+    {
+      "text": "After 1 year of supplementation, in contrast to the placebo and conventional grape extract groups, the resveratrol-containing grape extract group showed an increase in the anti-inflammatory serum adiponectin.",
+      "start": 126.925,
+      "end": 140.125,
+      "word_count": 28
+    },
+    {
+      "text": "In addition, six key inflammation-related transcription factors were predicted to be significantly activated or inhibited.",
+      "start": 140.137,
+      "end": 148.8,
+      "word_count": 15
+    },
+    {
+      "text": "Twenty-seven extracellular-space-acting genes involved in inflammation, cell migration, and T-cell interaction signals were downregulated by grape extract.",
+      "start": 148.812,
+      "end": 158.938,
+      "word_count": 17
+    },
+    {
+      "text": "These authors also investigated the molecular changes in peripheral blood mononuclear cells associated with a 1-year intake of a resveratrol-enriched grape extract in hypertensive male patients with type 2 diabetes.",
+      "start": 158.95,
+      "end": 173.1,
+      "word_count": 30
+    },
+    {
+      "text": "Supplementation reduced serum I L-6.",
+      "start": 173.113,
+      "end": 175.838,
+      "word_count": 5
+    },
+    {
+      "text": "The peripheral blood mononuclear cell expression of the pro-inflammatory cytokines C-C motif chemokine ligand 3, I L-1 beta, and T N F-alpha was significantly reduced, and the expression of the transcriptional repressor leucine-rich repeat flightless-interacting protein-1 was increased in peripheral blood mononuclear cells.",
+      "start": 175.85,
+      "end": 196.838,
+      "word_count": 43
+    },
+    {
+      "text": "Also, many micro R N As involved in the regulation of inflammation, including miR-21, miR-181b, miR-663, miR-30c2, miR-155, and miR-34a, were highly correlated and altered by grape extract.",
+      "start": 197.088,
+      "end": 214.45,
+      "word_count": 28
+    },
+    {
+      "text": "Clinical Evidence.",
+      "start": 214.463,
+      "end": 216.463,
+      "word_count": 2
+    },
+    {
+      "text": "Several clinical studies have supported the beneficial effects of grape polyphenolics on cholesterol levels.",
+      "start": 216.475,
+      "end": 223.125,
+      "word_count": 14
+    },
+    {
+      "text": "For instance, a systematic review and meta-analysis published in the British Journal of Nutrition found that grape seed extract supplementation decreased serum levels of L D L cholesterol and triglycerides and supports the beneficial effects of grape polyphenolics on cholesterol levels.",
+      "start": 223.137,
+      "end": 240.762,
+      "word_count": 41
+    },
+    {
+      "text": "Although the study did not find a significant overall effect on H D L cholesterol, it did report improvements in studies with shorter intervention periods and lower dosages of grape seed extract.",
+      "start": 240.775,
+      "end": 253.0,
+      "word_count": 32
+    },
+    {
+      "text": "Another study highlighted the role of resveratrol, a specific polyphenolic found in grape skins, in reducing cholesterol levels and improving heart health.",
+      "start": 253.012,
+      "end": 263.337,
+      "word_count": 22
+    },
+    {
+      "text": "Incorporating grape polyphenolics into the diet can be achieved through the consumption of grapes, grape juice, and moderate amounts of red wine.",
+      "start": 263.35,
+      "end": 273.031,
+      "word_count": 22
+    },
+    {
+      "text": "Additionally, grape seed extract supplements are available for those seeking concentrated doses of these beneficial compounds.",
+      "start": 273.332,
+      "end": 280.406,
+      "word_count": 16
+    },
+    {
+      "text": "Grape polyphenolics offer a natural and effective approach to managing hypercholesterolemia and improving cholesterol levels.",
+      "start": 280.419,
+      "end": 288.394,
+      "word_count": 15
+    },
+    {
+      "text": "Their antioxidant and anti-inflammatory properties, along with their ability to prevent lipid damage, make them a valuable addition to a heart-healthy lifestyle.",
+      "start": 288.406,
+      "end": 298.744,
+      "word_count": 22
+    },
+    {
+      "text": "Clinical studies have shown that grape polyphenolics have been found to reduce oxidative stress and inflammation, which are key factors in the development of metabolic syndrome.",
+      "start": 298.757,
+      "end": 308.744,
+      "word_count": 26
+    },
+    {
+      "text": "By incorporating grape polyphenolics into the diet, individuals can take proactive steps toward better metabolic health and a reduced risk of type 2 diabetes or heart disease.",
+      "start": 308.757,
+      "end": 318.906,
+      "word_count": 26
+    }
+  ],
+  "sentence_count": 30,
+  "word_count": 668,
+  "total_duration": 318.906,
+  "voice": "en-US-AriaNeural"
+}

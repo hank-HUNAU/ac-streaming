@@ -1,0 +1,46 @@
+{
+  "id": "4_bioavailability_of_grape",
+  "title": "Bioavailability of Grape Bioactive Compounds: A Link Between Tissue Bioavailability and Metabolic Health. The bioavailability of grape secondary metabolites in humans is not well understood. Historically, the main challenges have been the very low concentrations of these compounds and the difficulty in detecting specific compounds in tissues or excretory organs, even with advanced analytical instrumentation. Although there are several reports on bioavailability and their potential links to bioactivities, comprehensive metabolome analysis often fails to identify specific transformations or increases in bioactivity within certain time frames. Biochemical reactions can sometimes be masked, making it difficult to detect final products. However, a reverse approach can illuminate the specificity of particular polyphenolic compounds.",
+  "sentences": [
+    {
+      "text": "Bioavailability of Grape Bioactive Compounds: A Link Between Tissue Bioavailability and Metabolic Health.",
+      "start": 0.1,
+      "end": 6.688,
+      "word_count": 13
+    },
+    {
+      "text": "The bioavailability of grape secondary metabolites in humans is not well understood.",
+      "start": 7.55,
+      "end": 12.375,
+      "word_count": 12
+    },
+    {
+      "text": "Historically, the main challenges have been the very low concentrations of these compounds and the difficulty in detecting specific compounds in tissues or excretory organs, even with advanced analytical instrumentation.",
+      "start": 13.238,
+      "end": 26.15,
+      "word_count": 30
+    },
+    {
+      "text": "Although there are several reports on bioavailability and their potential links to bioactivities, comprehensive metabolome analysis often fails to identify specific transformations or increases in bioactivity within certain time frames.",
+      "start": 27.025,
+      "end": 41.05,
+      "word_count": 30
+    },
+    {
+      "text": "Biochemical reactions can sometimes be masked, making it difficult to detect final products.",
+      "start": 41.913,
+      "end": 47.525,
+      "word_count": 13
+    },
+    {
+      "text": "However, a reverse approach can illuminate the specificity of particular polyphenolic compounds.",
+      "start": 48.388,
+      "end": 53.975,
+      "word_count": 12
+    }
+  ],
+  "sentence_count": 6,
+  "word_count": 110,
+  "total_duration": 53.975,
+  "voice": "en-US-AriaNeural"
+}

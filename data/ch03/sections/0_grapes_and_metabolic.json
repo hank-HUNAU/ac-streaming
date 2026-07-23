@@ -1,0 +1,22 @@
+{
+  "id": "0_grapes_and_metabolic",
+  "title": "Grapes and Metabolic Syndrome. Ara Kirakosyan, E. Mitchell Seymour, and Steven F. Bolling.",
+  "sentences": [
+    {
+      "text": "Grapes and Metabolic Syndrome.",
+      "start": 0.1,
+      "end": 1.8,
+      "word_count": 4
+    },
+    {
+      "text": "Ara Kirakosyan, E. Mitchell Seymour, and Steven F. Bolling.",
+      "start": 2.663,
+      "end": 6.8,
+      "word_count": 9
+    }
+  ],
+  "sentence_count": 2,
+  "word_count": 13,
+  "total_duration": 6.8,
+  "voice": "en-US-AriaNeural"
+}

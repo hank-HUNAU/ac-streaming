@@ -1,0 +1,2229 @@
+{
+  "chapter": "04",
+  "title": "04 Grapes and Vision",
+  "sections": [
+    {
+      "id": "grapes_and_vision_jung_eun_kim_and_weili_hu",
+      "title": "Grapes and Vision. Jung Eun Kim and Weili Hu.",
+      "text": "Grapes and Vision. Jung Eun Kim and Weili Hu.",
+      "index": 0,
+      "paragraph_count": 1,
+      "total_chars": 45,
+      "final_id": "0_grapes_and_vision_jung_eun"
+    },
+    {
+      "id": "abstract_this_chapter_explores_the_relationship_between_ocular_health_and_dietary_antioxidants_focusing_on_their_roles_in_maintaining_eye_health_and_mitigating_oxidative_stress_related_eye_pathologies_the_discussion_begins_with_an_overview_of_ocular_anatomy_and_nutrient_distribution_highlighting_the_unique_nutrient_needs_of_different_eye_structures_oxidative_stress_is_identified_as_a_central_contributor_to_many_ocular_diseases_such_as_age_related_macular_degeneration_diabetic_retinopathy_and_cataracts_with_a_detailed_examination_of_the_mechanisms_underlying_these_conditions_the_chapter_further_delves_into_the_protective_mechanisms_of_antioxidants_in_ocular_health_emphasizing_their_ability_to_neutralize_reactive_oxygen_species_and_support_cellular_defense_systems_dietary_antioxidants_such_as_vitamin_a_lutein_and_zeaxanthin_and_polyphenols_are_presented_as_key_contributors_to_eye_health_special_attention_is_given_to_dietary_polyphenols_particularly_from_grapes_which_exhibit_potent_antioxidative_and_anti_inflammatory_properties_which_help_reduce_oxidative_stress_modulate_advanced_glycation_end_products_and_enhance_retinal_functions_this_highlights_grapes_as_a_promising_dietary_strategy_for_mitigating_age_related_and_oxidative_stress_driven_ocular_diseases",
+      "title": "Abstract. This chapter explores the relationship between ocular health and dietary antioxidants, focusing on their roles in maintaining eye health and mitigating oxidative-stress-related eye pathologies. The discussion begins with an overview of ocular anatomy and nutrient distribution, highlighting the unique nutrient needs of different eye structures. Oxidative stress is identified as a central contributor to many ocular diseases, such as age-related macular degeneration, diabetic retinopathy, and cataracts, with a detailed examination of the mechanisms underlying these conditions. The chapter further delves into the protective mechanisms of antioxidants in ocular health, emphasizing their ability to neutralize reactive oxygen species and support cellular defense systems. Dietary antioxidants, such as vitamin A, lutein and zeaxanthin, and polyphenols, are presented as key contributors to eye health. Special attention is given to dietary polyphenols, particularly from grapes, which exhibit potent antioxidative and anti-inflammatory properties, which help reduce oxidative stress, modulate advanced glycation end products, and enhance retinal functions; this highlights grapes as a promising dietary strategy for mitigating age-related and oxidative-stress-driven ocular diseases.",
+      "text": "Abstract. This chapter explores the relationship between ocular health and dietary antioxidants, focusing on their roles in maintaining eye health and mitigating oxidative-stress-related eye pathologies. The discussion begins with an overview of ocular anatomy and nutrient distribution, highlighting the unique nutrient needs of different eye structures. Oxidative stress is identified as a central contributor to many ocular diseases, such as age-related macular degeneration, diabetic retinopathy, and cataracts, with a detailed examination of the mechanisms underlying these conditions. The chapter further delves into the protective mechanisms of antioxidants in ocular health, emphasizing their ability to neutralize reactive oxygen species and support cellular defense systems. Dietary antioxidants, such as vitamin A, lutein and zeaxanthin, and polyphenols, are presented as key contributors to eye health. Special attention is given to dietary polyphenols, particularly from grapes, which exhibit potent antioxidative and anti-inflammatory properties, which help reduce oxidative stress, modulate advanced glycation end products, and enhance retinal functions; this highlights grapes as a promising dietary strategy for mitigating age-related and oxidative-stress-driven ocular diseases.",
+      "index": 1,
+      "paragraph_count": 1,
+      "total_chars": 1296,
+      "final_id": "1_abstract_this_chapter_explores_the"
+    },
+    {
+      "id": "ocular_anatomy_and_nutrient_distribution_in_the_eye_the_human_eyeball_is_composed_of_three_main_layers_the_outermost_supporting_layer_consists_of_the_transparent_cornea_the_opaque_sclera_and_the_limbus_the_region_where_the_cornea_and_sclera_meet_the_sclera_forms_most_of_the_eyes_surface_serving_as_a_fibrous_tissue_surrounding_the_iris_and_transitions_seamlessly_into_the_cornea_which_covers_the_pupil_and_iris_together_with_the_lens_the_cornea_focuses_incoming_light_onto_the_retina_the_middle_layer_known_as_the_uveal_tract_serves_as_the_eyes_central_vascular_layer_and_includes_the_iris_ciliary_body_and_choroid_the_latter_being_rich_in_blood_vessels_that_nourish_the_eye_the_innermost_layer_is_the_retina_which_lines_the_interior_of_the_eye_and_is_responsible_for_detecting_light_and_initiating_the_process_of_vision",
+      "title": "Ocular Anatomy and Nutrient Distribution in the Eye. The human eyeball is composed of three main layers. The outermost supporting layer consists of the transparent cornea, the opaque sclera, and the limbus, the region where the cornea and sclera meet. The sclera forms most of the eye's surface, serving as a fibrous tissue surrounding the iris, and transitions seamlessly into the cornea, which covers the pupil and iris. Together with the lens, the cornea focuses incoming light onto the retina. The middle layer, known as the uveal tract, serves as the eye's central vascular layer and includes the iris, ciliary body, and choroid, the latter being rich in blood vessels that nourish the eye. The innermost layer is the retina, which lines the interior of the eye and is responsible for detecting light and initiating the process of vision.",
+      "text": "Ocular Anatomy and Nutrient Distribution in the Eye. The human eyeball is composed of three main layers. The outermost supporting layer consists of the transparent cornea, the opaque sclera, and the limbus, the region where the cornea and sclera meet. The sclera forms most of the eye's surface, serving as a fibrous tissue surrounding the iris, and transitions seamlessly into the cornea, which covers the pupil and iris. Together with the lens, the cornea focuses incoming light onto the retina. The middle layer, known as the uveal tract, serves as the eye's central vascular layer and includes the iris, ciliary body, and choroid, the latter being rich in blood vessels that nourish the eye. The innermost layer is the retina, which lines the interior of the eye and is responsible for detecting light and initiating the process of vision.",
+      "index": 2,
+      "paragraph_count": 1,
+      "total_chars": 843,
+      "final_id": "2_ocular_anatomy_and_nutrient_distribution"
+    },
+    {
+      "id": "the_retina_is_organized_into_multiple_layers_containing_specialized_cells_synaptic_connections_mainly_occur_in_the_outer_plexiform_layer_where_photoreceptors_connect_with_bipolar_and_horizontal_cells_and_the_inner_plexiform_layer_where_bipolar_and_amacrine_cells_synapse_with_ganglion_cells_the_output_neurons_of_the_retina_there_are_two_types_of_photoreceptors_rods_and_cones_rods_are_highly_sensitive_to_light_enabling_vision_in_low_light_conditions_but_they_do_not_perceive_color_cones_in_contrast_operate_in_bright_light_and_are_responsible_for_color_vision_a_moderate_loss_of_rods_primarily_leads_to_night_blindness_while_a_significant_deficiency_of_rods_or_impaired_cone_function_can_result_in_severe_vision_loss_often_leading_to_legal_blindness_the_fovea_located_at_the_center_of_the_retina_is_the_region_with_the_highest_visual_acuity_and_is_almost_exclusively_populated_by_cones_the_cell_bodies_of_nearby_retinal_neurons_are_displaced_toward_the_periphery_allowing_light_to_reach_the_foveal_photoreceptors_without_obstruction_the_fovea_resides_within_the_macula_a_specialized_retinal_region_characterized_by_its_yellow_pigmentation_due_to_high_concentrations_of_xanthophyll_carotenoids_such_as_lutein_and_zeaxanthin_this_macular_pigment_filters_short_wavelength_blue_light_supplementing_the_lenss_filtering_effect_and_protecting_photoreceptors_from_excessive_blue_and_ultraviolet_light",
+      "title": "The retina is organized into multiple layers containing specialized cells. Synaptic connections mainly occur in the outer plexiform layer, where photoreceptors connect with bipolar and horizontal cells, and the inner plexiform layer, where bipolar and amacrine cells synapse with ganglion cells, the output neurons of the retina. There are two types of photoreceptors: rods and cones. Rods are highly sensitive to light, enabling vision in low-light conditions, but they do not perceive color. Cones, in contrast, operate in bright light and are responsible for color vision. A moderate loss of rods primarily leads to night blindness, while a significant deficiency of rods or impaired cone function can result in severe vision loss, often leading to legal blindness. The fovea, located at the center of the retina, is the region with the highest visual acuity and is almost exclusively populated by cones. The cell bodies of nearby retinal neurons are displaced toward the periphery, allowing light to reach the foveal photoreceptors without obstruction. The fovea resides within the macula, a specialized retinal region characterized by its yellow pigmentation due to high concentrations of xanthophyll carotenoids, such as lutein and zeaxanthin. This macular pigment filters short-wavelength blue light, supplementing the lens's filtering effect and protecting photoreceptors from excessive blue and ultraviolet light.",
+      "text": "The retina is organized into multiple layers containing specialized cells. Synaptic connections mainly occur in the outer plexiform layer, where photoreceptors connect with bipolar and horizontal cells, and the inner plexiform layer, where bipolar and amacrine cells synapse with ganglion cells, the output neurons of the retina. There are two types of photoreceptors: rods and cones. Rods are highly sensitive to light, enabling vision in low-light conditions, but they do not perceive color. Cones, in contrast, operate in bright light and are responsible for color vision. A moderate loss of rods primarily leads to night blindness, while a significant deficiency of rods or impaired cone function can result in severe vision loss, often leading to legal blindness. The fovea, located at the center of the retina, is the region with the highest visual acuity and is almost exclusively populated by cones. The cell bodies of nearby retinal neurons are displaced toward the periphery, allowing light to reach the foveal photoreceptors without obstruction. The fovea resides within the macula, a specialized retinal region characterized by its yellow pigmentation due to high concentrations of xanthophyll carotenoids, such as lutein and zeaxanthin. This macular pigment filters short-wavelength blue light, supplementing the lens's filtering effect and protecting photoreceptors from excessive blue and ultraviolet light.",
+      "index": 3,
+      "paragraph_count": 1,
+      "total_chars": 1422,
+      "final_id": "3_the_retina_is_organized_into"
+    },
+    {
+      "id": "the_retinal_pigment_epithelium_or_r_p_e_forms_the_outermost_layer_of_the_retina_it_is_a_pigmented_monolayer_with_its_apical_membranes_facing_the_photoreceptors_and_its_basolateral_membranes_facing_the_choroid_the_r_p_e_supports_photoreceptors_and_the_neural_retina_by_absorbing_stray_light_maintaining_the_blood_retinal_barrier_and_facilitating_the_transport_of_ions_water_and_metabolic_products_between_the_subretinal_space_and_the_blood_additionally_the_r_p_e_plays_a_critical_role_in_photoreceptor_maintenance_through_its_contributions_to_the_visual_cycle_and_the_continuous_renewal_of_photoreceptor_outer_segments_since_r_p_e_cells_in_the_human_eye_are_postmitotic_and_do_not_divide_they_accumulate_damage_and_dysfunction_over_time_even_due_to_low_level_environmental_insults_the_disruption_of_r_p_e_functions_can_lead_to_the_accumulation_of_toxic_substances_exacerbating_oxidative_damage_in_the_r_p_e_and_inducing_retinal_degeneration_loss_of_visual_function_and_blindness",
+      "title": "The retinal pigment epithelium, or R P E, forms the outermost layer of the retina. It is a pigmented monolayer with its apical membranes facing the photoreceptors and its basolateral membranes facing the choroid. The R P E supports photoreceptors and the neural retina by absorbing stray light, maintaining the blood-retinal barrier, and facilitating the transport of ions, water, and metabolic products between the subretinal space and the blood. Additionally, the R P E plays a critical role in photoreceptor maintenance through its contributions to the visual cycle and the continuous renewal of photoreceptor outer segments. Since R P E cells in the human eye are postmitotic and do not divide, they accumulate damage and dysfunction over time, even due to low-level environmental insults. The disruption of R P E functions can lead to the accumulation of toxic substances, exacerbating oxidative damage in the R P E and inducing retinal degeneration, loss of visual function, and blindness.",
+      "text": "The retinal pigment epithelium, or R P E, forms the outermost layer of the retina. It is a pigmented monolayer with its apical membranes facing the photoreceptors and its basolateral membranes facing the choroid. The R P E supports photoreceptors and the neural retina by absorbing stray light, maintaining the blood-retinal barrier, and facilitating the transport of ions, water, and metabolic products between the subretinal space and the blood. Additionally, the R P E plays a critical role in photoreceptor maintenance through its contributions to the visual cycle and the continuous renewal of photoreceptor outer segments. Since R P E cells in the human eye are postmitotic and do not divide, they accumulate damage and dysfunction over time, even due to low-level environmental insults. The disruption of R P E functions can lead to the accumulation of toxic substances, exacerbating oxidative damage in the R P E and inducing retinal degeneration, loss of visual function, and blindness.",
+      "index": 4,
+      "paragraph_count": 1,
+      "total_chars": 995,
+      "final_id": "4_the_retinal_pigment_epithelium_or"
+    },
+    {
+      "id": "nutrient_distribution_within_the_eye_is_a_highly_coordinated_process_essential_for_maintaining_ocular_health_and_optimal_visual_function_the_eye_receives_nutrients_primarily_through_two_major_blood_supplies_the_choroidal_circulation_and_the_retinal_circulation_with_the_prior_mainly_controlled_by_sympathetic_innervation_and_is_not_autoregulated_while_the_retinal_circulation_is_highly_autoregulated_and_mainly_influenced_by_local_factors_the_r_p_e_plays_a_critical_role_in_regulating_nutrient_transport_by_acting_as_a_selective_barrier_the_blood_retinal_barrier_which_permits_the_passage_of_necessary_molecules_while_restricting_potentially_harmful_substances_thus_supporting_the_delicate_neural_tissues",
+      "title": "Nutrient distribution within the eye is a highly coordinated process essential for maintaining ocular health and optimal visual function. The eye receives nutrients primarily through two major blood supplies: the choroidal circulation and the retinal circulation, with the prior mainly controlled by sympathetic innervation and is not autoregulated, while the retinal circulation is highly autoregulated and mainly influenced by local factors. The R P E plays a critical role in regulating nutrient transport by acting as a selective barrier, the blood-retinal barrier, which permits the passage of necessary molecules while restricting potentially harmful substances, thus supporting the delicate neural tissues.",
+      "text": "Nutrient distribution within the eye is a highly coordinated process essential for maintaining ocular health and optimal visual function. The eye receives nutrients primarily through two major blood supplies: the choroidal circulation and the retinal circulation, with the prior mainly controlled by sympathetic innervation and is not autoregulated, while the retinal circulation is highly autoregulated and mainly influenced by local factors. The R P E plays a critical role in regulating nutrient transport by acting as a selective barrier, the blood-retinal barrier, which permits the passage of necessary molecules while restricting potentially harmful substances, thus supporting the delicate neural tissues.",
+      "index": 5,
+      "paragraph_count": 1,
+      "total_chars": 713,
+      "final_id": "5_nutrient_distribution_within_the_eye"
+    },
+    {
+      "id": "specific_nutrients_are_strategically_distributed_to_different_regions_of_the_eye_to_support_their_unique_roles_in_vision_for_instance_xanthophyll_carotenoids_are_transported_via_the_bloodstream_and_accumulate_in_the_macula_particularly_within_the_photoreceptor_layer_and_müller_cells_of_the_retina_vitamin_a_another_vital_nutrient_is_delivered_to_the_photoreceptors_where_it_is_essential_for_the_synthesis_of_rhodopsin_a_pigment_necessary_for_low_light_vision_water_soluble_antioxidants_such_as_vitamin_c_and_certain_polyphenols_are_also_present_in_high_concentrations_in_the_aqueous_humor_the_clear_fluid_in_the_front_part_of_the_eye_where_they_neutralize_free_radicals_and_protect_ocular_tissues_from_oxidative_stress_vitamin_e_a_lipid_soluble_antioxidant_is_found_in_the_cell_membranes_of_ocular_tissues_including_the_retina_it_safeguards_the_eye_by_preventing_the_peroxidation_of_lipids_within_cell_membranes_thereby_maintaining_cellular_integrity_and_function_polyunsaturated_fatty_acids_especially_docosahexaenoic_acid_an_omega_3_fatty_acid_are_highly_concentrated_in_the_photoreceptor_outer_segments_of_the_retina_d_h_a_plays_both_structural_and_functional_critical_roles_in_the_retina_structurally_it_is_a_major_component_of_cell_membranes_accounting_for_approximately_50_to_60_percent_of_the_total_fatty_acid_content_within_the_rod_outer_segments_of_photoreceptors_functionally_d_h_a_significantly_impacts_photoreceptor_membranes_and_neurotransmitter_systems_involved_in_the_visual_signal_transduction_process_it_plays_a_role_in_rhodopsin_activation_supports_rod_and_cone_development_and_enhances_neural_dendritic_connectivity_this_precise_allocation_of_nutrients_not_only_supports_the_metabolic_demands_of_different_ocular_tissues_but_also_plays_a_pivotal_role_in_protecting_the_eye_against_environmental_insults_and_age_related_degenerative_diseases",
+      "title": "Specific nutrients are strategically distributed to different regions of the eye to support their unique roles in vision. For instance, xanthophyll carotenoids are transported via the bloodstream and accumulate in the macula, particularly within the photoreceptor layer and Müller cells of the retina. Vitamin A, another vital nutrient, is delivered to the photoreceptors, where it is essential for the synthesis of rhodopsin, a pigment necessary for low-light vision. Water-soluble antioxidants, such as vitamin C and certain polyphenols, are also present in high concentrations in the aqueous humor, the clear fluid in the front part of the eye, where they neutralize free radicals and protect ocular tissues from oxidative stress. Vitamin E, a lipid-soluble antioxidant, is found in the cell membranes of ocular tissues, including the retina. It safeguards the eye by preventing the peroxidation of lipids within cell membranes, thereby maintaining cellular integrity and function. Polyunsaturated fatty acids, especially docosahexaenoic acid, an omega-3 fatty acid, are highly concentrated in the photoreceptor outer segments of the retina. D H A plays both structural and functional critical roles in the retina. Structurally, it is a major component of cell membranes, accounting for approximately 50 to 60 percent of the total fatty acid content within the rod outer segments of photoreceptors. Functionally, D H A significantly impacts photoreceptor membranes and neurotransmitter systems involved in the visual signal transduction process. It plays a role in rhodopsin activation, supports rod and cone development, and enhances neural dendritic connectivity. This precise allocation of nutrients not only supports the metabolic demands of different ocular tissues but also plays a pivotal role in protecting the eye against environmental insults and age-related degenerative diseases.",
+      "text": "Specific nutrients are strategically distributed to different regions of the eye to support their unique roles in vision. For instance, xanthophyll carotenoids are transported via the bloodstream and accumulate in the macula, particularly within the photoreceptor layer and Müller cells of the retina. Vitamin A, another vital nutrient, is delivered to the photoreceptors, where it is essential for the synthesis of rhodopsin, a pigment necessary for low-light vision. Water-soluble antioxidants, such as vitamin C and certain polyphenols, are also present in high concentrations in the aqueous humor, the clear fluid in the front part of the eye, where they neutralize free radicals and protect ocular tissues from oxidative stress. Vitamin E, a lipid-soluble antioxidant, is found in the cell membranes of ocular tissues, including the retina. It safeguards the eye by preventing the peroxidation of lipids within cell membranes, thereby maintaining cellular integrity and function. Polyunsaturated fatty acids, especially docosahexaenoic acid, an omega-3 fatty acid, are highly concentrated in the photoreceptor outer segments of the retina. D H A plays both structural and functional critical roles in the retina. Structurally, it is a major component of cell membranes, accounting for approximately 50 to 60 percent of the total fatty acid content within the rod outer segments of photoreceptors. Functionally, D H A significantly impacts photoreceptor membranes and neurotransmitter systems involved in the visual signal transduction process. It plays a role in rhodopsin activation, supports rod and cone development, and enhances neural dendritic connectivity. This precise allocation of nutrients not only supports the metabolic demands of different ocular tissues but also plays a pivotal role in protecting the eye against environmental insults and age-related degenerative diseases.",
+      "index": 6,
+      "paragraph_count": 1,
+      "total_chars": 1894,
+      "final_id": "6_specific_nutrients_are_strategically_distributed"
+    },
+    {
+      "id": "oxidative_stress_and_ocular_pathologies_related_to_oxidative_stress_oxidative_stress_plays_a_critical_role_in_the_etiology_of_various_ocular_pathologies_including_age_related_macular_degeneration_cataracts_diabetic_retinopathy_and_glaucoma_an_imbalance_between_the_production_of_reactive_oxygen_species_and_the_antioxidant_defenses_that_neutralize_them_in_the_eye_can_also_lead_to_the_oxidation_of_cellular_components_and_a_consequent_loss_of_cellular_function_the_eye_is_constantly_exposed_to_damaging_agents_such_as_ionizing_radiation_visible_light_especially_high_energy_blue_light_high_oxygen_levels_and_environmental_chemicals_from_pollutants_industrial_emissions_tobacco_smoke_and_vehicle_exhaust_fumes_these_factors_significantly_promote_the_generation_of_reactive_oxygen_species_beyond_the_capacity_of_ocular_cells_to_dissipate_them_leading_to_oxidative_stress_excess_reactive_oxygen_species_can_react_with_lipids_proteins_and_nucleic_acids_ultimately_causing_the_dysfunction_of_ocular_tissues_and_contributing_to_various_eye_diseases",
+      "title": "Oxidative Stress and Ocular Pathologies Related to Oxidative Stress. Oxidative stress plays a critical role in the etiology of various ocular pathologies, including age-related macular degeneration, cataracts, diabetic retinopathy, and glaucoma. An imbalance between the production of reactive oxygen species and the antioxidant defenses that neutralize them in the eye can also lead to the oxidation of cellular components and a consequent loss of cellular function. The eye is constantly exposed to damaging agents, such as ionizing radiation, visible light, especially high-energy blue light, high oxygen levels, and environmental chemicals from pollutants, industrial emissions, tobacco smoke, and vehicle exhaust fumes. These factors significantly promote the generation of reactive oxygen species beyond the capacity of ocular cells to dissipate them, leading to oxidative stress. Excess reactive oxygen species can react with lipids, proteins, and nucleic acids, ultimately causing the dysfunction of ocular tissues and contributing to various eye diseases.",
+      "text": "Oxidative Stress and Ocular Pathologies Related to Oxidative Stress. Oxidative stress plays a critical role in the etiology of various ocular pathologies, including age-related macular degeneration, cataracts, diabetic retinopathy, and glaucoma. An imbalance between the production of reactive oxygen species and the antioxidant defenses that neutralize them in the eye can also lead to the oxidation of cellular components and a consequent loss of cellular function. The eye is constantly exposed to damaging agents, such as ionizing radiation, visible light, especially high-energy blue light, high oxygen levels, and environmental chemicals from pollutants, industrial emissions, tobacco smoke, and vehicle exhaust fumes. These factors significantly promote the generation of reactive oxygen species beyond the capacity of ocular cells to dissipate them, leading to oxidative stress. Excess reactive oxygen species can react with lipids, proteins, and nucleic acids, ultimately causing the dysfunction of ocular tissues and contributing to various eye diseases.",
+      "index": 7,
+      "paragraph_count": 1,
+      "total_chars": 1064,
+      "final_id": "7_oxidative_stress_and_ocular_pathologies"
+    },
+    {
+      "id": "mitochondria_in_postmitotic_retinal_cells_when_exposed_to_visible_light_produce_reactive_oxygen_species_through_interactions_with_mitochondrial_photosensitizers_like_cytochrome_c_oxidase_this_process_results_in_increased_damage_to_mitochondrial_d_n_a_with_age_contributing_to_mitochondrial_dysfunction_and_cellular_apoptosis_additionally_specific_tissues_in_the_eye_generate_significant_levels_of_reactive_oxygen_species_from_nonmitochondrial_sources_nicotinamide_adenine_dinucleotide_phosphate_oxidase_for_instance_is_a_major_source_of_superoxide_in_microvascular_endothelial_cells_the_reactive_oxygen_species_produced_can_contribute_to_oxidative_damage_of_mitochondria_enhancing_mitochondrial_dysfunction_and_promoting_ocular_diseases_r_p_e_cells_may_also_experience_excess_oxidative_stress_due_to_their_daily_phagocytosis_of_photoreceptor_outer_segments_this_process_can_yield_hydrogen_peroxide_as_a_byproduct_of_phagosomal_n_a_d_p_h_oxidase_activity_or_from_peroxisomal_beta_oxidation_of_phagocytosed_lipids_clinical_and_experimental_studies_consistently_show_that_incomplete_digestion_of_phagocytosed_photoreceptor_components_leads_to_the_formation_and_accumulation_of_lipofuscin_which_is_a_complex_mixture_of_oxidized_indigestible_compounds_rich_in_oxidized_lipids_and_can_act_as_a_potent_photo_inducible_generator_of_reactive_oxygen_species_upon_exposure_to_light_further_exacerbating_oxidative_stress_and_contributing_to_retinal_degeneration_within_r_p_e_cells",
+      "title": "Mitochondria in postmitotic retinal cells, when exposed to visible light, produce reactive oxygen species through interactions with mitochondrial photosensitizers, like cytochrome c oxidase. This process results in increased damage to mitochondrial D N A with age, contributing to mitochondrial dysfunction and cellular apoptosis. Additionally, specific tissues in the eye generate significant levels of reactive oxygen species from nonmitochondrial sources. Nicotinamide adenine dinucleotide phosphate oxidase, for instance, is a major source of superoxide in microvascular endothelial cells. The reactive oxygen species produced can contribute to oxidative damage of mitochondria, enhancing mitochondrial dysfunction and promoting ocular diseases. R P E cells may also experience excess oxidative stress due to their daily phagocytosis of photoreceptor outer segments. This process can yield hydrogen peroxide as a byproduct of phagosomal N A D P H oxidase activity or from peroxisomal beta-oxidation of phagocytosed lipids. Clinical and experimental studies consistently show that incomplete digestion of phagocytosed photoreceptor components leads to the formation and accumulation of lipofuscin, which is a complex mixture of oxidized, indigestible compounds rich in oxidized lipids and can act as a potent photo-inducible generator of reactive oxygen species upon exposure to light, further exacerbating oxidative stress and contributing to retinal degeneration within R P E cells.",
+      "text": "Mitochondria in postmitotic retinal cells, when exposed to visible light, produce reactive oxygen species through interactions with mitochondrial photosensitizers, like cytochrome c oxidase. This process results in increased damage to mitochondrial D N A with age, contributing to mitochondrial dysfunction and cellular apoptosis. Additionally, specific tissues in the eye generate significant levels of reactive oxygen species from nonmitochondrial sources. Nicotinamide adenine dinucleotide phosphate oxidase, for instance, is a major source of superoxide in microvascular endothelial cells. The reactive oxygen species produced can contribute to oxidative damage of mitochondria, enhancing mitochondrial dysfunction and promoting ocular diseases. R P E cells may also experience excess oxidative stress due to their daily phagocytosis of photoreceptor outer segments. This process can yield hydrogen peroxide as a byproduct of phagosomal N A D P H oxidase activity or from peroxisomal beta-oxidation of phagocytosed lipids. Clinical and experimental studies consistently show that incomplete digestion of phagocytosed photoreceptor components leads to the formation and accumulation of lipofuscin, which is a complex mixture of oxidized, indigestible compounds rich in oxidized lipids and can act as a potent photo-inducible generator of reactive oxygen species upon exposure to light, further exacerbating oxidative stress and contributing to retinal degeneration within R P E cells.",
+      "index": 8,
+      "paragraph_count": 1,
+      "total_chars": 1487,
+      "final_id": "8_mitochondria_in_postmitotic_retinal_cells"
+    },
+    {
+      "id": "age_related_macular_degeneration_a_m_d_is_a_progressive_eye_disease_that_primarily_affects_individuals_over_the_age_of_60_and_is_the_leading_cause_of_vision_loss_among_the_older_population_worldwide_initial_symptoms_often_include_a_loss_of_central_visual_acuity_and_distortion_of_straight_lines_which_may_appear_wavy_or_curved_as_the_disease_advances_a_central_scotoma_or_blind_spot_develops_and_expands_significantly_impairing_vision_and_affecting_daily_activities_such_as_reading_and_recognizing_faces",
+      "title": "Age-Related Macular Degeneration. A M D is a progressive eye disease that primarily affects individuals over the age of 60 and is the leading cause of vision loss among the older population worldwide. Initial symptoms often include a loss of central visual acuity and distortion of straight lines, which may appear wavy or curved. As the disease advances, a central scotoma, or blind spot, develops and expands, significantly impairing vision and affecting daily activities, such as reading and recognizing faces.",
+      "text": "Age-Related Macular Degeneration. A M D is a progressive eye disease that primarily affects individuals over the age of 60 and is the leading cause of vision loss among the older population worldwide. Initial symptoms often include a loss of central visual acuity and distortion of straight lines, which may appear wavy or curved. As the disease advances, a central scotoma, or blind spot, develops and expands, significantly impairing vision and affecting daily activities, such as reading and recognizing faces.",
+      "index": 9,
+      "paragraph_count": 1,
+      "total_chars": 513,
+      "final_id": "9_age_related_macular_degeneration_a"
+    },
+    {
+      "id": "a_m_d_is_classified_into_two_main_types_dry_or_atrophic_a_m_d_and_wet_or_neovascular_a_m_d_dry_a_m_d_accounts_for_about_80_to_90_percent_of_cases_and_is_characterized_by_the_accumulation_of_drusen_yellow_deposits_composed_of_lipids_and_proteins_beneath_the_r_p_e_and_a_gradual_thinning_of_the_macula_wet_a_m_d_is_less_common_but_more_severe_involving_abnormal_growth_of_blood_vessels_beneath_the_retina_choroidal_neovascularization_that_leak_fluid_or_blood_leading_to_rapid_and_severe_vision_loss",
+      "title": "A M D is classified into two main types: dry, or atrophic, A M D and wet, or neovascular, A M D. Dry A M D accounts for about 80 to 90 percent of cases and is characterized by the accumulation of drusen, yellow deposits composed of lipids and proteins, beneath the R P E and a gradual thinning of the macula. Wet A M D is less common but more severe, involving abnormal growth of blood vessels beneath the retina, choroidal neovascularization, that leak fluid or blood, leading to rapid and severe vision loss.",
+      "text": "A M D is classified into two main types: dry, or atrophic, A M D and wet, or neovascular, A M D. Dry A M D accounts for about 80 to 90 percent of cases and is characterized by the accumulation of drusen, yellow deposits composed of lipids and proteins, beneath the R P E and a gradual thinning of the macula. Wet A M D is less common but more severe, involving abnormal growth of blood vessels beneath the retina, choroidal neovascularization, that leak fluid or blood, leading to rapid and severe vision loss.",
+      "index": 10,
+      "paragraph_count": 1,
+      "total_chars": 510,
+      "final_id": "10_a_m_d_is_classified"
+    },
+    {
+      "id": "recent_clinical_evidence_supports_the_link_between_oxidative_stress_and_a_m_d_clinical_studies_examining_postmortem_donor_eyes_from_a_m_d_patients_have_provided_strong_evidence_for_the_presence_of_d_n_a_protein_and_lipid_biomarkers_indicative_of_oxidative_stress_in_a_m_d_oxidative_d_n_a_damage_including_elevated_levels_of_8_hydroxy_2_deoxyguanosine_and_enhanced_levels_of_carboxyethylpyrrole_protein_adducts_biomarkers_of_d_h_a_containing_lipid_peroxidation_has_been_detected_in_a_m_d_donor_eyes_in_addition_to_nuclear_d_n_a_damage_oxidative_stress_in_a_m_d_donor_eyes_has_been_linked_to_mitochondrial_d_n_a_damage_within_r_p_e_cells_this_suggests_that_disruptions_in_mitochondrial_homeostasis_and_metabolic_dysfunction_due_to_oxidative_stress_may_play_a_critical_role_in_the_progression_of_macular_degeneration_in_a_m_d",
+      "title": "Recent clinical evidence supports the link between oxidative stress and A M D. Clinical studies examining postmortem donor eyes from A M D patients have provided strong evidence for the presence of D N A, protein, and lipid biomarkers, indicative of oxidative stress in A M D. Oxidative D N A damage, including elevated levels of 8-hydroxy-2-deoxyguanosine and enhanced levels of carboxyethylpyrrole protein adducts, biomarkers of D H A-containing lipid peroxidation, has been detected in A M D donor eyes. In addition to nuclear D N A damage, oxidative stress in A M D donor eyes has been linked to mitochondrial D N A damage within R P E cells. This suggests that disruptions in mitochondrial homeostasis and metabolic dysfunction due to oxidative stress may play a critical role in the progression of macular degeneration in A M D.",
+      "text": "Recent clinical evidence supports the link between oxidative stress and A M D. Clinical studies examining postmortem donor eyes from A M D patients have provided strong evidence for the presence of D N A, protein, and lipid biomarkers, indicative of oxidative stress in A M D. Oxidative D N A damage, including elevated levels of 8-hydroxy-2-deoxyguanosine and enhanced levels of carboxyethylpyrrole protein adducts, biomarkers of D H A-containing lipid peroxidation, has been detected in A M D donor eyes. In addition to nuclear D N A damage, oxidative stress in A M D donor eyes has been linked to mitochondrial D N A damage within R P E cells. This suggests that disruptions in mitochondrial homeostasis and metabolic dysfunction due to oxidative stress may play a critical role in the progression of macular degeneration in A M D.",
+      "index": 11,
+      "paragraph_count": 1,
+      "total_chars": 834,
+      "final_id": "11_recent_clinical_evidence_supports_the"
+    },
+    {
+      "id": "a_m_d_is_a_complex_age_driven_and_multifactorial_disease_and_apart_from_oxidative_stress_other_factors_such_as_genetic_predisposition_and_environmental_influences_also_play_a_crucial_role_in_the_development_and_progression_of_a_m_d_understanding_how_these_factors_interconnect_is_essential_for_developing_comprehensive_prevention_and_treatment_strategies_many_of_the_genes_associated_with_a_m_d_are_linked_to_innate_immunity_and_inflammation_pathways_particularly_those_involving_the_complement_system_such_as_complement_factor_h_complement_component_3_complement_component_2_and_complement_factor_b_and_c_f_h_related_1_and_3_in_addition_to_genetic_predisposition_several_nongenetic_risk_factors_play_a_significant_role_in_a_m_d_risk_and_progression_environmental_factors_like_smoking_significantly_contribute_to_oxidative_stress_in_the_retina_smoking_introduces_additional_reactive_oxygen_species_and_depletes_antioxidant_defenses_doubling_the_risk_of_developing_a_m_d_several_other_nongenetic_risk_factors_have_been_identified_as_influencing_the_risk_and_progression_of_a_m_d_these_include_dietary_habits_higher_body_mass_index_elevated_serum_cholesterol_levels_a_history_of_cataract_surgery_cardiovascular_disease_hypertension_and_prolonged_exposure_to_blue_light_and_ultraviolet_light_addressing_these_modifiable_factors_through_lifestyle_adjustments_and_preventive_measures_may_help_mitigate_the_risk_and_slow_the_progression_of_a_m_d",
+      "title": "A M D is a complex, age-driven, and multifactorial disease, and apart from oxidative stress, other factors, such as genetic predisposition and environmental influences, also play a crucial role in the development and progression of A M D. Understanding how these factors interconnect is essential for developing comprehensive prevention and treatment strategies. Many of the genes associated with A M D are linked to innate immunity and inflammation pathways, particularly those involving the complement system, such as complement factor H, complement component 3, complement component 2 and complement factor B, and C F H-related 1 and 3. In addition to genetic predisposition, several nongenetic risk factors play a significant role in A M D risk and progression. Environmental factors, like smoking, significantly contribute to oxidative stress in the retina. Smoking introduces additional reactive oxygen species and depletes antioxidant defenses, doubling the risk of developing A M D. Several other nongenetic risk factors have been identified as influencing the risk and progression of A M D. These include dietary habits, higher body mass index, elevated serum cholesterol levels, a history of cataract surgery, cardiovascular disease, hypertension, and prolonged exposure to blue light and ultraviolet light. Addressing these modifiable factors through lifestyle adjustments and preventive measures may help mitigate the risk and slow the progression of A M D.",
+      "text": "A M D is a complex, age-driven, and multifactorial disease, and apart from oxidative stress, other factors, such as genetic predisposition and environmental influences, also play a crucial role in the development and progression of A M D. Understanding how these factors interconnect is essential for developing comprehensive prevention and treatment strategies. Many of the genes associated with A M D are linked to innate immunity and inflammation pathways, particularly those involving the complement system, such as complement factor H, complement component 3, complement component 2 and complement factor B, and C F H-related 1 and 3. In addition to genetic predisposition, several nongenetic risk factors play a significant role in A M D risk and progression. Environmental factors, like smoking, significantly contribute to oxidative stress in the retina. Smoking introduces additional reactive oxygen species and depletes antioxidant defenses, doubling the risk of developing A M D. Several other nongenetic risk factors have been identified as influencing the risk and progression of A M D. These include dietary habits, higher body mass index, elevated serum cholesterol levels, a history of cataract surgery, cardiovascular disease, hypertension, and prolonged exposure to blue light and ultraviolet light. Addressing these modifiable factors through lifestyle adjustments and preventive measures may help mitigate the risk and slow the progression of A M D.",
+      "index": 12,
+      "paragraph_count": 1,
+      "total_chars": 1469,
+      "final_id": "12_a_m_d_is_a"
+    },
+    {
+      "id": "diabetic_retinopathy_diabetic_retinopathy_or_d_r_is_the_most_common_microvascular_complication_of_diabetes_mellitus_and_a_leading_cause_of_vision_impairment_and_blindness_among_working_age_adults_worldwide_the_pathogenesis_of_d_r_is_complex_involving_multiple_biochemical_pathways_that_are_influenced_by_chronic_hyperglycemia_prolonged_high_blood_sugar_levels_damage_retinal_blood_vessels_leading_to_increased_vascular_permeability_retinal_ischemia_and_pathological_neovascularization_clinically_patients_with_d_r_may_experience_blurred_vision_floaters_and_in_advanced_stages_significant_vision_loss_due_to_vitreous_hemorrhage_or_tractional_retinal_detachment",
+      "title": "Diabetic Retinopathy. Diabetic retinopathy, or D R, is the most common microvascular complication of diabetes mellitus and a leading cause of vision impairment and blindness among working-age adults worldwide. The pathogenesis of D R is complex, involving multiple biochemical pathways that are influenced by chronic hyperglycemia. Prolonged high blood sugar levels damage retinal blood vessels, leading to increased vascular permeability, retinal ischemia, and pathological neovascularization. Clinically, patients with D R may experience blurred vision, floaters, and, in advanced stages, significant vision loss due to vitreous hemorrhage or tractional retinal detachment.",
+      "text": "Diabetic Retinopathy. Diabetic retinopathy, or D R, is the most common microvascular complication of diabetes mellitus and a leading cause of vision impairment and blindness among working-age adults worldwide. The pathogenesis of D R is complex, involving multiple biochemical pathways that are influenced by chronic hyperglycemia. Prolonged high blood sugar levels damage retinal blood vessels, leading to increased vascular permeability, retinal ischemia, and pathological neovascularization. Clinically, patients with D R may experience blurred vision, floaters, and, in advanced stages, significant vision loss due to vitreous hemorrhage or tractional retinal detachment.",
+      "index": 13,
+      "paragraph_count": 1,
+      "total_chars": 675,
+      "final_id": "13_diabetic_retinopathy_diabetic_retinopathy_or"
+    },
+    {
+      "id": "oxidative_stress_plays_a_pivotal_role_in_the_development_and_progression_of_d_r_chronic_hyperglycemia_induces_the_overproduction_of_reactive_oxygen_species_in_retinal_cells_through_several_mechanisms_including_mitochondrial_dysfunction_and_the_activation_of_enzymatic_sources_like_n_a_d_p_h_oxidase_elevated_levels_of_oxidative_stress_markers_such_as_malondialdehyde_direct_lipid_hydroperoxidation_products_and_advanced_glycation_end_products_have_been_detected_in_the_plasma_and_vitreous_humor_of_patients_with_d_r_compared_to_diabetic_patients_without_retinopathy_and_healthy_controls_additionally_decreased_levels_of_antioxidants_like_superoxide_dismutase_and_glutathione_peroxidase_have_been_observed_suggesting_an_imbalance_between_oxidative_agents_and_antioxidant_defenses",
+      "title": "Oxidative stress plays a pivotal role in the development and progression of D R. Chronic hyperglycemia induces the overproduction of reactive oxygen species in retinal cells through several mechanisms, including mitochondrial dysfunction and the activation of enzymatic sources, like N A D P H oxidase. Elevated levels of oxidative stress markers, such as malondialdehyde, direct lipid hydroperoxidation products, and advanced glycation end products, have been detected in the plasma and vitreous humor of patients with D R compared to diabetic patients without retinopathy and healthy controls. Additionally, decreased levels of antioxidants like superoxide dismutase and glutathione peroxidase have been observed, suggesting an imbalance between oxidative agents and antioxidant defenses.",
+      "text": "Oxidative stress plays a pivotal role in the development and progression of D R. Chronic hyperglycemia induces the overproduction of reactive oxygen species in retinal cells through several mechanisms, including mitochondrial dysfunction and the activation of enzymatic sources, like N A D P H oxidase. Elevated levels of oxidative stress markers, such as malondialdehyde, direct lipid hydroperoxidation products, and advanced glycation end products, have been detected in the plasma and vitreous humor of patients with D R compared to diabetic patients without retinopathy and healthy controls. Additionally, decreased levels of antioxidants like superoxide dismutase and glutathione peroxidase have been observed, suggesting an imbalance between oxidative agents and antioxidant defenses.",
+      "index": 14,
+      "paragraph_count": 1,
+      "total_chars": 790,
+      "final_id": "14_oxidative_stress_plays_a_pivotal"
+    },
+    {
+      "id": "cataracts_in_a_cataract_affected_eye_the_lens_becomes_clouded_due_to_the_accumulation_of_abnormal_pigments_and_the_formation_of_nontransparent_protein_aggregates_this_clouding_disrupts_the_passage_of_light_to_the_retina_leading_to_symptoms_such_as_blurred_or_double_vision_increased_sensitivity_to_light_and_glare_and_a_diminished_perception_of_colors_often_appearing_faded_or_yellowed_the_lens_is_particularly_susceptible_to_oxidative_damage_due_to_its_high_protein_content_and_limited_capacity_for_cellular_repair_or_regeneration_past_review_and_in_vitro_studies_demonstrated_that_human_lens_cells_are_highly_vulnerable_to_oxidative_stress_with_their_antioxidant_activity_showing_an_inverse_relationship_to_cataract_severity",
+      "title": "Cataracts. In a cataract-affected eye, the lens becomes clouded due to the accumulation of abnormal pigments and the formation of nontransparent protein aggregates. This clouding disrupts the passage of light to the retina, leading to symptoms such as blurred or double vision, increased sensitivity to light and glare, and a diminished perception of colors, often appearing faded or yellowed. The lens is particularly susceptible to oxidative damage due to its high protein content and limited capacity for cellular repair or regeneration. Past review and in vitro studies demonstrated that human lens cells are highly vulnerable to oxidative stress, with their antioxidant activity showing an inverse relationship to cataract severity.",
+      "text": "Cataracts. In a cataract-affected eye, the lens becomes clouded due to the accumulation of abnormal pigments and the formation of nontransparent protein aggregates. This clouding disrupts the passage of light to the retina, leading to symptoms such as blurred or double vision, increased sensitivity to light and glare, and a diminished perception of colors, often appearing faded or yellowed. The lens is particularly susceptible to oxidative damage due to its high protein content and limited capacity for cellular repair or regeneration. Past review and in vitro studies demonstrated that human lens cells are highly vulnerable to oxidative stress, with their antioxidant activity showing an inverse relationship to cataract severity.",
+      "index": 15,
+      "paragraph_count": 1,
+      "total_chars": 737,
+      "final_id": "15_cataracts_in_a_cataract_affected"
+    },
+    {
+      "id": "antioxidants_and_their_mechanisms_in_ocular_health_updated_research_continues_to_support_the_understanding_that_antioxidant_mechanisms_in_human_cells_are_mediated_by_both_endogenous_and_exogenous_antioxidants_with_the_latter_predominantly_derived_from_dietary_sources",
+      "title": "Antioxidants and Their Mechanisms in Ocular Health. Updated research continues to support the understanding that antioxidant mechanisms in human cells are mediated by both endogenous and exogenous antioxidants, with the latter predominantly derived from dietary sources.",
+      "text": "Antioxidants and Their Mechanisms in Ocular Health. Updated research continues to support the understanding that antioxidant mechanisms in human cells are mediated by both endogenous and exogenous antioxidants, with the latter predominantly derived from dietary sources.",
+      "index": 16,
+      "paragraph_count": 1,
+      "total_chars": 270,
+      "final_id": "16_antioxidants_and_their_mechanisms_in"
+    },
+    {
+      "id": "endogenous_antioxidants_can_be_categorized_into_primary_and_secondary_defense_systems_primary_antioxidant_enzymes_include_superoxide_dismutase_catalase_and_glutathione_peroxidase_which_play_crucial_roles_in_neutralizing_reactive_oxygen_species_superoxide_dismutases_are_metalloproteins_that_catalyze_the_dismutation_of_superoxide_radicals_into_hydrogen_peroxide_and_oxygen_a_process_that_reduces_the_harmful_effects_of_superoxide_radicals_by_converting_them_into_less_reactive_molecules_this_enzymatic_action_relies_on_metal_ions_at_the_active_site_and_in_human_tissues_two_major_types_are_present_cytosolic_s_o_d1_containing_copper_and_zinc_and_operating_in_the_cytoplasm_to_neutralize_superoxide_radicals_generated_during_cellular_metabolism_and_mitochondrial_s_o_d2_containing_manganese_and_functions_within_mitochondria_to_mitigate_superoxide_radicals_produced_during_oxidative_phosphorylation_catalase_is_located_in_peroxisomes_and_mitochondria_and_decomposes_hydrogen_peroxide_into_water_and_oxygen_preventing_the_formation_of_hydroxyl_radicals_via_the_fenton_reaction_glutathione_peroxidase_present_in_the_cytosol_and_mitochondria_reduces_hydroperoxides_to_water_using_glutathione_secondary_antioxidant_enzymes_including_glutathione_reductase_glucose_6_phosphate_dehydrogenase_glutathione_s_transferase_and_ubiquinone_support_these_defenses_by_regenerating_key_molecules_like_n_a_d_p_h_and_glutathione_which_are_utilized_by_primary_enzymes_for_example_glutathione_reductase_plays_a_crucial_role_in_maintaining_cellular_redox_balance_by_catalyzing_the_reduction_of_oxidized_glutathione_disulfide_back_to_its_reduced_form_g_s_h_using_n_a_d_p_h_produced_by_glucose_6_phosphate_dehydrogenase_as_an_electron_donor_this_process_ensures_a_continuous_supply_of_g_s_h_which_is_essential_for_the_activity_of_glutathione_peroxidase_glutathione_s_transferase_can_lower_the_p_k_a_of_the_thiol_group_in_g_s_h_to_below_6_enhancing_its_reactivity_in_nucleophilic_addition_and_substitution_reactions_with_electrophilic_xenobiotics_as_these_reactions_are_primarily_phase_two_bioconjugation_processes_the_harmful_compounds_are_transformed_into_more_water_soluble_forms_this_increased_solubility_facilitates_the_excretion_of_these_toxic_substances_from_the_cell_thereby_reducing_their_potential_to_cause_oxidative_damage_and_contributing_to_cellular_detoxification_ubiquinone_or_coenzyme_q10_facilitates_electron_transfer_in_the_mitochondrial_electron_transport_chain_between_complexes_one_or_two_and_three_in_its_reduced_form_ubiquinol_it_neutralizes_free_radicals_and_prevents_lipid_peroxidation_in_mitochondrial_and_cellular_membranes_ubiquinol_can_also_regenerate_antioxidants_like_vitamin_e_enhancing_the_antioxidant_network_ubiquinone_has_also_demonstrated_protective_effects_on_retinal_ganglion_cells_and_photoreceptors_potentially_mitigating_oxidative_stress_related_conditions_such_as_glaucoma_and_a_m_d",
+      "title": "Endogenous antioxidants can be categorized into primary and secondary defense systems. Primary antioxidant enzymes include superoxide dismutase, catalase, and glutathione peroxidase, which play crucial roles in neutralizing reactive oxygen species. Superoxide dismutases are metalloproteins that catalyze the dismutation of superoxide radicals into hydrogen peroxide and oxygen, a process that reduces the harmful effects of superoxide radicals by converting them into less reactive molecules. This enzymatic action relies on metal ions at the active site, and in human tissues, two major types are present: cytosolic S O D1, containing copper and zinc and operating in the cytoplasm to neutralize superoxide radicals generated during cellular metabolism, and mitochondrial S O D2, containing manganese and functions within mitochondria to mitigate superoxide radicals produced during oxidative phosphorylation. Catalase is located in peroxisomes and mitochondria and decomposes hydrogen peroxide into water and oxygen, preventing the formation of hydroxyl radicals via the Fenton reaction. Glutathione peroxidase, present in the cytosol and mitochondria, reduces hydroperoxides to water using glutathione. Secondary antioxidant enzymes, including glutathione reductase, glucose-6-phosphate dehydrogenase, glutathione S-transferase, and ubiquinone, support these defenses by regenerating key molecules like N A D P H and glutathione, which are utilized by primary enzymes. For example, glutathione reductase plays a crucial role in maintaining cellular redox balance by catalyzing the reduction of oxidized glutathione disulfide back to its reduced form, G S H, using N A D P H, produced by glucose-6-phosphate dehydrogenase, as an electron donor. This process ensures a continuous supply of G S H, which is essential for the activity of glutathione peroxidase. Glutathione S-transferase can lower the p K a of the thiol group in G S H to below 6, enhancing its reactivity in nucleophilic addition and substitution reactions with electrophilic xenobiotics. As these reactions are primarily Phase two bioconjugation processes, the harmful compounds are transformed into more water-soluble forms. This increased solubility facilitates the excretion of these toxic substances from the cell, thereby reducing their potential to cause oxidative damage and contributing to cellular detoxification. Ubiquinone, or coenzyme Q10, facilitates electron transfer in the mitochondrial electron transport chain between complexes one or two and three. In its reduced form, ubiquinol, it neutralizes free radicals and prevents lipid peroxidation in mitochondrial and cellular membranes. Ubiquinol can also regenerate antioxidants, like vitamin E, enhancing the antioxidant network. Ubiquinone has also demonstrated protective effects on retinal ganglion cells and photoreceptors, potentially mitigating oxidative-stress-related conditions such as glaucoma and A M D.",
+      "text": "Endogenous antioxidants can be categorized into primary and secondary defense systems. Primary antioxidant enzymes include superoxide dismutase, catalase, and glutathione peroxidase, which play crucial roles in neutralizing reactive oxygen species. Superoxide dismutases are metalloproteins that catalyze the dismutation of superoxide radicals into hydrogen peroxide and oxygen, a process that reduces the harmful effects of superoxide radicals by converting them into less reactive molecules. This enzymatic action relies on metal ions at the active site, and in human tissues, two major types are present: cytosolic S O D1, containing copper and zinc and operating in the cytoplasm to neutralize superoxide radicals generated during cellular metabolism, and mitochondrial S O D2, containing manganese and functions within mitochondria to mitigate superoxide radicals produced during oxidative phosphorylation. Catalase is located in peroxisomes and mitochondria and decomposes hydrogen peroxide into water and oxygen, preventing the formation of hydroxyl radicals via the Fenton reaction. Glutathione peroxidase, present in the cytosol and mitochondria, reduces hydroperoxides to water using glutathione. Secondary antioxidant enzymes, including glutathione reductase, glucose-6-phosphate dehydrogenase, glutathione S-transferase, and ubiquinone, support these defenses by regenerating key molecules like N A D P H and glutathione, which are utilized by primary enzymes. For example, glutathione reductase plays a crucial role in maintaining cellular redox balance by catalyzing the reduction of oxidized glutathione disulfide back to its reduced form, G S H, using N A D P H, produced by glucose-6-phosphate dehydrogenase, as an electron donor. This process ensures a continuous supply of G S H, which is essential for the activity of glutathione peroxidase. Glutathione S-transferase can lower the p K a of the thiol group in G S H to below 6, enhancing its reactivity in nucleophilic addition and substitution reactions with electrophilic xenobiotics. As these reactions are primarily Phase two bioconjugation processes, the harmful compounds are transformed into more water-soluble forms. This increased solubility facilitates the excretion of these toxic substances from the cell, thereby reducing their potential to cause oxidative damage and contributing to cellular detoxification. Ubiquinone, or coenzyme Q10, facilitates electron transfer in the mitochondrial electron transport chain between complexes one or two and three. In its reduced form, ubiquinol, it neutralizes free radicals and prevents lipid peroxidation in mitochondrial and cellular membranes. Ubiquinol can also regenerate antioxidants, like vitamin E, enhancing the antioxidant network. Ubiquinone has also demonstrated protective effects on retinal ganglion cells and photoreceptors, potentially mitigating oxidative-stress-related conditions such as glaucoma and A M D.",
+      "index": 17,
+      "paragraph_count": 1,
+      "total_chars": 2950,
+      "final_id": "17_endogenous_antioxidants_can_be_categorized"
+    },
+    {
+      "id": "exogenous_antioxidants_derived_from_dietary_sources_complement_endogenous_systems_by_providing_additional_protection_against_oxidative_stress_these_include_a_variety_of_nutrients_and_bioactive_compounds_such_as_vitamins_carotenoids_and_polyphenols_exogenous_antioxidants_can_be_water_soluble_such_as_vitamin_c_which_functions_in_the_cytosol_or_fat_soluble_like_vitamin_e_and_carotenoids_which_are_located_in_cell_membranes_vitamin_c_directly_scavenges_reactive_oxygen_species_in_the_cytosol_and_regenerates_other_antioxidants_such_as_vitamin_e_restoring_them_to_their_active_forms_vitamin_e_a_powerful_lipid_soluble_antioxidant_interrupts_lipid_peroxidation_by_scavenging_hydroperoxyl_radicals_in_lipid_environments_thereby_preserving_membrane_integrity_and_function_an_essential_process_for_maintaining_retinal_health_polyphenols_found_in_foods_such_as_grapes_berries_and_green_tea_exhibit_antioxidant_properties_through_multiple_mechanisms_scavenging_free_radicals_disrupting_metal_ion_chelation_modulating_the_oxidoreductase_enzyme_system_regulating_antioxidant_responsive_signaling_pathways_particularly_by_promoting_the_nuclear_translocation_of_nuclear_factor_erythroid_2_related_factor_2_or_nrf2_under_oxidative_stress_and_restoring_mitochondrial_function_trace_minerals_such_as_selenium_iron_copper_zinc_and_manganese_are_essential_cofactors_for_the_optimal_catalytic_activity_of_key_endogenous_antioxidant_enzymes_recent_studies_highlight_that_insufficient_dietary_intake_of_these_minerals_can_compromise_the_bodys_antioxidant_defenses_increasing_vulnerability_to_oxidative_stress",
+      "title": "Exogenous antioxidants, derived from dietary sources, complement endogenous systems by providing additional protection against oxidative stress. These include a variety of nutrients and bioactive compounds, such as vitamins, carotenoids, and polyphenols. Exogenous antioxidants can be water soluble, such as vitamin C, which functions in the cytosol, or fat soluble, like vitamin E and carotenoids, which are located in cell membranes. Vitamin C directly scavenges reactive oxygen species in the cytosol and regenerates other antioxidants, such as vitamin E, restoring them to their active forms. Vitamin E, a powerful lipid-soluble antioxidant, interrupts lipid peroxidation by scavenging hydroperoxyl radicals in lipid environments, thereby preserving membrane integrity and function, an essential process for maintaining retinal health. Polyphenols, found in foods such as grapes, berries, and green tea, exhibit antioxidant properties through multiple mechanisms: scavenging free radicals, disrupting metal ion chelation, modulating the oxidoreductase enzyme system, regulating antioxidant-responsive signaling pathways particularly by promoting the nuclear translocation of nuclear factor erythroid 2-related factor 2, or Nrf2, under oxidative stress, and restoring mitochondrial function. Trace minerals, such as selenium, iron, copper, zinc, and manganese, are essential cofactors for the optimal catalytic activity of key endogenous antioxidant enzymes. Recent studies highlight that insufficient dietary intake of these minerals can compromise the body's antioxidant defenses, increasing vulnerability to oxidative stress.",
+      "text": "Exogenous antioxidants, derived from dietary sources, complement endogenous systems by providing additional protection against oxidative stress. These include a variety of nutrients and bioactive compounds, such as vitamins, carotenoids, and polyphenols. Exogenous antioxidants can be water soluble, such as vitamin C, which functions in the cytosol, or fat soluble, like vitamin E and carotenoids, which are located in cell membranes. Vitamin C directly scavenges reactive oxygen species in the cytosol and regenerates other antioxidants, such as vitamin E, restoring them to their active forms. Vitamin E, a powerful lipid-soluble antioxidant, interrupts lipid peroxidation by scavenging hydroperoxyl radicals in lipid environments, thereby preserving membrane integrity and function, an essential process for maintaining retinal health. Polyphenols, found in foods such as grapes, berries, and green tea, exhibit antioxidant properties through multiple mechanisms: scavenging free radicals, disrupting metal ion chelation, modulating the oxidoreductase enzyme system, regulating antioxidant-responsive signaling pathways particularly by promoting the nuclear translocation of nuclear factor erythroid 2-related factor 2, or Nrf2, under oxidative stress, and restoring mitochondrial function. Trace minerals, such as selenium, iron, copper, zinc, and manganese, are essential cofactors for the optimal catalytic activity of key endogenous antioxidant enzymes. Recent studies highlight that insufficient dietary intake of these minerals can compromise the body's antioxidant defenses, increasing vulnerability to oxidative stress.",
+      "index": 18,
+      "paragraph_count": 1,
+      "total_chars": 1631,
+      "final_id": "18_exogenous_antioxidants_derived_from_dietary"
+    },
+    {
+      "id": "emerging_evidence_suggests_that_maintaining_a_balanced_diet_rich_in_essential_trace_minerals_and_antioxidant_rich_foods_is_critical_for_supporting_both_endogenous_and_exogenous_defense_systems_potentially_mitigating_oxidative_stress_related_cellular_damage_and_contributing_to_overall_health_including_eye_health_a_recently_developed_comprehensive_dietary_antioxidant_index_evaluates_overall_exposure_to_dietary_antioxidants_this_index_incorporates_the_standardized_intake_of_six_key_antioxidant_nutrients_vitamin_a_vitamin_c_vitamin_e_zinc_selenium_and_carotenoids_findings_based_on_data_from_the_national_health_and_nutrition_examination_survey_revealed_an_inverse_correlation_between_crohns_disease_activity_index_scores_and_glaucoma_with_higher_crohns_disease_activity_index_scores_being_associated_with_a_lower_risk_of_glaucoma_higher_crohns_disease_activity_index_was_also_found_to_be_associated_with_a_lower_risk_of_developing_diabetic_retinopathy_in_patients_with_type_2_diabetes",
+      "title": "Emerging evidence suggests that maintaining a balanced diet rich in essential trace minerals and antioxidant-rich foods is critical for supporting both endogenous and exogenous defense systems, potentially mitigating oxidative-stress-related cellular damage and contributing to overall health, including eye health. A recently developed comprehensive dietary antioxidant index evaluates overall exposure to dietary antioxidants. This index incorporates the standardized intake of six key antioxidant nutrients: vitamin A, vitamin C, vitamin E, zinc, selenium, and carotenoids. Findings based on data from the National Health and Nutrition Examination Survey revealed an inverse correlation between Crohn's Disease Activity Index scores and glaucoma, with higher Crohn's Disease Activity Index scores being associated with a lower risk of glaucoma. Higher Crohn's Disease Activity Index was also found to be associated with a lower risk of developing diabetic retinopathy in patients with type 2 diabetes.",
+      "text": "Emerging evidence suggests that maintaining a balanced diet rich in essential trace minerals and antioxidant-rich foods is critical for supporting both endogenous and exogenous defense systems, potentially mitigating oxidative-stress-related cellular damage and contributing to overall health, including eye health. A recently developed comprehensive dietary antioxidant index evaluates overall exposure to dietary antioxidants. This index incorporates the standardized intake of six key antioxidant nutrients: vitamin A, vitamin C, vitamin E, zinc, selenium, and carotenoids. Findings based on data from the National Health and Nutrition Examination Survey revealed an inverse correlation between Crohn's Disease Activity Index scores and glaucoma, with higher Crohn's Disease Activity Index scores being associated with a lower risk of glaucoma. Higher Crohn's Disease Activity Index was also found to be associated with a lower risk of developing diabetic retinopathy in patients with type 2 diabetes.",
+      "index": 19,
+      "paragraph_count": 1,
+      "total_chars": 1004,
+      "final_id": "19_emerging_evidence_suggests_that_maintaining"
+    },
+    {
+      "id": "dietary_antioxidants_and_their_benefits_for_vision_due_to_antioxidant_effects_and_possible_accumulation_in_the_eyes_key_nutrients_and_dietary_antioxidants_such_as_vitamin_a_vitamin_c_vitamin_e_and_carotenoids_like_lutein_and_zeaxanthin_have_gained_significant_attention_for_their_potential_to_reduce_the_risk_of_eye_diseases_and_support_overall_eye_health_additionally_essential_minerals_like_zinc_omega_3_fatty_acids_such_as_eicosapentaenoic_acid_and_d_h_a_along_with_polyphenols_and_flavonoids_found_in_various_plant_based_foods_have_been_shown_to_combat_oxidative_stress_and_inflammation_which_are_associated_with_common_eye_disorders_together_these_dietary_components_help_neutralize_harmful_free_radicals_and_protect_retinal_cells_and_may_play_a_crucial_role_in_preventing_or_delaying_the_onset_of_conditions_like_a_m_d_cataracts_and_other_age_related_vision_impairments",
+      "title": "Dietary Antioxidants and Their Benefits for Vision. Due to antioxidant effects and possible accumulation in the eyes, key nutrients and dietary antioxidants, such as vitamin A, vitamin C, vitamin E, and carotenoids like lutein and zeaxanthin, have gained significant attention for their potential to reduce the risk of eye diseases and support overall eye health. Additionally, essential minerals like zinc, omega-3 fatty acids such as eicosapentaenoic acid and D H A, along with polyphenols and flavonoids found in various plant-based foods, have been shown to combat oxidative stress and inflammation, which are associated with common eye disorders. Together, these dietary components help neutralize harmful free radicals and protect retinal cells and may play a crucial role in preventing or delaying the onset of conditions like A M D, cataracts, and other age-related vision impairments.",
+      "text": "Dietary Antioxidants and Their Benefits for Vision. Due to antioxidant effects and possible accumulation in the eyes, key nutrients and dietary antioxidants, such as vitamin A, vitamin C, vitamin E, and carotenoids like lutein and zeaxanthin, have gained significant attention for their potential to reduce the risk of eye diseases and support overall eye health. Additionally, essential minerals like zinc, omega-3 fatty acids such as eicosapentaenoic acid and D H A, along with polyphenols and flavonoids found in various plant-based foods, have been shown to combat oxidative stress and inflammation, which are associated with common eye disorders. Together, these dietary components help neutralize harmful free radicals and protect retinal cells and may play a crucial role in preventing or delaying the onset of conditions like A M D, cataracts, and other age-related vision impairments.",
+      "index": 20,
+      "paragraph_count": 1,
+      "total_chars": 893,
+      "final_id": "20_dietary_antioxidants_and_their_benefits"
+    },
+    {
+      "id": "effects_of_vitamin_a_on_eye_health_vitamin_a_a_group_of_fat_soluble_retinoids_includes_preformed_vitamin_a_retinol_and_retinyl_esters_and_provitamin_a_carotenoids_such_as_beta_carotene_alpha_carotene_and_beta_cryptoxanthin_the_human_diet_provides_two_primary_sources_of_vitamin_a_first_preformed_vitamin_a_found_in_animal_based_foods_like_dairy_products_eggs_fish_and_organ_meats_and_second_provitamin_a_carotenoids_which_are_plant_pigments_found_in_fruits_and_vegetables_the_body_converts_provitamin_a_carotenoids_into_vitamin_a_in_the_intestine_via_the_beta_carotene_monooxygenase_type_1_enzyme_though_the_efficiency_of_this_conversion_can_vary_due_to_genetic_factors",
+      "title": "Effects of Vitamin A on Eye Health. Vitamin A, a group of fat-soluble retinoids, includes preformed vitamin A, retinol and retinyl esters, and provitamin A carotenoids, such as beta-carotene, alpha-carotene, and beta-cryptoxanthin. The human diet provides two primary sources of vitamin A: first, preformed vitamin A found in animal-based foods like dairy products, eggs, fish, and organ meats, and second, provitamin A carotenoids, which are plant pigments found in fruits and vegetables. The body converts provitamin A carotenoids into vitamin A in the intestine via the beta-carotene monooxygenase type 1 enzyme, though the efficiency of this conversion can vary due to genetic factors.",
+      "text": "Effects of Vitamin A on Eye Health. Vitamin A, a group of fat-soluble retinoids, includes preformed vitamin A, retinol and retinyl esters, and provitamin A carotenoids, such as beta-carotene, alpha-carotene, and beta-cryptoxanthin. The human diet provides two primary sources of vitamin A: first, preformed vitamin A found in animal-based foods like dairy products, eggs, fish, and organ meats, and second, provitamin A carotenoids, which are plant pigments found in fruits and vegetables. The body converts provitamin A carotenoids into vitamin A in the intestine via the beta-carotene monooxygenase type 1 enzyme, though the efficiency of this conversion can vary due to genetic factors.",
+      "index": 21,
+      "paragraph_count": 1,
+      "total_chars": 689,
+      "final_id": "21_effects_of_vitamin_a_on"
+    },
+    {
+      "id": "vitamin_as_hydrophobic_polyene_chain_enables_it_to_scavenge_reactive_oxygen_species_and_neutralize_free_radicals_which_helps_protect_ocular_cells_from_oxidative_stress_and_damage_the_retinol_form_of_vitamin_a_is_converted_into_retinal_its_visually_active_form_in_various_tissues_retinal_plays_a_critical_role_in_the_formation_of_rhodopsin_the_protein_essential_for_vision_in_low_light_conditions_retinal_can_also_be_further_converted_into_retinoic_acid_a_powerful_transcription_factor_involved_in_cellular_growth_and_differentiation_while_retinal_concentrations_are_typically_low_in_most_tissues_except_in_the_retina_where_it_is_essential_for_vision_the_enzyme_kinetics_favor_its_reconversion_into_retinol_or_transformation_into_retinoic_acid",
+      "title": "Vitamin A's hydrophobic polyene chain enables it to scavenge reactive oxygen species and neutralize free radicals, which helps protect ocular cells from oxidative stress and damage. The retinol form of vitamin A is converted into retinal, its visually active form, in various tissues. Retinal plays a critical role in the formation of rhodopsin, the protein essential for vision in low-light conditions. Retinal can also be further converted into retinoic acid, a powerful transcription factor involved in cellular growth and differentiation. While retinal concentrations are typically low in most tissues, except in the retina, where it is essential for vision, the enzyme kinetics favor its reconversion into retinol or transformation into retinoic acid.",
+      "text": "Vitamin A's hydrophobic polyene chain enables it to scavenge reactive oxygen species and neutralize free radicals, which helps protect ocular cells from oxidative stress and damage. The retinol form of vitamin A is converted into retinal, its visually active form, in various tissues. Retinal plays a critical role in the formation of rhodopsin, the protein essential for vision in low-light conditions. Retinal can also be further converted into retinoic acid, a powerful transcription factor involved in cellular growth and differentiation. While retinal concentrations are typically low in most tissues, except in the retina, where it is essential for vision, the enzyme kinetics favor its reconversion into retinol or transformation into retinoic acid.",
+      "index": 22,
+      "paragraph_count": 1,
+      "total_chars": 756,
+      "final_id": "22_vitamin_as_hydrophobic_polyene_chain"
+    },
+    {
+      "id": "some_preclinical_studies_have_shown_that_vitamin_a_and_its_metabolites_can_protect_r_p_e_cells_from_oxidative_stress_induced_apoptosis_and_photoreceptor_functions_in_rat_and_mouse_models_however_in_vitro_studies_using_human_r_p_e_cell_lines_have_raised_concerns_about_the_potential_toxicity_of_provitamin_a_carotenoids_when_undergoing_oxidation_and_form_carotenoid_derived_aldehydes_which_can_be_toxic_to_ocular_tissues_potentially_leading_to_retinal_damage_this_highlights_the_complexity_of_the_effects_of_vitamin_a_metabolism_in_the_eye_and_the_need_for_further_research_to_determine_the_balance_between_their_protective_and_potentially_harmful_effects",
+      "title": "Some preclinical studies have shown that vitamin A and its metabolites can protect R P E cells from oxidative-stress-induced apoptosis and photoreceptor functions in rat and mouse models. However, in vitro studies using human R P E cell lines have raised concerns about the potential toxicity of provitamin A carotenoids when undergoing oxidation and form carotenoid-derived aldehydes, which can be toxic to ocular tissues, potentially leading to retinal damage. This highlights the complexity of the effects of vitamin A metabolism in the eye and the need for further research to determine the balance between their protective and potentially harmful effects.",
+      "text": "Some preclinical studies have shown that vitamin A and its metabolites can protect R P E cells from oxidative-stress-induced apoptosis and photoreceptor functions in rat and mouse models. However, in vitro studies using human R P E cell lines have raised concerns about the potential toxicity of provitamin A carotenoids when undergoing oxidation and form carotenoid-derived aldehydes, which can be toxic to ocular tissues, potentially leading to retinal damage. This highlights the complexity of the effects of vitamin A metabolism in the eye and the need for further research to determine the balance between their protective and potentially harmful effects.",
+      "index": 23,
+      "paragraph_count": 1,
+      "total_chars": 660,
+      "final_id": "23_some_preclinical_studies_have_shown"
+    },
+    {
+      "id": "on_the_other_hand_human_clinical_evidence_strongly_supports_the_protective_role_of_vitamin_a_in_eye_health_in_populations_with_vitamin_a_deficiency_supplementation_has_been_shown_to_improve_night_vision_and_prevent_the_onset_of_severe_eye_conditions_such_as_xerophthalmia_a_condition_characterized_by_dry_eyes_and_progressive_blindness_if_untreated_in_nepal_vitamin_a_or_beta_carotene_supplementation_was_shown_to_significantly_reduce_the_incidence_of_maternal_night_blindness_further_emphasizing_its_importance_for_vision_past_systematic_review_has_also_demonstrated_the_significant_benefits_of_vitamin_a_supplementation_in_children_with_deficient_levels_where_supplementation_notably_reduced_the_risk_of_night_blindness_caused_by_vitamin_a_deficiency_moreover_epidemiological_data_from_the_national_health_and_nutrition_examination_survey_revealed_that_individuals_who_consumed_higher_amounts_of_fruits_and_vegetables_rich_in_vitamin_a_exhibited_a_decreased_risk_of_developing_a_m_d_this_finding_suggests_that_a_diet_rich_in_vitamin_a_may_help_prevent_or_delay_the_onset_of_a_m_d_a_leading_cause_of_vision_loss_in_older_adults_and_may_provide_particular_eye_health_benefits_for_populations_at_higher_risk_of_deficiency",
+      "title": "On the other hand, human clinical evidence strongly supports the protective role of vitamin A in eye health. In populations with vitamin A deficiency, supplementation has been shown to improve night vision and prevent the onset of severe eye conditions, such as xerophthalmia, a condition characterized by dry eyes and progressive blindness if untreated. In Nepal, vitamin A or beta-carotene supplementation was shown to significantly reduce the incidence of maternal night blindness, further emphasizing its importance for vision. Past systematic review has also demonstrated the significant benefits of vitamin A supplementation in children with deficient levels, where supplementation notably reduced the risk of night blindness caused by vitamin A deficiency. Moreover, epidemiological data from the National Health and Nutrition Examination Survey revealed that individuals who consumed higher amounts of fruits and vegetables rich in vitamin A exhibited a decreased risk of developing A M D. This finding suggests that a diet rich in vitamin A may help prevent or delay the onset of A M D, a leading cause of vision loss in older adults, and may provide particular eye health benefits for populations at higher risk of deficiency.",
+      "text": "On the other hand, human clinical evidence strongly supports the protective role of vitamin A in eye health. In populations with vitamin A deficiency, supplementation has been shown to improve night vision and prevent the onset of severe eye conditions, such as xerophthalmia, a condition characterized by dry eyes and progressive blindness if untreated. In Nepal, vitamin A or beta-carotene supplementation was shown to significantly reduce the incidence of maternal night blindness, further emphasizing its importance for vision. Past systematic review has also demonstrated the significant benefits of vitamin A supplementation in children with deficient levels, where supplementation notably reduced the risk of night blindness caused by vitamin A deficiency. Moreover, epidemiological data from the National Health and Nutrition Examination Survey revealed that individuals who consumed higher amounts of fruits and vegetables rich in vitamin A exhibited a decreased risk of developing A M D. This finding suggests that a diet rich in vitamin A may help prevent or delay the onset of A M D, a leading cause of vision loss in older adults, and may provide particular eye health benefits for populations at higher risk of deficiency.",
+      "index": 24,
+      "paragraph_count": 1,
+      "total_chars": 1236,
+      "final_id": "24_on_the_other_hand_human"
+    },
+    {
+      "id": "effects_of_lutein_and_zeaxanthin_on_eye_health_lutein_zeaxanthin_and_meso_zeaxanthin_are_macular_xanthophylls_commonly_found_together_in_the_retina_since_meso_zeaxanthin_cannot_be_obtained_directly_from_the_human_diet_and_is_instead_synthesized_from_lutein_dietary_macular_xanthophylls_are_typically_referred_to_as_lutein_and_zeaxanthin_the_most_common_dietary_sources_of_these_xanthophylls_include_green_leafy_vegetables_such_as_kale_spinach_broccoli_peas_and_lettuce_as_well_as_egg_yolk_while_predominantly_localized_in_the_macula_lutein_and_zeaxanthin_are_also_distributed_throughout_the_retina_including_in_the_photoreceptor_outer_segments_and_r_p_e_with_the_highest_concentration_in_the_outer_plexiform_layer_one_of_the_protective_roles_of_lutein_and_zeaxanthin_is_their_ability_to_scavenge_oxygen_free_radicals_under_oxidative_stress_in_addition_to_their_antioxidant_properties_lutein_and_zeaxanthin_selectively_absorb_blue_light_peaking_at_an_absorption_wavelength_of_446_nanometers_light_induced_retinal_damage_varies_with_wavelength_exposure_time_and_intensity_with_blue_light_requiring_significantly_less_intensity_to_cause_damage_compared_to_orange_light_this_suggests_that_lutein_and_zeaxanthin_play_a_protective_role_in_the_macula_by_filtering_harmful_wavelengths_and_reducing_photoreceptor_damage",
+      "title": "Effects of Lutein and Zeaxanthin on Eye Health. Lutein, zeaxanthin, and meso-zeaxanthin are macular xanthophylls commonly found together in the retina. Since meso-zeaxanthin cannot be obtained directly from the human diet and is instead synthesized from lutein, dietary macular xanthophylls are typically referred to as lutein and zeaxanthin. The most common dietary sources of these xanthophylls include green leafy vegetables such as kale, spinach, broccoli, peas, and lettuce, as well as egg yolk. While predominantly localized in the macula, lutein and zeaxanthin are also distributed throughout the retina, including in the photoreceptor outer segments and R P E, with the highest concentration in the outer plexiform layer. One of the protective roles of lutein and zeaxanthin is their ability to scavenge oxygen-free radicals under oxidative stress. In addition to their antioxidant properties, lutein and zeaxanthin selectively absorb blue light, peaking at an absorption wavelength of 446 nanometers. Light-induced retinal damage varies with wavelength, exposure time, and intensity, with blue light requiring significantly less intensity to cause damage compared to orange light. This suggests that lutein and zeaxanthin play a protective role in the macula by filtering harmful wavelengths and reducing photoreceptor damage.",
+      "text": "Effects of Lutein and Zeaxanthin on Eye Health. Lutein, zeaxanthin, and meso-zeaxanthin are macular xanthophylls commonly found together in the retina. Since meso-zeaxanthin cannot be obtained directly from the human diet and is instead synthesized from lutein, dietary macular xanthophylls are typically referred to as lutein and zeaxanthin. The most common dietary sources of these xanthophylls include green leafy vegetables such as kale, spinach, broccoli, peas, and lettuce, as well as egg yolk. While predominantly localized in the macula, lutein and zeaxanthin are also distributed throughout the retina, including in the photoreceptor outer segments and R P E, with the highest concentration in the outer plexiform layer. One of the protective roles of lutein and zeaxanthin is their ability to scavenge oxygen-free radicals under oxidative stress. In addition to their antioxidant properties, lutein and zeaxanthin selectively absorb blue light, peaking at an absorption wavelength of 446 nanometers. Light-induced retinal damage varies with wavelength, exposure time, and intensity, with blue light requiring significantly less intensity to cause damage compared to orange light. This suggests that lutein and zeaxanthin play a protective role in the macula by filtering harmful wavelengths and reducing photoreceptor damage.",
+      "index": 25,
+      "paragraph_count": 1,
+      "total_chars": 1335,
+      "final_id": "25_effects_of_lutein_and_zeaxanthin"
+    },
+    {
+      "id": "lutein_and_zeaxanthin_have_been_extensively_studied_for_their_effects_on_ocular_cells_in_cell_cultures_experimental_animal_models_of_ocular_diseases_and_human_clinical_studies_in_studies_with_r_p_e_cells_the_administration_of_lutein_and_zeaxanthin_under_oxidative_stress_conditions_induced_by_chemical_agents_such_as_hydrogen_peroxide_or_by_ultraviolet_light_mimicking_blue_light_has_been_shown_to_reduce_cell_apoptosis_decrease_reactive_oxygen_species_formation_prevent_lipofuscin_accumulation_and_protect_r_p_e_cellular_functions_recent_research_also_demonstrated_that_using_a_three_dimensional_r_p_e_monolayer_which_more_accurately_mimics_the_human_eyes_anatomy_lutein_promoted_cell_survival_by_reducing_oxidative_stress_and_improved_the_barrier_and_phagocytosis_functions_of_light_damaged_r_p_e_cells_as_lutein_and_zeaxanthin_are_fat_soluble_researchers_have_also_studied_their_solubilization_into_reconstituted_high_density_lipoprotein_particles_for_improved_therapeutic_benefit_lutein_nanodisks_for_example_have_been_found_to_protect_human_r_p_e_cells_from_ultraviolet_light_induced_damage_by_enhancing_lutein_uptake_and_reducing_cell_viability_loss",
+      "title": "Lutein and zeaxanthin have been extensively studied for their effects on ocular cells in cell cultures, experimental animal models of ocular diseases, and human clinical studies. In studies with R P E cells, the administration of lutein and zeaxanthin under oxidative stress conditions, induced by chemical agents such as hydrogen peroxide or by ultraviolet light mimicking blue light, has been shown to reduce cell apoptosis, decrease reactive oxygen species formation, prevent lipofuscin accumulation, and protect R P E cellular functions. Recent research also demonstrated that using a three-dimensional R P E monolayer, which more accurately mimics the human eye's anatomy, lutein promoted cell survival by reducing oxidative stress and improved the barrier and phagocytosis functions of light-damaged R P E cells. As lutein and zeaxanthin are fat soluble, researchers have also studied their solubilization into reconstituted high-density lipoprotein particles for improved therapeutic benefit. Lutein nanodisks, for example, have been found to protect human R P E cells from ultraviolet-light-induced damage by enhancing lutein uptake and reducing cell viability loss.",
+      "text": "Lutein and zeaxanthin have been extensively studied for their effects on ocular cells in cell cultures, experimental animal models of ocular diseases, and human clinical studies. In studies with R P E cells, the administration of lutein and zeaxanthin under oxidative stress conditions, induced by chemical agents such as hydrogen peroxide or by ultraviolet light mimicking blue light, has been shown to reduce cell apoptosis, decrease reactive oxygen species formation, prevent lipofuscin accumulation, and protect R P E cellular functions. Recent research also demonstrated that using a three-dimensional R P E monolayer, which more accurately mimics the human eye's anatomy, lutein promoted cell survival by reducing oxidative stress and improved the barrier and phagocytosis functions of light-damaged R P E cells. As lutein and zeaxanthin are fat soluble, researchers have also studied their solubilization into reconstituted high-density lipoprotein particles for improved therapeutic benefit. Lutein nanodisks, for example, have been found to protect human R P E cells from ultraviolet-light-induced damage by enhancing lutein uptake and reducing cell viability loss.",
+      "index": 26,
+      "paragraph_count": 1,
+      "total_chars": 1174,
+      "final_id": "26_lutein_and_zeaxanthin_have_been"
+    },
+    {
+      "id": "animal_studies_using_apolipoprotein_e_deficient_mice_to_mimic_the_pathological_changes_seen_in_a_m_d_have_shown_that_supplementation_with_a_complex_of_lutein_multivitamins_and_glutathione_can_delay_or_even_reverse_structural_changes_reduce_vascular_endothelial_growth_factor_expression_decrease_lipofuscin_accumulation_and_preserve_photoreceptor_integrity_moreover_when_treated_with_the_age_related_eye_disease_study_2_formula_consisting_of_lutein_and_zeaxanthin_these_same_benefits_were_observed_in_the_mouse_retina",
+      "title": "Animal studies using apolipoprotein E-deficient mice to mimic the pathological changes seen in A M D have shown that supplementation with a complex of lutein, multivitamins, and glutathione can delay or even reverse structural changes, reduce vascular endothelial growth factor expression, decrease lipofuscin accumulation, and preserve photoreceptor integrity. Moreover, when treated with the Age-Related Eye Disease Study 2 formula, consisting of lutein and zeaxanthin, these same benefits were observed in the mouse retina.",
+      "text": "Animal studies using apolipoprotein E-deficient mice to mimic the pathological changes seen in A M D have shown that supplementation with a complex of lutein, multivitamins, and glutathione can delay or even reverse structural changes, reduce vascular endothelial growth factor expression, decrease lipofuscin accumulation, and preserve photoreceptor integrity. Moreover, when treated with the Age-Related Eye Disease Study 2 formula, consisting of lutein and zeaxanthin, these same benefits were observed in the mouse retina.",
+      "index": 27,
+      "paragraph_count": 1,
+      "total_chars": 526,
+      "final_id": "27_animal_studies_using_apolipoprotein_e"
+    },
+    {
+      "id": "human_clinical_evidence_from_systematic_reviews_and_meta_analyses_has_demonstrated_that_consuming_xanthophyll_rich_foods_or_supplements_improves_visual_outcomes_including_macular_pigment_optical_density_visual_acuity_contrast_sensitivity_and_photostress_recovery_time_large_clinical_trials_such_as_the_lutein_antioxidant_supplementation_trial_two_and_the_lutein_intervention_study_austria_showed_that_macular_pigment_optical_density_increased_with_lutein_supplementation_while_it_decreased_without_supplementation_this_increase_was_most_pronounced_among_subjects_with_low_baseline_macular_pigment_optical_density_the_combination_of_lutein_effects_in_the_aging_retina_study_also_found_similar_results_further_indicating_that_high_macular_pigment_optical_density_may_slow_visual_acuity_decline_during_aging_the_multiyear_age_related_eye_disease_study_2_also_concluded_that_lutein_and_zeaxanthin_supplementation_may_be_beneficial_for_delaying_the_progression_from_early_to_late_stage_a_m_d",
+      "title": "Human clinical evidence from systematic reviews and meta-analyses has demonstrated that consuming xanthophyll-rich foods or supplements improves visual outcomes, including macular pigment optical density, visual acuity, contrast sensitivity, and photostress recovery time. Large clinical trials, such as the Lutein Antioxidant Supplementation Trial two and the Lutein Intervention Study Austria, showed that macular pigment optical density increased with lutein supplementation, while it decreased without supplementation. This increase was most pronounced among subjects with low baseline macular pigment optical density. The Combination of Lutein Effects in the Aging Retina study also found similar results, further indicating that high macular pigment optical density may slow visual acuity decline during aging. The multiyear Age-Related Eye Disease Study 2 also concluded that lutein and zeaxanthin supplementation may be beneficial for delaying the progression from early- to late-stage A M D.",
+      "text": "Human clinical evidence from systematic reviews and meta-analyses has demonstrated that consuming xanthophyll-rich foods or supplements improves visual outcomes, including macular pigment optical density, visual acuity, contrast sensitivity, and photostress recovery time. Large clinical trials, such as the Lutein Antioxidant Supplementation Trial two and the Lutein Intervention Study Austria, showed that macular pigment optical density increased with lutein supplementation, while it decreased without supplementation. This increase was most pronounced among subjects with low baseline macular pigment optical density. The Combination of Lutein Effects in the Aging Retina study also found similar results, further indicating that high macular pigment optical density may slow visual acuity decline during aging. The multiyear Age-Related Eye Disease Study 2 also concluded that lutein and zeaxanthin supplementation may be beneficial for delaying the progression from early- to late-stage A M D.",
+      "index": 28,
+      "paragraph_count": 1,
+      "total_chars": 1000,
+      "final_id": "28_human_clinical_evidence_from_systematic"
+    },
+    {
+      "id": "not_limited_to_a_m_d_the_beneficial_effect_of_lutein_and_zeaxanthin_on_diabetic_retinopathy_has_also_been_reported_lutein_and_zeaxanthin_supplementation_has_been_shown_to_reverse_pathological_increases_in_oxidative_stress_impaired_visual_function_inflammatory_activation_and_morphological_alterations_observed_in_diabetic_retinopathy_mice_in_cross_sectional_studies_plasma_levels_of_lutein_and_zeaxanthin_were_found_to_be_lower_in_patients_with_nonproliferative_diabetic_retinopathy_compared_to_those_without_nonproliferative_diabetic_retinopathy_smaller_intervention_studies_also_showed_that_administering_10_milligrams_per_day_of_lutein_for_36_weeks_or_a_combination_of_6_milligrams_lutein_and_05_milligrams_zeaxanthin_daily_for_3_months_increases_plasma_levels_of_these_carotenoids_and_improved_visual_acuity_and_contrast_sensitivity_in_patients_with_nonproliferative_diabetic_retinopathy",
+      "title": "Not limited to A M D, the beneficial effect of lutein and zeaxanthin on diabetic retinopathy has also been reported. Lutein and zeaxanthin supplementation has been shown to reverse pathological increases in oxidative stress, impaired visual function, inflammatory activation, and morphological alterations observed in diabetic retinopathy mice. In cross-sectional studies, plasma levels of lutein and zeaxanthin were found to be lower in patients with nonproliferative diabetic retinopathy compared to those without nonproliferative diabetic retinopathy. Smaller intervention studies also showed that administering 10 milligrams per day of lutein for 36 weeks or a combination of 6 milligrams lutein and 0.5 milligrams zeaxanthin daily for 3 months increases plasma levels of these carotenoids and improved visual acuity and contrast sensitivity in patients with nonproliferative diabetic retinopathy.",
+      "text": "Not limited to A M D, the beneficial effect of lutein and zeaxanthin on diabetic retinopathy has also been reported. Lutein and zeaxanthin supplementation has been shown to reverse pathological increases in oxidative stress, impaired visual function, inflammatory activation, and morphological alterations observed in diabetic retinopathy mice. In cross-sectional studies, plasma levels of lutein and zeaxanthin were found to be lower in patients with nonproliferative diabetic retinopathy compared to those without nonproliferative diabetic retinopathy. Smaller intervention studies also showed that administering 10 milligrams per day of lutein for 36 weeks or a combination of 6 milligrams lutein and 0.5 milligrams zeaxanthin daily for 3 months increases plasma levels of these carotenoids and improved visual acuity and contrast sensitivity in patients with nonproliferative diabetic retinopathy.",
+      "index": 29,
+      "paragraph_count": 1,
+      "total_chars": 901,
+      "final_id": "29_not_limited_to_a_m"
+    },
+    {
+      "id": "the_role_of_lutein_in_cataract_prevention_remains_controversial_the_beaver_dam_eye_study_showed_that_subjects_with_the_highest_quintile_of_lutein_intake_had_a_50_percent_reduction_in_the_likelihood_of_cataract_incidence_compared_to_those_in_the_lowest_quintile_another_study_of_finnish_older_adults_reported_similar_findings_with_subjects_in_the_highest_tertile_of_plasma_lutein_concentration_having_a_42_percent_lower_risk_of_developing_nuclear_cataracts_however_a_study_comparing_xanthophyll_levels_between_normal_and_cataractous_lenses_in_the_american_population_found_no_difference_in_lutein_and_zeaxanthin_contents_the_recent_age_related_eye_disease_study_2_concluded_that_daily_lutein_supplementation_did_not_significantly_reduce_the_risk_of_cataract_surgery_or_vision_loss_however_lutein_supplementation_did_reduce_surgery_risk_among_those_with_the_lowest_quintile_of_dietary_lutein_intake_this_finding_aligns_with_the_understanding_that_nutritional_deficiency_is_a_risk_factor_for_cataracts_suggesting_that_luteins_benefits_are_most_evident_among_the_undernourished_population",
+      "title": "The role of lutein in cataract prevention remains controversial. The Beaver Dam Eye Study showed that subjects with the highest quintile of lutein intake had a 50 percent reduction in the likelihood of cataract incidence compared to those in the lowest quintile. Another study of Finnish older adults reported similar findings, with subjects in the highest tertile of plasma lutein concentration having a 42 percent lower risk of developing nuclear cataracts. However, a study comparing xanthophyll levels between normal and cataractous lenses in the American population found no difference in lutein and zeaxanthin contents. The recent Age-Related Eye Disease Study 2 concluded that daily lutein supplementation did not significantly reduce the risk of cataract surgery or vision loss. However, lutein supplementation did reduce surgery risk among those with the lowest quintile of dietary lutein intake. This finding aligns with the understanding that nutritional deficiency is a risk factor for cataracts, suggesting that lutein's benefits are most evident among the undernourished population.",
+      "text": "The role of lutein in cataract prevention remains controversial. The Beaver Dam Eye Study showed that subjects with the highest quintile of lutein intake had a 50 percent reduction in the likelihood of cataract incidence compared to those in the lowest quintile. Another study of Finnish older adults reported similar findings, with subjects in the highest tertile of plasma lutein concentration having a 42 percent lower risk of developing nuclear cataracts. However, a study comparing xanthophyll levels between normal and cataractous lenses in the American population found no difference in lutein and zeaxanthin contents. The recent Age-Related Eye Disease Study 2 concluded that daily lutein supplementation did not significantly reduce the risk of cataract surgery or vision loss. However, lutein supplementation did reduce surgery risk among those with the lowest quintile of dietary lutein intake. This finding aligns with the understanding that nutritional deficiency is a risk factor for cataracts, suggesting that lutein's benefits are most evident among the undernourished population.",
+      "index": 30,
+      "paragraph_count": 1,
+      "total_chars": 1096,
+      "final_id": "30_the_role_of_lutein_in"
+    },
+    {
+      "id": "research_has_also_shown_that_the_coadministration_of_lutein_with_other_antioxidants_may_enhance_their_beneficial_effects_for_instance_combining_silk_lutein_extract_with_vitamin_e_has_been_shown_to_reduce_ultraviolet_b_mediated_oxidative_damage_to_r_p_e_cells_by_lowering_cellular_reactive_oxygen_species_levels_and_lipid_peroxidation_thereby_increasing_cell_viability_and_reducing_apoptosis_another_study_examined_the_performance_of_lutein_and_zeaxanthin_in_combination_with_different_phenolic_compounds_against_oxidative_stress_in_r_p_e_cells_suggesting_that_the_effects_of_these_combinations_may_vary_depending_on_the_specific_xanthophylls_used_warranting_further_investigation",
+      "title": "Research has also shown that the coadministration of lutein with other antioxidants may enhance their beneficial effects. For instance, combining silk lutein extract with vitamin E has been shown to reduce ultraviolet B-mediated oxidative damage to R P E cells by lowering cellular reactive oxygen species levels and lipid peroxidation, thereby increasing cell viability and reducing apoptosis. Another study examined the performance of lutein and zeaxanthin in combination with different phenolic compounds against oxidative stress in R P E cells, suggesting that the effects of these combinations may vary depending on the specific xanthophylls used, warranting further investigation.",
+      "text": "Research has also shown that the coadministration of lutein with other antioxidants may enhance their beneficial effects. For instance, combining silk lutein extract with vitamin E has been shown to reduce ultraviolet B-mediated oxidative damage to R P E cells by lowering cellular reactive oxygen species levels and lipid peroxidation, thereby increasing cell viability and reducing apoptosis. Another study examined the performance of lutein and zeaxanthin in combination with different phenolic compounds against oxidative stress in R P E cells, suggesting that the effects of these combinations may vary depending on the specific xanthophylls used, warranting further investigation.",
+      "index": 31,
+      "paragraph_count": 1,
+      "total_chars": 686,
+      "final_id": "31_research_has_also_shown_that"
+    },
+    {
+      "id": "effects_of_polyphenols_on_eye_health_polyphenols_including_flavonoids_such_as_quercetin_and_stilbenes_like_resveratrol_have_demonstrated_notable_potential_in_protecting_eye_health_through_their_antioxidant_anti_inflammatory_and_antiangiogenic_properties_quercetin_a_flavonoid_found_in_a_variety_of_fruits_and_vegetables_acts_primarily_as_a_direct_scavenger_of_reactive_oxygen_species_and_reactive_nitrogen_species_studies_in_ocular_cells_have_shown_that_quercetin_protects_r_p_e_cells_from_oxidative_damage_preventing_cell_death_in_vivo_studies_further_support_the_protective_effects_of_quercetin_in_ocular_diseases_in_a_model_of_wet_a_m_d_quercetin_treatment_at_25_milligrams_per_kilogram_for_2_months_improved_systemic_antioxidant_defenses_suppressed_nitric_oxide_and_cyclooxygenase_2_expression_and_decreased_lipofuscin_accumulation_in_r_p_e_cells_though_it_did_not_affect_pro_inflammatory_or_apoptotic_gene_expression_in_the_eye",
+      "title": "Effects of Polyphenols on Eye Health. Polyphenols, including flavonoids such as quercetin and stilbenes like resveratrol, have demonstrated notable potential in protecting eye health through their antioxidant, anti-inflammatory, and antiangiogenic properties. Quercetin, a flavonoid found in a variety of fruits and vegetables, acts primarily as a direct scavenger of reactive oxygen species and reactive nitrogen species. Studies in ocular cells have shown that quercetin protects R P E cells from oxidative damage, preventing cell death. In vivo studies further support the protective effects of quercetin in ocular diseases. In a model of wet A M D, quercetin treatment at 25 milligrams per kilogram for 2 months improved systemic antioxidant defenses, suppressed nitric oxide and cyclooxygenase-2 expression, and decreased lipofuscin accumulation in R P E cells, though it did not affect pro-inflammatory or apoptotic gene expression in the eye.",
+      "text": "Effects of Polyphenols on Eye Health. Polyphenols, including flavonoids such as quercetin and stilbenes like resveratrol, have demonstrated notable potential in protecting eye health through their antioxidant, anti-inflammatory, and antiangiogenic properties. Quercetin, a flavonoid found in a variety of fruits and vegetables, acts primarily as a direct scavenger of reactive oxygen species and reactive nitrogen species. Studies in ocular cells have shown that quercetin protects R P E cells from oxidative damage, preventing cell death. In vivo studies further support the protective effects of quercetin in ocular diseases. In a model of wet A M D, quercetin treatment at 25 milligrams per kilogram for 2 months improved systemic antioxidant defenses, suppressed nitric oxide and cyclooxygenase-2 expression, and decreased lipofuscin accumulation in R P E cells, though it did not affect pro-inflammatory or apoptotic gene expression in the eye.",
+      "index": 32,
+      "paragraph_count": 1,
+      "total_chars": 949,
+      "final_id": "32_effects_of_polyphenols_on_eye"
+    },
+    {
+      "id": "resveratrol_a_stilbene_found_in_grapes_berries_and_other_foods_has_also_shown_promise_in_ocular_health_it_was_found_to_protect_r_p_e_cells_from_oxidative_stress_induced_by_hydrogen_peroxide_increasing_the_activity_of_key_antioxidant_enzymes_such_as_superoxide_dismutase_glutathione_peroxidase_and_catalase_animal_models_have_demonstrated_the_beneficial_effects_of_resveratrol_in_preventing_ocular_diseases_for_example_resveratrol_supplementation_at_40_milligrams_per_kilogram_for_4_days_prevented_selenite_induced_cataract_formation_in_rats_supported_by_increased_glutathione_levels_and_reduced_lipid_peroxidation_studies_in_diabetic_mouse_models_have_shown_that_resveratrol_inhibits_retinal_neovascularization_suppresses_vascular_endothelial_growth_factor_expression_and_reduces_capillary_leakage",
+      "title": "Resveratrol, a stilbene found in grapes, berries, and other foods, has also shown promise in ocular health. It was found to protect R P E cells from oxidative stress induced by hydrogen peroxide, increasing the activity of key antioxidant enzymes such as superoxide dismutase, glutathione peroxidase, and catalase. Animal models have demonstrated the beneficial effects of resveratrol in preventing ocular diseases. For example, resveratrol supplementation at 40 milligrams per kilogram for 4 days prevented selenite-induced cataract formation in rats, supported by increased glutathione levels and reduced lipid peroxidation. Studies in diabetic mouse models have shown that resveratrol inhibits retinal neovascularization, suppresses vascular endothelial growth factor expression, and reduces capillary leakage.",
+      "text": "Resveratrol, a stilbene found in grapes, berries, and other foods, has also shown promise in ocular health. It was found to protect R P E cells from oxidative stress induced by hydrogen peroxide, increasing the activity of key antioxidant enzymes such as superoxide dismutase, glutathione peroxidase, and catalase. Animal models have demonstrated the beneficial effects of resveratrol in preventing ocular diseases. For example, resveratrol supplementation at 40 milligrams per kilogram for 4 days prevented selenite-induced cataract formation in rats, supported by increased glutathione levels and reduced lipid peroxidation. Studies in diabetic mouse models have shown that resveratrol inhibits retinal neovascularization, suppresses vascular endothelial growth factor expression, and reduces capillary leakage.",
+      "index": 33,
+      "paragraph_count": 1,
+      "total_chars": 813,
+      "final_id": "33_resveratrol_a_stilbene_found_in"
+    },
+    {
+      "id": "human_clinical_evidence_also_supports_the_eye_beneficial_effects_of_polyphenols_a_systematic_review_and_meta_analysis_revealed_a_significant_overall_effect_of_flavonoids_in_reducing_the_risk_and_progression_of_common_ophthalmic_disorders_recent_studies_highlight_the_potential_of_quercetin_as_a_promising_agent_for_ocular_health_particularly_in_addressing_a_m_d_for_instance_a_pilot_study_demonstrated_that_quercetin_supplementation_could_improve_lacrimal_gland_function_primarily_through_its_antioxidant_properties_epidemiological_evidence_suggests_that_a_diet_rich_in_flavonoid_containing_foods_is_associated_with_a_reduced_risk_of_a_m_d_specifically_studies_have_found_a_protective_link_between_dietary_flavonoid_intake_including_quercetin_and_both_the_prevalence_and_15_year_incidence_of_a_m_d",
+      "title": "Human clinical evidence also supports the eye-beneficial effects of polyphenols. A systematic review and meta-analysis revealed a significant overall effect of flavonoids in reducing the risk and progression of common ophthalmic disorders. Recent studies highlight the potential of quercetin as a promising agent for ocular health, particularly in addressing A M D. For instance, a pilot study demonstrated that quercetin supplementation could improve lacrimal gland function, primarily through its antioxidant properties. Epidemiological evidence suggests that a diet rich in flavonoid-containing foods is associated with a reduced risk of A M D. Specifically, studies have found a protective link between dietary flavonoid intake, including quercetin, and both the prevalence and 15-year incidence of A M D.",
+      "text": "Human clinical evidence also supports the eye-beneficial effects of polyphenols. A systematic review and meta-analysis revealed a significant overall effect of flavonoids in reducing the risk and progression of common ophthalmic disorders. Recent studies highlight the potential of quercetin as a promising agent for ocular health, particularly in addressing A M D. For instance, a pilot study demonstrated that quercetin supplementation could improve lacrimal gland function, primarily through its antioxidant properties. Epidemiological evidence suggests that a diet rich in flavonoid-containing foods is associated with a reduced risk of A M D. Specifically, studies have found a protective link between dietary flavonoid intake, including quercetin, and both the prevalence and 15-year incidence of A M D.",
+      "index": 34,
+      "paragraph_count": 1,
+      "total_chars": 809,
+      "final_id": "34_human_clinical_evidence_also_supports"
+    },
+    {
+      "id": "regarding_resveratrol_while_studies_examining_its_direct_effects_on_eye_health_are_currently_limited_available_evidence_shows_promising_potential_a_pilot_study_by_richer_and_colleagues_evaluated_the_impact_of_a_resveratrol_based_nutritional_supplement_derived_from_red_wine_on_patients_with_early_a_m_d_the_study_observed_bilateral_improvements_in_ocular_structure_and_function_contrary_to_the_expected_decline_associated_with_aging_and_disease_progression_another_study_reported_the_1_year_outcomes_of_combining_a_resveratrol_supplement_with_aflibercept_treatment_for_wet_a_m_d_finding_that_the_combination_improved_patients_quality_of_life_compared_to_aflibercept_monotherapy_furthermore_findings_from_a_phase_2_clinical_trial_evaluating_a_combination_of_resveratrol_quercetin_and_curcumin_for_the_treatment_of_geographic_atrophy_in_advanced_dry_a_m_d_revealed_encouraging_results_patients_taking_oral_resveratrol_quercetin_and_curcumin_exhibited_a_significantly_lower_geographic_atrophy_growth_rate_and_reduced_macular_drusen_size_compared_to_untreated_subjects_supporting_the_potential_of_resveratrol_quercetin_and_curcumin_as_a_promising_oral_therapy_for_advanced_dry_a_m_d",
+      "title": "Regarding resveratrol, while studies examining its direct effects on eye health are currently limited, available evidence shows promising potential. A pilot study by Richer and colleagues evaluated the impact of a resveratrol-based nutritional supplement derived from red wine on patients with early A M D. The study observed bilateral improvements in ocular structure and function, contrary to the expected decline associated with aging and disease progression. Another study reported the 1-year outcomes of combining a resveratrol supplement with aflibercept treatment for wet A M D, finding that the combination improved patients' quality of life compared to aflibercept monotherapy. Furthermore, findings from a Phase 2 clinical trial evaluating a combination of resveratrol, quercetin, and curcumin for the treatment of geographic atrophy in advanced dry A M D revealed encouraging results. Patients taking oral resveratrol, quercetin, and curcumin exhibited a significantly lower geographic atrophy growth rate and reduced macular drusen size compared to untreated subjects, supporting the potential of resveratrol, quercetin, and curcumin as a promising oral therapy for advanced dry A M D.",
+      "text": "Regarding resveratrol, while studies examining its direct effects on eye health are currently limited, available evidence shows promising potential. A pilot study by Richer and colleagues evaluated the impact of a resveratrol-based nutritional supplement derived from red wine on patients with early A M D. The study observed bilateral improvements in ocular structure and function, contrary to the expected decline associated with aging and disease progression. Another study reported the 1-year outcomes of combining a resveratrol supplement with aflibercept treatment for wet A M D, finding that the combination improved patients' quality of life compared to aflibercept monotherapy. Furthermore, findings from a Phase 2 clinical trial evaluating a combination of resveratrol, quercetin, and curcumin for the treatment of geographic atrophy in advanced dry A M D revealed encouraging results. Patients taking oral resveratrol, quercetin, and curcumin exhibited a significantly lower geographic atrophy growth rate and reduced macular drusen size compared to untreated subjects, supporting the potential of resveratrol, quercetin, and curcumin as a promising oral therapy for advanced dry A M D.",
+      "index": 35,
+      "paragraph_count": 1,
+      "total_chars": 1197,
+      "final_id": "35_regarding_resveratrol_while_studies_examining"
+    },
+    {
+      "id": "however_it_is_important_to_note_that_these_human_studies_often_involved_supplements_containing_multiple_ingredients_or_were_used_in_conjunction_with_other_therapies_this_makes_it_challenging_to_isolate_resveratrols_specific_effects_on_ocular_health_additionally_while_these_studies_suggest_potential_benefits_they_do_not_conclusively_demonstrate_direct_improvements_in_eye_outcomes_beyond_a_possible_role_in_preventing_disease_worsening_therefore_more_rigorous_and_well_designed_clinical_trials_are_necessary_to_establish_resveratrols_efficacy_optimal_dosing_and_safety_profile_in_the_context_of_eye_health",
+      "title": "However, it is important to note that these human studies often involved supplements containing multiple ingredients or were used in conjunction with other therapies. This makes it challenging to isolate resveratrol's specific effects on ocular health. Additionally, while these studies suggest potential benefits, they do not conclusively demonstrate direct improvements in eye outcomes beyond a possible role in preventing disease worsening. Therefore, more rigorous and well-designed clinical trials are necessary to establish resveratrol's efficacy, optimal dosing, and safety profile in the context of eye health.",
+      "text": "However, it is important to note that these human studies often involved supplements containing multiple ingredients or were used in conjunction with other therapies. This makes it challenging to isolate resveratrol's specific effects on ocular health. Additionally, while these studies suggest potential benefits, they do not conclusively demonstrate direct improvements in eye outcomes beyond a possible role in preventing disease worsening. Therefore, more rigorous and well-designed clinical trials are necessary to establish resveratrol's efficacy, optimal dosing, and safety profile in the context of eye health.",
+      "index": 36,
+      "paragraph_count": 1,
+      "total_chars": 618,
+      "final_id": "36_however_it_is_important_to"
+    },
+    {
+      "id": "benefits_of_grape_for_vision_building_upon_the_understanding_of_how_dietary_antioxidants_such_as_vitamin_a_lutein_zeaxanthin_and_polyphenols_contribute_to_ocular_health_it_is_valuable_to_explore_specific_foods_rich_in_these_nutrients_grapes_in_particular_have_garnered_attention_due_to_their_potential_benefits_for_eye_health_grapes_are_abundant_in_a_variety_of_bioactive_compounds_including_stilbenes_like_resveratrol_and_piceatannol_flavonoids_such_as_catechins_and_quercetin_and_small_amounts_of_carotenoids_like_lutein_and_zeaxanthin_these_nutrients_and_bioactive_compounds_possess_antioxidant_anti_inflammatory_and_neuroprotective_properties_that_may_contribute_to_the_prevention_or_slowing_of_ocular_diseases_like_a_m_d_cataracts_and_diabetic_retinopathy",
+      "title": "Benefits of Grape for Vision. Building upon the understanding of how dietary antioxidants such as vitamin A, lutein, zeaxanthin, and polyphenols contribute to ocular health, it is valuable to explore specific foods rich in these nutrients. Grapes, in particular, have garnered attention due to their potential benefits for eye health. Grapes are abundant in a variety of bioactive compounds, including stilbenes like resveratrol and piceatannol, flavonoids such as catechins and quercetin, and small amounts of carotenoids like lutein and zeaxanthin. These nutrients and bioactive compounds possess antioxidant, anti-inflammatory, and neuroprotective properties that may contribute to the prevention or slowing of ocular diseases like A M D, cataracts, and diabetic retinopathy.",
+      "text": "Benefits of Grape for Vision. Building upon the understanding of how dietary antioxidants such as vitamin A, lutein, zeaxanthin, and polyphenols contribute to ocular health, it is valuable to explore specific foods rich in these nutrients. Grapes, in particular, have garnered attention due to their potential benefits for eye health. Grapes are abundant in a variety of bioactive compounds, including stilbenes like resveratrol and piceatannol, flavonoids such as catechins and quercetin, and small amounts of carotenoids like lutein and zeaxanthin. These nutrients and bioactive compounds possess antioxidant, anti-inflammatory, and neuroprotective properties that may contribute to the prevention or slowing of ocular diseases like A M D, cataracts, and diabetic retinopathy.",
+      "index": 37,
+      "paragraph_count": 1,
+      "total_chars": 778,
+      "final_id": "37_benefits_of_grape_for_vision"
+    },
+    {
+      "id": "the_anti_inflammatory_and_antioxidant_properties_of_grapes_have_also_been_studied_in_relation_to_multiple_ocular_diseases_in_vitro_studies_using_human_r_p_e_cells_demonstrated_that_grape_polyphenols_protected_against_chemically_induced_endoplasmic_reticulum_stress_and_suppressed_pro_inflammatory_gene_transcription_in_response_to_tumor_necrosis_factor_alpha_building_on_these_findings_the_group_later_administered_grape_polyphenol_extracts_to_mice_at_100_to_200_milligrams_per_kilogram_body_weight_for_7_days_prior_to_inducing_ocular_inflammation_via_the_intravitreal_injection_of_lipopolysaccharide_pretreatment_with_grape_polyphenols_significantly_reduced_ocular_inflammation_decreased_pro_inflammatory_cytokine_expression_reduced_leukocyte_infiltration_and_minimized_retinal_tissue_damage_grape_seed_extract_rich_in_proanthocyanidins_has_also_been_investigated_for_its_antioxidant_effects_furthermore_wan_and_colleagues_reported_significant_reductions_in_r_p_e_cellular_senescence_following_grape_seed_extract_supplementation_in_in_vitro_a_m_d_models",
+      "title": "The anti-inflammatory and antioxidant properties of grapes have also been studied in relation to multiple ocular diseases. In vitro studies using human R P E cells demonstrated that grape polyphenols protected against chemically induced endoplasmic reticulum stress and suppressed pro-inflammatory gene transcription in response to tumor necrosis factor-alpha. Building on these findings, the group later administered grape polyphenol extracts to mice at 100 to 200 milligrams per kilogram body weight for 7 days prior to inducing ocular inflammation via the intravitreal injection of lipopolysaccharide. Pretreatment with grape polyphenols significantly reduced ocular inflammation, decreased pro-inflammatory cytokine expression, reduced leukocyte infiltration, and minimized retinal tissue damage. Grape seed extract, rich in proanthocyanidins, has also been investigated for its antioxidant effects. Furthermore, Wan and colleagues reported significant reductions in R P E cellular senescence following grape seed extract supplementation in in vitro A M D models.",
+      "text": "The anti-inflammatory and antioxidant properties of grapes have also been studied in relation to multiple ocular diseases. In vitro studies using human R P E cells demonstrated that grape polyphenols protected against chemically induced endoplasmic reticulum stress and suppressed pro-inflammatory gene transcription in response to tumor necrosis factor-alpha. Building on these findings, the group later administered grape polyphenol extracts to mice at 100 to 200 milligrams per kilogram body weight for 7 days prior to inducing ocular inflammation via the intravitreal injection of lipopolysaccharide. Pretreatment with grape polyphenols significantly reduced ocular inflammation, decreased pro-inflammatory cytokine expression, reduced leukocyte infiltration, and minimized retinal tissue damage. Grape seed extract, rich in proanthocyanidins, has also been investigated for its antioxidant effects. Furthermore, Wan and colleagues reported significant reductions in R P E cellular senescence following grape seed extract supplementation in in vitro A M D models.",
+      "index": 38,
+      "paragraph_count": 1,
+      "total_chars": 1067,
+      "final_id": "38_the_anti_inflammatory_and_antioxidant"
+    },
+    {
+      "id": "animal_studies_further_underscore_the_potential_benefits_of_grape_consumption_for_maintaining_and_improving_overall_eye_health_research_has_explored_the_effects_of_grape_consumption_on_retinal_aging_and_the_progression_of_a_m_d_demonstrating_protective_effects_against_oxidative_stress_and_inflammation_that_contribute_to_these_conditions_a_previous_animal_study_induced_retinal_degeneration_in_mice_through_acute_oxidative_stress_using_subretinal_injection_of_paraquat_compared_to_mice_fed_with_the_control_diet_mice_on_the_grape_supplemented_diet_showed_maintenance_of_retinal_thickness_and_photoreceptor_numbers_with_oxidative_stress_moreover_there_was_a_preservation_of_retinal_function_after_oxidative_stress_injury_in_mice_on_a_grape_diet_compared_with_mice_on_a_control_diet_another_in_vivo_study_conducted_by_sun_and_colleagues_demonstrated_that_grape_seed_extract_exerts_a_protective_effect_on_the_retina_by_ameliorating_oxidative_stress_mediated_injury_through_the_activation_of_the_nrf2_pathway_in_wistar_rats_in_a_study_by_yu_and_colleagues_researchers_used_a_mouse_model_deficient_in_the_integrin_receptor_alpha_v_beta_5_which_resulted_in_impaired_phagocytosis_by_r_p_e_cells_this_impairment_results_in_the_accumulation_of_photoreceptor_outer_segment_debris_lipofuscin_buildup_oxidative_damage_and_gradual_vision_loss_paralleling_aspects_of_atrophic_a_m_d_in_humans_when_these_mice_were_supplemented_with_a_grape_enriched_diet_equivalent_to_a_human_consumption_rate_of_approximately_35_servings_of_grapes_per_day_throughout_adulthood_from_3_to_12_months_of_age_there_was_significant_prevention_of_lipofuscin_accumulation_a_reduction_in_oxidative_protein_damage_and_the_preservation_of_visual_function_interestingly_grape_consumption_did_not_correct_the_primary_phagocytic_defect_but_provided_neuroprotective_effects_early_and_continuous_grape_consumption_was_most_effective_starting_supplementation_at_older_ages_9_to_12_months_did_not_prevent_vision_loss_this_suggests_that_early_dietary_intervention_with_grapes_may_have_protective_effects_against_retinal_aging_and_a_m_d_progression_further_research_has_examined_grape_supplementation_in_the_context_of_neovascular_a_m_d_kanavi_investigated_the_effects_of_grape_consumption_on_choroidal_neovascularization_in_wild_type_mice_the_mice_received_drinking_water_supplemented_with_dissolved_grape_powder_for_12_days_prior_to_laser_induced_injury_which_is_commonly_used_to_simulate_choroidal_neovascularization_in_experimental_models_grape_supplementation_significantly_reduced_the_severity_of_abnormal_blood_vessel_growth_showing_efficacy_comparable_to_resveratrol_treatment_continuous_low_dose_consumption_appeared_more_beneficial_than_single_high_dose_administration_implying_that_a_consistent_intake_of_grape_phytonutrients_enhances_their_protective_effects_in_addition_to_its_potential_benefits_for_a_m_d_and_retinal_health_grape_consumption_may_also_play_a_role_in_preventing_cataract_formation_liu_and_colleagues_investigated_the_effects_of_a_grape_enriched_diet_on_ultraviolet_induced_cataract_development_in_mouse_models_the_researchers_found_that_mice_fed_a_grape_supplemented_diet_exhibited_a_significant_reduction_in_cataract_formation_following_ultraviolet_radiation_exposure_compared_to_control_mice_this_protective_effect_was_linked_to_the_anti_inflammatory_properties_of_grapes_mediated_through_the_activation_of_the_nrf2_pathway_this_activation_led_to_the_upregulation_of_antioxidant_enzymes_and_increased_the_expression_of_x_linked_inhibitor_of_apoptosis_protein_which_inhibits_apoptosis_in_lens_epithelial_cells_these_findings_indicate_that_grape_consumption_may_strengthen_the_eyes_natural_defense_mechanisms_against_oxidative_stress_and_apoptosis_thereby_potentially_reducing_the_risk_of_cataract_formation",
+      "title": "Animal studies further underscore the potential benefits of grape consumption for maintaining and improving overall eye health. Research has explored the effects of grape consumption on retinal aging and the progression of A M D, demonstrating protective effects against oxidative stress and inflammation that contribute to these conditions. A previous animal study induced retinal degeneration in mice through acute oxidative stress using subretinal injection of paraquat. Compared to mice fed with the control diet, mice on the grape-supplemented diet showed maintenance of retinal thickness and photoreceptor numbers with oxidative stress. Moreover, there was a preservation of retinal function after oxidative stress injury in mice on a grape diet compared with mice on a control diet. Another in vivo study conducted by Sun and colleagues demonstrated that grape seed extract exerts a protective effect on the retina by ameliorating oxidative-stress-mediated injury through the activation of the Nrf2 pathway in Wistar rats. In a study by Yu and colleagues, researchers used a mouse model deficient in the integrin receptor alpha-v-beta-5, which resulted in impaired phagocytosis by R P E cells. This impairment results in the accumulation of photoreceptor outer segment debris, lipofuscin buildup, oxidative damage, and gradual vision loss, paralleling aspects of atrophic A M D in humans. When these mice were supplemented with a grape-enriched diet, equivalent to a human consumption rate of approximately 3.5 servings of grapes per day throughout adulthood from 3 to 12 months of age, there was significant prevention of lipofuscin accumulation, a reduction in oxidative protein damage, and the preservation of visual function. Interestingly, grape consumption did not correct the primary phagocytic defect but provided neuroprotective effects. Early and continuous grape consumption was most effective; starting supplementation at older ages, 9 to 12 months, did not prevent vision loss. This suggests that early dietary intervention with grapes may have protective effects against retinal aging and A M D progression. Further research has examined grape supplementation in the context of neovascular A M D. Kanavi investigated the effects of grape consumption on choroidal neovascularization in wild-type mice. The mice received drinking water supplemented with dissolved grape powder for 12 days prior to laser-induced injury, which is commonly used to simulate choroidal neovascularization in experimental models. Grape supplementation significantly reduced the severity of abnormal blood vessel growth, showing efficacy comparable to resveratrol treatment. Continuous low-dose consumption appeared more beneficial than single high-dose administration, implying that a consistent intake of grape phytonutrients enhances their protective effects. In addition to its potential benefits for A M D and retinal health, grape consumption may also play a role in preventing cataract formation. Liu and colleagues investigated the effects of a grape-enriched diet on ultraviolet-induced cataract development in mouse models. The researchers found that mice fed a grape-supplemented diet exhibited a significant reduction in cataract formation following ultraviolet radiation exposure compared to control mice. This protective effect was linked to the anti-inflammatory properties of grapes, mediated through the activation of the Nrf2 pathway. This activation led to the upregulation of antioxidant enzymes and increased the expression of X-linked inhibitor of apoptosis protein, which inhibits apoptosis in lens epithelial cells. These findings indicate that grape consumption may strengthen the eye's natural defense mechanisms against oxidative stress and apoptosis, thereby potentially reducing the risk of cataract formation.",
+      "text": "Animal studies further underscore the potential benefits of grape consumption for maintaining and improving overall eye health. Research has explored the effects of grape consumption on retinal aging and the progression of A M D, demonstrating protective effects against oxidative stress and inflammation that contribute to these conditions. A previous animal study induced retinal degeneration in mice through acute oxidative stress using subretinal injection of paraquat. Compared to mice fed with the control diet, mice on the grape-supplemented diet showed maintenance of retinal thickness and photoreceptor numbers with oxidative stress. Moreover, there was a preservation of retinal function after oxidative stress injury in mice on a grape diet compared with mice on a control diet. Another in vivo study conducted by Sun and colleagues demonstrated that grape seed extract exerts a protective effect on the retina by ameliorating oxidative-stress-mediated injury through the activation of the Nrf2 pathway in Wistar rats. In a study by Yu and colleagues, researchers used a mouse model deficient in the integrin receptor alpha-v-beta-5, which resulted in impaired phagocytosis by R P E cells. This impairment results in the accumulation of photoreceptor outer segment debris, lipofuscin buildup, oxidative damage, and gradual vision loss, paralleling aspects of atrophic A M D in humans. When these mice were supplemented with a grape-enriched diet, equivalent to a human consumption rate of approximately 3.5 servings of grapes per day throughout adulthood from 3 to 12 months of age, there was significant prevention of lipofuscin accumulation, a reduction in oxidative protein damage, and the preservation of visual function. Interestingly, grape consumption did not correct the primary phagocytic defect but provided neuroprotective effects. Early and continuous grape consumption was most effective; starting supplementation at older ages, 9 to 12 months, did not prevent vision loss. This suggests that early dietary intervention with grapes may have protective effects against retinal aging and A M D progression. Further research has examined grape supplementation in the context of neovascular A M D. Kanavi investigated the effects of grape consumption on choroidal neovascularization in wild-type mice. The mice received drinking water supplemented with dissolved grape powder for 12 days prior to laser-induced injury, which is commonly used to simulate choroidal neovascularization in experimental models. Grape supplementation significantly reduced the severity of abnormal blood vessel growth, showing efficacy comparable to resveratrol treatment. Continuous low-dose consumption appeared more beneficial than single high-dose administration, implying that a consistent intake of grape phytonutrients enhances their protective effects. In addition to its potential benefits for A M D and retinal health, grape consumption may also play a role in preventing cataract formation. Liu and colleagues investigated the effects of a grape-enriched diet on ultraviolet-induced cataract development in mouse models. The researchers found that mice fed a grape-supplemented diet exhibited a significant reduction in cataract formation following ultraviolet radiation exposure compared to control mice. This protective effect was linked to the anti-inflammatory properties of grapes, mediated through the activation of the Nrf2 pathway. This activation led to the upregulation of antioxidant enzymes and increased the expression of X-linked inhibitor of apoptosis protein, which inhibits apoptosis in lens epithelial cells. These findings indicate that grape consumption may strengthen the eye's natural defense mechanisms against oxidative stress and apoptosis, thereby potentially reducing the risk of cataract formation.",
+      "index": 39,
+      "paragraph_count": 1,
+      "total_chars": 3835,
+      "final_id": "39_animal_studies_further_underscore_the"
+    },
+    {
+      "id": "while_most_research_has_been_preclinical_emerging_human_studies_suggest_the_potential_benefits_of_grape_consumption_for_eye_health_a_pilot_clinical_study_investigated_the_eye_beneficial_effects_of_6_month_grape_seed_extract_supplementation_on_a_m_d_patients_revealing_a_significant_reduction_in_central_retinal_thickness_and_a_concomitant_improvement_in_visual_acuity_another_6_month_randomized_placebo_controlled_clinical_trial_involving_99_patients_with_mild_to_moderate_nonproliferative_diabetic_retinopathy_demonstrated_that_supplementation_effectively_reduced_retinal_swelling_and_oxidative_stress_a_recent_16_week_randomized_controlled_trial_conducted_in_singapore_examined_the_effects_of_freeze_dried_grape_powder_consumption_on_macular_pigment_accumulation_in_older_adults_participants_consuming_46_grams_per_day_of_freeze_dried_grape_powder_showed_a_significant_increase_in_macular_pigment_optical_density_from_baseline_056_plus_or_minus_004_to_061_plus_or_minus_004_units_unlike_the_control_group_this_enhancement_was_accompanied_by_increased_plasma_total_antioxidant_capacity_and_total_phenolic_content_suggesting_improved_systemic_antioxidant_status_moreover_the_freeze_dried_grape_powder_group_exhibited_stabilization_of_skin_advanced_glycation_end_products_baseline_238_plus_or_minus_015_to_242_plus_or_minus_011_whereas_the_control_group_showed_a_significant_increase_in_skin_advanced_glycation_end_products_over_the_study_period_baseline_247_plus_or_minus_024_to_299_plus_or_minus_012_advanced_glycation_end_products_can_accumulate_in_eye_tissues_inducing_oxidative_stress_and_damaging_the_vascular_components_of_the_retina_thereby_contributing_to_the_development_of_eye_diseases_the_stabilization_of_skin_advanced_glycation_end_products_in_the_freeze_dried_grape_powder_group_suggests_that_grape_polyphenols_may_modulate_advanced_glycation_end_product_accumulation_potentially_extending_this_regulatory_effect_to_ocular_tissues_and_supporting_overall_eye_health_this_highlights_the_potential_benefits_of_grape_consumption_for_maintaining_and_enhancing_eye_health_in_aging_populations",
+      "title": "While most research has been preclinical, emerging human studies suggest the potential benefits of grape consumption for eye health. A pilot clinical study investigated the eye-beneficial effects of 6-month grape seed extract supplementation on A M D patients, revealing a significant reduction in central retinal thickness and a concomitant improvement in visual acuity. Another 6-month randomized, placebo-controlled clinical trial involving 99 patients with mild-to-moderate nonproliferative diabetic retinopathy demonstrated that supplementation effectively reduced retinal swelling and oxidative stress. A recent 16-week randomized controlled trial conducted in Singapore examined the effects of freeze-dried grape powder consumption on macular pigment accumulation in older adults. Participants consuming 46 grams per day of freeze-dried grape powder showed a significant increase in macular pigment optical density from baseline 0.56 plus or minus 0.04 to 0.61 plus or minus 0.04 units, unlike the control group. This enhancement was accompanied by increased plasma total antioxidant capacity and total phenolic content, suggesting improved systemic antioxidant status. Moreover, the freeze-dried grape powder group exhibited stabilization of skin advanced glycation end products, baseline 2.38 plus or minus 0.15 to 2.42 plus or minus 0.11, whereas the control group showed a significant increase in skin advanced glycation end products over the study period, baseline 2.47 plus or minus 0.24 to 2.99 plus or minus 0.12. Advanced glycation end products can accumulate in eye tissues, inducing oxidative stress and damaging the vascular components of the retina, thereby contributing to the development of eye diseases. The stabilization of skin advanced glycation end products in the freeze-dried grape powder group suggests that grape polyphenols may modulate advanced glycation end product accumulation, potentially extending this regulatory effect to ocular tissues and supporting overall eye health. This highlights the potential benefits of grape consumption for maintaining and enhancing eye health in aging populations.",
+      "text": "While most research has been preclinical, emerging human studies suggest the potential benefits of grape consumption for eye health. A pilot clinical study investigated the eye-beneficial effects of 6-month grape seed extract supplementation on A M D patients, revealing a significant reduction in central retinal thickness and a concomitant improvement in visual acuity. Another 6-month randomized, placebo-controlled clinical trial involving 99 patients with mild-to-moderate nonproliferative diabetic retinopathy demonstrated that supplementation effectively reduced retinal swelling and oxidative stress. A recent 16-week randomized controlled trial conducted in Singapore examined the effects of freeze-dried grape powder consumption on macular pigment accumulation in older adults. Participants consuming 46 grams per day of freeze-dried grape powder showed a significant increase in macular pigment optical density from baseline 0.56 plus or minus 0.04 to 0.61 plus or minus 0.04 units, unlike the control group. This enhancement was accompanied by increased plasma total antioxidant capacity and total phenolic content, suggesting improved systemic antioxidant status. Moreover, the freeze-dried grape powder group exhibited stabilization of skin advanced glycation end products, baseline 2.38 plus or minus 0.15 to 2.42 plus or minus 0.11, whereas the control group showed a significant increase in skin advanced glycation end products over the study period, baseline 2.47 plus or minus 0.24 to 2.99 plus or minus 0.12. Advanced glycation end products can accumulate in eye tissues, inducing oxidative stress and damaging the vascular components of the retina, thereby contributing to the development of eye diseases. The stabilization of skin advanced glycation end products in the freeze-dried grape powder group suggests that grape polyphenols may modulate advanced glycation end product accumulation, potentially extending this regulatory effect to ocular tissues and supporting overall eye health. This highlights the potential benefits of grape consumption for maintaining and enhancing eye health in aging populations.",
+      "index": 40,
+      "paragraph_count": 1,
+      "total_chars": 2134,
+      "final_id": "40_while_most_research_has_been"
+    },
+    {
+      "id": "this_collective_evidence_underscores_the_potential_of_grapes_and_grape_derived_compounds_in_promoting_eye_health_the_antioxidant_and_anti_inflammatory_properties_of_grapes_may_help_prevent_or_slow_the_progression_of_retinal_diseases_by_reducing_oxidative_damage_inhibiting_abnormal_blood_vessel_growth_and_modulating_inflammatory_responses_despite_these_promising_indications_current_evidence_from_human_clinical_studies_is_limited_and_more_research_is_necessary_to_establish_a_definitive_link_between_grape_consumption_and_eye_health_factors_such_as_bioavailability_optimal_dosage_and_long_term_effects_need_to_be_thoroughly_investigated",
+      "title": "This collective evidence underscores the potential of grapes and grape-derived compounds in promoting eye health. The antioxidant and anti-inflammatory properties of grapes may help prevent or slow the progression of retinal diseases by reducing oxidative damage, inhibiting abnormal blood vessel growth, and modulating inflammatory responses. Despite these promising indications, current evidence from human clinical studies is limited, and more research is necessary to establish a definitive link between grape consumption and eye health. Factors such as bioavailability, optimal dosage, and long-term effects need to be thoroughly investigated.",
+      "text": "This collective evidence underscores the potential of grapes and grape-derived compounds in promoting eye health. The antioxidant and anti-inflammatory properties of grapes may help prevent or slow the progression of retinal diseases by reducing oxidative damage, inhibiting abnormal blood vessel growth, and modulating inflammatory responses. Despite these promising indications, current evidence from human clinical studies is limited, and more research is necessary to establish a definitive link between grape consumption and eye health. Factors such as bioavailability, optimal dosage, and long-term effects need to be thoroughly investigated.",
+      "index": 41,
+      "paragraph_count": 1,
+      "total_chars": 648,
+      "final_id": "41_this_collective_evidence_underscores_the"
+    }
+  ],
+  "entities": [
+    {
+      "category": "CHEMICAL",
+      "term": "Resveratrol",
+      "normalized_name": "Resveratrol",
+      "synonyms": "白藜芦醇"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Piceatannol",
+      "normalized_name": "Piceatannol",
+      "synonyms": "白皮杉醇"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Pterostilbene",
+      "normalized_name": "Pterostilbene",
+      "synonyms": "紫檀芪"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Catechins",
+      "normalized_name": "Catechins",
+      "synonyms": "儿茶素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Epicatechins",
+      "normalized_name": "Epicatechins",
+      "synonyms": "表儿茶素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Procyanidins",
+      "normalized_name": "Procyanidins",
+      "synonyms": "原花青素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Proanthocyanidins",
+      "normalized_name": "Proanthocyanidins",
+      "synonyms": "原花青素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Viniferines",
+      "normalized_name": "Viniferines",
+      "synonyms": "葡萄素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Quercetin",
+      "normalized_name": "Quercetin",
+      "synonyms": "槲皮素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Kaempferol",
+      "normalized_name": "Kaempferol",
+      "synonyms": "山柰酚"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Myricetin",
+      "normalized_name": "Myricetin",
+      "synonyms": "杨梅素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Isorhamnetin",
+      "normalized_name": "Isorhamnetin",
+      "synonyms": "异鼠李素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Caffeic acid",
+      "normalized_name": "Caffeic acid",
+      "synonyms": "咖啡酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Coumaric acid",
+      "normalized_name": "Coumaric acid",
+      "synonyms": "香豆酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Ferulic acid",
+      "normalized_name": "Ferulic acid",
+      "synonyms": "阿魏酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Gallic acid",
+      "normalized_name": "Gallic acid",
+      "synonyms": "没食子酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "β-Carotene",
+      "normalized_name": "Beta-carotene",
+      "synonyms": "β-胡萝卜素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Lutein",
+      "normalized_name": "Lutein",
+      "synonyms": "叶黄素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Zeaxanthin",
+      "normalized_name": "Zeaxanthin",
+      "synonyms": "玉米黄质"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Meso-zeaxanthin",
+      "normalized_name": "Meso-zeaxanthin",
+      "synonyms": "内消旋玉米黄质"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Flavonoids",
+      "normalized_name": "Flavonoids",
+      "synonyms": "类黄酮"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Polyphenols",
+      "normalized_name": "Polyphenols",
+      "synonyms": "多酚"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Stilbenes",
+      "normalized_name": "Stilbenes",
+      "synonyms": "芪类"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Vitamin A",
+      "normalized_name": "Vitamin A",
+      "synonyms": "维生素A"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Retinol",
+      "normalized_name": "Retinol",
+      "synonyms": "视黄醇"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Retinal",
+      "normalized_name": "Retinal",
+      "synonyms": "视黄醛"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Retinoic acid",
+      "normalized_name": "Retinoic acid",
+      "synonyms": "视黄酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Retinyl esters",
+      "normalized_name": "Retinyl esters",
+      "synonyms": "视黄醇酯"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "α-Carotene",
+      "normalized_name": "Alpha-carotene",
+      "synonyms": "α-胡萝卜素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "β-Cryptoxanthin",
+      "normalized_name": "Beta-cryptoxanthin",
+      "synonyms": "β-隐黄质"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Vitamin C",
+      "normalized_name": "Vitamin C",
+      "synonyms": "维生素C"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Ascorbic acid",
+      "normalized_name": "Ascorbic acid",
+      "synonyms": "抗坏血酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Vitamin E",
+      "normalized_name": "Vitamin E",
+      "synonyms": "维生素E"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Tocopherols",
+      "normalized_name": "Tocopherols",
+      "synonyms": "生育酚"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Tocotrienols",
+      "normalized_name": "Tocotrienols",
+      "synonyms": "生育三烯酚"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "DHA",
+      "normalized_name": "Docosahexaenoic acid",
+      "synonyms": "二十二碳六烯酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "EPA",
+      "normalized_name": "Eicosapentaenoic acid",
+      "synonyms": "二十碳五烯酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Omega-3 fatty acids",
+      "normalized_name": "Omega-3 fatty acids",
+      "synonyms": "ω-3脂肪酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "GSH",
+      "normalized_name": "Glutathione",
+      "synonyms": "谷胱甘肽"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "NADPH",
+      "normalized_name": "Nicotinamide adenine dinucleotide phosphate",
+      "synonyms": "还原型烟酰胺腺嘌呤二核苷酸磷酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Ubiquinone",
+      "normalized_name": "Ubiquinone",
+      "synonyms": "泛醌"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Coenzyme Q10",
+      "normalized_name": "Coenzyme Q10",
+      "synonyms": "辅酶Q10"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Ubiquinol",
+      "normalized_name": "Ubiquinol",
+      "synonyms": "泛醇"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "AGEs",
+      "normalized_name": "Advanced glycation end products",
+      "synonyms": "晚期糖基化终末产物"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Carboxyethylpyrrole",
+      "normalized_name": "Carboxyethylpyrrole",
+      "synonyms": "羧乙基吡咯"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "8-OHdG",
+      "normalized_name": "8-Hydroxy-2-deoxyguanosine",
+      "synonyms": "8-羟基-2-脱氧鸟苷"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Malondialdehyde",
+      "normalized_name": "Malondialdehyde",
+      "synonyms": "丙二醛"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Hydrogen peroxide",
+      "normalized_name": "Hydrogen peroxide",
+      "synonyms": "过氧化氢"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Superoxide",
+      "normalized_name": "Superoxide",
+      "synonyms": "超氧化物"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Hydroxyl radicals",
+      "normalized_name": "Hydroxyl radicals",
+      "synonyms": "羟基自由基"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Reactive oxygen species",
+      "normalized_name": "Reactive oxygen species",
+      "synonyms": "活性氧"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Nitric oxide",
+      "normalized_name": "Nitric oxide",
+      "synonyms": "一氧化氮"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Reactive nitrogen species",
+      "normalized_name": "Reactive nitrogen species",
+      "synonyms": "活性氮"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Leptin",
+      "normalized_name": "Leptin",
+      "synonyms": "瘦素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Zinc",
+      "normalized_name": "Zinc",
+      "synonyms": "锌"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Selenium",
+      "normalized_name": "Selenium",
+      "synonyms": "硒"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Copper",
+      "normalized_name": "Copper",
+      "synonyms": "铜"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Manganese",
+      "normalized_name": "Manganese",
+      "synonyms": "锰"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Iron",
+      "normalized_name": "Iron",
+      "synonyms": "铁"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Lipofuscin",
+      "normalized_name": "Lipofuscin",
+      "synonyms": "脂褐素"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Drusen",
+      "normalized_name": "Drusen",
+      "synonyms": "玻璃疣"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Rhodopsin",
+      "normalized_name": "Rhodopsin",
+      "synonyms": "视紫红质"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "DNA",
+      "normalized_name": "Deoxyribonucleic acid",
+      "synonyms": "脱氧核糖核酸"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Xanthophylls",
+      "normalized_name": "Xanthophylls",
+      "synonyms": "叶黄素类"
+    },
+    {
+      "category": "CHEMICAL",
+      "term": "Carotenoids",
+      "normalized_name": "Carotenoids",
+      "synonyms": "类胡萝卜素"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "SOD1",
+      "normalized_name": "Superoxide dismutase 1",
+      "synonyms": "超氧化物歧化酶1"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "SOD2",
+      "normalized_name": "Superoxide dismutase 2",
+      "synonyms": "超氧化物歧化酶2"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "CAT",
+      "normalized_name": "Catalase",
+      "synonyms": "过氧化氢酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "GPx",
+      "normalized_name": "Glutathione peroxidase",
+      "synonyms": "谷胱甘肽过氧化物酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "GST",
+      "normalized_name": "Glutathione S-transferase",
+      "synonyms": "谷胱甘肽S-转移酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "Glutathione reductase",
+      "normalized_name": "Glutathione reductase",
+      "synonyms": "谷胱甘肽还原酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "G6PD",
+      "normalized_name": "Glucose-6-phosphate dehydrogenase",
+      "synonyms": "葡萄糖-6-磷酸脱氢酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "Nrf2",
+      "normalized_name": "Nuclear factor erythroid 2-related factor 2",
+      "synonyms": "核因子E2相关因子2"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "NF-κB",
+      "normalized_name": "Nuclear factor-kappa B",
+      "synonyms": "核因子κB"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "TNF-α",
+      "normalized_name": "Tumor necrosis factor-alpha",
+      "synonyms": "肿瘤坏死因子α"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "VEGF",
+      "normalized_name": "Vascular endothelial growth factor",
+      "synonyms": "血管内皮生长因子"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "iNOS",
+      "normalized_name": "Inducible nitric oxide synthase",
+      "synonyms": "诱导型一氧化氮合酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "COX-2",
+      "normalized_name": "Cyclooxygenase-2",
+      "synonyms": "环氧合酶-2"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "CFH",
+      "normalized_name": "Complement factor H",
+      "synonyms": "补体因子H"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "C3",
+      "normalized_name": "Complement component 3",
+      "synonyms": "补体成分3"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "C2",
+      "normalized_name": "Complement component 2",
+      "synonyms": "补体成分2"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "CFB",
+      "normalized_name": "Complement factor B",
+      "synonyms": "补体因子B"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "CFHR1",
+      "normalized_name": "CFH-related protein 1",
+      "synonyms": "CFH相关蛋白1"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "CFHR3",
+      "normalized_name": "CFH-related protein 3",
+      "synonyms": "CFH相关蛋白3"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "BCMO1",
+      "normalized_name": "Beta-carotene monooxygenase 1",
+      "synonyms": "β-胡萝卜素单加氧酶1"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "XIAP",
+      "normalized_name": "X-linked inhibitor of apoptosis protein",
+      "synonyms": "X连锁凋亡抑制蛋白"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "NADPH oxidase",
+      "normalized_name": "NADPH oxidase",
+      "synonyms": "NADPH氧化酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "Cytochrome c oxidase",
+      "normalized_name": "Cytochrome c oxidase",
+      "synonyms": "细胞色素c氧化酶"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "αvβ5 integrin",
+      "normalized_name": "Alpha-v-beta-5 integrin",
+      "synonyms": "αvβ5整合素"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "LRP",
+      "normalized_name": "Low-density lipoprotein receptor-related protein",
+      "synonyms": "低密度脂蛋白受体相关蛋白"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "NLRP3",
+      "normalized_name": "NLR family pyrin domain containing 3",
+      "synonyms": "NLRP3炎症小体"
+    },
+    {
+      "category": "PROTEIN_GENE",
+      "term": "AMPK",
+      "normalized_name": "AMP-activated protein kinase",
+      "synonyms": "AMP活化蛋白激酶"
+    },
+    {
+      "category": "DISEASE",
+      "term": "AMD",
+      "normalized_name": "Age-related macular degeneration",
+      "synonyms": "年龄相关性黄斑变性"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Dry AMD",
+      "normalized_name": "Dry age-related macular degeneration",
+      "synonyms": "干性年龄相关性黄斑变性"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Wet AMD",
+      "normalized_name": "Wet age-related macular degeneration",
+      "synonyms": "湿性年龄相关性黄斑变性"
+    },
+    {
+      "category": "DISEASE",
+      "term": "DR",
+      "normalized_name": "Diabetic retinopathy",
+      "synonyms": "糖尿病视网膜病变"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Nonproliferative DR",
+      "normalized_name": "Nonproliferative diabetic retinopathy",
+      "synonyms": "非增殖性糖尿病视网膜病变"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Proliferative DR",
+      "normalized_name": "Proliferative diabetic retinopathy",
+      "synonyms": "增殖性糖尿病视网膜病变"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Cataracts",
+      "normalized_name": "Cataracts",
+      "synonyms": "白内障"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Nuclear cataract",
+      "normalized_name": "Nuclear cataract",
+      "synonyms": "核性白内障"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Glaucoma",
+      "normalized_name": "Glaucoma",
+      "synonyms": "青光眼"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Xerophthalmia",
+      "normalized_name": "Xerophthalmia",
+      "synonyms": "干眼症"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Night blindness",
+      "normalized_name": "Night blindness",
+      "synonyms": "夜盲症"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Geographic atrophy",
+      "normalized_name": "Geographic atrophy",
+      "synonyms": "地图状萎缩"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Choroidal neovascularization",
+      "normalized_name": "Choroidal neovascularization",
+      "synonyms": "脉络膜新生血管"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Retinal degeneration",
+      "normalized_name": "Retinal degeneration",
+      "synonyms": "视网膜变性"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Retinal ischemia",
+      "normalized_name": "Retinal ischemia",
+      "synonyms": "视网膜缺血"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Vitreous hemorrhage",
+      "normalized_name": "Vitreous hemorrhage",
+      "synonyms": "玻璃体出血"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Tractional retinal detachment",
+      "normalized_name": "Tractional retinal detachment",
+      "synonyms": "牵拉性视网膜脱离"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Retinitis pigmentosa",
+      "normalized_name": "Retinitis pigmentosa",
+      "synonyms": "视网膜色素变性"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Endothelial dysfunction",
+      "normalized_name": "Endothelial dysfunction",
+      "synonyms": "内皮功能障碍"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Metabolic syndrome",
+      "normalized_name": "Metabolic syndrome",
+      "synonyms": "代谢综合征"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Type 2 diabetes",
+      "normalized_name": "Type 2 diabetes",
+      "synonyms": "2型糖尿病"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Diabetes mellitus",
+      "normalized_name": "Diabetes mellitus",
+      "synonyms": "糖尿病"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Hypertension",
+      "normalized_name": "Hypertension",
+      "synonyms": "高血压"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Atherosclerosis",
+      "normalized_name": "Atherosclerosis",
+      "synonyms": "动脉粥样硬化"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Cardiovascular disease",
+      "normalized_name": "Cardiovascular disease",
+      "synonyms": "心血管疾病"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Obesity",
+      "normalized_name": "Obesity",
+      "synonyms": "肥胖"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Inflammation",
+      "normalized_name": "Inflammation",
+      "synonyms": "炎症"
+    },
+    {
+      "category": "DISEASE",
+      "term": "Oxidative stress",
+      "normalized_name": "Oxidative stress",
+      "synonyms": "氧化应激"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "Nrf2 signaling pathway",
+      "normalized_name": "Nrf2 signaling pathway",
+      "synonyms": "Nrf2信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "NF-κB signaling pathway",
+      "normalized_name": "NF-κB signaling pathway",
+      "synonyms": "核因子κB信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "Complement pathway",
+      "normalized_name": "Complement pathway",
+      "synonyms": "补体通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "VEGF signaling pathway",
+      "normalized_name": "VEGF signaling pathway",
+      "synonyms": "VEGF信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "JAK/STAT signaling pathway",
+      "normalized_name": "JAK/STAT signaling pathway",
+      "synonyms": "JAK/STAT信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "AMPK signaling pathway",
+      "normalized_name": "AMPK signaling pathway",
+      "synonyms": "AMPK信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "Toll-like receptor signaling pathway",
+      "normalized_name": "Toll-like receptor signaling pathway",
+      "synonyms": "Toll样受体信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "Apoptosis signaling pathway",
+      "normalized_name": "Apoptosis signaling pathway",
+      "synonyms": "凋亡信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "Insulin signaling pathway",
+      "normalized_name": "Insulin signaling pathway",
+      "synonyms": "胰岛素信号通路"
+    },
+    {
+      "category": "PATHWAY",
+      "term": "MAPK signaling pathway",
+      "normalized_name": "MAPK signaling pathway",
+      "synonyms": "MAPK信号通路"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Mus musculus",
+      "normalized_name": "Mus musculus",
+      "synonyms": "小鼠"
+    },
+    {
+      "category": "SPECIES",
+      "term": "C57BL/6",
+      "normalized_name": "C57BL/6 mouse",
+      "synonyms": "C57BL/6小鼠"
+    },
+    {
+      "category": "SPECIES",
+      "term": "ApoE−/− mouse",
+      "normalized_name": "ApoE knockout mouse",
+      "synonyms": "ApoE基因敲除小鼠"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Rattus norvegicus",
+      "normalized_name": "Rattus norvegicus",
+      "synonyms": "大鼠"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Wistar rat",
+      "normalized_name": "Wistar rat",
+      "synonyms": "Wistar大鼠"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Vitis",
+      "normalized_name": "Vitis",
+      "synonyms": "葡萄属"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Vitis vinifera",
+      "normalized_name": "Vitis vinifera",
+      "synonyms": "欧洲葡萄"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Homo sapiens",
+      "normalized_name": "Homo sapiens",
+      "synonyms": "人类"
+    },
+    {
+      "category": "SPECIES",
+      "term": "ARPE-19 cells",
+      "normalized_name": "ARPE-19 cells",
+      "synonyms": "ARPE-19细胞系"
+    },
+    {
+      "category": "SPECIES",
+      "term": "RPE cells",
+      "normalized_name": "Retinal pigment epithelial cells",
+      "synonyms": "视网膜色素上皮细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Photoreceptors",
+      "normalized_name": "Photoreceptors",
+      "synonyms": "光感受器细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Rods",
+      "normalized_name": "Rods",
+      "synonyms": "视杆细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Cones",
+      "normalized_name": "Cones",
+      "synonyms": "视锥细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Ganglion cells",
+      "normalized_name": "Ganglion cells",
+      "synonyms": "神经节细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Bipolar cells",
+      "normalized_name": "Bipolar cells",
+      "synonyms": "双极细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Horizontal cells",
+      "normalized_name": "Horizontal cells",
+      "synonyms": "水平细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Amacrine cells",
+      "normalized_name": "Amacrine cells",
+      "synonyms": "无长突细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Müller cells",
+      "normalized_name": "Müller cells",
+      "synonyms": "Müller细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Microglia",
+      "normalized_name": "Microglia",
+      "synonyms": "小胶质细胞"
+    },
+    {
+      "category": "SPECIES",
+      "term": "Astrocytes",
+      "normalized_name": "Astrocytes",
+      "synonyms": "星形胶质细胞"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Cornea",
+      "normalized_name": "Cornea",
+      "synonyms": "角膜"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Sclera",
+      "normalized_name": "Sclera",
+      "synonyms": "巩膜"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Limbus",
+      "normalized_name": "Limbus",
+      "synonyms": "角膜缘"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Iris",
+      "normalized_name": "Iris",
+      "synonyms": "虹膜"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Pupil",
+      "normalized_name": "Pupil",
+      "synonyms": "瞳孔"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Lens",
+      "normalized_name": "Lens",
+      "synonyms": "晶状体"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Retina",
+      "normalized_name": "Retina",
+      "synonyms": "视网膜"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Macula",
+      "normalized_name": "Macula",
+      "synonyms": "黄斑"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Fovea",
+      "normalized_name": "Fovea",
+      "synonyms": "中央凹"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Choroid",
+      "normalized_name": "Choroid",
+      "synonyms": "脉络膜"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Uveal tract",
+      "normalized_name": "Uveal tract",
+      "synonyms": "葡萄膜"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Ciliary body",
+      "normalized_name": "Ciliary body",
+      "synonyms": "睫状体"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "RPE",
+      "normalized_name": "Retinal pigment epithelium",
+      "synonyms": "视网膜色素上皮"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Outer plexiform layer",
+      "normalized_name": "Outer plexiform layer",
+      "synonyms": "外丛状层"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Inner plexiform layer",
+      "normalized_name": "Inner plexiform layer",
+      "synonyms": "内丛状层"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Photoreceptor outer segments",
+      "normalized_name": "Photoreceptor outer segments",
+      "synonyms": "光感受器外节"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Photoreceptor inner segments",
+      "normalized_name": "Photoreceptor inner segments",
+      "synonyms": "光感受器内节"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Retinal ganglion cells",
+      "normalized_name": "Retinal ganglion cells",
+      "synonyms": "视网膜神经节细胞"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Subretinal space",
+      "normalized_name": "Subretinal space",
+      "synonyms": "视网膜下腔"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Aqueous humor",
+      "normalized_name": "Aqueous humor",
+      "synonyms": "房水"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Vitreous humor",
+      "normalized_name": "Vitreous humor",
+      "synonyms": "玻璃体"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Blood-retinal barrier",
+      "normalized_name": "Blood-retinal barrier",
+      "synonyms": "血-视网膜屏障"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Bruch's membrane",
+      "normalized_name": "Bruch's membrane",
+      "synonyms": "Bruch膜"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Cell membranes",
+      "normalized_name": "Cell membranes",
+      "synonyms": "细胞膜"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Mitochondria",
+      "normalized_name": "Mitochondria",
+      "synonyms": "线粒体"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Peroxisomes",
+      "normalized_name": "Peroxisomes",
+      "synonyms": "过氧化物酶体"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Nucleus",
+      "normalized_name": "Nucleus",
+      "synonyms": "细胞核"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Cytosol",
+      "normalized_name": "Cytosol",
+      "synonyms": "细胞质"
+    },
+    {
+      "category": "ANATOMY",
+      "term": "Brachial artery",
+      "normalized_name": "Brachial artery",
+      "synonyms": "肱动脉"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Oxidative stress",
+      "normalized_name": "Oxidative stress",
+      "synonyms": "氧化应激"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Inflammation",
+      "normalized_name": "Inflammation",
+      "synonyms": "炎症"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Chronic inflammation",
+      "normalized_name": "Chronic inflammation",
+      "synonyms": "慢性炎症"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Apoptosis",
+      "normalized_name": "Apoptosis",
+      "synonyms": "细胞凋亡"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Autophagy",
+      "normalized_name": "Autophagy",
+      "synonyms": "自噬"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Necrosis",
+      "normalized_name": "Necrosis",
+      "synonyms": "坏死"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Lipid peroxidation",
+      "normalized_name": "Lipid peroxidation",
+      "synonyms": "脂质过氧化"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "DNA damage",
+      "normalized_name": "DNA damage",
+      "synonyms": "DNA损伤"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Mitochondrial dysfunction",
+      "normalized_name": "Mitochondrial dysfunction",
+      "synonyms": "线粒体功能障碍"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Phagocytosis",
+      "normalized_name": "Phagocytosis",
+      "synonyms": "吞噬作用"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Angiogenesis",
+      "normalized_name": "Angiogenesis",
+      "synonyms": "血管生成"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Neovascularization",
+      "normalized_name": "Neovascularization",
+      "synonyms": "新生血管形成"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Vasodilation",
+      "normalized_name": "Vasodilation",
+      "synonyms": "血管舒张"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Vasoconstriction",
+      "normalized_name": "Vasoconstriction",
+      "synonyms": "血管收缩"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Endothelial dysfunction",
+      "normalized_name": "Endothelial dysfunction",
+      "synonyms": "内皮功能障碍"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Insulin resistance",
+      "normalized_name": "Insulin resistance",
+      "synonyms": "胰岛素抵抗"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Hyperglycemia",
+      "normalized_name": "Hyperglycemia",
+      "synonyms": "高血糖"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Cellular senescence",
+      "normalized_name": "Cellular senescence",
+      "synonyms": "细胞衰老"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Neuroprotection",
+      "normalized_name": "Neuroprotection",
+      "synonyms": "神经保护"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Antioxidant defense",
+      "normalized_name": "Antioxidant defense",
+      "synonyms": "抗氧化防御"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Visual cycle",
+      "normalized_name": "Visual cycle",
+      "synonyms": "视觉循环"
+    },
+    {
+      "category": "PHENOMENA",
+      "term": "Phototransduction",
+      "normalized_name": "Phototransduction",
+      "synonyms": "光转导"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape",
+      "normalized_name": "Grape",
+      "synonyms": "葡萄"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape juice",
+      "normalized_name": "Grape juice",
+      "synonyms": "葡萄汁"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape powder",
+      "normalized_name": "Grape powder",
+      "synonyms": "葡萄粉"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "FDGP",
+      "normalized_name": "Freeze-dried grape powder",
+      "synonyms": "冷冻干燥葡萄粉"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape seed extract",
+      "normalized_name": "Grape seed extract",
+      "synonyms": "葡萄籽提取物"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape polyphenol extract",
+      "normalized_name": "Grape polyphenol extract",
+      "synonyms": "葡萄多酚提取物"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape skin extract",
+      "normalized_name": "Grape skin extract",
+      "synonyms": "葡萄皮提取物"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Grape pomace extract",
+      "normalized_name": "Grape pomace extract",
+      "synonyms": "葡萄渣提取物"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Resveratrol",
+      "normalized_name": "Resveratrol",
+      "synonyms": "白藜芦醇"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Quercetin",
+      "normalized_name": "Quercetin",
+      "synonyms": "槲皮素"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Lutein",
+      "normalized_name": "Lutein",
+      "synonyms": "叶黄素"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Zeaxanthin",
+      "normalized_name": "Zeaxanthin",
+      "synonyms": "玉米黄质"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Lutein/zeaxanthin supplement",
+      "normalized_name": "Lutein/zeaxanthin supplement",
+      "synonyms": "叶黄素/玉米黄质补充剂"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Lutein nanodisks",
+      "normalized_name": "Lutein nanodisks",
+      "synonyms": "叶黄素纳米盘"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Vitamin A",
+      "normalized_name": "Vitamin A",
+      "synonyms": "维生素A"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Vitamin C",
+      "normalized_name": "Vitamin C",
+      "synonyms": "维生素C"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Vitamin E",
+      "normalized_name": "Vitamin E",
+      "synonyms": "维生素E"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Zinc",
+      "normalized_name": "Zinc",
+      "synonyms": "锌"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Selenium",
+      "normalized_name": "Selenium",
+      "synonyms": "硒"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Omega-3 fatty acids",
+      "normalized_name": "Omega-3 fatty acids",
+      "synonyms": "ω-3脂肪酸"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "DHA",
+      "normalized_name": "DHA",
+      "synonyms": "二十二碳六烯酸"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Aflibercept",
+      "normalized_name": "Aflibercept",
+      "synonyms": "阿柏西普"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "AREDS2 formula",
+      "normalized_name": "AREDS2 formula",
+      "synonyms": "AREDS2配方"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "RQC",
+      "normalized_name": "Resveratrol-quercetin-curcumin",
+      "synonyms": "白藜芦醇-槲皮素-姜黄素复方"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Statins",
+      "normalized_name": "Statins",
+      "synonyms": "他汀类药物"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Placebo",
+      "normalized_name": "Placebo",
+      "synonyms": "安慰剂"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "High-fat diet",
+      "normalized_name": "High-fat diet",
+      "synonyms": "高脂饮食"
+    },
+    {
+      "category": "INTERVENTION",
+      "term": "Western diet",
+      "normalized_name": "Western diet",
+      "synonyms": "西方饮食"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "MPOD",
+      "normalized_name": "Macular pigment optical density",
+      "synonyms": "黄斑色素光密度"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "FMD",
+      "normalized_name": "Flow-mediated dilation",
+      "synonyms": "血流介导的血管舒张"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Visual acuity",
+      "normalized_name": "Visual acuity",
+      "synonyms": "视力"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Contrast sensitivity",
+      "normalized_name": "Contrast sensitivity",
+      "synonyms": "对比敏感度"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Photostress recovery time",
+      "normalized_name": "Photostress recovery time",
+      "synonyms": "光应激恢复时间"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Central retinal thickness",
+      "normalized_name": "Central retinal thickness",
+      "synonyms": "中央视网膜厚度"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Drusen size",
+      "normalized_name": "Drusen size",
+      "synonyms": "玻璃疣大小"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Geographic atrophy growth rate",
+      "normalized_name": "Geographic atrophy growth rate",
+      "synonyms": "地图状萎缩生长速率"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Oxidative stress markers",
+      "normalized_name": "Oxidative stress markers",
+      "synonyms": "氧化应激标志物"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Total antioxidant capacity",
+      "normalized_name": "Total antioxidant capacity",
+      "synonyms": "总抗氧化能力"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Total phenolic content",
+      "normalized_name": "Total phenolic content",
+      "synonyms": "总酚含量"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Plasma carotenoid levels",
+      "normalized_name": "Plasma carotenoid levels",
+      "synonyms": "血浆类胡萝卜素水平"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Skin AGEs",
+      "normalized_name": "Skin AGEs",
+      "synonyms": "皮肤AGEs"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Serum CRP",
+      "normalized_name": "Serum C-reactive protein",
+      "synonyms": "血清C反应蛋白"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "TNF-α",
+      "normalized_name": "TNF-alpha",
+      "synonyms": "肿瘤坏死因子α"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "IL-6",
+      "normalized_name": "Interleukin-6",
+      "synonyms": "白细胞介素-6"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "IL-1β",
+      "normalized_name": "Interleukin-1 beta",
+      "synonyms": "白细胞介素-1β"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "IL-10",
+      "normalized_name": "Interleukin-10",
+      "synonyms": "白细胞介素-10"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "VEGF",
+      "normalized_name": "Vascular endothelial growth factor",
+      "synonyms": "血管内皮生长因子"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Blood pressure",
+      "normalized_name": "Blood pressure",
+      "synonyms": "血压"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Systolic blood pressure",
+      "normalized_name": "Systolic blood pressure",
+      "synonyms": "收缩压"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Diastolic blood pressure",
+      "normalized_name": "Diastolic blood pressure",
+      "synonyms": "舒张压"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Serum cholesterol",
+      "normalized_name": "Serum cholesterol",
+      "synonyms": "血清胆固醇"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "LDL cholesterol",
+      "normalized_name": "LDL cholesterol",
+      "synonyms": "LDL胆固醇"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "HDL cholesterol",
+      "normalized_name": "HDL cholesterol",
+      "synonyms": "HDL胆固醇"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Triglycerides",
+      "normalized_name": "Triglycerides",
+      "synonyms": "甘油三酯"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Fasting blood glucose",
+      "normalized_name": "Fasting blood glucose",
+      "synonyms": "空腹血糖"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Body mass index",
+      "normalized_name": "Body mass index",
+      "synonyms": "体重指数"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "NADPH oxidase activity",
+      "normalized_name": "NADPH oxidase activity",
+      "synonyms": "NADPH氧化酶活性"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "SOD activity",
+      "normalized_name": "Superoxide dismutase activity",
+      "synonyms": "超氧化物歧化酶活性"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "CAT activity",
+      "normalized_name": "Catalase activity",
+      "synonyms": "过氧化氢酶活性"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "GPx activity",
+      "normalized_name": "Glutathione peroxidase activity",
+      "synonyms": "谷胱甘肽过氧化物酶活性"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "GST activity",
+      "normalized_name": "Glutathione S-transferase activity",
+      "synonyms": "谷胱甘肽S-转移酶活性"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "ORAC",
+      "normalized_name": "Oxygen radical absorbance capacity",
+      "synonyms": "氧自由基吸收能力"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "CDAI",
+      "normalized_name": "Composite Dietary Antioxidant Index",
+      "synonyms": "复合膳食抗氧化指数"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "NHANES",
+      "normalized_name": "National Health and Nutrition Examination Survey",
+      "synonyms": "国家健康与营养调查"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "AREDS2",
+      "normalized_name": "Age-Related Eye Disease Study 2",
+      "synonyms": "年龄相关眼病研究2"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "LASTII",
+      "normalized_name": "Lutein Antioxidant Supplementation Trial II",
+      "synonyms": "叶黄素抗氧化补充试验II"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "LISA",
+      "normalized_name": "Lutein Intervention Study Austria",
+      "synonyms": "奥地利叶黄素干预研究"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "CLEAR",
+      "normalized_name": "Combination of Lutein Effects in the Aging Retina",
+      "synonyms": "衰老视网膜中叶黄素效应组合研究"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "ELISA",
+      "normalized_name": "Enzyme-linked immunosorbent assay",
+      "synonyms": "酶联免疫吸附测定"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "Western blot",
+      "normalized_name": "Western blot",
+      "synonyms": "蛋白质印迹"
+    },
+    {
+      "category": "MEASUREMENT",
+      "term": "PCR",
+      "normalized_name": "Polymerase chain reaction",
+      "synonyms": "聚合酶链式反应"
+    },
+    {
+      "category": "MISC",
+      "term": "Antioxidants",
+      "normalized_name": "Antioxidants",
+      "synonyms": "抗氧化剂"
+    },
+    {
+      "category": "MISC",
+      "term": "Polyphenols",
+      "normalized_name": "Polyphenols",
+      "synonyms": "多酚"
+    },
+    {
+      "category": "MISC",
+      "term": "Flavonoids",
+      "normalized_name": "Flavonoids",
+      "synonyms": "类黄酮"
+    },
+    {
+      "category": "MISC",
+      "term": "Carotenoids",
+      "normalized_name": "Carotenoids",
+      "synonyms": "类胡萝卜素"
+    },
+    {
+      "category": "MISC",
+      "term": "Xanthophylls",
+      "normalized_name": "Xanthophylls",
+      "synonyms": "叶黄素类"
+    },
+    {
+      "category": "MISC",
+      "term": "Bioactive compounds",
+      "normalized_name": "Bioactive compounds",
+      "synonyms": "生物活性化合物"
+    },
+    {
+      "category": "MISC",
+      "term": "Phytochemicals",
+      "normalized_name": "Phytochemicals",
+      "synonyms": "植物化学物"
+    },
+    {
+      "category": "MISC",
+      "term": "Bioavailability",
+      "normalized_name": "Bioavailability",
+      "synonyms": "生物利用度"
+    },
+    {
+      "category": "MISC",
+      "term": "Metabolites",
+      "normalized_name": "Metabolites",
+      "synonyms": "代谢产物"
+    },
+    {
+      "category": "MISC",
+      "term": "Biomarkers",
+      "normalized_name": "Biomarkers",
+      "synonyms": "生物标志物"
+    },
+    {
+      "category": "MISC",
+      "term": "Inflammatory markers",
+      "normalized_name": "Inflammatory markers",
+      "synonyms": "炎症标志物"
+    },
+    {
+      "category": "MISC",
+      "term": "Oxidative markers",
+      "normalized_name": "Oxidative markers",
+      "synonyms": "氧化标志物"
+    },
+    {
+      "category": "MISC",
+      "term": "Clinical trial",
+      "normalized_name": "Clinical trial",
+      "synonyms": "临床试验"
+    },
+    {
+      "category": "MISC",
+      "term": "Randomized controlled trial",
+      "normalized_name": "Randomized controlled trial",
+      "synonyms": "随机对照试验"
+    },
+    {
+      "category": "MISC",
+      "term": "Double-blind study",
+      "normalized_name": "Double-blind study",
+      "synonyms": "双盲研究"
+    },
+    {
+      "category": "MISC",
+      "term": "Placebo-controlled study",
+      "normalized_name": "Placebo-controlled study",
+      "synonyms": "安慰剂对照研究"
+    },
+    {
+      "category": "MISC",
+      "term": "Meta-analysis",
+      "normalized_name": "Meta-analysis",
+      "synonyms": "荟萃分析"
+    },
+    {
+      "category": "MISC",
+      "term": "Systematic review",
+      "normalized_name": "Systematic review",
+      "synonyms": "系统综述"
+    },
+    {
+      "category": "MISC",
+      "term": "In vivo",
+      "normalized_name": "In vivo",
+      "synonyms": "体内"
+    },
+    {
+      "category": "MISC",
+      "term": "In vitro",
+      "normalized_name": "In vitro",
+      "synonyms": "体外"
+    },
+    {
+      "category": "MISC",
+      "term": "Ex vivo",
+      "normalized_name": "Ex vivo",
+      "synonyms": "离体"
+    },
+    {
+      "category": "MISC",
+      "term": "Preclinical studies",
+      "normalized_name": "Preclinical studies",
+      "synonyms": "临床前研究"
+    },
+    {
+      "category": "MISC",
+      "term": "Animal model",
+      "normalized_name": "Animal model",
+      "synonyms": "动物模型"
+    },
+    {
+      "category": "MISC",
+      "term": "Cell culture",
+      "normalized_name": "Cell culture",
+      "synonyms": "细胞培养"
+    },
+    {
+      "category": "MISC",
+      "term": "Pharmacodynamics",
+      "normalized_name": "Pharmacodynamics",
+      "synonyms": "药效学"
+    },
+    {
+      "category": "MISC",
+      "term": "Pharmacokinetics",
+      "normalized_name": "Pharmacokinetics",
+      "synonyms": "药代动力学"
+    },
+    {
+      "category": "MISC",
+      "term": "Pharmacovigilance",
+      "normalized_name": "Pharmacovigilance",
+      "synonyms": "药物警戒"
+    },
+    {
+      "category": "MISC",
+      "term": "Dietary intervention",
+      "normalized_name": "Dietary intervention",
+      "synonyms": "膳食干预"
+    },
+    {
+      "category": "MISC",
+      "term": "Nutritional supplement",
+      "normalized_name": "Nutritional supplement",
+      "synonyms": "营养补充剂"
+    },
+    {
+      "category": "MISC",
+      "term": "Functional foods",
+      "normalized_name": "Functional foods",
+      "synonyms": "功能性食品"
+    },
+    {
+      "category": "MISC",
+      "term": "Gut microbiota",
+      "normalized_name": "Gut microbiota",
+      "synonyms": "肠道菌群"
+    },
+    {
+      "category": "MISC",
+      "term": "ROS",
+      "normalized_name": "Reactive oxygen species",
+      "synonyms": "活性氧"
+    },
+    {
+      "category": "MISC",
+      "term": "Mitochondrial DNA",
+      "normalized_name": "Mitochondrial DNA",
+      "synonyms": "线粒体DNA"
+    },
+    {
+      "category": "MISC",
+      "term": "Nuclear DNA",
+      "normalized_name": "Nuclear DNA",
+      "synonyms": "核DNA"
+    },
+    {
+      "category": "MISC",
+      "term": "Oxidative phosphorylation",
+      "normalized_name": "Oxidative phosphorylation",
+      "synonyms": "氧化磷酸化"
+    }
+  ],
+  "entities_count": 307
+}

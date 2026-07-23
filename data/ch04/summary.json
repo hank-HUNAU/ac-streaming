@@ -1,0 +1,114 @@
+{
+  "id": "ch04",
+  "title": "04 Grapes and Vision",
+  "total_sentences": 242,
+  "total_duration_s": 2909.9,
+  "total_terms": 307,
+  "total_sections": 13,
+  "sections": [
+    {
+      "id": "0_grapes_and_vision",
+      "title": "Grapes and Vision. Jung Eun Kim and Weili Hu.",
+      "sentence_count": 2,
+      "word_count": 9,
+      "duration_s": 3.6,
+      "passage_audio_url": "chpt04_audio/0_grapes_and_vision/0_grapes_and_vision.mp3"
+    },
+    {
+      "id": "1_abstract_this_chapter",
+      "title": "Abstract. This chapter explores the relationship between ocular health and dietary antioxidants, focusing on their roles in maintaining eye health and mitigating oxidative-stress-related eye pathologies. The discussion begins with an overview of ocular anatomy and nutrient distribution, highlighting the unique nutrient needs of different eye structures. Oxidative stress is identified as a central contributor to many ocular diseases, such as age-related macular degeneration, diabetic retinopathy, and cataracts, with a detailed examination of the mechanisms underlying these conditions. The chapter further delves into the protective mechanisms of antioxidants in ocular health, emphasizing their ability to neutralize reactive oxygen species and support cellular defense systems. Dietary antioxidants, such as vitamin A, lutein and zeaxanthin, and polyphenols, are presented as key contributors to eye health. Special attention is given to dietary polyphenols, particularly from grapes, which exhibit potent antioxidative and anti-inflammatory properties, which help reduce oxidative stress, modulate advanced glycation end products, and enhance retinal functions; this highlights grapes as a promising dietary strategy for mitigating age-related and oxidative-stress-driven ocular diseases.",
+      "sentence_count": 7,
+      "word_count": 168,
+      "duration_s": 81.9,
+      "passage_audio_url": "chpt04_audio/1_abstract_this_chapter/1_abstract_this_chapter.mp3"
+    },
+    {
+      "id": "2_ocular_anatomy_and",
+      "title": "Ocular Anatomy and Nutrient Distribution in the Eye. The human eyeball is composed of three main layers. The outermost supporting layer consists of the transparent cornea, the opaque sclera, and the limbus, the region where the cornea and sclera meet. The sclera forms most of the eye's surface, serving as a fibrous tissue surrounding the iris, and transitions seamlessly into the cornea, which covers the pupil and iris. Together with the lens, the cornea focuses incoming light onto the retina. The middle layer, known as the uveal tract, serves as the eye's central vascular layer and includes the iris, ciliary body, and choroid, the latter being rich in blood vessels that nourish the eye. The innermost layer is the retina, which lines the interior of the eye and is responsible for detecting light and initiating the process of vision.",
+      "sentence_count": 38,
+      "word_count": 880,
+      "duration_s": 373.3,
+      "passage_audio_url": "chpt04_audio/2_ocular_anatomy_and/2_ocular_anatomy_and.mp3"
+    },
+    {
+      "id": "3_oxidative_stress_and",
+      "title": "Oxidative Stress and Ocular Pathologies Related to Oxidative Stress. Oxidative stress plays a critical role in the etiology of various ocular pathologies, including age-related macular degeneration, cataracts, diabetic retinopathy, and glaucoma. An imbalance between the production of reactive oxygen species and the antioxidant defenses that neutralize them in the eye can also lead to the oxidation of cellular components and a consequent loss of cellular function. The eye is constantly exposed to damaging agents, such as ionizing radiation, visible light, especially high-energy blue light, high oxygen levels, and environmental chemicals from pollutants, industrial emissions, tobacco smoke, and vehicle exhaust fumes. These factors significantly promote the generation of reactive oxygen species beyond the capacity of ocular cells to dissipate them, leading to oxidative stress. Excess reactive oxygen species can react with lipids, proteins, and nucleic acids, ultimately causing the dysfunction of ocular tissues and contributing to various eye diseases.",
+      "sentence_count": 14,
+      "word_count": 351,
+      "duration_s": 168.4,
+      "passage_audio_url": "chpt04_audio/3_oxidative_stress_and/3_oxidative_stress_and.mp3"
+    },
+    {
+      "id": "4_age_related_macular",
+      "title": "Age-Related Macular Degeneration. A M D is a progressive eye disease that primarily affects individuals over the age of 60 and is the leading cause of vision loss among the older population worldwide. Initial symptoms often include a loss of central visual acuity and distortion of straight lines, which may appear wavy or curved. As the disease advances, a central scotoma, or blind spot, develops and expands, significantly impairing vision and affecting daily activities, such as reading and recognizing faces.",
+      "sentence_count": 14,
+      "word_count": 530,
+      "duration_s": 222.2,
+      "passage_audio_url": "chpt04_audio/4_age_related_macular/4_age_related_macular.mp3"
+    },
+    {
+      "id": "5_diabetic_retinopathy_diabetic",
+      "title": "Diabetic Retinopathy. Diabetic retinopathy, or D R, is the most common microvascular complication of diabetes mellitus and a leading cause of vision impairment and blindness among working-age adults worldwide. The pathogenesis of D R is complex, involving multiple biochemical pathways that are influenced by chronic hyperglycemia. Prolonged high blood sugar levels damage retinal blood vessels, leading to increased vascular permeability, retinal ischemia, and pathological neovascularization. Clinically, patients with D R may experience blurred vision, floaters, and, in advanced stages, significant vision loss due to vitreous hemorrhage or tractional retinal detachment.",
+      "sentence_count": 8,
+      "word_count": 199,
+      "duration_s": 95.8,
+      "passage_audio_url": "chpt04_audio/5_diabetic_retinopathy_diabetic/5_diabetic_retinopathy_diabetic.mp3"
+    },
+    {
+      "id": "6_cataracts_in_a",
+      "title": "Cataracts. In a cataract-affected eye, the lens becomes clouded due to the accumulation of abnormal pigments and the formation of nontransparent protein aggregates. This clouding disrupts the passage of light to the retina, leading to symptoms such as blurred or double vision, increased sensitivity to light and glare, and a diminished perception of colors, often appearing faded or yellowed. The lens is particularly susceptible to oxidative damage due to its high protein content and limited capacity for cellular repair or regeneration. Past review and in vitro studies demonstrated that human lens cells are highly vulnerable to oxidative stress, with their antioxidant activity showing an inverse relationship to cataract severity.",
+      "sentence_count": 5,
+      "word_count": 109,
+      "duration_s": 45.7,
+      "passage_audio_url": "chpt04_audio/6_cataracts_in_a/6_cataracts_in_a.mp3"
+    },
+    {
+      "id": "7_antioxidants_and_their",
+      "title": "Antioxidants and Their Mechanisms in Ocular Health. Updated research continues to support the understanding that antioxidant mechanisms in human cells are mediated by both endogenous and exogenous antioxidants, with the latter predominantly derived from dietary sources.",
+      "sentence_count": 30,
+      "word_count": 790,
+      "duration_s": 394.6,
+      "passage_audio_url": "chpt04_audio/7_antioxidants_and_their/7_antioxidants_and_their.mp3"
+    },
+    {
+      "id": "8_dietary_antioxidants_and",
+      "title": "Dietary Antioxidants and Their Benefits for Vision. Due to antioxidant effects and possible accumulation in the eyes, key nutrients and dietary antioxidants, such as vitamin A, vitamin C, vitamin E, and carotenoids like lutein and zeaxanthin, have gained significant attention for their potential to reduce the risk of eye diseases and support overall eye health. Additionally, essential minerals like zinc, omega-3 fatty acids such as eicosapentaenoic acid and D H A, along with polyphenols and flavonoids found in various plant-based foods, have been shown to combat oxidative stress and inflammation, which are associated with common eye disorders. Together, these dietary components help neutralize harmful free radicals and protect retinal cells and may play a crucial role in preventing or delaying the onset of conditions like A M D, cataracts, and other age-related vision impairments.",
+      "sentence_count": 4,
+      "word_count": 134,
+      "duration_s": 57.3,
+      "passage_audio_url": "chpt04_audio/8_dietary_antioxidants_and/8_dietary_antioxidants_and.mp3"
+    },
+    {
+      "id": "9_effects_of_vitamin",
+      "title": "Effects of Vitamin A on Eye Health. Vitamin A, a group of fat-soluble retinoids, includes preformed vitamin A, retinol and retinyl esters, and provitamin A carotenoids, such as beta-carotene, alpha-carotene, and beta-cryptoxanthin. The human diet provides two primary sources of vitamin A: first, preformed vitamin A found in animal-based foods like dairy products, eggs, fish, and organ meats, and second, provitamin A carotenoids, which are plant pigments found in fruits and vegetables. The body converts provitamin A carotenoids into vitamin A in the intestine via the beta-carotene monooxygenase type 1 enzyme, though the efficiency of this conversion can vary due to genetic factors.",
+      "sentence_count": 17,
+      "word_count": 504,
+      "duration_s": 209.9,
+      "passage_audio_url": "chpt04_audio/9_effects_of_vitamin/9_effects_of_vitamin.mp3"
+    },
+    {
+      "id": "10_effects_of_lutein",
+      "title": "Effects of Lutein and Zeaxanthin on Eye Health. Lutein, zeaxanthin, and meso-zeaxanthin are macular xanthophylls commonly found together in the retina. Since meso-zeaxanthin cannot be obtained directly from the human diet and is instead synthesized from lutein, dietary macular xanthophylls are typically referred to as lutein and zeaxanthin. The most common dietary sources of these xanthophylls include green leafy vegetables such as kale, spinach, broccoli, peas, and lettuce, as well as egg yolk. While predominantly localized in the macula, lutein and zeaxanthin are also distributed throughout the retina, including in the photoreceptor outer segments and R P E, with the highest concentration in the outer plexiform layer. One of the protective roles of lutein and zeaxanthin is their ability to scavenge oxygen-free radicals under oxidative stress. In addition to their antioxidant properties, lutein and zeaxanthin selectively absorb blue light, peaking at an absorption wavelength of 446 nanometers. Light-induced retinal damage varies with wavelength, exposure time, and intensity, with blue light requiring significantly less intensity to cause damage compared to orange light. This suggests that lutein and zeaxanthin play a protective role in the macula by filtering harmful wavelengths and reducing photoreceptor damage.",
+      "sentence_count": 34,
+      "word_count": 950,
+      "duration_s": 428.5,
+      "passage_audio_url": "chpt04_audio/10_effects_of_lutein/10_effects_of_lutein.mp3"
+    },
+    {
+      "id": "11_effects_of_polyphenols",
+      "title": "Effects of Polyphenols on Eye Health. Polyphenols, including flavonoids such as quercetin and stilbenes like resveratrol, have demonstrated notable potential in protecting eye health through their antioxidant, anti-inflammatory, and antiangiogenic properties. Quercetin, a flavonoid found in a variety of fruits and vegetables, acts primarily as a direct scavenger of reactive oxygen species and reactive nitrogen species. Studies in ocular cells have shown that quercetin protects R P E cells from oxidative damage, preventing cell death. In vivo studies further support the protective effects of quercetin in ocular diseases. In a model of wet A M D, quercetin treatment at 25 milligrams per kilogram for 2 months improved systemic antioxidant defenses, suppressed nitric oxide and cyclooxygenase-2 expression, and decreased lipofuscin accumulation in R P E cells, though it did not affect pro-inflammatory or apoptotic gene expression in the eye.",
+      "sentence_count": 22,
+      "word_count": 619,
+      "duration_s": 283.5,
+      "passage_audio_url": "chpt04_audio/11_effects_of_polyphenols/11_effects_of_polyphenols.mp3"
+    },
+    {
+      "id": "12_benefits_of_grape",
+      "title": "Benefits of Grape for Vision. Building upon the understanding of how dietary antioxidants such as vitamin A, lutein, zeaxanthin, and polyphenols contribute to ocular health, it is valuable to explore specific foods rich in these nutrients. Grapes, in particular, have garnered attention due to their potential benefits for eye health. Grapes are abundant in a variety of bioactive compounds, including stilbenes like resveratrol and piceatannol, flavonoids such as catechins and quercetin, and small amounts of carotenoids like lutein and zeaxanthin. These nutrients and bioactive compounds possess antioxidant, anti-inflammatory, and neuroprotective properties that may contribute to the prevention or slowing of ocular diseases like A M D, cataracts, and diabetic retinopathy.",
+      "sentence_count": 47,
+      "word_count": 1177,
+      "duration_s": 545.1,
+      "passage_audio_url": "chpt04_audio/12_benefits_of_grape/12_benefits_of_grape.mp3"
+    }
+  ]
+}

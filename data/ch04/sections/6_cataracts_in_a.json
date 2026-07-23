@@ -1,0 +1,40 @@
+{
+  "id": "6_cataracts_in_a",
+  "title": "Cataracts. In a cataract-affected eye, the lens becomes clouded due to the accumulation of abnormal pigments and the formation of nontransparent protein aggregates. This clouding disrupts the passage of light to the retina, leading to symptoms such as blurred or double vision, increased sensitivity to light and glare, and a diminished perception of colors, often appearing faded or yellowed. The lens is particularly susceptible to oxidative damage due to its high protein content and limited capacity for cellular repair or regeneration. Past review and in vitro studies demonstrated that human lens cells are highly vulnerable to oxidative stress, with their antioxidant activity showing an inverse relationship to cataract severity.",
+  "sentences": [
+    {
+      "text": "Cataracts.",
+      "start": 0.1,
+      "end": 1.0,
+      "word_count": 1
+    },
+    {
+      "text": "In a cataract-affected eye, the lens becomes clouded due to the accumulation of abnormal pigments and the formation of nontransparent protein aggregates.",
+      "start": 1.863,
+      "end": 10.662,
+      "word_count": 22
+    },
+    {
+      "text": "This clouding disrupts the passage of light to the retina, leading to symptoms such as blurred or double vision, increased sensitivity to light and glare, and a diminished perception of colors, often appearing faded or yellowed.",
+      "start": 11.537,
+      "end": 23.938,
+      "word_count": 36
+    },
+    {
+      "text": "The lens is particularly susceptible to oxidative damage due to its high protein content and limited capacity for cellular repair or regeneration.",
+      "start": 24.812,
+      "end": 33.4,
+      "word_count": 22
+    },
+    {
+      "text": "Past review and in vitro studies demonstrated that human lens cells are highly vulnerable to oxidative stress, with their antioxidant activity showing an inverse relationship to cataract severity.",
+      "start": 34.263,
+      "end": 45.712,
+      "word_count": 28
+    }
+  ],
+  "sentence_count": 5,
+  "word_count": 109,
+  "total_duration": 45.712,
+  "voice": "en-US-AriaNeural"
+}

@@ -44,6 +44,23 @@ def group_sections(raw_sections):
         r'^Endothelial Dysfunction',
         r'^Dyslipidemia',
         r'^Inflammation and Oxidative',
+        r'^Grape Polyphenolics',
+        r'^Possible Action of Grapes',
+        r'^Glycemic Control',
+        r'^Action of Grape Bioactive Compounds',
+        r'^Grape and Obesity',
+        r'^Grapes Impact on Cardiovascular',
+        r'^Ocular Anatomy',
+        r'^Oxidative Stress and Ocular',
+        r'^Age.Related Macular',
+        r'^Diabetic Retinopathy',
+        r'^Cataracts',
+        r'^Antioxidants and Their Mechanisms',
+        r'^Dietary Antioxidants',
+        r'^Effects of Vitamin A',
+        r'^Effects of Lutein',
+        r'^Effects of Polyphenols',
+        r'^Benefits of Grape for Vision',
     ]
     
     for sec in raw_sections:
@@ -172,7 +189,7 @@ def build_summary_json(ch_num, ch_title, sections_data, groups, entities_data):
                 'sentence_count': sec_data.get('sentence_count', 0),
                 'word_count': sec_data.get('word_count', 0),
                 'duration_s': round(sec_data.get('total_duration', 0), 1),
-                'passage_audio_url': f"chpt{ch_num}_audio/{g['final_id']}.mp3",
+                'passage_audio_url': f"chpt{ch_num}_audio/{g['final_id']}/{g['final_id']}.mp3",
             })
             total_sentences += sec_data.get('sentence_count', 0)
             total_duration += sec_data.get('total_duration', 0)
@@ -246,7 +263,7 @@ async def process_chapter(ch_num, ch_name):
     
     for g in groups:
         gid = g['final_id']
-        align_path = os.path.join(audio_dir, f'{gid}_alignment.json')
+        align_path = os.path.join(audio_dir, gid, f'{gid}_alignment.json')
         
         if os.path.exists(align_path):
             with open(align_path, 'r', encoding='utf-8') as f:
@@ -288,17 +305,18 @@ async def process_chapter(ch_num, ch_name):
     term_data = []
     for i, e in enumerate(entities):
         tid = f"t{i:03d}"
-        term_audio = os.path.join(term_dir, f'{tid}.wav')
+        term_audio = os.path.join(term_dir, tid, f'{tid}.wav')
+        entry = {
+            'id': i,
+            'term_id': tid,
+            'term': e['term'],
+            'normalized_name': e['normalized_name'],
+            'category': e['category'],
+            'synonyms': e['synonyms'],
+        }
         if os.path.exists(term_audio):
-            term_data.append({
-                'id': i,
-                'term_id': tid,
-                'term': e['term'],
-                'normalized_name': e['normalized_name'],
-                'category': e['category'],
-                'synonyms': e['synonyms'],
-                'audio_file': f'term_audio/{tid}.mp3',
-            })
+            entry['audio_file'] = f'term_audio/{tid}/{tid}.mp3'
+        term_data.append(entry)
     
     # Save term data to entities.json
     entities_path = os.path.join(summary_dir, 'entities.json')
@@ -325,10 +343,15 @@ async def process_chapter(ch_num, ch_name):
     return report
 
 async def main():
-    chapters = [
-        ('01', '01 Grapes and Brain Health'),
-        ('02', '02 Grapes and Atherosclerosis'),
-    ]
+    # Find all chapters with parsed data
+    chapters = []
+    for f in sorted(os.listdir(os.path.join(WORK, 'data'))):
+        if f.startswith('ch') and f.endswith('_parsed.json'):
+            ch_num = f[2:4]
+            # Read title from parsed data
+            parsed = json.load(open(os.path.join(WORK, 'data', f)))
+            ch_name = parsed.get('title', f'Chapter {ch_num}')
+            chapters.append((ch_num, ch_name))
     
     all_reports = []
     for ch_num, ch_name in chapters:

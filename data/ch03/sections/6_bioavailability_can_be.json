@@ -1,0 +1,286 @@
+{
+  "id": "6_bioavailability_can_be",
+  "title": "Bioavailability can be understood in various contexts. When discussing the oral intake of grapes, it generally refers to the fraction of the ingested dose that is absorbed. Specifically, bioavailability is the proportion of the nutrient that is digested, absorbed, and metabolized through normal pathways. Therefore, it is crucial not only to know the quantity of a nutrient present in grapes but also to understand how much of it is bioavailable. Recent studies on bioavailability have shown that some polyphenolics are rapidly absorbed from the stomach and small intestine, appearing in plasma and urine in their original form or as methylated, glucuronidated, or sulfated compounds. The proportion of total flavonoids absorbed and excreted in urine, both in native form and as metabolites, is typically less than one percent of the ingested amount, which is generally accurate for most fruit polyphenolics.",
+  "sentences": [
+    {
+      "text": "Bioavailability can be understood in various contexts.",
+      "start": 0.1,
+      "end": 3.525,
+      "word_count": 7
+    },
+    {
+      "text": "When discussing the oral intake of grapes, it generally refers to the fraction of the ingested dose that is absorbed.",
+      "start": 4.388,
+      "end": 10.662,
+      "word_count": 20
+    },
+    {
+      "text": "Specifically, bioavailability is the proportion of the nutrient that is digested, absorbed, and metabolized through normal pathways.",
+      "start": 11.525,
+      "end": 19.35,
+      "word_count": 17
+    },
+    {
+      "text": "Therefore, it is crucial not only to know the quantity of a nutrient present in grapes but also to understand how much of it is bioavailable.",
+      "start": 20.212,
+      "end": 27.962,
+      "word_count": 26
+    },
+    {
+      "text": "Recent studies on bioavailability have shown that some polyphenolics are rapidly absorbed from the stomach and small intestine, appearing in plasma and urine in their original form or as methylated, glucuronidated, or sulfated compounds.",
+      "start": 28.825,
+      "end": 42.575,
+      "word_count": 34
+    },
+    {
+      "text": "The proportion of total flavonoids absorbed and excreted in urine, both in native form and as metabolites, is typically less than one percent of the ingested amount, which is generally accurate for most fruit polyphenolics.",
+      "start": 43.45,
+      "end": 56.0,
+      "word_count": 35
+    },
+    {
+      "text": "The half-life of plasma polyphenolic constituents and their metabolites typically spans only a few hours.",
+      "start": 56.875,
+      "end": 62.925,
+      "word_count": 15
+    },
+    {
+      "text": "However, emerging research suggests that these constituents may be integrated into body tissues, potentially prolonging their biological impact, which includes the possibility of genetic alteration.",
+      "start": 63.8,
+      "end": 75.362,
+      "word_count": 25
+    },
+    {
+      "text": "Interestingly, many experimental studies using products rich in phytochemicals have shown biological activity even when the original compounds are not significantly present in the bloodstream.",
+      "start": 76.237,
+      "end": 86.938,
+      "word_count": 25
+    },
+    {
+      "text": "Consequently, a growing hypothesis suggests that the primary agents behind the detected biological effects are not the parent compounds themselves but rather their enterohepatic conjugates or colonic metabolites.",
+      "start": 87.812,
+      "end": 100.375,
+      "word_count": 28
+    },
+    {
+      "text": "Phytochemicals are extensively altered during metabolism, so that the molecular forms reaching the peripheral circulation and tissues are different from those present in whole foods.",
+      "start": 101.25,
+      "end": 111.263,
+      "word_count": 25
+    },
+    {
+      "text": "Here, the term metabolism describes the typical modifications that occur during or after absorption, which includes modifications made to intracellular metabolites.",
+      "start": 112.125,
+      "end": 122.075,
+      "word_count": 21
+    },
+    {
+      "text": "The catabolism of phytochemicals in mammals generally occurs as a result of microbial activity in the large intestine.",
+      "start": 122.95,
+      "end": 129.65,
+      "word_count": 18
+    },
+    {
+      "text": "Recent studies have shown that the gut microbiota plays a crucial role in the biotransformation of these compounds, leading to the production of bioactive metabolites.",
+      "start": 130.512,
+      "end": 139.825,
+      "word_count": 25
+    },
+    {
+      "text": "Most phytochemical glucosides are deglycosylated by beta-glucosidases in the small intestine, including broad-specificity cytosolic beta-glucosidase and lactase phlorizin hydrolase.",
+      "start": 140.7,
+      "end": 152.088,
+      "word_count": 19
+    },
+    {
+      "text": "This step is essential for the absorption of many of these phytochemicals.",
+      "start": 152.963,
+      "end": 156.75,
+      "word_count": 12
+    },
+    {
+      "text": "Polyphenols and their derivatives are further metabolized in the liver by phase two enzymes, undergoing glucuronidation and sulfation to form conjugates, which can be methylated at the catechol functional group.",
+      "start": 157.613,
+      "end": 169.8,
+      "word_count": 30
+    },
+    {
+      "text": "Many of these metabolites are conjugated at various levels.",
+      "start": 170.662,
+      "end": 174.162,
+      "word_count": 9
+    },
+    {
+      "text": "Phytochemical metabolites are chemically distinct from their parent compounds, differing in size, polarity, and ionic form.",
+      "start": 175.037,
+      "end": 182.6,
+      "word_count": 16
+    },
+    {
+      "text": "Consequently, their physiological behavior is likely to differ from that of the parent compounds.",
+      "start": 183.475,
+      "end": 188.988,
+      "word_count": 14
+    },
+    {
+      "text": "This distinction is crucial when interpreting the potential clinical significance of in vitro studies using grape phytochemicals.",
+      "start": 189.863,
+      "end": 196.7,
+      "word_count": 17
+    },
+    {
+      "text": "Conversely, studies involving whole grapes, which are physiologically relevant, are essential for understanding the link between grape product intake and disease.",
+      "start": 197.562,
+      "end": 206.75,
+      "word_count": 21
+    },
+    {
+      "text": "For grapes to have therapeutic effects in tissues, the bioavailability of one or more grape-derived phytochemicals in the tissue is likely required.",
+      "start": 207.613,
+      "end": 216.1,
+      "word_count": 22
+    },
+    {
+      "text": "An effect of grape phytochemicals on transcription factors or cell signaling would likely require their availability in tissues, and their distribution among tissues is uneven.",
+      "start": 216.963,
+      "end": 226.775,
+      "word_count": 25
+    },
+    {
+      "text": "For example, in similar long-term feeding studies, anthocyanins have demonstrated bioavailability in several tissues.",
+      "start": 227.65,
+      "end": 235.125,
+      "word_count": 14
+    },
+    {
+      "text": "As expected, phytochemical levels are highest in organs responsible for metabolism and elimination.",
+      "start": 235.988,
+      "end": 242.125,
+      "word_count": 13
+    },
+    {
+      "text": "Importantly, these animals are typically fasted before sacrifice and show no detectable plasma anthocyanins while showing diverse tissue deposition.",
+      "start": 242.988,
+      "end": 251.675,
+      "word_count": 19
+    },
+    {
+      "text": "We demonstrated that some anthocyanins from tart cherries are present in the brain and heart after just three weeks of feeding a one percent tart cherry diet.",
+      "start": 252.537,
+      "end": 261.926,
+      "word_count": 27
+    },
+    {
+      "text": "However, their concentrations were found to be two to five times higher in the bladder, kidneys, and liver.",
+      "start": 262.801,
+      "end": 268.951,
+      "word_count": 18
+    },
+    {
+      "text": "As reported, the food matrix, along with the organism's behavior and response factors, may play a significant role in bioavailability.",
+      "start": 269.826,
+      "end": 277.826,
+      "word_count": 20
+    },
+    {
+      "text": "Furthermore, the specific serum kinetic behavior could impact the bioactivity of phenolic compounds.",
+      "start": 278.688,
+      "end": 284.889,
+      "word_count": 13
+    },
+    {
+      "text": "These authors observed the possible influence of anthocyanins on leptin levels and the associated pathways in chronic metabolic diseases.",
+      "start": 285.751,
+      "end": 293.676,
+      "word_count": 19
+    },
+    {
+      "text": "It was revealed that anthocyanins have the potential to modulate adipose tissue hypertrophy and leptin expression by interacting with T N F-alpha, C C A A T enhancer-binding protein, peroxisome proliferator-activated receptor, C A M P response element-binding protein, and sterol regulatory element-binding protein-1.",
+      "start": 294.538,
+      "end": 315.413,
+      "word_count": 44
+    },
+    {
+      "text": "Moreover, these bioactive compounds modulate leptin receptors and promote the phosphorylation of Janus kinase 2, signal transducer and activator of transcription 3, phosphoinositide 3-kinase, and protein kinase B pathways.",
+      "start": 316.276,
+      "end": 331.076,
+      "word_count": 29
+    },
+    {
+      "text": "They concluded that flavonoid anthocyanins help overcome metabolic disorder outcomes, such as lipid accumulation, insulin resistance, and gut microbiota imbalance.",
+      "start": 331.951,
+      "end": 342.163,
+      "word_count": 20
+    },
+    {
+      "text": "However, direct evidence of these and other flavonoids in signal transduction needs to be proven at the molecular binding and gene regulation levels.",
+      "start": 343.026,
+      "end": 351.351,
+      "word_count": 23
+    },
+    {
+      "text": "Bioavailable grape phytochemicals, their enterohepatic metabolites, and their intracellular metabolites may interact with sulfhydryl moieties on kinase proteins and alter secondary protein structure and activity.",
+      "start": 352.226,
+      "end": 365.201,
+      "word_count": 25
+    },
+    {
+      "text": "The exact kinase signaling pathways involved in the observed grape-related effects are unknown and require further investigation in various tissues.",
+      "start": 366.063,
+      "end": 374.389,
+      "word_count": 20
+    },
+    {
+      "text": "Research indicates that grape phytochemical metabolites can indeed modulate various cell signaling pathways.",
+      "start": 375.251,
+      "end": 381.563,
+      "word_count": 13
+    },
+    {
+      "text": "These include the phosphoinositide 3-kinase, Akt and protein kinase B, tyrosine kinases, protein kinase C, and mitogen-activated protein kinases.",
+      "start": 382.426,
+      "end": 393.214,
+      "word_count": 19
+    },
+    {
+      "text": "These pathways are important in regulating inflammation and metabolic processes, making grape phytochemicals potentially beneficial in managing long-term inflammation and metabolic syndrome.",
+      "start": 394.076,
+      "end": 404.951,
+      "word_count": 22
+    },
+    {
+      "text": "In the context of inflammation-related gene transcription, the effects of bioavailable grape phytochemicals on N F-kappa B activity may be mediated indirectly, rather than through direct interaction.",
+      "start": 405.826,
+      "end": 417.613,
+      "word_count": 27
+    },
+    {
+      "text": "However, these phytochemicals can exert direct influences on upstream kinase signaling pathways and subsequent gene transcription and translation processes.",
+      "start": 418.476,
+      "end": 428.001,
+      "word_count": 19
+    },
+    {
+      "text": "In addition to our results in hypertensive rats, we previously showed in obese rats with metabolic syndrome that grape intake reduced N F-kappa B activity and related messenger ribonucleic acid and protein.",
+      "start": 428.876,
+      "end": 441.188,
+      "word_count": 32
+    },
+    {
+      "text": "As expected, the effects of grapes were most pronounced in the kidney and liver but were also present in the heart, brain, and skeletal muscle.",
+      "start": 442.051,
+      "end": 449.626,
+      "word_count": 25
+    },
+    {
+      "text": "These results could support many interesting hypotheses for further study in models of metabolic syndrome and type 2 diabetes.",
+      "start": 450.488,
+      "end": 457.839,
+      "word_count": 19
+    }
+  ],
+  "sentence_count": 46,
+  "word_count": 986,
+  "total_duration": 457.839,
+  "voice": "en-US-AriaNeural"
+}

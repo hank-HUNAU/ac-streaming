@@ -1,0 +1,490 @@
+{
+  "id": "11_grape_and_obesity",
+  "title": "Grape and Obesity, Metabolic Dysregulation, and Type 2 Diabetes. Grapes may significantly influence the development of obesity and type 2 diabetes mellitus. Recent studies confirm their effectiveness against obesity and its various components, primarily due to their impact on metabolic dysregulation, a major factor in the development of these conditions. Several studies indicate that grape polyphenolics impact lipid metabolism, potentially affecting fatty acid synthesis, fat deposition, and triglyceride breakdown, which may help prevent obesity development. However, the mechanisms are not yet well elucidated. The presumed action mechanisms are diverse, including signaling pathways and direct effects on various enzyme activities. Numerous animal studies and their results confirm the pivotal role of these polyphenols in addressing pathologies related to fat storage and metabolism. These pathologies often lead to conditions such as obesity, insulin resistance, and dyslipidemia. Chuang with coworkers studied the impact of grape and grape extract on glucose tolerance and inflammation in obese mice. Mice were fed high-fat diets supplemented with three percent grape pomace or 0.02 percent grape extract for 18 weeks. Grape powder supplementation decreased markers of inflammation by approximately 20 to 50 percent in both serum and adipose tissue. A recent study investigated whether long-term supplementation of grapes could improve oxidative stress, inflammation, and hyperglycemia associated with Western diet-induced obesity. The study indicates that grapes protect against Western diet-induced obesity and hepatic steatosis by diminishing the portal delivery of lipogenic butyrate and sugars due to their increased intestinal utilization. These and other findings suggest that grape supplementation may serve as an effective dietary intervention for reducing these pathologies. Young diet-induced obese mice were randomly divided into three treatment groups: a standard diet group, a Western high-fat diet group, and a Western diet plus grape seed extract group at 2.4 grams grape seed extract per kilogram diet. By week 12, diet-induced obese mice in the grape seed extract group gained significantly more weight than the Western diet and standard groups; the high-fat diet groups gained 80 percent more weight than the standard diet group. Eight of 12 mice in the Western diet group, compared to only 1 of 12 mice in the grape seed extract group, had fasting blood glucose levels above 140 milligrams per deciliter. Mice in the grape seed extract group also had 21 percent lower fasting blood glucose and 17.1 percent lower C-reactive protein levels than mice in the Western diet group. However, grape seed extract supplementation did not affect oxidative stress in diet-induced obesity, as determined by plasma oxygen radical absorbance capacity, glutathione peroxidase, and liver lipid peroxidation.",
+  "sentences": [
+    {
+      "text": "Grape and Obesity, Metabolic Dysregulation, and Type 2 Diabetes.",
+      "start": 0.1,
+      "end": 4.487,
+      "word_count": 9
+    },
+    {
+      "text": "Grapes may significantly influence the development of obesity and type 2 diabetes mellitus.",
+      "start": 5.35,
+      "end": 10.825,
+      "word_count": 13
+    },
+    {
+      "text": "Recent studies confirm their effectiveness against obesity and its various components, primarily due to their impact on metabolic dysregulation, a major factor in the development of these conditions.",
+      "start": 11.7,
+      "end": 23.125,
+      "word_count": 28
+    },
+    {
+      "text": "Several studies indicate that grape polyphenolics impact lipid metabolism, potentially affecting fatty acid synthesis, fat deposition, and triglyceride breakdown, which may help prevent obesity development.",
+      "start": 23.988,
+      "end": 36.8,
+      "word_count": 25
+    },
+    {
+      "text": "However, the mechanisms are not yet well elucidated.",
+      "start": 37.675,
+      "end": 40.862,
+      "word_count": 8
+    },
+    {
+      "text": "The presumed action mechanisms are diverse, including signaling pathways and direct effects on various enzyme activities.",
+      "start": 41.725,
+      "end": 48.987,
+      "word_count": 16
+    },
+    {
+      "text": "Numerous animal studies and their results confirm the pivotal role of these polyphenols in addressing pathologies related to fat storage and metabolism.",
+      "start": 49.85,
+      "end": 58.125,
+      "word_count": 22
+    },
+    {
+      "text": "These pathologies often lead to conditions such as obesity, insulin resistance, and dyslipidemia.",
+      "start": 59.0,
+      "end": 65.062,
+      "word_count": 13
+    },
+    {
+      "text": "Chuang with coworkers studied the impact of grape and grape extract on glucose tolerance and inflammation in obese mice.",
+      "start": 65.938,
+      "end": 72.737,
+      "word_count": 19
+    },
+    {
+      "text": "Mice were fed high-fat diets supplemented with three percent grape pomace or 0.02 percent grape extract for 18 weeks.",
+      "start": 73.612,
+      "end": 82.662,
+      "word_count": 19
+    },
+    {
+      "text": "Grape powder supplementation decreased markers of inflammation by approximately 20 to 50 percent in both serum and adipose tissue.",
+      "start": 82.675,
+      "end": 91.55,
+      "word_count": 19
+    },
+    {
+      "text": "A recent study investigated whether long-term supplementation of grapes could improve oxidative stress, inflammation, and hyperglycemia associated with Western diet-induced obesity.",
+      "start": 91.562,
+      "end": 103.338,
+      "word_count": 21
+    },
+    {
+      "text": "The study indicates that grapes protect against Western diet-induced obesity and hepatic steatosis by diminishing the portal delivery of lipogenic butyrate and sugars due to their increased intestinal utilization.",
+      "start": 103.35,
+      "end": 116.062,
+      "word_count": 29
+    },
+    {
+      "text": "These and other findings suggest that grape supplementation may serve as an effective dietary intervention for reducing these pathologies.",
+      "start": 116.075,
+      "end": 125.013,
+      "word_count": 19
+    },
+    {
+      "text": "Young diet-induced obese mice were randomly divided into three treatment groups: a standard diet group, a Western high-fat diet group, and a Western diet plus grape seed extract group at 2.4 grams grape seed extract per kilogram diet.",
+      "start": 125.025,
+      "end": 139.588,
+      "word_count": 38
+    },
+    {
+      "text": "By week 12, diet-induced obese mice in the grape seed extract group gained significantly more weight than the Western diet and standard groups; the high-fat diet groups gained 80 percent more weight than the standard diet group.",
+      "start": 139.6,
+      "end": 152.787,
+      "word_count": 37
+    },
+    {
+      "text": "Eight of 12 mice in the Western diet group, compared to only 1 of 12 mice in the grape seed extract group, had fasting blood glucose levels above 140 milligrams per deciliter.",
+      "start": 152.8,
+      "end": 164.488,
+      "word_count": 32
+    },
+    {
+      "text": "Mice in the grape seed extract group also had 21 percent lower fasting blood glucose and 17.1 percent lower C-reactive protein levels than mice in the Western diet group.",
+      "start": 164.5,
+      "end": 178.375,
+      "word_count": 29
+    },
+    {
+      "text": "However, grape seed extract supplementation did not affect oxidative stress in diet-induced obesity, as determined by plasma oxygen radical absorbance capacity, glutathione peroxidase, and liver lipid peroxidation.",
+      "start": 178.387,
+      "end": 191.525,
+      "word_count": 27
+    },
+    {
+      "text": "In a study by Gourineni and coworkers, C57BL/6 J mice were given a low-fat diet at 10 percent kilocalories fat, high-fat diet at 60 percent kilocalories fat, high-fat plus 0.4 percent muscadine grape phytochemicals, or high-fat plus 0.4 percent muscadine wine phytochemicals for 15 weeks.",
+      "start": 191.537,
+      "end": 215.5,
+      "word_count": 45
+    },
+    {
+      "text": "At 7 weeks, mice fed high-fat plus muscadine grape phytochemicals had significantly decreased body weights by 12 percent compared to high-fat controls.",
+      "start": 215.512,
+      "end": 227.225,
+      "word_count": 22
+    },
+    {
+      "text": "Dietary muscadine grape phytochemicals or muscadine wine phytochemicals supplementation reduced the plasma content of free fatty acids, triglycerides, and cholesterol in obese mice.",
+      "start": 227.238,
+      "end": 238.262,
+      "word_count": 23
+    },
+    {
+      "text": "Serum inflammation was attenuated, while the activity of serum glutathione peroxidase was enhanced.",
+      "start": 238.275,
+      "end": 244.675,
+      "word_count": 13
+    },
+    {
+      "text": "Hogan and colleagues characterized the effects of grape pomace extract in male diet-induced obese mice.",
+      "start": 244.688,
+      "end": 251.6,
+      "word_count": 15
+    },
+    {
+      "text": "Mice were randomly divided into three treatment groups: groups given a normal diet, a high-fat diet, and a high-fat diet supplemented with grape pomace extract.",
+      "start": 251.912,
+      "end": 261.975,
+      "word_count": 25
+    },
+    {
+      "text": "After 12-week treatment, mice in the high-fat diet groups gained 29 percent more weight than the normal diet group.",
+      "start": 261.988,
+      "end": 271.225,
+      "word_count": 19
+    },
+    {
+      "text": "The grape pomace extract supplementation, estimated at 250 milligrams per kilogram body weight per day, lowered plasma C-reactive protein levels by 15.5 percent in the high-fat-diet-fed mice, suggesting a potential anti-inflammatory effect of dietary grape pomace extract.",
+      "start": 272.212,
+      "end": 290.7,
+      "word_count": 37
+    },
+    {
+      "text": "However, dietary grape pomace extract did not improve oxidative stress in diet-induced obese mice, as determined by plasma oxygen radical absorbance capacity, glutathione peroxidase, and liver lipid peroxidation.",
+      "start": 290.712,
+      "end": 304.2,
+      "word_count": 28
+    },
+    {
+      "text": "In a study by Mokrani and coworkers, treatments in obese rats, and to a lesser extent in nonobese rats, decreased the weight of various adipose tissues and the serum levels of cholesterol, L D L, triglycerides, lipase, and C-reactive protein while increasing H D L and adiponectin.",
+      "start": 304.212,
+      "end": 323.687,
+      "word_count": 47
+    },
+    {
+      "text": "Grapes exert beneficial effects in obese rats and partially restore the observed dysbiosis.",
+      "start": 323.7,
+      "end": 330.575,
+      "word_count": 13
+    },
+    {
+      "text": "Interestingly, the combination of grape extract with the weight-loss medication orlistat produced the most pronounced beneficial effect.",
+      "start": 330.587,
+      "end": 338.887,
+      "word_count": 17
+    },
+    {
+      "text": "Moreover, the various treatments could also enhance physiological and gut microbiota modifications in nonobese rats.",
+      "start": 338.899,
+      "end": 348.462,
+      "word_count": 15
+    },
+    {
+      "text": "Kim and colleagues investigated whether resveratrol attenuates high-fat diet-induced adipogenesis and inflammation in the epididymal fat tissues of mice.",
+      "start": 348.474,
+      "end": 356.237,
+      "word_count": 19
+    },
+    {
+      "text": "In comparison with high-fat diet-fed mice, mice fed with a 0.4 percent resveratrol-supplemented diet showed significantly lower body weight gain at 48 percent, visceral fat pad weights at 58 percent, and plasma levels of triglyceride, free fatty acids, total cholesterol, glucose, T N F-alpha, and monocyte chemoattractant protein 1.",
+      "start": 356.25,
+      "end": 383.625,
+      "word_count": 49
+    },
+    {
+      "text": "Resveratrol significantly attenuated the high-fat diet-induced upregulation of pro-inflammatory cytokines, including T N F-alpha, interferon alpha, interferon beta, and I L-6, and their upstream signaling molecules, including Toll-like receptor 2 and 4, myeloid differentiation primary response, Toll-interleukin 1 receptor domain-containing adaptor protein, T I R-domain-containing adapter-inducing interferon-beta, T N F receptor-associated factor 6, interferon regulatory factor 5, phosphorylated interferon regulatory factor 3, and N F-kappa B, in the adipose tissue.",
+      "start": 383.637,
+      "end": 426.187,
+      "word_count": 70
+    },
+    {
+      "text": "Resveratrol undergoes extensive metabolism, including conjugation, hydrolyzation, and enterohepatic circulation.",
+      "start": 426.2,
+      "end": 430.887,
+      "word_count": 10
+    },
+    {
+      "text": "Ex vivo studies on adipose tissue show that resveratrol inhibits adipogenesis and prevents triglyceride accumulation by affecting peroxisome proliferator-activated receptor gamma and sirtuin 1 expression.",
+      "start": 430.899,
+      "end": 446.712,
+      "word_count": 25
+    },
+    {
+      "text": "Animal studies support resveratrol's anti-inflammatory effects.",
+      "start": 446.724,
+      "end": 449.662,
+      "word_count": 6
+    },
+    {
+      "text": "Limited human studies indicate that resveratrol enhances insulin sensitivity and fasting glucose levels in patients with type 2 diabetes mellitus and may reduce inflammation in obesity.",
+      "start": 449.675,
+      "end": 461.562,
+      "word_count": 26
+    },
+    {
+      "text": "Evidence suggests that resveratrol's metabolic benefits are linked to interactions with gut microbiota and the modulation of protein targets, such as sirtuins and peroxisome proliferator-activated receptor gamma.",
+      "start": 461.575,
+      "end": 474.774,
+      "word_count": 27
+    },
+    {
+      "text": "However, despite promising results, their optimal dosage and general potential benefits are not yet determined.",
+      "start": 474.787,
+      "end": 481.849,
+      "word_count": 15
+    },
+    {
+      "text": "Terra and colleagues evaluated the effect of procyanidin intake on inflammatory mediators in obesity-prone rats fed hyperlipidemic diet.",
+      "start": 481.862,
+      "end": 489.974,
+      "word_count": 18
+    },
+    {
+      "text": "Male Zucker fa/fa rats were randomly grouped to receive a low-fat diet, a high-fat diet, or a high-fat diet supplemented with procyanidins from grape seed at 3.45 milligrams per kilogram feed for 19 weeks.",
+      "start": 489.987,
+      "end": 505.774,
+      "word_count": 34
+    },
+    {
+      "text": "The procyanidin-enriched diet decreased rat plasma C-reactive protein levels but not I L-6 levels.",
+      "start": 505.787,
+      "end": 512.687,
+      "word_count": 14
+    },
+    {
+      "text": "The decrease in plasma C-reactive protein in procyanidin-treated rats was related to reduced C-reactive protein messenger ribonucleic acid expression in the liver and mesenteric white adipose tissue and decreased expression of the pro-inflammatory cytokines T N F-alpha and I L-6 in mesenteric white adipose tissue.",
+      "start": 512.699,
+      "end": 534.524,
+      "word_count": 45
+    },
+    {
+      "text": "In contrast, adiponectin messenger ribonucleic acid increased in these tissues.",
+      "start": 534.537,
+      "end": 539.412,
+      "word_count": 10
+    },
+    {
+      "text": "Plasma C-reactive protein levels correlated positively with C-reactive protein expression in the mesenteric white adipose tissue, suggesting that procyanidin extract modulates C-reactive protein transcription and translation.",
+      "start": 539.424,
+      "end": 554.818,
+      "word_count": 26
+    },
+    {
+      "text": "The expression of the anti-inflammatory cytokine adiponectin correlated negatively with T N F-alpha and I L-6 in the mesenteric white adipose tissue.",
+      "start": 554.831,
+      "end": 563.718,
+      "word_count": 22
+    },
+    {
+      "text": "In a subsequent study, Terra and colleagues tested the hypothesis that grape seed procyanidin extract would improve local and systemic inflammation in diet-induced obesity.",
+      "start": 563.731,
+      "end": 574.568,
+      "word_count": 24
+    },
+    {
+      "text": "Rats were fed a 60 percent kilocalories fat diet with or without grape seed procyanidins at 30 milligrams per kilogram per day for 19 weeks.",
+      "start": 574.581,
+      "end": 584.893,
+      "word_count": 25
+    },
+    {
+      "text": "Then rats were provided a cafeteria diet for 13 weeks to investigate the corrective effects of two procyanidin extract doses, 25 and 50 milligrams per kilogram per day, for 10 and 30 days.",
+      "start": 584.905,
+      "end": 599.755,
+      "word_count": 33
+    },
+    {
+      "text": "In the preventive model fed a 60 percent fat diet, procyanidin extract decreased body weight; reduced plasma T N F-alpha and C-reactive protein; increased adiponectin expression; decreased T N F-alpha, interleukin-6, and C-reactive protein expression in mesenteric white adipose tissue; and reduced muscle T N F-alpha.",
+      "start": 599.768,
+      "end": 624.731,
+      "word_count": 46
+    },
+    {
+      "text": "Procyanidin extract also reduced liver N F-kappa B activity.",
+      "start": 624.743,
+      "end": 628.093,
+      "word_count": 9
+    },
+    {
+      "text": "Finally, procyanidin extract dietary supplementation was linked to reduced expression of Emr1, a marker of macrophage F4/80, which suggests reduced macrophage infiltration of white adipose tissue.",
+      "start": 628.106,
+      "end": 639.943,
+      "word_count": 26
+    },
+    {
+      "text": "In the corrective model, however, only the high dose of procyanidin extract reduced plasma C-reactive protein and had no effect on plasma T N F-alpha.",
+      "start": 639.956,
+      "end": 650.218,
+      "word_count": 25
+    },
+    {
+      "text": "Barona and colleagues evaluated the effects of grape consumption on inflammation and oxidation in the presence or absence of dyslipidemias in metabolic syndrome.",
+      "start": 650.231,
+      "end": 660.155,
+      "word_count": 23
+    },
+    {
+      "text": "Men with metabolic syndrome, 11 with high triglycerides and low H D L and 13 with no dyslipidemia, were randomly assigned to consume daily either 46 grams of lyophilized grape powder, equivalent to 252 grams fresh grapes, or placebo with an identical macronutrient composition and caloric value as grape powder for 4 weeks.",
+      "start": 660.168,
+      "end": 684.943,
+      "word_count": 53
+    },
+    {
+      "text": "After a 3-week washout, participants followed the alternate treatment.",
+      "start": 684.956,
+      "end": 688.043,
+      "word_count": 9
+    },
+    {
+      "text": "Plasma adiponectin and interleukin-10 were increased in the grape powder compared to the placebo only in those individuals without dyslipidemia.",
+      "start": 688.056,
+      "end": 699.643,
+      "word_count": 20
+    },
+    {
+      "text": "Additionally, plasma interleukin-10 was negatively correlated with nicotinamide adenine dinucleotide phosphate oxidase 2 expression, a marker of oxidative stress, while inducible nitric oxide synthase expression was positively correlated with the expression of superoxide dismutase 2, a key antioxidant enzyme.",
+      "start": 699.655,
+      "end": 717.068,
+      "word_count": 39
+    },
+    {
+      "text": "Kelishadi and colleagues determined the short- and long-term effects of the consumption of grape juice on inflammation in adolescents with metabolic syndrome.",
+      "start": 717.081,
+      "end": 727.606,
+      "word_count": 22
+    },
+    {
+      "text": "Fifteen individuals drank natural grape juice for 1 month.",
+      "start": 727.618,
+      "end": 734.456,
+      "word_count": 9
+    },
+    {
+      "text": "Measurements of inflammatory factors, including high-sensitivity C-reactive protein, soluble E-selectin, soluble intercellular adhesion molecule-1, soluble vascular cell adhesion molecule, and I L-6, and flow-mediated dilation were made at baseline, 4 hours after first juice consumption, and after 1 month of juice consumption.",
+      "start": 734.468,
+      "end": 752.943,
+      "word_count": 42
+    },
+    {
+      "text": "The percent changes of flow-mediated dilation were significant in both the short and long term.",
+      "start": 752.956,
+      "end": 760.718,
+      "word_count": 15
+    },
+    {
+      "text": "Soluble E-selectin and I L-6 were significantly decreased after 1 month.",
+      "start": 760.731,
+      "end": 764.868,
+      "word_count": 11
+    },
+    {
+      "text": "A significant inverse correlation was observed between changes in I L-6 levels and flow-mediated dilation after one month of supplementation.",
+      "start": 764.88,
+      "end": 773.831,
+      "word_count": 20
+    },
+    {
+      "text": "In the obesity-prone Zucker fatty rats, we tested the effect of an American-style diet supplemented with whole-table grape powder at 3 percent weight per weight.",
+      "start": 773.843,
+      "end": 784.968,
+      "word_count": 25
+    },
+    {
+      "text": "The rats were fed for 90 days.",
+      "start": 785.28,
+      "end": 788.856,
+      "word_count": 7
+    },
+    {
+      "text": "Compared to the macronutrient and calorie-matched control group, grape intake significantly reduced serum C-reactive protein, T N F-alpha, and I L-6.",
+      "start": 789.118,
+      "end": 799.668,
+      "word_count": 21
+    },
+    {
+      "text": "Grape also reduced liver, kidney, and abdominal fat weight among several other phenotypes.",
+      "start": 799.681,
+      "end": 805.606,
+      "word_count": 13
+    },
+    {
+      "text": "The pharmacodynamic effect was measured by changes in N F-kappa B-related and antioxidant-related messenger ribonucleic acid and proteins in the heart, abdominal fat, skeletal muscle, liver, brain, renal cortex, and renal medulla.",
+      "start": 805.618,
+      "end": 820.643,
+      "word_count": 32
+    },
+    {
+      "text": "N F-kappa B-related messenger ribonucleic acid and proteins appear most significantly reduced in liver and abdominal fat.",
+      "start": 820.655,
+      "end": 830.177,
+      "word_count": 17
+    },
+    {
+      "text": "Antioxidant defense messenger ribonucleic acid and proteins were most significantly increased in the liver and renal cortex.",
+      "start": 830.189,
+      "end": 839.652,
+      "word_count": 17
+    },
+    {
+      "text": "Leonetti and colleagues investigated the effects of procyanidin-enriched grape seed extract on obesity-related cardiovascular and metabolic disorders, focusing on the role of the estrogen receptor alpha.",
+      "start": 839.664,
+      "end": 851.627,
+      "word_count": 26
+    },
+    {
+      "text": "They found that grape seed extract reduced adiposity, plasma triglycerides, and oxidative stress in various tissues of mice fed a Western diet but did not improve vascular dysfunction.",
+      "start": 851.639,
+      "end": 862.802,
+      "word_count": 28
+    },
+    {
+      "text": "The beneficial effects of the extract were diminished in mice lacking estrogen receptor alpha, indicating that estrogen receptor alpha plays a significant role in mediating these effects.",
+      "start": 862.814,
+      "end": 873.977,
+      "word_count": 27
+    },
+    {
+      "text": "Overall, this study suggests that grape seed extract could be a promising dietary supplement for mitigating metabolic syndrome through estrogen receptor alpha-dependent mechanisms.",
+      "start": 873.99,
+      "end": 884.577,
+      "word_count": 23
+    },
+    {
+      "text": "The review by Santa and colleagues highlights the importance of grape phytochemicals in maintaining gut health and preventing metabolic syndrome.",
+      "start": 884.59,
+      "end": 893.139,
+      "word_count": 20
+    },
+    {
+      "text": "It emphasizes that a combination of these phytochemicals with vitamin D can improve gut microbiota and immunity, reducing the risk of obesity, diabetes, and related diseases.",
+      "start": 893.152,
+      "end": 904.927,
+      "word_count": 26
+    },
+    {
+      "text": "The review also notes that nurturing good gut microbiota with prebiotics and probiotics can suppress inflammation and enhance protective adipokines, contributing to overall health.",
+      "start": 904.939,
+      "end": 909.627,
+      "word_count": 9
+    }
+  ],
+  "sentence_count": 80,
+  "word_count": 1900,
+  "total_duration": 909.627,
+  "voice": "en-US-AriaNeural"
+}

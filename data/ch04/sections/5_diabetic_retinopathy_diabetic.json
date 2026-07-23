@@ -1,0 +1,58 @@
+{
+  "id": "5_diabetic_retinopathy_diabetic",
+  "title": "Diabetic Retinopathy. Diabetic retinopathy, or D R, is the most common microvascular complication of diabetes mellitus and a leading cause of vision impairment and blindness among working-age adults worldwide. The pathogenesis of D R is complex, involving multiple biochemical pathways that are influenced by chronic hyperglycemia. Prolonged high blood sugar levels damage retinal blood vessels, leading to increased vascular permeability, retinal ischemia, and pathological neovascularization. Clinically, patients with D R may experience blurred vision, floaters, and, in advanced stages, significant vision loss due to vitreous hemorrhage or tractional retinal detachment.",
+  "sentences": [
+    {
+      "text": "Diabetic Retinopathy.",
+      "start": 0.1,
+      "end": 1.7,
+      "word_count": 2
+    },
+    {
+      "text": "Diabetic retinopathy, or D R, is the most common microvascular complication of diabetes mellitus and a leading cause of vision impairment and blindness among working-age adults worldwide.",
+      "start": 2.575,
+      "end": 13.925,
+      "word_count": 27
+    },
+    {
+      "text": "The pathogenesis of D R is complex, involving multiple biochemical pathways that are influenced by chronic hyperglycemia.",
+      "start": 14.8,
+      "end": 22.45,
+      "word_count": 17
+    },
+    {
+      "text": "Prolonged high blood sugar levels damage retinal blood vessels, leading to increased vascular permeability, retinal ischemia, and pathological neovascularization.",
+      "start": 23.312,
+      "end": 33.2,
+      "word_count": 19
+    },
+    {
+      "text": "Clinically, patients with D R may experience blurred vision, floaters, and, in advanced stages, significant vision loss due to vitreous hemorrhage or tractional retinal detachment.",
+      "start": 34.075,
+      "end": 45.025,
+      "word_count": 25
+    },
+    {
+      "text": "Oxidative stress plays a pivotal role in the development and progression of D R. Chronic hyperglycemia induces the overproduction of reactive oxygen species in retinal cells through several mechanisms, including mitochondrial dysfunction and the activation of enzymatic sources, like N A D P H oxidase.",
+      "start": 45.9,
+      "end": 64.287,
+      "word_count": 45
+    },
+    {
+      "text": "Elevated levels of oxidative stress markers, such as malondialdehyde, direct lipid hydroperoxidation products, and advanced glycation end products, have been detected in the plasma and vitreous humor of patients with D R compared to diabetic patients without retinopathy and healthy controls.",
+      "start": 65.162,
+      "end": 82.812,
+      "word_count": 41
+    },
+    {
+      "text": "Additionally, decreased levels of antioxidants like superoxide dismutase and glutathione peroxidase have been observed, suggesting an imbalance between oxidative agents and antioxidant defenses.",
+      "start": 83.675,
+      "end": 95.787,
+      "word_count": 23
+    }
+  ],
+  "sentence_count": 8,
+  "word_count": 199,
+  "total_duration": 95.787,
+  "voice": "en-US-AriaNeural"
+}

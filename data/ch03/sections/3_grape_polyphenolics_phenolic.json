@@ -1,0 +1,166 @@
+{
+  "id": "3_grape_polyphenolics_phenolic",
+  "title": "Grape Polyphenolics. Phenolic compounds in grapes can be categorized into four main groups: simple phenols, flavonoids, anthocyanins, and stilbenes. These compounds are often referred to as polyphenols due to their shared phenolic structure. The variation in oxidation levels and hydroxylation patterns of the phenolic rings gives rise to a diverse array of structures, each with distinct biological behaviors, bioavailability, and efficacy. Notably, grape polyphenols, which hold potential medical interest, predominantly reside in the skins, seeds, vine stems, and grape plant leaves.",
+  "sentences": [
+    {
+      "text": "Grape Polyphenolics.",
+      "start": 0.1,
+      "end": 1.5,
+      "word_count": 2
+    },
+    {
+      "text": "Phenolic compounds in grapes can be categorized into four main groups: simple phenols, flavonoids, anthocyanins, and stilbenes.",
+      "start": 2.375,
+      "end": 10.55,
+      "word_count": 17
+    },
+    {
+      "text": "These compounds are often referred to as polyphenols due to their shared phenolic structure.",
+      "start": 11.412,
+      "end": 16.137,
+      "word_count": 14
+    },
+    {
+      "text": "The variation in oxidation levels and hydroxylation patterns of the phenolic rings gives rise to a diverse array of structures, each with distinct biological behaviors, bioavailability, and efficacy.",
+      "start": 17.012,
+      "end": 29.05,
+      "word_count": 28
+    },
+    {
+      "text": "Notably, grape polyphenols, which hold potential medical interest, predominantly reside in the skins, seeds, vine stems, and grape plant leaves.",
+      "start": 29.925,
+      "end": 38.812,
+      "word_count": 20
+    },
+    {
+      "text": "Polyphenolic compounds in grapes mainly include monomeric and oligomeric flavanols.",
+      "start": 39.688,
+      "end": 44.788,
+      "word_count": 10
+    },
+    {
+      "text": "Flavanols, also known as flavan-3-ols, and their oligomers and polymers, known as proanthocyanidins, are known for their potent antioxidant and anti-inflammatory effects.",
+      "start": 45.65,
+      "end": 56.225,
+      "word_count": 22
+    },
+    {
+      "text": "These polyphenolic compounds are typically divided into two groups: flavonoids and nonflavonoids.",
+      "start": 57.087,
+      "end": 62.987,
+      "word_count": 12
+    },
+    {
+      "text": "Flavonoids possess a unique core structure known as the flavane nucleus, which includes two benzene rings, the A and B rings, connected by a pyran ring containing oxygen.",
+      "start": 63.862,
+      "end": 74.325,
+      "word_count": 28
+    },
+    {
+      "text": "Due to the phenolic group attached to one of the benzene rings, these substances are also referred to as phenols or polyphenols.",
+      "start": 75.2,
+      "end": 82.3,
+      "word_count": 22
+    },
+    {
+      "text": "Variations in the oxidation of the heterocyclic C ring and the hydroxylation of the three rings lead to a diverse family of structures with bioactive properties.",
+      "start": 83.162,
+      "end": 92.225,
+      "word_count": 26
+    },
+    {
+      "text": "The most common flavonoids in grapes include flavonols such as quercetin, kaempferol, and myricetin; flavan-3-ols including catechin, epicatechin, and tannins; and anthocyanins in red or black grapes.",
+      "start": 93.088,
+      "end": 106.0,
+      "word_count": 27
+    },
+    {
+      "text": "Flavonoids can exist either free or as sugar conjugates known as glycosides, other flavonoids, and nonflavonoids.",
+      "start": 106.862,
+      "end": 114.0,
+      "word_count": 16
+    },
+    {
+      "text": "Significant variations in polyphenol content are observed among the different components of grapes, such as the juice, pomace, and seeds.",
+      "start": 114.862,
+      "end": 122.925,
+      "word_count": 20
+    },
+    {
+      "text": "These differences are also evident across various grape varietals and distinct agricultural regions, reflecting the influence of both genetic and environmental factors.",
+      "start": 123.8,
+      "end": 133.787,
+      "word_count": 22
+    },
+    {
+      "text": "In grape phytochemistry, phenols and polyphenols include larger molecular structures that form oligomeric chains, contributing to the complexity of grape polyphenols.",
+      "start": 134.662,
+      "end": 144.375,
+      "word_count": 21
+    },
+    {
+      "text": "Grape skins and pomace are abundant in various polyphenols, such as phenolic acids, anthocyanins, flavonols, and polygalloyl polyflavan-3-ols.",
+      "start": 145.238,
+      "end": 154.825,
+      "word_count": 18
+    },
+    {
+      "text": "These compounds are found not only in fresh grapes but also in processed products, like grape juice, wine, and grape skin extracts.",
+      "start": 155.7,
+      "end": 163.55,
+      "word_count": 22
+    },
+    {
+      "text": "Grape seed extract is particularly known for its high concentration of larger-molecular-weight compounds.",
+      "start": 164.412,
+      "end": 170.275,
+      "word_count": 13
+    },
+    {
+      "text": "These compounds are primarily composed of repeating flavan-3-ol units esterified with gallic acid, forming more extensive chains than those typically found in grape skin.",
+      "start": 171.15,
+      "end": 181.175,
+      "word_count": 24
+    },
+    {
+      "text": "Grape seed extract is also rich in proanthocyanidins, a group of high-molecular-weight flavonols.",
+      "start": 182.05,
+      "end": 187.775,
+      "word_count": 13
+    },
+    {
+      "text": "These compounds are present in significantly higher amounts in grape seed extract compared to grape skin, offering a superior profile of health-promoting benefits.",
+      "start": 188.637,
+      "end": 197.925,
+      "word_count": 23
+    },
+    {
+      "text": "During the winemaking process, chemical constituents from grape seeds and stems are often imparted into the wine.",
+      "start": 198.787,
+      "end": 205.088,
+      "word_count": 17
+    },
+    {
+      "text": "This transfer occurs through prolonged contact with macerated grapes during vinification, introducing these complex molecules into the final beverage.",
+      "start": 205.95,
+      "end": 214.537,
+      "word_count": 19
+    },
+    {
+      "text": "Despite the extensive presence of these compounds in various grape-related products, the specific biological or health effects of individual grape constituents remain a subject of several ongoing studies.",
+      "start": 215.4,
+      "end": 227.088,
+      "word_count": 28
+    },
+    {
+      "text": "It is yet to be determined which components yield the most significant benefits or whether there is a synergistic effect when these compounds interact.",
+      "start": 227.95,
+      "end": 235.662,
+      "word_count": 24
+    }
+  ],
+  "sentence_count": 26,
+  "word_count": 508,
+  "total_duration": 235.662,
+  "voice": "en-US-AriaNeural"
+}

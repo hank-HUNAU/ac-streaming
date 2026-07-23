@@ -91,7 +91,16 @@ def split_sentences(text):
         return re.split(r'(?<=[.!?])\s+', text)
 
 def main():
-    for ch_num, ch_name in [('01', '01 Grapes and Brain Health'), ('02', '02 Grapes and Atherosclerosis')]:
+    # Find all chapters with TTS files
+    chapters = []
+    for f in sorted(os.listdir(os.path.join(WORK_DIR, 'data'))):
+        if f.endswith(' TTS.txt'):
+            num = f.split()[0]
+            if num.isdigit():
+                name = f[:-8]  # Remove ' TTS.txt'
+                chapters.append((num, name))
+    
+    for ch_num, ch_name in chapters:
         print(f"\n{'='*60}")
         print(f"Processing Chapter {ch_num}: {ch_name}")
         print('='*60)
