@@ -456,7 +456,8 @@ function toggleSentenceBookmark(sent, secTitle) {
 }
 
 function toggleTermBookmark(term, secTitle) {
-  var id = currentPaper + '_' + term.en;
+  var en = term.en || term.term;
+  var id = currentPaper + '_' + en;
   var idx = -1;
   for (var i = 0; i < bookmarks.terms.length; i++) {
     if (bookmarks.terms[i].id === id) { idx = i; break; }
@@ -466,8 +467,8 @@ function toggleTermBookmark(term, secTitle) {
   } else {
     bookmarks.terms.push({
       id: id,
-      en: term.en,
-      zh: term.zh || '',
+      en: en,
+      zh: term.zh || term.synonyms || '',
       category: term.category || '',
       paper: PAPERS[currentPaper].title,
       paperNum: PAPERS[currentPaper].num,
@@ -488,7 +489,8 @@ function isSentenceBookmarked(sent) {
 }
 
 function isTermBookmarked(term) {
-  var id = currentPaper + '_' + term.en;
+  var en = term.en || term.term;
+  var id = currentPaper + '_' + en;
   for (var i = 0; i < bookmarks.terms.length; i++) {
     if (bookmarks.terms[i].id === id) return true;
   }
@@ -994,13 +996,13 @@ function renderGlossary(terms) {
   document.getElementById('modalFooter').innerHTML='';
   var h='<input type="text" placeholder="搜索术语..." oninput="filterGlossary(this.value)" style="width:100%;padding:12px 16px;border:1px solid var(--sep);border-radius:10px;font-size:15px;outline:none;margin-bottom:16px;font-family:var(--ui-font)">';
   h+='<div class="vocab-list" id="glossaryList">';
-  for(var i=0;i<terms.length;i++){ var en=terms[i].en||terms[i].term, zh=terms[i].zh||terms[i].synonyms||''; h+='<div class="vocab-item gloss-term" data-term="'+(en||'').toLowerCase()+'"><div class="vocab-en">'+escapeHtml(en||'')+'</div><div class="vocab-zh">'+escapeHtml(zh)+'</div><div class="vocab-cat">'+escapeHtml(terms[i].category||'')+'</div></div>'; }
+  for(var i=0;i<terms.length;i++){ var en=terms[i].en||terms[i].term, zh=terms[i].zh||terms[i].synonyms||''; h+='<div class="vocab-item gloss-term" data-term="'+(en||'').toLowerCase()+'" data-zh="'+zh.toLowerCase()+'"><div class="vocab-en">'+escapeHtml(en||'')+'</div><div class="vocab-zh">'+escapeHtml(zh)+'</div><div class="vocab-cat">'+escapeHtml(terms[i].category||'')+'</div></div>'; }
   h+='</div>';
   document.getElementById('modalBody').innerHTML = h;
 }
 function filterGlossary(q) {
   q=(q||'').toLowerCase(); var items=document.querySelectorAll('.gloss-term');
-  for(var i=0;i<items.length;i++){ var t=items[i].getAttribute('data-term'); items[i].style.display=(!q||t.indexOf(q)>=0)?'':''; }
+  for(var i=0;i<items.length;i++){ var t=items[i].getAttribute('data-term')||'', z=items[i].getAttribute('data-zh')||''; items[i].style.display=(!q||t.indexOf(q)>=0||z.indexOf(q)>=0)?'':''; }
 }
 
 // ============================================================
