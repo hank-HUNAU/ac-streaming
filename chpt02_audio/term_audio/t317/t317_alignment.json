@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Animal",
+      "start": 0.109,
+      "end": 0.594,
+      "duration": 0.485
+    },
+    {
+      "text": "model",
+      "start": 0.609,
+      "end": 1.138,
+      "duration": 0.529
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Animal model",
+      "start": 0.109,
+      "end": 1.138,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.138,
+  "voice": "en-US-AriaNeural",
+  "text": "Animal model"
+}

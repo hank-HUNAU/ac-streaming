@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Brachial artery diameter",
+      "start": 0.109,
+      "end": 1.947,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.947,
+  "voice": "en-US-AriaNeural"
+}

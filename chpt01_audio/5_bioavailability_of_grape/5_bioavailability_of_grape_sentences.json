@@ -1,0 +1,156 @@
+{
+  "sentences": [
+    {
+      "text": "Bioavailability of Grape Polyphenols.",
+      "start": 0.1,
+      "end": 2.3,
+      "word_count": 4
+    },
+    {
+      "text": "Grapes contain a unique combination of phytochemicals, including simple phenolics, derivatives of hydroxycinnamic and hydroxybenzoic acid, and polyphenols, such as stilbenes, for example, resveratrol, and, by far the largest group, flavonoids, including anthocyanins, flavonols, flavanols, and proanthocyanidins.",
+      "start": 3.175,
+      "end": 23.988,
+      "word_count": 37
+    },
+    {
+      "text": "The bioavailability of polyphenols is a complex process that is influenced by multiple factors, including food composition, dietary patterns, the dose and dose regimen, as well as the nutritional and physiological state of the individual and their microbiome.",
+      "start": 24.863,
+      "end": 40.275,
+      "word_count": 38
+    },
+    {
+      "text": "Polyphenols are often poorly absorbed and then extensively metabolized first in the intestine and then in the liver.",
+      "start": 41.15,
+      "end": 47.337,
+      "word_count": 18
+    },
+    {
+      "text": "Furthermore, to directly affect brain cells, they need to cross the blood-brain barrier.",
+      "start": 48.2,
+      "end": 53.025,
+      "word_count": 13
+    },
+    {
+      "text": "However, if their primary effect is on the vasculature and slash or peripheral inflammation or peripheral organ function, then this becomes much less of a problem.",
+      "start": 53.888,
+      "end": 63.125,
+      "word_count": 26
+    },
+    {
+      "text": "As noted in the studies discussed earlier, multiple grape products have been used to improve brain function under various conditions, but which product is best for delivering active grape phytochemicals to the brain is not yet clear.",
+      "start": 64.0,
+      "end": 76.513,
+      "word_count": 37
+    },
+    {
+      "text": "Furthermore, markers of polyphenol absorption are also needed to be able to correlate exposure levels with outcomes.",
+      "start": 77.375,
+      "end": 83.888,
+      "word_count": 17
+    },
+    {
+      "text": "Several of the studies described earlier attempted to tackle these questions.",
+      "start": 84.763,
+      "end": 88.825,
+      "word_count": 11
+    },
+    {
+      "text": "In the study by Bensalem and colleagues that tested the effects of Memophenol in aging mice, the authors examined the brain levels of catechin and epicatechin as well as their glucuronides since these flavan-3-ols were the most abundant polyphenols in this grape and blueberry product.",
+      "start": 89.688,
+      "end": 104.713,
+      "word_count": 45
+    },
+    {
+      "text": "Importantly, and most relevant to this review, the flavan-3-ols are derived from the grape component of this product.",
+      "start": 105.575,
+      "end": 112.263,
+      "word_count": 18
+    },
+    {
+      "text": "Not only did the authors detect picomolar levels of all of these flavonoids in mouse brains after six weeks of supplementation, but the levels were generally higher in the older animals.",
+      "start": 113.125,
+      "end": 123.175,
+      "word_count": 31
+    },
+    {
+      "text": "None of these flavonoids were detected in the brains of the mice given a placebo.",
+      "start": 124.037,
+      "end": 128.075,
+      "word_count": 15
+    },
+    {
+      "text": "Consistent with these results in mouse brains, in the study by Philip and colleagues with Memophenol in healthy young adults, high nanomolar levels of flavan-3-ols and several of their metabolites were detected in the plasma of Memophenol-treated but not placebo-treated subjects.",
+      "start": 128.95,
+      "end": 144.387,
+      "word_count": 41
+    },
+    {
+      "text": "A more extensive analysis of markers of Memophenol consumption was done in the study by Bensalem and colleagues on aging humans using urine rather than plasma.",
+      "start": 145.25,
+      "end": 153.988,
+      "word_count": 26
+    },
+    {
+      "text": "They identified eleven different compounds that could be used as biomarkers of Memophenol consumption, including catechin, epicatechin, and some of their conjugated metabolites, as well as microbial degradation products of catechin, epicatechin, and gallic acid.",
+      "start": 154.863,
+      "end": 170.537,
+      "word_count": 35
+    },
+    {
+      "text": "Using this Memophenol metabolite fingerprint, they were able to correlate higher levels of these metabolites with better performance in several of the cognitive tests, supporting the idea that flavan-3-ols are particularly beneficial for cognitive function.",
+      "start": 171.4,
+      "end": 185.5,
+      "word_count": 35
+    },
+    {
+      "text": "A similar approach was used by Van Doren and colleagues in a study testing the effects of grape juice on cognitive function in subjects with Gulf War illness.",
+      "start": 186.375,
+      "end": 194.762,
+      "word_count": 28
+    },
+    {
+      "text": "These investigators identified twelve serum metabolites, flavonoids and phenolic acids, that were associated with the consumption of grape juice, and the levels of two of these, epicatechin sulfate and petunidin glucuronide, correlated with better performance in the Revelian Cognitive Ability Test of executive function.",
+      "start": 195.625,
+      "end": 214.25,
+      "word_count": 44
+    },
+    {
+      "text": "Finally, in a study examining the effect of Memophenol in transgenic Alzheimer's disease mice, the authors identified eleven metabolites that were found only in the plasma of treated animals, with levels increasing in a dose-dependent manner.",
+      "start": 215.125,
+      "end": 229.025,
+      "word_count": 36
+    },
+    {
+      "text": "Interestingly, wild-type and transgenic Alzheimer's disease mice showed different levels of some of the same metabolites, suggesting genotype-dependent effects on polyphenol metabolism.",
+      "start": 229.887,
+      "end": 240.613,
+      "word_count": 22
+    },
+    {
+      "text": "In addition, they found that higher levels of three of these metabolites, two-hydroxybezoic acid, hydroxypropionic acid, and dihydroxyphenyl valerolactone, correlated strongly with better performance in the novel object recognition test.",
+      "start": 241.488,
+      "end": 257.471,
+      "word_count": 30
+    },
+    {
+      "text": "In summary, there is growing evidence that following the consumption of various grape products, multiple polyphenols and their metabolites can be detected in the blood and brains of mice, as well as in the blood and urine of humans.",
+      "start": 258.346,
+      "end": 270.796,
+      "word_count": 39
+    },
+    {
+      "text": "Importantly, multiple studies suggest that the levels of some of these metabolites correlate well with positive outcomes in a variety of tests of cognitive function, indicating that one or more of these metabolites could be used as an indicator of sufficient exposure.",
+      "start": 271.671,
+      "end": 286.221,
+      "word_count": 42
+    },
+    {
+      "text": "Further studies are needed to determine if any of these polyphenols or their metabolites directly play a role in the beneficial effects of the different grape products.",
+      "start": 287.096,
+      "end": 295.546,
+      "word_count": 27
+    }
+  ],
+  "total_duration": 295.546,
+  "voice": "en-US-AriaNeural"
+}

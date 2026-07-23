@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "In",
+      "start": 0.109,
+      "end": 0.374,
+      "duration": 0.265
+    },
+    {
+      "text": "vivo",
+      "start": 0.388,
+      "end": 0.8,
+      "duration": 0.412
+    },
+    {
+      "text": "study",
+      "start": 0.815,
+      "end": 1.432,
+      "duration": 0.618
+    }
+  ],
+  "sentences": [
+    {
+      "text": "In vivo study",
+      "start": 0.109,
+      "end": 1.432,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.432,
+  "voice": "en-US-AriaNeural",
+  "text": "In vivo study"
+}

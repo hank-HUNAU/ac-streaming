@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "NF-κB",
+      "start": 0.109,
+      "end": 1.432,
+      "duration": 1.324
+    }
+  ],
+  "sentences": [
+    {
+      "text": "NF-κB",
+      "start": 0.109,
+      "end": 1.432,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.432,
+  "voice": "en-US-AriaNeural",
+  "text": "NF-κB"
+}

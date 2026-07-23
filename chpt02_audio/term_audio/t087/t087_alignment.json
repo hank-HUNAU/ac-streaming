@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "SR-A",
+      "start": 0.109,
+      "end": 1.226,
+      "duration": 1.118
+    }
+  ],
+  "sentences": [
+    {
+      "text": "SR-A",
+      "start": 0.109,
+      "end": 1.226,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.226,
+  "voice": "en-US-AriaNeural",
+  "text": "SR-A"
+}

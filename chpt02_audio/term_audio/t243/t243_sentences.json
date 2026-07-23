@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Non-HDL-C/ApoB ratio ApoB ratio",
+      "start": 0.109,
+      "end": 3.168,
+      "word_count": 4
+    }
+  ],
+  "total_duration": 3.168,
+  "voice": "en-US-AriaNeural"
+}

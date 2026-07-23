@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "TBARS",
+      "start": 0.109,
+      "end": 0.991,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 0.991,
+  "voice": "en-US-AriaNeural"
+}

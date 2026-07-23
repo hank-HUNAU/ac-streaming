@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "DCX",
+      "start": 0.109,
+      "end": 1.285,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.285,
+  "voice": "en-US-AriaNeural"
+}

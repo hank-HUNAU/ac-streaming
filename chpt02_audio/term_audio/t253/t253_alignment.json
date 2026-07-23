@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "SOD",
+      "start": 0.109,
+      "end": 0.579,
+      "duration": 0.471
+    },
+    {
+      "text": "activity",
+      "start": 0.594,
+      "end": 1.359,
+      "duration": 0.765
+    }
+  ],
+  "sentences": [
+    {
+      "text": "SOD activity",
+      "start": 0.109,
+      "end": 1.359,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.359,
+  "voice": "en-US-AriaNeural",
+  "text": "SOD activity"
+}

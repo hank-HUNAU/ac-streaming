@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "HOMA-IR",
+      "start": 0.109,
+      "end": 1.124,
+      "duration": 1.015
+    }
+  ],
+  "sentences": [
+    {
+      "text": "HOMA-IR",
+      "start": 0.109,
+      "end": 1.124,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.124,
+  "voice": "en-US-AriaNeural",
+  "text": "HOMA-IR"
+}

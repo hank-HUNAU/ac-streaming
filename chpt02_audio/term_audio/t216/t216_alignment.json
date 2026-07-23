@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Red",
+      "start": 0.109,
+      "end": 0.476,
+      "duration": 0.368
+    },
+    {
+      "text": "wine",
+      "start": 0.491,
+      "end": 1.05,
+      "duration": 0.559
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Red wine",
+      "start": 0.109,
+      "end": 1.05,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.05,
+  "voice": "en-US-AriaNeural",
+  "text": "Red wine"
+}

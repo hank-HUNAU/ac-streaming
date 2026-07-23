@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "LDL",
+      "start": 0.109,
+      "end": 0.815,
+      "duration": 0.706
+    },
+    {
+      "text": "oxidation",
+      "start": 0.829,
+      "end": 1.785,
+      "duration": 0.956
+    }
+  ],
+  "sentences": [
+    {
+      "text": "LDL oxidation",
+      "start": 0.109,
+      "end": 1.785,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.785,
+  "voice": "en-US-AriaNeural",
+  "text": "LDL oxidation"
+}

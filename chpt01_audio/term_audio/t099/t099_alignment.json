@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Antioxidant",
+      "start": 0.109,
+      "end": 1.124,
+      "duration": 1.015
+    },
+    {
+      "text": "defense",
+      "start": 1.138,
+      "end": 1.903,
+      "duration": 0.765
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Antioxidant defense",
+      "start": 0.109,
+      "end": 1.903,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.903,
+  "voice": "en-US-AriaNeural",
+  "text": "Antioxidant defense"
+}

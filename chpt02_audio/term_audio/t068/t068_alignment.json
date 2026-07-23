@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "MCP-1",
+      "start": 0.109,
+      "end": 1.462,
+      "duration": 1.353
+    }
+  ],
+  "sentences": [
+    {
+      "text": "MCP-1",
+      "start": 0.109,
+      "end": 1.462,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.462,
+  "voice": "en-US-AriaNeural",
+  "text": "MCP-1"
+}

@@ -1,0 +1,39 @@
+{
+  "words": [
+    {
+      "text": "TLR4",
+      "start": 0.109,
+      "end": 1.138,
+      "duration": 1.029
+    },
+    {
+      "text": "/",
+      "start": 1.153,
+      "end": 1.594,
+      "duration": 0.441
+    },
+    {
+      "text": "NF-κB",
+      "start": 1.609,
+      "end": 2.491,
+      "duration": 0.882
+    },
+    {
+      "text": "pathway",
+      "start": 2.506,
+      "end": 3.285,
+      "duration": 0.779
+    }
+  ],
+  "sentences": [
+    {
+      "text": "TLR4/NF-κB pathway NF-κB pathway",
+      "start": 0.109,
+      "end": 3.285,
+      "word_count": 4
+    }
+  ],
+  "total_duration": 3.285,
+  "voice": "en-US-AriaNeural",
+  "text": "TLR4/NF-κB pathway"
+}

@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Antioxidant",
+      "start": 0.109,
+      "end": 1.153,
+      "duration": 1.044
+    },
+    {
+      "text": "enzymes",
+      "start": 1.168,
+      "end": 2.035,
+      "duration": 0.868
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Antioxidant enzymes",
+      "start": 0.109,
+      "end": 2.035,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 2.035,
+  "voice": "en-US-AriaNeural",
+  "text": "Antioxidant enzymes"
+}

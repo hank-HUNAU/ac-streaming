@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Plaque size",
+      "start": 0.109,
+      "end": 1.197,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.197,
+  "voice": "en-US-AriaNeural"
+}

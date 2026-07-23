@@ -1,0 +1,39 @@
+{
+  "words": [
+    {
+      "text": "Nitric",
+      "start": 0.109,
+      "end": 0.741,
+      "duration": 0.632
+    },
+    {
+      "text": "oxide",
+      "start": 0.756,
+      "end": 1.359,
+      "duration": 0.603
+    },
+    {
+      "text": "synthesis",
+      "start": 1.374,
+      "end": 1.976,
+      "duration": 0.603
+    },
+    {
+      "text": "pathway",
+      "start": 1.991,
+      "end": 2.785,
+      "duration": 0.794
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Nitric oxide synthesis pathway",
+      "start": 0.109,
+      "end": 2.785,
+      "word_count": 4
+    }
+  ],
+  "total_duration": 2.785,
+  "voice": "en-US-AriaNeural",
+  "text": "Nitric oxide synthesis pathway"
+}

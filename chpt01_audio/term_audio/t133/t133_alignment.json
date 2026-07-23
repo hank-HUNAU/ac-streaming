@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "CANTAB",
+      "start": 0.109,
+      "end": 1.021,
+      "duration": 0.912
+    }
+  ],
+  "sentences": [
+    {
+      "text": "CANTAB",
+      "start": 0.109,
+      "end": 1.021,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.021,
+  "voice": "en-US-AriaNeural",
+  "text": "CANTAB"
+}

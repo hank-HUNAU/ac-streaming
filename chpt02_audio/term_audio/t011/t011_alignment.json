@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Syringic",
+      "start": 0.109,
+      "end": 0.918,
+      "duration": 0.809
+    },
+    {
+      "text": "acid",
+      "start": 0.932,
+      "end": 1.55,
+      "duration": 0.618
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Syringic acid",
+      "start": 0.109,
+      "end": 1.55,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.55,
+  "voice": "en-US-AriaNeural",
+  "text": "Syringic acid"
+}

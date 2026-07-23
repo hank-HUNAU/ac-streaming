@@ -1,0 +1,45 @@
+{
+  "words": [
+    {
+      "text": "LDLR",
+      "start": 0.109,
+      "end": 0.976,
+      "duration": 0.868
+    },
+    {
+      "text": "−",
+      "start": 0.991,
+      "end": 1.476,
+      "duration": 0.485
+    },
+    {
+      "text": "/",
+      "start": 1.491,
+      "end": 2.388,
+      "duration": 0.897
+    },
+    {
+      "text": "−",
+      "start": 2.403,
+      "end": 2.888,
+      "duration": 0.485
+    },
+    {
+      "text": "mouse",
+      "start": 2.903,
+      "end": 3.55,
+      "duration": 0.647
+    }
+  ],
+  "sentences": [
+    {
+      "text": "LDLR−/− mouse / − mouse",
+      "start": 0.109,
+      "end": 3.55,
+      "word_count": 5
+    }
+  ],
+  "total_duration": 3.55,
+  "voice": "en-US-AriaNeural",
+  "text": "LDLR−/− mouse"
+}

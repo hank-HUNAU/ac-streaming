@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "NADPH",
+      "start": 0.109,
+      "end": 1.153,
+      "duration": 1.044
+    },
+    {
+      "text": "oxidase",
+      "start": 1.168,
+      "end": 2.065,
+      "duration": 0.897
+    }
+  ],
+  "sentences": [
+    {
+      "text": "NADPH oxidase",
+      "start": 0.109,
+      "end": 2.065,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 2.065,
+  "voice": "en-US-AriaNeural",
+  "text": "NADPH oxidase"
+}

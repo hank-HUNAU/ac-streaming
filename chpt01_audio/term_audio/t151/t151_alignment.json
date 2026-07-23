@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Cerebral",
+      "start": 0.109,
+      "end": 0.874,
+      "duration": 0.765
+    },
+    {
+      "text": "glucose",
+      "start": 0.888,
+      "end": 1.476,
+      "duration": 0.588
+    },
+    {
+      "text": "metabolism",
+      "start": 1.491,
+      "end": 2.447,
+      "duration": 0.956
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Cerebral glucose metabolism",
+      "start": 0.109,
+      "end": 2.447,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.447,
+  "voice": "en-US-AriaNeural",
+  "text": "Cerebral glucose metabolism"
+}

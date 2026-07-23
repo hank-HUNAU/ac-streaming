@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "CAD",
+      "start": 0.109,
+      "end": 0.8,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 0.8,
+  "voice": "en-US-AriaNeural"
+}

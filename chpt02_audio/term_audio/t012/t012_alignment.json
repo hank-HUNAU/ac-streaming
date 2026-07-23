@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Gentisic",
+      "start": 0.109,
+      "end": 0.859,
+      "duration": 0.75
+    },
+    {
+      "text": "acid",
+      "start": 0.874,
+      "end": 1.476,
+      "duration": 0.603
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Gentisic acid",
+      "start": 0.109,
+      "end": 1.476,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.476,
+  "voice": "en-US-AriaNeural",
+  "text": "Gentisic acid"
+}

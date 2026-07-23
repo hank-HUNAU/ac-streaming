@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Elevated",
+      "start": 0.109,
+      "end": 0.785,
+      "duration": 0.676
+    },
+    {
+      "text": "plus",
+      "start": 0.8,
+      "end": 1.153,
+      "duration": 0.353
+    },
+    {
+      "text": "maze",
+      "start": 1.168,
+      "end": 1.8,
+      "duration": 0.632
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elevated plus maze",
+      "start": 0.109,
+      "end": 1.8,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.8,
+  "voice": "en-US-AriaNeural",
+  "text": "Elevated plus maze"
+}

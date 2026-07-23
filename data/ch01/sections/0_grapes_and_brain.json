@@ -1,0 +1,20 @@
+{
+  "id": "0_grapes_and_brain",
+  "sentences": [
+    {
+      "text": "Grapes and Brain Health.",
+      "start": 0.1,
+      "end": 1.425,
+      "word_count": 4
+    },
+    {
+      "text": "Pamela Maher.",
+      "start": 2.3,
+      "end": 3.237,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 3.237,
+  "voice": "en-US-AriaNeural",
+  "title": "Title"
+}

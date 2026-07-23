@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Western",
+      "start": 0.109,
+      "end": 0.726,
+      "duration": 0.618
+    },
+    {
+      "text": "blot",
+      "start": 0.741,
+      "end": 1.3,
+      "duration": 0.559
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Western blot",
+      "start": 0.109,
+      "end": 1.3,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.3,
+  "voice": "en-US-AriaNeural",
+  "text": "Western blot"
+}

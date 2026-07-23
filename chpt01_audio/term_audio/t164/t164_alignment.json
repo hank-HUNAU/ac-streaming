@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "In",
+      "start": 0.109,
+      "end": 0.359,
+      "duration": 0.25
+    },
+    {
+      "text": "vitro",
+      "start": 0.374,
+      "end": 0.8,
+      "duration": 0.426
+    },
+    {
+      "text": "assays",
+      "start": 0.815,
+      "end": 1.55,
+      "duration": 0.735
+    }
+  ],
+  "sentences": [
+    {
+      "text": "In vitro assays",
+      "start": 0.109,
+      "end": 1.55,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.55,
+  "voice": "en-US-AriaNeural",
+  "text": "In vitro assays"
+}

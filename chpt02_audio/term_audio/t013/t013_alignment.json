@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Salicylic",
+      "start": 0.109,
+      "end": 0.991,
+      "duration": 0.882
+    },
+    {
+      "text": "acid",
+      "start": 1.006,
+      "end": 1.638,
+      "duration": 0.632
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Salicylic acid",
+      "start": 0.109,
+      "end": 1.638,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.638,
+  "voice": "en-US-AriaNeural",
+  "text": "Salicylic acid"
+}

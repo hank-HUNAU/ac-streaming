@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "ACH09",
+      "start": 0.109,
+      "end": 1.829,
+      "duration": 1.721
+    }
+  ],
+  "sentences": [
+    {
+      "text": "ACH09",
+      "start": 0.109,
+      "end": 1.829,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.829,
+  "voice": "en-US-AriaNeural",
+  "text": "ACH09"
+}

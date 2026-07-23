@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Plasma",
+      "start": 0.109,
+      "end": 0.682,
+      "duration": 0.574
+    },
+    {
+      "text": "polyphenol",
+      "start": 0.697,
+      "end": 1.506,
+      "duration": 0.809
+    },
+    {
+      "text": "levels",
+      "start": 1.521,
+      "end": 2.182,
+      "duration": 0.662
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Plasma polyphenol levels",
+      "start": 0.109,
+      "end": 2.182,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.182,
+  "voice": "en-US-AriaNeural",
+  "text": "Plasma polyphenol levels"
+}

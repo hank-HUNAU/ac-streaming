@@ -1,0 +1,39 @@
+{
+  "words": [
+    {
+      "text": "EA",
+      "start": 0.109,
+      "end": 0.55,
+      "duration": 0.441
+    },
+    {
+      "text": ".",
+      "start": 0.565,
+      "end": 0.874,
+      "duration": 0.309
+    },
+    {
+      "text": "hy926",
+      "start": 0.888,
+      "end": 2.329,
+      "duration": 1.441
+    },
+    {
+      "text": "cells",
+      "start": 2.344,
+      "end": 2.962,
+      "duration": 0.618
+    }
+  ],
+  "sentences": [
+    {
+      "text": "EA.hy926 cells hy926 cells",
+      "start": 0.109,
+      "end": 2.962,
+      "word_count": 4
+    }
+  ],
+  "total_duration": 2.962,
+  "voice": "en-US-AriaNeural",
+  "text": "EA.hy926 cells"
+}

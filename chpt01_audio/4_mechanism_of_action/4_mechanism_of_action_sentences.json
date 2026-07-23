@@ -1,0 +1,438 @@
+{
+  "sentences": [
+    {
+      "text": "Mechanism of Action.",
+      "start": 0.1,
+      "end": 1.438,
+      "word_count": 3
+    },
+    {
+      "text": "The in vivo studies described above raise the question of how different grape products act to promote brain function.",
+      "start": 2.312,
+      "end": 8.312,
+      "word_count": 19
+    },
+    {
+      "text": "It is also important to know whether the different grape products appear to be working through similar or distinct mechanisms.",
+      "start": 9.188,
+      "end": 15.325,
+      "word_count": 20
+    },
+    {
+      "text": "A number of the studies described above included experiments designed to identify possible mechanisms of action for grape products.",
+      "start": 16.2,
+      "end": 23.538,
+      "word_count": 19
+    },
+    {
+      "text": "The mechanisms identified include the inhibition of oxidative stress, the maintenance of trophic factor signaling, the stimulation of neurogenesis, the maintenance of synaptic function and neurotransmission, and anti-inflammatory effects.",
+      "start": 24.4,
+      "end": 38.15,
+      "word_count": 29
+    },
+    {
+      "text": "The evidence supporting each of these mechanisms is described in more detail below.",
+      "start": 39.013,
+      "end": 43.35,
+      "word_count": 13
+    },
+    {
+      "text": "Inhibition of Oxidative Stress.",
+      "start": 44.225,
+      "end": 46.212,
+      "word_count": 4
+    },
+    {
+      "text": "Although it has been argued that the antioxidant activity of flavonoids and other polyphenols, as measured in test tube assays, may have little relevance to their effects in vivo, a number of studies on grape products have demonstrated their impact on oxidative stress markers in both the blood and the brains of the treated animals and, in a few cases, in the blood of humans.",
+      "start": 47.075,
+      "end": 67.85,
+      "word_count": 65
+    },
+    {
+      "text": "In their study testing grape juice in healthy young adults, Copetti and colleagues found that one hour after consuming grape juice, the serum thiobarbituric acid reactive substances values, a measure of the level of lipid peroxidation, of the subjects were significantly reduced as compared to the baseline values, along with the measures of serum antioxidant capacity.",
+      "start": 68.713,
+      "end": 90.088,
+      "word_count": 56
+    },
+    {
+      "text": "These effects were not seen after the consumption of a placebo, water.",
+      "start": 90.963,
+      "end": 94.85,
+      "word_count": 12
+    },
+    {
+      "text": "Glutathione is a major endogenous antioxidant.",
+      "start": 95.713,
+      "end": 98.8,
+      "word_count": 6
+    },
+    {
+      "text": "It is also a cofactor for numerous antioxidant enzymes.",
+      "start": 99.662,
+      "end": 103.237,
+      "word_count": 9
+    },
+    {
+      "text": "Thus, decreases in the absolute levels of glutathione or in the ratio of reduced to oxidized glutathione are indicative of oxidative stress.",
+      "start": 104.1,
+      "end": 112.4,
+      "word_count": 22
+    },
+    {
+      "text": "Chou and colleagues found that in old rats maintained long term on a high-fructose high-fat diet, the glutathione to oxidized glutathione ratio was decreased, and this was reversed by twelve weeks of supplementation with grape powder polyphenol extract in a dose-dependent manner.",
+      "start": 113.263,
+      "end": 128.825,
+      "word_count": 42
+    },
+    {
+      "text": "In the model of ischemia and reperfusion injury in rats, ischemia and reperfusion was found to increase the levels of multiple types of reactive oxygen species in rat brains, including hydrogen peroxide, superoxide, and hydroxyl radicals, and these increases were all significantly prevented by G S S P E pretreatment.",
+      "start": 129.688,
+      "end": 149.825,
+      "word_count": 50
+    },
+    {
+      "text": "Consistent with the effect of G S S P E on reactive oxygen species levels, increases in both lipid peroxidation and protein carbonylation induced by ischemia and reperfusion injury were also prevented by G S S P E pretreatment.",
+      "start": 150.7,
+      "end": 165.525,
+      "word_count": 39
+    },
+    {
+      "text": "In addition, ischemia and reperfusion injury increased the levels of free iron, an important driver of lipid peroxidation, and this increase was also significantly reduced by G S S P E pretreatment.",
+      "start": 166.4,
+      "end": 178.925,
+      "word_count": 32
+    },
+    {
+      "text": "Furthermore, ischemia and reperfusion injury reduced the activity of several antioxidant enzymes, including superoxide dismutase, catalase, and peroxidase, while G S S P E pretreatment prevented this loss.",
+      "start": 179.8,
+      "end": 193.662,
+      "word_count": 28
+    },
+    {
+      "text": "Similarly, in the hypoperfusion model, the authors found that grape seed polyphenol extract mitigated the increase in lipid peroxidation caused by chronic hypoperfusion and restored the activity of the antioxidant enzymes superoxide dismutase, catalase, and glutathione peroxidase.",
+      "start": 194.537,
+      "end": 212.325,
+      "word_count": 37
+    },
+    {
+      "text": "In addition, in the 6-hydroxydopamine model of Parkinson's disease, G S S P E was also found to prevent the loss of superoxide dismutase 1.",
+      "start": 213.2,
+      "end": 222.7,
+      "word_count": 25
+    },
+    {
+      "text": "Similarly, in the multiple sclerosis study in mice, the authors showed that grape seed extract prevented increases in both lipid peroxidation and protein carbonylation, seen at different disease stages following the induction of experimental autoimmune encephalitis.",
+      "start": 223.575,
+      "end": 239.3,
+      "word_count": 36
+    },
+    {
+      "text": "These effects of grape seed extract on oxidative stress markers correlated with a reduction in the decreases in superoxide dismutase 1, catalase, and glutathione peroxidase levels and activity, seen following the induction of experimental autoimmune encephalitis.",
+      "start": 240.175,
+      "end": 256.2,
+      "word_count": 36
+    },
+    {
+      "text": "In summary, all the models that showed increases in oxidative stress markers in the brain in response to a physical or chemical insult also demonstrated that grape products could at least partially decrease these markers in a manner consistent with their effects on cognitive function and other brain activities.",
+      "start": 257.075,
+      "end": 274.463,
+      "word_count": 49
+    },
+    {
+      "text": "Trophic Factor Signaling.",
+      "start": 275.325,
+      "end": 276.825,
+      "word_count": 3
+    },
+    {
+      "text": "Neurotrophic factors play critical roles in promoting the differentiation, survival, and functional maintenance of nerve cells.",
+      "start": 277.688,
+      "end": 285.125,
+      "word_count": 16
+    },
+    {
+      "text": "They are also key players in synaptic plasticity, cognition, and memory formation.",
+      "start": 285.988,
+      "end": 290.976,
+      "word_count": 12
+    },
+    {
+      "text": "Changes in the levels of neurotrophic factors and slash or their receptors are implicated in the pathophysiology of a variety of neurodegenerative diseases, including Alzheimer's disease and Parkinson's disease.",
+      "start": 291.838,
+      "end": 303.888,
+      "word_count": 29
+    },
+    {
+      "text": "Brain-derived neurotrophic factor is one of the neurotrophic factors involved in promoting memory.",
+      "start": 304.75,
+      "end": 310.088,
+      "word_count": 13
+    },
+    {
+      "text": "It is dramatically reduced in the brain with age and in Alzheimer's disease, as well as in other neurological and neuropsychiatric disorders.",
+      "start": 310.95,
+      "end": 318.95,
+      "word_count": 22
+    },
+    {
+      "text": "The B D N F pathway has long been considered a drug target for multiple neurological disorders.",
+      "start": 319.825,
+      "end": 325.463,
+      "word_count": 17
+    },
+    {
+      "text": "Several studies demonstrated increases in B D N F following grape product consumption.",
+      "start": 326.338,
+      "end": 331.638,
+      "word_count": 13
+    },
+    {
+      "text": "In their study in healthy older women, Canete da Costa and colleagues found that chronic purple grape juice consumption in women over seventy years of age modestly increased plasma B D N F levels, with a p value of zero point zero six nine, an effect that was very much diminished in women under seventy.",
+      "start": 332.513,
+      "end": 350.075,
+      "word_count": 55
+    },
+    {
+      "text": "In addition, the study that tested Memophenol in transgenic Alzheimer's disease mice found a decrease in the ratio of mature to pro-B D N F in the parieto-temporal cortex of the mice, which was prevented by the addition of Memophenol to their diet.",
+      "start": 350.938,
+      "end": 365.163,
+      "word_count": 43
+    },
+    {
+      "text": "Nerve growth factor stimulates neurite outgrowth during development and also promotes nerve cell recovery after injury.",
+      "start": 366.026,
+      "end": 372.651,
+      "word_count": 16
+    },
+    {
+      "text": "In two separate studies in mice, Memophenol was found to significantly increase nerve growth factor messenger ribonucleic acid levels in the hippocampus of adult, middle-aged, and aged mice.",
+      "start": 373.513,
+      "end": 384.976,
+      "word_count": 28
+    },
+    {
+      "text": "In contrast to the study with Alzheimer's disease mice, neither of these studies showed an effect of Memophenol on hippocampal B D N F levels.",
+      "start": 385.851,
+      "end": 394.276,
+      "word_count": 25
+    },
+    {
+      "text": "In summary, one of the protective effects of grape products on cognitive function may include maintaining neurotrophic factor levels, such as B D N F and nerve growth factor.",
+      "start": 395.138,
+      "end": 405.2,
+      "word_count": 29
+    },
+    {
+      "text": "Further investigation into these mechanisms is clearly warranted, especially as neither nerve growth factor nor B D N F crosses the blood-brain barrier.",
+      "start": 406.075,
+      "end": 414.8,
+      "word_count": 23
+    },
+    {
+      "text": "Therefore, compounds that can cross the blood-brain barrier and increase the endogenous levels of these neurotrophic factors could have significant therapeutic potential.",
+      "start": 415.663,
+      "end": 424.825,
+      "word_count": 22
+    },
+    {
+      "text": "Neurogenesis.",
+      "start": 425.7,
+      "end": 426.875,
+      "word_count": 1
+    },
+    {
+      "text": "Neurogenesis is the formation of new neurons in the brain.",
+      "start": 427.726,
+      "end": 430.913,
+      "word_count": 10
+    },
+    {
+      "text": "Although this clearly happens throughout the brain during development, it is localized to two areas of the brain, the lateral subventricular zone and the dentate gyrus of the hippocampus, in adult animals.",
+      "start": 431.776,
+      "end": 443.175,
+      "word_count": 32
+    },
+    {
+      "text": "While there is clear, direct evidence that neurogenesis can occur in the brains of adult rodents and birds, the evidence for neurogenesis in adult humans is indirect and not as conclusive.",
+      "start": 444.05,
+      "end": 454.738,
+      "word_count": 31
+    },
+    {
+      "text": "Nevertheless, there is a good deal of interest in neurogenesis as a target for reversing age and disease-related neuronal loss.",
+      "start": 455.613,
+      "end": 462.938,
+      "word_count": 20
+    },
+    {
+      "text": "Two studies evaluated the potential of grape products to promote neurogenesis in old mice.",
+      "start": 463.813,
+      "end": 469.125,
+      "word_count": 14
+    },
+    {
+      "text": "Bensalem and colleagues found that treatment of old mice with Memophenol increased the proportion of newly generated, immature neurons with prolongations in the hippocampus, as determined by staining for doublecortin, a marker of immature neurons.",
+      "start": 470.0,
+      "end": 483.763,
+      "word_count": 35
+    },
+    {
+      "text": "Consistent with this observation, eight weeks of grape seed extract treatment increased the overall number of doublecortin-positive cells in the dentate gyrus of old mice.",
+      "start": 484.625,
+      "end": 493.95,
+      "word_count": 25
+    },
+    {
+      "text": "Clearly, more studies that evaluate brain neurogenesis in response to grape products are needed in order to better understand the significance of these findings.",
+      "start": 494.825,
+      "end": 503.763,
+      "word_count": 24
+    },
+    {
+      "text": "Synaptic Function and Neurotransmission.",
+      "start": 504.638,
+      "end": 507.101,
+      "word_count": 4
+    },
+    {
+      "text": "Changes in signal transduction in the brain can alter cognitive function and other behavioral parameters.",
+      "start": 507.976,
+      "end": 513.926,
+      "word_count": 15
+    },
+    {
+      "text": "Thus, the maintenance of synaptic function and the neurotransmitters that convey signals between neurons is critical to promoting normal brain function.",
+      "start": 514.801,
+      "end": 524.066,
+      "word_count": 21
+    },
+    {
+      "text": "Ca M K two is an important kinase in the brain that is involved in calcium signaling and plays a key role in learning, memory, and synaptic plasticity.",
+      "start": 524.941,
+      "end": 534.078,
+      "word_count": 28
+    },
+    {
+      "text": "The messenger ribonucleic acid levels of Ca M K two significantly decreased with age in the hippocampus of mice, and this change was prevented by Memophenol.",
+      "start": 534.941,
+      "end": 544.491,
+      "word_count": 26
+    },
+    {
+      "text": "In contrast, no age-dependent changes in Ca M K two were seen in the striatum.",
+      "start": 545.354,
+      "end": 550.641,
+      "word_count": 15
+    },
+    {
+      "text": "The loss of the presynaptic protein synaptophysin, one of the targets of Ca M K two, is associated with impaired learning and memory.",
+      "start": 551.516,
+      "end": 559.641,
+      "word_count": 23
+    },
+    {
+      "text": "Rastegar and colleagues found that grape seed extract significantly increased the levels of synaptophysin in the hippocampus of old mice, as determined by immunohistochemistry.",
+      "start": 560.504,
+      "end": 570.754,
+      "word_count": 24
+    },
+    {
+      "text": "Parande and colleagues showed that the expression of genes associated with multiple pathways involved in dopamine signaling was significantly upregulated in female mice given a high-fat diet for about three months and that this change was prevented by freeze-dried grape powder.",
+      "start": 571.616,
+      "end": 586.529,
+      "word_count": 41
+    },
+    {
+      "text": "The high-fat diet also resulted in the upregulation of the expression of genes associated with the positive regulation of feeding behavior and the downregulation of genes associated with the negative regulation of feeding behavior.",
+      "start": 587.391,
+      "end": 599.879,
+      "word_count": 34
+    },
+    {
+      "text": "Both of these changes were also prevented by freeze-dried grape powder supplementation of the mouse diet.",
+      "start": 600.754,
+      "end": 606.428,
+      "word_count": 16
+    },
+    {
+      "text": "In the cerebral hypoperfusion model, the authors found that grape seed polyphenol extract restored multiple aspects of cholinergic signaling to control levels, including choline acetyltransferase activity and acetylcholine levels, which were both reduced following chronic hypoperfusion, as well as acetylcholinesterase activity, which increased after chronic hypoperfusion.",
+      "start": 607.291,
+      "end": 629.516,
+      "word_count": 46
+    },
+    {
+      "text": "As noted earlier, in one of the studies on Parkinson's disease using 6-hydroxydopamine, the authors found a significant reduction in electrical field potentials in the thalamus, part of the motor cortex, as determined using electroencephalography recordings, which correlated with the effects of 6-hydroxydopamine on motor activity.",
+      "start": 630.391,
+      "end": 650.016,
+      "word_count": 46
+    },
+    {
+      "text": "Grape seed extract administration restored these electrical field potentials.",
+      "start": 650.879,
+      "end": 655.116,
+      "word_count": 9
+    },
+    {
+      "text": "In summary, several different grape products have been shown to modulate multiple aspects of synaptic function and neurotransmission, but each study looked at a different aspect of the process.",
+      "start": 655.991,
+      "end": 666.541,
+      "word_count": 29
+    },
+    {
+      "text": "Thus, further studies are needed to support and extend these observations.",
+      "start": 667.416,
+      "end": 671.629,
+      "word_count": 11
+    },
+    {
+      "text": "Anti-inflammatory Effects.",
+      "start": 672.491,
+      "end": 674.229,
+      "word_count": 2
+    },
+    {
+      "text": "Brain immune dysregulation is implicated in neurodegenerative diseases as well as stroke and may contribute to the development of cognitive deficits.",
+      "start": 675.091,
+      "end": 683.004,
+      "word_count": 21
+    },
+    {
+      "text": "Several of the studies discussed earlier investigated the effects of grape products on markers of inflammation.",
+      "start": 683.879,
+      "end": 689.803,
+      "word_count": 16
+    },
+    {
+      "text": "In the A53T mutant alpha-synuclein mice, Tikhonova and colleagues found that supplementation with grape polyphenol concentrate significantly reduced increases in two different markers of microglial activation that were seen in the untreated mutant mice in both the hippocampus and frontal cortex.",
+      "start": 690.678,
+      "end": 707.928,
+      "word_count": 41
+    },
+    {
+      "text": "Similarly, in the study on grape seed extract in the mouse model of multiple sclerosis, Mabrouk and colleagues found that experimental autoimmune encephalitis treatment increased the levels of both glial fibrillary acidic protein, a marker of astrocyte activation, and ionized calcium-binding adapter molecule 1, a marker of microglial activation, in the brains and spinal cords of the mice as the disease progressed.",
+      "start": 708.104,
+      "end": 732.529,
+      "word_count": 62
+    },
+    {
+      "text": "Both of these increases, as indicators of inflammation, were corrected by grape seed extract treatment.",
+      "start": 733.391,
+      "end": 739.479,
+      "word_count": 15
+    },
+    {
+      "text": "Arafat and Shabaan also observed increases in glial fibrillary acidic protein in the cerebellums of rats that were exposed to valproic acid during embryonic development, and these increases were prevented by postnatal treatment with grape seed extract.",
+      "start": 740.354,
+      "end": 754.854,
+      "word_count": 37
+    },
+    {
+      "text": "These results are consistent with a few of the studies highlighted in the 2016 review on Grapes and the Brain, and they further indicate the need for more research on the anti-inflammatory effects of grape products in the brain.",
+      "start": 755.716,
+      "end": 768.053,
+      "word_count": 39
+    }
+  ],
+  "total_duration": 768.053,
+  "voice": "en-US-AriaNeural"
+}

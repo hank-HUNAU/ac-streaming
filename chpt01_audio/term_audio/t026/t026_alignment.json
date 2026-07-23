@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "BDNF",
+      "start": 0.109,
+      "end": 1.359,
+      "duration": 1.25
+    }
+  ],
+  "sentences": [
+    {
+      "text": "BDNF",
+      "start": 0.109,
+      "end": 1.359,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.359,
+  "voice": "en-US-AriaNeural",
+  "text": "BDNF"
+}

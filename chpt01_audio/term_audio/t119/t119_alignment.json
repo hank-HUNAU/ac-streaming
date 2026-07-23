@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Passive",
+      "start": 0.109,
+      "end": 0.609,
+      "duration": 0.5
+    },
+    {
+      "text": "avoidance",
+      "start": 0.624,
+      "end": 1.256,
+      "duration": 0.632
+    },
+    {
+      "text": "test",
+      "start": 1.271,
+      "end": 1.888,
+      "duration": 0.618
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Passive avoidance test",
+      "start": 0.109,
+      "end": 1.888,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.888,
+  "voice": "en-US-AriaNeural",
+  "text": "Passive avoidance test"
+}

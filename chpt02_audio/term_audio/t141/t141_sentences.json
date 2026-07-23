@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "ApoE−/− mouse / − mouse",
+      "start": 0.109,
+      "end": 3.094,
+      "word_count": 5
+    }
+  ],
+  "total_duration": 3.094,
+  "voice": "en-US-AriaNeural"
+}

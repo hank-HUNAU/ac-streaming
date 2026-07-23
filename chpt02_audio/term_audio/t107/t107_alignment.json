@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Myocardial",
+      "start": 0.109,
+      "end": 1.109,
+      "duration": 1.0
+    },
+    {
+      "text": "infarction",
+      "start": 1.124,
+      "end": 2.021,
+      "duration": 0.897
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Myocardial infarction",
+      "start": 0.109,
+      "end": 2.021,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 2.021,
+  "voice": "en-US-AriaNeural",
+  "text": "Myocardial infarction"
+}

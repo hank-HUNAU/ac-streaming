@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Dealcoholized",
+      "start": 0.109,
+      "end": 1.182,
+      "duration": 1.074
+    },
+    {
+      "text": "red",
+      "start": 1.197,
+      "end": 1.462,
+      "duration": 0.265
+    },
+    {
+      "text": "wine",
+      "start": 1.476,
+      "end": 2.006,
+      "duration": 0.529
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Dealcoholized red wine",
+      "start": 0.109,
+      "end": 2.006,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.006,
+  "voice": "en-US-AriaNeural",
+  "text": "Dealcoholized red wine"
+}

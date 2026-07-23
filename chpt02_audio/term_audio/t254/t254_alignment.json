@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "CAT",
+      "start": 0.109,
+      "end": 0.476,
+      "duration": 0.368
+    },
+    {
+      "text": "activity",
+      "start": 0.491,
+      "end": 1.285,
+      "duration": 0.794
+    }
+  ],
+  "sentences": [
+    {
+      "text": "CAT activity",
+      "start": 0.109,
+      "end": 1.285,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.285,
+  "voice": "en-US-AriaNeural",
+  "text": "CAT activity"
+}

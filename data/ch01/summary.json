@@ -1,0 +1,52 @@
+{
+  "id": "ch01",
+  "title": "01 Grapes and Brain Health",
+  "total_sentences": 410,
+  "total_duration_s": 4235.6,
+  "total_terms": 165,
+  "total_sections": 6,
+  "sections": [
+    {
+      "id": "1_abstract_given_the",
+      "title": "Abstract",
+      "sentence_count": 9,
+      "word_count": 252,
+      "duration_s": 101.9
+    },
+    {
+      "id": "2_introduction_the_brain",
+      "title": "Introduction",
+      "sentence_count": 29,
+      "word_count": 611,
+      "duration_s": 241.8
+    },
+    {
+      "id": "3_in_vivo_effects",
+      "title": "In Vivo Effects",
+      "sentence_count": 260,
+      "word_count": 7049,
+      "duration_s": 2670.7
+    },
+    {
+      "id": "4_mechanism_of_action",
+      "title": "Mechanism of Action",
+      "sentence_count": 72,
+      "word_count": 1830,
+      "duration_s": 768.1
+    },
+    {
+      "id": "5_bioavailability_of_grape",
+      "title": "Bioavailability",
+      "sentence_count": 25,
+      "word_count": 715,
+      "duration_s": 295.5
+    },
+    {
+      "id": "6_conclusions_and_future",
+      "title": "Conclusions",
+      "sentence_count": 15,
+      "word_count": 401,
+      "duration_s": 157.6
+    }
+  ]
+}

@@ -1,0 +1,8589 @@
+{
+  "words": [
+    {
+      "text": "Grape",
+      "start": 0.1,
+      "end": 0.463,
+      "duration": 0.362
+    },
+    {
+      "text": "Composition",
+      "start": 0.475,
+      "end": 1.325,
+      "duration": 0.85
+    },
+    {
+      "text": "Grapes",
+      "start": 2.2,
+      "end": 2.625,
+      "duration": 0.425
+    },
+    {
+      "text": "were",
+      "start": 2.638,
+      "end": 2.763,
+      "duration": 0.125
+    },
+    {
+      "text": "cultivated",
+      "start": 2.775,
+      "end": 3.388,
+      "duration": 0.613
+    },
+    {
+      "text": "for",
+      "start": 3.4,
+      "end": 3.575,
+      "duration": 0.175
+    },
+    {
+      "text": "winemaking",
+      "start": 3.587,
+      "end": 4.188,
+      "duration": 0.6
+    },
+    {
+      "text": "at",
+      "start": 4.2,
+      "end": 4.287,
+      "duration": 0.087
+    },
+    {
+      "text": "least",
+      "start": 4.3,
+      "end": 4.6,
+      "duration": 0.3
+    },
+    {
+      "text": "7000 years",
+      "start": 4.612,
+      "end": 5.675,
+      "duration": 1.062
+    },
+    {
+      "text": "ago",
+      "start": 5.688,
+      "end": 6.025,
+      "duration": 0.338
+    },
+    {
+      "text": "and",
+      "start": 6.037,
+      "end": 6.2,
+      "duration": 0.163
+    },
+    {
+      "text": "represent",
+      "start": 6.213,
+      "end": 6.75,
+      "duration": 0.537
+    },
+    {
+      "text": "the",
+      "start": 6.763,
+      "end": 6.862,
+      "duration": 0.1
+    },
+    {
+      "text": "world's",
+      "start": 6.875,
+      "end": 7.275,
+      "duration": 0.4
+    },
+    {
+      "text": "third",
+      "start": 7.287,
+      "end": 7.612,
+      "duration": 0.325
+    },
+    {
+      "text": "most",
+      "start": 7.625,
+      "end": 7.925,
+      "duration": 0.3
+    },
+    {
+      "text": "valuable",
+      "start": 7.938,
+      "end": 8.425,
+      "duration": 0.487
+    },
+    {
+      "text": "crop",
+      "start": 8.438,
+      "end": 8.812,
+      "duration": 0.375
+    },
+    {
+      "text": "as",
+      "start": 8.825,
+      "end": 8.938,
+      "duration": 0.113
+    },
+    {
+      "text": "it",
+      "start": 8.95,
+      "end": 9.037,
+      "duration": 0.087
+    },
+    {
+      "text": "is",
+      "start": 9.05,
+      "end": 9.162,
+      "duration": 0.113
+    },
+    {
+      "text": "consumed",
+      "start": 9.175,
+      "end": 9.738,
+      "duration": 0.562
+    },
+    {
+      "text": "both",
+      "start": 9.75,
+      "end": 9.975,
+      "duration": 0.225
+    },
+    {
+      "text": "fresh",
+      "start": 9.988,
+      "end": 10.387,
+      "duration": 0.4
+    },
+    {
+      "text": "and",
+      "start": 10.4,
+      "end": 10.537,
+      "duration": 0.138
+    },
+    {
+      "text": "in",
+      "start": 10.55,
+      "end": 10.662,
+      "duration": 0.113
+    },
+    {
+      "text": "processed",
+      "start": 10.675,
+      "end": 11.175,
+      "duration": 0.5
+    },
+    {
+      "text": "products",
+      "start": 11.188,
+      "end": 11.738,
+      "duration": 0.55
+    },
+    {
+      "text": "including",
+      "start": 12.05,
+      "end": 12.55,
+      "duration": 0.5
+    },
+    {
+      "text": "wine",
+      "start": 12.562,
+      "end": 12.863,
+      "duration": 0.3
+    },
+    {
+      "text": "jam",
+      "start": 13.05,
+      "end": 13.463,
+      "duration": 0.412
+    },
+    {
+      "text": "juice",
+      "start": 13.65,
+      "end": 14.075,
+      "duration": 0.425
+    },
+    {
+      "text": "jelly",
+      "start": 14.3,
+      "end": 14.762,
+      "duration": 0.463
+    },
+    {
+      "text": "grape",
+      "start": 14.988,
+      "end": 15.262,
+      "duration": 0.275
+    },
+    {
+      "text": "seed",
+      "start": 15.275,
+      "end": 15.525,
+      "duration": 0.25
+    },
+    {
+      "text": "extract",
+      "start": 15.537,
+      "end": 16.113,
+      "duration": 0.575
+    },
+    {
+      "text": "dried",
+      "start": 16.387,
+      "end": 16.7,
+      "duration": 0.312
+    },
+    {
+      "text": "grapes",
+      "start": 16.712,
+      "end": 17.05,
+      "duration": 0.338
+    },
+    {
+      "text": "vinegar",
+      "start": 17.238,
+      "end": 17.688,
+      "duration": 0.45
+    },
+    {
+      "text": "and",
+      "start": 17.975,
+      "end": 18.163,
+      "duration": 0.188
+    },
+    {
+      "text": "grape-seed",
+      "start": 18.175,
+      "end": 18.75,
+      "duration": 0.575
+    },
+    {
+      "text": "oil",
+      "start": 18.762,
+      "end": 19.175,
+      "duration": 0.412
+    },
+    {
+      "text": "Grapes",
+      "start": 20.038,
+      "end": 20.462,
+      "duration": 0.425
+    },
+    {
+      "text": "belong",
+      "start": 20.475,
+      "end": 20.85,
+      "duration": 0.375
+    },
+    {
+      "text": "to",
+      "start": 20.863,
+      "end": 20.938,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 20.95,
+      "end": 21.062,
+      "duration": 0.113
+    },
+    {
+      "text": "genus",
+      "start": 21.075,
+      "end": 21.438,
+      "duration": 0.362
+    },
+    {
+      "text": "Vitis",
+      "start": 21.45,
+      "end": 21.962,
+      "duration": 0.512
+    },
+    {
+      "text": "which",
+      "start": 22.212,
+      "end": 22.375,
+      "duration": 0.163
+    },
+    {
+      "text": "includes",
+      "start": 22.387,
+      "end": 22.825,
+      "duration": 0.438
+    },
+    {
+      "text": "about",
+      "start": 22.837,
+      "end": 23.125,
+      "duration": 0.287
+    },
+    {
+      "text": "79",
+      "start": 23.137,
+      "end": 23.825,
+      "duration": 0.688
+    },
+    {
+      "text": "accepted",
+      "start": 23.837,
+      "end": 24.312,
+      "duration": 0.475
+    },
+    {
+      "text": "species",
+      "start": 24.325,
+      "end": 24.938,
+      "duration": 0.613
+    },
+    {
+      "text": "however",
+      "start": 25.212,
+      "end": 25.675,
+      "duration": 0.463
+    },
+    {
+      "text": "most",
+      "start": 25.988,
+      "end": 26.275,
+      "duration": 0.287
+    },
+    {
+      "text": "cultivated",
+      "start": 26.288,
+      "end": 26.863,
+      "duration": 0.575
+    },
+    {
+      "text": "grapes",
+      "start": 26.875,
+      "end": 27.225,
+      "duration": 0.35
+    },
+    {
+      "text": "around",
+      "start": 27.238,
+      "end": 27.55,
+      "duration": 0.312
+    },
+    {
+      "text": "the",
+      "start": 27.562,
+      "end": 27.637,
+      "duration": 0.075
+    },
+    {
+      "text": "world",
+      "start": 27.65,
+      "end": 28.025,
+      "duration": 0.375
+    },
+    {
+      "text": "are",
+      "start": 28.038,
+      "end": 28.175,
+      "duration": 0.138
+    },
+    {
+      "text": "varieties",
+      "start": 28.188,
+      "end": 28.825,
+      "duration": 0.637
+    },
+    {
+      "text": "of",
+      "start": 28.837,
+      "end": 28.925,
+      "duration": 0.087
+    },
+    {
+      "text": "Vitis",
+      "start": 28.938,
+      "end": 29.275,
+      "duration": 0.338
+    },
+    {
+      "text": "vinifera",
+      "start": 29.288,
+      "end": 29.887,
+      "duration": 0.6
+    },
+    {
+      "text": "due",
+      "start": 29.9,
+      "end": 30.075,
+      "duration": 0.175
+    },
+    {
+      "text": "to",
+      "start": 30.087,
+      "end": 30.2,
+      "duration": 0.113
+    },
+    {
+      "text": "its",
+      "start": 30.212,
+      "end": 30.363,
+      "duration": 0.15
+    },
+    {
+      "text": "high",
+      "start": 30.375,
+      "end": 30.6,
+      "duration": 0.225
+    },
+    {
+      "text": "morphological",
+      "start": 30.613,
+      "end": 31.475,
+      "duration": 0.863
+    },
+    {
+      "text": "and",
+      "start": 31.488,
+      "end": 31.587,
+      "duration": 0.1
+    },
+    {
+      "text": "genetic",
+      "start": 31.6,
+      "end": 32.025,
+      "duration": 0.425
+    },
+    {
+      "text": "diversity",
+      "start": 32.038,
+      "end": 32.638,
+      "duration": 0.6
+    },
+    {
+      "text": "with",
+      "start": 32.987,
+      "end": 33.2,
+      "duration": 0.212
+    },
+    {
+      "text": "more",
+      "start": 33.212,
+      "end": 33.45,
+      "duration": 0.237
+    },
+    {
+      "text": "than",
+      "start": 33.462,
+      "end": 33.6,
+      "duration": 0.138
+    },
+    {
+      "text": "10,000",
+      "start": 33.612,
+      "end": 34.312,
+      "duration": 0.7
+    },
+    {
+      "text": "cultivars",
+      "start": 34.325,
+      "end": 34.987,
+      "duration": 0.662
+    },
+    {
+      "text": "including",
+      "start": 35.263,
+      "end": 35.775,
+      "duration": 0.512
+    },
+    {
+      "text": "seedless",
+      "start": 35.788,
+      "end": 36.312,
+      "duration": 0.525
+    },
+    {
+      "text": "and",
+      "start": 36.325,
+      "end": 36.475,
+      "duration": 0.15
+    },
+    {
+      "text": "nonseedless",
+      "start": 36.487,
+      "end": 37.2,
+      "duration": 0.713
+    },
+    {
+      "text": "varieties",
+      "start": 37.212,
+      "end": 37.875,
+      "duration": 0.662
+    },
+    {
+      "text": "in",
+      "start": 37.888,
+      "end": 38.087,
+      "duration": 0.2
+    },
+    {
+      "text": "white",
+      "start": 38.1,
+      "end": 38.375,
+      "duration": 0.275
+    },
+    {
+      "text": "black",
+      "start": 38.587,
+      "end": 39.0,
+      "duration": 0.412
+    },
+    {
+      "text": "and",
+      "start": 39.188,
+      "end": 39.312,
+      "duration": 0.125
+    },
+    {
+      "text": "red",
+      "start": 39.325,
+      "end": 39.538,
+      "duration": 0.212
+    },
+    {
+      "text": "colors",
+      "start": 39.55,
+      "end": 40.125,
+      "duration": 0.575
+    },
+    {
+      "text": "Vitis",
+      "start": 41.0,
+      "end": 41.487,
+      "duration": 0.487
+    },
+    {
+      "text": "vinifera",
+      "start": 41.5,
+      "end": 42.087,
+      "duration": 0.588
+    },
+    {
+      "text": "contains",
+      "start": 42.1,
+      "end": 42.587,
+      "duration": 0.487
+    },
+    {
+      "text": "several",
+      "start": 42.6,
+      "end": 42.962,
+      "duration": 0.362
+    },
+    {
+      "text": "phenolic",
+      "start": 42.975,
+      "end": 43.438,
+      "duration": 0.463
+    },
+    {
+      "text": "compounds",
+      "start": 43.45,
+      "end": 44.112,
+      "duration": 0.662
+    },
+    {
+      "text": "and",
+      "start": 44.125,
+      "end": 44.388,
+      "duration": 0.263
+    },
+    {
+      "text": "aromatic",
+      "start": 44.4,
+      "end": 44.938,
+      "duration": 0.537
+    },
+    {
+      "text": "compounds",
+      "start": 44.95,
+      "end": 45.638,
+      "duration": 0.688
+    },
+    {
+      "text": "which",
+      "start": 45.925,
+      "end": 46.1,
+      "duration": 0.175
+    },
+    {
+      "text": "contribute",
+      "start": 46.112,
+      "end": 46.663,
+      "duration": 0.55
+    },
+    {
+      "text": "to",
+      "start": 46.675,
+      "end": 46.75,
+      "duration": 0.075
+    },
+    {
+      "text": "their",
+      "start": 46.763,
+      "end": 46.925,
+      "duration": 0.163
+    },
+    {
+      "text": "characteristic",
+      "start": 46.938,
+      "end": 47.663,
+      "duration": 0.725
+    },
+    {
+      "text": "color",
+      "start": 47.675,
+      "end": 48.05,
+      "duration": 0.375
+    },
+    {
+      "text": "organoleptic",
+      "start": 48.275,
+      "end": 49.0,
+      "duration": 0.725
+    },
+    {
+      "text": "properties",
+      "start": 49.013,
+      "end": 49.612,
+      "duration": 0.6
+    },
+    {
+      "text": "nutritional",
+      "start": 49.837,
+      "end": 50.4,
+      "duration": 0.562
+    },
+    {
+      "text": "value",
+      "start": 50.413,
+      "end": 50.85,
+      "duration": 0.438
+    },
+    {
+      "text": "and",
+      "start": 51.125,
+      "end": 51.375,
+      "duration": 0.25
+    },
+    {
+      "text": "antioxidant",
+      "start": 51.388,
+      "end": 52.225,
+      "duration": 0.838
+    },
+    {
+      "text": "properties",
+      "start": 52.237,
+      "end": 52.837,
+      "duration": 0.6
+    },
+    {
+      "text": "and",
+      "start": 52.85,
+      "end": 53.062,
+      "duration": 0.212
+    },
+    {
+      "text": "provide",
+      "start": 53.075,
+      "end": 53.525,
+      "duration": 0.45
+    },
+    {
+      "text": "protection",
+      "start": 53.538,
+      "end": 54.1,
+      "duration": 0.562
+    },
+    {
+      "text": "against",
+      "start": 54.112,
+      "end": 54.487,
+      "duration": 0.375
+    },
+    {
+      "text": "environmental",
+      "start": 54.5,
+      "end": 55.188,
+      "duration": 0.688
+    },
+    {
+      "text": "challenges",
+      "start": 55.2,
+      "end": 55.987,
+      "duration": 0.787
+    },
+    {
+      "text": "All",
+      "start": 56.85,
+      "end": 57.1,
+      "duration": 0.25
+    },
+    {
+      "text": "phenolic",
+      "start": 57.112,
+      "end": 57.562,
+      "duration": 0.45
+    },
+    {
+      "text": "compounds",
+      "start": 57.575,
+      "end": 58.2,
+      "duration": 0.625
+    },
+    {
+      "text": "have",
+      "start": 58.212,
+      "end": 58.388,
+      "duration": 0.175
+    },
+    {
+      "text": "some",
+      "start": 58.4,
+      "end": 58.612,
+      "duration": 0.212
+    },
+    {
+      "text": "common",
+      "start": 58.625,
+      "end": 58.975,
+      "duration": 0.35
+    },
+    {
+      "text": "features",
+      "start": 58.987,
+      "end": 59.538,
+      "duration": 0.55
+    },
+    {
+      "text": "such",
+      "start": 59.9,
+      "end": 60.1,
+      "duration": 0.2
+    },
+    {
+      "text": "as",
+      "start": 60.112,
+      "end": 60.188,
+      "duration": 0.075
+    },
+    {
+      "text": "an",
+      "start": 60.2,
+      "end": 60.375,
+      "duration": 0.175
+    },
+    {
+      "text": "aromatic",
+      "start": 60.388,
+      "end": 60.962,
+      "duration": 0.575
+    },
+    {
+      "text": "ring",
+      "start": 60.975,
+      "end": 61.3,
+      "duration": 0.325
+    },
+    {
+      "text": "composed",
+      "start": 61.312,
+      "end": 61.812,
+      "duration": 0.5
+    },
+    {
+      "text": "of",
+      "start": 61.825,
+      "end": 61.9,
+      "duration": 0.075
+    },
+    {
+      "text": "six",
+      "start": 61.913,
+      "end": 62.225,
+      "duration": 0.312
+    },
+    {
+      "text": "carbon",
+      "start": 62.237,
+      "end": 62.6,
+      "duration": 0.362
+    },
+    {
+      "text": "atoms",
+      "start": 62.612,
+      "end": 63.013,
+      "duration": 0.4
+    },
+    {
+      "text": "with",
+      "start": 63.025,
+      "end": 63.163,
+      "duration": 0.138
+    },
+    {
+      "text": "one",
+      "start": 63.175,
+      "end": 63.413,
+      "duration": 0.237
+    },
+    {
+      "text": "or",
+      "start": 63.425,
+      "end": 63.5,
+      "duration": 0.075
+    },
+    {
+      "text": "more",
+      "start": 63.513,
+      "end": 63.725,
+      "duration": 0.212
+    },
+    {
+      "text": "hydroxyl",
+      "start": 63.737,
+      "end": 64.312,
+      "duration": 0.575
+    },
+    {
+      "text": "groups",
+      "start": 64.325,
+      "end": 64.7,
+      "duration": 0.375
+    },
+    {
+      "text": "or",
+      "start": 64.713,
+      "end": 64.888,
+      "duration": 0.175
+    },
+    {
+      "text": "their",
+      "start": 64.9,
+      "end": 65.025,
+      "duration": 0.125
+    },
+    {
+      "text": "derivatives",
+      "start": 65.037,
+      "end": 65.775,
+      "duration": 0.738
+    },
+    {
+      "text": "Their",
+      "start": 66.638,
+      "end": 66.888,
+      "duration": 0.25
+    },
+    {
+      "text": "susceptibility",
+      "start": 66.9,
+      "end": 67.725,
+      "duration": 0.825
+    },
+    {
+      "text": "to",
+      "start": 67.737,
+      "end": 67.875,
+      "duration": 0.138
+    },
+    {
+      "text": "oxidation",
+      "start": 67.888,
+      "end": 68.7,
+      "duration": 0.812
+    },
+    {
+      "text": "due",
+      "start": 68.713,
+      "end": 68.862,
+      "duration": 0.15
+    },
+    {
+      "text": "to",
+      "start": 68.875,
+      "end": 68.975,
+      "duration": 0.1
+    },
+    {
+      "text": "unsaturated",
+      "start": 68.987,
+      "end": 69.862,
+      "duration": 0.875
+    },
+    {
+      "text": "double",
+      "start": 69.875,
+      "end": 70.188,
+      "duration": 0.312
+    },
+    {
+      "text": "bonds",
+      "start": 70.2,
+      "end": 70.638,
+      "duration": 0.438
+    },
+    {
+      "text": "and",
+      "start": 70.65,
+      "end": 70.838,
+      "duration": 0.188
+    },
+    {
+      "text": "hydroxyl",
+      "start": 70.85,
+      "end": 71.5,
+      "duration": 0.65
+    },
+    {
+      "text": "groups",
+      "start": 71.513,
+      "end": 71.875,
+      "duration": 0.362
+    },
+    {
+      "text": "make",
+      "start": 71.888,
+      "end": 72.112,
+      "duration": 0.225
+    },
+    {
+      "text": "phenolic",
+      "start": 72.125,
+      "end": 72.6,
+      "duration": 0.475
+    },
+    {
+      "text": "compounds",
+      "start": 72.612,
+      "end": 73.213,
+      "duration": 0.6
+    },
+    {
+      "text": "valuable",
+      "start": 73.225,
+      "end": 73.737,
+      "duration": 0.512
+    },
+    {
+      "text": "antioxidants",
+      "start": 73.75,
+      "end": 74.8,
+      "duration": 1.05
+    },
+    {
+      "text": "The",
+      "start": 75.675,
+      "end": 75.838,
+      "duration": 0.163
+    },
+    {
+      "text": "higher",
+      "start": 75.85,
+      "end": 76.188,
+      "duration": 0.338
+    },
+    {
+      "text": "the",
+      "start": 76.2,
+      "end": 76.3,
+      "duration": 0.1
+    },
+    {
+      "text": "total",
+      "start": 76.312,
+      "end": 76.675,
+      "duration": 0.362
+    },
+    {
+      "text": "phenolic",
+      "start": 76.688,
+      "end": 77.138,
+      "duration": 0.45
+    },
+    {
+      "text": "content",
+      "start": 77.15,
+      "end": 77.688,
+      "duration": 0.537
+    },
+    {
+      "text": "the",
+      "start": 78.0,
+      "end": 78.1,
+      "duration": 0.1
+    },
+    {
+      "text": "higher",
+      "start": 78.112,
+      "end": 78.438,
+      "duration": 0.325
+    },
+    {
+      "text": "the",
+      "start": 78.45,
+      "end": 78.55,
+      "duration": 0.1
+    },
+    {
+      "text": "antioxidant",
+      "start": 78.562,
+      "end": 79.35,
+      "duration": 0.787
+    },
+    {
+      "text": "activity",
+      "start": 79.362,
+      "end": 79.975,
+      "duration": 0.613
+    },
+    {
+      "text": "and",
+      "start": 80.25,
+      "end": 80.425,
+      "duration": 0.175
+    },
+    {
+      "text": "phenolic",
+      "start": 80.438,
+      "end": 80.9,
+      "duration": 0.463
+    },
+    {
+      "text": "content",
+      "start": 80.912,
+      "end": 81.45,
+      "duration": 0.537
+    },
+    {
+      "text": "is",
+      "start": 81.463,
+      "end": 81.562,
+      "duration": 0.1
+    },
+    {
+      "text": "a",
+      "start": 81.575,
+      "end": 81.638,
+      "duration": 0.062
+    },
+    {
+      "text": "genotypic",
+      "start": 81.65,
+      "end": 82.287,
+      "duration": 0.637
+    },
+    {
+      "text": "character",
+      "start": 82.3,
+      "end": 82.912,
+      "duration": 0.613
+    },
+    {
+      "text": "One",
+      "start": 83.775,
+      "end": 84.1,
+      "duration": 0.325
+    },
+    {
+      "text": "study",
+      "start": 84.112,
+      "end": 84.487,
+      "duration": 0.375
+    },
+    {
+      "text": "showed",
+      "start": 84.5,
+      "end": 84.763,
+      "duration": 0.263
+    },
+    {
+      "text": "a",
+      "start": 84.775,
+      "end": 84.825,
+      "duration": 0.05
+    },
+    {
+      "text": "strong",
+      "start": 84.838,
+      "end": 85.225,
+      "duration": 0.388
+    },
+    {
+      "text": "correlation",
+      "start": 85.237,
+      "end": 85.925,
+      "duration": 0.688
+    },
+    {
+      "text": "between",
+      "start": 85.938,
+      "end": 86.275,
+      "duration": 0.338
+    },
+    {
+      "text": "the",
+      "start": 86.287,
+      "end": 86.375,
+      "duration": 0.087
+    },
+    {
+      "text": "phenolic",
+      "start": 86.388,
+      "end": 86.85,
+      "duration": 0.463
+    },
+    {
+      "text": "composition",
+      "start": 86.862,
+      "end": 87.55,
+      "duration": 0.688
+    },
+    {
+      "text": "of",
+      "start": 87.562,
+      "end": 87.688,
+      "duration": 0.125
+    },
+    {
+      "text": "different",
+      "start": 87.7,
+      "end": 88.025,
+      "duration": 0.325
+    },
+    {
+      "text": "varieties",
+      "start": 88.037,
+      "end": 88.662,
+      "duration": 0.625
+    },
+    {
+      "text": "of",
+      "start": 88.675,
+      "end": 88.763,
+      "duration": 0.087
+    },
+    {
+      "text": "Vitis",
+      "start": 88.775,
+      "end": 89.125,
+      "duration": 0.35
+    },
+    {
+      "text": "vinifera",
+      "start": 89.138,
+      "end": 89.688,
+      "duration": 0.55
+    },
+    {
+      "text": "including",
+      "start": 90.037,
+      "end": 90.537,
+      "duration": 0.5
+    },
+    {
+      "text": "Syrah",
+      "start": 90.55,
+      "end": 91.013,
+      "duration": 0.463
+    },
+    {
+      "text": "Merlot",
+      "start": 91.2,
+      "end": 91.662,
+      "duration": 0.463
+    },
+    {
+      "text": "and",
+      "start": 91.95,
+      "end": 92.125,
+      "duration": 0.175
+    },
+    {
+      "text": "Cabernet",
+      "start": 92.138,
+      "end": 92.625,
+      "duration": 0.487
+    },
+    {
+      "text": "Sauvignon",
+      "start": 92.638,
+      "end": 93.287,
+      "duration": 0.65
+    },
+    {
+      "text": "and",
+      "start": 93.5,
+      "end": 93.688,
+      "duration": 0.188
+    },
+    {
+      "text": "antioxidant",
+      "start": 93.7,
+      "end": 94.513,
+      "duration": 0.812
+    },
+    {
+      "text": "capacity",
+      "start": 94.525,
+      "end": 95.162,
+      "duration": 0.637
+    },
+    {
+      "text": "measured",
+      "start": 95.5,
+      "end": 95.85,
+      "duration": 0.35
+    },
+    {
+      "text": "by",
+      "start": 95.862,
+      "end": 96.013,
+      "duration": 0.15
+    },
+    {
+      "text": "ferric-reducing",
+      "start": 96.025,
+      "end": 96.9,
+      "duration": 0.875
+    },
+    {
+      "text": "antioxidant",
+      "start": 96.912,
+      "end": 97.675,
+      "duration": 0.762
+    },
+    {
+      "text": "power",
+      "start": 97.688,
+      "end": 98.112,
+      "duration": 0.425
+    },
+    {
+      "text": "ABTS",
+      "start": 98.475,
+      "end": 99.325,
+      "duration": 0.85
+    },
+    {
+      "text": "and",
+      "start": 99.5,
+      "end": 99.675,
+      "duration": 0.175
+    },
+    {
+      "text": "D",
+      "start": 99.688,
+      "end": 99.888,
+      "duration": 0.2
+    },
+    {
+      "text": "P",
+      "start": 99.9,
+      "end": 100.138,
+      "duration": 0.237
+    },
+    {
+      "text": "P",
+      "start": 100.15,
+      "end": 100.375,
+      "duration": 0.225
+    },
+    {
+      "text": "H",
+      "start": 100.388,
+      "end": 100.6,
+      "duration": 0.212
+    },
+    {
+      "text": "assays",
+      "start": 100.612,
+      "end": 101.125,
+      "duration": 0.512
+    },
+    {
+      "text": "with",
+      "start": 101.35,
+      "end": 101.525,
+      "duration": 0.175
+    },
+    {
+      "text": "quantitative",
+      "start": 101.537,
+      "end": 102.225,
+      "duration": 0.688
+    },
+    {
+      "text": "differences",
+      "start": 102.237,
+      "end": 102.825,
+      "duration": 0.588
+    },
+    {
+      "text": "in",
+      "start": 102.838,
+      "end": 103.0,
+      "duration": 0.163
+    },
+    {
+      "text": "antioxidant",
+      "start": 103.013,
+      "end": 103.763,
+      "duration": 0.75
+    },
+    {
+      "text": "capacity",
+      "start": 103.775,
+      "end": 104.412,
+      "duration": 0.637
+    },
+    {
+      "text": "based",
+      "start": 104.425,
+      "end": 104.787,
+      "duration": 0.362
+    },
+    {
+      "text": "on",
+      "start": 104.8,
+      "end": 104.912,
+      "duration": 0.113
+    },
+    {
+      "text": "phenolic",
+      "start": 104.925,
+      "end": 105.388,
+      "duration": 0.463
+    },
+    {
+      "text": "compound",
+      "start": 105.4,
+      "end": 105.95,
+      "duration": 0.55
+    },
+    {
+      "text": "content",
+      "start": 105.963,
+      "end": 106.6,
+      "duration": 0.637
+    },
+    {
+      "text": "Similarly",
+      "start": 107.463,
+      "end": 108.188,
+      "duration": 0.725
+    },
+    {
+      "text": "a",
+      "start": 108.45,
+      "end": 108.5,
+      "duration": 0.05
+    },
+    {
+      "text": "close",
+      "start": 108.513,
+      "end": 108.838,
+      "duration": 0.325
+    },
+    {
+      "text": "relationship",
+      "start": 108.85,
+      "end": 109.588,
+      "duration": 0.738
+    },
+    {
+      "text": "between",
+      "start": 109.6,
+      "end": 109.925,
+      "duration": 0.325
+    },
+    {
+      "text": "high",
+      "start": 109.938,
+      "end": 110.188,
+      "duration": 0.25
+    },
+    {
+      "text": "phenolic",
+      "start": 110.2,
+      "end": 110.638,
+      "duration": 0.438
+    },
+    {
+      "text": "composition",
+      "start": 110.65,
+      "end": 111.412,
+      "duration": 0.762
+    },
+    {
+      "text": "and",
+      "start": 111.425,
+      "end": 111.525,
+      "duration": 0.1
+    },
+    {
+      "text": "high-quality",
+      "start": 111.537,
+      "end": 112.162,
+      "duration": 0.625
+    },
+    {
+      "text": "wines",
+      "start": 112.175,
+      "end": 112.6,
+      "duration": 0.425
+    },
+    {
+      "text": "has",
+      "start": 112.612,
+      "end": 112.775,
+      "duration": 0.163
+    },
+    {
+      "text": "been",
+      "start": 112.787,
+      "end": 112.938,
+      "duration": 0.15
+    },
+    {
+      "text": "reported",
+      "start": 112.95,
+      "end": 113.55,
+      "duration": 0.6
+    },
+    {
+      "text": "Therefore",
+      "start": 114.412,
+      "end": 115.05,
+      "duration": 0.637
+    },
+    {
+      "text": "the",
+      "start": 115.25,
+      "end": 115.35,
+      "duration": 0.1
+    },
+    {
+      "text": "phenolic",
+      "start": 115.362,
+      "end": 115.825,
+      "duration": 0.463
+    },
+    {
+      "text": "composition",
+      "start": 115.838,
+      "end": 116.513,
+      "duration": 0.675
+    },
+    {
+      "text": "of",
+      "start": 116.525,
+      "end": 116.625,
+      "duration": 0.1
+    },
+    {
+      "text": "grapes",
+      "start": 116.638,
+      "end": 117.037,
+      "duration": 0.4
+    },
+    {
+      "text": "is",
+      "start": 117.05,
+      "end": 117.162,
+      "duration": 0.113
+    },
+    {
+      "text": "associated",
+      "start": 117.175,
+      "end": 117.875,
+      "duration": 0.7
+    },
+    {
+      "text": "with",
+      "start": 117.888,
+      "end": 118.013,
+      "duration": 0.125
+    },
+    {
+      "text": "their",
+      "start": 118.025,
+      "end": 118.162,
+      "duration": 0.138
+    },
+    {
+      "text": "nutritional",
+      "start": 118.175,
+      "end": 118.912,
+      "duration": 0.738
+    },
+    {
+      "text": "and",
+      "start": 118.925,
+      "end": 119.05,
+      "duration": 0.125
+    },
+    {
+      "text": "quality",
+      "start": 119.062,
+      "end": 119.487,
+      "duration": 0.425
+    },
+    {
+      "text": "properties",
+      "start": 119.5,
+      "end": 120.275,
+      "duration": 0.775
+    },
+    {
+      "text": "A",
+      "start": 121.138,
+      "end": 121.263,
+      "duration": 0.125
+    },
+    {
+      "text": "comparison",
+      "start": 121.275,
+      "end": 121.938,
+      "duration": 0.662
+    },
+    {
+      "text": "between",
+      "start": 121.95,
+      "end": 122.312,
+      "duration": 0.362
+    },
+    {
+      "text": "30",
+      "start": 122.325,
+      "end": 122.638,
+      "duration": 0.312
+    },
+    {
+      "text": "grape",
+      "start": 122.65,
+      "end": 122.925,
+      "duration": 0.275
+    },
+    {
+      "text": "varieties",
+      "start": 122.938,
+      "end": 123.575,
+      "duration": 0.637
+    },
+    {
+      "text": "reported",
+      "start": 123.588,
+      "end": 124.037,
+      "duration": 0.45
+    },
+    {
+      "text": "diverse",
+      "start": 124.05,
+      "end": 124.45,
+      "duration": 0.4
+    },
+    {
+      "text": "antioxidant",
+      "start": 124.463,
+      "end": 125.263,
+      "duration": 0.8
+    },
+    {
+      "text": "capacity",
+      "start": 125.275,
+      "end": 125.925,
+      "duration": 0.65
+    },
+    {
+      "text": "measured",
+      "start": 126.388,
+      "end": 126.725,
+      "duration": 0.338
+    },
+    {
+      "text": "by",
+      "start": 126.737,
+      "end": 126.888,
+      "duration": 0.15
+    },
+    {
+      "text": "ferric-reducing",
+      "start": 126.9,
+      "end": 127.763,
+      "duration": 0.863
+    },
+    {
+      "text": "antioxidant",
+      "start": 127.775,
+      "end": 128.562,
+      "duration": 0.787
+    },
+    {
+      "text": "power",
+      "start": 128.575,
+      "end": 129.025,
+      "duration": 0.45
+    },
+    {
+      "text": "Trolox",
+      "start": 129.387,
+      "end": 129.9,
+      "duration": 0.512
+    },
+    {
+      "text": "equivalent",
+      "start": 129.912,
+      "end": 130.488,
+      "duration": 0.575
+    },
+    {
+      "text": "antioxidant",
+      "start": 130.5,
+      "end": 131.262,
+      "duration": 0.762
+    },
+    {
+      "text": "capacity",
+      "start": 131.275,
+      "end": 131.938,
+      "duration": 0.662
+    },
+    {
+      "text": "total",
+      "start": 132.25,
+      "end": 132.562,
+      "duration": 0.312
+    },
+    {
+      "text": "phenolic",
+      "start": 132.575,
+      "end": 133.0,
+      "duration": 0.425
+    },
+    {
+      "text": "content",
+      "start": 133.012,
+      "end": 133.55,
+      "duration": 0.537
+    },
+    {
+      "text": "and",
+      "start": 133.762,
+      "end": 133.9,
+      "duration": 0.138
+    },
+    {
+      "text": "total",
+      "start": 133.912,
+      "end": 134.262,
+      "duration": 0.35
+    },
+    {
+      "text": "flavonoid",
+      "start": 134.275,
+      "end": 134.863,
+      "duration": 0.588
+    },
+    {
+      "text": "content",
+      "start": 134.875,
+      "end": 135.525,
+      "duration": 0.65
+    },
+    {
+      "text": "Several",
+      "start": 136.387,
+      "end": 136.887,
+      "duration": 0.5
+    },
+    {
+      "text": "antioxidants",
+      "start": 136.9,
+      "end": 137.75,
+      "duration": 0.85
+    },
+    {
+      "text": "were",
+      "start": 137.762,
+      "end": 137.887,
+      "duration": 0.125
+    },
+    {
+      "text": "identified",
+      "start": 137.9,
+      "end": 138.562,
+      "duration": 0.662
+    },
+    {
+      "text": "and",
+      "start": 138.575,
+      "end": 138.675,
+      "duration": 0.1
+    },
+    {
+      "text": "quantified",
+      "start": 138.688,
+      "end": 139.4,
+      "duration": 0.713
+    },
+    {
+      "text": "including",
+      "start": 139.7,
+      "end": 140.213,
+      "duration": 0.512
+    },
+    {
+      "text": "caffeic",
+      "start": 140.225,
+      "end": 140.775,
+      "duration": 0.55
+    },
+    {
+      "text": "acid",
+      "start": 140.787,
+      "end": 141.225,
+      "duration": 0.438
+    },
+    {
+      "text": "catechin",
+      "start": 141.425,
+      "end": 141.925,
+      "duration": 0.5
+    },
+    {
+      "text": "gallate",
+      "start": 141.938,
+      "end": 142.412,
+      "duration": 0.475
+    },
+    {
+      "text": "epicatechin",
+      "start": 142.575,
+      "end": 143.3,
+      "duration": 0.725
+    },
+    {
+      "text": "gallic",
+      "start": 143.488,
+      "end": 143.85,
+      "duration": 0.362
+    },
+    {
+      "text": "acid",
+      "start": 143.863,
+      "end": 144.275,
+      "duration": 0.412
+    },
+    {
+      "text": "protocatechuic",
+      "start": 144.537,
+      "end": 145.412,
+      "duration": 0.875
+    },
+    {
+      "text": "acid",
+      "start": 145.425,
+      "end": 145.838,
+      "duration": 0.412
+    },
+    {
+      "text": "and",
+      "start": 146.025,
+      "end": 146.213,
+      "duration": 0.188
+    },
+    {
+      "text": "rutin",
+      "start": 146.225,
+      "end": 146.6,
+      "duration": 0.375
+    },
+    {
+      "text": "which",
+      "start": 146.887,
+      "end": 147.15,
+      "duration": 0.263
+    },
+    {
+      "text": "could",
+      "start": 147.162,
+      "end": 147.338,
+      "duration": 0.175
+    },
+    {
+      "text": "contribute",
+      "start": 147.35,
+      "end": 147.9,
+      "duration": 0.55
+    },
+    {
+      "text": "to",
+      "start": 147.912,
+      "end": 147.988,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 148.0,
+      "end": 148.113,
+      "duration": 0.113
+    },
+    {
+      "text": "antioxidant",
+      "start": 148.125,
+      "end": 148.938,
+      "duration": 0.812
+    },
+    {
+      "text": "activities",
+      "start": 148.95,
+      "end": 149.575,
+      "duration": 0.625
+    },
+    {
+      "text": "of",
+      "start": 149.588,
+      "end": 149.662,
+      "duration": 0.075
+    },
+    {
+      "text": "grapes",
+      "start": 149.675,
+      "end": 150.113,
+      "duration": 0.438
+    },
+    {
+      "text": "and",
+      "start": 150.125,
+      "end": 150.325,
+      "duration": 0.2
+    },
+    {
+      "text": "their",
+      "start": 150.338,
+      "end": 150.512,
+      "duration": 0.175
+    },
+    {
+      "text": "effects",
+      "start": 150.525,
+      "end": 150.95,
+      "duration": 0.425
+    },
+    {
+      "text": "on",
+      "start": 150.963,
+      "end": 151.088,
+      "duration": 0.125
+    },
+    {
+      "text": "different",
+      "start": 151.1,
+      "end": 151.425,
+      "duration": 0.325
+    },
+    {
+      "text": "diseases",
+      "start": 151.438,
+      "end": 152.1,
+      "duration": 0.662
+    },
+    {
+      "text": "Phenolic",
+      "start": 152.963,
+      "end": 153.488,
+      "duration": 0.525
+    },
+    {
+      "text": "compounds",
+      "start": 153.5,
+      "end": 154.062,
+      "duration": 0.562
+    },
+    {
+      "text": "of",
+      "start": 154.075,
+      "end": 154.15,
+      "duration": 0.075
+    },
+    {
+      "text": "grapes",
+      "start": 154.162,
+      "end": 154.525,
+      "duration": 0.362
+    },
+    {
+      "text": "are",
+      "start": 154.537,
+      "end": 154.625,
+      "duration": 0.087
+    },
+    {
+      "text": "divided",
+      "start": 154.637,
+      "end": 155.062,
+      "duration": 0.425
+    },
+    {
+      "text": "into",
+      "start": 155.075,
+      "end": 155.3,
+      "duration": 0.225
+    },
+    {
+      "text": "two",
+      "start": 155.312,
+      "end": 155.537,
+      "duration": 0.225
+    },
+    {
+      "text": "groups",
+      "start": 155.55,
+      "end": 156.0,
+      "duration": 0.45
+    },
+    {
+      "text": "first",
+      "start": 156.238,
+      "end": 156.662,
+      "duration": 0.425
+    },
+    {
+      "text": "nonflavonoids",
+      "start": 156.838,
+      "end": 157.812,
+      "duration": 0.975
+    },
+    {
+      "text": "characterized",
+      "start": 158.05,
+      "end": 158.8,
+      "duration": 0.75
+    },
+    {
+      "text": "by",
+      "start": 158.812,
+      "end": 158.938,
+      "duration": 0.125
+    },
+    {
+      "text": "having",
+      "start": 158.95,
+      "end": 159.3,
+      "duration": 0.35
+    },
+    {
+      "text": "a",
+      "start": 159.312,
+      "end": 159.375,
+      "duration": 0.062
+    },
+    {
+      "text": "simple",
+      "start": 159.387,
+      "end": 159.738,
+      "duration": 0.35
+    },
+    {
+      "text": "C6",
+      "start": 159.75,
+      "end": 160.275,
+      "duration": 0.525
+    },
+    {
+      "text": "backbone",
+      "start": 160.287,
+      "end": 160.863,
+      "duration": 0.575
+    },
+    {
+      "text": "including",
+      "start": 161.125,
+      "end": 161.625,
+      "duration": 0.5
+    },
+    {
+      "text": "hydroxybenzoic",
+      "start": 161.637,
+      "end": 162.688,
+      "duration": 1.05
+    },
+    {
+      "text": "acids",
+      "start": 162.7,
+      "end": 163.213,
+      "duration": 0.512
+    },
+    {
+      "text": "hydroxycinnamic",
+      "start": 163.512,
+      "end": 164.5,
+      "duration": 0.988
+    },
+    {
+      "text": "acids",
+      "start": 164.512,
+      "end": 165.025,
+      "duration": 0.512
+    },
+    {
+      "text": "volatile",
+      "start": 165.2,
+      "end": 165.65,
+      "duration": 0.45
+    },
+    {
+      "text": "phenols",
+      "start": 165.662,
+      "end": 166.225,
+      "duration": 0.562
+    },
+    {
+      "text": "and",
+      "start": 166.425,
+      "end": 166.6,
+      "duration": 0.175
+    },
+    {
+      "text": "stilbenes",
+      "start": 166.613,
+      "end": 167.325,
+      "duration": 0.713
+    },
+    {
+      "text": "and",
+      "start": 167.488,
+      "end": 167.65,
+      "duration": 0.163
+    },
+    {
+      "text": "second",
+      "start": 167.662,
+      "end": 168.113,
+      "duration": 0.45
+    },
+    {
+      "text": "flavonoid",
+      "start": 168.438,
+      "end": 169.075,
+      "duration": 0.637
+    },
+    {
+      "text": "compounds",
+      "start": 169.088,
+      "end": 169.762,
+      "duration": 0.675
+    },
+    {
+      "text": "composed",
+      "start": 169.988,
+      "end": 170.475,
+      "duration": 0.487
+    },
+    {
+      "text": "of",
+      "start": 170.488,
+      "end": 170.562,
+      "duration": 0.075
+    },
+    {
+      "text": "15",
+      "start": 170.575,
+      "end": 171.088,
+      "duration": 0.512
+    },
+    {
+      "text": "carbon",
+      "start": 171.1,
+      "end": 171.475,
+      "duration": 0.375
+    },
+    {
+      "text": "atoms",
+      "start": 171.488,
+      "end": 171.9,
+      "duration": 0.412
+    },
+    {
+      "text": "flavones",
+      "start": 172.113,
+      "end": 172.738,
+      "duration": 0.625
+    },
+    {
+      "text": "flavonols",
+      "start": 172.912,
+      "end": 173.6,
+      "duration": 0.688
+    },
+    {
+      "text": "flavanones",
+      "start": 173.787,
+      "end": 174.525,
+      "duration": 0.738
+    },
+    {
+      "text": "flavan-3-ols",
+      "start": 174.725,
+      "end": 175.787,
+      "duration": 1.062
+    },
+    {
+      "text": "and",
+      "start": 175.963,
+      "end": 176.162,
+      "duration": 0.2
+    },
+    {
+      "text": "anthocyanins",
+      "start": 176.175,
+      "end": 177.2,
+      "duration": 1.025
+    },
+    {
+      "text": "The",
+      "start": 178.075,
+      "end": 178.25,
+      "duration": 0.175
+    },
+    {
+      "text": "generic",
+      "start": 178.262,
+      "end": 178.738,
+      "duration": 0.475
+    },
+    {
+      "text": "structure",
+      "start": 178.75,
+      "end": 179.238,
+      "duration": 0.487
+    },
+    {
+      "text": "of",
+      "start": 179.25,
+      "end": 179.325,
+      "duration": 0.075
+    },
+    {
+      "text": "flavonoids",
+      "start": 179.338,
+      "end": 180.025,
+      "duration": 0.688
+    },
+    {
+      "text": "consists",
+      "start": 180.037,
+      "end": 180.55,
+      "duration": 0.512
+    },
+    {
+      "text": "of",
+      "start": 180.562,
+      "end": 180.662,
+      "duration": 0.1
+    },
+    {
+      "text": "two",
+      "start": 180.675,
+      "end": 180.938,
+      "duration": 0.263
+    },
+    {
+      "text": "aromatic",
+      "start": 180.95,
+      "end": 181.55,
+      "duration": 0.6
+    },
+    {
+      "text": "rings",
+      "start": 181.562,
+      "end": 182.025,
+      "duration": 0.463
+    },
+    {
+      "text": "the",
+      "start": 182.287,
+      "end": 182.4,
+      "duration": 0.113
+    },
+    {
+      "text": "A",
+      "start": 182.412,
+      "end": 182.65,
+      "duration": 0.237
+    },
+    {
+      "text": "and",
+      "start": 182.662,
+      "end": 182.787,
+      "duration": 0.125
+    },
+    {
+      "text": "B",
+      "start": 182.8,
+      "end": 182.95,
+      "duration": 0.15
+    },
+    {
+      "text": "rings",
+      "start": 182.963,
+      "end": 183.375,
+      "duration": 0.412
+    },
+    {
+      "text": "linked",
+      "start": 183.588,
+      "end": 183.9,
+      "duration": 0.312
+    },
+    {
+      "text": "by",
+      "start": 183.912,
+      "end": 184.062,
+      "duration": 0.15
+    },
+    {
+      "text": "three",
+      "start": 184.075,
+      "end": 184.363,
+      "duration": 0.287
+    },
+    {
+      "text": "carbons",
+      "start": 184.375,
+      "end": 184.95,
+      "duration": 0.575
+    },
+    {
+      "text": "which",
+      "start": 185.188,
+      "end": 185.35,
+      "duration": 0.163
+    },
+    {
+      "text": "are",
+      "start": 185.363,
+      "end": 185.463,
+      "duration": 0.1
+    },
+    {
+      "text": "usually",
+      "start": 185.475,
+      "end": 185.95,
+      "duration": 0.475
+    },
+    {
+      "text": "in",
+      "start": 185.963,
+      "end": 186.062,
+      "duration": 0.1
+    },
+    {
+      "text": "an",
+      "start": 186.075,
+      "end": 186.238,
+      "duration": 0.163
+    },
+    {
+      "text": "oxygenated",
+      "start": 186.25,
+      "end": 186.938,
+      "duration": 0.688
+    },
+    {
+      "text": "heterocycle",
+      "start": 186.95,
+      "end": 187.65,
+      "duration": 0.7
+    },
+    {
+      "text": "ring",
+      "start": 187.662,
+      "end": 187.975,
+      "duration": 0.312
+    },
+    {
+      "text": "called",
+      "start": 188.275,
+      "end": 188.525,
+      "duration": 0.25
+    },
+    {
+      "text": "the",
+      "start": 188.537,
+      "end": 188.625,
+      "duration": 0.087
+    },
+    {
+      "text": "C",
+      "start": 188.637,
+      "end": 188.863,
+      "duration": 0.225
+    },
+    {
+      "text": "ring",
+      "start": 188.875,
+      "end": 189.25,
+      "duration": 0.375
+    },
+    {
+      "text": "differences",
+      "start": 189.425,
+      "end": 190.025,
+      "duration": 0.6
+    },
+    {
+      "text": "in",
+      "start": 190.037,
+      "end": 190.113,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 190.125,
+      "end": 190.225,
+      "duration": 0.1
+    },
+    {
+      "text": "latter",
+      "start": 190.238,
+      "end": 190.625,
+      "duration": 0.388
+    },
+    {
+      "text": "give",
+      "start": 190.637,
+      "end": 190.863,
+      "duration": 0.225
+    },
+    {
+      "text": "rise",
+      "start": 190.875,
+      "end": 191.262,
+      "duration": 0.388
+    },
+    {
+      "text": "to",
+      "start": 191.275,
+      "end": 191.363,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 191.375,
+      "end": 191.488,
+      "duration": 0.113
+    },
+    {
+      "text": "flavonoid",
+      "start": 191.5,
+      "end": 192.137,
+      "duration": 0.637
+    },
+    {
+      "text": "compound",
+      "start": 192.15,
+      "end": 192.7,
+      "duration": 0.55
+    },
+    {
+      "text": "classification",
+      "start": 192.713,
+      "end": 193.688,
+      "duration": 0.975
+    },
+    {
+      "text": "Among",
+      "start": 194.55,
+      "end": 194.9,
+      "duration": 0.35
+    },
+    {
+      "text": "flavonoids",
+      "start": 194.912,
+      "end": 195.65,
+      "duration": 0.738
+    },
+    {
+      "text": "flavan-3-ols",
+      "start": 195.85,
+      "end": 196.912,
+      "duration": 1.062
+    },
+    {
+      "text": "or",
+      "start": 197.0,
+      "end": 197.125,
+      "duration": 0.125
+    },
+    {
+      "text": "flavanols",
+      "start": 197.137,
+      "end": 197.812,
+      "duration": 0.675
+    },
+    {
+      "text": "are",
+      "start": 197.825,
+      "end": 198.012,
+      "duration": 0.188
+    },
+    {
+      "text": "the",
+      "start": 198.025,
+      "end": 198.113,
+      "duration": 0.087
+    },
+    {
+      "text": "most",
+      "start": 198.125,
+      "end": 198.412,
+      "duration": 0.287
+    },
+    {
+      "text": "abundant",
+      "start": 198.425,
+      "end": 198.863,
+      "duration": 0.438
+    },
+    {
+      "text": "phenolics",
+      "start": 198.875,
+      "end": 199.4,
+      "duration": 0.525
+    },
+    {
+      "text": "in",
+      "start": 199.412,
+      "end": 199.512,
+      "duration": 0.1
+    },
+    {
+      "text": "grapes",
+      "start": 199.525,
+      "end": 200.012,
+      "duration": 0.487
+    },
+    {
+      "text": "which",
+      "start": 200.275,
+      "end": 200.45,
+      "duration": 0.175
+    },
+    {
+      "text": "are",
+      "start": 200.463,
+      "end": 200.562,
+      "duration": 0.1
+    },
+    {
+      "text": "found",
+      "start": 200.575,
+      "end": 200.9,
+      "duration": 0.325
+    },
+    {
+      "text": "in",
+      "start": 200.912,
+      "end": 201.05,
+      "duration": 0.138
+    },
+    {
+      "text": "similar",
+      "start": 201.062,
+      "end": 201.463,
+      "duration": 0.4
+    },
+    {
+      "text": "concentrations",
+      "start": 201.475,
+      "end": 202.375,
+      "duration": 0.9
+    },
+    {
+      "text": "in",
+      "start": 202.387,
+      "end": 202.55,
+      "duration": 0.163
+    },
+    {
+      "text": "skins",
+      "start": 202.562,
+      "end": 202.95,
+      "duration": 0.388
+    },
+    {
+      "text": "and",
+      "start": 202.963,
+      "end": 203.088,
+      "duration": 0.125
+    },
+    {
+      "text": "seeds",
+      "start": 203.1,
+      "end": 203.65,
+      "duration": 0.55
+    },
+    {
+      "text": "Flavan-3-ols",
+      "start": 204.512,
+      "end": 205.537,
+      "duration": 1.025
+    },
+    {
+      "text": "include",
+      "start": 205.55,
+      "end": 205.988,
+      "duration": 0.438
+    },
+    {
+      "text": "catechins",
+      "start": 206.0,
+      "end": 206.713,
+      "duration": 0.713
+    },
+    {
+      "text": "the",
+      "start": 207.025,
+      "end": 207.125,
+      "duration": 0.1
+    },
+    {
+      "text": "monomeric",
+      "start": 207.137,
+      "end": 207.762,
+      "duration": 0.625
+    },
+    {
+      "text": "units",
+      "start": 207.775,
+      "end": 208.188,
+      "duration": 0.412
+    },
+    {
+      "text": "for",
+      "start": 208.2,
+      "end": 208.35,
+      "duration": 0.15
+    },
+    {
+      "text": "proanthocyanidin",
+      "start": 208.363,
+      "end": 209.5,
+      "duration": 1.137
+    },
+    {
+      "text": "biosynthesis",
+      "start": 209.512,
+      "end": 210.55,
+      "duration": 1.038
+    },
+    {
+      "text": "Proanthocyanidins",
+      "start": 211.412,
+      "end": 212.675,
+      "duration": 1.262
+    },
+    {
+      "text": "also",
+      "start": 212.85,
+      "end": 213.15,
+      "duration": 0.3
+    },
+    {
+      "text": "known",
+      "start": 213.162,
+      "end": 213.4,
+      "duration": 0.237
+    },
+    {
+      "text": "as",
+      "start": 213.412,
+      "end": 213.525,
+      "duration": 0.113
+    },
+    {
+      "text": "tannins",
+      "start": 213.537,
+      "end": 214.1,
+      "duration": 0.562
+    },
+    {
+      "text": "are",
+      "start": 214.4,
+      "end": 214.537,
+      "duration": 0.138
+    },
+    {
+      "text": "mainly",
+      "start": 214.55,
+      "end": 214.912,
+      "duration": 0.362
+    },
+    {
+      "text": "present",
+      "start": 214.925,
+      "end": 215.325,
+      "duration": 0.4
+    },
+    {
+      "text": "in",
+      "start": 215.338,
+      "end": 215.4,
+      "duration": 0.062
+    },
+    {
+      "text": "the",
+      "start": 215.412,
+      "end": 215.5,
+      "duration": 0.087
+    },
+    {
+      "text": "seed",
+      "start": 215.512,
+      "end": 215.887,
+      "duration": 0.375
+    },
+    {
+      "text": "skin",
+      "start": 216.113,
+      "end": 216.575,
+      "duration": 0.463
+    },
+    {
+      "text": "and",
+      "start": 216.787,
+      "end": 216.925,
+      "duration": 0.138
+    },
+    {
+      "text": "stem",
+      "start": 216.938,
+      "end": 217.262,
+      "duration": 0.325
+    },
+    {
+      "text": "tissues",
+      "start": 217.275,
+      "end": 217.675,
+      "duration": 0.4
+    },
+    {
+      "text": "of",
+      "start": 217.688,
+      "end": 217.775,
+      "duration": 0.087
+    },
+    {
+      "text": "grapes",
+      "start": 217.787,
+      "end": 218.162,
+      "duration": 0.375
+    },
+    {
+      "text": "as",
+      "start": 218.175,
+      "end": 218.312,
+      "duration": 0.138
+    },
+    {
+      "text": "both",
+      "start": 218.325,
+      "end": 218.562,
+      "duration": 0.237
+    },
+    {
+      "text": "oligomeric",
+      "start": 218.575,
+      "end": 219.35,
+      "duration": 0.775
+    },
+    {
+      "text": "and",
+      "start": 219.363,
+      "end": 219.475,
+      "duration": 0.113
+    },
+    {
+      "text": "polymeric",
+      "start": 219.488,
+      "end": 220.075,
+      "duration": 0.588
+    },
+    {
+      "text": "compounds",
+      "start": 220.088,
+      "end": 220.875,
+      "duration": 0.787
+    },
+    {
+      "text": "In",
+      "start": 221.75,
+      "end": 221.925,
+      "duration": 0.175
+    },
+    {
+      "text": "grape",
+      "start": 221.938,
+      "end": 222.238,
+      "duration": 0.3
+    },
+    {
+      "text": "seeds",
+      "start": 222.25,
+      "end": 222.7,
+      "duration": 0.45
+    },
+    {
+      "text": "proanthocyanidins",
+      "start": 222.912,
+      "end": 224.113,
+      "duration": 1.2
+    },
+    {
+      "text": "represent",
+      "start": 224.125,
+      "end": 224.675,
+      "duration": 0.55
+    },
+    {
+      "text": "the",
+      "start": 224.688,
+      "end": 224.762,
+      "duration": 0.075
+    },
+    {
+      "text": "major",
+      "start": 224.775,
+      "end": 225.175,
+      "duration": 0.4
+    },
+    {
+      "text": "fraction",
+      "start": 225.188,
+      "end": 225.688,
+      "duration": 0.5
+    },
+    {
+      "text": "of",
+      "start": 225.7,
+      "end": 225.787,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 225.8,
+      "end": 225.9,
+      "duration": 0.1
+    },
+    {
+      "text": "total",
+      "start": 225.912,
+      "end": 226.25,
+      "duration": 0.338
+    },
+    {
+      "text": "polyphenol",
+      "start": 226.262,
+      "end": 226.988,
+      "duration": 0.725
+    },
+    {
+      "text": "extract",
+      "start": 227.0,
+      "end": 227.613,
+      "duration": 0.613
+    },
+    {
+      "text": "and",
+      "start": 228.0,
+      "end": 228.1,
+      "duration": 0.1
+    },
+    {
+      "text": "their",
+      "start": 228.113,
+      "end": 228.25,
+      "duration": 0.138
+    },
+    {
+      "text": "composition",
+      "start": 228.262,
+      "end": 228.912,
+      "duration": 0.65
+    },
+    {
+      "text": "differs",
+      "start": 228.925,
+      "end": 229.338,
+      "duration": 0.412
+    },
+    {
+      "text": "between",
+      "start": 229.35,
+      "end": 229.75,
+      "duration": 0.4
+    },
+    {
+      "text": "seeds",
+      "start": 229.762,
+      "end": 230.1,
+      "duration": 0.338
+    },
+    {
+      "text": "and",
+      "start": 230.113,
+      "end": 230.238,
+      "duration": 0.125
+    },
+    {
+      "text": "skin",
+      "start": 230.25,
+      "end": 230.662,
+      "duration": 0.412
+    },
+    {
+      "text": "with",
+      "start": 230.938,
+      "end": 231.162,
+      "duration": 0.225
+    },
+    {
+      "text": "the",
+      "start": 231.175,
+      "end": 231.287,
+      "duration": 0.113
+    },
+    {
+      "text": "seeds",
+      "start": 231.3,
+      "end": 231.662,
+      "duration": 0.362
+    },
+    {
+      "text": "having",
+      "start": 231.675,
+      "end": 231.988,
+      "duration": 0.312
+    },
+    {
+      "text": "shorter",
+      "start": 232.0,
+      "end": 232.375,
+      "duration": 0.375
+    },
+    {
+      "text": "polymers",
+      "start": 232.387,
+      "end": 232.95,
+      "duration": 0.562
+    },
+    {
+      "text": "comprised",
+      "start": 232.963,
+      "end": 233.537,
+      "duration": 0.575
+    },
+    {
+      "text": "of",
+      "start": 233.55,
+      "end": 233.625,
+      "duration": 0.075
+    },
+    {
+      "text": "similar",
+      "start": 233.637,
+      "end": 234.1,
+      "duration": 0.463
+    },
+    {
+      "text": "amounts",
+      "start": 234.113,
+      "end": 234.475,
+      "duration": 0.362
+    },
+    {
+      "text": "of",
+      "start": 234.488,
+      "end": 234.588,
+      "duration": 0.1
+    },
+    {
+      "text": "catechin",
+      "start": 234.6,
+      "end": 235.225,
+      "duration": 0.625
+    },
+    {
+      "text": "and",
+      "start": 235.238,
+      "end": 235.425,
+      "duration": 0.188
+    },
+    {
+      "text": "epicatechin",
+      "start": 235.438,
+      "end": 236.113,
+      "duration": 0.675
+    },
+    {
+      "text": "subunits",
+      "start": 236.125,
+      "end": 236.887,
+      "duration": 0.762
+    },
+    {
+      "text": "In",
+      "start": 237.75,
+      "end": 237.95,
+      "duration": 0.2
+    },
+    {
+      "text": "the",
+      "start": 237.963,
+      "end": 238.05,
+      "duration": 0.087
+    },
+    {
+      "text": "skin",
+      "start": 238.062,
+      "end": 238.475,
+      "duration": 0.412
+    },
+    {
+      "text": "proanthocyanidin",
+      "start": 238.725,
+      "end": 239.9,
+      "duration": 1.175
+    },
+    {
+      "text": "polymers",
+      "start": 239.912,
+      "end": 240.45,
+      "duration": 0.537
+    },
+    {
+      "text": "tend",
+      "start": 240.463,
+      "end": 240.7,
+      "duration": 0.237
+    },
+    {
+      "text": "to",
+      "start": 240.713,
+      "end": 240.775,
+      "duration": 0.062
+    },
+    {
+      "text": "be",
+      "start": 240.787,
+      "end": 240.912,
+      "duration": 0.125
+    },
+    {
+      "text": "much",
+      "start": 240.925,
+      "end": 241.213,
+      "duration": 0.287
+    },
+    {
+      "text": "longer",
+      "start": 241.225,
+      "end": 241.725,
+      "duration": 0.5
+    },
+    {
+      "text": "and",
+      "start": 241.738,
+      "end": 241.85,
+      "duration": 0.113
+    },
+    {
+      "text": "are",
+      "start": 241.863,
+      "end": 241.963,
+      "duration": 0.1
+    },
+    {
+      "text": "composed",
+      "start": 241.975,
+      "end": 242.475,
+      "duration": 0.5
+    },
+    {
+      "text": "mainly",
+      "start": 242.488,
+      "end": 242.863,
+      "duration": 0.375
+    },
+    {
+      "text": "of",
+      "start": 242.875,
+      "end": 242.975,
+      "duration": 0.1
+    },
+    {
+      "text": "epicatechin",
+      "start": 242.988,
+      "end": 243.7,
+      "duration": 0.713
+    },
+    {
+      "text": "subunits",
+      "start": 243.713,
+      "end": 244.475,
+      "duration": 0.762
+    },
+    {
+      "text": "Anthocyanins",
+      "start": 245.35,
+      "end": 246.35,
+      "duration": 1.0
+    },
+    {
+      "text": "conjugated",
+      "start": 246.575,
+      "end": 247.213,
+      "duration": 0.637
+    },
+    {
+      "text": "derivatives",
+      "start": 247.225,
+      "end": 247.825,
+      "duration": 0.6
+    },
+    {
+      "text": "of",
+      "start": 247.838,
+      "end": 247.925,
+      "duration": 0.087
+    },
+    {
+      "text": "anthocyanidins",
+      "start": 247.938,
+      "end": 249.0,
+      "duration": 1.062
+    },
+    {
+      "text": "that",
+      "start": 249.012,
+      "end": 249.113,
+      "duration": 0.1
+    },
+    {
+      "text": "are",
+      "start": 249.125,
+      "end": 249.213,
+      "duration": 0.087
+    },
+    {
+      "text": "mainly",
+      "start": 249.225,
+      "end": 249.6,
+      "duration": 0.375
+    },
+    {
+      "text": "bound",
+      "start": 249.613,
+      "end": 249.912,
+      "duration": 0.3
+    },
+    {
+      "text": "to",
+      "start": 249.925,
+      "end": 250.0,
+      "duration": 0.075
+    },
+    {
+      "text": "sugars",
+      "start": 250.012,
+      "end": 250.525,
+      "duration": 0.512
+    },
+    {
+      "text": "hydroxycinnamates",
+      "start": 250.825,
+      "end": 251.9,
+      "duration": 1.075
+    },
+    {
+      "text": "or",
+      "start": 252.137,
+      "end": 252.325,
+      "duration": 0.188
+    },
+    {
+      "text": "organic",
+      "start": 252.338,
+      "end": 252.838,
+      "duration": 0.5
+    },
+    {
+      "text": "acids",
+      "start": 252.85,
+      "end": 253.375,
+      "duration": 0.525
+    },
+    {
+      "text": "are",
+      "start": 253.637,
+      "end": 253.812,
+      "duration": 0.175
+    },
+    {
+      "text": "water-soluble",
+      "start": 253.825,
+      "end": 254.662,
+      "duration": 0.838
+    },
+    {
+      "text": "pigments",
+      "start": 254.675,
+      "end": 255.162,
+      "duration": 0.487
+    },
+    {
+      "text": "responsible",
+      "start": 255.175,
+      "end": 255.887,
+      "duration": 0.713
+    },
+    {
+      "text": "for",
+      "start": 255.9,
+      "end": 256.025,
+      "duration": 0.125
+    },
+    {
+      "text": "the",
+      "start": 256.038,
+      "end": 256.137,
+      "duration": 0.1
+    },
+    {
+      "text": "red",
+      "start": 256.15,
+      "end": 256.387,
+      "duration": 0.237
+    },
+    {
+      "text": "and",
+      "start": 256.4,
+      "end": 256.5,
+      "duration": 0.1
+    },
+    {
+      "text": "blue",
+      "start": 256.512,
+      "end": 256.738,
+      "duration": 0.225
+    },
+    {
+      "text": "colors",
+      "start": 256.75,
+      "end": 257.2,
+      "duration": 0.45
+    },
+    {
+      "text": "found",
+      "start": 257.212,
+      "end": 257.5,
+      "duration": 0.287
+    },
+    {
+      "text": "in",
+      "start": 257.512,
+      "end": 257.575,
+      "duration": 0.062
+    },
+    {
+      "text": "the",
+      "start": 257.587,
+      "end": 257.675,
+      "duration": 0.087
+    },
+    {
+      "text": "skins",
+      "start": 257.688,
+      "end": 258.075,
+      "duration": 0.388
+    },
+    {
+      "text": "of",
+      "start": 258.087,
+      "end": 258.2,
+      "duration": 0.113
+    },
+    {
+      "text": "blue",
+      "start": 258.212,
+      "end": 258.5,
+      "duration": 0.287
+    },
+    {
+      "text": "red",
+      "start": 258.762,
+      "end": 259.087,
+      "duration": 0.325
+    },
+    {
+      "text": "or",
+      "start": 259.413,
+      "end": 259.613,
+      "duration": 0.2
+    },
+    {
+      "text": "black",
+      "start": 259.625,
+      "end": 259.913,
+      "duration": 0.287
+    },
+    {
+      "text": "grapes",
+      "start": 259.925,
+      "end": 260.5,
+      "duration": 0.575
+    },
+    {
+      "text": "Anthocyanins",
+      "start": 261.363,
+      "end": 262.262,
+      "duration": 0.9
+    },
+    {
+      "text": "of",
+      "start": 262.275,
+      "end": 262.35,
+      "duration": 0.075
+    },
+    {
+      "text": "Vitis",
+      "start": 262.363,
+      "end": 262.788,
+      "duration": 0.425
+    },
+    {
+      "text": "are",
+      "start": 262.8,
+      "end": 262.988,
+      "duration": 0.188
+    },
+    {
+      "text": "structurally",
+      "start": 263.0,
+      "end": 263.6,
+      "duration": 0.6
+    },
+    {
+      "text": "based",
+      "start": 263.613,
+      "end": 263.962,
+      "duration": 0.35
+    },
+    {
+      "text": "on",
+      "start": 263.975,
+      "end": 264.113,
+      "duration": 0.138
+    },
+    {
+      "text": "five",
+      "start": 264.125,
+      "end": 264.425,
+      "duration": 0.3
+    },
+    {
+      "text": "aglycones",
+      "start": 264.438,
+      "end": 265.163,
+      "duration": 0.725
+    },
+    {
+      "text": "anthocyanidins",
+      "start": 265.438,
+      "end": 266.525,
+      "duration": 1.087
+    },
+    {
+      "text": "malvidin",
+      "start": 266.7,
+      "end": 267.337,
+      "duration": 0.637
+    },
+    {
+      "text": "cyanidin",
+      "start": 267.45,
+      "end": 268.15,
+      "duration": 0.7
+    },
+    {
+      "text": "delphinidin",
+      "start": 268.337,
+      "end": 269.012,
+      "duration": 0.675
+    },
+    {
+      "text": "peonidin",
+      "start": 269.175,
+      "end": 269.8,
+      "duration": 0.625
+    },
+    {
+      "text": "and",
+      "start": 269.975,
+      "end": 270.137,
+      "duration": 0.163
+    },
+    {
+      "text": "petunidin",
+      "start": 270.15,
+      "end": 270.788,
+      "duration": 0.637
+    },
+    {
+      "text": "which",
+      "start": 271.075,
+      "end": 271.25,
+      "duration": 0.175
+    },
+    {
+      "text": "are",
+      "start": 271.262,
+      "end": 271.363,
+      "duration": 0.1
+    },
+    {
+      "text": "classified",
+      "start": 271.375,
+      "end": 272.012,
+      "duration": 0.637
+    },
+    {
+      "text": "depending",
+      "start": 272.025,
+      "end": 272.475,
+      "duration": 0.45
+    },
+    {
+      "text": "on",
+      "start": 272.488,
+      "end": 272.625,
+      "duration": 0.138
+    },
+    {
+      "text": "the",
+      "start": 272.637,
+      "end": 272.875,
+      "duration": 0.237
+    },
+    {
+      "text": "number",
+      "start": 273.868,
+      "end": 274.268,
+      "duration": 0.4
+    },
+    {
+      "text": "and",
+      "start": 274.281,
+      "end": 274.393,
+      "duration": 0.113
+    },
+    {
+      "text": "position",
+      "start": 274.406,
+      "end": 274.88,
+      "duration": 0.475
+    },
+    {
+      "text": "of",
+      "start": 274.893,
+      "end": 274.981,
+      "duration": 0.087
+    },
+    {
+      "text": "their",
+      "start": 274.993,
+      "end": 275.13,
+      "duration": 0.138
+    },
+    {
+      "text": "hydroxyl",
+      "start": 275.143,
+      "end": 275.743,
+      "duration": 0.6
+    },
+    {
+      "text": "groups",
+      "start": 275.755,
+      "end": 276.13,
+      "duration": 0.375
+    },
+    {
+      "text": "and",
+      "start": 276.143,
+      "end": 276.281,
+      "duration": 0.138
+    },
+    {
+      "text": "methylation",
+      "start": 276.293,
+      "end": 276.906,
+      "duration": 0.613
+    },
+    {
+      "text": "degree",
+      "start": 276.918,
+      "end": 277.393,
+      "duration": 0.475
+    },
+    {
+      "text": "Red",
+      "start": 278.268,
+      "end": 278.58,
+      "duration": 0.312
+    },
+    {
+      "text": "grapes",
+      "start": 278.593,
+      "end": 278.981,
+      "duration": 0.388
+    },
+    {
+      "text": "can",
+      "start": 278.993,
+      "end": 279.143,
+      "duration": 0.15
+    },
+    {
+      "text": "produce",
+      "start": 279.156,
+      "end": 279.493,
+      "duration": 0.338
+    },
+    {
+      "text": "anthocyanins",
+      "start": 279.505,
+      "end": 280.481,
+      "duration": 0.975
+    },
+    {
+      "text": "while",
+      "start": 280.705,
+      "end": 280.906,
+      "duration": 0.2
+    },
+    {
+      "text": "white",
+      "start": 280.918,
+      "end": 281.143,
+      "duration": 0.225
+    },
+    {
+      "text": "grapes",
+      "start": 281.156,
+      "end": 281.531,
+      "duration": 0.375
+    },
+    {
+      "text": "cannot",
+      "start": 281.543,
+      "end": 281.981,
+      "duration": 0.438
+    },
+    {
+      "text": "therefore",
+      "start": 282.243,
+      "end": 282.768,
+      "duration": 0.525
+    },
+    {
+      "text": "the",
+      "start": 282.993,
+      "end": 283.093,
+      "duration": 0.1
+    },
+    {
+      "text": "total",
+      "start": 283.106,
+      "end": 283.443,
+      "duration": 0.338
+    },
+    {
+      "text": "phenolic",
+      "start": 283.455,
+      "end": 283.893,
+      "duration": 0.438
+    },
+    {
+      "text": "level",
+      "start": 283.906,
+      "end": 284.231,
+      "duration": 0.325
+    },
+    {
+      "text": "of",
+      "start": 284.243,
+      "end": 284.356,
+      "duration": 0.113
+    },
+    {
+      "text": "red",
+      "start": 284.368,
+      "end": 284.58,
+      "duration": 0.212
+    },
+    {
+      "text": "grape",
+      "start": 284.593,
+      "end": 284.843,
+      "duration": 0.25
+    },
+    {
+      "text": "skins",
+      "start": 284.856,
+      "end": 285.255,
+      "duration": 0.4
+    },
+    {
+      "text": "is",
+      "start": 285.268,
+      "end": 285.406,
+      "duration": 0.138
+    },
+    {
+      "text": "higher",
+      "start": 285.418,
+      "end": 285.781,
+      "duration": 0.362
+    },
+    {
+      "text": "than",
+      "start": 285.793,
+      "end": 285.918,
+      "duration": 0.125
+    },
+    {
+      "text": "that",
+      "start": 285.93,
+      "end": 286.118,
+      "duration": 0.188
+    },
+    {
+      "text": "of",
+      "start": 286.13,
+      "end": 286.231,
+      "duration": 0.1
+    },
+    {
+      "text": "white",
+      "start": 286.243,
+      "end": 286.468,
+      "duration": 0.225
+    },
+    {
+      "text": "grapes",
+      "start": 286.481,
+      "end": 287.043,
+      "duration": 0.562
+    },
+    {
+      "text": "Flavonols",
+      "start": 287.906,
+      "end": 288.618,
+      "duration": 0.713
+    },
+    {
+      "text": "are",
+      "start": 288.63,
+      "end": 288.781,
+      "duration": 0.15
+    },
+    {
+      "text": "another",
+      "start": 288.793,
+      "end": 289.143,
+      "duration": 0.35
+    },
+    {
+      "text": "class",
+      "start": 289.156,
+      "end": 289.493,
+      "duration": 0.338
+    },
+    {
+      "text": "of",
+      "start": 289.505,
+      "end": 289.593,
+      "duration": 0.087
+    },
+    {
+      "text": "flavonoids",
+      "start": 289.606,
+      "end": 290.293,
+      "duration": 0.688
+    },
+    {
+      "text": "that",
+      "start": 290.305,
+      "end": 290.468,
+      "duration": 0.163
+    },
+    {
+      "text": "differ",
+      "start": 290.481,
+      "end": 290.805,
+      "duration": 0.325
+    },
+    {
+      "text": "from",
+      "start": 290.818,
+      "end": 290.981,
+      "duration": 0.163
+    },
+    {
+      "text": "one",
+      "start": 290.993,
+      "end": 291.156,
+      "duration": 0.163
+    },
+    {
+      "text": "another",
+      "start": 291.168,
+      "end": 291.531,
+      "duration": 0.362
+    },
+    {
+      "text": "in",
+      "start": 291.543,
+      "end": 291.718,
+      "duration": 0.175
+    },
+    {
+      "text": "several",
+      "start": 291.731,
+      "end": 292.118,
+      "duration": 0.388
+    },
+    {
+      "text": "characteristics",
+      "start": 292.13,
+      "end": 293.031,
+      "duration": 0.9
+    },
+    {
+      "text": "including",
+      "start": 293.043,
+      "end": 293.543,
+      "duration": 0.5
+    },
+    {
+      "text": "the",
+      "start": 293.555,
+      "end": 293.643,
+      "duration": 0.087
+    },
+    {
+      "text": "number",
+      "start": 293.656,
+      "end": 294.018,
+      "duration": 0.362
+    },
+    {
+      "text": "and",
+      "start": 294.031,
+      "end": 294.143,
+      "duration": 0.113
+    },
+    {
+      "text": "type",
+      "start": 294.156,
+      "end": 294.43,
+      "duration": 0.275
+    },
+    {
+      "text": "of",
+      "start": 294.443,
+      "end": 294.543,
+      "duration": 0.1
+    },
+    {
+      "text": "compounds",
+      "start": 294.555,
+      "end": 295.156,
+      "duration": 0.6
+    },
+    {
+      "text": "in",
+      "start": 295.168,
+      "end": 295.243,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 295.255,
+      "end": 295.343,
+      "duration": 0.087
+    },
+    {
+      "text": "B",
+      "start": 295.356,
+      "end": 295.531,
+      "duration": 0.175
+    },
+    {
+      "text": "ring",
+      "start": 295.543,
+      "end": 295.955,
+      "duration": 0.412
+    },
+    {
+      "text": "and",
+      "start": 295.968,
+      "end": 296.106,
+      "duration": 0.138
+    },
+    {
+      "text": "are",
+      "start": 296.118,
+      "end": 296.218,
+      "duration": 0.1
+    },
+    {
+      "text": "normally",
+      "start": 296.231,
+      "end": 296.668,
+      "duration": 0.438
+    },
+    {
+      "text": "glycosylated",
+      "start": 296.68,
+      "end": 297.555,
+      "duration": 0.875
+    },
+    {
+      "text": "at",
+      "start": 297.568,
+      "end": 297.68,
+      "duration": 0.113
+    },
+    {
+      "text": "the",
+      "start": 297.693,
+      "end": 297.781,
+      "duration": 0.087
+    },
+    {
+      "text": "C-3",
+      "start": 297.793,
+      "end": 298.305,
+      "duration": 0.512
+    },
+    {
+      "text": "position",
+      "start": 298.318,
+      "end": 298.818,
+      "duration": 0.5
+    },
+    {
+      "text": "of",
+      "start": 298.83,
+      "end": 298.906,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 298.918,
+      "end": 299.005,
+      "duration": 0.087
+    },
+    {
+      "text": "C",
+      "start": 299.018,
+      "end": 299.243,
+      "duration": 0.225
+    },
+    {
+      "text": "ring",
+      "start": 299.255,
+      "end": 299.518,
+      "duration": 0.263
+    },
+    {
+      "text": "providing",
+      "start": 299.531,
+      "end": 300.005,
+      "duration": 0.475
+    },
+    {
+      "text": "glucosides",
+      "start": 300.018,
+      "end": 300.83,
+      "duration": 0.812
+    },
+    {
+      "text": "galactosides",
+      "start": 301.156,
+      "end": 302.093,
+      "duration": 0.938
+    },
+    {
+      "text": "rhamnosides",
+      "start": 302.318,
+      "end": 303.08,
+      "duration": 0.762
+    },
+    {
+      "text": "and",
+      "start": 303.231,
+      "end": 303.38,
+      "duration": 0.15
+    },
+    {
+      "text": "glucuronides",
+      "start": 303.393,
+      "end": 304.205,
+      "duration": 0.812
+    },
+    {
+      "text": "with",
+      "start": 304.218,
+      "end": 304.343,
+      "duration": 0.125
+    },
+    {
+      "text": "their",
+      "start": 304.356,
+      "end": 304.493,
+      "duration": 0.138
+    },
+    {
+      "text": "typical",
+      "start": 304.505,
+      "end": 304.93,
+      "duration": 0.425
+    },
+    {
+      "text": "structures",
+      "start": 304.943,
+      "end": 305.693,
+      "duration": 0.75
+    },
+    {
+      "text": "Grapes",
+      "start": 306.568,
+      "end": 306.981,
+      "duration": 0.412
+    },
+    {
+      "text": "synthesize",
+      "start": 306.993,
+      "end": 307.593,
+      "duration": 0.6
+    },
+    {
+      "text": "flavonols",
+      "start": 307.606,
+      "end": 308.255,
+      "duration": 0.65
+    },
+    {
+      "text": "such",
+      "start": 308.481,
+      "end": 308.68,
+      "duration": 0.2
+    },
+    {
+      "text": "as",
+      "start": 308.693,
+      "end": 308.805,
+      "duration": 0.113
+    },
+    {
+      "text": "kaempferol",
+      "start": 308.818,
+      "end": 309.543,
+      "duration": 0.725
+    },
+    {
+      "text": "quercetin",
+      "start": 309.668,
+      "end": 310.255,
+      "duration": 0.588
+    },
+    {
+      "text": "and",
+      "start": 310.406,
+      "end": 310.531,
+      "duration": 0.125
+    },
+    {
+      "text": "myricetin",
+      "start": 310.543,
+      "end": 311.205,
+      "duration": 0.662
+    },
+    {
+      "text": "and",
+      "start": 311.393,
+      "end": 311.518,
+      "duration": 0.125
+    },
+    {
+      "text": "the",
+      "start": 311.531,
+      "end": 311.606,
+      "duration": 0.075
+    },
+    {
+      "text": "methylated",
+      "start": 311.618,
+      "end": 312.218,
+      "duration": 0.6
+    },
+    {
+      "text": "forms",
+      "start": 312.231,
+      "end": 312.643,
+      "duration": 0.412
+    },
+    {
+      "text": "isorhamnetin",
+      "start": 312.656,
+      "end": 313.493,
+      "duration": 0.838
+    },
+    {
+      "text": "from",
+      "start": 313.505,
+      "end": 313.68,
+      "duration": 0.175
+    },
+    {
+      "text": "quercetin",
+      "start": 313.693,
+      "end": 314.268,
+      "duration": 0.575
+    },
+    {
+      "text": "laricitrin",
+      "start": 314.518,
+      "end": 315.18,
+      "duration": 0.662
+    },
+    {
+      "text": "and",
+      "start": 315.393,
+      "end": 315.531,
+      "duration": 0.138
+    },
+    {
+      "text": "syringetin",
+      "start": 315.543,
+      "end": 316.268,
+      "duration": 0.725
+    },
+    {
+      "text": "both",
+      "start": 316.281,
+      "end": 316.531,
+      "duration": 0.25
+    },
+    {
+      "text": "from",
+      "start": 316.543,
+      "end": 316.68,
+      "duration": 0.138
+    },
+    {
+      "text": "myricetin",
+      "start": 316.693,
+      "end": 317.368,
+      "duration": 0.675
+    },
+    {
+      "text": "Analysis",
+      "start": 318.231,
+      "end": 318.918,
+      "duration": 0.688
+    },
+    {
+      "text": "of",
+      "start": 318.93,
+      "end": 319.018,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 319.031,
+      "end": 319.118,
+      "duration": 0.087
+    },
+    {
+      "text": "flavonol",
+      "start": 319.13,
+      "end": 319.656,
+      "duration": 0.525
+    },
+    {
+      "text": "profile",
+      "start": 319.668,
+      "end": 320.268,
+      "duration": 0.6
+    },
+    {
+      "text": "conducted",
+      "start": 320.281,
+      "end": 320.805,
+      "duration": 0.525
+    },
+    {
+      "text": "in",
+      "start": 320.818,
+      "end": 320.93,
+      "duration": 0.113
+    },
+    {
+      "text": "91",
+      "start": 320.943,
+      "end": 321.518,
+      "duration": 0.575
+    },
+    {
+      "text": "grape",
+      "start": 321.531,
+      "end": 321.818,
+      "duration": 0.287
+    },
+    {
+      "text": "varieties",
+      "start": 321.83,
+      "end": 322.468,
+      "duration": 0.637
+    },
+    {
+      "text": "presented",
+      "start": 322.481,
+      "end": 322.993,
+      "duration": 0.512
+    },
+    {
+      "text": "several",
+      "start": 323.005,
+      "end": 323.368,
+      "duration": 0.362
+    },
+    {
+      "text": "differences",
+      "start": 323.38,
+      "end": 324.13,
+      "duration": 0.75
+    },
+    {
+      "text": "In",
+      "start": 324.993,
+      "end": 325.218,
+      "duration": 0.225
+    },
+    {
+      "text": "red",
+      "start": 325.231,
+      "end": 325.455,
+      "duration": 0.225
+    },
+    {
+      "text": "grapes",
+      "start": 325.468,
+      "end": 325.93,
+      "duration": 0.463
+    },
+    {
+      "text": "the",
+      "start": 326.156,
+      "end": 326.255,
+      "duration": 0.1
+    },
+    {
+      "text": "main",
+      "start": 326.268,
+      "end": 326.555,
+      "duration": 0.287
+    },
+    {
+      "text": "flavonol",
+      "start": 326.568,
+      "end": 327.106,
+      "duration": 0.537
+    },
+    {
+      "text": "was",
+      "start": 327.118,
+      "end": 327.268,
+      "duration": 0.15
+    },
+    {
+      "text": "quercetin",
+      "start": 327.281,
+      "end": 327.868,
+      "duration": 0.588
+    },
+    {
+      "text": "at",
+      "start": 327.88,
+      "end": 328.018,
+      "duration": 0.138
+    },
+    {
+      "text": "43.99 percent",
+      "start": 328.031,
+      "end": 329.906,
+      "duration": 1.875
+    },
+    {
+      "text": "followed",
+      "start": 330.318,
+      "end": 330.656,
+      "duration": 0.338
+    },
+    {
+      "text": "by",
+      "start": 330.668,
+      "end": 330.793,
+      "duration": 0.125
+    },
+    {
+      "text": "myricetin",
+      "start": 330.805,
+      "end": 331.505,
+      "duration": 0.7
+    },
+    {
+      "text": "at",
+      "start": 331.518,
+      "end": 331.656,
+      "duration": 0.138
+    },
+    {
+      "text": "36.81 percent",
+      "start": 331.668,
+      "end": 333.531,
+      "duration": 1.863
+    },
+    {
+      "text": "kaempferol",
+      "start": 333.856,
+      "end": 334.555,
+      "duration": 0.7
+    },
+    {
+      "text": "at",
+      "start": 334.568,
+      "end": 334.693,
+      "duration": 0.125
+    },
+    {
+      "text": "6.43 percent",
+      "start": 334.705,
+      "end": 336.33,
+      "duration": 1.625
+    },
+    {
+      "text": "laricitrin",
+      "start": 336.693,
+      "end": 337.33,
+      "duration": 0.637
+    },
+    {
+      "text": "at",
+      "start": 337.343,
+      "end": 337.455,
+      "duration": 0.113
+    },
+    {
+      "text": "5.65 percent",
+      "start": 337.468,
+      "end": 339.168,
+      "duration": 1.7
+    },
+    {
+      "text": "isorhamnetin",
+      "start": 339.531,
+      "end": 340.418,
+      "duration": 0.887
+    },
+    {
+      "text": "at",
+      "start": 340.43,
+      "end": 340.568,
+      "duration": 0.138
+    },
+    {
+      "text": "3.89 percent",
+      "start": 340.58,
+      "end": 342.005,
+      "duration": 1.425
+    },
+    {
+      "text": "and",
+      "start": 342.293,
+      "end": 342.43,
+      "duration": 0.138
+    },
+    {
+      "text": "syringetin",
+      "start": 342.443,
+      "end": 343.205,
+      "duration": 0.762
+    },
+    {
+      "text": "at",
+      "start": 343.218,
+      "end": 343.368,
+      "duration": 0.15
+    },
+    {
+      "text": "3.22 percent",
+      "start": 343.38,
+      "end": 344.955,
+      "duration": 1.575
+    },
+    {
+      "text": "In",
+      "start": 345.83,
+      "end": 346.031,
+      "duration": 0.2
+    },
+    {
+      "text": "white",
+      "start": 346.043,
+      "end": 346.281,
+      "duration": 0.237
+    },
+    {
+      "text": "grapes",
+      "start": 346.293,
+      "end": 346.731,
+      "duration": 0.438
+    },
+    {
+      "text": "the",
+      "start": 346.955,
+      "end": 347.055,
+      "duration": 0.1
+    },
+    {
+      "text": "main",
+      "start": 347.068,
+      "end": 347.33,
+      "duration": 0.263
+    },
+    {
+      "text": "flavonol",
+      "start": 347.343,
+      "end": 347.868,
+      "duration": 0.525
+    },
+    {
+      "text": "is",
+      "start": 347.88,
+      "end": 348.018,
+      "duration": 0.138
+    },
+    {
+      "text": "quercetin",
+      "start": 348.031,
+      "end": 348.63,
+      "duration": 0.6
+    },
+    {
+      "text": "at",
+      "start": 348.643,
+      "end": 348.793,
+      "duration": 0.15
+    },
+    {
+      "text": "81.35 percent",
+      "start": 348.805,
+      "end": 350.593,
+      "duration": 1.788
+    },
+    {
+      "text": "followed",
+      "start": 351.018,
+      "end": 351.356,
+      "duration": 0.338
+    },
+    {
+      "text": "by",
+      "start": 351.368,
+      "end": 351.505,
+      "duration": 0.138
+    },
+    {
+      "text": "kaempferol",
+      "start": 351.518,
+      "end": 352.231,
+      "duration": 0.713
+    },
+    {
+      "text": "at",
+      "start": 352.243,
+      "end": 352.38,
+      "duration": 0.138
+    },
+    {
+      "text": "16.91 percent",
+      "start": 352.393,
+      "end": 354.18,
+      "duration": 1.788
+    },
+    {
+      "text": "and",
+      "start": 354.193,
+      "end": 354.33,
+      "duration": 0.138
+    },
+    {
+      "text": "isorhamnetin",
+      "start": 354.343,
+      "end": 355.255,
+      "duration": 0.912
+    },
+    {
+      "text": "at",
+      "start": 355.268,
+      "end": 355.393,
+      "duration": 0.125
+    },
+    {
+      "text": "1.74 percent",
+      "start": 355.406,
+      "end": 357.093,
+      "duration": 1.688
+    },
+    {
+      "text": "The",
+      "start": 357.955,
+      "end": 358.118,
+      "duration": 0.163
+    },
+    {
+      "text": "delphinidin-like",
+      "start": 358.13,
+      "end": 358.93,
+      "duration": 0.8
+    },
+    {
+      "text": "flavonols",
+      "start": 358.943,
+      "end": 359.531,
+      "duration": 0.588
+    },
+    {
+      "text": "myricetin",
+      "start": 359.543,
+      "end": 360.168,
+      "duration": 0.625
+    },
+    {
+      "text": "laricitrin",
+      "start": 360.43,
+      "end": 361.106,
+      "duration": 0.675
+    },
+    {
+      "text": "and",
+      "start": 361.318,
+      "end": 361.468,
+      "duration": 0.15
+    },
+    {
+      "text": "syringetin",
+      "start": 361.481,
+      "end": 362.218,
+      "duration": 0.738
+    },
+    {
+      "text": "were",
+      "start": 362.231,
+      "end": 362.343,
+      "duration": 0.113
+    },
+    {
+      "text": "missing",
+      "start": 362.356,
+      "end": 362.731,
+      "duration": 0.375
+    },
+    {
+      "text": "in",
+      "start": 362.743,
+      "end": 362.88,
+      "duration": 0.138
+    },
+    {
+      "text": "all",
+      "start": 362.893,
+      "end": 363.118,
+      "duration": 0.225
+    },
+    {
+      "text": "white",
+      "start": 363.13,
+      "end": 363.343,
+      "duration": 0.212
+    },
+    {
+      "text": "varieties",
+      "start": 363.356,
+      "end": 364.043,
+      "duration": 0.688
+    },
+    {
+      "text": "indicating",
+      "start": 364.393,
+      "end": 364.968,
+      "duration": 0.575
+    },
+    {
+      "text": "that",
+      "start": 364.981,
+      "end": 365.118,
+      "duration": 0.138
+    },
+    {
+      "text": "the",
+      "start": 365.13,
+      "end": 365.218,
+      "duration": 0.087
+    },
+    {
+      "text": "enzyme",
+      "start": 365.231,
+      "end": 365.768,
+      "duration": 0.537
+    },
+    {
+      "text": "flavonoid",
+      "start": 365.781,
+      "end": 366.368,
+      "duration": 0.588
+    },
+    {
+      "text": "3",
+      "start": 366.38,
+      "end": 366.656,
+      "duration": 0.275
+    },
+    {
+      "text": "5-hydroxylase",
+      "start": 366.793,
+      "end": 367.93,
+      "duration": 1.137
+    },
+    {
+      "text": "is",
+      "start": 367.943,
+      "end": 368.118,
+      "duration": 0.175
+    },
+    {
+      "text": "not",
+      "start": 368.13,
+      "end": 368.356,
+      "duration": 0.225
+    },
+    {
+      "text": "expressed",
+      "start": 368.368,
+      "end": 368.93,
+      "duration": 0.562
+    },
+    {
+      "text": "in",
+      "start": 368.943,
+      "end": 369.055,
+      "duration": 0.113
+    },
+    {
+      "text": "white",
+      "start": 369.068,
+      "end": 369.293,
+      "duration": 0.225
+    },
+    {
+      "text": "grape",
+      "start": 369.305,
+      "end": 369.568,
+      "duration": 0.263
+    },
+    {
+      "text": "varieties",
+      "start": 369.58,
+      "end": 370.406,
+      "duration": 0.825
+    },
+    {
+      "text": "Flavones",
+      "start": 371.268,
+      "end": 371.906,
+      "duration": 0.637
+    },
+    {
+      "text": "differ",
+      "start": 371.918,
+      "end": 372.255,
+      "duration": 0.338
+    },
+    {
+      "text": "from",
+      "start": 372.268,
+      "end": 372.418,
+      "duration": 0.15
+    },
+    {
+      "text": "flavonols",
+      "start": 372.43,
+      "end": 373.068,
+      "duration": 0.637
+    },
+    {
+      "text": "in",
+      "start": 373.08,
+      "end": 373.18,
+      "duration": 0.1
+    },
+    {
+      "text": "that",
+      "start": 373.193,
+      "end": 373.318,
+      "duration": 0.125
+    },
+    {
+      "text": "they",
+      "start": 373.33,
+      "end": 373.43,
+      "duration": 0.1
+    },
+    {
+      "text": "lack",
+      "start": 373.443,
+      "end": 373.731,
+      "duration": 0.287
+    },
+    {
+      "text": "a",
+      "start": 373.743,
+      "end": 373.793,
+      "duration": 0.05
+    },
+    {
+      "text": "hydroxyl",
+      "start": 373.805,
+      "end": 374.443,
+      "duration": 0.637
+    },
+    {
+      "text": "group",
+      "start": 374.455,
+      "end": 374.743,
+      "duration": 0.287
+    },
+    {
+      "text": "at",
+      "start": 374.755,
+      "end": 374.868,
+      "duration": 0.113
+    },
+    {
+      "text": "carbon",
+      "start": 374.88,
+      "end": 375.231,
+      "duration": 0.35
+    },
+    {
+      "text": "3",
+      "start": 375.243,
+      "end": 375.668,
+      "duration": 0.425
+    },
+    {
+      "text": "Apigenin",
+      "start": 376.543,
+      "end": 377.156,
+      "duration": 0.613
+    },
+    {
+      "text": "and",
+      "start": 377.168,
+      "end": 377.281,
+      "duration": 0.113
+    },
+    {
+      "text": "luteolin",
+      "start": 377.293,
+      "end": 377.843,
+      "duration": 0.55
+    },
+    {
+      "text": "are",
+      "start": 377.856,
+      "end": 377.955,
+      "duration": 0.1
+    },
+    {
+      "text": "the",
+      "start": 377.968,
+      "end": 378.055,
+      "duration": 0.087
+    },
+    {
+      "text": "main",
+      "start": 378.068,
+      "end": 378.343,
+      "duration": 0.275
+    },
+    {
+      "text": "flavones",
+      "start": 378.356,
+      "end": 378.906,
+      "duration": 0.55
+    },
+    {
+      "text": "in",
+      "start": 378.918,
+      "end": 379.005,
+      "duration": 0.087
+    },
+    {
+      "text": "grapes",
+      "start": 379.018,
+      "end": 379.606,
+      "duration": 0.588
+    },
+    {
+      "text": "Among",
+      "start": 380.468,
+      "end": 380.843,
+      "duration": 0.375
+    },
+    {
+      "text": "nonflavonoid",
+      "start": 380.856,
+      "end": 381.656,
+      "duration": 0.8
+    },
+    {
+      "text": "compounds",
+      "start": 381.668,
+      "end": 382.318,
+      "duration": 0.65
+    },
+    {
+      "text": "hydroxycinnamates",
+      "start": 382.643,
+      "end": 383.705,
+      "duration": 1.062
+    },
+    {
+      "text": "or",
+      "start": 383.805,
+      "end": 383.93,
+      "duration": 0.125
+    },
+    {
+      "text": "hydroxycinnamic",
+      "start": 383.943,
+      "end": 384.993,
+      "duration": 1.05
+    },
+    {
+      "text": "acids",
+      "start": 385.005,
+      "end": 385.493,
+      "duration": 0.487
+    },
+    {
+      "text": "are",
+      "start": 385.505,
+      "end": 385.643,
+      "duration": 0.138
+    },
+    {
+      "text": "the",
+      "start": 385.656,
+      "end": 385.755,
+      "duration": 0.1
+    },
+    {
+      "text": "third",
+      "start": 385.768,
+      "end": 386.106,
+      "duration": 0.338
+    },
+    {
+      "text": "most",
+      "start": 386.118,
+      "end": 386.43,
+      "duration": 0.312
+    },
+    {
+      "text": "abundant",
+      "start": 386.443,
+      "end": 386.893,
+      "duration": 0.45
+    },
+    {
+      "text": "class",
+      "start": 386.906,
+      "end": 387.255,
+      "duration": 0.35
+    },
+    {
+      "text": "of",
+      "start": 387.268,
+      "end": 387.356,
+      "duration": 0.087
+    },
+    {
+      "text": "soluble",
+      "start": 387.368,
+      "end": 387.843,
+      "duration": 0.475
+    },
+    {
+      "text": "phenolics",
+      "start": 387.856,
+      "end": 388.443,
+      "duration": 0.588
+    },
+    {
+      "text": "in",
+      "start": 388.455,
+      "end": 388.58,
+      "duration": 0.125
+    },
+    {
+      "text": "grape",
+      "start": 388.593,
+      "end": 388.906,
+      "duration": 0.312
+    },
+    {
+      "text": "berries",
+      "start": 388.918,
+      "end": 389.418,
+      "duration": 0.5
+    },
+    {
+      "text": "after",
+      "start": 389.805,
+      "end": 390.106,
+      "duration": 0.3
+    },
+    {
+      "text": "proanthocyanidins",
+      "start": 390.118,
+      "end": 391.255,
+      "duration": 1.137
+    },
+    {
+      "text": "and",
+      "start": 391.268,
+      "end": 391.505,
+      "duration": 0.237
+    },
+    {
+      "text": "anthocyanins",
+      "start": 391.518,
+      "end": 392.518,
+      "duration": 1.0
+    },
+    {
+      "text": "These",
+      "start": 393.38,
+      "end": 393.668,
+      "duration": 0.287
+    },
+    {
+      "text": "compounds",
+      "start": 393.68,
+      "end": 394.268,
+      "duration": 0.588
+    },
+    {
+      "text": "accumulate",
+      "start": 394.281,
+      "end": 394.88,
+      "duration": 0.6
+    },
+    {
+      "text": "mainly",
+      "start": 394.893,
+      "end": 395.281,
+      "duration": 0.388
+    },
+    {
+      "text": "in",
+      "start": 395.293,
+      "end": 395.38,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 395.393,
+      "end": 395.468,
+      "duration": 0.075
+    },
+    {
+      "text": "flesh",
+      "start": 395.481,
+      "end": 395.943,
+      "duration": 0.463
+    },
+    {
+      "text": "however",
+      "start": 396.18,
+      "end": 396.63,
+      "duration": 0.45
+    },
+    {
+      "text": "they",
+      "start": 396.918,
+      "end": 397.031,
+      "duration": 0.113
+    },
+    {
+      "text": "are",
+      "start": 397.043,
+      "end": 397.193,
+      "duration": 0.15
+    },
+    {
+      "text": "also",
+      "start": 397.205,
+      "end": 397.531,
+      "duration": 0.325
+    },
+    {
+      "text": "present",
+      "start": 397.543,
+      "end": 397.955,
+      "duration": 0.412
+    },
+    {
+      "text": "in",
+      "start": 397.968,
+      "end": 398.118,
+      "duration": 0.15
+    },
+    {
+      "text": "other",
+      "start": 398.13,
+      "end": 398.368,
+      "duration": 0.237
+    },
+    {
+      "text": "grape",
+      "start": 398.38,
+      "end": 398.63,
+      "duration": 0.25
+    },
+    {
+      "text": "tissues",
+      "start": 398.643,
+      "end": 399.268,
+      "duration": 0.625
+    },
+    {
+      "text": "The",
+      "start": 400.13,
+      "end": 400.305,
+      "duration": 0.175
+    },
+    {
+      "text": "predominant",
+      "start": 400.318,
+      "end": 400.93,
+      "duration": 0.613
+    },
+    {
+      "text": "hydroxycinnamic",
+      "start": 400.943,
+      "end": 402.005,
+      "duration": 1.062
+    },
+    {
+      "text": "acids",
+      "start": 402.018,
+      "end": 402.455,
+      "duration": 0.438
+    },
+    {
+      "text": "in",
+      "start": 402.468,
+      "end": 402.568,
+      "duration": 0.1
+    },
+    {
+      "text": "grapes",
+      "start": 402.58,
+      "end": 403.005,
+      "duration": 0.425
+    },
+    {
+      "text": "are",
+      "start": 403.018,
+      "end": 403.18,
+      "duration": 0.163
+    },
+    {
+      "text": "p-coumaric",
+      "start": 403.193,
+      "end": 403.93,
+      "duration": 0.738
+    },
+    {
+      "text": "caffeic",
+      "start": 404.156,
+      "end": 404.743,
+      "duration": 0.588
+    },
+    {
+      "text": "and",
+      "start": 405.005,
+      "end": 405.106,
+      "duration": 0.1
+    },
+    {
+      "text": "ferulic",
+      "start": 405.118,
+      "end": 405.606,
+      "duration": 0.487
+    },
+    {
+      "text": "acids",
+      "start": 405.618,
+      "end": 406.168,
+      "duration": 0.55
+    },
+    {
+      "text": "which",
+      "start": 406.455,
+      "end": 406.68,
+      "duration": 0.225
+    },
+    {
+      "text": "differ",
+      "start": 406.693,
+      "end": 407.018,
+      "duration": 0.325
+    },
+    {
+      "text": "in",
+      "start": 407.031,
+      "end": 407.118,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 407.13,
+      "end": 407.218,
+      "duration": 0.087
+    },
+    {
+      "text": "type",
+      "start": 407.231,
+      "end": 407.531,
+      "duration": 0.3
+    },
+    {
+      "text": "and",
+      "start": 407.543,
+      "end": 407.643,
+      "duration": 0.1
+    },
+    {
+      "text": "number",
+      "start": 407.656,
+      "end": 407.943,
+      "duration": 0.287
+    },
+    {
+      "text": "of",
+      "start": 407.955,
+      "end": 408.031,
+      "duration": 0.075
+    },
+    {
+      "text": "substituents",
+      "start": 408.043,
+      "end": 408.818,
+      "duration": 0.775
+    },
+    {
+      "text": "on",
+      "start": 408.83,
+      "end": 408.955,
+      "duration": 0.125
+    },
+    {
+      "text": "the",
+      "start": 408.968,
+      "end": 409.055,
+      "duration": 0.087
+    },
+    {
+      "text": "aromatic",
+      "start": 409.068,
+      "end": 409.668,
+      "duration": 0.6
+    },
+    {
+      "text": "ring",
+      "start": 409.68,
+      "end": 410.068,
+      "duration": 0.388
+    },
+    {
+      "text": "Hydroxybenzoic",
+      "start": 410.943,
+      "end": 412.093,
+      "duration": 1.15
+    },
+    {
+      "text": "acids",
+      "start": 412.106,
+      "end": 412.543,
+      "duration": 0.438
+    },
+    {
+      "text": "are",
+      "start": 412.555,
+      "end": 412.668,
+      "duration": 0.113
+    },
+    {
+      "text": "present",
+      "start": 412.68,
+      "end": 413.118,
+      "duration": 0.438
+    },
+    {
+      "text": "in",
+      "start": 413.13,
+      "end": 413.268,
+      "duration": 0.138
+    },
+    {
+      "text": "lower",
+      "start": 413.281,
+      "end": 413.555,
+      "duration": 0.275
+    },
+    {
+      "text": "quantities",
+      "start": 413.568,
+      "end": 414.255,
+      "duration": 0.688
+    },
+    {
+      "text": "and",
+      "start": 414.268,
+      "end": 414.481,
+      "duration": 0.212
+    },
+    {
+      "text": "include",
+      "start": 414.493,
+      "end": 414.93,
+      "duration": 0.438
+    },
+    {
+      "text": "gentisic",
+      "start": 414.943,
+      "end": 415.518,
+      "duration": 0.575
+    },
+    {
+      "text": "acid",
+      "start": 415.531,
+      "end": 415.93,
+      "duration": 0.4
+    },
+    {
+      "text": "salicylic",
+      "start": 416.193,
+      "end": 416.868,
+      "duration": 0.675
+    },
+    {
+      "text": "acid",
+      "start": 416.88,
+      "end": 417.318,
+      "duration": 0.438
+    },
+    {
+      "text": "gallic",
+      "start": 417.493,
+      "end": 417.868,
+      "duration": 0.375
+    },
+    {
+      "text": "acid",
+      "start": 417.88,
+      "end": 418.305,
+      "duration": 0.425
+    },
+    {
+      "text": "p-hydroxybenzoic",
+      "start": 418.531,
+      "end": 419.793,
+      "duration": 1.262
+    },
+    {
+      "text": "acid",
+      "start": 419.805,
+      "end": 420.218,
+      "duration": 0.412
+    },
+    {
+      "text": "protocatechuic",
+      "start": 420.493,
+      "end": 421.38,
+      "duration": 0.887
+    },
+    {
+      "text": "acid",
+      "start": 421.393,
+      "end": 421.805,
+      "duration": 0.412
+    },
+    {
+      "text": "tannic",
+      "start": 422.055,
+      "end": 422.443,
+      "duration": 0.388
+    },
+    {
+      "text": "acid",
+      "start": 422.455,
+      "end": 422.856,
+      "duration": 0.4
+    },
+    {
+      "text": "vanillic",
+      "start": 423.055,
+      "end": 423.493,
+      "duration": 0.438
+    },
+    {
+      "text": "acid",
+      "start": 423.505,
+      "end": 423.93,
+      "duration": 0.425
+    },
+    {
+      "text": "and",
+      "start": 424.143,
+      "end": 424.318,
+      "duration": 0.175
+    },
+    {
+      "text": "syringic",
+      "start": 424.33,
+      "end": 424.868,
+      "duration": 0.537
+    },
+    {
+      "text": "acid",
+      "start": 424.88,
+      "end": 425.293,
+      "duration": 0.412
+    },
+    {
+      "text": "mainly",
+      "start": 425.593,
+      "end": 426.043,
+      "duration": 0.45
+    },
+    {
+      "text": "found",
+      "start": 426.055,
+      "end": 426.38,
+      "duration": 0.325
+    },
+    {
+      "text": "in",
+      "start": 426.393,
+      "end": 426.455,
+      "duration": 0.062
+    },
+    {
+      "text": "their",
+      "start": 426.468,
+      "end": 426.63,
+      "duration": 0.163
+    },
+    {
+      "text": "free",
+      "start": 426.643,
+      "end": 426.868,
+      "duration": 0.225
+    },
+    {
+      "text": "form",
+      "start": 426.88,
+      "end": 427.368,
+      "duration": 0.487
+    },
+    {
+      "text": "Gallic",
+      "start": 428.231,
+      "end": 428.668,
+      "duration": 0.438
+    },
+    {
+      "text": "acid",
+      "start": 428.68,
+      "end": 429.08,
+      "duration": 0.4
+    },
+    {
+      "text": "is",
+      "start": 429.093,
+      "end": 429.218,
+      "duration": 0.125
+    },
+    {
+      "text": "the",
+      "start": 429.231,
+      "end": 429.318,
+      "duration": 0.087
+    },
+    {
+      "text": "most",
+      "start": 429.33,
+      "end": 429.593,
+      "duration": 0.263
+    },
+    {
+      "text": "abundant",
+      "start": 429.606,
+      "end": 430.031,
+      "duration": 0.425
+    },
+    {
+      "text": "hydroxybenzoic",
+      "start": 430.043,
+      "end": 431.156,
+      "duration": 1.113
+    },
+    {
+      "text": "acid",
+      "start": 431.168,
+      "end": 431.505,
+      "duration": 0.338
+    },
+    {
+      "text": "derivative",
+      "start": 431.518,
+      "end": 432.068,
+      "duration": 0.55
+    },
+    {
+      "text": "in",
+      "start": 432.08,
+      "end": 432.18,
+      "duration": 0.1
+    },
+    {
+      "text": "grape",
+      "start": 432.193,
+      "end": 432.493,
+      "duration": 0.3
+    },
+    {
+      "text": "stems",
+      "start": 432.505,
+      "end": 432.981,
+      "duration": 0.475
+    },
+    {
+      "text": "skins",
+      "start": 433.18,
+      "end": 433.731,
+      "duration": 0.55
+    },
+    {
+      "text": "and",
+      "start": 433.918,
+      "end": 434.093,
+      "duration": 0.175
+    },
+    {
+      "text": "seeds",
+      "start": 434.106,
+      "end": 434.606,
+      "duration": 0.5
+    },
+    {
+      "text": "followed",
+      "start": 434.981,
+      "end": 435.343,
+      "duration": 0.362
+    },
+    {
+      "text": "by",
+      "start": 435.356,
+      "end": 435.505,
+      "duration": 0.15
+    },
+    {
+      "text": "syringic",
+      "start": 435.518,
+      "end": 436.068,
+      "duration": 0.55
+    },
+    {
+      "text": "acid",
+      "start": 436.08,
+      "end": 436.43,
+      "duration": 0.35
+    },
+    {
+      "text": "in",
+      "start": 436.443,
+      "end": 436.543,
+      "duration": 0.1
+    },
+    {
+      "text": "grape",
+      "start": 436.555,
+      "end": 436.843,
+      "duration": 0.287
+    },
+    {
+      "text": "stems",
+      "start": 436.856,
+      "end": 437.305,
+      "duration": 0.45
+    },
+    {
+      "text": "and",
+      "start": 437.318,
+      "end": 437.505,
+      "duration": 0.188
+    },
+    {
+      "text": "protocatechuic",
+      "start": 437.518,
+      "end": 438.368,
+      "duration": 0.85
+    },
+    {
+      "text": "acid",
+      "start": 438.38,
+      "end": 438.793,
+      "duration": 0.412
+    },
+    {
+      "text": "in",
+      "start": 438.805,
+      "end": 438.955,
+      "duration": 0.15
+    },
+    {
+      "text": "grape",
+      "start": 438.968,
+      "end": 439.255,
+      "duration": 0.287
+    },
+    {
+      "text": "seeds",
+      "start": 439.268,
+      "end": 439.606,
+      "duration": 0.338
+    },
+    {
+      "text": "and",
+      "start": 439.618,
+      "end": 439.755,
+      "duration": 0.138
+    },
+    {
+      "text": "skins",
+      "start": 439.768,
+      "end": 440.393,
+      "duration": 0.625
+    },
+    {
+      "text": "Other",
+      "start": 441.255,
+      "end": 441.543,
+      "duration": 0.287
+    },
+    {
+      "text": "nonflavonoid",
+      "start": 441.555,
+      "end": 442.38,
+      "duration": 0.825
+    },
+    {
+      "text": "compounds",
+      "start": 442.393,
+      "end": 443.031,
+      "duration": 0.637
+    },
+    {
+      "text": "present",
+      "start": 443.043,
+      "end": 443.418,
+      "duration": 0.375
+    },
+    {
+      "text": "in",
+      "start": 443.43,
+      "end": 443.505,
+      "duration": 0.075
+    },
+    {
+      "text": "grapes",
+      "start": 443.518,
+      "end": 443.906,
+      "duration": 0.388
+    },
+    {
+      "text": "are",
+      "start": 443.918,
+      "end": 444.043,
+      "duration": 0.125
+    },
+    {
+      "text": "stilbenes",
+      "start": 444.055,
+      "end": 444.793,
+      "duration": 0.738
+    },
+    {
+      "text": "the",
+      "start": 445.156,
+      "end": 445.281,
+      "duration": 0.125
+    },
+    {
+      "text": "structure",
+      "start": 445.293,
+      "end": 445.755,
+      "duration": 0.463
+    },
+    {
+      "text": "of",
+      "start": 445.768,
+      "end": 445.843,
+      "duration": 0.075
+    },
+    {
+      "text": "which",
+      "start": 445.856,
+      "end": 446.08,
+      "duration": 0.225
+    },
+    {
+      "text": "comprises",
+      "start": 446.093,
+      "end": 446.718,
+      "duration": 0.625
+    },
+    {
+      "text": "two",
+      "start": 446.731,
+      "end": 446.968,
+      "duration": 0.237
+    },
+    {
+      "text": "aromatic",
+      "start": 446.981,
+      "end": 447.58,
+      "duration": 0.6
+    },
+    {
+      "text": "rings",
+      "start": 447.593,
+      "end": 448.005,
+      "duration": 0.412
+    },
+    {
+      "text": "linked",
+      "start": 448.018,
+      "end": 448.33,
+      "duration": 0.312
+    },
+    {
+      "text": "by",
+      "start": 448.343,
+      "end": 448.505,
+      "duration": 0.163
+    },
+    {
+      "text": "an",
+      "start": 448.518,
+      "end": 448.668,
+      "duration": 0.15
+    },
+    {
+      "text": "ethane",
+      "start": 448.68,
+      "end": 449.031,
+      "duration": 0.35
+    },
+    {
+      "text": "bridge",
+      "start": 449.043,
+      "end": 449.543,
+      "duration": 0.5
+    },
+    {
+      "text": "The",
+      "start": 450.406,
+      "end": 450.58,
+      "duration": 0.175
+    },
+    {
+      "text": "main",
+      "start": 450.593,
+      "end": 450.856,
+      "duration": 0.263
+    },
+    {
+      "text": "grape",
+      "start": 450.868,
+      "end": 451.156,
+      "duration": 0.287
+    },
+    {
+      "text": "stilbenes",
+      "start": 451.168,
+      "end": 451.83,
+      "duration": 0.662
+    },
+    {
+      "text": "are",
+      "start": 451.843,
+      "end": 452.018,
+      "duration": 0.175
+    },
+    {
+      "text": "cis",
+      "start": 452.031,
+      "end": 452.368,
+      "duration": 0.338
+    },
+    {
+      "text": "and",
+      "start": 452.38,
+      "end": 452.505,
+      "duration": 0.125
+    },
+    {
+      "text": "trans-resveratrol",
+      "start": 452.518,
+      "end": 453.668,
+      "duration": 1.15
+    },
+    {
+      "text": "resveratrol-3-O-beta-D-glucopyranoside",
+      "start": 454.055,
+      "end": 456.943,
+      "duration": 2.888
+    },
+    {
+      "text": "known",
+      "start": 456.955,
+      "end": 457.18,
+      "duration": 0.225
+    },
+    {
+      "text": "as",
+      "start": 457.193,
+      "end": 457.305,
+      "duration": 0.113
+    },
+    {
+      "text": "piceid",
+      "start": 457.318,
+      "end": 457.83,
+      "duration": 0.512
+    },
+    {
+      "text": "piceatannol",
+      "start": 458.156,
+      "end": 458.993,
+      "duration": 0.838
+    },
+    {
+      "text": "and",
+      "start": 459.193,
+      "end": 459.305,
+      "duration": 0.113
+    },
+    {
+      "text": "resveratrol",
+      "start": 459.318,
+      "end": 460.068,
+      "duration": 0.75
+    },
+    {
+      "text": "oligomers",
+      "start": 460.08,
+      "end": 460.643,
+      "duration": 0.562
+    },
+    {
+      "text": "known",
+      "start": 460.656,
+      "end": 460.893,
+      "duration": 0.237
+    },
+    {
+      "text": "as",
+      "start": 460.906,
+      "end": 461.018,
+      "duration": 0.113
+    },
+    {
+      "text": "viniferins",
+      "start": 461.031,
+      "end": 461.843,
+      "duration": 0.812
+    },
+    {
+      "text": "Compounds",
+      "start": 462.718,
+      "end": 463.393,
+      "duration": 0.675
+    },
+    {
+      "text": "belonging",
+      "start": 463.406,
+      "end": 463.856,
+      "duration": 0.45
+    },
+    {
+      "text": "to",
+      "start": 463.868,
+      "end": 463.943,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 463.955,
+      "end": 464.068,
+      "duration": 0.113
+    },
+    {
+      "text": "stilbene",
+      "start": 464.08,
+      "end": 464.606,
+      "duration": 0.525
+    },
+    {
+      "text": "family",
+      "start": 464.618,
+      "end": 465.043,
+      "duration": 0.425
+    },
+    {
+      "text": "possess",
+      "start": 465.055,
+      "end": 465.481,
+      "duration": 0.425
+    },
+    {
+      "text": "the",
+      "start": 465.493,
+      "end": 465.618,
+      "duration": 0.125
+    },
+    {
+      "text": "skeleton",
+      "start": 465.63,
+      "end": 466.218,
+      "duration": 0.588
+    },
+    {
+      "text": "based",
+      "start": 466.231,
+      "end": 466.555,
+      "duration": 0.325
+    },
+    {
+      "text": "on",
+      "start": 466.568,
+      "end": 466.656,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 466.668,
+      "end": 466.731,
+      "duration": 0.062
+    },
+    {
+      "text": "trans-resveratrol",
+      "start": 466.743,
+      "end": 467.755,
+      "duration": 1.012
+    },
+    {
+      "text": "structure",
+      "start": 467.768,
+      "end": 468.356,
+      "duration": 0.588
+    },
+    {
+      "text": "trans-Resveratrol",
+      "start": 469.218,
+      "end": 470.368,
+      "duration": 1.15
+    },
+    {
+      "text": "is",
+      "start": 470.38,
+      "end": 470.505,
+      "duration": 0.125
+    },
+    {
+      "text": "distributed",
+      "start": 470.518,
+      "end": 471.156,
+      "duration": 0.637
+    },
+    {
+      "text": "mostly",
+      "start": 471.168,
+      "end": 471.58,
+      "duration": 0.412
+    },
+    {
+      "text": "in",
+      "start": 471.593,
+      "end": 471.68,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 471.693,
+      "end": 471.768,
+      "duration": 0.075
+    },
+    {
+      "text": "skin",
+      "start": 471.781,
+      "end": 472.168,
+      "duration": 0.388
+    },
+    {
+      "text": "even",
+      "start": 472.543,
+      "end": 472.768,
+      "duration": 0.225
+    },
+    {
+      "text": "though",
+      "start": 472.781,
+      "end": 472.906,
+      "duration": 0.125
+    },
+    {
+      "text": "the",
+      "start": 472.918,
+      "end": 473.018,
+      "duration": 0.1
+    },
+    {
+      "text": "concentration",
+      "start": 473.031,
+      "end": 473.843,
+      "duration": 0.812
+    },
+    {
+      "text": "of",
+      "start": 473.856,
+      "end": 473.943,
+      "duration": 0.087
+    },
+    {
+      "text": "this",
+      "start": 473.955,
+      "end": 474.118,
+      "duration": 0.163
+    },
+    {
+      "text": "stilbene",
+      "start": 474.13,
+      "end": 474.656,
+      "duration": 0.525
+    },
+    {
+      "text": "in",
+      "start": 474.668,
+      "end": 474.755,
+      "duration": 0.087
+    },
+    {
+      "text": "grape",
+      "start": 474.768,
+      "end": 475.068,
+      "duration": 0.3
+    },
+    {
+      "text": "skins",
+      "start": 475.08,
+      "end": 475.505,
+      "duration": 0.425
+    },
+    {
+      "text": "and",
+      "start": 475.518,
+      "end": 475.643,
+      "duration": 0.125
+    },
+    {
+      "text": "seeds",
+      "start": 475.656,
+      "end": 476.005,
+      "duration": 0.35
+    },
+    {
+      "text": "varies",
+      "start": 476.018,
+      "end": 476.418,
+      "duration": 0.4
+    },
+    {
+      "text": "considerably",
+      "start": 476.43,
+      "end": 477.156,
+      "duration": 0.725
+    },
+    {
+      "text": "within",
+      "start": 477.168,
+      "end": 477.468,
+      "duration": 0.3
+    },
+    {
+      "text": "the",
+      "start": 477.481,
+      "end": 477.568,
+      "duration": 0.087
+    },
+    {
+      "text": "Vitis",
+      "start": 477.58,
+      "end": 477.955,
+      "duration": 0.375
+    },
+    {
+      "text": "germplasm",
+      "start": 477.968,
+      "end": 478.743,
+      "duration": 0.775
+    },
+    {
+      "text": "Although",
+      "start": 479.618,
+      "end": 479.981,
+      "duration": 0.362
+    },
+    {
+      "text": "present",
+      "start": 479.993,
+      "end": 480.418,
+      "duration": 0.425
+    },
+    {
+      "text": "in",
+      "start": 480.43,
+      "end": 480.518,
+      "duration": 0.087
+    },
+    {
+      "text": "trace",
+      "start": 480.531,
+      "end": 480.83,
+      "duration": 0.3
+    },
+    {
+      "text": "quantities",
+      "start": 480.843,
+      "end": 481.531,
+      "duration": 0.688
+    },
+    {
+      "text": "the",
+      "start": 481.843,
+      "end": 481.943,
+      "duration": 0.1
+    },
+    {
+      "text": "production",
+      "start": 481.955,
+      "end": 482.468,
+      "duration": 0.512
+    },
+    {
+      "text": "of",
+      "start": 482.481,
+      "end": 482.568,
+      "duration": 0.087
+    },
+    {
+      "text": "these",
+      "start": 482.58,
+      "end": 482.755,
+      "duration": 0.175
+    },
+    {
+      "text": "compounds",
+      "start": 482.768,
+      "end": 483.443,
+      "duration": 0.675
+    },
+    {
+      "text": "can",
+      "start": 483.455,
+      "end": 483.606,
+      "duration": 0.15
+    },
+    {
+      "text": "increase",
+      "start": 483.618,
+      "end": 484.168,
+      "duration": 0.55
+    },
+    {
+      "text": "in",
+      "start": 484.18,
+      "end": 484.305,
+      "duration": 0.125
+    },
+    {
+      "text": "response",
+      "start": 484.318,
+      "end": 484.843,
+      "duration": 0.525
+    },
+    {
+      "text": "to",
+      "start": 484.856,
+      "end": 484.968,
+      "duration": 0.113
+    },
+    {
+      "text": "pathogenic",
+      "start": 484.981,
+      "end": 485.668,
+      "duration": 0.688
+    },
+    {
+      "text": "attacks",
+      "start": 485.68,
+      "end": 486.143,
+      "duration": 0.463
+    },
+    {
+      "text": "and",
+      "start": 486.156,
+      "end": 486.356,
+      "duration": 0.2
+    },
+    {
+      "text": "environmental",
+      "start": 486.368,
+      "end": 487.031,
+      "duration": 0.662
+    },
+    {
+      "text": "stress",
+      "start": 487.043,
+      "end": 487.493,
+      "duration": 0.45
+    },
+    {
+      "text": "such",
+      "start": 487.83,
+      "end": 488.018,
+      "duration": 0.188
+    },
+    {
+      "text": "as",
+      "start": 488.031,
+      "end": 488.13,
+      "duration": 0.1
+    },
+    {
+      "text": "injury",
+      "start": 488.143,
+      "end": 488.668,
+      "duration": 0.525
+    },
+    {
+      "text": "ultraviolet",
+      "start": 488.981,
+      "end": 489.656,
+      "duration": 0.675
+    },
+    {
+      "text": "irradiation",
+      "start": 489.668,
+      "end": 490.38,
+      "duration": 0.713
+    },
+    {
+      "text": "or",
+      "start": 490.58,
+      "end": 490.755,
+      "duration": 0.175
+    },
+    {
+      "text": "fungal",
+      "start": 490.768,
+      "end": 491.118,
+      "duration": 0.35
+    },
+    {
+      "text": "infection",
+      "start": 491.13,
+      "end": 491.805,
+      "duration": 0.675
+    },
+    {
+      "text": "It",
+      "start": 492.668,
+      "end": 492.83,
+      "duration": 0.163
+    },
+    {
+      "text": "is",
+      "start": 492.843,
+      "end": 492.955,
+      "duration": 0.113
+    },
+    {
+      "text": "important",
+      "start": 492.968,
+      "end": 493.468,
+      "duration": 0.5
+    },
+    {
+      "text": "to",
+      "start": 493.481,
+      "end": 493.555,
+      "duration": 0.075
+    },
+    {
+      "text": "note",
+      "start": 493.568,
+      "end": 493.856,
+      "duration": 0.287
+    },
+    {
+      "text": "that",
+      "start": 493.868,
+      "end": 493.968,
+      "duration": 0.1
+    },
+    {
+      "text": "the",
+      "start": 493.981,
+      "end": 494.055,
+      "duration": 0.075
+    },
+    {
+      "text": "most",
+      "start": 494.068,
+      "end": 494.368,
+      "duration": 0.3
+    },
+    {
+      "text": "powerful",
+      "start": 494.38,
+      "end": 494.918,
+      "duration": 0.537
+    },
+    {
+      "text": "antioxidants",
+      "start": 494.93,
+      "end": 495.843,
+      "duration": 0.912
+    },
+    {
+      "text": "including",
+      "start": 496.031,
+      "end": 496.543,
+      "duration": 0.512
+    },
+    {
+      "text": "resveratrol",
+      "start": 496.555,
+      "end": 497.43,
+      "duration": 0.875
+    },
+    {
+      "text": "quercetin",
+      "start": 497.568,
+      "end": 498.13,
+      "duration": 0.562
+    },
+    {
+      "text": "rutin",
+      "start": 498.343,
+      "end": 498.731,
+      "duration": 0.388
+    },
+    {
+      "text": "catechin",
+      "start": 498.868,
+      "end": 499.455,
+      "duration": 0.588
+    },
+    {
+      "text": "epicatechin",
+      "start": 499.58,
+      "end": 500.318,
+      "duration": 0.738
+    },
+    {
+      "text": "and",
+      "start": 500.505,
+      "end": 500.693,
+      "duration": 0.188
+    },
+    {
+      "text": "epicatechin",
+      "start": 500.705,
+      "end": 501.356,
+      "duration": 0.65
+    },
+    {
+      "text": "gallate",
+      "start": 501.368,
+      "end": 501.856,
+      "duration": 0.487
+    },
+    {
+      "text": "are",
+      "start": 502.068,
+      "end": 502.18,
+      "duration": 0.113
+    },
+    {
+      "text": "in",
+      "start": 502.193,
+      "end": 502.305,
+      "duration": 0.113
+    },
+    {
+      "text": "the",
+      "start": 502.318,
+      "end": 502.406,
+      "duration": 0.087
+    },
+    {
+      "text": "skin",
+      "start": 502.418,
+      "end": 502.68,
+      "duration": 0.263
+    },
+    {
+      "text": "of",
+      "start": 502.693,
+      "end": 502.781,
+      "duration": 0.087
+    },
+    {
+      "text": "grapes",
+      "start": 502.793,
+      "end": 503.33,
+      "duration": 0.537
+    },
+    {
+      "text": "The",
+      "start": 504.193,
+      "end": 504.368,
+      "duration": 0.175
+    },
+    {
+      "text": "different",
+      "start": 504.38,
+      "end": 504.768,
+      "duration": 0.388
+    },
+    {
+      "text": "phytochemical",
+      "start": 504.781,
+      "end": 505.518,
+      "duration": 0.738
+    },
+    {
+      "text": "compounds",
+      "start": 505.531,
+      "end": 506.231,
+      "duration": 0.7
+    },
+    {
+      "text": "according",
+      "start": 506.468,
+      "end": 506.93,
+      "duration": 0.463
+    },
+    {
+      "text": "to",
+      "start": 506.943,
+      "end": 507.018,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 507.031,
+      "end": 507.143,
+      "duration": 0.113
+    },
+    {
+      "text": "grape",
+      "start": 507.156,
+      "end": 507.443,
+      "duration": 0.287
+    },
+    {
+      "text": "product",
+      "start": 507.455,
+      "end": 507.88,
+      "duration": 0.425
+    },
+    {
+      "text": "extract",
+      "start": 507.893,
+      "end": 508.368,
+      "duration": 0.475
+    },
+    {
+      "text": "studied",
+      "start": 508.38,
+      "end": 508.805,
+      "duration": 0.425
+    },
+    {
+      "text": "have",
+      "start": 509.13,
+      "end": 509.268,
+      "duration": 0.138
+    },
+    {
+      "text": "been",
+      "start": 509.281,
+      "end": 509.43,
+      "duration": 0.15
+    },
+    {
+      "text": "described",
+      "start": 509.443,
+      "end": 510.005,
+      "duration": 0.562
+    },
+    {
+      "text": "elsewhere",
+      "start": 510.018,
+      "end": 510.618,
+      "duration": 0.6
+    },
+    {
+      "text": "In",
+      "start": 511.493,
+      "end": 511.668,
+      "duration": 0.175
+    },
+    {
+      "text": "addition",
+      "start": 511.68,
+      "end": 512.081,
+      "duration": 0.4
+    },
+    {
+      "text": "to",
+      "start": 512.093,
+      "end": 512.181,
+      "duration": 0.087
+    },
+    {
+      "text": "phenolics",
+      "start": 512.193,
+      "end": 512.806,
+      "duration": 0.613
+    },
+    {
+      "text": "grape",
+      "start": 513.03,
+      "end": 513.331,
+      "duration": 0.3
+    },
+    {
+      "text": "phytochemicals",
+      "start": 513.343,
+      "end": 514.181,
+      "duration": 0.838
+    },
+    {
+      "text": "from",
+      "start": 514.193,
+      "end": 514.331,
+      "duration": 0.138
+    },
+    {
+      "text": "the",
+      "start": 514.343,
+      "end": 514.431,
+      "duration": 0.087
+    },
+    {
+      "text": "skin",
+      "start": 514.443,
+      "end": 514.843,
+      "duration": 0.4
+    },
+    {
+      "text": "seed",
+      "start": 515.081,
+      "end": 515.481,
+      "duration": 0.4
+    },
+    {
+      "text": "and",
+      "start": 515.731,
+      "end": 515.918,
+      "duration": 0.188
+    },
+    {
+      "text": "juice",
+      "start": 515.931,
+      "end": 516.243,
+      "duration": 0.312
+    },
+    {
+      "text": "also",
+      "start": 516.255,
+      "end": 516.618,
+      "duration": 0.362
+    },
+    {
+      "text": "include",
+      "start": 516.63,
+      "end": 517.106,
+      "duration": 0.475
+    },
+    {
+      "text": "other",
+      "start": 517.118,
+      "end": 517.368,
+      "duration": 0.25
+    },
+    {
+      "text": "bioactive",
+      "start": 517.38,
+      "end": 518.03,
+      "duration": 0.65
+    },
+    {
+      "text": "compounds",
+      "start": 518.043,
+      "end": 518.755,
+      "duration": 0.713
+    },
+    {
+      "text": "like",
+      "start": 519.03,
+      "end": 519.193,
+      "duration": 0.163
+    },
+    {
+      "text": "carotenoids",
+      "start": 519.206,
+      "end": 519.931,
+      "duration": 0.725
+    },
+    {
+      "text": "and",
+      "start": 519.943,
+      "end": 520.068,
+      "duration": 0.125
+    },
+    {
+      "text": "melatonin",
+      "start": 520.081,
+      "end": 520.843,
+      "duration": 0.762
+    },
+    {
+      "text": "Soluble",
+      "start": 521.706,
+      "end": 522.368,
+      "duration": 0.662
+    },
+    {
+      "text": "and",
+      "start": 522.38,
+      "end": 522.493,
+      "duration": 0.113
+    },
+    {
+      "text": "insoluble",
+      "start": 522.505,
+      "end": 523.143,
+      "duration": 0.637
+    },
+    {
+      "text": "dietary",
+      "start": 523.155,
+      "end": 523.718,
+      "duration": 0.562
+    },
+    {
+      "text": "fiber",
+      "start": 523.731,
+      "end": 524.181,
+      "duration": 0.45
+    },
+    {
+      "text": "vitamin",
+      "start": 524.431,
+      "end": 524.856,
+      "duration": 0.425
+    },
+    {
+      "text": "C",
+      "start": 524.868,
+      "end": 525.193,
+      "duration": 0.325
+    },
+    {
+      "text": "minerals",
+      "start": 525.468,
+      "end": 525.893,
+      "duration": 0.425
+    },
+    {
+      "text": "including",
+      "start": 525.905,
+      "end": 526.343,
+      "duration": 0.438
+    },
+    {
+      "text": "calcium",
+      "start": 526.356,
+      "end": 526.943,
+      "duration": 0.588
+    },
+    {
+      "text": "magnesium",
+      "start": 527.13,
+      "end": 527.793,
+      "duration": 0.662
+    },
+    {
+      "text": "iron",
+      "start": 527.968,
+      "end": 528.293,
+      "duration": 0.325
+    },
+    {
+      "text": "zinc",
+      "start": 528.518,
+      "end": 528.88,
+      "duration": 0.362
+    },
+    {
+      "text": "and",
+      "start": 529.043,
+      "end": 529.181,
+      "duration": 0.138
+    },
+    {
+      "text": "manganese",
+      "start": 529.193,
+      "end": 529.818,
+      "duration": 0.625
+    },
+    {
+      "text": "lipids",
+      "start": 530.018,
+      "end": 530.53,
+      "duration": 0.512
+    },
+    {
+      "text": "proteins",
+      "start": 530.706,
+      "end": 531.343,
+      "duration": 0.637
+    },
+    {
+      "text": "and",
+      "start": 531.518,
+      "end": 531.693,
+      "duration": 0.175
+    },
+    {
+      "text": "carbohydrates",
+      "start": 531.706,
+      "end": 532.568,
+      "duration": 0.863
+    },
+    {
+      "text": "including",
+      "start": 532.581,
+      "end": 533.056,
+      "duration": 0.475
+    },
+    {
+      "text": "fructose",
+      "start": 533.068,
+      "end": 533.693,
+      "duration": 0.625
+    },
+    {
+      "text": "glucose",
+      "start": 533.905,
+      "end": 534.493,
+      "duration": 0.588
+    },
+    {
+      "text": "and",
+      "start": 534.78,
+      "end": 534.981,
+      "duration": 0.2
+    },
+    {
+      "text": "sucrose",
+      "start": 534.993,
+      "end": 535.518,
+      "duration": 0.525
+    },
+    {
+      "text": "are",
+      "start": 535.53,
+      "end": 535.706,
+      "duration": 0.175
+    },
+    {
+      "text": "also",
+      "start": 535.718,
+      "end": 536.018,
+      "duration": 0.3
+    },
+    {
+      "text": "important",
+      "start": 536.03,
+      "end": 536.505,
+      "duration": 0.475
+    },
+    {
+      "text": "components",
+      "start": 536.518,
+      "end": 537.056,
+      "duration": 0.537
+    },
+    {
+      "text": "of",
+      "start": 537.068,
+      "end": 537.155,
+      "duration": 0.087
+    },
+    {
+      "text": "grapes",
+      "start": 537.168,
+      "end": 537.706,
+      "duration": 0.537
+    },
+    {
+      "text": "Phenolic",
+      "start": 538.581,
+      "end": 539.118,
+      "duration": 0.537
+    },
+    {
+      "text": "metabolism",
+      "start": 539.13,
+      "end": 539.856,
+      "duration": 0.725
+    },
+    {
+      "text": "and",
+      "start": 539.868,
+      "end": 540.13,
+      "duration": 0.263
+    },
+    {
+      "text": "thus",
+      "start": 540.331,
+      "end": 540.693,
+      "duration": 0.362
+    },
+    {
+      "text": "grape",
+      "start": 540.968,
+      "end": 541.255,
+      "duration": 0.287
+    },
+    {
+      "text": "composition",
+      "start": 541.268,
+      "end": 541.943,
+      "duration": 0.675
+    },
+    {
+      "text": "and",
+      "start": 541.956,
+      "end": 542.056,
+      "duration": 0.1
+    },
+    {
+      "text": "development",
+      "start": 542.068,
+      "end": 542.693,
+      "duration": 0.625
+    },
+    {
+      "text": "are",
+      "start": 542.706,
+      "end": 542.818,
+      "duration": 0.113
+    },
+    {
+      "text": "severely",
+      "start": 542.831,
+      "end": 543.318,
+      "duration": 0.487
+    },
+    {
+      "text": "affected",
+      "start": 543.331,
+      "end": 543.768,
+      "duration": 0.438
+    },
+    {
+      "text": "by",
+      "start": 543.78,
+      "end": 543.918,
+      "duration": 0.138
+    },
+    {
+      "text": "heat",
+      "start": 543.931,
+      "end": 544.293,
+      "duration": 0.362
+    },
+    {
+      "text": "drought",
+      "start": 544.543,
+      "end": 544.943,
+      "duration": 0.4
+    },
+    {
+      "text": "and",
+      "start": 545.181,
+      "end": 545.331,
+      "duration": 0.15
+    },
+    {
+      "text": "light",
+      "start": 545.343,
+      "end": 545.655,
+      "duration": 0.312
+    },
+    {
+      "text": "and",
+      "start": 545.668,
+      "end": 545.806,
+      "duration": 0.138
+    },
+    {
+      "text": "ultraviolet",
+      "start": 545.818,
+      "end": 546.468,
+      "duration": 0.65
+    },
+    {
+      "text": "intensity",
+      "start": 546.481,
+      "end": 547.181,
+      "duration": 0.7
+    },
+    {
+      "text": "Therefore",
+      "start": 548.043,
+      "end": 548.706,
+      "duration": 0.662
+    },
+    {
+      "text": "climatic",
+      "start": 548.856,
+      "end": 549.368,
+      "duration": 0.512
+    },
+    {
+      "text": "conditions",
+      "start": 549.38,
+      "end": 549.918,
+      "duration": 0.537
+    },
+    {
+      "text": "determine",
+      "start": 549.931,
+      "end": 550.505,
+      "duration": 0.575
+    },
+    {
+      "text": "to",
+      "start": 550.718,
+      "end": 550.831,
+      "duration": 0.113
+    },
+    {
+      "text": "a",
+      "start": 550.843,
+      "end": 550.918,
+      "duration": 0.075
+    },
+    {
+      "text": "large",
+      "start": 550.931,
+      "end": 551.28,
+      "duration": 0.35
+    },
+    {
+      "text": "degree",
+      "start": 551.293,
+      "end": 551.731,
+      "duration": 0.438
+    },
+    {
+      "text": "the",
+      "start": 551.918,
+      "end": 552.018,
+      "duration": 0.1
+    },
+    {
+      "text": "grape",
+      "start": 552.03,
+      "end": 552.306,
+      "duration": 0.275
+    },
+    {
+      "text": "varieties",
+      "start": 552.318,
+      "end": 553.143,
+      "duration": 0.825
+    },
+    {
+      "text": "that",
+      "start": 554.116,
+      "end": 554.404,
+      "duration": 0.287
+    },
+    {
+      "text": "can",
+      "start": 554.416,
+      "end": 554.553,
+      "duration": 0.138
+    },
+    {
+      "text": "be",
+      "start": 554.566,
+      "end": 554.678,
+      "duration": 0.113
+    },
+    {
+      "text": "cultivated",
+      "start": 554.691,
+      "end": 555.453,
+      "duration": 0.762
+    },
+    {
+      "text": "It",
+      "start": 556.316,
+      "end": 556.479,
+      "duration": 0.163
+    },
+    {
+      "text": "is",
+      "start": 556.491,
+      "end": 556.591,
+      "duration": 0.1
+    },
+    {
+      "text": "expected",
+      "start": 556.604,
+      "end": 557.203,
+      "duration": 0.6
+    },
+    {
+      "text": "that",
+      "start": 557.216,
+      "end": 557.341,
+      "duration": 0.125
+    },
+    {
+      "text": "climatic",
+      "start": 557.354,
+      "end": 557.916,
+      "duration": 0.562
+    },
+    {
+      "text": "extremes",
+      "start": 557.928,
+      "end": 558.541,
+      "duration": 0.613
+    },
+    {
+      "text": "will",
+      "start": 558.553,
+      "end": 558.678,
+      "duration": 0.125
+    },
+    {
+      "text": "have",
+      "start": 558.691,
+      "end": 558.879,
+      "duration": 0.188
+    },
+    {
+      "text": "an",
+      "start": 558.891,
+      "end": 558.966,
+      "duration": 0.075
+    },
+    {
+      "text": "adverse",
+      "start": 558.979,
+      "end": 559.366,
+      "duration": 0.388
+    },
+    {
+      "text": "effect",
+      "start": 559.379,
+      "end": 559.816,
+      "duration": 0.438
+    },
+    {
+      "text": "on",
+      "start": 559.828,
+      "end": 559.953,
+      "duration": 0.125
+    },
+    {
+      "text": "grape",
+      "start": 559.966,
+      "end": 560.266,
+      "duration": 0.3
+    },
+    {
+      "text": "quality",
+      "start": 560.279,
+      "end": 560.703,
+      "duration": 0.425
+    },
+    {
+      "text": "traits",
+      "start": 560.716,
+      "end": 561.166,
+      "duration": 0.45
+    },
+    {
+      "text": "such",
+      "start": 561.466,
+      "end": 561.666,
+      "duration": 0.2
+    },
+    {
+      "text": "as",
+      "start": 561.678,
+      "end": 561.803,
+      "duration": 0.125
+    },
+    {
+      "text": "phenolic",
+      "start": 561.816,
+      "end": 562.266,
+      "duration": 0.45
+    },
+    {
+      "text": "compound",
+      "start": 562.279,
+      "end": 562.816,
+      "duration": 0.537
+    },
+    {
+      "text": "composition",
+      "start": 562.828,
+      "end": 563.516,
+      "duration": 0.688
+    },
+    {
+      "text": "across",
+      "start": 563.529,
+      "end": 563.916,
+      "duration": 0.388
+    },
+    {
+      "text": "different",
+      "start": 563.928,
+      "end": 564.266,
+      "duration": 0.338
+    },
+    {
+      "text": "grape",
+      "start": 564.279,
+      "end": 564.566,
+      "duration": 0.287
+    },
+    {
+      "text": "crops",
+      "start": 564.578,
+      "end": 565.141,
+      "duration": 0.562
+    },
+    {
+      "text": "Polyphenols",
+      "start": 566.004,
+      "end": 566.791,
+      "duration": 0.787
+    },
+    {
+      "text": "particularly",
+      "start": 566.928,
+      "end": 567.666,
+      "duration": 0.738
+    },
+    {
+      "text": "anthocyanins",
+      "start": 567.678,
+      "end": 568.641,
+      "duration": 0.963
+    },
+    {
+      "text": "decrease",
+      "start": 568.879,
+      "end": 569.379,
+      "duration": 0.5
+    },
+    {
+      "text": "at",
+      "start": 569.391,
+      "end": 569.516,
+      "duration": 0.125
+    },
+    {
+      "text": "elevated",
+      "start": 569.529,
+      "end": 570.029,
+      "duration": 0.5
+    },
+    {
+      "text": "temperatures",
+      "start": 570.041,
+      "end": 570.866,
+      "duration": 0.825
+    },
+    {
+      "text": "Similarly",
+      "start": 571.741,
+      "end": 572.453,
+      "duration": 0.713
+    },
+    {
+      "text": "flavanol",
+      "start": 572.716,
+      "end": 573.229,
+      "duration": 0.512
+    },
+    {
+      "text": "levels",
+      "start": 573.241,
+      "end": 573.566,
+      "duration": 0.325
+    },
+    {
+      "text": "increase",
+      "start": 573.578,
+      "end": 574.104,
+      "duration": 0.525
+    },
+    {
+      "text": "with",
+      "start": 574.116,
+      "end": 574.279,
+      "duration": 0.163
+    },
+    {
+      "text": "better",
+      "start": 574.291,
+      "end": 574.578,
+      "duration": 0.287
+    },
+    {
+      "text": "exposure",
+      "start": 574.591,
+      "end": 575.203,
+      "duration": 0.613
+    },
+    {
+      "text": "to",
+      "start": 575.216,
+      "end": 575.328,
+      "duration": 0.113
+    },
+    {
+      "text": "solar",
+      "start": 575.341,
+      "end": 575.703,
+      "duration": 0.362
+    },
+    {
+      "text": "radiation",
+      "start": 575.716,
+      "end": 576.453,
+      "duration": 0.738
+    },
+    {
+      "text": "Therefore",
+      "start": 577.328,
+      "end": 577.991,
+      "duration": 0.662
+    },
+    {
+      "text": "it",
+      "start": 578.141,
+      "end": 578.203,
+      "duration": 0.062
+    },
+    {
+      "text": "has",
+      "start": 578.216,
+      "end": 578.354,
+      "duration": 0.138
+    },
+    {
+      "text": "been",
+      "start": 578.366,
+      "end": 578.541,
+      "duration": 0.175
+    },
+    {
+      "text": "recommended",
+      "start": 578.553,
+      "end": 579.141,
+      "duration": 0.588
+    },
+    {
+      "text": "to",
+      "start": 579.154,
+      "end": 579.241,
+      "duration": 0.087
+    },
+    {
+      "text": "explore",
+      "start": 579.254,
+      "end": 579.754,
+      "duration": 0.5
+    },
+    {
+      "text": "the",
+      "start": 579.766,
+      "end": 579.866,
+      "duration": 0.1
+    },
+    {
+      "text": "Vitis",
+      "start": 579.879,
+      "end": 580.266,
+      "duration": 0.388
+    },
+    {
+      "text": "germplasm",
+      "start": 580.279,
+      "end": 580.966,
+      "duration": 0.688
+    },
+    {
+      "text": "looking",
+      "start": 581.341,
+      "end": 581.654,
+      "duration": 0.312
+    },
+    {
+      "text": "for",
+      "start": 581.666,
+      "end": 581.791,
+      "duration": 0.125
+    },
+    {
+      "text": "those",
+      "start": 581.803,
+      "end": 582.041,
+      "duration": 0.237
+    },
+    {
+      "text": "traits",
+      "start": 582.053,
+      "end": 582.428,
+      "duration": 0.375
+    },
+    {
+      "text": "capable",
+      "start": 582.441,
+      "end": 582.916,
+      "duration": 0.475
+    },
+    {
+      "text": "of",
+      "start": 582.928,
+      "end": 583.016,
+      "duration": 0.087
+    },
+    {
+      "text": "increasing",
+      "start": 583.029,
+      "end": 583.566,
+      "duration": 0.537
+    },
+    {
+      "text": "tolerance",
+      "start": 583.578,
+      "end": 584.129,
+      "duration": 0.55
+    },
+    {
+      "text": "to",
+      "start": 584.141,
+      "end": 584.241,
+      "duration": 0.1
+    },
+    {
+      "text": "climate",
+      "start": 584.254,
+      "end": 584.641,
+      "duration": 0.388
+    },
+    {
+      "text": "change",
+      "start": 584.654,
+      "end": 585.203,
+      "duration": 0.55
+    },
+    {
+      "text": "Differences",
+      "start": 586.078,
+      "end": 586.754,
+      "duration": 0.675
+    },
+    {
+      "text": "in",
+      "start": 586.766,
+      "end": 586.854,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 586.866,
+      "end": 586.953,
+      "duration": 0.087
+    },
+    {
+      "text": "chemical",
+      "start": 586.966,
+      "end": 587.441,
+      "duration": 0.475
+    },
+    {
+      "text": "and",
+      "start": 587.453,
+      "end": 587.566,
+      "duration": 0.113
+    },
+    {
+      "text": "nutritional",
+      "start": 587.578,
+      "end": 588.166,
+      "duration": 0.588
+    },
+    {
+      "text": "composition",
+      "start": 588.178,
+      "end": 588.916,
+      "duration": 0.738
+    },
+    {
+      "text": "of",
+      "start": 588.928,
+      "end": 589.041,
+      "duration": 0.113
+    },
+    {
+      "text": "traditional",
+      "start": 589.053,
+      "end": 589.741,
+      "duration": 0.688
+    },
+    {
+      "text": "and",
+      "start": 589.754,
+      "end": 589.841,
+      "duration": 0.087
+    },
+    {
+      "text": "modern",
+      "start": 589.854,
+      "end": 590.229,
+      "duration": 0.375
+    },
+    {
+      "text": "grape",
+      "start": 590.241,
+      "end": 590.529,
+      "duration": 0.287
+    },
+    {
+      "text": "cultivars",
+      "start": 590.541,
+      "end": 591.191,
+      "duration": 0.65
+    },
+    {
+      "text": "of",
+      "start": 591.203,
+      "end": 591.316,
+      "duration": 0.113
+    },
+    {
+      "text": "Vitis",
+      "start": 591.328,
+      "end": 591.691,
+      "duration": 0.362
+    },
+    {
+      "text": "vinifera",
+      "start": 591.703,
+      "end": 592.191,
+      "duration": 0.487
+    },
+    {
+      "text": "and",
+      "start": 592.203,
+      "end": 592.303,
+      "duration": 0.1
+    },
+    {
+      "text": "hybrids",
+      "start": 592.316,
+      "end": 592.854,
+      "duration": 0.537
+    },
+    {
+      "text": "have",
+      "start": 592.866,
+      "end": 593.029,
+      "duration": 0.163
+    },
+    {
+      "text": "been",
+      "start": 593.041,
+      "end": 593.178,
+      "duration": 0.138
+    },
+    {
+      "text": "described",
+      "start": 593.191,
+      "end": 593.891,
+      "duration": 0.7
+    },
+    {
+      "text": "About",
+      "start": 594.754,
+      "end": 595.104,
+      "duration": 0.35
+    },
+    {
+      "text": "50",
+      "start": 595.116,
+      "end": 595.479,
+      "duration": 0.362
+    },
+    {
+      "text": "to",
+      "start": 595.491,
+      "end": 595.578,
+      "duration": 0.087
+    },
+    {
+      "text": "75 percent",
+      "start": 595.591,
+      "end": 596.741,
+      "duration": 1.15
+    },
+    {
+      "text": "of",
+      "start": 596.754,
+      "end": 596.828,
+      "duration": 0.075
+    },
+    {
+      "text": "grape",
+      "start": 596.841,
+      "end": 597.116,
+      "duration": 0.275
+    },
+    {
+      "text": "production",
+      "start": 597.129,
+      "end": 597.666,
+      "duration": 0.537
+    },
+    {
+      "text": "is",
+      "start": 597.678,
+      "end": 597.803,
+      "duration": 0.125
+    },
+    {
+      "text": "processed",
+      "start": 597.816,
+      "end": 598.366,
+      "duration": 0.55
+    },
+    {
+      "text": "to",
+      "start": 598.379,
+      "end": 598.466,
+      "duration": 0.087
+    },
+    {
+      "text": "make",
+      "start": 598.479,
+      "end": 598.691,
+      "duration": 0.212
+    },
+    {
+      "text": "wine",
+      "start": 598.703,
+      "end": 599.004,
+      "duration": 0.3
+    },
+    {
+      "text": "and",
+      "start": 599.016,
+      "end": 599.129,
+      "duration": 0.113
+    },
+    {
+      "text": "juice",
+      "start": 599.141,
+      "end": 599.641,
+      "duration": 0.5
+    },
+    {
+      "text": "And",
+      "start": 600.516,
+      "end": 600.703,
+      "duration": 0.188
+    },
+    {
+      "text": "approximately",
+      "start": 600.716,
+      "end": 601.453,
+      "duration": 0.738
+    },
+    {
+      "text": "20",
+      "start": 601.466,
+      "end": 601.841,
+      "duration": 0.375
+    },
+    {
+      "text": "to",
+      "start": 601.854,
+      "end": 601.941,
+      "duration": 0.087
+    },
+    {
+      "text": "30 percent",
+      "start": 601.953,
+      "end": 602.716,
+      "duration": 0.762
+    },
+    {
+      "text": "of",
+      "start": 602.729,
+      "end": 602.803,
+      "duration": 0.075
+    },
+    {
+      "text": "fresh",
+      "start": 602.816,
+      "end": 603.129,
+      "duration": 0.312
+    },
+    {
+      "text": "grape",
+      "start": 603.141,
+      "end": 603.416,
+      "duration": 0.275
+    },
+    {
+      "text": "produce",
+      "start": 603.428,
+      "end": 603.879,
+      "duration": 0.45
+    },
+    {
+      "text": "is",
+      "start": 603.891,
+      "end": 604.016,
+      "duration": 0.125
+    },
+    {
+      "text": "pomace",
+      "start": 604.029,
+      "end": 604.553,
+      "duration": 0.525
+    },
+    {
+      "text": "which",
+      "start": 604.841,
+      "end": 605.029,
+      "duration": 0.188
+    },
+    {
+      "text": "consists",
+      "start": 605.041,
+      "end": 605.541,
+      "duration": 0.5
+    },
+    {
+      "text": "of",
+      "start": 605.553,
+      "end": 605.641,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 605.654,
+      "end": 605.741,
+      "duration": 0.087
+    },
+    {
+      "text": "remaining",
+      "start": 605.754,
+      "end": 606.216,
+      "duration": 0.463
+    },
+    {
+      "text": "skin",
+      "start": 606.229,
+      "end": 606.654,
+      "duration": 0.425
+    },
+    {
+      "text": "seeds",
+      "start": 606.816,
+      "end": 607.341,
+      "duration": 0.525
+    },
+    {
+      "text": "and",
+      "start": 607.453,
+      "end": 607.641,
+      "duration": 0.188
+    },
+    {
+      "text": "stalks",
+      "start": 607.654,
+      "end": 608.279,
+      "duration": 0.625
+    },
+    {
+      "text": "The",
+      "start": 609.154,
+      "end": 609.328,
+      "duration": 0.175
+    },
+    {
+      "text": "pomace",
+      "start": 609.341,
+      "end": 609.766,
+      "duration": 0.425
+    },
+    {
+      "text": "is",
+      "start": 609.779,
+      "end": 609.891,
+      "duration": 0.113
+    },
+    {
+      "text": "a",
+      "start": 609.904,
+      "end": 609.979,
+      "duration": 0.075
+    },
+    {
+      "text": "rich",
+      "start": 609.991,
+      "end": 610.241,
+      "duration": 0.25
+    },
+    {
+      "text": "source",
+      "start": 610.254,
+      "end": 610.578,
+      "duration": 0.325
+    },
+    {
+      "text": "of",
+      "start": 610.591,
+      "end": 610.678,
+      "duration": 0.087
+    },
+    {
+      "text": "phenolics",
+      "start": 610.691,
+      "end": 611.266,
+      "duration": 0.575
+    },
+    {
+      "text": "and",
+      "start": 611.279,
+      "end": 611.453,
+      "duration": 0.175
+    },
+    {
+      "text": "antioxidants",
+      "start": 611.466,
+      "end": 612.404,
+      "duration": 0.938
+    },
+    {
+      "text": "but",
+      "start": 612.629,
+      "end": 612.779,
+      "duration": 0.15
+    },
+    {
+      "text": "it",
+      "start": 612.791,
+      "end": 612.891,
+      "duration": 0.1
+    },
+    {
+      "text": "is",
+      "start": 612.904,
+      "end": 613.078,
+      "duration": 0.175
+    },
+    {
+      "text": "underutilized",
+      "start": 613.091,
+      "end": 614.078,
+      "duration": 0.988
+    },
+    {
+      "text": "Several",
+      "start": 614.941,
+      "end": 615.416,
+      "duration": 0.475
+    },
+    {
+      "text": "studies",
+      "start": 615.428,
+      "end": 615.854,
+      "duration": 0.425
+    },
+    {
+      "text": "have",
+      "start": 615.866,
+      "end": 615.979,
+      "duration": 0.113
+    },
+    {
+      "text": "shown",
+      "start": 615.991,
+      "end": 616.266,
+      "duration": 0.275
+    },
+    {
+      "text": "that",
+      "start": 616.279,
+      "end": 616.441,
+      "duration": 0.163
+    },
+    {
+      "text": "phenolics",
+      "start": 616.453,
+      "end": 617.104,
+      "duration": 0.65
+    },
+    {
+      "text": "dietary",
+      "start": 617.316,
+      "end": 617.879,
+      "duration": 0.562
+    },
+    {
+      "text": "fiber",
+      "start": 617.891,
+      "end": 618.354,
+      "duration": 0.463
+    },
+    {
+      "text": "and",
+      "start": 618.629,
+      "end": 618.716,
+      "duration": 0.087
+    },
+    {
+      "text": "grape",
+      "start": 618.729,
+      "end": 619.029,
+      "duration": 0.3
+    },
+    {
+      "text": "seed",
+      "start": 619.041,
+      "end": 619.341,
+      "duration": 0.3
+    },
+    {
+      "text": "oil",
+      "start": 619.354,
+      "end": 619.678,
+      "duration": 0.325
+    },
+    {
+      "text": "can",
+      "start": 619.691,
+      "end": 619.816,
+      "duration": 0.125
+    },
+    {
+      "text": "be",
+      "start": 619.828,
+      "end": 619.953,
+      "duration": 0.125
+    },
+    {
+      "text": "successfully",
+      "start": 619.966,
+      "end": 620.629,
+      "duration": 0.662
+    },
+    {
+      "text": "extracted",
+      "start": 620.641,
+      "end": 621.291,
+      "duration": 0.65
+    },
+    {
+      "text": "and",
+      "start": 621.303,
+      "end": 621.479,
+      "duration": 0.175
+    },
+    {
+      "text": "used",
+      "start": 621.491,
+      "end": 621.841,
+      "duration": 0.35
+    },
+    {
+      "text": "in",
+      "start": 621.854,
+      "end": 621.991,
+      "duration": 0.138
+    },
+    {
+      "text": "animal",
+      "start": 622.004,
+      "end": 622.354,
+      "duration": 0.35
+    },
+    {
+      "text": "feed",
+      "start": 622.366,
+      "end": 622.703,
+      "duration": 0.338
+    },
+    {
+      "text": "and",
+      "start": 622.716,
+      "end": 622.879,
+      "duration": 0.163
+    },
+    {
+      "text": "the",
+      "start": 622.891,
+      "end": 622.979,
+      "duration": 0.087
+    },
+    {
+      "text": "pharmaceutical",
+      "start": 622.991,
+      "end": 623.828,
+      "duration": 0.838
+    },
+    {
+      "text": "cosmetic",
+      "start": 624.078,
+      "end": 624.716,
+      "duration": 0.637
+    },
+    {
+      "text": "and",
+      "start": 624.953,
+      "end": 625.066,
+      "duration": 0.113
+    },
+    {
+      "text": "food",
+      "start": 625.078,
+      "end": 625.341,
+      "duration": 0.263
+    },
+    {
+      "text": "industries",
+      "start": 625.354,
+      "end": 625.928,
+      "duration": 0.575
+    },
+    {
+      "text": "to",
+      "start": 625.941,
+      "end": 626.053,
+      "duration": 0.113
+    },
+    {
+      "text": "improve",
+      "start": 626.066,
+      "end": 626.479,
+      "duration": 0.412
+    },
+    {
+      "text": "stability",
+      "start": 626.491,
+      "end": 627.091,
+      "duration": 0.6
+    },
+    {
+      "text": "and",
+      "start": 627.104,
+      "end": 627.279,
+      "duration": 0.175
+    },
+    {
+      "text": "nutritional",
+      "start": 627.291,
+      "end": 627.866,
+      "duration": 0.575
+    },
+    {
+      "text": "characteristics",
+      "start": 627.879,
+      "end": 628.891,
+      "duration": 1.012
+    },
+    {
+      "text": "Currently",
+      "start": 629.754,
+      "end": 630.291,
+      "duration": 0.537
+    },
+    {
+      "text": "there",
+      "start": 630.604,
+      "end": 630.741,
+      "duration": 0.138
+    },
+    {
+      "text": "is",
+      "start": 630.754,
+      "end": 630.854,
+      "duration": 0.1
+    },
+    {
+      "text": "a",
+      "start": 630.866,
+      "end": 630.928,
+      "duration": 0.062
+    },
+    {
+      "text": "growing",
+      "start": 630.941,
+      "end": 631.291,
+      "duration": 0.35
+    },
+    {
+      "text": "trend",
+      "start": 631.303,
+      "end": 631.654,
+      "duration": 0.35
+    },
+    {
+      "text": "in",
+      "start": 631.666,
+      "end": 631.729,
+      "duration": 0.062
+    },
+    {
+      "text": "the",
+      "start": 631.741,
+      "end": 631.841,
+      "duration": 0.1
+    },
+    {
+      "text": "wine",
+      "start": 631.854,
+      "end": 632.116,
+      "duration": 0.263
+    },
+    {
+      "text": "industry",
+      "start": 632.129,
+      "end": 632.616,
+      "duration": 0.487
+    },
+    {
+      "text": "to",
+      "start": 632.629,
+      "end": 632.754,
+      "duration": 0.125
+    },
+    {
+      "text": "separate",
+      "start": 632.766,
+      "end": 633.391,
+      "duration": 0.625
+    },
+    {
+      "text": "and",
+      "start": 633.404,
+      "end": 633.516,
+      "duration": 0.113
+    },
+    {
+      "text": "recover",
+      "start": 633.529,
+      "end": 633.979,
+      "duration": 0.45
+    },
+    {
+      "text": "grape",
+      "start": 633.991,
+      "end": 634.291,
+      "duration": 0.3
+    },
+    {
+      "text": "skins",
+      "start": 634.303,
+      "end": 634.703,
+      "duration": 0.4
+    },
+    {
+      "text": "and",
+      "start": 634.716,
+      "end": 634.841,
+      "duration": 0.125
+    },
+    {
+      "text": "seeds",
+      "start": 634.854,
+      "end": 635.279,
+      "duration": 0.425
+    },
+    {
+      "text": "for",
+      "start": 635.291,
+      "end": 635.404,
+      "duration": 0.113
+    },
+    {
+      "text": "the",
+      "start": 635.416,
+      "end": 635.516,
+      "duration": 0.1
+    },
+    {
+      "text": "disposal",
+      "start": 635.529,
+      "end": 636.104,
+      "duration": 0.575
+    },
+    {
+      "text": "of",
+      "start": 636.116,
+      "end": 636.216,
+      "duration": 0.1
+    },
+    {
+      "text": "winemaking",
+      "start": 636.229,
+      "end": 636.854,
+      "duration": 0.625
+    },
+    {
+      "text": "by-products",
+      "start": 636.866,
+      "end": 637.754,
+      "duration": 0.887
+    },
+    {
+      "text": "In",
+      "start": 638.616,
+      "end": 638.816,
+      "duration": 0.2
+    },
+    {
+      "text": "comparison",
+      "start": 638.828,
+      "end": 639.441,
+      "duration": 0.613
+    },
+    {
+      "text": "to",
+      "start": 639.453,
+      "end": 639.541,
+      "duration": 0.087
+    },
+    {
+      "text": "seed",
+      "start": 639.553,
+      "end": 639.854,
+      "duration": 0.3
+    },
+    {
+      "text": "pomace",
+      "start": 639.866,
+      "end": 640.341,
+      "duration": 0.475
+    },
+    {
+      "text": "skin",
+      "start": 640.541,
+      "end": 640.841,
+      "duration": 0.3
+    },
+    {
+      "text": "pomace",
+      "start": 640.854,
+      "end": 641.266,
+      "duration": 0.412
+    },
+    {
+      "text": "is",
+      "start": 641.279,
+      "end": 641.441,
+      "duration": 0.163
+    },
+    {
+      "text": "rich",
+      "start": 641.453,
+      "end": 641.716,
+      "duration": 0.263
+    },
+    {
+      "text": "in",
+      "start": 641.729,
+      "end": 641.816,
+      "duration": 0.087
+    },
+    {
+      "text": "polyphenols",
+      "start": 641.828,
+      "end": 642.504,
+      "duration": 0.675
+    },
+    {
+      "text": "including",
+      "start": 642.729,
+      "end": 643.266,
+      "duration": 0.537
+    },
+    {
+      "text": "anthocyanins",
+      "start": 643.279,
+      "end": 644.191,
+      "duration": 0.912
+    },
+    {
+      "text": "flavonols",
+      "start": 644.404,
+      "end": 645.078,
+      "duration": 0.675
+    },
+    {
+      "text": "phenolic",
+      "start": 645.341,
+      "end": 645.803,
+      "duration": 0.463
+    },
+    {
+      "text": "acids",
+      "start": 645.816,
+      "end": 646.341,
+      "duration": 0.525
+    },
+    {
+      "text": "stilbenes",
+      "start": 646.541,
+      "end": 647.279,
+      "duration": 0.738
+    },
+    {
+      "text": "and",
+      "start": 647.466,
+      "end": 647.641,
+      "duration": 0.175
+    },
+    {
+      "text": "some",
+      "start": 647.654,
+      "end": 647.879,
+      "duration": 0.225
+    },
+    {
+      "text": "proanthocyanidins",
+      "start": 647.891,
+      "end": 649.116,
+      "duration": 1.225
+    },
+    {
+      "text": "as",
+      "start": 649.428,
+      "end": 649.591,
+      "duration": 0.163
+    },
+    {
+      "text": "well",
+      "start": 649.604,
+      "end": 649.828,
+      "duration": 0.225
+    },
+    {
+      "text": "as",
+      "start": 649.841,
+      "end": 649.953,
+      "duration": 0.113
+    },
+    {
+      "text": "dietary",
+      "start": 649.966,
+      "end": 650.541,
+      "duration": 0.575
+    },
+    {
+      "text": "fiber",
+      "start": 650.553,
+      "end": 651.078,
+      "duration": 0.525
+    },
+    {
+      "text": "The",
+      "start": 651.941,
+      "end": 652.129,
+      "duration": 0.188
+    },
+    {
+      "text": "biological",
+      "start": 652.141,
+      "end": 652.866,
+      "duration": 0.725
+    },
+    {
+      "text": "activity",
+      "start": 652.879,
+      "end": 653.453,
+      "duration": 0.575
+    },
+    {
+      "text": "of",
+      "start": 653.466,
+      "end": 653.566,
+      "duration": 0.1
+    },
+    {
+      "text": "grape",
+      "start": 653.578,
+      "end": 653.891,
+      "duration": 0.312
+    },
+    {
+      "text": "pomace",
+      "start": 653.904,
+      "end": 654.266,
+      "duration": 0.362
+    },
+    {
+      "text": "polyphenol",
+      "start": 654.279,
+      "end": 655.004,
+      "duration": 0.725
+    },
+    {
+      "text": "extracts",
+      "start": 655.016,
+      "end": 655.641,
+      "duration": 0.625
+    },
+    {
+      "text": "to",
+      "start": 655.654,
+      "end": 655.754,
+      "duration": 0.1
+    },
+    {
+      "text": "support",
+      "start": 655.766,
+      "end": 656.216,
+      "duration": 0.45
+    },
+    {
+      "text": "their",
+      "start": 656.229,
+      "end": 656.354,
+      "duration": 0.125
+    },
+    {
+      "text": "development",
+      "start": 656.366,
+      "end": 656.966,
+      "duration": 0.6
+    },
+    {
+      "text": "and",
+      "start": 656.979,
+      "end": 657.091,
+      "duration": 0.113
+    },
+    {
+      "text": "utilization",
+      "start": 657.104,
+      "end": 657.879,
+      "duration": 0.775
+    },
+    {
+      "text": "for",
+      "start": 657.891,
+      "end": 658.029,
+      "duration": 0.138
+    },
+    {
+      "text": "diverse",
+      "start": 658.041,
+      "end": 658.428,
+      "duration": 0.388
+    },
+    {
+      "text": "health",
+      "start": 658.441,
+      "end": 658.691,
+      "duration": 0.25
+    },
+    {
+      "text": "benefits",
+      "start": 658.703,
+      "end": 659.254,
+      "duration": 0.55
+    },
+    {
+      "text": "is",
+      "start": 659.266,
+      "end": 659.416,
+      "duration": 0.15
+    },
+    {
+      "text": "of",
+      "start": 659.428,
+      "end": 659.541,
+      "duration": 0.113
+    },
+    {
+      "text": "great",
+      "start": 659.553,
+      "end": 659.854,
+      "duration": 0.3
+    },
+    {
+      "text": "interest",
+      "start": 659.866,
+      "end": 660.303,
+      "duration": 0.438
+    },
+    {
+      "text": "nowadays",
+      "start": 660.316,
+      "end": 661.029,
+      "duration": 0.713
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Grape Composition.",
+      "start": 0.1,
+      "end": 1.325,
+      "word_count": 2
+    },
+    {
+      "text": "Grapes were cultivated for winemaking at least 7000 years ago and represent the world's third most valuable crop as it is consumed both fresh and in processed products, including wine, jam, juice, jelly, grape seed extract, dried grapes, vinegar, and grape-seed oil.",
+      "start": 2.2,
+      "end": 20.462,
+      "word_count": 42
+    },
+    {
+      "text": "Grapes belong to the genus Vitis, which includes about 79 accepted species; however, most cultivated grapes around the world are varieties of Vitis vinifera due to its high morphological and genetic diversity, with more than 10,000 cultivars, including seedless and nonseedless varieties in white, black, and red colors.",
+      "start": 20.475,
+      "end": 41.487,
+      "word_count": 48
+    },
+    {
+      "text": "Vitis vinifera contains several phenolic compounds and aromatic compounds, which contribute to their characteristic color, organoleptic properties, nutritional value, and antioxidant properties and provide protection against environmental challenges.",
+      "start": 41.5,
+      "end": 57.1,
+      "word_count": 28
+    },
+    {
+      "text": "All phenolic compounds have some common features, such as an aromatic ring composed of six carbon atoms with one or more hydroxyl groups or their derivatives.",
+      "start": 57.112,
+      "end": 66.888,
+      "word_count": 26
+    },
+    {
+      "text": "Their susceptibility to oxidation due to unsaturated double bonds and hydroxyl groups make phenolic compounds valuable antioxidants.",
+      "start": 66.9,
+      "end": 75.838,
+      "word_count": 17
+    },
+    {
+      "text": "The higher the total phenolic content, the higher the antioxidant activity, and phenolic content is a genotypic character.",
+      "start": 75.85,
+      "end": 84.1,
+      "word_count": 18
+    },
+    {
+      "text": "One study showed a strong correlation between the phenolic composition of different varieties of Vitis vinifera, including Syrah, Merlot, and Cabernet Sauvignon, and antioxidant capacity, measured by ferric-reducing antioxidant power, ABTS, and D P P H assays, with quantitative differences in antioxidant capacity based on phenolic compound content.",
+      "start": 84.112,
+      "end": 108.188,
+      "word_count": 48
+    },
+    {
+      "text": "Similarly, a close relationship between high phenolic composition and high-quality wines has been reported.",
+      "start": 108.45,
+      "end": 115.05,
+      "word_count": 14
+    },
+    {
+      "text": "Therefore, the phenolic composition of grapes is associated with their nutritional and quality properties.",
+      "start": 115.25,
+      "end": 121.263,
+      "word_count": 14
+    },
+    {
+      "text": "A comparison between 30 grape varieties reported diverse antioxidant capacity, measured by ferric-reducing antioxidant power, Trolox equivalent antioxidant capacity, total phenolic content, and total flavonoid content.",
+      "start": 121.275,
+      "end": 136.887,
+      "word_count": 26
+    },
+    {
+      "text": "Several antioxidants were identified and quantified, including caffeic acid, catechin gallate, epicatechin, gallic acid, protocatechuic acid, and rutin, which could contribute to the antioxidant activities of grapes and their effects on different diseases.",
+      "start": 136.9,
+      "end": 153.488,
+      "word_count": 33
+    },
+    {
+      "text": "Phenolic compounds of grapes are divided into two groups: first, nonflavonoids, characterized by having a simple C6 backbone, including hydroxybenzoic acids, hydroxycinnamic acids, volatile phenols, and stilbenes; and second, flavonoid compounds, composed of 15 carbon atoms: flavones, flavonols, flavanones, flavan-3-ols, and anthocyanins.",
+      "start": 153.5,
+      "end": 178.25,
+      "word_count": 42
+    },
+    {
+      "text": "The generic structure of flavonoids consists of two aromatic rings, the A and B rings, linked by three carbons, which are usually in an oxygenated heterocycle ring, called the C ring; differences in the latter give rise to the flavonoid compound classification.",
+      "start": 178.262,
+      "end": 194.9,
+      "word_count": 42
+    },
+    {
+      "text": "Among flavonoids, flavan-3-ols or flavanols are the most abundant phenolics in grapes, which are found in similar concentrations in skins and seeds.",
+      "start": 194.912,
+      "end": 205.537,
+      "word_count": 22
+    },
+    {
+      "text": "Flavan-3-ols include catechins, the monomeric units for proanthocyanidin biosynthesis.",
+      "start": 205.55,
+      "end": 212.675,
+      "word_count": 9
+    },
+    {
+      "text": "Proanthocyanidins, also known as tannins, are mainly present in the seed, skin, and stem tissues of grapes as both oligomeric and polymeric compounds.",
+      "start": 212.85,
+      "end": 221.925,
+      "word_count": 23
+    },
+    {
+      "text": "In grape seeds, proanthocyanidins represent the major fraction of the total polyphenol extract, and their composition differs between seeds and skin, with the seeds having shorter polymers comprised of similar amounts of catechin and epicatechin subunits.",
+      "start": 221.938,
+      "end": 237.95,
+      "word_count": 36
+    },
+    {
+      "text": "In the skin, proanthocyanidin polymers tend to be much longer and are composed mainly of epicatechin subunits.",
+      "start": 237.963,
+      "end": 246.35,
+      "word_count": 17
+    },
+    {
+      "text": "Anthocyanins, conjugated derivatives of anthocyanidins that are mainly bound to sugars, hydroxycinnamates, or organic acids, are water-soluble pigments responsible for the red and blue colors found in the skins of blue, red, or black grapes.",
+      "start": 246.575,
+      "end": 262.262,
+      "word_count": 35
+    },
+    {
+      "text": "Anthocyanins of Vitis are structurally based on five aglycones, anthocyanidins: malvidin, cyanidin, delphinidin, peonidin, and petunidin, which are classified depending on the number and position of their hydroxyl groups and methylation degree.",
+      "start": 262.275,
+      "end": 278.58,
+      "word_count": 32
+    },
+    {
+      "text": "Red grapes can produce anthocyanins, while white grapes cannot; therefore, the total phenolic level of red grape skins is higher than that of white grapes.",
+      "start": 278.593,
+      "end": 288.618,
+      "word_count": 25
+    },
+    {
+      "text": "Flavonols are another class of flavonoids that differ from one another in several characteristics including the number and type of compounds in the B ring and are normally glycosylated at the C-3 position of the C ring providing glucosides, galactosides, rhamnosides, and glucuronides with their typical structures.",
+      "start": 288.63,
+      "end": 306.981,
+      "word_count": 47
+    },
+    {
+      "text": "Grapes synthesize flavonols, such as kaempferol, quercetin, and myricetin, and the methylated forms isorhamnetin from quercetin, laricitrin, and syringetin both from myricetin.",
+      "start": 306.993,
+      "end": 318.918,
+      "word_count": 22
+    },
+    {
+      "text": "Analysis of the flavonol profile conducted in 91 grape varieties presented several differences.",
+      "start": 318.93,
+      "end": 325.218,
+      "word_count": 13
+    },
+    {
+      "text": "In red grapes, the main flavonol was quercetin at 43.99 percent, followed by myricetin at 36.81 percent, kaempferol at 6.43 percent, laricitrin at 5.65 percent, isorhamnetin at 3.89 percent, and syringetin at 3.22 percent.",
+      "start": 325.231,
+      "end": 348.018,
+      "word_count": 34
+    },
+    {
+      "text": "In white grapes, the main flavonol is quercetin at 81.35 percent, followed by kaempferol at 16.91 percent and isorhamnetin at 1.74 percent.",
+      "start": 348.031,
+      "end": 362.88,
+      "word_count": 22
+    },
+    {
+      "text": "The delphinidin-like flavonols myricetin, laricitrin, and syringetin were missing in all white varieties, indicating that the enzyme flavonoid 3,5-hydroxylase is not expressed in white grape varieties.",
+      "start": 362.893,
+      "end": 373.793,
+      "word_count": 26
+    },
+    {
+      "text": "Flavones differ from flavonols in that they lack a hydroxyl group at carbon 3.",
+      "start": 373.805,
+      "end": 379.606,
+      "word_count": 14
+    },
+    {
+      "text": "Apigenin and luteolin are the main flavones in grapes.",
+      "start": 380.468,
+      "end": 385.755,
+      "word_count": 9
+    },
+    {
+      "text": "Among nonflavonoid compounds, hydroxycinnamates or hydroxycinnamic acids are the third most abundant class of soluble phenolics in grape berries, after proanthocyanidins and anthocyanins.",
+      "start": 385.768,
+      "end": 397.031,
+      "word_count": 23
+    },
+    {
+      "text": "These compounds accumulate mainly in the flesh; however, they are also present in other grape tissues.",
+      "start": 397.043,
+      "end": 404.743,
+      "word_count": 16
+    },
+    {
+      "text": "The predominant hydroxycinnamic acids in grapes are p-coumaric, caffeic, and ferulic acids, which differ in the type and number of substituents on the aromatic ring.",
+      "start": 405.005,
+      "end": 414.93,
+      "word_count": 25
+    },
+    {
+      "text": "Hydroxybenzoic acids are present in lower quantities and include gentisic acid, salicylic acid, gallic acid, p-hydroxybenzoic acid, protocatechuic acid, tannic acid, vanillic acid, and syringic acid, mainly found in their free form.",
+      "start": 414.943,
+      "end": 432.068,
+      "word_count": 32
+    },
+    {
+      "text": "Gallic acid is the most abundant hydroxybenzoic acid derivative in grape stems, skins, and seeds, followed by syringic acid in grape stems and protocatechuic acid in grape seeds and skins.",
+      "start": 432.08,
+      "end": 445.281,
+      "word_count": 30
+    },
+    {
+      "text": "Other nonflavonoid compounds present in grapes are stilbenes, the structure of which comprises two aromatic rings linked by an ethane bridge.",
+      "start": 445.293,
+      "end": 456.943,
+      "word_count": 21
+    },
+    {
+      "text": "The main grape stilbenes are cis- and trans-resveratrol, resveratrol-3-O-beta-D-glucopyranoside known as piceid, piceatannol, and resveratrol oligomers known as viniferins.",
+      "start": 456.955,
+      "end": 466.218,
+      "word_count": 19
+    },
+    {
+      "text": "Compounds belonging to the stilbene family possess the skeleton based on the trans-resveratrol structure.",
+      "start": 466.231,
+      "end": 472.906,
+      "word_count": 14
+    },
+    {
+      "text": "trans-Resveratrol is distributed mostly in the skin, even though the concentration of this stilbene in grape skins and seeds varies considerably within the Vitis germplasm.",
+      "start": 472.918,
+      "end": 482.755,
+      "word_count": 25
+    },
+    {
+      "text": "Although present in trace quantities, the production of these compounds can increase in response to pathogenic attacks and environmental stress, such as injury, ultraviolet irradiation, or fungal infection.",
+      "start": 482.768,
+      "end": 494.918,
+      "word_count": 28
+    },
+    {
+      "text": "It is important to note that the most powerful antioxidants, including resveratrol, quercetin, rutin, catechin, epicatechin, and epicatechin gallate, are in the skin of grapes.",
+      "start": 494.93,
+      "end": 507.88,
+      "word_count": 25
+    },
+    {
+      "text": "The different phytochemical compounds, according to the grape product extract studied, have been described elsewhere.",
+      "start": 507.893,
+      "end": 514.843,
+      "word_count": 15
+    },
+    {
+      "text": "In addition to phenolics, grape phytochemicals from the skin, seed, and juice also include other bioactive compounds, like carotenoids and melatonin.",
+      "start": 515.081,
+      "end": 526.343,
+      "word_count": 21
+    },
+    {
+      "text": "Soluble and insoluble dietary fiber, vitamin C, minerals including calcium, magnesium, iron, zinc, and manganese, lipids, proteins, and carbohydrates including fructose, glucose, and sucrose are also important components of grapes.",
+      "start": 526.356,
+      "end": 542.818,
+      "word_count": 30
+    },
+    {
+      "text": "Phenolic metabolism and, thus, grape composition and development are severely affected by heat, drought, and light and ultraviolet intensity.",
+      "start": 542.831,
+      "end": 552.018,
+      "word_count": 19
+    },
+    {
+      "text": "Therefore, climatic conditions determine, to a large degree, the grape varieties that can be cultivated.",
+      "start": 552.03,
+      "end": 558.966,
+      "word_count": 15
+    },
+    {
+      "text": "It is expected that climatic extremes will have an adverse effect on grape quality traits, such as phenolic compound composition across different grape crops.",
+      "start": 558.979,
+      "end": 573.229,
+      "word_count": 24
+    },
+    {
+      "text": "Polyphenols, particularly anthocyanins, decrease at elevated temperatures.",
+      "start": 573.241,
+      "end": 575.703,
+      "word_count": 7
+    },
+    {
+      "text": "Similarly, flavanol levels increase with better exposure to solar radiation.",
+      "start": 575.716,
+      "end": 580.266,
+      "word_count": 10
+    },
+    {
+      "text": "Therefore, it has been recommended to explore the Vitis germplasm, looking for those traits capable of increasing tolerance to climate change.",
+      "start": 580.279,
+      "end": 589.741,
+      "word_count": 21
+    },
+    {
+      "text": "Differences in the chemical and nutritional composition of traditional and modern grape cultivars of Vitis vinifera and hybrids have been described.",
+      "start": 589.754,
+      "end": 598.366,
+      "word_count": 21
+    },
+    {
+      "text": "About 50 to 75 percent of grape production is processed to make wine and juice.",
+      "start": 598.379,
+      "end": 604.016,
+      "word_count": 15
+    },
+    {
+      "text": "And approximately 20 to 30 percent of fresh grape produce is pomace, which consists of the remaining skin, seeds, and stalks.",
+      "start": 604.029,
+      "end": 612.779,
+      "word_count": 21
+    },
+    {
+      "text": "The pomace is a rich source of phenolics and antioxidants, but it is underutilized.",
+      "start": 612.791,
+      "end": 619.341,
+      "word_count": 14
+    },
+    {
+      "text": "Several studies have shown that phenolics, dietary fiber, and grape seed oil can be successfully extracted and used in animal feed and the pharmaceutical, cosmetic, and food industries to improve stability and nutritional characteristics.",
+      "start": 619.354,
+      "end": 632.754,
+      "word_count": 34
+    },
+    {
+      "text": "Currently, there is a growing trend in the wine industry to separate and recover grape skins and seeds for the disposal of winemaking by-products.",
+      "start": 632.766,
+      "end": 642.504,
+      "word_count": 24
+    },
+    {
+      "text": "In comparison to seed pomace, skin pomace is rich in polyphenols, including anthocyanins, flavonols, phenolic acids, stilbenes, and some proanthocyanidins, as well as dietary fiber.",
+      "start": 642.729,
+      "end": 656.354,
+      "word_count": 25
+    },
+    {
+      "text": "The biological activity of grape pomace polyphenol extracts to support their development and utilization for diverse health benefits is of great interest nowadays.",
+      "start": 656.366,
+      "end": 661.029,
+      "word_count": 12
+    }
+  ],
+  "total_duration": 661.029,
+  "voice": "en-US-AriaNeural",
+  "text": "Grape Composition. Grapes were cultivated for winemaking at least 7000 years ago and represent the world's third most valuable crop as it is consumed both fresh and in processed products, including wine, jam, juice, jelly, grape seed extract, dried grapes, vinegar, and grape-seed oil. Grapes belong to the genus Vitis, which includes about 79 accepted species; however, most cultivated grapes around the world are varieties of Vitis vinifera due to its high morphological and genetic diversity, with more than 10,000 cultivars, including seedless and nonseedless varieties in white, black, and red colors. Vitis vinifera contains several phenolic compounds and aromatic compounds, which contribute to their characteristic color, organoleptic properties, nutritional value, and antioxidant properties and provide protection against environmental challenges. All phenolic compounds have some common features, such as an aromatic ring composed of six carbon atoms with one or more hydroxyl groups or their derivatives. Their susceptibility to oxidation due to unsaturated double bonds and hydroxyl groups make phenolic compounds valuable antioxidants. The higher the total phenolic content, the higher the antioxidant activity, and phenolic content is a genotypic character. One study showed a strong correlation between the phenolic composition of different varieties of Vitis vinifera, including Syrah, Merlot, and Cabernet Sauvignon, and antioxidant capacity, measured by ferric-reducing antioxidant power, ABTS, and D P P H assays, with quantitative differences in antioxidant capacity based on phenolic compound content. Similarly, a close relationship between high phenolic composition and high-quality wines has been reported. Therefore, the phenolic composition of grapes is associated with their nutritional and quality properties. A comparison between 30 grape varieties reported diverse antioxidant capacity, measured by ferric-reducing antioxidant power, Trolox equivalent antioxidant capacity, total phenolic content, and total flavonoid content. Several antioxidants were identified and quantified, including caffeic acid, catechin gallate, epicatechin, gallic acid, protocatechuic acid, and rutin, which could contribute to the antioxidant activities of grapes and their effects on different diseases. Phenolic compounds of grapes are divided into two groups: first, nonflavonoids, characterized by having a simple C6 backbone, including hydroxybenzoic acids, hydroxycinnamic acids, volatile phenols, and stilbenes; and second, flavonoid compounds, composed of 15 carbon atoms: flavones, flavonols, flavanones, flavan-3-ols, and anthocyanins. The generic structure of flavonoids consists of two aromatic rings, the A and B rings, linked by three carbons, which are usually in an oxygenated heterocycle ring, called the C ring; differences in the latter give rise to the flavonoid compound classification. Among flavonoids, flavan-3-ols or flavanols are the most abundant phenolics in grapes, which are found in similar concentrations in skins and seeds. Flavan-3-ols include catechins, the monomeric units for proanthocyanidin biosynthesis. Proanthocyanidins, also known as tannins, are mainly present in the seed, skin, and stem tissues of grapes as both oligomeric and polymeric compounds. In grape seeds, proanthocyanidins represent the major fraction of the total polyphenol extract, and their composition differs between seeds and skin, with the seeds having shorter polymers comprised of similar amounts of catechin and epicatechin subunits. In the skin, proanthocyanidin polymers tend to be much longer and are composed mainly of epicatechin subunits. Anthocyanins, conjugated derivatives of anthocyanidins that are mainly bound to sugars, hydroxycinnamates, or organic acids, are water-soluble pigments responsible for the red and blue colors found in the skins of blue, red, or black grapes. Anthocyanins of Vitis are structurally based on five aglycones, anthocyanidins: malvidin, cyanidin, delphinidin, peonidin, and petunidin, which are classified depending on the number and position of their hydroxyl groups and methylation degree. Red grapes can produce anthocyanins, while white grapes cannot; therefore, the total phenolic level of red grape skins is higher than that of white grapes. Flavonols are another class of flavonoids that differ from one another in several characteristics including the number and type of compounds in the B ring and are normally glycosylated at the C-3 position of the C ring providing glucosides, galactosides, rhamnosides, and glucuronides with their typical structures. Grapes synthesize flavonols, such as kaempferol, quercetin, and myricetin, and the methylated forms isorhamnetin from quercetin, laricitrin, and syringetin both from myricetin. Analysis of the flavonol profile conducted in 91 grape varieties presented several differences. In red grapes, the main flavonol was quercetin at 43.99 percent, followed by myricetin at 36.81 percent, kaempferol at 6.43 percent, laricitrin at 5.65 percent, isorhamnetin at 3.89 percent, and syringetin at 3.22 percent. In white grapes, the main flavonol is quercetin at 81.35 percent, followed by kaempferol at 16.91 percent and isorhamnetin at 1.74 percent. The delphinidin-like flavonols myricetin, laricitrin, and syringetin were missing in all white varieties, indicating that the enzyme flavonoid 3,5-hydroxylase is not expressed in white grape varieties. Flavones differ from flavonols in that they lack a hydroxyl group at carbon 3. Apigenin and luteolin are the main flavones in grapes. Among nonflavonoid compounds, hydroxycinnamates or hydroxycinnamic acids are the third most abundant class of soluble phenolics in grape berries, after proanthocyanidins and anthocyanins. These compounds accumulate mainly in the flesh; however, they are also present in other grape tissues. The predominant hydroxycinnamic acids in grapes are p-coumaric, caffeic, and ferulic acids, which differ in the type and number of substituents on the aromatic ring. Hydroxybenzoic acids are present in lower quantities and include gentisic acid, salicylic acid, gallic acid, p-hydroxybenzoic acid, protocatechuic acid, tannic acid, vanillic acid, and syringic acid, mainly found in their free form. Gallic acid is the most abundant hydroxybenzoic acid derivative in grape stems, skins, and seeds, followed by syringic acid in grape stems and protocatechuic acid in grape seeds and skins. Other nonflavonoid compounds present in grapes are stilbenes, the structure of which comprises two aromatic rings linked by an ethane bridge. The main grape stilbenes are cis- and trans-resveratrol, resveratrol-3-O-beta-D-glucopyranoside known as piceid, piceatannol, and resveratrol oligomers known as viniferins. Compounds belonging to the stilbene family possess the skeleton based on the trans-resveratrol structure. trans-Resveratrol is distributed mostly in the skin, even though the concentration of this stilbene in grape skins and seeds varies considerably within the Vitis germplasm. Although present in trace quantities, the production of these compounds can increase in response to pathogenic attacks and environmental stress, such as injury, ultraviolet irradiation, or fungal infection. It is important to note that the most powerful antioxidants, including resveratrol, quercetin, rutin, catechin, epicatechin, and epicatechin gallate, are in the skin of grapes. The different phytochemical compounds, according to the grape product extract studied, have been described elsewhere. In addition to phenolics, grape phytochemicals from the skin, seed, and juice also include other bioactive compounds, like carotenoids and melatonin. Soluble and insoluble dietary fiber, vitamin C, minerals including calcium, magnesium, iron, zinc, and manganese, lipids, proteins, and carbohydrates including fructose, glucose, and sucrose are also important components of grapes. Phenolic metabolism and, thus, grape composition and development are severely affected by heat, drought, and light and ultraviolet intensity. Therefore, climatic conditions determine, to a large degree, the grape varieties that can be cultivated. It is expected that climatic extremes will have an adverse effect on grape quality traits, such as phenolic compound composition across different grape crops. Polyphenols, particularly anthocyanins, decrease at elevated temperatures. Similarly, flavanol levels increase with better exposure to solar radiation. Therefore, it has been recommended to explore the Vitis germplasm, looking for those traits capable of increasing tolerance to climate change. Differences in the chemical and nutritional composition of traditional and modern grape cultivars of Vitis vinifera and hybrids have been described. About 50 to 75 percent of grape production is processed to make wine and juice. And approximately 20 to 30 percent of fresh grape produce is pomace, which consists of the remaining skin, seeds, and stalks. The pomace is a rich source of phenolics and antioxidants, but it is underutilized. Several studies have shown that phenolics, dietary fiber, and grape seed oil can be successfully extracted and used in animal feed and the pharmaceutical, cosmetic, and food industries to improve stability and nutritional characteristics. Currently, there is a growing trend in the wine industry to separate and recover grape skins and seeds for the disposal of winemaking by-products. In comparison to seed pomace, skin pomace is rich in polyphenols, including anthocyanins, flavonols, phenolic acids, stilbenes, and some proanthocyanidins, as well as dietary fiber. The biological activity of grape pomace polyphenol extracts to support their development and utilization for diverse health benefits is of great interest nowadays."
+}

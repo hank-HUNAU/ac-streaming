@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Temporal",
+      "start": 0.109,
+      "end": 0.638,
+      "duration": 0.529
+    },
+    {
+      "text": "cortex",
+      "start": 0.653,
+      "end": 1.565,
+      "duration": 0.912
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Temporal cortex",
+      "start": 0.109,
+      "end": 1.565,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.565,
+  "voice": "en-US-AriaNeural",
+  "text": "Temporal cortex"
+}

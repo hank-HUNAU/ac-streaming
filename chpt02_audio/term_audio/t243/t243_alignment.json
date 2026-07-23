@@ -1,0 +1,39 @@
+{
+  "words": [
+    {
+      "text": "Non-HDL-C",
+      "start": 0.109,
+      "end": 1.476,
+      "duration": 1.368
+    },
+    {
+      "text": "/",
+      "start": 1.491,
+      "end": 1.947,
+      "duration": 0.456
+    },
+    {
+      "text": "ApoB",
+      "start": 1.962,
+      "end": 2.476,
+      "duration": 0.515
+    },
+    {
+      "text": "ratio",
+      "start": 2.491,
+      "end": 3.168,
+      "duration": 0.676
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Non-HDL-C/ApoB ratio ApoB ratio",
+      "start": 0.109,
+      "end": 3.168,
+      "word_count": 4
+    }
+  ],
+  "total_duration": 3.168,
+  "voice": "en-US-AriaNeural",
+  "text": "Non-HDL-C/ApoB ratio"
+}

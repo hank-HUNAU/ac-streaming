@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Type-2 diabetes",
+      "start": 0.109,
+      "end": 1.756,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.756,
+  "voice": "en-US-AriaNeural"
+}

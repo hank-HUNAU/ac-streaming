@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "EA.hy926 cells hy926 cells",
+      "start": 0.109,
+      "end": 2.962,
+      "word_count": 4
+    }
+  ],
+  "total_duration": 2.962,
+  "voice": "en-US-AriaNeural"
+}

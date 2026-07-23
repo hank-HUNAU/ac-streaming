@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Primary",
+      "start": 0.109,
+      "end": 0.756,
+      "duration": 0.647
+    },
+    {
+      "text": "prevention",
+      "start": 0.771,
+      "end": 1.594,
+      "duration": 0.824
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Primary prevention",
+      "start": 0.109,
+      "end": 1.594,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.594,
+  "voice": "en-US-AriaNeural",
+  "text": "Primary prevention"
+}

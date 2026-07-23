@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Open-field",
+      "start": 0.109,
+      "end": 0.903,
+      "duration": 0.794
+    },
+    {
+      "text": "test",
+      "start": 0.918,
+      "end": 1.521,
+      "duration": 0.603
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Open-field test",
+      "start": 0.109,
+      "end": 1.521,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.521,
+  "voice": "en-US-AriaNeural",
+  "text": "Open-field test"
+}

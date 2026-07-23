@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Freeze-dried grape powder",
+      "start": 0.109,
+      "end": 1.874,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.874,
+  "voice": "en-US-AriaNeural"
+}

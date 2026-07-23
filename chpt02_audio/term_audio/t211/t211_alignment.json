@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Grape",
+      "start": 0.109,
+      "end": 0.521,
+      "duration": 0.412
+    },
+    {
+      "text": "pomace",
+      "start": 0.535,
+      "end": 1.241,
+      "duration": 0.706
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Grape pomace",
+      "start": 0.109,
+      "end": 1.241,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.241,
+  "voice": "en-US-AriaNeural",
+  "text": "Grape pomace"
+}

@@ -1,0 +1,3849 @@
+{
+  "words": [
+    {
+      "text": "Introduction",
+      "start": 0.1,
+      "end": 1.05,
+      "duration": 0.95
+    },
+    {
+      "text": "The",
+      "start": 1.913,
+      "end": 2.087,
+      "duration": 0.175
+    },
+    {
+      "text": "brain",
+      "start": 2.1,
+      "end": 2.375,
+      "duration": 0.275
+    },
+    {
+      "text": "is",
+      "start": 2.388,
+      "end": 2.487,
+      "duration": 0.1
+    },
+    {
+      "text": "essential",
+      "start": 2.5,
+      "end": 2.987,
+      "duration": 0.487
+    },
+    {
+      "text": "for",
+      "start": 3.0,
+      "end": 3.15,
+      "duration": 0.15
+    },
+    {
+      "text": "our",
+      "start": 3.163,
+      "end": 3.263,
+      "duration": 0.1
+    },
+    {
+      "text": "survival",
+      "start": 3.275,
+      "end": 3.962,
+      "duration": 0.688
+    },
+    {
+      "text": "and",
+      "start": 3.975,
+      "end": 4.112,
+      "duration": 0.138
+    },
+    {
+      "text": "also",
+      "start": 4.125,
+      "end": 4.438,
+      "duration": 0.312
+    },
+    {
+      "text": "makes",
+      "start": 4.45,
+      "end": 4.713,
+      "duration": 0.263
+    },
+    {
+      "text": "us",
+      "start": 4.725,
+      "end": 4.862,
+      "duration": 0.138
+    },
+    {
+      "text": "who",
+      "start": 4.875,
+      "end": 4.975,
+      "duration": 0.1
+    },
+    {
+      "text": "we",
+      "start": 4.987,
+      "end": 5.162,
+      "duration": 0.175
+    },
+    {
+      "text": "are",
+      "start": 5.175,
+      "end": 5.525,
+      "duration": 0.35
+    },
+    {
+      "text": "Not",
+      "start": 6.4,
+      "end": 6.725,
+      "duration": 0.325
+    },
+    {
+      "text": "only",
+      "start": 6.737,
+      "end": 7.0,
+      "duration": 0.263
+    },
+    {
+      "text": "does",
+      "start": 7.013,
+      "end": 7.188,
+      "duration": 0.175
+    },
+    {
+      "text": "it",
+      "start": 7.2,
+      "end": 7.287,
+      "duration": 0.087
+    },
+    {
+      "text": "control",
+      "start": 7.3,
+      "end": 7.675,
+      "duration": 0.375
+    },
+    {
+      "text": "thoughts",
+      "start": 7.688,
+      "end": 8.113,
+      "duration": 0.425
+    },
+    {
+      "text": "memory",
+      "start": 8.287,
+      "end": 8.775,
+      "duration": 0.487
+    },
+    {
+      "text": "and",
+      "start": 8.938,
+      "end": 9.113,
+      "duration": 0.175
+    },
+    {
+      "text": "emotion",
+      "start": 9.125,
+      "end": 9.637,
+      "duration": 0.512
+    },
+    {
+      "text": "but",
+      "start": 9.863,
+      "end": 9.988,
+      "duration": 0.125
+    },
+    {
+      "text": "it",
+      "start": 10.0,
+      "end": 10.088,
+      "duration": 0.087
+    },
+    {
+      "text": "also",
+      "start": 10.1,
+      "end": 10.4,
+      "duration": 0.3
+    },
+    {
+      "text": "controls",
+      "start": 10.412,
+      "end": 10.863,
+      "duration": 0.45
+    },
+    {
+      "text": "touch",
+      "start": 10.875,
+      "end": 11.3,
+      "duration": 0.425
+    },
+    {
+      "text": "motor",
+      "start": 11.488,
+      "end": 11.838,
+      "duration": 0.35
+    },
+    {
+      "text": "skills",
+      "start": 11.85,
+      "end": 12.312,
+      "duration": 0.463
+    },
+    {
+      "text": "vision",
+      "start": 12.512,
+      "end": 12.912,
+      "duration": 0.4
+    },
+    {
+      "text": "and",
+      "start": 13.088,
+      "end": 13.213,
+      "duration": 0.125
+    },
+    {
+      "text": "hearing",
+      "start": 13.225,
+      "end": 13.662,
+      "duration": 0.438
+    },
+    {
+      "text": "as",
+      "start": 13.875,
+      "end": 14.0,
+      "duration": 0.125
+    },
+    {
+      "text": "well",
+      "start": 14.012,
+      "end": 14.225,
+      "duration": 0.212
+    },
+    {
+      "text": "as",
+      "start": 14.238,
+      "end": 14.363,
+      "duration": 0.125
+    },
+    {
+      "text": "basic",
+      "start": 14.375,
+      "end": 14.8,
+      "duration": 0.425
+    },
+    {
+      "text": "physiological",
+      "start": 14.812,
+      "end": 15.6,
+      "duration": 0.787
+    },
+    {
+      "text": "functions",
+      "start": 15.613,
+      "end": 16.2,
+      "duration": 0.588
+    },
+    {
+      "text": "such",
+      "start": 16.425,
+      "end": 16.625,
+      "duration": 0.2
+    },
+    {
+      "text": "as",
+      "start": 16.637,
+      "end": 16.75,
+      "duration": 0.113
+    },
+    {
+      "text": "breathing",
+      "start": 16.762,
+      "end": 17.25,
+      "duration": 0.487
+    },
+    {
+      "text": "temperature",
+      "start": 17.413,
+      "end": 17.988,
+      "duration": 0.575
+    },
+    {
+      "text": "and",
+      "start": 18.15,
+      "end": 18.25,
+      "duration": 0.1
+    },
+    {
+      "text": "hunger",
+      "start": 18.262,
+      "end": 18.762,
+      "duration": 0.5
+    },
+    {
+      "text": "Thus",
+      "start": 19.637,
+      "end": 20.15,
+      "duration": 0.512
+    },
+    {
+      "text": "keeping",
+      "start": 20.387,
+      "end": 20.775,
+      "duration": 0.388
+    },
+    {
+      "text": "the",
+      "start": 20.788,
+      "end": 20.887,
+      "duration": 0.1
+    },
+    {
+      "text": "brain",
+      "start": 20.9,
+      "end": 21.175,
+      "duration": 0.275
+    },
+    {
+      "text": "healthy",
+      "start": 21.188,
+      "end": 21.55,
+      "duration": 0.362
+    },
+    {
+      "text": "is",
+      "start": 21.562,
+      "end": 21.725,
+      "duration": 0.163
+    },
+    {
+      "text": "critical",
+      "start": 21.738,
+      "end": 22.212,
+      "duration": 0.475
+    },
+    {
+      "text": "to",
+      "start": 22.225,
+      "end": 22.325,
+      "duration": 0.1
+    },
+    {
+      "text": "maintaining",
+      "start": 22.337,
+      "end": 22.913,
+      "duration": 0.575
+    },
+    {
+      "text": "one's",
+      "start": 22.925,
+      "end": 23.275,
+      "duration": 0.35
+    },
+    {
+      "text": "overall",
+      "start": 23.288,
+      "end": 23.775,
+      "duration": 0.487
+    },
+    {
+      "text": "well-being",
+      "start": 23.788,
+      "end": 24.312,
+      "duration": 0.525
+    },
+    {
+      "text": "as",
+      "start": 24.325,
+      "end": 24.45,
+      "duration": 0.125
+    },
+    {
+      "text": "well",
+      "start": 24.462,
+      "end": 24.712,
+      "duration": 0.25
+    },
+    {
+      "text": "as",
+      "start": 24.725,
+      "end": 24.837,
+      "duration": 0.113
+    },
+    {
+      "text": "to",
+      "start": 24.85,
+      "end": 24.925,
+      "duration": 0.075
+    },
+    {
+      "text": "having",
+      "start": 24.938,
+      "end": 25.275,
+      "duration": 0.338
+    },
+    {
+      "text": "a",
+      "start": 25.288,
+      "end": 25.35,
+      "duration": 0.062
+    },
+    {
+      "text": "good",
+      "start": 25.363,
+      "end": 25.587,
+      "duration": 0.225
+    },
+    {
+      "text": "quality",
+      "start": 25.6,
+      "end": 26.038,
+      "duration": 0.438
+    },
+    {
+      "text": "of",
+      "start": 26.05,
+      "end": 26.125,
+      "duration": 0.075
+    },
+    {
+      "text": "life",
+      "start": 26.137,
+      "end": 26.6,
+      "duration": 0.463
+    },
+    {
+      "text": "So",
+      "start": 27.462,
+      "end": 27.7,
+      "duration": 0.237
+    },
+    {
+      "text": "how",
+      "start": 27.712,
+      "end": 27.9,
+      "duration": 0.188
+    },
+    {
+      "text": "do",
+      "start": 27.913,
+      "end": 28.0,
+      "duration": 0.087
+    },
+    {
+      "text": "you",
+      "start": 28.012,
+      "end": 28.137,
+      "duration": 0.125
+    },
+    {
+      "text": "keep",
+      "start": 28.15,
+      "end": 28.4,
+      "duration": 0.25
+    },
+    {
+      "text": "the",
+      "start": 28.413,
+      "end": 28.512,
+      "duration": 0.1
+    },
+    {
+      "text": "brain",
+      "start": 28.525,
+      "end": 28.8,
+      "duration": 0.275
+    },
+    {
+      "text": "healthy",
+      "start": 28.812,
+      "end": 29.2,
+      "duration": 0.388
+    },
+    {
+      "text": "throughout",
+      "start": 29.212,
+      "end": 29.6,
+      "duration": 0.388
+    },
+    {
+      "text": "your",
+      "start": 29.613,
+      "end": 29.738,
+      "duration": 0.125
+    },
+    {
+      "text": "lifespan",
+      "start": 29.75,
+      "end": 30.425,
+      "duration": 0.675
+    },
+    {
+      "text": "Is",
+      "start": 31.3,
+      "end": 31.475,
+      "duration": 0.175
+    },
+    {
+      "text": "it",
+      "start": 31.488,
+      "end": 31.6,
+      "duration": 0.113
+    },
+    {
+      "text": "possible",
+      "start": 31.613,
+      "end": 32.112,
+      "duration": 0.5
+    },
+    {
+      "text": "to",
+      "start": 32.125,
+      "end": 32.237,
+      "duration": 0.113
+    },
+    {
+      "text": "restore",
+      "start": 32.25,
+      "end": 32.625,
+      "duration": 0.375
+    },
+    {
+      "text": "normal",
+      "start": 32.638,
+      "end": 32.962,
+      "duration": 0.325
+    },
+    {
+      "text": "brain",
+      "start": 32.975,
+      "end": 33.25,
+      "duration": 0.275
+    },
+    {
+      "text": "function",
+      "start": 33.263,
+      "end": 33.737,
+      "duration": 0.475
+    },
+    {
+      "text": "following",
+      "start": 33.75,
+      "end": 34.2,
+      "duration": 0.45
+    },
+    {
+      "text": "a",
+      "start": 34.212,
+      "end": 34.275,
+      "duration": 0.062
+    },
+    {
+      "text": "disease",
+      "start": 34.288,
+      "end": 34.788,
+      "duration": 0.5
+    },
+    {
+      "text": "or",
+      "start": 34.8,
+      "end": 34.925,
+      "duration": 0.125
+    },
+    {
+      "text": "injury",
+      "start": 34.938,
+      "end": 35.487,
+      "duration": 0.55
+    },
+    {
+      "text": "Is",
+      "start": 36.362,
+      "end": 36.525,
+      "duration": 0.163
+    },
+    {
+      "text": "it",
+      "start": 36.538,
+      "end": 36.65,
+      "duration": 0.113
+    },
+    {
+      "text": "possible",
+      "start": 36.663,
+      "end": 37.163,
+      "duration": 0.5
+    },
+    {
+      "text": "to",
+      "start": 37.175,
+      "end": 37.3,
+      "duration": 0.125
+    },
+    {
+      "text": "improve",
+      "start": 37.312,
+      "end": 37.8,
+      "duration": 0.487
+    },
+    {
+      "text": "brain",
+      "start": 37.812,
+      "end": 38.075,
+      "duration": 0.263
+    },
+    {
+      "text": "function",
+      "start": 38.087,
+      "end": 38.587,
+      "duration": 0.5
+    },
+    {
+      "text": "even",
+      "start": 38.6,
+      "end": 38.862,
+      "duration": 0.263
+    },
+    {
+      "text": "in",
+      "start": 38.875,
+      "end": 38.975,
+      "duration": 0.1
+    },
+    {
+      "text": "young",
+      "start": 38.987,
+      "end": 39.237,
+      "duration": 0.25
+    },
+    {
+      "text": "healthy",
+      "start": 39.25,
+      "end": 39.638,
+      "duration": 0.388
+    },
+    {
+      "text": "individuals",
+      "start": 39.65,
+      "end": 40.475,
+      "duration": 0.825
+    },
+    {
+      "text": "Although",
+      "start": 41.337,
+      "end": 41.7,
+      "duration": 0.362
+    },
+    {
+      "text": "these",
+      "start": 41.712,
+      "end": 41.938,
+      "duration": 0.225
+    },
+    {
+      "text": "questions",
+      "start": 41.95,
+      "end": 42.487,
+      "duration": 0.537
+    },
+    {
+      "text": "have",
+      "start": 42.5,
+      "end": 42.612,
+      "duration": 0.113
+    },
+    {
+      "text": "consumed",
+      "start": 42.625,
+      "end": 43.125,
+      "duration": 0.5
+    },
+    {
+      "text": "investigators",
+      "start": 43.138,
+      "end": 43.938,
+      "duration": 0.8
+    },
+    {
+      "text": "for",
+      "start": 43.95,
+      "end": 44.087,
+      "duration": 0.138
+    },
+    {
+      "text": "many",
+      "start": 44.1,
+      "end": 44.362,
+      "duration": 0.263
+    },
+    {
+      "text": "years",
+      "start": 44.375,
+      "end": 44.788,
+      "duration": 0.412
+    },
+    {
+      "text": "there",
+      "start": 45.1,
+      "end": 45.237,
+      "duration": 0.138
+    },
+    {
+      "text": "are",
+      "start": 45.25,
+      "end": 45.362,
+      "duration": 0.113
+    },
+    {
+      "text": "still",
+      "start": 45.375,
+      "end": 45.688,
+      "duration": 0.312
+    },
+    {
+      "text": "no",
+      "start": 45.7,
+      "end": 45.888,
+      "duration": 0.188
+    },
+    {
+      "text": "clear",
+      "start": 45.9,
+      "end": 46.212,
+      "duration": 0.312
+    },
+    {
+      "text": "answers",
+      "start": 46.225,
+      "end": 46.85,
+      "duration": 0.625
+    },
+    {
+      "text": "However",
+      "start": 47.725,
+      "end": 48.275,
+      "duration": 0.55
+    },
+    {
+      "text": "what",
+      "start": 48.55,
+      "end": 48.7,
+      "duration": 0.15
+    },
+    {
+      "text": "is",
+      "start": 48.712,
+      "end": 48.837,
+      "duration": 0.125
+    },
+    {
+      "text": "clear",
+      "start": 48.85,
+      "end": 49.212,
+      "duration": 0.362
+    },
+    {
+      "text": "is",
+      "start": 49.225,
+      "end": 49.362,
+      "duration": 0.138
+    },
+    {
+      "text": "that",
+      "start": 49.375,
+      "end": 49.587,
+      "duration": 0.212
+    },
+    {
+      "text": "any",
+      "start": 49.6,
+      "end": 49.8,
+      "duration": 0.2
+    },
+    {
+      "text": "approach",
+      "start": 49.812,
+      "end": 50.263,
+      "duration": 0.45
+    },
+    {
+      "text": "to",
+      "start": 50.275,
+      "end": 50.375,
+      "duration": 0.1
+    },
+    {
+      "text": "addressing",
+      "start": 50.388,
+      "end": 50.85,
+      "duration": 0.463
+    },
+    {
+      "text": "these",
+      "start": 50.862,
+      "end": 51.062,
+      "duration": 0.2
+    },
+    {
+      "text": "possibilities",
+      "start": 51.075,
+      "end": 51.875,
+      "duration": 0.8
+    },
+    {
+      "text": "needs",
+      "start": 51.888,
+      "end": 52.163,
+      "duration": 0.275
+    },
+    {
+      "text": "to",
+      "start": 52.175,
+      "end": 52.263,
+      "duration": 0.087
+    },
+    {
+      "text": "be",
+      "start": 52.275,
+      "end": 52.413,
+      "duration": 0.138
+    },
+    {
+      "text": "safe",
+      "start": 52.425,
+      "end": 52.85,
+      "duration": 0.425
+    },
+    {
+      "text": "inexpensive",
+      "start": 53.087,
+      "end": 53.85,
+      "duration": 0.762
+    },
+    {
+      "text": "readily",
+      "start": 54.062,
+      "end": 54.413,
+      "duration": 0.35
+    },
+    {
+      "text": "available",
+      "start": 54.425,
+      "end": 54.987,
+      "duration": 0.562
+    },
+    {
+      "text": "and",
+      "start": 55.2,
+      "end": 55.337,
+      "duration": 0.138
+    },
+    {
+      "text": "easy",
+      "start": 55.35,
+      "end": 55.663,
+      "duration": 0.312
+    },
+    {
+      "text": "to",
+      "start": 55.675,
+      "end": 55.775,
+      "duration": 0.1
+    },
+    {
+      "text": "access",
+      "start": 55.788,
+      "end": 56.337,
+      "duration": 0.55
+    },
+    {
+      "text": "or",
+      "start": 56.35,
+      "end": 56.5,
+      "duration": 0.15
+    },
+    {
+      "text": "use",
+      "start": 56.513,
+      "end": 56.987,
+      "duration": 0.475
+    },
+    {
+      "text": "Given",
+      "start": 57.85,
+      "end": 58.237,
+      "duration": 0.388
+    },
+    {
+      "text": "that",
+      "start": 58.25,
+      "end": 58.375,
+      "duration": 0.125
+    },
+    {
+      "text": "the",
+      "start": 58.388,
+      "end": 58.45,
+      "duration": 0.062
+    },
+    {
+      "text": "improvement",
+      "start": 58.462,
+      "end": 59.138,
+      "duration": 0.675
+    },
+    {
+      "text": "maintenance",
+      "start": 59.337,
+      "end": 59.95,
+      "duration": 0.613
+    },
+    {
+      "text": "or",
+      "start": 60.15,
+      "end": 60.325,
+      "duration": 0.175
+    },
+    {
+      "text": "restoration",
+      "start": 60.337,
+      "end": 61.013,
+      "duration": 0.675
+    },
+    {
+      "text": "of",
+      "start": 61.025,
+      "end": 61.15,
+      "duration": 0.125
+    },
+    {
+      "text": "brain",
+      "start": 61.163,
+      "end": 61.45,
+      "duration": 0.287
+    },
+    {
+      "text": "function",
+      "start": 61.462,
+      "end": 61.913,
+      "duration": 0.45
+    },
+    {
+      "text": "involves",
+      "start": 61.925,
+      "end": 62.388,
+      "duration": 0.463
+    },
+    {
+      "text": "multiple",
+      "start": 62.4,
+      "end": 62.875,
+      "duration": 0.475
+    },
+    {
+      "text": "targets",
+      "start": 62.888,
+      "end": 63.413,
+      "duration": 0.525
+    },
+    {
+      "text": "and",
+      "start": 63.425,
+      "end": 63.625,
+      "duration": 0.2
+    },
+    {
+      "text": "the",
+      "start": 63.638,
+      "end": 63.725,
+      "duration": 0.087
+    },
+    {
+      "text": "likelihood",
+      "start": 63.737,
+      "end": 64.412,
+      "duration": 0.675
+    },
+    {
+      "text": "that",
+      "start": 64.425,
+      "end": 64.537,
+      "duration": 0.113
+    },
+    {
+      "text": "the",
+      "start": 64.55,
+      "end": 64.65,
+      "duration": 0.1
+    },
+    {
+      "text": "relative",
+      "start": 64.662,
+      "end": 65.112,
+      "duration": 0.45
+    },
+    {
+      "text": "importance",
+      "start": 65.125,
+      "end": 65.662,
+      "duration": 0.537
+    },
+    {
+      "text": "of",
+      "start": 65.675,
+      "end": 65.763,
+      "duration": 0.087
+    },
+    {
+      "text": "each",
+      "start": 65.775,
+      "end": 65.975,
+      "duration": 0.2
+    },
+    {
+      "text": "of",
+      "start": 65.987,
+      "end": 66.062,
+      "duration": 0.075
+    },
+    {
+      "text": "these",
+      "start": 66.075,
+      "end": 66.263,
+      "duration": 0.188
+    },
+    {
+      "text": "targets",
+      "start": 66.275,
+      "end": 66.825,
+      "duration": 0.55
+    },
+    {
+      "text": "will",
+      "start": 66.838,
+      "end": 66.987,
+      "duration": 0.15
+    },
+    {
+      "text": "vary",
+      "start": 67.0,
+      "end": 67.312,
+      "duration": 0.312
+    },
+    {
+      "text": "among",
+      "start": 67.325,
+      "end": 67.65,
+      "duration": 0.325
+    },
+    {
+      "text": "individuals",
+      "start": 67.662,
+      "end": 68.325,
+      "duration": 0.662
+    },
+    {
+      "text": "and",
+      "start": 68.338,
+      "end": 68.425,
+      "duration": 0.087
+    },
+    {
+      "text": "diseases",
+      "start": 68.438,
+      "end": 69.025,
+      "duration": 0.588
+    },
+    {
+      "text": "it",
+      "start": 69.388,
+      "end": 69.6,
+      "duration": 0.212
+    },
+    {
+      "text": "seems",
+      "start": 69.612,
+      "end": 69.938,
+      "duration": 0.325
+    },
+    {
+      "text": "that",
+      "start": 69.95,
+      "end": 70.062,
+      "duration": 0.113
+    },
+    {
+      "text": "the",
+      "start": 70.075,
+      "end": 70.162,
+      "duration": 0.087
+    },
+    {
+      "text": "best",
+      "start": 70.175,
+      "end": 70.463,
+      "duration": 0.287
+    },
+    {
+      "text": "approach",
+      "start": 70.475,
+      "end": 70.888,
+      "duration": 0.412
+    },
+    {
+      "text": "is",
+      "start": 70.9,
+      "end": 71.0,
+      "duration": 0.1
+    },
+    {
+      "text": "to",
+      "start": 71.013,
+      "end": 71.112,
+      "duration": 0.1
+    },
+    {
+      "text": "identify",
+      "start": 71.125,
+      "end": 71.713,
+      "duration": 0.588
+    },
+    {
+      "text": "treatments",
+      "start": 71.725,
+      "end": 72.3,
+      "duration": 0.575
+    },
+    {
+      "text": "that",
+      "start": 72.312,
+      "end": 72.45,
+      "duration": 0.138
+    },
+    {
+      "text": "inherently",
+      "start": 72.463,
+      "end": 73.013,
+      "duration": 0.55
+    },
+    {
+      "text": "contain",
+      "start": 73.025,
+      "end": 73.438,
+      "duration": 0.412
+    },
+    {
+      "text": "multiple",
+      "start": 73.45,
+      "end": 73.9,
+      "duration": 0.45
+    },
+    {
+      "text": "biological",
+      "start": 73.912,
+      "end": 74.612,
+      "duration": 0.7
+    },
+    {
+      "text": "activities",
+      "start": 74.625,
+      "end": 75.3,
+      "duration": 0.675
+    },
+    {
+      "text": "that",
+      "start": 75.312,
+      "end": 75.438,
+      "duration": 0.125
+    },
+    {
+      "text": "can",
+      "start": 75.45,
+      "end": 75.575,
+      "duration": 0.125
+    },
+    {
+      "text": "impact",
+      "start": 75.588,
+      "end": 76.125,
+      "duration": 0.537
+    },
+    {
+      "text": "the",
+      "start": 76.138,
+      "end": 76.237,
+      "duration": 0.1
+    },
+    {
+      "text": "different",
+      "start": 76.25,
+      "end": 76.6,
+      "duration": 0.35
+    },
+    {
+      "text": "targets",
+      "start": 76.612,
+      "end": 77.138,
+      "duration": 0.525
+    },
+    {
+      "text": "that",
+      "start": 77.15,
+      "end": 77.263,
+      "duration": 0.113
+    },
+    {
+      "text": "are",
+      "start": 77.275,
+      "end": 77.375,
+      "duration": 0.1
+    },
+    {
+      "text": "associated",
+      "start": 77.388,
+      "end": 78.075,
+      "duration": 0.688
+    },
+    {
+      "text": "more",
+      "start": 78.088,
+      "end": 78.312,
+      "duration": 0.225
+    },
+    {
+      "text": "generally",
+      "start": 78.325,
+      "end": 78.838,
+      "duration": 0.512
+    },
+    {
+      "text": "with",
+      "start": 78.85,
+      "end": 78.975,
+      "duration": 0.125
+    },
+    {
+      "text": "healthy",
+      "start": 78.987,
+      "end": 79.338,
+      "duration": 0.35
+    },
+    {
+      "text": "brain",
+      "start": 79.35,
+      "end": 79.625,
+      "duration": 0.275
+    },
+    {
+      "text": "function",
+      "start": 79.638,
+      "end": 80.213,
+      "duration": 0.575
+    },
+    {
+      "text": "One",
+      "start": 81.088,
+      "end": 81.425,
+      "duration": 0.338
+    },
+    {
+      "text": "excellent",
+      "start": 81.438,
+      "end": 81.862,
+      "duration": 0.425
+    },
+    {
+      "text": "source",
+      "start": 81.875,
+      "end": 82.213,
+      "duration": 0.338
+    },
+    {
+      "text": "for",
+      "start": 82.225,
+      "end": 82.338,
+      "duration": 0.113
+    },
+    {
+      "text": "these",
+      "start": 82.35,
+      "end": 82.537,
+      "duration": 0.188
+    },
+    {
+      "text": "types",
+      "start": 82.55,
+      "end": 82.875,
+      "duration": 0.325
+    },
+    {
+      "text": "of",
+      "start": 82.888,
+      "end": 82.975,
+      "duration": 0.087
+    },
+    {
+      "text": "treatments",
+      "start": 82.987,
+      "end": 83.475,
+      "duration": 0.487
+    },
+    {
+      "text": "is",
+      "start": 83.487,
+      "end": 83.638,
+      "duration": 0.15
+    },
+    {
+      "text": "grapes",
+      "start": 83.65,
+      "end": 84.225,
+      "duration": 0.575
+    },
+    {
+      "text": "The",
+      "start": 85.088,
+      "end": 85.275,
+      "duration": 0.188
+    },
+    {
+      "text": "goal",
+      "start": 85.287,
+      "end": 85.537,
+      "duration": 0.25
+    },
+    {
+      "text": "of",
+      "start": 85.55,
+      "end": 85.638,
+      "duration": 0.087
+    },
+    {
+      "text": "this",
+      "start": 85.65,
+      "end": 85.85,
+      "duration": 0.2
+    },
+    {
+      "text": "review",
+      "start": 85.862,
+      "end": 86.2,
+      "duration": 0.338
+    },
+    {
+      "text": "is",
+      "start": 86.213,
+      "end": 86.338,
+      "duration": 0.125
+    },
+    {
+      "text": "to",
+      "start": 86.35,
+      "end": 86.45,
+      "duration": 0.1
+    },
+    {
+      "text": "summarize",
+      "start": 86.463,
+      "end": 87.062,
+      "duration": 0.6
+    },
+    {
+      "text": "new",
+      "start": 87.075,
+      "end": 87.275,
+      "duration": 0.2
+    },
+    {
+      "text": "studies",
+      "start": 87.287,
+      "end": 87.75,
+      "duration": 0.463
+    },
+    {
+      "text": "on",
+      "start": 87.763,
+      "end": 87.888,
+      "duration": 0.125
+    },
+    {
+      "text": "grapes",
+      "start": 87.9,
+      "end": 88.287,
+      "duration": 0.388
+    },
+    {
+      "text": "and",
+      "start": 88.3,
+      "end": 88.4,
+      "duration": 0.1
+    },
+    {
+      "text": "brain",
+      "start": 88.412,
+      "end": 88.7,
+      "duration": 0.287
+    },
+    {
+      "text": "function",
+      "start": 88.713,
+      "end": 89.15,
+      "duration": 0.438
+    },
+    {
+      "text": "that",
+      "start": 89.162,
+      "end": 89.275,
+      "duration": 0.113
+    },
+    {
+      "text": "have",
+      "start": 89.287,
+      "end": 89.362,
+      "duration": 0.075
+    },
+    {
+      "text": "appeared",
+      "start": 89.375,
+      "end": 89.85,
+      "duration": 0.475
+    },
+    {
+      "text": "since",
+      "start": 89.862,
+      "end": 90.125,
+      "duration": 0.263
+    },
+    {
+      "text": "the",
+      "start": 90.138,
+      "end": 90.237,
+      "duration": 0.1
+    },
+    {
+      "text": "publication",
+      "start": 90.25,
+      "end": 90.95,
+      "duration": 0.7
+    },
+    {
+      "text": "of",
+      "start": 90.963,
+      "end": 91.037,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 91.05,
+      "end": 91.138,
+      "duration": 0.087
+    },
+    {
+      "text": "previous",
+      "start": 91.15,
+      "end": 91.638,
+      "duration": 0.487
+    },
+    {
+      "text": "review",
+      "start": 91.65,
+      "end": 91.987,
+      "duration": 0.338
+    },
+    {
+      "text": "in 2016",
+      "start": 92.0,
+      "end": 93.3,
+      "duration": 1.3
+    },
+    {
+      "text": "The",
+      "start": 94.162,
+      "end": 94.35,
+      "duration": 0.188
+    },
+    {
+      "text": "studies",
+      "start": 94.362,
+      "end": 94.763,
+      "duration": 0.4
+    },
+    {
+      "text": "on",
+      "start": 94.775,
+      "end": 94.9,
+      "duration": 0.125
+    },
+    {
+      "text": "grapes",
+      "start": 94.912,
+      "end": 95.325,
+      "duration": 0.412
+    },
+    {
+      "text": "and",
+      "start": 95.338,
+      "end": 95.425,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 95.438,
+      "end": 95.537,
+      "duration": 0.1
+    },
+    {
+      "text": "brain",
+      "start": 95.55,
+      "end": 95.888,
+      "duration": 0.338
+    },
+    {
+      "text": "that",
+      "start": 95.9,
+      "end": 96.013,
+      "duration": 0.113
+    },
+    {
+      "text": "are",
+      "start": 96.025,
+      "end": 96.112,
+      "duration": 0.087
+    },
+    {
+      "text": "discussed",
+      "start": 96.125,
+      "end": 96.65,
+      "duration": 0.525
+    },
+    {
+      "text": "in",
+      "start": 96.662,
+      "end": 96.725,
+      "duration": 0.062
+    },
+    {
+      "text": "this",
+      "start": 96.737,
+      "end": 96.925,
+      "duration": 0.188
+    },
+    {
+      "text": "review",
+      "start": 96.938,
+      "end": 97.312,
+      "duration": 0.375
+    },
+    {
+      "text": "have",
+      "start": 97.325,
+      "end": 97.487,
+      "duration": 0.163
+    },
+    {
+      "text": "used",
+      "start": 97.5,
+      "end": 97.787,
+      "duration": 0.287
+    },
+    {
+      "text": "a",
+      "start": 97.8,
+      "end": 97.85,
+      "duration": 0.05
+    },
+    {
+      "text": "variety",
+      "start": 97.862,
+      "end": 98.425,
+      "duration": 0.562
+    },
+    {
+      "text": "of",
+      "start": 98.438,
+      "end": 98.537,
+      "duration": 0.1
+    },
+    {
+      "text": "nonalcoholic",
+      "start": 98.55,
+      "end": 99.325,
+      "duration": 0.775
+    },
+    {
+      "text": "grape",
+      "start": 99.338,
+      "end": 99.625,
+      "duration": 0.287
+    },
+    {
+      "text": "products",
+      "start": 99.638,
+      "end": 100.2,
+      "duration": 0.562
+    },
+    {
+      "text": "including",
+      "start": 100.525,
+      "end": 101.013,
+      "duration": 0.487
+    },
+    {
+      "text": "grape",
+      "start": 101.025,
+      "end": 101.325,
+      "duration": 0.3
+    },
+    {
+      "text": "juice",
+      "start": 101.338,
+      "end": 101.737,
+      "duration": 0.4
+    },
+    {
+      "text": "freeze-dried",
+      "start": 102.062,
+      "end": 102.65,
+      "duration": 0.588
+    },
+    {
+      "text": "grape",
+      "start": 102.662,
+      "end": 102.95,
+      "duration": 0.287
+    },
+    {
+      "text": "powder",
+      "start": 102.963,
+      "end": 103.3,
+      "duration": 0.338
+    },
+    {
+      "text": "made",
+      "start": 103.312,
+      "end": 103.537,
+      "duration": 0.225
+    },
+    {
+      "text": "from",
+      "start": 103.55,
+      "end": 103.7,
+      "duration": 0.15
+    },
+    {
+      "text": "whole",
+      "start": 103.713,
+      "end": 103.95,
+      "duration": 0.237
+    },
+    {
+      "text": "grapes",
+      "start": 103.963,
+      "end": 104.425,
+      "duration": 0.463
+    },
+    {
+      "text": "including",
+      "start": 104.7,
+      "end": 105.2,
+      "duration": 0.5
+    },
+    {
+      "text": "seeds",
+      "start": 105.213,
+      "end": 105.662,
+      "duration": 0.45
+    },
+    {
+      "text": "and",
+      "start": 105.737,
+      "end": 105.85,
+      "duration": 0.113
+    },
+    {
+      "text": "skin",
+      "start": 105.862,
+      "end": 106.25,
+      "duration": 0.388
+    },
+    {
+      "text": "grape",
+      "start": 106.45,
+      "end": 106.75,
+      "duration": 0.3
+    },
+    {
+      "text": "seed",
+      "start": 106.763,
+      "end": 107.025,
+      "duration": 0.263
+    },
+    {
+      "text": "extracts",
+      "start": 107.037,
+      "end": 107.8,
+      "duration": 0.762
+    },
+    {
+      "text": "grape",
+      "start": 107.963,
+      "end": 108.275,
+      "duration": 0.312
+    },
+    {
+      "text": "seed",
+      "start": 108.287,
+      "end": 108.612,
+      "duration": 0.325
+    },
+    {
+      "text": "plus",
+      "start": 108.625,
+      "end": 108.875,
+      "duration": 0.25
+    },
+    {
+      "text": "skin",
+      "start": 108.888,
+      "end": 109.15,
+      "duration": 0.263
+    },
+    {
+      "text": "extracts",
+      "start": 109.162,
+      "end": 109.812,
+      "duration": 0.65
+    },
+    {
+      "text": "and",
+      "start": 109.95,
+      "end": 110.112,
+      "duration": 0.163
+    },
+    {
+      "text": "Memophenol",
+      "start": 110.125,
+      "end": 110.838,
+      "duration": 0.713
+    },
+    {
+      "text": "a",
+      "start": 111.0,
+      "end": 111.062,
+      "duration": 0.062
+    },
+    {
+      "text": "polyphenol-rich",
+      "start": 111.075,
+      "end": 111.975,
+      "duration": 0.9
+    },
+    {
+      "text": "extract",
+      "start": 111.987,
+      "end": 112.575,
+      "duration": 0.588
+    },
+    {
+      "text": "combining",
+      "start": 112.588,
+      "end": 113.062,
+      "duration": 0.475
+    },
+    {
+      "text": "both",
+      "start": 113.075,
+      "end": 113.312,
+      "duration": 0.237
+    },
+    {
+      "text": "grapes",
+      "start": 113.325,
+      "end": 113.75,
+      "duration": 0.425
+    },
+    {
+      "text": "and",
+      "start": 113.763,
+      "end": 113.938,
+      "duration": 0.175
+    },
+    {
+      "text": "blueberries",
+      "start": 113.95,
+      "end": 114.7,
+      "duration": 0.75
+    },
+    {
+      "text": "All",
+      "start": 115.562,
+      "end": 115.8,
+      "duration": 0.237
+    },
+    {
+      "text": "of",
+      "start": 115.812,
+      "end": 115.925,
+      "duration": 0.113
+    },
+    {
+      "text": "the",
+      "start": 115.938,
+      "end": 116.037,
+      "duration": 0.1
+    },
+    {
+      "text": "studies",
+      "start": 116.05,
+      "end": 116.5,
+      "duration": 0.45
+    },
+    {
+      "text": "used",
+      "start": 116.513,
+      "end": 116.75,
+      "duration": 0.237
+    },
+    {
+      "text": "either",
+      "start": 116.763,
+      "end": 116.975,
+      "duration": 0.212
+    },
+    {
+      "text": "Vitis",
+      "start": 116.987,
+      "end": 117.362,
+      "duration": 0.375
+    },
+    {
+      "text": "vinifera",
+      "start": 117.375,
+      "end": 118.013,
+      "duration": 0.637
+    },
+    {
+      "text": "or",
+      "start": 118.025,
+      "end": 118.175,
+      "duration": 0.15
+    },
+    {
+      "text": "Vitus",
+      "start": 118.188,
+      "end": 118.55,
+      "duration": 0.362
+    },
+    {
+      "text": "labrusca",
+      "start": 118.562,
+      "end": 119.237,
+      "duration": 0.675
+    },
+    {
+      "text": "Most",
+      "start": 120.1,
+      "end": 120.5,
+      "duration": 0.4
+    },
+    {
+      "text": "of",
+      "start": 120.513,
+      "end": 120.575,
+      "duration": 0.062
+    },
+    {
+      "text": "the",
+      "start": 120.588,
+      "end": 120.688,
+      "duration": 0.1
+    },
+    {
+      "text": "studies",
+      "start": 120.7,
+      "end": 121.138,
+      "duration": 0.438
+    },
+    {
+      "text": "included",
+      "start": 121.15,
+      "end": 121.662,
+      "duration": 0.512
+    },
+    {
+      "text": "inert",
+      "start": 121.675,
+      "end": 122.025,
+      "duration": 0.35
+    },
+    {
+      "text": "placebos",
+      "start": 122.037,
+      "end": 122.812,
+      "duration": 0.775
+    },
+    {
+      "text": "or",
+      "start": 122.825,
+      "end": 123.0,
+      "duration": 0.175
+    },
+    {
+      "text": "other",
+      "start": 123.013,
+      "end": 123.237,
+      "duration": 0.225
+    },
+    {
+      "text": "controls",
+      "start": 123.25,
+      "end": 123.8,
+      "duration": 0.55
+    },
+    {
+      "text": "that",
+      "start": 123.812,
+      "end": 123.963,
+      "duration": 0.15
+    },
+    {
+      "text": "matched",
+      "start": 123.975,
+      "end": 124.362,
+      "duration": 0.388
+    },
+    {
+      "text": "many",
+      "start": 124.375,
+      "end": 124.662,
+      "duration": 0.287
+    },
+    {
+      "text": "of",
+      "start": 124.675,
+      "end": 124.737,
+      "duration": 0.062
+    },
+    {
+      "text": "the",
+      "start": 124.75,
+      "end": 124.838,
+      "duration": 0.087
+    },
+    {
+      "text": "components",
+      "start": 124.85,
+      "end": 125.45,
+      "duration": 0.6
+    },
+    {
+      "text": "of",
+      "start": 125.463,
+      "end": 125.55,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 125.562,
+      "end": 125.65,
+      "duration": 0.087
+    },
+    {
+      "text": "grape",
+      "start": 125.662,
+      "end": 125.95,
+      "duration": 0.287
+    },
+    {
+      "text": "product",
+      "start": 125.963,
+      "end": 126.338,
+      "duration": 0.375
+    },
+    {
+      "text": "tested",
+      "start": 126.35,
+      "end": 126.775,
+      "duration": 0.425
+    },
+    {
+      "text": "except",
+      "start": 127.1,
+      "end": 127.487,
+      "duration": 0.388
+    },
+    {
+      "text": "for",
+      "start": 127.5,
+      "end": 127.638,
+      "duration": 0.138
+    },
+    {
+      "text": "polyphenols",
+      "start": 127.65,
+      "end": 128.4,
+      "duration": 0.75
+    },
+    {
+      "text": "For",
+      "start": 129.262,
+      "end": 129.475,
+      "duration": 0.212
+    },
+    {
+      "text": "some",
+      "start": 129.488,
+      "end": 129.7,
+      "duration": 0.212
+    },
+    {
+      "text": "of",
+      "start": 129.713,
+      "end": 129.812,
+      "duration": 0.1
+    },
+    {
+      "text": "the",
+      "start": 129.825,
+      "end": 129.912,
+      "duration": 0.087
+    },
+    {
+      "text": "studies",
+      "start": 129.925,
+      "end": 130.438,
+      "duration": 0.512
+    },
+    {
+      "text": "freeze-dried",
+      "start": 130.662,
+      "end": 131.262,
+      "duration": 0.6
+    },
+    {
+      "text": "grape",
+      "start": 131.275,
+      "end": 131.562,
+      "duration": 0.287
+    },
+    {
+      "text": "powder",
+      "start": 131.575,
+      "end": 131.925,
+      "duration": 0.35
+    },
+    {
+      "text": "was",
+      "start": 131.938,
+      "end": 132.088,
+      "duration": 0.15
+    },
+    {
+      "text": "sourced",
+      "start": 132.1,
+      "end": 132.475,
+      "duration": 0.375
+    },
+    {
+      "text": "from",
+      "start": 132.488,
+      "end": 132.625,
+      "duration": 0.138
+    },
+    {
+      "text": "the",
+      "start": 132.637,
+      "end": 132.713,
+      "duration": 0.075
+    },
+    {
+      "text": "California",
+      "start": 132.725,
+      "end": 133.363,
+      "duration": 0.637
+    },
+    {
+      "text": "Table",
+      "start": 133.375,
+      "end": 133.688,
+      "duration": 0.312
+    },
+    {
+      "text": "Grape",
+      "start": 133.7,
+      "end": 133.975,
+      "duration": 0.275
+    },
+    {
+      "text": "Commission",
+      "start": 133.988,
+      "end": 134.488,
+      "duration": 0.5
+    },
+    {
+      "text": "which",
+      "start": 134.825,
+      "end": 134.988,
+      "duration": 0.163
+    },
+    {
+      "text": "has",
+      "start": 135.0,
+      "end": 135.125,
+      "duration": 0.125
+    },
+    {
+      "text": "been",
+      "start": 135.137,
+      "end": 135.312,
+      "duration": 0.175
+    },
+    {
+      "text": "characterized",
+      "start": 135.325,
+      "end": 136.1,
+      "duration": 0.775
+    },
+    {
+      "text": "in",
+      "start": 136.113,
+      "end": 136.213,
+      "duration": 0.1
+    },
+    {
+      "text": "terms",
+      "start": 136.225,
+      "end": 136.613,
+      "duration": 0.388
+    },
+    {
+      "text": "of",
+      "start": 136.625,
+      "end": 136.7,
+      "duration": 0.075
+    },
+    {
+      "text": "polyphenol",
+      "start": 136.713,
+      "end": 137.387,
+      "duration": 0.675
+    },
+    {
+      "text": "content",
+      "start": 137.4,
+      "end": 138.05,
+      "duration": 0.65
+    },
+    {
+      "text": "A",
+      "start": 138.912,
+      "end": 139.05,
+      "duration": 0.138
+    },
+    {
+      "text": "few",
+      "start": 139.062,
+      "end": 139.287,
+      "duration": 0.225
+    },
+    {
+      "text": "studies",
+      "start": 139.3,
+      "end": 139.75,
+      "duration": 0.45
+    },
+    {
+      "text": "used",
+      "start": 139.762,
+      "end": 140.025,
+      "duration": 0.263
+    },
+    {
+      "text": "commercial",
+      "start": 140.037,
+      "end": 140.575,
+      "duration": 0.537
+    },
+    {
+      "text": "or",
+      "start": 140.588,
+      "end": 140.675,
+      "duration": 0.087
+    },
+    {
+      "text": "in-house",
+      "start": 140.688,
+      "end": 141.225,
+      "duration": 0.537
+    },
+    {
+      "text": "freeze-dried",
+      "start": 141.238,
+      "end": 141.8,
+      "duration": 0.562
+    },
+    {
+      "text": "whole-grape",
+      "start": 141.812,
+      "end": 142.275,
+      "duration": 0.463
+    },
+    {
+      "text": "extracts",
+      "start": 142.287,
+      "end": 143.037,
+      "duration": 0.75
+    },
+    {
+      "text": "The",
+      "start": 143.9,
+      "end": 144.075,
+      "duration": 0.175
+    },
+    {
+      "text": "grape",
+      "start": 144.088,
+      "end": 144.363,
+      "duration": 0.275
+    },
+    {
+      "text": "juice",
+      "start": 144.375,
+      "end": 144.688,
+      "duration": 0.312
+    },
+    {
+      "text": "was",
+      "start": 144.7,
+      "end": 144.85,
+      "duration": 0.15
+    },
+    {
+      "text": "made",
+      "start": 144.863,
+      "end": 145.088,
+      "duration": 0.225
+    },
+    {
+      "text": "either",
+      "start": 145.1,
+      "end": 145.363,
+      "duration": 0.263
+    },
+    {
+      "text": "from",
+      "start": 145.375,
+      "end": 145.55,
+      "duration": 0.175
+    },
+    {
+      "text": "Concord",
+      "start": 145.562,
+      "end": 146.05,
+      "duration": 0.487
+    },
+    {
+      "text": "grapes",
+      "start": 146.062,
+      "end": 146.45,
+      "duration": 0.388
+    },
+    {
+      "text": "or",
+      "start": 146.463,
+      "end": 146.562,
+      "duration": 0.1
+    },
+    {
+      "text": "common",
+      "start": 146.575,
+      "end": 146.9,
+      "duration": 0.325
+    },
+    {
+      "text": "grapes",
+      "start": 146.912,
+      "end": 147.387,
+      "duration": 0.475
+    },
+    {
+      "text": "with",
+      "start": 147.675,
+      "end": 147.825,
+      "duration": 0.15
+    },
+    {
+      "text": "white",
+      "start": 147.838,
+      "end": 148.113,
+      "duration": 0.275
+    },
+    {
+      "text": "grape",
+      "start": 148.125,
+      "end": 148.412,
+      "duration": 0.287
+    },
+    {
+      "text": "juice",
+      "start": 148.425,
+      "end": 148.725,
+      "duration": 0.3
+    },
+    {
+      "text": "and",
+      "start": 148.738,
+      "end": 148.863,
+      "duration": 0.125
+    },
+    {
+      "text": "slash",
+      "start": 148.875,
+      "end": 149.287,
+      "duration": 0.412
+    },
+    {
+      "text": "or",
+      "start": 149.3,
+      "end": 149.412,
+      "duration": 0.113
+    },
+    {
+      "text": "another",
+      "start": 149.425,
+      "end": 149.725,
+      "duration": 0.3
+    },
+    {
+      "text": "placebo",
+      "start": 149.738,
+      "end": 150.225,
+      "duration": 0.487
+    },
+    {
+      "text": "drink",
+      "start": 150.238,
+      "end": 150.55,
+      "duration": 0.312
+    },
+    {
+      "text": "designed",
+      "start": 150.562,
+      "end": 150.938,
+      "duration": 0.375
+    },
+    {
+      "text": "to",
+      "start": 150.95,
+      "end": 151.012,
+      "duration": 0.062
+    },
+    {
+      "text": "smell",
+      "start": 151.025,
+      "end": 151.45,
+      "duration": 0.425
+    },
+    {
+      "text": "look",
+      "start": 151.775,
+      "end": 152.062,
+      "duration": 0.287
+    },
+    {
+      "text": "and",
+      "start": 152.363,
+      "end": 152.475,
+      "duration": 0.113
+    },
+    {
+      "text": "taste",
+      "start": 152.488,
+      "end": 152.825,
+      "duration": 0.338
+    },
+    {
+      "text": "like",
+      "start": 152.838,
+      "end": 152.988,
+      "duration": 0.15
+    },
+    {
+      "text": "grape",
+      "start": 153.0,
+      "end": 153.287,
+      "duration": 0.287
+    },
+    {
+      "text": "juice",
+      "start": 153.3,
+      "end": 153.613,
+      "duration": 0.312
+    },
+    {
+      "text": "and",
+      "start": 153.625,
+      "end": 153.812,
+      "duration": 0.188
+    },
+    {
+      "text": "used",
+      "start": 153.825,
+      "end": 154.1,
+      "duration": 0.275
+    },
+    {
+      "text": "often",
+      "start": 154.113,
+      "end": 154.475,
+      "duration": 0.362
+    },
+    {
+      "text": "as",
+      "start": 154.488,
+      "end": 154.588,
+      "duration": 0.1
+    },
+    {
+      "text": "a",
+      "start": 154.6,
+      "end": 154.65,
+      "duration": 0.05
+    },
+    {
+      "text": "caloric",
+      "start": 154.662,
+      "end": 155.075,
+      "duration": 0.412
+    },
+    {
+      "text": "control",
+      "start": 155.088,
+      "end": 155.637,
+      "duration": 0.55
+    },
+    {
+      "text": "Grape",
+      "start": 156.512,
+      "end": 156.838,
+      "duration": 0.325
+    },
+    {
+      "text": "seed",
+      "start": 156.85,
+      "end": 157.125,
+      "duration": 0.275
+    },
+    {
+      "text": "extract",
+      "start": 157.137,
+      "end": 157.713,
+      "duration": 0.575
+    },
+    {
+      "text": "and",
+      "start": 157.725,
+      "end": 157.825,
+      "duration": 0.1
+    },
+    {
+      "text": "polyphenol",
+      "start": 157.838,
+      "end": 158.537,
+      "duration": 0.7
+    },
+    {
+      "text": "extract",
+      "start": 158.55,
+      "end": 159.137,
+      "duration": 0.588
+    },
+    {
+      "text": "were",
+      "start": 159.15,
+      "end": 159.312,
+      "duration": 0.163
+    },
+    {
+      "text": "either",
+      "start": 159.325,
+      "end": 159.562,
+      "duration": 0.237
+    },
+    {
+      "text": "a",
+      "start": 159.575,
+      "end": 159.637,
+      "duration": 0.062
+    },
+    {
+      "text": "commercial",
+      "start": 159.65,
+      "end": 160.125,
+      "duration": 0.475
+    },
+    {
+      "text": "preparation",
+      "start": 160.137,
+      "end": 160.925,
+      "duration": 0.787
+    },
+    {
+      "text": "or",
+      "start": 160.938,
+      "end": 161.062,
+      "duration": 0.125
+    },
+    {
+      "text": "made",
+      "start": 161.075,
+      "end": 161.325,
+      "duration": 0.25
+    },
+    {
+      "text": "in-house",
+      "start": 161.338,
+      "end": 162.012,
+      "duration": 0.675
+    },
+    {
+      "text": "Grape",
+      "start": 162.887,
+      "end": 163.213,
+      "duration": 0.325
+    },
+    {
+      "text": "seed",
+      "start": 163.225,
+      "end": 163.512,
+      "duration": 0.287
+    },
+    {
+      "text": "and",
+      "start": 163.525,
+      "end": 163.662,
+      "duration": 0.138
+    },
+    {
+      "text": "skin",
+      "start": 163.675,
+      "end": 163.988,
+      "duration": 0.312
+    },
+    {
+      "text": "polyphenol",
+      "start": 164.0,
+      "end": 164.725,
+      "duration": 0.725
+    },
+    {
+      "text": "extract",
+      "start": 164.738,
+      "end": 165.287,
+      "duration": 0.55
+    },
+    {
+      "text": "was",
+      "start": 165.3,
+      "end": 165.45,
+      "duration": 0.15
+    },
+    {
+      "text": "made",
+      "start": 165.463,
+      "end": 165.688,
+      "duration": 0.225
+    },
+    {
+      "text": "in-house",
+      "start": 165.7,
+      "end": 166.363,
+      "duration": 0.662
+    },
+    {
+      "text": "Memophenol",
+      "start": 167.238,
+      "end": 167.988,
+      "duration": 0.75
+    },
+    {
+      "text": "is",
+      "start": 168.0,
+      "end": 168.125,
+      "duration": 0.125
+    },
+    {
+      "text": "a",
+      "start": 168.137,
+      "end": 168.213,
+      "duration": 0.075
+    },
+    {
+      "text": "product",
+      "start": 168.225,
+      "end": 168.7,
+      "duration": 0.475
+    },
+    {
+      "text": "of",
+      "start": 168.713,
+      "end": 168.787,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 168.8,
+      "end": 168.9,
+      "duration": 0.1
+    },
+    {
+      "text": "Neurophenols",
+      "start": 168.912,
+      "end": 169.675,
+      "duration": 0.762
+    },
+    {
+      "text": "Consortium",
+      "start": 169.688,
+      "end": 170.325,
+      "duration": 0.637
+    },
+    {
+      "text": "and",
+      "start": 170.338,
+      "end": 170.5,
+      "duration": 0.163
+    },
+    {
+      "text": "contains",
+      "start": 170.512,
+      "end": 171.012,
+      "duration": 0.5
+    },
+    {
+      "text": "specific",
+      "start": 171.025,
+      "end": 171.575,
+      "duration": 0.55
+    },
+    {
+      "text": "low-molecular-weight",
+      "start": 171.588,
+      "end": 172.537,
+      "duration": 0.95
+    },
+    {
+      "text": "grape",
+      "start": 172.55,
+      "end": 172.887,
+      "duration": 0.338
+    },
+    {
+      "text": "and",
+      "start": 172.9,
+      "end": 173.025,
+      "duration": 0.125
+    },
+    {
+      "text": "blueberry",
+      "start": 173.037,
+      "end": 173.512,
+      "duration": 0.475
+    },
+    {
+      "text": "polyphenols",
+      "start": 173.525,
+      "end": 174.175,
+      "duration": 0.65
+    },
+    {
+      "text": "formulated",
+      "start": 174.188,
+      "end": 174.812,
+      "duration": 0.625
+    },
+    {
+      "text": "in",
+      "start": 174.825,
+      "end": 174.925,
+      "duration": 0.1
+    },
+    {
+      "text": "a",
+      "start": 174.938,
+      "end": 174.963,
+      "duration": 0.025
+    },
+    {
+      "text": "unique",
+      "start": 174.975,
+      "end": 175.463,
+      "duration": 0.487
+    },
+    {
+      "text": "patented",
+      "start": 175.838,
+      "end": 176.338,
+      "duration": 0.5
+    },
+    {
+      "text": "ratio",
+      "start": 176.35,
+      "end": 176.787,
+      "duration": 0.438
+    },
+    {
+      "text": "of",
+      "start": 176.8,
+      "end": 176.887,
+      "duration": 0.087
+    },
+    {
+      "text": "molecules",
+      "start": 176.9,
+      "end": 177.588,
+      "duration": 0.688
+    },
+    {
+      "text": "and",
+      "start": 177.6,
+      "end": 177.775,
+      "duration": 0.175
+    },
+    {
+      "text": "has",
+      "start": 177.787,
+      "end": 177.963,
+      "duration": 0.175
+    },
+    {
+      "text": "been",
+      "start": 177.975,
+      "end": 178.137,
+      "duration": 0.163
+    },
+    {
+      "text": "used",
+      "start": 178.15,
+      "end": 178.512,
+      "duration": 0.362
+    },
+    {
+      "text": "in",
+      "start": 178.525,
+      "end": 178.588,
+      "duration": 0.062
+    },
+    {
+      "text": "a",
+      "start": 178.6,
+      "end": 178.637,
+      "duration": 0.037
+    },
+    {
+      "text": "number",
+      "start": 178.65,
+      "end": 178.975,
+      "duration": 0.325
+    },
+    {
+      "text": "of",
+      "start": 178.988,
+      "end": 179.075,
+      "duration": 0.087
+    },
+    {
+      "text": "studies",
+      "start": 179.088,
+      "end": 179.575,
+      "duration": 0.487
+    },
+    {
+      "text": "in",
+      "start": 179.588,
+      "end": 179.775,
+      "duration": 0.188
+    },
+    {
+      "text": "both",
+      "start": 179.787,
+      "end": 180.037,
+      "duration": 0.25
+    },
+    {
+      "text": "mice",
+      "start": 180.05,
+      "end": 180.4,
+      "duration": 0.35
+    },
+    {
+      "text": "and",
+      "start": 180.412,
+      "end": 180.575,
+      "duration": 0.163
+    },
+    {
+      "text": "humans",
+      "start": 180.588,
+      "end": 181.238,
+      "duration": 0.65
+    },
+    {
+      "text": "Importantly",
+      "start": 182.113,
+      "end": 182.838,
+      "duration": 0.725
+    },
+    {
+      "text": "a",
+      "start": 183.075,
+      "end": 183.113,
+      "duration": 0.037
+    },
+    {
+      "text": "recent",
+      "start": 183.125,
+      "end": 183.537,
+      "duration": 0.412
+    },
+    {
+      "text": "bioavailability",
+      "start": 183.55,
+      "end": 184.488,
+      "duration": 0.938
+    },
+    {
+      "text": "study",
+      "start": 184.5,
+      "end": 184.863,
+      "duration": 0.362
+    },
+    {
+      "text": "showed",
+      "start": 184.875,
+      "end": 185.2,
+      "duration": 0.325
+    },
+    {
+      "text": "that",
+      "start": 185.213,
+      "end": 185.325,
+      "duration": 0.113
+    },
+    {
+      "text": "this",
+      "start": 185.338,
+      "end": 185.512,
+      "duration": 0.175
+    },
+    {
+      "text": "combination",
+      "start": 185.525,
+      "end": 186.188,
+      "duration": 0.662
+    },
+    {
+      "text": "of",
+      "start": 186.2,
+      "end": 186.287,
+      "duration": 0.087
+    },
+    {
+      "text": "fruit",
+      "start": 186.3,
+      "end": 186.6,
+      "duration": 0.3
+    },
+    {
+      "text": "extracts",
+      "start": 186.613,
+      "end": 187.225,
+      "duration": 0.613
+    },
+    {
+      "text": "significantly",
+      "start": 187.238,
+      "end": 187.95,
+      "duration": 0.713
+    },
+    {
+      "text": "increased",
+      "start": 187.963,
+      "end": 188.475,
+      "duration": 0.512
+    },
+    {
+      "text": "plasma",
+      "start": 188.488,
+      "end": 188.963,
+      "duration": 0.475
+    },
+    {
+      "text": "polyphenol",
+      "start": 188.975,
+      "end": 189.662,
+      "duration": 0.688
+    },
+    {
+      "text": "levels",
+      "start": 189.675,
+      "end": 190.062,
+      "duration": 0.388
+    },
+    {
+      "text": "compared",
+      "start": 190.075,
+      "end": 190.5,
+      "duration": 0.425
+    },
+    {
+      "text": "to",
+      "start": 190.512,
+      "end": 190.588,
+      "duration": 0.075
+    },
+    {
+      "text": "levels",
+      "start": 190.6,
+      "end": 190.988,
+      "duration": 0.388
+    },
+    {
+      "text": "observed",
+      "start": 191.0,
+      "end": 191.5,
+      "duration": 0.5
+    },
+    {
+      "text": "with",
+      "start": 191.512,
+      "end": 191.65,
+      "duration": 0.138
+    },
+    {
+      "text": "individual",
+      "start": 191.662,
+      "end": 192.363,
+      "duration": 0.7
+    },
+    {
+      "text": "extracts",
+      "start": 192.375,
+      "end": 193.162,
+      "duration": 0.787
+    },
+    {
+      "text": "While",
+      "start": 194.025,
+      "end": 194.287,
+      "duration": 0.263
+    },
+    {
+      "text": "commercial",
+      "start": 194.3,
+      "end": 194.762,
+      "duration": 0.463
+    },
+    {
+      "text": "preparations",
+      "start": 194.775,
+      "end": 195.537,
+      "duration": 0.762
+    },
+    {
+      "text": "have",
+      "start": 195.55,
+      "end": 195.662,
+      "duration": 0.113
+    },
+    {
+      "text": "been",
+      "start": 195.675,
+      "end": 195.838,
+      "duration": 0.163
+    },
+    {
+      "text": "characterized",
+      "start": 195.85,
+      "end": 196.65,
+      "duration": 0.8
+    },
+    {
+      "text": "in",
+      "start": 196.662,
+      "end": 196.75,
+      "duration": 0.087
+    },
+    {
+      "text": "terms",
+      "start": 196.762,
+      "end": 197.113,
+      "duration": 0.35
+    },
+    {
+      "text": "of",
+      "start": 197.125,
+      "end": 197.2,
+      "duration": 0.075
+    },
+    {
+      "text": "polyphenol",
+      "start": 197.213,
+      "end": 197.875,
+      "duration": 0.662
+    },
+    {
+      "text": "content",
+      "start": 197.887,
+      "end": 198.45,
+      "duration": 0.562
+    },
+    {
+      "text": "preparations",
+      "start": 198.8,
+      "end": 199.562,
+      "duration": 0.762
+    },
+    {
+      "text": "made",
+      "start": 199.575,
+      "end": 199.8,
+      "duration": 0.225
+    },
+    {
+      "text": "in-house",
+      "start": 199.812,
+      "end": 200.35,
+      "duration": 0.537
+    },
+    {
+      "text": "were",
+      "start": 200.363,
+      "end": 200.537,
+      "duration": 0.175
+    },
+    {
+      "text": "often",
+      "start": 200.55,
+      "end": 200.875,
+      "duration": 0.325
+    },
+    {
+      "text": "not",
+      "start": 200.887,
+      "end": 201.312,
+      "duration": 0.425
+    },
+    {
+      "text": "Many",
+      "start": 202.175,
+      "end": 202.525,
+      "duration": 0.35
+    },
+    {
+      "text": "studies",
+      "start": 202.537,
+      "end": 202.988,
+      "duration": 0.45
+    },
+    {
+      "text": "on",
+      "start": 203.0,
+      "end": 203.125,
+      "duration": 0.125
+    },
+    {
+      "text": "grape",
+      "start": 203.137,
+      "end": 203.45,
+      "duration": 0.312
+    },
+    {
+      "text": "products",
+      "start": 203.463,
+      "end": 203.95,
+      "duration": 0.487
+    },
+    {
+      "text": "and",
+      "start": 203.963,
+      "end": 204.088,
+      "duration": 0.125
+    },
+    {
+      "text": "brain",
+      "start": 204.1,
+      "end": 204.387,
+      "duration": 0.287
+    },
+    {
+      "text": "health",
+      "start": 204.4,
+      "end": 204.688,
+      "duration": 0.287
+    },
+    {
+      "text": "have",
+      "start": 204.7,
+      "end": 204.838,
+      "duration": 0.138
+    },
+    {
+      "text": "examined",
+      "start": 204.85,
+      "end": 205.375,
+      "duration": 0.525
+    },
+    {
+      "text": "the",
+      "start": 205.387,
+      "end": 205.475,
+      "duration": 0.087
+    },
+    {
+      "text": "effects",
+      "start": 205.488,
+      "end": 205.963,
+      "duration": 0.475
+    },
+    {
+      "text": "of",
+      "start": 205.975,
+      "end": 206.075,
+      "duration": 0.1
+    },
+    {
+      "text": "grape",
+      "start": 206.088,
+      "end": 206.387,
+      "duration": 0.3
+    },
+    {
+      "text": "intake",
+      "start": 206.4,
+      "end": 206.838,
+      "duration": 0.438
+    },
+    {
+      "text": "on",
+      "start": 206.85,
+      "end": 206.988,
+      "duration": 0.138
+    },
+    {
+      "text": "various",
+      "start": 207.0,
+      "end": 207.412,
+      "duration": 0.412
+    },
+    {
+      "text": "aspects",
+      "start": 207.425,
+      "end": 208.025,
+      "duration": 0.6
+    },
+    {
+      "text": "of",
+      "start": 208.037,
+      "end": 208.125,
+      "duration": 0.087
+    },
+    {
+      "text": "learning",
+      "start": 208.137,
+      "end": 208.488,
+      "duration": 0.35
+    },
+    {
+      "text": "and",
+      "start": 208.5,
+      "end": 208.6,
+      "duration": 0.1
+    },
+    {
+      "text": "memory",
+      "start": 208.613,
+      "end": 209.05,
+      "duration": 0.438
+    },
+    {
+      "text": "while",
+      "start": 209.438,
+      "end": 209.613,
+      "duration": 0.175
+    },
+    {
+      "text": "a",
+      "start": 209.625,
+      "end": 209.688,
+      "duration": 0.062
+    },
+    {
+      "text": "few",
+      "start": 209.7,
+      "end": 209.925,
+      "duration": 0.225
+    },
+    {
+      "text": "studies",
+      "start": 209.938,
+      "end": 210.387,
+      "duration": 0.45
+    },
+    {
+      "text": "have",
+      "start": 210.4,
+      "end": 210.512,
+      "duration": 0.113
+    },
+    {
+      "text": "addressed",
+      "start": 210.525,
+      "end": 210.95,
+      "duration": 0.425
+    },
+    {
+      "text": "other",
+      "start": 210.963,
+      "end": 211.188,
+      "duration": 0.225
+    },
+    {
+      "text": "behaviors",
+      "start": 211.2,
+      "end": 211.812,
+      "duration": 0.613
+    },
+    {
+      "text": "such",
+      "start": 212.1,
+      "end": 212.3,
+      "duration": 0.2
+    },
+    {
+      "text": "as",
+      "start": 212.312,
+      "end": 212.425,
+      "duration": 0.113
+    },
+    {
+      "text": "mood",
+      "start": 212.438,
+      "end": 212.875,
+      "duration": 0.438
+    },
+    {
+      "text": "In",
+      "start": 213.738,
+      "end": 213.938,
+      "duration": 0.2
+    },
+    {
+      "text": "contrast",
+      "start": 213.95,
+      "end": 214.65,
+      "duration": 0.7
+    },
+    {
+      "text": "disease-related",
+      "start": 214.925,
+      "end": 215.713,
+      "duration": 0.787
+    },
+    {
+      "text": "studies",
+      "start": 215.725,
+      "end": 216.175,
+      "duration": 0.45
+    },
+    {
+      "text": "have",
+      "start": 216.188,
+      "end": 216.338,
+      "duration": 0.15
+    },
+    {
+      "text": "generally",
+      "start": 216.35,
+      "end": 216.8,
+      "duration": 0.45
+    },
+    {
+      "text": "focused",
+      "start": 216.812,
+      "end": 217.275,
+      "duration": 0.463
+    },
+    {
+      "text": "on",
+      "start": 217.287,
+      "end": 217.45,
+      "duration": 0.163
+    },
+    {
+      "text": "specific",
+      "start": 217.463,
+      "end": 218.012,
+      "duration": 0.55
+    },
+    {
+      "text": "disease-relevant",
+      "start": 218.025,
+      "end": 218.812,
+      "duration": 0.787
+    },
+    {
+      "text": "outcomes",
+      "start": 218.825,
+      "end": 219.525,
+      "duration": 0.7
+    },
+    {
+      "text": "Some",
+      "start": 220.387,
+      "end": 220.7,
+      "duration": 0.312
+    },
+    {
+      "text": "of",
+      "start": 220.713,
+      "end": 220.8,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 220.812,
+      "end": 220.875,
+      "duration": 0.062
+    },
+    {
+      "text": "human",
+      "start": 220.887,
+      "end": 221.287,
+      "duration": 0.4
+    },
+    {
+      "text": "studies",
+      "start": 221.3,
+      "end": 221.688,
+      "duration": 0.388
+    },
+    {
+      "text": "on",
+      "start": 221.7,
+      "end": 221.825,
+      "duration": 0.125
+    },
+    {
+      "text": "cognition",
+      "start": 221.838,
+      "end": 222.463,
+      "duration": 0.625
+    },
+    {
+      "text": "have",
+      "start": 222.475,
+      "end": 222.662,
+      "duration": 0.188
+    },
+    {
+      "text": "recently",
+      "start": 222.675,
+      "end": 223.113,
+      "duration": 0.438
+    },
+    {
+      "text": "been",
+      "start": 223.125,
+      "end": 223.312,
+      "duration": 0.188
+    },
+    {
+      "text": "reviewed",
+      "start": 223.325,
+      "end": 223.875,
+      "duration": 0.55
+    },
+    {
+      "text": "In",
+      "start": 224.738,
+      "end": 224.925,
+      "duration": 0.188
+    },
+    {
+      "text": "this",
+      "start": 224.938,
+      "end": 225.162,
+      "duration": 0.225
+    },
+    {
+      "text": "review",
+      "start": 225.175,
+      "end": 225.575,
+      "duration": 0.4
+    },
+    {
+      "text": "the",
+      "start": 225.938,
+      "end": 226.05,
+      "duration": 0.113
+    },
+    {
+      "text": "effects",
+      "start": 226.062,
+      "end": 226.512,
+      "duration": 0.45
+    },
+    {
+      "text": "of",
+      "start": 226.525,
+      "end": 226.637,
+      "duration": 0.113
+    },
+    {
+      "text": "grape",
+      "start": 226.65,
+      "end": 226.95,
+      "duration": 0.3
+    },
+    {
+      "text": "products",
+      "start": 226.963,
+      "end": 227.463,
+      "duration": 0.5
+    },
+    {
+      "text": "on",
+      "start": 227.475,
+      "end": 227.675,
+      "duration": 0.2
+    },
+    {
+      "text": "animal",
+      "start": 227.688,
+      "end": 228.062,
+      "duration": 0.375
+    },
+    {
+      "text": "and",
+      "start": 228.075,
+      "end": 228.162,
+      "duration": 0.087
+    },
+    {
+      "text": "human",
+      "start": 228.175,
+      "end": 228.5,
+      "duration": 0.325
+    },
+    {
+      "text": "models",
+      "start": 228.512,
+      "end": 228.912,
+      "duration": 0.4
+    },
+    {
+      "text": "of",
+      "start": 228.925,
+      "end": 229.037,
+      "duration": 0.113
+    },
+    {
+      "text": "brain",
+      "start": 229.05,
+      "end": 229.312,
+      "duration": 0.263
+    },
+    {
+      "text": "health",
+      "start": 229.325,
+      "end": 229.6,
+      "duration": 0.275
+    },
+    {
+      "text": "and",
+      "start": 229.613,
+      "end": 229.675,
+      "duration": 0.062
+    },
+    {
+      "text": "disease",
+      "start": 229.688,
+      "end": 230.175,
+      "duration": 0.487
+    },
+    {
+      "text": "will",
+      "start": 230.188,
+      "end": 230.325,
+      "duration": 0.138
+    },
+    {
+      "text": "be",
+      "start": 230.338,
+      "end": 230.463,
+      "duration": 0.125
+    },
+    {
+      "text": "addressed",
+      "start": 230.475,
+      "end": 230.9,
+      "duration": 0.425
+    },
+    {
+      "text": "first",
+      "start": 230.912,
+      "end": 231.425,
+      "duration": 0.512
+    },
+    {
+      "text": "Next",
+      "start": 232.287,
+      "end": 232.812,
+      "duration": 0.525
+    },
+    {
+      "text": "the",
+      "start": 233.037,
+      "end": 233.137,
+      "duration": 0.1
+    },
+    {
+      "text": "mechanisms",
+      "start": 233.15,
+      "end": 233.8,
+      "duration": 0.65
+    },
+    {
+      "text": "that",
+      "start": 233.812,
+      "end": 233.912,
+      "duration": 0.1
+    },
+    {
+      "text": "are",
+      "start": 233.925,
+      "end": 234.025,
+      "duration": 0.1
+    },
+    {
+      "text": "likely",
+      "start": 234.037,
+      "end": 234.425,
+      "duration": 0.388
+    },
+    {
+      "text": "to",
+      "start": 234.438,
+      "end": 234.537,
+      "duration": 0.1
+    },
+    {
+      "text": "contribute",
+      "start": 234.55,
+      "end": 235.088,
+      "duration": 0.537
+    },
+    {
+      "text": "to",
+      "start": 235.1,
+      "end": 235.188,
+      "duration": 0.087
+    },
+    {
+      "text": "their",
+      "start": 235.2,
+      "end": 235.412,
+      "duration": 0.212
+    },
+    {
+      "text": "efficacy",
+      "start": 235.425,
+      "end": 235.912,
+      "duration": 0.487
+    },
+    {
+      "text": "in",
+      "start": 235.925,
+      "end": 236.0,
+      "duration": 0.075
+    },
+    {
+      "text": "these",
+      "start": 236.012,
+      "end": 236.2,
+      "duration": 0.188
+    },
+    {
+      "text": "models",
+      "start": 236.213,
+      "end": 236.613,
+      "duration": 0.4
+    },
+    {
+      "text": "will",
+      "start": 236.625,
+      "end": 236.75,
+      "duration": 0.125
+    },
+    {
+      "text": "be",
+      "start": 236.762,
+      "end": 236.863,
+      "duration": 0.1
+    },
+    {
+      "text": "discussed",
+      "start": 236.875,
+      "end": 237.55,
+      "duration": 0.675
+    },
+    {
+      "text": "The",
+      "start": 238.412,
+      "end": 238.588,
+      "duration": 0.175
+    },
+    {
+      "text": "studies",
+      "start": 238.6,
+      "end": 239.025,
+      "duration": 0.425
+    },
+    {
+      "text": "covered",
+      "start": 239.037,
+      "end": 239.375,
+      "duration": 0.338
+    },
+    {
+      "text": "in",
+      "start": 239.387,
+      "end": 239.45,
+      "duration": 0.062
+    },
+    {
+      "text": "the",
+      "start": 239.463,
+      "end": 239.55,
+      "duration": 0.087
+    },
+    {
+      "text": "previous",
+      "start": 239.562,
+      "end": 240.05,
+      "duration": 0.487
+    },
+    {
+      "text": "review",
+      "start": 240.062,
+      "end": 240.463,
+      "duration": 0.4
+    },
+    {
+      "text": "will",
+      "start": 240.475,
+      "end": 240.625,
+      "duration": 0.15
+    },
+    {
+      "text": "not",
+      "start": 240.637,
+      "end": 240.863,
+      "duration": 0.225
+    },
+    {
+      "text": "be",
+      "start": 240.875,
+      "end": 240.975,
+      "duration": 0.1
+    },
+    {
+      "text": "covered",
+      "start": 240.988,
+      "end": 241.325,
+      "duration": 0.338
+    },
+    {
+      "text": "here",
+      "start": 241.338,
+      "end": 241.762,
+      "duration": 0.425
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Introduction.",
+      "start": 0.1,
+      "end": 1.05,
+      "word_count": 1
+    },
+    {
+      "text": "The brain is essential for our survival and also makes us who we are.",
+      "start": 1.913,
+      "end": 5.525,
+      "word_count": 14
+    },
+    {
+      "text": "Not only does it control thoughts, memory, and emotion, but it also controls touch, motor skills, vision, and hearing, as well as basic physiological functions, such as breathing, temperature, and hunger.",
+      "start": 6.4,
+      "end": 18.762,
+      "word_count": 31
+    },
+    {
+      "text": "Thus, keeping the brain healthy is critical to maintaining one's overall well-being as well as to having a good quality of life.",
+      "start": 19.637,
+      "end": 26.6,
+      "word_count": 22
+    },
+    {
+      "text": "So how do you keep the brain healthy throughout your lifespan?",
+      "start": 27.462,
+      "end": 30.425,
+      "word_count": 11
+    },
+    {
+      "text": "Is it possible to restore normal brain function following a disease or injury?",
+      "start": 31.3,
+      "end": 35.487,
+      "word_count": 13
+    },
+    {
+      "text": "Is it possible to improve brain function even in young healthy individuals?",
+      "start": 36.362,
+      "end": 40.475,
+      "word_count": 12
+    },
+    {
+      "text": "Although these questions have consumed investigators for many years, there are still no clear answers.",
+      "start": 41.337,
+      "end": 46.85,
+      "word_count": 15
+    },
+    {
+      "text": "However, what is clear is that any approach to addressing these possibilities needs to be safe, inexpensive, readily available, and easy to access or use.",
+      "start": 47.725,
+      "end": 56.987,
+      "word_count": 25
+    },
+    {
+      "text": "Given that the improvement, maintenance, or restoration of brain function involves multiple targets and the likelihood that the relative importance of each of these targets will vary among individuals and diseases, it seems that the best approach is to identify treatments that inherently contain multiple biological activities that can impact the different targets that are associated more generally with healthy brain function.",
+      "start": 57.85,
+      "end": 80.213,
+      "word_count": 62
+    },
+    {
+      "text": "One excellent source for these types of treatments is grapes.",
+      "start": 81.088,
+      "end": 84.225,
+      "word_count": 10
+    },
+    {
+      "text": "The goal of this review is to summarize new studies on grapes and brain function that have appeared since the publication of the previous review in 2016.",
+      "start": 85.088,
+      "end": 94.35,
+      "word_count": 27
+    },
+    {
+      "text": "The studies on grapes and the brain that are discussed in this review have used a variety of nonalcoholic grape products, including grape juice; freeze-dried grape powder made from whole grapes, including seeds and skin; grape seed extracts; grape seed plus skin extracts; and Memophenol, a polyphenol-rich extract combining both grapes and blueberries.",
+      "start": 94.362,
+      "end": 115.8,
+      "word_count": 53
+    },
+    {
+      "text": "All of the studies used either Vitis vinifera or Vitus labrusca.",
+      "start": 115.812,
+      "end": 120.5,
+      "word_count": 11
+    },
+    {
+      "text": "Most of the studies included inert placebos or other controls that matched many of the components of the grape product tested, except for polyphenols.",
+      "start": 120.513,
+      "end": 129.475,
+      "word_count": 24
+    },
+    {
+      "text": "For some of the studies, freeze-dried grape powder was sourced from the California Table Grape Commission, which has been characterized in terms of polyphenol content.",
+      "start": 129.488,
+      "end": 139.05,
+      "word_count": 25
+    },
+    {
+      "text": "A few studies used commercial or in-house freeze-dried whole-grape extracts.",
+      "start": 139.062,
+      "end": 144.075,
+      "word_count": 10
+    },
+    {
+      "text": "The grape juice was made either from Concord grapes or common grapes, with white grape juice and slash or another placebo drink designed to smell, look, and taste like grape juice and used often as a caloric control.",
+      "start": 144.088,
+      "end": 156.838,
+      "word_count": 38
+    },
+    {
+      "text": "Grape seed extract and polyphenol extract were either a commercial preparation or made in-house.",
+      "start": 156.85,
+      "end": 163.213,
+      "word_count": 14
+    },
+    {
+      "text": "Grape seed and skin polyphenol extract was made in-house.",
+      "start": 163.225,
+      "end": 167.988,
+      "word_count": 9
+    },
+    {
+      "text": "Memophenol is a product of the Neurophenols Consortium and contains specific low-molecular-weight grape and blueberry polyphenols formulated in a unique, patented ratio of molecules and has been used in a number of studies in both mice and humans.",
+      "start": 168.0,
+      "end": 182.838,
+      "word_count": 38
+    },
+    {
+      "text": "Importantly, a recent bioavailability study showed that this combination of fruit extracts significantly increased plasma polyphenol levels compared to levels observed with individual extracts.",
+      "start": 183.075,
+      "end": 194.287,
+      "word_count": 24
+    },
+    {
+      "text": "While commercial preparations have been characterized in terms of polyphenol content, preparations made in-house were often not.",
+      "start": 194.3,
+      "end": 202.525,
+      "word_count": 17
+    },
+    {
+      "text": "Many studies on grape products and brain health have examined the effects of grape intake on various aspects of learning and memory, while a few studies have addressed other behaviors, such as mood.",
+      "start": 202.537,
+      "end": 213.938,
+      "word_count": 33
+    },
+    {
+      "text": "In contrast, disease-related studies have generally focused on specific disease-relevant outcomes.",
+      "start": 213.95,
+      "end": 220.7,
+      "word_count": 11
+    },
+    {
+      "text": "Some of the human studies on cognition have recently been reviewed.",
+      "start": 220.713,
+      "end": 224.925,
+      "word_count": 11
+    },
+    {
+      "text": "In this review, the effects of grape products on animal and human models of brain health and disease will be addressed first.",
+      "start": 224.938,
+      "end": 232.812,
+      "word_count": 22
+    },
+    {
+      "text": "Next, the mechanisms that are likely to contribute to their efficacy in these models will be discussed.",
+      "start": 233.037,
+      "end": 238.588,
+      "word_count": 17
+    },
+    {
+      "text": "The studies covered in the previous review will not be covered here.",
+      "start": 238.6,
+      "end": 241.762,
+      "word_count": 11
+    }
+  ],
+  "total_duration": 241.762,
+  "voice": "en-US-AriaNeural",
+  "text": "Introduction. The brain is essential for our survival and also makes us who we are. Not only does it control thoughts, memory, and emotion, but it also controls touch, motor skills, vision, and hearing, as well as basic physiological functions, such as breathing, temperature, and hunger. Thus, keeping the brain healthy is critical to maintaining one's overall well-being as well as to having a good quality of life. So how do you keep the brain healthy throughout your lifespan? Is it possible to restore normal brain function following a disease or injury? Is it possible to improve brain function even in young healthy individuals? Although these questions have consumed investigators for many years, there are still no clear answers. However, what is clear is that any approach to addressing these possibilities needs to be safe, inexpensive, readily available, and easy to access or use. Given that the improvement, maintenance, or restoration of brain function involves multiple targets and the likelihood that the relative importance of each of these targets will vary among individuals and diseases, it seems that the best approach is to identify treatments that inherently contain multiple biological activities that can impact the different targets that are associated more generally with healthy brain function. One excellent source for these types of treatments is grapes. The goal of this review is to summarize new studies on grapes and brain function that have appeared since the publication of the previous review in 2016. The studies on grapes and the brain that are discussed in this review have used a variety of nonalcoholic grape products, including grape juice; freeze-dried grape powder made from whole grapes, including seeds and skin; grape seed extracts; grape seed plus skin extracts; and Memophenol, a polyphenol-rich extract combining both grapes and blueberries. All of the studies used either Vitis vinifera or Vitus labrusca. Most of the studies included inert placebos or other controls that matched many of the components of the grape product tested, except for polyphenols. For some of the studies, freeze-dried grape powder was sourced from the California Table Grape Commission, which has been characterized in terms of polyphenol content. A few studies used commercial or in-house freeze-dried whole-grape extracts. The grape juice was made either from Concord grapes or common grapes, with white grape juice and slash or another placebo drink designed to smell, look, and taste like grape juice and used often as a caloric control. Grape seed extract and polyphenol extract were either a commercial preparation or made in-house. Grape seed and skin polyphenol extract was made in-house. Memophenol is a product of the Neurophenols Consortium and contains specific low-molecular-weight grape and blueberry polyphenols formulated in a unique, patented ratio of molecules and has been used in a number of studies in both mice and humans. Importantly, a recent bioavailability study showed that this combination of fruit extracts significantly increased plasma polyphenol levels compared to levels observed with individual extracts. While commercial preparations have been characterized in terms of polyphenol content, preparations made in-house were often not. Many studies on grape products and brain health have examined the effects of grape intake on various aspects of learning and memory, while a few studies have addressed other behaviors, such as mood. In contrast, disease-related studies have generally focused on specific disease-relevant outcomes. Some of the human studies on cognition have recently been reviewed. In this review, the effects of grape products on animal and human models of brain health and disease will be addressed first. Next, the mechanisms that are likely to contribute to their efficacy in these models will be discussed. The studies covered in the previous review will not be covered here."
+}

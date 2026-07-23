@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Balb/c / c",
+      "start": 0.109,
+      "end": 1.462,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.462,
+  "voice": "en-US-AriaNeural"
+}

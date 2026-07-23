@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Body",
+      "start": 0.109,
+      "end": 0.506,
+      "duration": 0.397
+    },
+    {
+      "text": "weight",
+      "start": 0.521,
+      "end": 1.065,
+      "duration": 0.544
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Body weight",
+      "start": 0.109,
+      "end": 1.065,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.065,
+  "voice": "en-US-AriaNeural",
+  "text": "Body weight"
+}

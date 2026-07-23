@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Vitis",
+      "start": 0.109,
+      "end": 0.682,
+      "duration": 0.574
+    },
+    {
+      "text": "labrusca",
+      "start": 0.697,
+      "end": 1.55,
+      "duration": 0.853
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Vitis labrusca",
+      "start": 0.109,
+      "end": 1.55,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.55,
+  "voice": "en-US-AriaNeural",
+  "text": "Vitis labrusca"
+}

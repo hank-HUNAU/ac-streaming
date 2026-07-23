@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Dietary",
+      "start": 0.109,
+      "end": 0.932,
+      "duration": 0.824
+    },
+    {
+      "text": "intervention",
+      "start": 0.947,
+      "end": 1.844,
+      "duration": 0.897
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Dietary intervention",
+      "start": 0.109,
+      "end": 1.844,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.844,
+  "voice": "en-US-AriaNeural",
+  "text": "Dietary intervention"
+}

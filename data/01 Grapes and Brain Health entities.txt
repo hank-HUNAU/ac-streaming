@@ -1,0 +1,166 @@
+category,term,normalized_name,synonyms
+CHEMICAL,Resveratrol,Resveratrol,"3,5,4'-Trihydroxystilbene"
+CHEMICAL,Catechin,Catechin,儿茶素
+CHEMICAL,Epicatechin,Epicatechin,表儿茶素
+CHEMICAL,Anthocyanins,Anthocyanins,花青素
+CHEMICAL,Proanthocyanidins,Proanthocyanidins,原花青素
+CHEMICAL,Flavan-3-ols,Flavan-3-ols,黄烷-3-醇
+CHEMICAL,Flavonols,Flavonols,黄酮醇
+CHEMICAL,Phenolic acids,Phenolic acids,酚酸
+CHEMICAL,Stilbenes,Stilbenes,芪类
+CHEMICAL,GSH,Glutathione,谷胱甘肽
+CHEMICAL,ROS,Reactive oxygen species,活性氧
+CHEMICAL,Hydrogen peroxide,Hydrogen peroxide,H₂O₂
+CHEMICAL,Superoxide,Superoxide,O₂⁻•
+CHEMICAL,Hydroxyl radicals,Hydroxyl radicals,•OH
+CHEMICAL,Lipid peroxidation products,Lipid peroxidation products,脂质过氧化产物
+CHEMICAL,TBARS,Thiobarbituric acid reactive substances,硫代巴比妥酸反应物
+CHEMICAL,ABTS,"2,2'-Azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)","自由基清除能力测定试剂"
+CHEMICAL,FRAP,Ferric reducing antioxidant power,铁还原抗氧化能力
+CHEMICAL,FDG,Fluorodeoxyglucose,氟代脱氧葡萄糖（PET示踪剂）
+CHEMICAL,6-OHDA,6-Hydroxydopamine,6-羟基多巴胺（神经毒素）
+CHEMICAL,VPA,Valproic acid,丙戊酸
+CHEMICAL,Dopamine,Dopamine,多巴胺
+CHEMICAL,Acetylcholine,Acetylcholine,乙酰胆碱
+CHEMICAL,Epicatechin sulfate,Epicatechin sulfate,硫酸表儿茶素
+CHEMICAL,Petunidin glucuronide,Petunidin glucuronide,矮牵牛素葡萄糖醛酸苷
+CHEMICAL,Glucuronides,Glucuronides,葡萄糖醛酸结合物
+PROTEIN_GENE,BDNF,Brain-derived neurotrophic factor,脑源性神经营养因子
+PROTEIN_GENE,NGF,Nerve growth factor,神经生长因子
+PROTEIN_GENE,SOD1,Superoxide dismutase 1,"铜/锌超氧化物歧化酶"
+PROTEIN_GENE,CAT,Catalase,过氧化氢酶
+PROTEIN_GENE,GPx,Glutathione peroxidase,谷胱甘肽过氧化物酶
+PROTEIN_GENE,CaMKII,"Calcium/calmodulin-dependent protein kinase II","钙/钙调蛋白依赖性蛋白激酶II"
+PROTEIN_GENE,Synaptophysin,Synaptophysin,突触囊泡蛋白（突触标记物）
+PROTEIN_GENE,DCX,Doublecortin,"双皮质素（未成熟神经元标记物）"
+PROTEIN_GENE,GFAP,Glial fibrillary acidic protein,"胶质纤维酸性蛋白（星形胶质细胞标记物）"
+PROTEIN_GENE,Iba1,"Ionized calcium-binding adapter molecule 1",小胶质细胞标记物
+PROTEIN_GENE,α-Synuclein,Alpha-synuclein,"α-突触核蛋白（PD相关蛋白）"
+PROTEIN_GENE,Amyloid beta,Amyloid beta,"Aβ（AD斑块成分）"
+PROTEIN_GENE,Tau,Tau,"微管相关蛋白（AD神经原纤维缠结成分）"
+PROTEIN_GENE,Pro-BDNF,Pro-brain-derived neurotrophic factor,BDNF前体
+PROTEIN_GENE,Choline acetyltransferase,Choline acetyltransferase,胆碱乙酰转移酶
+PROTEIN_GENE,Acetylcholinesterase,Acetylcholinesterase,乙酰胆碱酯酶
+DISEASE,AD,Alzheimer's disease,阿尔茨海默病
+DISEASE,PD,Parkinson's disease,帕金森病
+DISEASE,MS,Multiple sclerosis,多发性硬化
+DISEASE,GWI,Gulf War illness,海湾战争综合征
+DISEASE,ASD,Autism spectrum disorder,孤独症谱系障碍
+DISEASE,MCI,Mild cognitive impairment,轻度认知障碍
+DISEASE,Ischemic stroke,Ischemic stroke,缺血性卒中
+DISEASE,Dementia,Dementia,痴呆
+DISEASE,Obesity,Obesity,肥胖
+DISEASE,Diabetes,Diabetes,糖尿病
+DISEASE,Hypertension,Hypertension,高血压
+DISEASE,Cardiovascular disease,Cardiovascular disease,心血管疾病
+DISEASE,Depression,Depression,抑郁症
+DISEASE,Anxiety,Anxiety,焦虑
+DISEASE,Chronic cerebral hypoperfusion,Chronic cerebral hypoperfusion,慢性脑灌注不足
+DISEASE,Ischemia/reperfusion injury,Ischemia/reperfusion injury,缺血再灌注损伤
+PATHWAY,Dopamine signaling pathway,Dopamine signaling pathway,多巴胺信号通路
+PATHWAY,Cholinergic signaling pathway,Cholinergic signaling pathway,胆碱能信号通路
+PATHWAY,NF-κB pathway,NF-κB signaling pathway,核因子κB信号通路
+PATHWAY,Wnt signaling pathway,Wnt signaling pathway,Wnt信号通路
+SPECIES,Vitis vinifera,Vitis vinifera,欧洲葡萄
+SPECIES,Vitis labrusca,Vitis labrusca,美洲葡萄
+SPECIES,C57BL/6,C57BL/6 mouse,小鼠近交系
+SPECIES,Balb/c,Balb/c mouse,小鼠近交系
+SPECIES,3xTg-AD,3xTg-AD mouse,三重转基因阿尔茨海默病模型
+SPECIES,A53T α-synuclein transgenic,A53T α-synuclein transgenic mouse,帕金森病转基因模型
+SPECIES,Wistar,Wistar rat,大鼠品系
+ANATOMY,Hippocampus,Hippocampus,海马
+ANATOMY,Frontal cortex,Frontal cortex,额叶皮层
+ANATOMY,SNc,Substantia nigra pars compacta,黑质致密部
+ANATOMY,Striatum,Striatum,纹状体
+ANATOMY,Thalamus,Thalamus,丘脑
+ANATOMY,Cerebellum,Cerebellum,小脑
+ANATOMY,Dentate gyrus,Dentate gyrus,齿状回
+ANATOMY,Parieto-temporal cortex,Parieto-temporal cortex,顶颞皮层
+ANATOMY,Cingulate cortex,Cingulate cortex,扣带回皮层
+ANATOMY,Temporal cortex,Temporal cortex,颞叶皮层
+ANATOMY,BBB,Blood-brain barrier,血脑屏障
+ANATOMY,Purkinje cells,Purkinje cells,浦肯野细胞
+ANATOMY,Astrocytes,Astrocytes,星形胶质细胞
+ANATOMY,Microglia,Microglia,小胶质细胞
+ANATOMY,Neurons,Neurons,神经元
+ANATOMY,Dopaminergic neurons,Dopaminergic neurons,多巴胺能神经元
+ANATOMY,Noradrenergic neurons,Noradrenergic neurons,去甲肾上腺素能神经元
+PHENOMENA,Oxidative stress,Oxidative stress,氧化应激
+PHENOMENA,Neurogenesis,Neurogenesis,神经发生
+PHENOMENA,Synaptic plasticity,Synaptic plasticity,突触可塑性
+PHENOMENA,Inflammation,Inflammation,炎症
+PHENOMENA,Apoptosis,Apoptosis,细胞凋亡
+PHENOMENA,Lipid peroxidation,Lipid peroxidation,脂质过氧化
+PHENOMENA,Protein carbonylation,Protein carbonylation,蛋白质羰基化
+PHENOMENA,Neurotransmission,Neurotransmission,神经传递
+PHENOMENA,Learning,Learning,学习
+PHENOMENA,Memory,Memory,记忆
+PHENOMENA,Cognition,Cognition,认知
+PHENOMENA,Behavior,Behavior,行为
+PHENOMENA,Neuroprotection,Neuroprotection,神经保护
+PHENOMENA,Antioxidant defense,Antioxidant defense,抗氧化防御
+INTERVENTION,Grape juice,Grape juice,葡萄汁
+INTERVENTION,FDGP,Freeze-dried grape powder,冷冻干燥葡萄粉
+INTERVENTION,GSE,Grape seed extract,葡萄籽提取物
+INTERVENTION,GSPE,Grape seed polyphenol extract,葡萄籽多酚提取物
+INTERVENTION,GSSPE,Grape seed and skin polyphenol extract,葡萄籽和皮多酚提取物
+INTERVENTION,GPPE,Grape powder polyphenol extract,葡萄粉多酚提取物
+INTERVENTION,GPC,Grape polyphenol concentrate,葡萄多酚浓缩物
+INTERVENTION,GSP,Grape seed proanthocyanidins,葡萄籽原花青素
+INTERVENTION,Memophenol,Memophenol,葡萄和蓝莓多酚复方提取物
+INTERVENTION,Cognigrape,Cognigrape,葡萄全果提取物胶囊
+INTERVENTION,Bordo grape juice,Bordo grape juice,巴西博尔多葡萄汁
+INTERVENTION,Concord grape juice,Concord grape juice,康科德葡萄汁
+INTERVENTION,Purple grape juice,Purple grape juice,紫葡萄汁
+INTERVENTION,Placebo,Placebo,安慰剂
+INTERVENTION,Exercise,Exercise,运动（跑台训练）
+INTERVENTION,HFD,High-fat diet,高脂饮食
+INTERVENTION,HFHFD,High-fructose high-fat diet,高果糖高脂饮食
+MEASUREMENT,MWM,Morris water maze,莫里斯水迷宫
+MEASUREMENT,NOR,Novel object recognition test,新物体识别测试
+MEASUREMENT,Passive avoidance test,Passive avoidance test,被动回避测试
+MEASUREMENT,Open-field test,Open-field test,旷场试验
+MEASUREMENT,Rotarod test,Rotarod test,转棒测试
+MEASUREMENT,Grid descent test,Grid descent test,网格下降测试
+MEASUREMENT,Y maze,Y maze,Y迷宫
+MEASUREMENT,Elevated plus maze,Elevated plus maze,高架十字迷宫
+MEASUREMENT,Step-down inhibitory test,Step-down inhibitory test,下台抑制测试
+MEASUREMENT,EEG,Electroencephalography,脑电图
+MEASUREMENT,FDG-PET,Fluorodeoxyglucose positron emission tomography,氟代脱氧葡萄糖PET
+MEASUREMENT,MMSE,Mini-Mental State Exam,简易精神状态检查量表
+MEASUREMENT,MoCA,Montreal Cognitive Assessment,蒙特利尔认知评估量表
+MEASUREMENT,BDI,Beck Depression Inventory,贝克抑郁量表
+MEASUREMENT,HARS,Hamilton Anxiety Rating Scale,汉密尔顿焦虑量表
+MEASUREMENT,RBANS,"Repeatable Battery for the Assessment of Neuropsychological Status",可重复神经心理状态评定量表
+MEASUREMENT,CANTAB,"Cambridge Neuropsychological Test Automated Battery",剑桥神经心理测试成套
+MEASUREMENT,RCAT,Revelian Cognitive Ability Test,雷维利亚认知能力测试
+MEASUREMENT,PHQ-15,Patient Health Questionnaire-15,患者健康问卷（疲劳）
+MEASUREMENT,Apomorphine-induced rotation test,Apomorphine-induced rotation test,阿朴吗啡诱导旋转试验
+MEASUREMENT,Latency to platform,Latency to platform,到达平台潜伏期
+MEASUREMENT,Probe test,Probe test,探索试验
+MEASUREMENT,Discrimination index,Discrimination index,辨别指数
+MEASUREMENT,Step-down latency,Step-down latency,下台潜伏期
+MEASUREMENT,Neurological score,Neurological score,神经学评分
+MEASUREMENT,Pain sensitivity,Pain sensitivity,痛觉敏感性
+MEASUREMENT,Body weight,Body weight,体重
+MEASUREMENT,Blood pressure,Blood pressure,血压
+MEASUREMENT,Flow-mediated dilation,Flow-mediated dilation,血流介导的血管扩张
+MEASUREMENT,Plasma polyphenol levels,Plasma polyphenol levels,血浆多酚水平
+MEASUREMENT,Serum TBARS,Serum thiobarbituric acid reactive substances,血清TBARS
+MEASUREMENT,Serum glucose,Serum glucose,血清葡萄糖
+MEASUREMENT,Serum uric acid,Serum uric acid,血清尿酸
+MEASUREMENT,BMI,Body mass index,体重指数
+MEASUREMENT,Cerebral glucose metabolism,Cerebral glucose metabolism,脑葡萄糖代谢
+MISC,Neurotrophic factors,Neurotrophic factors,神经营养因子（总称）
+MISC,Synaptic markers,Synaptic markers,突触标记物
+MISC,Inflammatory markers,Inflammatory markers,炎症标记物
+MISC,Antioxidant enzymes,Antioxidant enzymes,抗氧化酶
+MISC,Microbiome,Microbiome,微生物组
+MISC,Polyphenols,Polyphenols,多酚类（总称）
+MISC,Flavonoids,Flavonoids,类黄酮（总称）
+MISC,Bioavailability,Bioavailability,生物利用度
+MISC,Metabolites,Metabolites,代谢产物
+MISC,Biomarkers,Biomarkers,生物标志物
+MISC,Clinical trials,Clinical trials,临床试验
+MISC,In vivo models,In vivo models,体内模型
+MISC,In vitro assays,In vitro assays,体外试验

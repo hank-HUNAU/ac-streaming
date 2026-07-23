@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Ischemia/reperfusion injury reperfusion injury",
+      "start": 0.109,
+      "end": 2.771,
+      "word_count": 4
+    }
+  ],
+  "total_duration": 2.771,
+  "voice": "en-US-AriaNeural"
+}

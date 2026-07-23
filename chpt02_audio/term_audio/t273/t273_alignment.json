@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "High-frequency",
+      "start": 0.109,
+      "end": 1.065,
+      "duration": 0.956
+    },
+    {
+      "text": "ultrasound",
+      "start": 1.079,
+      "end": 2.035,
+      "duration": 0.956
+    }
+  ],
+  "sentences": [
+    {
+      "text": "High-frequency ultrasound",
+      "start": 0.109,
+      "end": 2.035,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 2.035,
+  "voice": "en-US-AriaNeural",
+  "text": "High-frequency ultrasound"
+}

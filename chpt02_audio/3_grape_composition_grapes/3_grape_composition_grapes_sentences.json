@@ -1,0 +1,354 @@
+{
+  "sentences": [
+    {
+      "text": "Grape Composition.",
+      "start": 0.1,
+      "end": 1.325,
+      "word_count": 2
+    },
+    {
+      "text": "Grapes were cultivated for winemaking at least 7000 years ago and represent the world's third most valuable crop as it is consumed both fresh and in processed products, including wine, jam, juice, jelly, grape seed extract, dried grapes, vinegar, and grape-seed oil.",
+      "start": 2.2,
+      "end": 20.462,
+      "word_count": 42
+    },
+    {
+      "text": "Grapes belong to the genus Vitis, which includes about 79 accepted species; however, most cultivated grapes around the world are varieties of Vitis vinifera due to its high morphological and genetic diversity, with more than 10,000 cultivars, including seedless and nonseedless varieties in white, black, and red colors.",
+      "start": 20.475,
+      "end": 41.487,
+      "word_count": 48
+    },
+    {
+      "text": "Vitis vinifera contains several phenolic compounds and aromatic compounds, which contribute to their characteristic color, organoleptic properties, nutritional value, and antioxidant properties and provide protection against environmental challenges.",
+      "start": 41.5,
+      "end": 57.1,
+      "word_count": 28
+    },
+    {
+      "text": "All phenolic compounds have some common features, such as an aromatic ring composed of six carbon atoms with one or more hydroxyl groups or their derivatives.",
+      "start": 57.112,
+      "end": 66.888,
+      "word_count": 26
+    },
+    {
+      "text": "Their susceptibility to oxidation due to unsaturated double bonds and hydroxyl groups make phenolic compounds valuable antioxidants.",
+      "start": 66.9,
+      "end": 75.838,
+      "word_count": 17
+    },
+    {
+      "text": "The higher the total phenolic content, the higher the antioxidant activity, and phenolic content is a genotypic character.",
+      "start": 75.85,
+      "end": 84.1,
+      "word_count": 18
+    },
+    {
+      "text": "One study showed a strong correlation between the phenolic composition of different varieties of Vitis vinifera, including Syrah, Merlot, and Cabernet Sauvignon, and antioxidant capacity, measured by ferric-reducing antioxidant power, ABTS, and D P P H assays, with quantitative differences in antioxidant capacity based on phenolic compound content.",
+      "start": 84.112,
+      "end": 108.188,
+      "word_count": 48
+    },
+    {
+      "text": "Similarly, a close relationship between high phenolic composition and high-quality wines has been reported.",
+      "start": 108.45,
+      "end": 115.05,
+      "word_count": 14
+    },
+    {
+      "text": "Therefore, the phenolic composition of grapes is associated with their nutritional and quality properties.",
+      "start": 115.25,
+      "end": 121.263,
+      "word_count": 14
+    },
+    {
+      "text": "A comparison between 30 grape varieties reported diverse antioxidant capacity, measured by ferric-reducing antioxidant power, Trolox equivalent antioxidant capacity, total phenolic content, and total flavonoid content.",
+      "start": 121.275,
+      "end": 136.887,
+      "word_count": 26
+    },
+    {
+      "text": "Several antioxidants were identified and quantified, including caffeic acid, catechin gallate, epicatechin, gallic acid, protocatechuic acid, and rutin, which could contribute to the antioxidant activities of grapes and their effects on different diseases.",
+      "start": 136.9,
+      "end": 153.488,
+      "word_count": 33
+    },
+    {
+      "text": "Phenolic compounds of grapes are divided into two groups: first, nonflavonoids, characterized by having a simple C6 backbone, including hydroxybenzoic acids, hydroxycinnamic acids, volatile phenols, and stilbenes; and second, flavonoid compounds, composed of 15 carbon atoms: flavones, flavonols, flavanones, flavan-3-ols, and anthocyanins.",
+      "start": 153.5,
+      "end": 178.25,
+      "word_count": 42
+    },
+    {
+      "text": "The generic structure of flavonoids consists of two aromatic rings, the A and B rings, linked by three carbons, which are usually in an oxygenated heterocycle ring, called the C ring; differences in the latter give rise to the flavonoid compound classification.",
+      "start": 178.262,
+      "end": 194.9,
+      "word_count": 42
+    },
+    {
+      "text": "Among flavonoids, flavan-3-ols or flavanols are the most abundant phenolics in grapes, which are found in similar concentrations in skins and seeds.",
+      "start": 194.912,
+      "end": 205.537,
+      "word_count": 22
+    },
+    {
+      "text": "Flavan-3-ols include catechins, the monomeric units for proanthocyanidin biosynthesis.",
+      "start": 205.55,
+      "end": 212.675,
+      "word_count": 9
+    },
+    {
+      "text": "Proanthocyanidins, also known as tannins, are mainly present in the seed, skin, and stem tissues of grapes as both oligomeric and polymeric compounds.",
+      "start": 212.85,
+      "end": 221.925,
+      "word_count": 23
+    },
+    {
+      "text": "In grape seeds, proanthocyanidins represent the major fraction of the total polyphenol extract, and their composition differs between seeds and skin, with the seeds having shorter polymers comprised of similar amounts of catechin and epicatechin subunits.",
+      "start": 221.938,
+      "end": 237.95,
+      "word_count": 36
+    },
+    {
+      "text": "In the skin, proanthocyanidin polymers tend to be much longer and are composed mainly of epicatechin subunits.",
+      "start": 237.963,
+      "end": 246.35,
+      "word_count": 17
+    },
+    {
+      "text": "Anthocyanins, conjugated derivatives of anthocyanidins that are mainly bound to sugars, hydroxycinnamates, or organic acids, are water-soluble pigments responsible for the red and blue colors found in the skins of blue, red, or black grapes.",
+      "start": 246.575,
+      "end": 262.262,
+      "word_count": 35
+    },
+    {
+      "text": "Anthocyanins of Vitis are structurally based on five aglycones, anthocyanidins: malvidin, cyanidin, delphinidin, peonidin, and petunidin, which are classified depending on the number and position of their hydroxyl groups and methylation degree.",
+      "start": 262.275,
+      "end": 278.58,
+      "word_count": 32
+    },
+    {
+      "text": "Red grapes can produce anthocyanins, while white grapes cannot; therefore, the total phenolic level of red grape skins is higher than that of white grapes.",
+      "start": 278.593,
+      "end": 288.618,
+      "word_count": 25
+    },
+    {
+      "text": "Flavonols are another class of flavonoids that differ from one another in several characteristics including the number and type of compounds in the B ring and are normally glycosylated at the C-3 position of the C ring providing glucosides, galactosides, rhamnosides, and glucuronides with their typical structures.",
+      "start": 288.63,
+      "end": 306.981,
+      "word_count": 47
+    },
+    {
+      "text": "Grapes synthesize flavonols, such as kaempferol, quercetin, and myricetin, and the methylated forms isorhamnetin from quercetin, laricitrin, and syringetin both from myricetin.",
+      "start": 306.993,
+      "end": 318.918,
+      "word_count": 22
+    },
+    {
+      "text": "Analysis of the flavonol profile conducted in 91 grape varieties presented several differences.",
+      "start": 318.93,
+      "end": 325.218,
+      "word_count": 13
+    },
+    {
+      "text": "In red grapes, the main flavonol was quercetin at 43.99 percent, followed by myricetin at 36.81 percent, kaempferol at 6.43 percent, laricitrin at 5.65 percent, isorhamnetin at 3.89 percent, and syringetin at 3.22 percent.",
+      "start": 325.231,
+      "end": 348.018,
+      "word_count": 34
+    },
+    {
+      "text": "In white grapes, the main flavonol is quercetin at 81.35 percent, followed by kaempferol at 16.91 percent and isorhamnetin at 1.74 percent.",
+      "start": 348.031,
+      "end": 362.88,
+      "word_count": 22
+    },
+    {
+      "text": "The delphinidin-like flavonols myricetin, laricitrin, and syringetin were missing in all white varieties, indicating that the enzyme flavonoid 3,5-hydroxylase is not expressed in white grape varieties.",
+      "start": 362.893,
+      "end": 373.793,
+      "word_count": 26
+    },
+    {
+      "text": "Flavones differ from flavonols in that they lack a hydroxyl group at carbon 3.",
+      "start": 373.805,
+      "end": 379.606,
+      "word_count": 14
+    },
+    {
+      "text": "Apigenin and luteolin are the main flavones in grapes.",
+      "start": 380.468,
+      "end": 385.755,
+      "word_count": 9
+    },
+    {
+      "text": "Among nonflavonoid compounds, hydroxycinnamates or hydroxycinnamic acids are the third most abundant class of soluble phenolics in grape berries, after proanthocyanidins and anthocyanins.",
+      "start": 385.768,
+      "end": 397.031,
+      "word_count": 23
+    },
+    {
+      "text": "These compounds accumulate mainly in the flesh; however, they are also present in other grape tissues.",
+      "start": 397.043,
+      "end": 404.743,
+      "word_count": 16
+    },
+    {
+      "text": "The predominant hydroxycinnamic acids in grapes are p-coumaric, caffeic, and ferulic acids, which differ in the type and number of substituents on the aromatic ring.",
+      "start": 405.005,
+      "end": 414.93,
+      "word_count": 25
+    },
+    {
+      "text": "Hydroxybenzoic acids are present in lower quantities and include gentisic acid, salicylic acid, gallic acid, p-hydroxybenzoic acid, protocatechuic acid, tannic acid, vanillic acid, and syringic acid, mainly found in their free form.",
+      "start": 414.943,
+      "end": 432.068,
+      "word_count": 32
+    },
+    {
+      "text": "Gallic acid is the most abundant hydroxybenzoic acid derivative in grape stems, skins, and seeds, followed by syringic acid in grape stems and protocatechuic acid in grape seeds and skins.",
+      "start": 432.08,
+      "end": 445.281,
+      "word_count": 30
+    },
+    {
+      "text": "Other nonflavonoid compounds present in grapes are stilbenes, the structure of which comprises two aromatic rings linked by an ethane bridge.",
+      "start": 445.293,
+      "end": 456.943,
+      "word_count": 21
+    },
+    {
+      "text": "The main grape stilbenes are cis- and trans-resveratrol, resveratrol-3-O-beta-D-glucopyranoside known as piceid, piceatannol, and resveratrol oligomers known as viniferins.",
+      "start": 456.955,
+      "end": 466.218,
+      "word_count": 19
+    },
+    {
+      "text": "Compounds belonging to the stilbene family possess the skeleton based on the trans-resveratrol structure.",
+      "start": 466.231,
+      "end": 472.906,
+      "word_count": 14
+    },
+    {
+      "text": "trans-Resveratrol is distributed mostly in the skin, even though the concentration of this stilbene in grape skins and seeds varies considerably within the Vitis germplasm.",
+      "start": 472.918,
+      "end": 482.755,
+      "word_count": 25
+    },
+    {
+      "text": "Although present in trace quantities, the production of these compounds can increase in response to pathogenic attacks and environmental stress, such as injury, ultraviolet irradiation, or fungal infection.",
+      "start": 482.768,
+      "end": 494.918,
+      "word_count": 28
+    },
+    {
+      "text": "It is important to note that the most powerful antioxidants, including resveratrol, quercetin, rutin, catechin, epicatechin, and epicatechin gallate, are in the skin of grapes.",
+      "start": 494.93,
+      "end": 507.88,
+      "word_count": 25
+    },
+    {
+      "text": "The different phytochemical compounds, according to the grape product extract studied, have been described elsewhere.",
+      "start": 507.893,
+      "end": 514.843,
+      "word_count": 15
+    },
+    {
+      "text": "In addition to phenolics, grape phytochemicals from the skin, seed, and juice also include other bioactive compounds, like carotenoids and melatonin.",
+      "start": 515.081,
+      "end": 526.343,
+      "word_count": 21
+    },
+    {
+      "text": "Soluble and insoluble dietary fiber, vitamin C, minerals including calcium, magnesium, iron, zinc, and manganese, lipids, proteins, and carbohydrates including fructose, glucose, and sucrose are also important components of grapes.",
+      "start": 526.356,
+      "end": 542.818,
+      "word_count": 30
+    },
+    {
+      "text": "Phenolic metabolism and, thus, grape composition and development are severely affected by heat, drought, and light and ultraviolet intensity.",
+      "start": 542.831,
+      "end": 552.018,
+      "word_count": 19
+    },
+    {
+      "text": "Therefore, climatic conditions determine, to a large degree, the grape varieties that can be cultivated.",
+      "start": 552.03,
+      "end": 558.966,
+      "word_count": 15
+    },
+    {
+      "text": "It is expected that climatic extremes will have an adverse effect on grape quality traits, such as phenolic compound composition across different grape crops.",
+      "start": 558.979,
+      "end": 573.229,
+      "word_count": 24
+    },
+    {
+      "text": "Polyphenols, particularly anthocyanins, decrease at elevated temperatures.",
+      "start": 573.241,
+      "end": 575.703,
+      "word_count": 7
+    },
+    {
+      "text": "Similarly, flavanol levels increase with better exposure to solar radiation.",
+      "start": 575.716,
+      "end": 580.266,
+      "word_count": 10
+    },
+    {
+      "text": "Therefore, it has been recommended to explore the Vitis germplasm, looking for those traits capable of increasing tolerance to climate change.",
+      "start": 580.279,
+      "end": 589.741,
+      "word_count": 21
+    },
+    {
+      "text": "Differences in the chemical and nutritional composition of traditional and modern grape cultivars of Vitis vinifera and hybrids have been described.",
+      "start": 589.754,
+      "end": 598.366,
+      "word_count": 21
+    },
+    {
+      "text": "About 50 to 75 percent of grape production is processed to make wine and juice.",
+      "start": 598.379,
+      "end": 604.016,
+      "word_count": 15
+    },
+    {
+      "text": "And approximately 20 to 30 percent of fresh grape produce is pomace, which consists of the remaining skin, seeds, and stalks.",
+      "start": 604.029,
+      "end": 612.779,
+      "word_count": 21
+    },
+    {
+      "text": "The pomace is a rich source of phenolics and antioxidants, but it is underutilized.",
+      "start": 612.791,
+      "end": 619.341,
+      "word_count": 14
+    },
+    {
+      "text": "Several studies have shown that phenolics, dietary fiber, and grape seed oil can be successfully extracted and used in animal feed and the pharmaceutical, cosmetic, and food industries to improve stability and nutritional characteristics.",
+      "start": 619.354,
+      "end": 632.754,
+      "word_count": 34
+    },
+    {
+      "text": "Currently, there is a growing trend in the wine industry to separate and recover grape skins and seeds for the disposal of winemaking by-products.",
+      "start": 632.766,
+      "end": 642.504,
+      "word_count": 24
+    },
+    {
+      "text": "In comparison to seed pomace, skin pomace is rich in polyphenols, including anthocyanins, flavonols, phenolic acids, stilbenes, and some proanthocyanidins, as well as dietary fiber.",
+      "start": 642.729,
+      "end": 656.354,
+      "word_count": 25
+    },
+    {
+      "text": "The biological activity of grape pomace polyphenol extracts to support their development and utilization for diverse health benefits is of great interest nowadays.",
+      "start": 656.366,
+      "end": 661.029,
+      "word_count": 12
+    }
+  ],
+  "total_duration": 661.029,
+  "voice": "en-US-AriaNeural"
+}

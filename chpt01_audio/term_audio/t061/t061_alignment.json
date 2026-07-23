@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Wnt",
+      "start": 0.109,
+      "end": 1.021,
+      "duration": 0.912
+    },
+    {
+      "text": "signaling",
+      "start": 1.035,
+      "end": 1.653,
+      "duration": 0.618
+    },
+    {
+      "text": "pathway",
+      "start": 1.668,
+      "end": 2.432,
+      "duration": 0.765
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Wnt signaling pathway",
+      "start": 0.109,
+      "end": 2.432,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.432,
+  "voice": "en-US-AriaNeural",
+  "text": "Wnt signaling pathway"
+}

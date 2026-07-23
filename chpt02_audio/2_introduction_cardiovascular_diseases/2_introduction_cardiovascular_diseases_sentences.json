@@ -1,0 +1,198 @@
+{
+  "sentences": [
+    {
+      "text": "Introduction.",
+      "start": 0.1,
+      "end": 1.05,
+      "word_count": 1
+    },
+    {
+      "text": "Cardiovascular diseases, a group of disorders that include coronary heart disease, cerebrovascular disease, stroke, and other conditions, continue to be the highest cause of death in developed and underdeveloped countries, with an estimated 17.9 million deaths each year.",
+      "start": 1.913,
+      "end": 18.712,
+      "word_count": 38
+    },
+    {
+      "text": "Remarkably, more than four per five deaths are due to heart attacks and stroke, and one-third occur in people under the age of seventy.",
+      "start": 19.587,
+      "end": 26.788,
+      "word_count": 24
+    },
+    {
+      "text": "Atherosclerosis, a complex and multifactorial process associated with atherogenic dyslipidemia, oxidative stress, and inflammatory conditions, is the underlying cause of cardiovascular disease.",
+      "start": 27.65,
+      "end": 40.3,
+      "word_count": 22
+    },
+    {
+      "text": "The interactions of oxidized lipoproteins, monocyte-derived macrophages, T cells, and the cells of the arterial wall result in a process that leads to the formation of atherosclerotic plaques.",
+      "start": 41.163,
+      "end": 53.025,
+      "word_count": 28
+    },
+    {
+      "text": "When macrophages are activated, this leads to the release of cytokines and growth factors that induce apoptosis.",
+      "start": 53.9,
+      "end": 60.612,
+      "word_count": 17
+    },
+    {
+      "text": "There are several risk factors contributing to atherosclerosis, which can be classified into two major categories: behavioral and metabolic.",
+      "start": 61.475,
+      "end": 69.888,
+      "word_count": 19
+    },
+    {
+      "text": "Behavioral factors refer to lifestyle, including smoking, unhealthy diets, and lack of exercise; these could be potentially modified.",
+      "start": 70.75,
+      "end": 79.1,
+      "word_count": 18
+    },
+    {
+      "text": "Metabolic factors resulting from lifestyle and genetic predisposition include high blood pressure, elevated blood cholesterol, diabetes, and obesity.",
+      "start": 79.963,
+      "end": 89.088,
+      "word_count": 18
+    },
+    {
+      "text": "The first step in atherosclerosis is the accumulation of L D L in the intima of the vessel as a primary event, which leads to the formation of oxidized L D L. This modified lipoprotein promotes the differentiation of monocytes into macrophages, along with the concomitant expression of scavenger receptors including S R-A and cluster of differentiation 36.",
+      "start": 89.963,
+      "end": 112.888,
+      "word_count": 58
+    },
+    {
+      "text": "This leads to unregulated uptake of L D L and cell foam formation, the first step in the atherosclerosis process.",
+      "start": 113.763,
+      "end": 121.037,
+      "word_count": 20
+    },
+    {
+      "text": "The continuous accumulation of cholesterol further leads to the formation of a necrotic center containing cholesteryl esters, cell debris, and macrophages.",
+      "start": 121.9,
+      "end": 130.925,
+      "word_count": 21
+    },
+    {
+      "text": "Advanced atherosclerosis results in a progressive narrowing of the vessels, leading to ischemia.",
+      "start": 131.787,
+      "end": 137.438,
+      "word_count": 13
+    },
+    {
+      "text": "However, acute myocardial infarction largely results from plaque rupture and thrombosis.",
+      "start": 138.3,
+      "end": 143.95,
+      "word_count": 11
+    },
+    {
+      "text": "Atherosclerosis, for the most part, is an irreversible process.",
+      "start": 144.825,
+      "end": 148.875,
+      "word_count": 9
+    },
+    {
+      "text": "Thus, the prevention of this condition, especially by dietary factors that could reverse these disorders, will be the focus of this book chapter.",
+      "start": 149.738,
+      "end": 157.625,
+      "word_count": 23
+    },
+    {
+      "text": "Vascular function in the endothelium is regulated by the release of vasoconstrictors and vasodilators, of which nitric oxide has a central role.",
+      "start": 158.488,
+      "end": 167.188,
+      "word_count": 22
+    },
+    {
+      "text": "Endothelial function and how it is affected by diet can be measured by flow-mediated vasodilation by assessing changes in brachial artery diameter after a 5-minute constriction with a blood pressure cuff.",
+      "start": 168.062,
+      "end": 179.575,
+      "word_count": 31
+    },
+    {
+      "text": "Flow-mediated vasodilation can be measured by high-frequency ultrasound, providing key information on endothelial health and atherosclerosis risk.",
+      "start": 180.45,
+      "end": 189.35,
+      "word_count": 17
+    },
+    {
+      "text": "Antioxidants have been shown to prevent reductions in flow-mediated vasodilation in diabetic individuals, hypercholesterolemic patients, and those at risk for heart disease.",
+      "start": 190.213,
+      "end": 200.438,
+      "word_count": 22
+    },
+    {
+      "text": "Bioactive compounds found in dietary sources can be useful in preventing the atherosclerotic process.",
+      "start": 201.3,
+      "end": 207.475,
+      "word_count": 14
+    },
+    {
+      "text": "Polyphenolic compounds are phytochemically active compounds that have been classified into flavonoids and nonflavonoids.",
+      "start": 208.338,
+      "end": 215.05,
+      "word_count": 14
+    },
+    {
+      "text": "Grapes contain numerous polyphenols with great potential to positively modify the major players in the development of atherosclerosis, including pro-inflammatory cytokines, enzymes, transcription factors, lipoproteins, and reactive oxygen species.",
+      "start": 215.912,
+      "end": 231.45,
+      "word_count": 29
+    },
+    {
+      "text": "The beneficial effects of grapes on human health have been documented extensively; however, due to the irreversibility of atherosclerosis, dietary approaches that include grapes and grape products need to be identified to prevent its development.",
+      "start": 232.312,
+      "end": 246.363,
+      "word_count": 35
+    },
+    {
+      "text": "There are several lines of evidence derived from epidemiological observations, clinical studies, and mechanistic studies using animal models and cells supporting the protective effects of grape polyphenols against atherosclerosis.",
+      "start": 247.238,
+      "end": 260.562,
+      "word_count": 29
+    },
+    {
+      "text": "This chapter will consider evidence from epidemiological and clinical studies that support the role of grapes or grape products in reducing atherosclerosis development or influencing surrogate markers of this process.",
+      "start": 261.438,
+      "end": 274.76,
+      "word_count": 30
+    },
+    {
+      "text": "Most human studies discussed in this chapter are meant to provide the most reliable evidence about grape or grape product supplementation by including randomized, placebo-controlled, and double-blind studies designed to document their specific effects in protecting against atherosclerosis.",
+      "start": 275.623,
+      "end": 292.01,
+      "word_count": 38
+    },
+    {
+      "text": "The dose, time of supplementation, and type of grape product, grape juice and products derived from grapes, will be evaluated in an effort to recognize the bioavailability of the distinctive bioactive components associated with these products.",
+      "start": 292.873,
+      "end": 307.085,
+      "word_count": 36
+    },
+    {
+      "text": "Further, information about the type of population studied, healthy versus high-risk patients or patients with cardiovascular disease, will be discussed for a better understanding of appropriate dietary recommendations for different populations.",
+      "start": 307.947,
+      "end": 321.822,
+      "word_count": 31
+    },
+    {
+      "text": "It is important to be aware that, currently, researchers are using concentrations of grape and grape products that are more suitable for human supplementation rather than pharmacological dosing.",
+      "start": 322.697,
+      "end": 333.185,
+      "word_count": 28
+    },
+    {
+      "text": "Animal studies using several models of atherosclerosis, including ApoE knock-out mice, salt-sensitive rats, pigs, and guinea pigs, are also discussed since they help us understand the mechanisms of action of the different polyphenols present in grapes and provide an explanation regarding the beneficial effects observed in humans.",
+      "start": 334.06,
+      "end": 353.185,
+      "word_count": 47
+    },
+    {
+      "text": "Cell studies with grape extracts or phytochemicals present in grapes, including resveratrol, that provide key information regarding signaling and metabolic pathways are also reviewed.",
+      "start": 354.048,
+      "end": 364.947,
+      "word_count": 24
+    }
+  ],
+  "total_duration": 364.947,
+  "voice": "en-US-AriaNeural"
+}

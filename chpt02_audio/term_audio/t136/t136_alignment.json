@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "HIF",
+      "start": 0.109,
+      "end": 0.874,
+      "duration": 0.765
+    },
+    {
+      "text": "pathway",
+      "start": 0.888,
+      "end": 1.668,
+      "duration": 0.779
+    }
+  ],
+  "sentences": [
+    {
+      "text": "HIF pathway",
+      "start": 0.109,
+      "end": 1.668,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.668,
+  "voice": "en-US-AriaNeural",
+  "text": "HIF pathway"
+}

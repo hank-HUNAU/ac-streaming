@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Neurotrophic",
+      "start": 0.109,
+      "end": 1.094,
+      "duration": 0.985
+    },
+    {
+      "text": "factors",
+      "start": 1.109,
+      "end": 1.888,
+      "duration": 0.779
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Neurotrophic factors",
+      "start": 0.109,
+      "end": 1.888,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.888,
+  "voice": "en-US-AriaNeural",
+  "text": "Neurotrophic factors"
+}

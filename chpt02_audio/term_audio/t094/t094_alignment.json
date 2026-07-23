@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "IL-10",
+      "start": 0.109,
+      "end": 1.168,
+      "duration": 1.059
+    }
+  ],
+  "sentences": [
+    {
+      "text": "IL-10",
+      "start": 0.109,
+      "end": 1.168,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.168,
+  "voice": "en-US-AriaNeural",
+  "text": "IL-10"
+}

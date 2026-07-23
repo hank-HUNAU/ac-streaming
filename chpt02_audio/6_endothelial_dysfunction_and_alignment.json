@@ -1,0 +1,4071 @@
+{
+  "words": [
+    {
+      "text": "Endothelial",
+      "start": 0.1,
+      "end": 0.875,
+      "duration": 0.775
+    },
+    {
+      "text": "Dysfunction",
+      "start": 0.887,
+      "end": 1.587,
+      "duration": 0.7
+    },
+    {
+      "text": "and",
+      "start": 1.6,
+      "end": 1.712,
+      "duration": 0.113
+    },
+    {
+      "text": "Hypertension",
+      "start": 1.725,
+      "end": 2.587,
+      "duration": 0.863
+    },
+    {
+      "text": "In",
+      "start": 3.462,
+      "end": 3.675,
+      "duration": 0.212
+    },
+    {
+      "text": "recent",
+      "start": 3.688,
+      "end": 4.062,
+      "duration": 0.375
+    },
+    {
+      "text": "years",
+      "start": 4.075,
+      "end": 4.5,
+      "duration": 0.425
+    },
+    {
+      "text": "considerable",
+      "start": 4.8,
+      "end": 5.45,
+      "duration": 0.65
+    },
+    {
+      "text": "attention",
+      "start": 5.463,
+      "end": 5.975,
+      "duration": 0.512
+    },
+    {
+      "text": "has",
+      "start": 5.987,
+      "end": 6.175,
+      "duration": 0.188
+    },
+    {
+      "text": "been",
+      "start": 6.188,
+      "end": 6.35,
+      "duration": 0.163
+    },
+    {
+      "text": "given",
+      "start": 6.362,
+      "end": 6.662,
+      "duration": 0.3
+    },
+    {
+      "text": "to",
+      "start": 6.675,
+      "end": 6.775,
+      "duration": 0.1
+    },
+    {
+      "text": "grapes",
+      "start": 6.787,
+      "end": 7.2,
+      "duration": 0.412
+    },
+    {
+      "text": "and",
+      "start": 7.213,
+      "end": 7.325,
+      "duration": 0.113
+    },
+    {
+      "text": "grape",
+      "start": 7.338,
+      "end": 7.662,
+      "duration": 0.325
+    },
+    {
+      "text": "compounds",
+      "start": 7.675,
+      "end": 8.312,
+      "duration": 0.637
+    },
+    {
+      "text": "as",
+      "start": 8.325,
+      "end": 8.45,
+      "duration": 0.125
+    },
+    {
+      "text": "a",
+      "start": 8.463,
+      "end": 8.525,
+      "duration": 0.062
+    },
+    {
+      "text": "treatment",
+      "start": 8.537,
+      "end": 9.025,
+      "duration": 0.487
+    },
+    {
+      "text": "to",
+      "start": 9.037,
+      "end": 9.15,
+      "duration": 0.113
+    },
+    {
+      "text": "alleviate",
+      "start": 9.162,
+      "end": 9.675,
+      "duration": 0.512
+    },
+    {
+      "text": "hypertension",
+      "start": 9.688,
+      "end": 10.525,
+      "duration": 0.838
+    },
+    {
+      "text": "A",
+      "start": 11.4,
+      "end": 11.55,
+      "duration": 0.15
+    },
+    {
+      "text": "recent",
+      "start": 11.562,
+      "end": 11.938,
+      "duration": 0.375
+    },
+    {
+      "text": "meta-analysis",
+      "start": 11.95,
+      "end": 12.775,
+      "duration": 0.825
+    },
+    {
+      "text": "of",
+      "start": 12.787,
+      "end": 12.9,
+      "duration": 0.113
+    },
+    {
+      "text": "23",
+      "start": 12.912,
+      "end": 13.575,
+      "duration": 0.662
+    },
+    {
+      "text": "randomized",
+      "start": 13.588,
+      "end": 14.213,
+      "duration": 0.625
+    },
+    {
+      "text": "crossover",
+      "start": 14.225,
+      "end": 14.725,
+      "duration": 0.5
+    },
+    {
+      "text": "trials",
+      "start": 14.738,
+      "end": 15.25,
+      "duration": 0.512
+    },
+    {
+      "text": "including",
+      "start": 15.613,
+      "end": 16.125,
+      "duration": 0.512
+    },
+    {
+      "text": "967",
+      "start": 16.137,
+      "end": 17.438,
+      "duration": 1.3
+    },
+    {
+      "text": "participants",
+      "start": 17.45,
+      "end": 18.175,
+      "duration": 0.725
+    },
+    {
+      "text": "concluded",
+      "start": 18.5,
+      "end": 19.1,
+      "duration": 0.6
+    },
+    {
+      "text": "that",
+      "start": 19.113,
+      "end": 19.25,
+      "duration": 0.138
+    },
+    {
+      "text": "grape",
+      "start": 19.262,
+      "end": 19.575,
+      "duration": 0.312
+    },
+    {
+      "text": "products",
+      "start": 19.587,
+      "end": 20.075,
+      "duration": 0.487
+    },
+    {
+      "text": "significantly",
+      "start": 20.087,
+      "end": 20.8,
+      "duration": 0.713
+    },
+    {
+      "text": "decreased",
+      "start": 20.812,
+      "end": 21.312,
+      "duration": 0.5
+    },
+    {
+      "text": "systolic",
+      "start": 21.325,
+      "end": 21.938,
+      "duration": 0.613
+    },
+    {
+      "text": "blood",
+      "start": 21.95,
+      "end": 22.2,
+      "duration": 0.25
+    },
+    {
+      "text": "pressure",
+      "start": 22.212,
+      "end": 22.65,
+      "duration": 0.438
+    },
+    {
+      "text": "compared",
+      "start": 22.663,
+      "end": 23.087,
+      "duration": 0.425
+    },
+    {
+      "text": "to",
+      "start": 23.1,
+      "end": 23.163,
+      "duration": 0.062
+    },
+    {
+      "text": "the",
+      "start": 23.175,
+      "end": 23.288,
+      "duration": 0.113
+    },
+    {
+      "text": "control",
+      "start": 23.3,
+      "end": 23.712,
+      "duration": 0.412
+    },
+    {
+      "text": "group",
+      "start": 23.725,
+      "end": 24.038,
+      "duration": 0.312
+    },
+    {
+      "text": "by",
+      "start": 24.05,
+      "end": 24.175,
+      "duration": 0.125
+    },
+    {
+      "text": "minus",
+      "start": 24.188,
+      "end": 24.625,
+      "duration": 0.438
+    },
+    {
+      "text": "3.17",
+      "start": 24.637,
+      "end": 25.825,
+      "duration": 1.188
+    },
+    {
+      "text": "millimeters",
+      "start": 25.837,
+      "end": 26.387,
+      "duration": 0.55
+    },
+    {
+      "text": "of",
+      "start": 26.4,
+      "end": 26.462,
+      "duration": 0.062
+    },
+    {
+      "text": "mercury",
+      "start": 26.475,
+      "end": 27.0,
+      "duration": 0.525
+    },
+    {
+      "text": "with",
+      "start": 27.012,
+      "end": 27.175,
+      "duration": 0.163
+    },
+    {
+      "text": "a",
+      "start": 27.188,
+      "end": 27.225,
+      "duration": 0.037
+    },
+    {
+      "text": "95 percent",
+      "start": 27.238,
+      "end": 28.337,
+      "duration": 1.1
+    },
+    {
+      "text": "confidence",
+      "start": 28.35,
+      "end": 28.863,
+      "duration": 0.512
+    },
+    {
+      "text": "interval",
+      "start": 28.875,
+      "end": 29.363,
+      "duration": 0.487
+    },
+    {
+      "text": "from",
+      "start": 29.375,
+      "end": 29.538,
+      "duration": 0.163
+    },
+    {
+      "text": "minus",
+      "start": 29.55,
+      "end": 29.962,
+      "duration": 0.412
+    },
+    {
+      "text": "5.36",
+      "start": 29.975,
+      "end": 31.188,
+      "duration": 1.212
+    },
+    {
+      "text": "to",
+      "start": 31.2,
+      "end": 31.288,
+      "duration": 0.087
+    },
+    {
+      "text": "minus",
+      "start": 31.3,
+      "end": 31.675,
+      "duration": 0.375
+    },
+    {
+      "text": "0.99",
+      "start": 31.688,
+      "end": 33.288,
+      "duration": 1.6
+    },
+    {
+      "text": "and",
+      "start": 33.3,
+      "end": 33.462,
+      "duration": 0.163
+    },
+    {
+      "text": "a",
+      "start": 33.475,
+      "end": 33.575,
+      "duration": 0.1
+    },
+    {
+      "text": "p",
+      "start": 33.587,
+      "end": 33.8,
+      "duration": 0.212
+    },
+    {
+      "text": "value",
+      "start": 33.812,
+      "end": 34.263,
+      "duration": 0.45
+    },
+    {
+      "text": "of",
+      "start": 34.275,
+      "end": 34.413,
+      "duration": 0.138
+    },
+    {
+      "text": "0.0004",
+      "start": 34.425,
+      "end": 36.55,
+      "duration": 2.125
+    },
+    {
+      "text": "There",
+      "start": 37.425,
+      "end": 37.65,
+      "duration": 0.225
+    },
+    {
+      "text": "is",
+      "start": 37.663,
+      "end": 37.85,
+      "duration": 0.188
+    },
+    {
+      "text": "evidence",
+      "start": 37.862,
+      "end": 38.312,
+      "duration": 0.45
+    },
+    {
+      "text": "from",
+      "start": 38.325,
+      "end": 38.462,
+      "duration": 0.138
+    },
+    {
+      "text": "human",
+      "start": 38.475,
+      "end": 38.837,
+      "duration": 0.362
+    },
+    {
+      "text": "studies",
+      "start": 38.85,
+      "end": 39.325,
+      "duration": 0.475
+    },
+    {
+      "text": "that",
+      "start": 39.337,
+      "end": 39.475,
+      "duration": 0.138
+    },
+    {
+      "text": "whole",
+      "start": 39.487,
+      "end": 39.75,
+      "duration": 0.263
+    },
+    {
+      "text": "grapes",
+      "start": 39.763,
+      "end": 40.188,
+      "duration": 0.425
+    },
+    {
+      "text": "or",
+      "start": 40.2,
+      "end": 40.35,
+      "duration": 0.15
+    },
+    {
+      "text": "grape",
+      "start": 40.362,
+      "end": 40.663,
+      "duration": 0.3
+    },
+    {
+      "text": "extract",
+      "start": 40.675,
+      "end": 41.312,
+      "duration": 0.637
+    },
+    {
+      "text": "may",
+      "start": 41.325,
+      "end": 41.487,
+      "duration": 0.163
+    },
+    {
+      "text": "lower",
+      "start": 41.5,
+      "end": 41.825,
+      "duration": 0.325
+    },
+    {
+      "text": "blood",
+      "start": 41.837,
+      "end": 42.1,
+      "duration": 0.263
+    },
+    {
+      "text": "pressure",
+      "start": 42.112,
+      "end": 42.487,
+      "duration": 0.375
+    },
+    {
+      "text": "in",
+      "start": 42.5,
+      "end": 42.65,
+      "duration": 0.15
+    },
+    {
+      "text": "individuals",
+      "start": 42.663,
+      "end": 43.4,
+      "duration": 0.738
+    },
+    {
+      "text": "with",
+      "start": 43.413,
+      "end": 43.538,
+      "duration": 0.125
+    },
+    {
+      "text": "hypertension",
+      "start": 43.55,
+      "end": 44.375,
+      "duration": 0.825
+    },
+    {
+      "text": "Grape",
+      "start": 45.237,
+      "end": 45.587,
+      "duration": 0.35
+    },
+    {
+      "text": "juice",
+      "start": 45.6,
+      "end": 45.938,
+      "duration": 0.338
+    },
+    {
+      "text": "or",
+      "start": 45.95,
+      "end": 46.125,
+      "duration": 0.175
+    },
+    {
+      "text": "a",
+      "start": 46.138,
+      "end": 46.188,
+      "duration": 0.05
+    },
+    {
+      "text": "control",
+      "start": 46.2,
+      "end": 46.625,
+      "duration": 0.425
+    },
+    {
+      "text": "beverage",
+      "start": 46.638,
+      "end": 47.038,
+      "duration": 0.4
+    },
+    {
+      "text": "was",
+      "start": 47.05,
+      "end": 47.188,
+      "duration": 0.138
+    },
+    {
+      "text": "provided",
+      "start": 47.2,
+      "end": 47.675,
+      "duration": 0.475
+    },
+    {
+      "text": "to",
+      "start": 47.688,
+      "end": 47.763,
+      "duration": 0.075
+    },
+    {
+      "text": "28",
+      "start": 47.775,
+      "end": 48.337,
+      "duration": 0.562
+    },
+    {
+      "text": "healthy",
+      "start": 48.35,
+      "end": 48.725,
+      "duration": 0.375
+    },
+    {
+      "text": "adult",
+      "start": 48.737,
+      "end": 49.0,
+      "duration": 0.263
+    },
+    {
+      "text": "runners",
+      "start": 49.013,
+      "end": 49.462,
+      "duration": 0.45
+    },
+    {
+      "text": "23",
+      "start": 49.8,
+      "end": 50.388,
+      "duration": 0.588
+    },
+    {
+      "text": "males",
+      "start": 50.4,
+      "end": 50.9,
+      "duration": 0.5
+    },
+    {
+      "text": "and",
+      "start": 50.987,
+      "end": 51.1,
+      "duration": 0.113
+    },
+    {
+      "text": "5",
+      "start": 51.112,
+      "end": 51.45,
+      "duration": 0.338
+    },
+    {
+      "text": "females",
+      "start": 51.462,
+      "end": 52.062,
+      "duration": 0.6
+    },
+    {
+      "text": "who",
+      "start": 52.413,
+      "end": 52.5,
+      "duration": 0.087
+    },
+    {
+      "text": "were",
+      "start": 52.513,
+      "end": 52.675,
+      "duration": 0.163
+    },
+    {
+      "text": "randomly",
+      "start": 52.688,
+      "end": 53.188,
+      "duration": 0.5
+    },
+    {
+      "text": "allocated",
+      "start": 53.2,
+      "end": 53.8,
+      "duration": 0.6
+    },
+    {
+      "text": "into",
+      "start": 53.812,
+      "end": 54.05,
+      "duration": 0.237
+    },
+    {
+      "text": "two",
+      "start": 54.062,
+      "end": 54.263,
+      "duration": 0.2
+    },
+    {
+      "text": "groups",
+      "start": 54.275,
+      "end": 54.737,
+      "duration": 0.463
+    },
+    {
+      "text": "one",
+      "start": 55.025,
+      "end": 55.288,
+      "duration": 0.263
+    },
+    {
+      "text": "consuming",
+      "start": 55.3,
+      "end": 55.812,
+      "duration": 0.512
+    },
+    {
+      "text": "grape",
+      "start": 55.825,
+      "end": 56.125,
+      "duration": 0.3
+    },
+    {
+      "text": "juice",
+      "start": 56.138,
+      "end": 56.462,
+      "duration": 0.325
+    },
+    {
+      "text": "and",
+      "start": 56.475,
+      "end": 56.638,
+      "duration": 0.163
+    },
+    {
+      "text": "the",
+      "start": 56.65,
+      "end": 56.75,
+      "duration": 0.1
+    },
+    {
+      "text": "other",
+      "start": 56.763,
+      "end": 57.062,
+      "duration": 0.3
+    },
+    {
+      "text": "a",
+      "start": 57.075,
+      "end": 57.125,
+      "duration": 0.05
+    },
+    {
+      "text": "control",
+      "start": 57.138,
+      "end": 57.525,
+      "duration": 0.388
+    },
+    {
+      "text": "beverage",
+      "start": 57.538,
+      "end": 58.05,
+      "duration": 0.512
+    },
+    {
+      "text": "for",
+      "start": 58.263,
+      "end": 58.388,
+      "duration": 0.125
+    },
+    {
+      "text": "28 days",
+      "start": 58.4,
+      "end": 59.438,
+      "duration": 1.038
+    },
+    {
+      "text": "At",
+      "start": 60.3,
+      "end": 60.487,
+      "duration": 0.188
+    },
+    {
+      "text": "the",
+      "start": 60.5,
+      "end": 60.575,
+      "duration": 0.075
+    },
+    {
+      "text": "end",
+      "start": 60.587,
+      "end": 60.812,
+      "duration": 0.225
+    },
+    {
+      "text": "of",
+      "start": 60.825,
+      "end": 60.888,
+      "duration": 0.062
+    },
+    {
+      "text": "the",
+      "start": 60.9,
+      "end": 61.0,
+      "duration": 0.1
+    },
+    {
+      "text": "study",
+      "start": 61.013,
+      "end": 61.425,
+      "duration": 0.412
+    },
+    {
+      "text": "there",
+      "start": 61.712,
+      "end": 61.837,
+      "duration": 0.125
+    },
+    {
+      "text": "was",
+      "start": 61.85,
+      "end": 61.975,
+      "duration": 0.125
+    },
+    {
+      "text": "a",
+      "start": 61.987,
+      "end": 62.05,
+      "duration": 0.062
+    },
+    {
+      "text": "significant",
+      "start": 62.062,
+      "end": 62.7,
+      "duration": 0.637
+    },
+    {
+      "text": "reduction",
+      "start": 62.712,
+      "end": 63.25,
+      "duration": 0.537
+    },
+    {
+      "text": "in",
+      "start": 63.263,
+      "end": 63.425,
+      "duration": 0.163
+    },
+    {
+      "text": "systolic",
+      "start": 63.438,
+      "end": 64.013,
+      "duration": 0.575
+    },
+    {
+      "text": "blood",
+      "start": 64.025,
+      "end": 64.275,
+      "duration": 0.25
+    },
+    {
+      "text": "pressure",
+      "start": 64.287,
+      "end": 64.763,
+      "duration": 0.475
+    },
+    {
+      "text": "only",
+      "start": 64.775,
+      "end": 65.037,
+      "duration": 0.263
+    },
+    {
+      "text": "in",
+      "start": 65.05,
+      "end": 65.138,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 65.15,
+      "end": 65.225,
+      "duration": 0.075
+    },
+    {
+      "text": "treatment",
+      "start": 65.237,
+      "end": 65.625,
+      "duration": 0.388
+    },
+    {
+      "text": "group",
+      "start": 65.638,
+      "end": 66.05,
+      "duration": 0.412
+    },
+    {
+      "text": "Individuals",
+      "start": 66.912,
+      "end": 67.662,
+      "duration": 0.75
+    },
+    {
+      "text": "with",
+      "start": 67.675,
+      "end": 67.825,
+      "duration": 0.15
+    },
+    {
+      "text": "prehypertension",
+      "start": 67.838,
+      "end": 68.825,
+      "duration": 0.988
+    },
+    {
+      "text": "and",
+      "start": 68.838,
+      "end": 68.938,
+      "duration": 0.1
+    },
+    {
+      "text": "hypertension",
+      "start": 68.95,
+      "end": 69.775,
+      "duration": 0.825
+    },
+    {
+      "text": "have",
+      "start": 69.787,
+      "end": 69.987,
+      "duration": 0.2
+    },
+    {
+      "text": "also",
+      "start": 70.0,
+      "end": 70.35,
+      "duration": 0.35
+    },
+    {
+      "text": "been",
+      "start": 70.362,
+      "end": 70.513,
+      "duration": 0.15
+    },
+    {
+      "text": "shown",
+      "start": 70.525,
+      "end": 70.812,
+      "duration": 0.287
+    },
+    {
+      "text": "to",
+      "start": 70.825,
+      "end": 70.888,
+      "duration": 0.062
+    },
+    {
+      "text": "have",
+      "start": 70.9,
+      "end": 71.162,
+      "duration": 0.263
+    },
+    {
+      "text": "decreases",
+      "start": 71.175,
+      "end": 71.737,
+      "duration": 0.562
+    },
+    {
+      "text": "in",
+      "start": 71.75,
+      "end": 71.862,
+      "duration": 0.113
+    },
+    {
+      "text": "blood",
+      "start": 71.875,
+      "end": 72.138,
+      "duration": 0.263
+    },
+    {
+      "text": "pressure",
+      "start": 72.15,
+      "end": 72.575,
+      "duration": 0.425
+    },
+    {
+      "text": "through",
+      "start": 72.588,
+      "end": 72.75,
+      "duration": 0.163
+    },
+    {
+      "text": "the",
+      "start": 72.763,
+      "end": 72.862,
+      "duration": 0.1
+    },
+    {
+      "text": "consumption",
+      "start": 72.875,
+      "end": 73.463,
+      "duration": 0.588
+    },
+    {
+      "text": "of",
+      "start": 73.475,
+      "end": 73.6,
+      "duration": 0.125
+    },
+    {
+      "text": "grape",
+      "start": 73.612,
+      "end": 73.9,
+      "duration": 0.287
+    },
+    {
+      "text": "powder",
+      "start": 73.912,
+      "end": 74.275,
+      "duration": 0.362
+    },
+    {
+      "text": "for",
+      "start": 74.287,
+      "end": 74.438,
+      "duration": 0.15
+    },
+    {
+      "text": "12",
+      "start": 74.45,
+      "end": 74.787,
+      "duration": 0.338
+    },
+    {
+      "text": "weeks",
+      "start": 74.8,
+      "end": 75.338,
+      "duration": 0.537
+    },
+    {
+      "text": "Further",
+      "start": 76.2,
+      "end": 76.7,
+      "duration": 0.5
+    },
+    {
+      "text": "another",
+      "start": 76.912,
+      "end": 77.275,
+      "duration": 0.362
+    },
+    {
+      "text": "study",
+      "start": 77.287,
+      "end": 77.612,
+      "duration": 0.325
+    },
+    {
+      "text": "demonstrated",
+      "start": 77.625,
+      "end": 78.375,
+      "duration": 0.75
+    },
+    {
+      "text": "that",
+      "start": 78.388,
+      "end": 78.5,
+      "duration": 0.113
+    },
+    {
+      "text": "after",
+      "start": 78.513,
+      "end": 78.825,
+      "duration": 0.312
+    },
+    {
+      "text": "6",
+      "start": 78.838,
+      "end": 79.15,
+      "duration": 0.312
+    },
+    {
+      "text": "weeks",
+      "start": 79.162,
+      "end": 79.487,
+      "duration": 0.325
+    },
+    {
+      "text": "of",
+      "start": 79.5,
+      "end": 79.588,
+      "duration": 0.087
+    },
+    {
+      "text": "consuming",
+      "start": 79.6,
+      "end": 80.125,
+      "duration": 0.525
+    },
+    {
+      "text": "grape",
+      "start": 80.138,
+      "end": 80.425,
+      "duration": 0.287
+    },
+    {
+      "text": "seed",
+      "start": 80.438,
+      "end": 80.688,
+      "duration": 0.25
+    },
+    {
+      "text": "extracts",
+      "start": 80.7,
+      "end": 81.362,
+      "duration": 0.662
+    },
+    {
+      "text": "there",
+      "start": 81.675,
+      "end": 81.812,
+      "duration": 0.138
+    },
+    {
+      "text": "was",
+      "start": 81.825,
+      "end": 81.938,
+      "duration": 0.113
+    },
+    {
+      "text": "a",
+      "start": 81.95,
+      "end": 82.013,
+      "duration": 0.062
+    },
+    {
+      "text": "lowering",
+      "start": 82.025,
+      "end": 82.487,
+      "duration": 0.463
+    },
+    {
+      "text": "in",
+      "start": 82.5,
+      "end": 82.612,
+      "duration": 0.113
+    },
+    {
+      "text": "blood",
+      "start": 82.625,
+      "end": 82.9,
+      "duration": 0.275
+    },
+    {
+      "text": "pressure",
+      "start": 82.912,
+      "end": 83.287,
+      "duration": 0.375
+    },
+    {
+      "text": "in",
+      "start": 83.3,
+      "end": 83.425,
+      "duration": 0.125
+    },
+    {
+      "text": "individuals",
+      "start": 83.438,
+      "end": 84.188,
+      "duration": 0.75
+    },
+    {
+      "text": "with",
+      "start": 84.2,
+      "end": 84.338,
+      "duration": 0.138
+    },
+    {
+      "text": "mild",
+      "start": 84.35,
+      "end": 84.7,
+      "duration": 0.35
+    },
+    {
+      "text": "hypertension",
+      "start": 84.713,
+      "end": 85.525,
+      "duration": 0.812
+    },
+    {
+      "text": "The",
+      "start": 86.388,
+      "end": 86.562,
+      "duration": 0.175
+    },
+    {
+      "text": "latter",
+      "start": 86.575,
+      "end": 86.9,
+      "duration": 0.325
+    },
+    {
+      "text": "study",
+      "start": 86.912,
+      "end": 87.275,
+      "duration": 0.362
+    },
+    {
+      "text": "also",
+      "start": 87.287,
+      "end": 87.662,
+      "duration": 0.375
+    },
+    {
+      "text": "reported",
+      "start": 87.675,
+      "end": 88.125,
+      "duration": 0.45
+    },
+    {
+      "text": "improvements",
+      "start": 88.138,
+      "end": 88.8,
+      "duration": 0.662
+    },
+    {
+      "text": "in",
+      "start": 88.812,
+      "end": 89.0,
+      "duration": 0.188
+    },
+    {
+      "text": "insulin",
+      "start": 89.013,
+      "end": 89.5,
+      "duration": 0.487
+    },
+    {
+      "text": "and",
+      "start": 89.513,
+      "end": 89.625,
+      "duration": 0.113
+    },
+    {
+      "text": "insulin",
+      "start": 89.638,
+      "end": 90.112,
+      "duration": 0.475
+    },
+    {
+      "text": "sensitivity",
+      "start": 90.125,
+      "end": 90.95,
+      "duration": 0.825
+    },
+    {
+      "text": "Endothelial",
+      "start": 91.812,
+      "end": 92.588,
+      "duration": 0.775
+    },
+    {
+      "text": "dysfunction",
+      "start": 92.6,
+      "end": 93.263,
+      "duration": 0.662
+    },
+    {
+      "text": "is",
+      "start": 93.275,
+      "end": 93.425,
+      "duration": 0.15
+    },
+    {
+      "text": "one",
+      "start": 93.438,
+      "end": 93.6,
+      "duration": 0.163
+    },
+    {
+      "text": "of",
+      "start": 93.612,
+      "end": 93.688,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 93.7,
+      "end": 93.8,
+      "duration": 0.1
+    },
+    {
+      "text": "first",
+      "start": 93.812,
+      "end": 94.175,
+      "duration": 0.362
+    },
+    {
+      "text": "clinically",
+      "start": 94.188,
+      "end": 94.638,
+      "duration": 0.45
+    },
+    {
+      "text": "detectable",
+      "start": 94.65,
+      "end": 95.3,
+      "duration": 0.65
+    },
+    {
+      "text": "alterations",
+      "start": 95.312,
+      "end": 96.062,
+      "duration": 0.75
+    },
+    {
+      "text": "in",
+      "start": 96.075,
+      "end": 96.325,
+      "duration": 0.25
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 96.338,
+      "end": 97.362,
+      "duration": 1.025
+    },
+    {
+      "text": "development",
+      "start": 97.375,
+      "end": 98.1,
+      "duration": 0.725
+    },
+    {
+      "text": "Grapes",
+      "start": 98.975,
+      "end": 99.375,
+      "duration": 0.4
+    },
+    {
+      "text": "have",
+      "start": 99.388,
+      "end": 99.5,
+      "duration": 0.113
+    },
+    {
+      "text": "shown",
+      "start": 99.513,
+      "end": 99.8,
+      "duration": 0.287
+    },
+    {
+      "text": "beneficial",
+      "start": 99.812,
+      "end": 100.4,
+      "duration": 0.588
+    },
+    {
+      "text": "effects",
+      "start": 100.412,
+      "end": 100.862,
+      "duration": 0.45
+    },
+    {
+      "text": "on",
+      "start": 100.875,
+      "end": 101.05,
+      "duration": 0.175
+    },
+    {
+      "text": "endothelial",
+      "start": 101.062,
+      "end": 101.737,
+      "duration": 0.675
+    },
+    {
+      "text": "function",
+      "start": 101.75,
+      "end": 102.25,
+      "duration": 0.5
+    },
+    {
+      "text": "measured",
+      "start": 102.675,
+      "end": 103.0,
+      "duration": 0.325
+    },
+    {
+      "text": "by",
+      "start": 103.013,
+      "end": 103.162,
+      "duration": 0.15
+    },
+    {
+      "text": "flow-mediated",
+      "start": 103.175,
+      "end": 103.95,
+      "duration": 0.775
+    },
+    {
+      "text": "vasodilation",
+      "start": 103.963,
+      "end": 104.85,
+      "duration": 0.887
+    },
+    {
+      "text": "in",
+      "start": 104.862,
+      "end": 105.013,
+      "duration": 0.15
+    },
+    {
+      "text": "both",
+      "start": 105.025,
+      "end": 105.25,
+      "duration": 0.225
+    },
+    {
+      "text": "healthy",
+      "start": 105.263,
+      "end": 105.675,
+      "duration": 0.412
+    },
+    {
+      "text": "individuals",
+      "start": 105.688,
+      "end": 106.45,
+      "duration": 0.762
+    },
+    {
+      "text": "and",
+      "start": 106.463,
+      "end": 106.675,
+      "duration": 0.212
+    },
+    {
+      "text": "those",
+      "start": 106.688,
+      "end": 107.0,
+      "duration": 0.312
+    },
+    {
+      "text": "with",
+      "start": 107.013,
+      "end": 107.15,
+      "duration": 0.138
+    },
+    {
+      "text": "cardiovascular",
+      "start": 107.162,
+      "end": 108.138,
+      "duration": 0.975
+    },
+    {
+      "text": "risk",
+      "start": 108.15,
+      "end": 108.412,
+      "duration": 0.263
+    },
+    {
+      "text": "factors",
+      "start": 108.425,
+      "end": 109.075,
+      "duration": 0.65
+    },
+    {
+      "text": "Vaisman",
+      "start": 109.95,
+      "end": 110.487,
+      "duration": 0.537
+    },
+    {
+      "text": "and",
+      "start": 110.5,
+      "end": 110.6,
+      "duration": 0.1
+    },
+    {
+      "text": "Niv",
+      "start": 110.612,
+      "end": 110.875,
+      "duration": 0.263
+    },
+    {
+      "text": "allocated",
+      "start": 110.888,
+      "end": 111.5,
+      "duration": 0.613
+    },
+    {
+      "text": "50",
+      "start": 111.513,
+      "end": 111.862,
+      "duration": 0.35
+    },
+    {
+      "text": "subjects",
+      "start": 111.875,
+      "end": 112.425,
+      "duration": 0.55
+    },
+    {
+      "text": "to",
+      "start": 112.438,
+      "end": 112.537,
+      "duration": 0.1
+    },
+    {
+      "text": "a",
+      "start": 112.55,
+      "end": 112.625,
+      "duration": 0.075
+    },
+    {
+      "text": "placebo",
+      "start": 112.638,
+      "end": 113.325,
+      "duration": 0.688
+    },
+    {
+      "text": "or",
+      "start": 113.338,
+      "end": 113.487,
+      "duration": 0.15
+    },
+    {
+      "text": "to",
+      "start": 113.5,
+      "end": 113.575,
+      "duration": 0.075
+    },
+    {
+      "text": "200",
+      "start": 113.588,
+      "end": 114.2,
+      "duration": 0.613
+    },
+    {
+      "text": "or",
+      "start": 114.213,
+      "end": 114.338,
+      "duration": 0.125
+    },
+    {
+      "text": "400",
+      "start": 114.35,
+      "end": 114.925,
+      "duration": 0.575
+    },
+    {
+      "text": "milligrams",
+      "start": 114.938,
+      "end": 115.588,
+      "duration": 0.65
+    },
+    {
+      "text": "of",
+      "start": 115.6,
+      "end": 115.713,
+      "duration": 0.113
+    },
+    {
+      "text": "red",
+      "start": 115.725,
+      "end": 115.95,
+      "duration": 0.225
+    },
+    {
+      "text": "grape",
+      "start": 115.963,
+      "end": 116.237,
+      "duration": 0.275
+    },
+    {
+      "text": "cell",
+      "start": 116.25,
+      "end": 116.487,
+      "duration": 0.237
+    },
+    {
+      "text": "powder",
+      "start": 116.5,
+      "end": 116.875,
+      "duration": 0.375
+    },
+    {
+      "text": "for",
+      "start": 116.888,
+      "end": 117.025,
+      "duration": 0.138
+    },
+    {
+      "text": "12",
+      "start": 117.037,
+      "end": 117.362,
+      "duration": 0.325
+    },
+    {
+      "text": "weeks",
+      "start": 117.375,
+      "end": 117.888,
+      "duration": 0.512
+    },
+    {
+      "text": "The",
+      "start": 118.75,
+      "end": 118.9,
+      "duration": 0.15
+    },
+    {
+      "text": "consumption",
+      "start": 118.912,
+      "end": 119.525,
+      "duration": 0.613
+    },
+    {
+      "text": "of",
+      "start": 119.537,
+      "end": 119.65,
+      "duration": 0.113
+    },
+    {
+      "text": "red",
+      "start": 119.662,
+      "end": 119.888,
+      "duration": 0.225
+    },
+    {
+      "text": "grape",
+      "start": 119.9,
+      "end": 120.2,
+      "duration": 0.3
+    },
+    {
+      "text": "cell",
+      "start": 120.213,
+      "end": 120.475,
+      "duration": 0.263
+    },
+    {
+      "text": "powder",
+      "start": 120.487,
+      "end": 120.862,
+      "duration": 0.375
+    },
+    {
+      "text": "was",
+      "start": 120.875,
+      "end": 121.0,
+      "duration": 0.125
+    },
+    {
+      "text": "associated",
+      "start": 121.013,
+      "end": 121.725,
+      "duration": 0.713
+    },
+    {
+      "text": "with",
+      "start": 121.737,
+      "end": 121.862,
+      "duration": 0.125
+    },
+    {
+      "text": "an",
+      "start": 121.875,
+      "end": 121.95,
+      "duration": 0.075
+    },
+    {
+      "text": "improvement",
+      "start": 121.963,
+      "end": 122.6,
+      "duration": 0.637
+    },
+    {
+      "text": "in",
+      "start": 122.612,
+      "end": 122.775,
+      "duration": 0.163
+    },
+    {
+      "text": "flow-mediated",
+      "start": 122.787,
+      "end": 123.55,
+      "duration": 0.762
+    },
+    {
+      "text": "vasodilation",
+      "start": 123.562,
+      "end": 124.513,
+      "duration": 0.95
+    },
+    {
+      "text": "Other",
+      "start": 125.388,
+      "end": 125.713,
+      "duration": 0.325
+    },
+    {
+      "text": "studies",
+      "start": 125.725,
+      "end": 126.15,
+      "duration": 0.425
+    },
+    {
+      "text": "using",
+      "start": 126.162,
+      "end": 126.475,
+      "duration": 0.312
+    },
+    {
+      "text": "an",
+      "start": 126.487,
+      "end": 126.562,
+      "duration": 0.075
+    },
+    {
+      "text": "amount",
+      "start": 126.575,
+      "end": 126.95,
+      "duration": 0.375
+    },
+    {
+      "text": "of",
+      "start": 126.963,
+      "end": 127.05,
+      "duration": 0.087
+    },
+    {
+      "text": "grapes",
+      "start": 127.062,
+      "end": 127.412,
+      "duration": 0.35
+    },
+    {
+      "text": "corresponding",
+      "start": 127.425,
+      "end": 128.162,
+      "duration": 0.738
+    },
+    {
+      "text": "to",
+      "start": 128.175,
+      "end": 128.275,
+      "duration": 0.1
+    },
+    {
+      "text": "1.25 to 2 cups",
+      "start": 128.287,
+      "end": 130.15,
+      "duration": 1.863
+    },
+    {
+      "text": "fresh",
+      "start": 130.162,
+      "end": 130.463,
+      "duration": 0.3
+    },
+    {
+      "text": "grapes",
+      "start": 130.475,
+      "end": 130.863,
+      "duration": 0.388
+    },
+    {
+      "text": "with",
+      "start": 130.875,
+      "end": 131.025,
+      "duration": 0.15
+    },
+    {
+      "text": "standardized",
+      "start": 131.037,
+      "end": 131.762,
+      "duration": 0.725
+    },
+    {
+      "text": "grape",
+      "start": 131.775,
+      "end": 132.062,
+      "duration": 0.287
+    },
+    {
+      "text": "products",
+      "start": 132.075,
+      "end": 132.588,
+      "duration": 0.512
+    },
+    {
+      "text": "have",
+      "start": 132.6,
+      "end": 132.738,
+      "duration": 0.138
+    },
+    {
+      "text": "found",
+      "start": 132.75,
+      "end": 133.037,
+      "duration": 0.287
+    },
+    {
+      "text": "similar",
+      "start": 133.05,
+      "end": 133.475,
+      "duration": 0.425
+    },
+    {
+      "text": "results",
+      "start": 133.488,
+      "end": 134.037,
+      "duration": 0.55
+    },
+    {
+      "text": "by",
+      "start": 134.4,
+      "end": 134.588,
+      "duration": 0.188
+    },
+    {
+      "text": "increasing",
+      "start": 134.6,
+      "end": 135.15,
+      "duration": 0.55
+    },
+    {
+      "text": "the",
+      "start": 135.162,
+      "end": 135.262,
+      "duration": 0.1
+    },
+    {
+      "text": "flow-mediated",
+      "start": 135.275,
+      "end": 136.05,
+      "duration": 0.775
+    },
+    {
+      "text": "vasodilation",
+      "start": 136.062,
+      "end": 136.875,
+      "duration": 0.812
+    },
+    {
+      "text": "response",
+      "start": 136.887,
+      "end": 137.438,
+      "duration": 0.55
+    },
+    {
+      "text": "after",
+      "start": 137.45,
+      "end": 137.762,
+      "duration": 0.312
+    },
+    {
+      "text": "both",
+      "start": 137.775,
+      "end": 138.012,
+      "duration": 0.237
+    },
+    {
+      "text": "acute",
+      "start": 138.025,
+      "end": 138.463,
+      "duration": 0.438
+    },
+    {
+      "text": "and",
+      "start": 138.475,
+      "end": 138.588,
+      "duration": 0.113
+    },
+    {
+      "text": "chronic",
+      "start": 138.6,
+      "end": 139.0,
+      "duration": 0.4
+    },
+    {
+      "text": "intakes",
+      "start": 139.012,
+      "end": 139.662,
+      "duration": 0.65
+    },
+    {
+      "text": "compared",
+      "start": 139.887,
+      "end": 140.375,
+      "duration": 0.487
+    },
+    {
+      "text": "to",
+      "start": 140.387,
+      "end": 140.475,
+      "duration": 0.087
+    },
+    {
+      "text": "placebo",
+      "start": 140.488,
+      "end": 141.2,
+      "duration": 0.713
+    },
+    {
+      "text": "An",
+      "start": 142.075,
+      "end": 142.262,
+      "duration": 0.188
+    },
+    {
+      "text": "increase",
+      "start": 142.275,
+      "end": 142.85,
+      "duration": 0.575
+    },
+    {
+      "text": "in",
+      "start": 142.863,
+      "end": 142.925,
+      "duration": 0.062
+    },
+    {
+      "text": "the",
+      "start": 142.938,
+      "end": 143.025,
+      "duration": 0.087
+    },
+    {
+      "text": "flow-mediated",
+      "start": 143.037,
+      "end": 143.8,
+      "duration": 0.762
+    },
+    {
+      "text": "vasodilation",
+      "start": 143.812,
+      "end": 144.637,
+      "duration": 0.825
+    },
+    {
+      "text": "response",
+      "start": 144.65,
+      "end": 145.175,
+      "duration": 0.525
+    },
+    {
+      "text": "has",
+      "start": 145.188,
+      "end": 145.4,
+      "duration": 0.212
+    },
+    {
+      "text": "also",
+      "start": 145.412,
+      "end": 145.75,
+      "duration": 0.338
+    },
+    {
+      "text": "been",
+      "start": 145.762,
+      "end": 145.912,
+      "duration": 0.15
+    },
+    {
+      "text": "observed",
+      "start": 145.925,
+      "end": 146.363,
+      "duration": 0.438
+    },
+    {
+      "text": "in",
+      "start": 146.375,
+      "end": 146.488,
+      "duration": 0.113
+    },
+    {
+      "text": "men",
+      "start": 146.5,
+      "end": 146.75,
+      "duration": 0.25
+    },
+    {
+      "text": "with",
+      "start": 146.762,
+      "end": 146.9,
+      "duration": 0.138
+    },
+    {
+      "text": "metabolic",
+      "start": 146.912,
+      "end": 147.488,
+      "duration": 0.575
+    },
+    {
+      "text": "syndrome",
+      "start": 147.5,
+      "end": 147.975,
+      "duration": 0.475
+    },
+    {
+      "text": "after",
+      "start": 147.988,
+      "end": 148.3,
+      "duration": 0.312
+    },
+    {
+      "text": "4",
+      "start": 148.312,
+      "end": 148.6,
+      "duration": 0.287
+    },
+    {
+      "text": "weeks",
+      "start": 148.613,
+      "end": 148.938,
+      "duration": 0.325
+    },
+    {
+      "text": "of",
+      "start": 148.95,
+      "end": 149.037,
+      "duration": 0.087
+    },
+    {
+      "text": "consuming",
+      "start": 149.05,
+      "end": 149.562,
+      "duration": 0.512
+    },
+    {
+      "text": "grape",
+      "start": 149.575,
+      "end": 149.85,
+      "duration": 0.275
+    },
+    {
+      "text": "powder",
+      "start": 149.863,
+      "end": 150.312,
+      "duration": 0.45
+    },
+    {
+      "text": "Interestingly",
+      "start": 151.175,
+      "end": 152.062,
+      "duration": 0.887
+    },
+    {
+      "text": "a",
+      "start": 152.325,
+      "end": 152.45,
+      "duration": 0.125
+    },
+    {
+      "text": "meta-analysis",
+      "start": 152.463,
+      "end": 153.312,
+      "duration": 0.85
+    },
+    {
+      "text": "presenting",
+      "start": 153.325,
+      "end": 153.825,
+      "duration": 0.5
+    },
+    {
+      "text": "the",
+      "start": 153.838,
+      "end": 153.938,
+      "duration": 0.1
+    },
+    {
+      "text": "results",
+      "start": 153.95,
+      "end": 154.375,
+      "duration": 0.425
+    },
+    {
+      "text": "of",
+      "start": 154.387,
+      "end": 154.475,
+      "duration": 0.087
+    },
+    {
+      "text": "nine",
+      "start": 154.488,
+      "end": 154.8,
+      "duration": 0.312
+    },
+    {
+      "text": "controlled",
+      "start": 154.812,
+      "end": 155.238,
+      "duration": 0.425
+    },
+    {
+      "text": "trials",
+      "start": 155.25,
+      "end": 155.725,
+      "duration": 0.475
+    },
+    {
+      "text": "on",
+      "start": 155.738,
+      "end": 155.863,
+      "duration": 0.125
+    },
+    {
+      "text": "the",
+      "start": 155.875,
+      "end": 155.938,
+      "duration": 0.062
+    },
+    {
+      "text": "acute",
+      "start": 155.95,
+      "end": 156.325,
+      "duration": 0.375
+    },
+    {
+      "text": "effects",
+      "start": 156.338,
+      "end": 156.825,
+      "duration": 0.487
+    },
+    {
+      "text": "of",
+      "start": 156.838,
+      "end": 156.95,
+      "duration": 0.113
+    },
+    {
+      "text": "grape",
+      "start": 156.963,
+      "end": 157.287,
+      "duration": 0.325
+    },
+    {
+      "text": "polyphenol",
+      "start": 157.3,
+      "end": 157.975,
+      "duration": 0.675
+    },
+    {
+      "text": "consumption",
+      "start": 157.988,
+      "end": 158.675,
+      "duration": 0.688
+    },
+    {
+      "text": "on",
+      "start": 158.688,
+      "end": 158.825,
+      "duration": 0.138
+    },
+    {
+      "text": "flow-mediated",
+      "start": 158.838,
+      "end": 159.575,
+      "duration": 0.738
+    },
+    {
+      "text": "vasodilation",
+      "start": 159.588,
+      "end": 160.45,
+      "duration": 0.863
+    },
+    {
+      "text": "reported",
+      "start": 160.463,
+      "end": 160.938,
+      "duration": 0.475
+    },
+    {
+      "text": "that",
+      "start": 160.95,
+      "end": 161.1,
+      "duration": 0.15
+    },
+    {
+      "text": "flow-mediated",
+      "start": 161.113,
+      "end": 161.887,
+      "duration": 0.775
+    },
+    {
+      "text": "vasodilation",
+      "start": 161.9,
+      "end": 162.713,
+      "duration": 0.812
+    },
+    {
+      "text": "response",
+      "start": 162.725,
+      "end": 163.238,
+      "duration": 0.512
+    },
+    {
+      "text": "significantly",
+      "start": 163.25,
+      "end": 163.95,
+      "duration": 0.7
+    },
+    {
+      "text": "increased",
+      "start": 163.963,
+      "end": 164.463,
+      "duration": 0.5
+    },
+    {
+      "text": "in",
+      "start": 164.475,
+      "end": 164.562,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 164.575,
+      "end": 164.637,
+      "duration": 0.062
+    },
+    {
+      "text": "initial",
+      "start": 164.65,
+      "end": 165.037,
+      "duration": 0.388
+    },
+    {
+      "text": "2 hours",
+      "start": 165.05,
+      "end": 166.075,
+      "duration": 1.025
+    },
+    {
+      "text": "after",
+      "start": 166.088,
+      "end": 166.375,
+      "duration": 0.287
+    },
+    {
+      "text": "the",
+      "start": 166.387,
+      "end": 166.5,
+      "duration": 0.113
+    },
+    {
+      "text": "intake",
+      "start": 166.512,
+      "end": 166.963,
+      "duration": 0.45
+    },
+    {
+      "text": "of",
+      "start": 166.975,
+      "end": 167.088,
+      "duration": 0.113
+    },
+    {
+      "text": "grape",
+      "start": 167.1,
+      "end": 167.412,
+      "duration": 0.312
+    },
+    {
+      "text": "polyphenols",
+      "start": 167.425,
+      "end": 168.15,
+      "duration": 0.725
+    },
+    {
+      "text": "as",
+      "start": 168.162,
+      "end": 168.287,
+      "duration": 0.125
+    },
+    {
+      "text": "compared",
+      "start": 168.3,
+      "end": 168.725,
+      "duration": 0.425
+    },
+    {
+      "text": "with",
+      "start": 168.738,
+      "end": 168.863,
+      "duration": 0.125
+    },
+    {
+      "text": "controls",
+      "start": 168.875,
+      "end": 169.512,
+      "duration": 0.637
+    },
+    {
+      "text": "with",
+      "start": 169.85,
+      "end": 170.012,
+      "duration": 0.163
+    },
+    {
+      "text": "a",
+      "start": 170.025,
+      "end": 170.088,
+      "duration": 0.062
+    },
+    {
+      "text": "peak",
+      "start": 170.1,
+      "end": 170.338,
+      "duration": 0.237
+    },
+    {
+      "text": "effect",
+      "start": 170.35,
+      "end": 170.762,
+      "duration": 0.412
+    },
+    {
+      "text": "at",
+      "start": 170.775,
+      "end": 170.887,
+      "duration": 0.113
+    },
+    {
+      "text": "30",
+      "start": 170.9,
+      "end": 171.162,
+      "duration": 0.263
+    },
+    {
+      "text": "minutes",
+      "start": 171.175,
+      "end": 171.537,
+      "duration": 0.362
+    },
+    {
+      "text": "in",
+      "start": 171.55,
+      "end": 171.65,
+      "duration": 0.1
+    },
+    {
+      "text": "healthy",
+      "start": 171.662,
+      "end": 171.988,
+      "duration": 0.325
+    },
+    {
+      "text": "participants",
+      "start": 172.0,
+      "end": 172.7,
+      "duration": 0.7
+    },
+    {
+      "text": "compared",
+      "start": 172.713,
+      "end": 173.137,
+      "duration": 0.425
+    },
+    {
+      "text": "to",
+      "start": 173.15,
+      "end": 173.238,
+      "duration": 0.087
+    },
+    {
+      "text": "a",
+      "start": 173.25,
+      "end": 173.312,
+      "duration": 0.062
+    },
+    {
+      "text": "more",
+      "start": 173.325,
+      "end": 173.588,
+      "duration": 0.263
+    },
+    {
+      "text": "pronounced",
+      "start": 173.6,
+      "end": 174.175,
+      "duration": 0.575
+    },
+    {
+      "text": "but",
+      "start": 174.188,
+      "end": 174.35,
+      "duration": 0.163
+    },
+    {
+      "text": "delayed",
+      "start": 174.363,
+      "end": 174.762,
+      "duration": 0.4
+    },
+    {
+      "text": "peak",
+      "start": 174.775,
+      "end": 175.088,
+      "duration": 0.312
+    },
+    {
+      "text": "at",
+      "start": 175.1,
+      "end": 175.225,
+      "duration": 0.125
+    },
+    {
+      "text": "60",
+      "start": 175.238,
+      "end": 175.65,
+      "duration": 0.412
+    },
+    {
+      "text": "minutes",
+      "start": 175.662,
+      "end": 176.05,
+      "duration": 0.388
+    },
+    {
+      "text": "in",
+      "start": 176.062,
+      "end": 176.175,
+      "duration": 0.113
+    },
+    {
+      "text": "volunteers",
+      "start": 176.188,
+      "end": 176.85,
+      "duration": 0.662
+    },
+    {
+      "text": "with",
+      "start": 176.863,
+      "end": 177.0,
+      "duration": 0.138
+    },
+    {
+      "text": "cardiovascular",
+      "start": 177.012,
+      "end": 177.988,
+      "duration": 0.975
+    },
+    {
+      "text": "risk",
+      "start": 178.0,
+      "end": 178.262,
+      "duration": 0.263
+    },
+    {
+      "text": "factors",
+      "start": 178.275,
+      "end": 178.925,
+      "duration": 0.65
+    },
+    {
+      "text": "The",
+      "start": 179.8,
+      "end": 179.975,
+      "duration": 0.175
+    },
+    {
+      "text": "authors",
+      "start": 179.988,
+      "end": 180.425,
+      "duration": 0.438
+    },
+    {
+      "text": "proposed",
+      "start": 180.438,
+      "end": 181.012,
+      "duration": 0.575
+    },
+    {
+      "text": "that",
+      "start": 181.025,
+      "end": 181.137,
+      "duration": 0.113
+    },
+    {
+      "text": "in",
+      "start": 181.15,
+      "end": 181.25,
+      "duration": 0.1
+    },
+    {
+      "text": "these",
+      "start": 181.262,
+      "end": 181.45,
+      "duration": 0.188
+    },
+    {
+      "text": "subjects",
+      "start": 181.463,
+      "end": 182.037,
+      "duration": 0.575
+    },
+    {
+      "text": "with",
+      "start": 182.05,
+      "end": 182.175,
+      "duration": 0.125
+    },
+    {
+      "text": "high",
+      "start": 182.188,
+      "end": 182.425,
+      "duration": 0.237
+    },
+    {
+      "text": "cardiovascular",
+      "start": 182.438,
+      "end": 183.4,
+      "duration": 0.963
+    },
+    {
+      "text": "risk",
+      "start": 183.412,
+      "end": 183.675,
+      "duration": 0.263
+    },
+    {
+      "text": "factors",
+      "start": 183.688,
+      "end": 184.225,
+      "duration": 0.537
+    },
+    {
+      "text": "endothelial",
+      "start": 184.588,
+      "end": 185.363,
+      "duration": 0.775
+    },
+    {
+      "text": "cells",
+      "start": 185.375,
+      "end": 185.75,
+      "duration": 0.375
+    },
+    {
+      "text": "have",
+      "start": 185.762,
+      "end": 185.875,
+      "duration": 0.113
+    },
+    {
+      "text": "been",
+      "start": 185.887,
+      "end": 186.025,
+      "duration": 0.138
+    },
+    {
+      "text": "impaired",
+      "start": 186.037,
+      "end": 186.512,
+      "duration": 0.475
+    },
+    {
+      "text": "and",
+      "start": 186.525,
+      "end": 186.637,
+      "duration": 0.113
+    },
+    {
+      "text": "might",
+      "start": 186.65,
+      "end": 186.9,
+      "duration": 0.25
+    },
+    {
+      "text": "require",
+      "start": 186.912,
+      "end": 187.387,
+      "duration": 0.475
+    },
+    {
+      "text": "60",
+      "start": 187.4,
+      "end": 187.838,
+      "duration": 0.438
+    },
+    {
+      "text": "minutes",
+      "start": 187.85,
+      "end": 188.262,
+      "duration": 0.412
+    },
+    {
+      "text": "after",
+      "start": 188.275,
+      "end": 188.537,
+      "duration": 0.263
+    },
+    {
+      "text": "the",
+      "start": 188.55,
+      "end": 188.625,
+      "duration": 0.075
+    },
+    {
+      "text": "ingestion",
+      "start": 188.637,
+      "end": 189.238,
+      "duration": 0.6
+    },
+    {
+      "text": "of",
+      "start": 189.25,
+      "end": 189.35,
+      "duration": 0.1
+    },
+    {
+      "text": "grape",
+      "start": 189.363,
+      "end": 189.65,
+      "duration": 0.287
+    },
+    {
+      "text": "polyphenols",
+      "start": 189.662,
+      "end": 190.338,
+      "duration": 0.675
+    },
+    {
+      "text": "to",
+      "start": 190.35,
+      "end": 190.463,
+      "duration": 0.113
+    },
+    {
+      "text": "produce",
+      "start": 190.475,
+      "end": 190.838,
+      "duration": 0.362
+    },
+    {
+      "text": "adequate",
+      "start": 190.85,
+      "end": 191.375,
+      "duration": 0.525
+    },
+    {
+      "text": "nitric",
+      "start": 191.387,
+      "end": 191.8,
+      "duration": 0.412
+    },
+    {
+      "text": "oxide",
+      "start": 191.812,
+      "end": 192.325,
+      "duration": 0.512
+    },
+    {
+      "text": "to",
+      "start": 192.338,
+      "end": 192.438,
+      "duration": 0.1
+    },
+    {
+      "text": "improve",
+      "start": 192.45,
+      "end": 192.887,
+      "duration": 0.438
+    },
+    {
+      "text": "endothelial",
+      "start": 192.9,
+      "end": 193.637,
+      "duration": 0.738
+    },
+    {
+      "text": "function",
+      "start": 193.65,
+      "end": 194.15,
+      "duration": 0.5
+    },
+    {
+      "text": "resulting",
+      "start": 194.575,
+      "end": 195.062,
+      "duration": 0.487
+    },
+    {
+      "text": "in",
+      "start": 195.075,
+      "end": 195.162,
+      "duration": 0.087
+    },
+    {
+      "text": "a",
+      "start": 195.175,
+      "end": 195.238,
+      "duration": 0.062
+    },
+    {
+      "text": "delayed",
+      "start": 195.25,
+      "end": 195.6,
+      "duration": 0.35
+    },
+    {
+      "text": "effect",
+      "start": 195.613,
+      "end": 196.15,
+      "duration": 0.537
+    },
+    {
+      "text": "Studies",
+      "start": 197.012,
+      "end": 197.512,
+      "duration": 0.5
+    },
+    {
+      "text": "have",
+      "start": 197.525,
+      "end": 197.65,
+      "duration": 0.125
+    },
+    {
+      "text": "also",
+      "start": 197.662,
+      "end": 197.988,
+      "duration": 0.325
+    },
+    {
+      "text": "demonstrated",
+      "start": 198.0,
+      "end": 198.713,
+      "duration": 0.713
+    },
+    {
+      "text": "the",
+      "start": 198.725,
+      "end": 198.812,
+      "duration": 0.087
+    },
+    {
+      "text": "acute",
+      "start": 198.825,
+      "end": 199.275,
+      "duration": 0.45
+    },
+    {
+      "text": "and",
+      "start": 199.287,
+      "end": 199.4,
+      "duration": 0.113
+    },
+    {
+      "text": "chronic",
+      "start": 199.412,
+      "end": 199.787,
+      "duration": 0.375
+    },
+    {
+      "text": "effects",
+      "start": 199.8,
+      "end": 200.25,
+      "duration": 0.45
+    },
+    {
+      "text": "of",
+      "start": 200.262,
+      "end": 200.35,
+      "duration": 0.087
+    },
+    {
+      "text": "individual",
+      "start": 200.363,
+      "end": 201.025,
+      "duration": 0.662
+    },
+    {
+      "text": "grape",
+      "start": 201.037,
+      "end": 201.363,
+      "duration": 0.325
+    },
+    {
+      "text": "compounds",
+      "start": 201.375,
+      "end": 202.025,
+      "duration": 0.65
+    },
+    {
+      "text": "on",
+      "start": 202.037,
+      "end": 202.188,
+      "duration": 0.15
+    },
+    {
+      "text": "flow-mediated",
+      "start": 202.2,
+      "end": 202.963,
+      "duration": 0.762
+    },
+    {
+      "text": "vasodilation",
+      "start": 202.975,
+      "end": 203.925,
+      "duration": 0.95
+    },
+    {
+      "text": "A",
+      "start": 204.787,
+      "end": 204.912,
+      "duration": 0.125
+    },
+    {
+      "text": "significant",
+      "start": 204.925,
+      "end": 205.588,
+      "duration": 0.662
+    },
+    {
+      "text": "dose-dependent",
+      "start": 205.6,
+      "end": 206.338,
+      "duration": 0.738
+    },
+    {
+      "text": "increase",
+      "start": 206.35,
+      "end": 206.887,
+      "duration": 0.537
+    },
+    {
+      "text": "in",
+      "start": 206.9,
+      "end": 207.025,
+      "duration": 0.125
+    },
+    {
+      "text": "flow-mediated",
+      "start": 207.037,
+      "end": 207.812,
+      "duration": 0.775
+    },
+    {
+      "text": "vasodilation",
+      "start": 207.825,
+      "end": 208.725,
+      "duration": 0.9
+    },
+    {
+      "text": "compared",
+      "start": 209.075,
+      "end": 209.488,
+      "duration": 0.412
+    },
+    {
+      "text": "to",
+      "start": 209.5,
+      "end": 209.575,
+      "duration": 0.075
+    },
+    {
+      "text": "placebo",
+      "start": 209.588,
+      "end": 210.225,
+      "duration": 0.637
+    },
+    {
+      "text": "and",
+      "start": 210.525,
+      "end": 210.675,
+      "duration": 0.15
+    },
+    {
+      "text": "a",
+      "start": 210.688,
+      "end": 210.738,
+      "duration": 0.05
+    },
+    {
+      "text": "linear",
+      "start": 210.75,
+      "end": 211.137,
+      "duration": 0.388
+    },
+    {
+      "text": "relationship",
+      "start": 211.15,
+      "end": 211.9,
+      "duration": 0.75
+    },
+    {
+      "text": "to",
+      "start": 211.912,
+      "end": 212.025,
+      "duration": 0.113
+    },
+    {
+      "text": "plasma",
+      "start": 212.037,
+      "end": 212.512,
+      "duration": 0.475
+    },
+    {
+      "text": "resveratrol",
+      "start": 212.525,
+      "end": 213.225,
+      "duration": 0.7
+    },
+    {
+      "text": "concentration",
+      "start": 213.238,
+      "end": 214.1,
+      "duration": 0.863
+    },
+    {
+      "text": "were",
+      "start": 214.45,
+      "end": 214.637,
+      "duration": 0.188
+    },
+    {
+      "text": "found",
+      "start": 214.65,
+      "end": 214.975,
+      "duration": 0.325
+    },
+    {
+      "text": "in",
+      "start": 214.988,
+      "end": 215.075,
+      "duration": 0.087
+    },
+    {
+      "text": "a",
+      "start": 215.088,
+      "end": 215.175,
+      "duration": 0.087
+    },
+    {
+      "text": "double-blind",
+      "start": 215.188,
+      "end": 215.812,
+      "duration": 0.625
+    },
+    {
+      "text": "randomized",
+      "start": 215.825,
+      "end": 216.488,
+      "duration": 0.662
+    },
+    {
+      "text": "crossover",
+      "start": 216.5,
+      "end": 217.025,
+      "duration": 0.525
+    },
+    {
+      "text": "study",
+      "start": 217.037,
+      "end": 217.4,
+      "duration": 0.362
+    },
+    {
+      "text": "testing",
+      "start": 217.412,
+      "end": 217.863,
+      "duration": 0.45
+    },
+    {
+      "text": "the",
+      "start": 217.875,
+      "end": 217.938,
+      "duration": 0.062
+    },
+    {
+      "text": "acute",
+      "start": 217.95,
+      "end": 218.3,
+      "duration": 0.35
+    },
+    {
+      "text": "effects",
+      "start": 218.312,
+      "end": 218.75,
+      "duration": 0.438
+    },
+    {
+      "text": "of",
+      "start": 218.762,
+      "end": 218.85,
+      "duration": 0.087
+    },
+    {
+      "text": "three",
+      "start": 218.863,
+      "end": 219.137,
+      "duration": 0.275
+    },
+    {
+      "text": "doses",
+      "start": 219.15,
+      "end": 219.65,
+      "duration": 0.5
+    },
+    {
+      "text": "30",
+      "start": 219.875,
+      "end": 220.312,
+      "duration": 0.438
+    },
+    {
+      "text": "90",
+      "start": 220.5,
+      "end": 220.963,
+      "duration": 0.463
+    },
+    {
+      "text": "and",
+      "start": 221.162,
+      "end": 221.338,
+      "duration": 0.175
+    },
+    {
+      "text": "270",
+      "start": 221.35,
+      "end": 222.312,
+      "duration": 0.963
+    },
+    {
+      "text": "milligrams",
+      "start": 222.325,
+      "end": 223.012,
+      "duration": 0.688
+    },
+    {
+      "text": "of",
+      "start": 223.312,
+      "end": 223.55,
+      "duration": 0.237
+    },
+    {
+      "text": "resveratrol",
+      "start": 223.562,
+      "end": 224.412,
+      "duration": 0.85
+    },
+    {
+      "text": "and",
+      "start": 224.512,
+      "end": 224.613,
+      "duration": 0.1
+    },
+    {
+      "text": "placebo",
+      "start": 224.625,
+      "end": 225.225,
+      "duration": 0.6
+    },
+    {
+      "text": "in",
+      "start": 225.238,
+      "end": 225.35,
+      "duration": 0.113
+    },
+    {
+      "text": "19",
+      "start": 225.363,
+      "end": 225.875,
+      "duration": 0.512
+    },
+    {
+      "text": "overweight",
+      "start": 225.887,
+      "end": 226.463,
+      "duration": 0.575
+    },
+    {
+      "text": "or",
+      "start": 226.475,
+      "end": 226.65,
+      "duration": 0.175
+    },
+    {
+      "text": "obese",
+      "start": 226.662,
+      "end": 227.0,
+      "duration": 0.338
+    },
+    {
+      "text": "individuals",
+      "start": 227.012,
+      "end": 227.675,
+      "duration": 0.662
+    },
+    {
+      "text": "with",
+      "start": 227.688,
+      "end": 227.85,
+      "duration": 0.163
+    },
+    {
+      "text": "body",
+      "start": 227.863,
+      "end": 228.162,
+      "duration": 0.3
+    },
+    {
+      "text": "mass",
+      "start": 228.175,
+      "end": 228.488,
+      "duration": 0.312
+    },
+    {
+      "text": "index",
+      "start": 228.5,
+      "end": 228.975,
+      "duration": 0.475
+    },
+    {
+      "text": "25",
+      "start": 228.988,
+      "end": 229.675,
+      "duration": 0.688
+    },
+    {
+      "text": "to",
+      "start": 229.688,
+      "end": 229.787,
+      "duration": 0.1
+    },
+    {
+      "text": "35 kilograms per square",
+      "start": 229.8,
+      "end": 231.575,
+      "duration": 1.775
+    },
+    {
+      "text": "meter",
+      "start": 231.588,
+      "end": 231.938,
+      "duration": 0.35
+    },
+    {
+      "text": "men",
+      "start": 232.363,
+      "end": 232.625,
+      "duration": 0.263
+    },
+    {
+      "text": "or",
+      "start": 232.637,
+      "end": 232.75,
+      "duration": 0.113
+    },
+    {
+      "text": "postmenopausal",
+      "start": 232.762,
+      "end": 233.688,
+      "duration": 0.925
+    },
+    {
+      "text": "women",
+      "start": 233.7,
+      "end": 234.012,
+      "duration": 0.312
+    },
+    {
+      "text": "with",
+      "start": 234.025,
+      "end": 234.2,
+      "duration": 0.175
+    },
+    {
+      "text": "untreated",
+      "start": 234.213,
+      "end": 234.787,
+      "duration": 0.575
+    },
+    {
+      "text": "borderline",
+      "start": 234.8,
+      "end": 235.312,
+      "duration": 0.512
+    },
+    {
+      "text": "hypertension",
+      "start": 235.325,
+      "end": 236.1,
+      "duration": 0.775
+    },
+    {
+      "text": "with",
+      "start": 236.113,
+      "end": 236.262,
+      "duration": 0.15
+    },
+    {
+      "text": "systolic",
+      "start": 236.275,
+      "end": 236.838,
+      "duration": 0.562
+    },
+    {
+      "text": "blood",
+      "start": 236.85,
+      "end": 237.062,
+      "duration": 0.212
+    },
+    {
+      "text": "pressure",
+      "start": 237.075,
+      "end": 237.575,
+      "duration": 0.5
+    },
+    {
+      "text": "of",
+      "start": 238.438,
+      "end": 238.65,
+      "duration": 0.212
+    },
+    {
+      "text": "130",
+      "start": 238.662,
+      "end": 239.525,
+      "duration": 0.863
+    },
+    {
+      "text": "to",
+      "start": 239.537,
+      "end": 239.65,
+      "duration": 0.113
+    },
+    {
+      "text": "160",
+      "start": 239.662,
+      "end": 240.688,
+      "duration": 1.025
+    },
+    {
+      "text": "millimeters",
+      "start": 240.7,
+      "end": 241.325,
+      "duration": 0.625
+    },
+    {
+      "text": "of",
+      "start": 241.338,
+      "end": 241.425,
+      "duration": 0.087
+    },
+    {
+      "text": "mercury",
+      "start": 241.438,
+      "end": 241.988,
+      "duration": 0.55
+    },
+    {
+      "text": "or",
+      "start": 242.0,
+      "end": 242.162,
+      "duration": 0.163
+    },
+    {
+      "text": "diastolic",
+      "start": 242.175,
+      "end": 242.875,
+      "duration": 0.7
+    },
+    {
+      "text": "blood",
+      "start": 242.887,
+      "end": 243.125,
+      "duration": 0.237
+    },
+    {
+      "text": "pressure",
+      "start": 243.137,
+      "end": 243.575,
+      "duration": 0.438
+    },
+    {
+      "text": "equal",
+      "start": 243.588,
+      "end": 243.925,
+      "duration": 0.338
+    },
+    {
+      "text": "to",
+      "start": 243.938,
+      "end": 244.037,
+      "duration": 0.1
+    },
+    {
+      "text": "85",
+      "start": 244.05,
+      "end": 244.713,
+      "duration": 0.662
+    },
+    {
+      "text": "to",
+      "start": 244.725,
+      "end": 244.838,
+      "duration": 0.113
+    },
+    {
+      "text": "100",
+      "start": 244.85,
+      "end": 245.425,
+      "duration": 0.575
+    },
+    {
+      "text": "millimeters",
+      "start": 245.438,
+      "end": 246.012,
+      "duration": 0.575
+    },
+    {
+      "text": "of",
+      "start": 246.025,
+      "end": 246.1,
+      "duration": 0.075
+    },
+    {
+      "text": "mercury",
+      "start": 246.113,
+      "end": 246.713,
+      "duration": 0.6
+    },
+    {
+      "text": "Using",
+      "start": 247.575,
+      "end": 247.975,
+      "duration": 0.4
+    },
+    {
+      "text": "the",
+      "start": 247.988,
+      "end": 248.088,
+      "duration": 0.1
+    },
+    {
+      "text": "same",
+      "start": 248.1,
+      "end": 248.4,
+      "duration": 0.3
+    },
+    {
+      "text": "study",
+      "start": 248.412,
+      "end": 248.738,
+      "duration": 0.325
+    },
+    {
+      "text": "design",
+      "start": 248.75,
+      "end": 249.2,
+      "duration": 0.45
+    },
+    {
+      "text": "these",
+      "start": 249.512,
+      "end": 249.738,
+      "duration": 0.225
+    },
+    {
+      "text": "authors",
+      "start": 249.75,
+      "end": 250.175,
+      "duration": 0.425
+    },
+    {
+      "text": "also",
+      "start": 250.188,
+      "end": 250.55,
+      "duration": 0.362
+    },
+    {
+      "text": "evaluated",
+      "start": 250.562,
+      "end": 251.262,
+      "duration": 0.7
+    },
+    {
+      "text": "the",
+      "start": 251.275,
+      "end": 251.35,
+      "duration": 0.075
+    },
+    {
+      "text": "effects",
+      "start": 251.363,
+      "end": 251.812,
+      "duration": 0.45
+    },
+    {
+      "text": "of",
+      "start": 251.825,
+      "end": 251.912,
+      "duration": 0.087
+    },
+    {
+      "text": "chronic",
+      "start": 251.925,
+      "end": 252.287,
+      "duration": 0.362
+    },
+    {
+      "text": "consumption",
+      "start": 252.3,
+      "end": 252.963,
+      "duration": 0.662
+    },
+    {
+      "text": "for",
+      "start": 253.238,
+      "end": 253.425,
+      "duration": 0.188
+    },
+    {
+      "text": "6",
+      "start": 253.438,
+      "end": 253.725,
+      "duration": 0.287
+    },
+    {
+      "text": "weeks",
+      "start": 253.738,
+      "end": 254.162,
+      "duration": 0.425
+    },
+    {
+      "text": "of",
+      "start": 254.387,
+      "end": 254.588,
+      "duration": 0.2
+    },
+    {
+      "text": "75",
+      "start": 254.6,
+      "end": 255.325,
+      "duration": 0.725
+    },
+    {
+      "text": "milligrams",
+      "start": 255.338,
+      "end": 255.963,
+      "duration": 0.625
+    },
+    {
+      "text": "of",
+      "start": 255.975,
+      "end": 256.075,
+      "duration": 0.1
+    },
+    {
+      "text": "resveratrol",
+      "start": 256.087,
+      "end": 256.8,
+      "duration": 0.713
+    },
+    {
+      "text": "daily",
+      "start": 256.812,
+      "end": 257.175,
+      "duration": 0.362
+    },
+    {
+      "text": "in",
+      "start": 257.188,
+      "end": 257.312,
+      "duration": 0.125
+    },
+    {
+      "text": "28",
+      "start": 257.325,
+      "end": 257.837,
+      "duration": 0.512
+    },
+    {
+      "text": "obese",
+      "start": 257.85,
+      "end": 258.325,
+      "duration": 0.475
+    },
+    {
+      "text": "but",
+      "start": 258.337,
+      "end": 258.562,
+      "duration": 0.225
+    },
+    {
+      "text": "otherwise",
+      "start": 258.575,
+      "end": 259.125,
+      "duration": 0.55
+    },
+    {
+      "text": "healthy",
+      "start": 259.137,
+      "end": 259.475,
+      "duration": 0.338
+    },
+    {
+      "text": "adults",
+      "start": 259.488,
+      "end": 259.9,
+      "duration": 0.412
+    },
+    {
+      "text": "with",
+      "start": 259.913,
+      "end": 260.05,
+      "duration": 0.138
+    },
+    {
+      "text": "a",
+      "start": 260.062,
+      "end": 260.125,
+      "duration": 0.062
+    },
+    {
+      "text": "body",
+      "start": 260.137,
+      "end": 260.438,
+      "duration": 0.3
+    },
+    {
+      "text": "mass",
+      "start": 260.45,
+      "end": 260.762,
+      "duration": 0.312
+    },
+    {
+      "text": "index",
+      "start": 260.775,
+      "end": 261.262,
+      "duration": 0.487
+    },
+    {
+      "text": "of",
+      "start": 261.275,
+      "end": 261.375,
+      "duration": 0.1
+    },
+    {
+      "text": "33.3",
+      "start": 261.387,
+      "end": 262.512,
+      "duration": 1.125
+    },
+    {
+      "text": "plus",
+      "start": 262.525,
+      "end": 262.95,
+      "duration": 0.425
+    },
+    {
+      "text": "or",
+      "start": 262.962,
+      "end": 263.15,
+      "duration": 0.188
+    },
+    {
+      "text": "minus",
+      "start": 263.163,
+      "end": 263.587,
+      "duration": 0.425
+    },
+    {
+      "text": "0.6",
+      "start": 263.6,
+      "end": 264.562,
+      "duration": 0.963
+    },
+    {
+      "text": "kilograms",
+      "start": 264.575,
+      "end": 265.238,
+      "duration": 0.662
+    },
+    {
+      "text": "per",
+      "start": 265.25,
+      "end": 265.413,
+      "duration": 0.163
+    },
+    {
+      "text": "square",
+      "start": 265.425,
+      "end": 265.738,
+      "duration": 0.312
+    },
+    {
+      "text": "meter",
+      "start": 265.75,
+      "end": 266.163,
+      "duration": 0.412
+    },
+    {
+      "text": "The",
+      "start": 267.025,
+      "end": 267.188,
+      "duration": 0.163
+    },
+    {
+      "text": "authors",
+      "start": 267.2,
+      "end": 267.663,
+      "duration": 0.463
+    },
+    {
+      "text": "reported",
+      "start": 267.675,
+      "end": 268.15,
+      "duration": 0.475
+    },
+    {
+      "text": "a",
+      "start": 268.163,
+      "end": 268.212,
+      "duration": 0.05
+    },
+    {
+      "text": "significant",
+      "start": 268.225,
+      "end": 268.875,
+      "duration": 0.65
+    },
+    {
+      "text": "23",
+      "start": 268.887,
+      "end": 269.6,
+      "duration": 0.713
+    },
+    {
+      "text": "percent",
+      "start": 270.58,
+      "end": 271.03,
+      "duration": 0.45
+    },
+    {
+      "text": "increase",
+      "start": 271.043,
+      "end": 271.58,
+      "duration": 0.537
+    },
+    {
+      "text": "in",
+      "start": 271.592,
+      "end": 271.717,
+      "duration": 0.125
+    },
+    {
+      "text": "flow-mediated",
+      "start": 271.73,
+      "end": 272.493,
+      "duration": 0.762
+    },
+    {
+      "text": "vasodilation",
+      "start": 272.505,
+      "end": 273.293,
+      "duration": 0.787
+    },
+    {
+      "text": "response",
+      "start": 273.305,
+      "end": 273.88,
+      "duration": 0.575
+    },
+    {
+      "text": "compared",
+      "start": 274.168,
+      "end": 274.58,
+      "duration": 0.412
+    },
+    {
+      "text": "to",
+      "start": 274.592,
+      "end": 274.68,
+      "duration": 0.087
+    },
+    {
+      "text": "placebo",
+      "start": 274.692,
+      "end": 275.392,
+      "duration": 0.7
+    },
+    {
+      "text": "It",
+      "start": 276.267,
+      "end": 276.405,
+      "duration": 0.138
+    },
+    {
+      "text": "has",
+      "start": 276.418,
+      "end": 276.567,
+      "duration": 0.15
+    },
+    {
+      "text": "been",
+      "start": 276.58,
+      "end": 276.767,
+      "duration": 0.188
+    },
+    {
+      "text": "suggested",
+      "start": 276.78,
+      "end": 277.33,
+      "duration": 0.55
+    },
+    {
+      "text": "by",
+      "start": 277.342,
+      "end": 277.493,
+      "duration": 0.15
+    },
+    {
+      "text": "this",
+      "start": 277.505,
+      "end": 277.717,
+      "duration": 0.212
+    },
+    {
+      "text": "group",
+      "start": 277.73,
+      "end": 278.055,
+      "duration": 0.325
+    },
+    {
+      "text": "and",
+      "start": 278.067,
+      "end": 278.168,
+      "duration": 0.1
+    },
+    {
+      "text": "by",
+      "start": 278.18,
+      "end": 278.38,
+      "duration": 0.2
+    },
+    {
+      "text": "other",
+      "start": 278.392,
+      "end": 278.705,
+      "duration": 0.312
+    },
+    {
+      "text": "authors",
+      "start": 278.717,
+      "end": 279.155,
+      "duration": 0.438
+    },
+    {
+      "text": "that",
+      "start": 279.168,
+      "end": 279.305,
+      "duration": 0.138
+    },
+    {
+      "text": "the",
+      "start": 279.317,
+      "end": 279.38,
+      "duration": 0.062
+    },
+    {
+      "text": "improvements",
+      "start": 279.392,
+      "end": 280.043,
+      "duration": 0.65
+    },
+    {
+      "text": "in",
+      "start": 280.055,
+      "end": 280.18,
+      "duration": 0.125
+    },
+    {
+      "text": "flow-mediated",
+      "start": 280.192,
+      "end": 280.918,
+      "duration": 0.725
+    },
+    {
+      "text": "vasodilation",
+      "start": 280.93,
+      "end": 281.717,
+      "duration": 0.787
+    },
+    {
+      "text": "response",
+      "start": 281.73,
+      "end": 282.293,
+      "duration": 0.562
+    },
+    {
+      "text": "after",
+      "start": 282.305,
+      "end": 282.58,
+      "duration": 0.275
+    },
+    {
+      "text": "the",
+      "start": 282.592,
+      "end": 282.692,
+      "duration": 0.1
+    },
+    {
+      "text": "consumption",
+      "start": 282.705,
+      "end": 283.317,
+      "duration": 0.613
+    },
+    {
+      "text": "of",
+      "start": 283.33,
+      "end": 283.43,
+      "duration": 0.1
+    },
+    {
+      "text": "grape",
+      "start": 283.442,
+      "end": 283.73,
+      "duration": 0.287
+    },
+    {
+      "text": "polyphenols",
+      "start": 283.743,
+      "end": 284.442,
+      "duration": 0.7
+    },
+    {
+      "text": "and",
+      "start": 284.455,
+      "end": 284.567,
+      "duration": 0.113
+    },
+    {
+      "text": "some",
+      "start": 284.58,
+      "end": 284.78,
+      "duration": 0.2
+    },
+    {
+      "text": "individual",
+      "start": 284.793,
+      "end": 285.418,
+      "duration": 0.625
+    },
+    {
+      "text": "components",
+      "start": 285.43,
+      "end": 286.067,
+      "duration": 0.637
+    },
+    {
+      "text": "such",
+      "start": 286.43,
+      "end": 286.63,
+      "duration": 0.2
+    },
+    {
+      "text": "as",
+      "start": 286.642,
+      "end": 286.743,
+      "duration": 0.1
+    },
+    {
+      "text": "resveratrol",
+      "start": 286.755,
+      "end": 287.567,
+      "duration": 0.812
+    },
+    {
+      "text": "may",
+      "start": 287.93,
+      "end": 288.18,
+      "duration": 0.25
+    },
+    {
+      "text": "be",
+      "start": 288.192,
+      "end": 288.368,
+      "duration": 0.175
+    },
+    {
+      "text": "related",
+      "start": 288.38,
+      "end": 288.805,
+      "duration": 0.425
+    },
+    {
+      "text": "to",
+      "start": 288.817,
+      "end": 288.93,
+      "duration": 0.113
+    },
+    {
+      "text": "an",
+      "start": 288.942,
+      "end": 289.055,
+      "duration": 0.113
+    },
+    {
+      "text": "increase",
+      "start": 289.067,
+      "end": 289.668,
+      "duration": 0.6
+    },
+    {
+      "text": "in",
+      "start": 289.68,
+      "end": 289.855,
+      "duration": 0.175
+    },
+    {
+      "text": "endothelium-derived",
+      "start": 289.868,
+      "end": 291.043,
+      "duration": 1.175
+    },
+    {
+      "text": "nitric",
+      "start": 291.055,
+      "end": 291.555,
+      "duration": 0.5
+    },
+    {
+      "text": "oxide",
+      "start": 291.567,
+      "end": 292.067,
+      "duration": 0.5
+    },
+    {
+      "text": "bioavailability",
+      "start": 292.08,
+      "end": 293.155,
+      "duration": 1.075
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Endothelial Dysfunction and Hypertension.",
+      "start": 0.1,
+      "end": 2.587,
+      "word_count": 4
+    },
+    {
+      "text": "In recent years, considerable attention has been given to grapes and grape compounds as a treatment to alleviate hypertension.",
+      "start": 3.462,
+      "end": 10.525,
+      "word_count": 19
+    },
+    {
+      "text": "A recent meta-analysis of 23 randomized crossover trials, including 967 participants, concluded that grape products significantly decreased systolic blood pressure compared to the control group by minus 3.17 millimeters of mercury with a 95 percent confidence interval from minus 5.36 to minus 0.99 and a p value of 0.0004.",
+      "start": 11.4,
+      "end": 37.65,
+      "word_count": 49
+    },
+    {
+      "text": "There is evidence from human studies that whole grapes or grape extract may lower blood pressure in individuals with hypertension.",
+      "start": 37.663,
+      "end": 45.587,
+      "word_count": 20
+    },
+    {
+      "text": "Grape juice or a control beverage was provided to 28 healthy adult runners, 23 males and 5 females, who were randomly allocated into two groups, one consuming grape juice and the other a control beverage, for 28 days.",
+      "start": 45.6,
+      "end": 60.575,
+      "word_count": 38
+    },
+    {
+      "text": "At the end of the study, there was a significant reduction in systolic blood pressure only in the treatment group.",
+      "start": 60.587,
+      "end": 67.825,
+      "word_count": 20
+    },
+    {
+      "text": "Individuals with prehypertension and hypertension have also been shown to have decreases in blood pressure through the consumption of grape powder for 12 weeks.",
+      "start": 67.838,
+      "end": 77.275,
+      "word_count": 24
+    },
+    {
+      "text": "Further, another study demonstrated that after 6 weeks of consuming grape seed extracts, there was a lowering in blood pressure in individuals with mild hypertension.",
+      "start": 77.287,
+      "end": 86.9,
+      "word_count": 25
+    },
+    {
+      "text": "The latter study also reported improvements in insulin and insulin sensitivity.",
+      "start": 86.912,
+      "end": 93.263,
+      "word_count": 11
+    },
+    {
+      "text": "Endothelial dysfunction is one of the first clinically detectable alterations in atherosclerosis development.",
+      "start": 93.275,
+      "end": 99.5,
+      "word_count": 13
+    },
+    {
+      "text": "Grapes have shown beneficial effects on endothelial function, measured by flow-mediated vasodilation in both healthy individuals and those with cardiovascular risk factors.",
+      "start": 99.513,
+      "end": 110.6,
+      "word_count": 22
+    },
+    {
+      "text": "Vaisman and Niv allocated 50 subjects to a placebo or to 200 or 400 milligrams of red grape cell powder for 12 weeks.",
+      "start": 110.612,
+      "end": 119.525,
+      "word_count": 23
+    },
+    {
+      "text": "The consumption of red grape cell powder was associated with an improvement in flow-mediated vasodilation.",
+      "start": 119.537,
+      "end": 126.15,
+      "word_count": 15
+    },
+    {
+      "text": "Other studies using an amount of grapes corresponding to 1.25 to 2 cups fresh grapes with standardized grape products have found similar results, by increasing the flow-mediated vasodilation response after both acute and chronic intakes, compared to placebo.",
+      "start": 126.162,
+      "end": 143.8,
+      "word_count": 38
+    },
+    {
+      "text": "An increase in the flow-mediated vasodilation response has also been observed in men with metabolic syndrome after 4 weeks of consuming grape powder.",
+      "start": 143.812,
+      "end": 153.938,
+      "word_count": 23
+    },
+    {
+      "text": "Interestingly, a meta-analysis presenting the results of nine controlled trials on the acute effects of grape polyphenol consumption on flow-mediated vasodilation reported that flow-mediated vasodilation response significantly increased in the initial 2 hours after the intake of grape polyphenols as compared with controls, with a peak effect at 30 minutes in healthy participants compared to a more pronounced but delayed peak at 60 minutes in volunteers with cardiovascular risk factors.",
+      "start": 153.95,
+      "end": 181.45,
+      "word_count": 70
+    },
+    {
+      "text": "The authors proposed that in these subjects with high cardiovascular risk factors, endothelial cells have been impaired and might require 60 minutes after the ingestion of grape polyphenols to produce adequate nitric oxide to improve endothelial function, resulting in a delayed effect.",
+      "start": 181.463,
+      "end": 199.275,
+      "word_count": 42
+    },
+    {
+      "text": "Studies have also demonstrated the acute and chronic effects of individual grape compounds on flow-mediated vasodilation.",
+      "start": 199.287,
+      "end": 207.812,
+      "word_count": 16
+    },
+    {
+      "text": "A significant dose-dependent increase in flow-mediated vasodilation, compared to placebo, and a linear relationship to plasma resveratrol concentration, were found in a double-blind randomized crossover study testing the acute effects of three doses, 30, 90, and 270 milligrams, of resveratrol and placebo in 19 overweight or obese individuals with body mass index 25 to 35 kilograms per square meter, men or postmenopausal women with untreated borderline hypertension with systolic blood pressure of 130 to 160 millimeters of mercury or diastolic blood pressure equal to 85 to 100 millimeters of mercury.",
+      "start": 207.825,
+      "end": 251.262,
+      "word_count": 90
+    },
+    {
+      "text": "Using the same study design, these authors also evaluated the effects of chronic consumption, for 6 weeks, of 75 milligrams of resveratrol daily in 28 obese but otherwise healthy adults with a body mass index of 33.3 plus or minus 0.6 kilograms per square meter.",
+      "start": 251.275,
+      "end": 271.717,
+      "word_count": 45
+    },
+    {
+      "text": "The authors reported a significant 23 percent increase in flow-mediated vasodilation response, compared to placebo.",
+      "start": 271.73,
+      "end": 278.38,
+      "word_count": 15
+    },
+    {
+      "text": "It has been suggested by this group and by other authors that the improvements in flow-mediated vasodilation response after the consumption of grape polyphenols and some individual components, such as resveratrol, may be related to an increase in endothelium-derived nitric oxide bioavailability.",
+      "start": 278.392,
+      "end": 293.155,
+      "word_count": 33
+    }
+  ],
+  "total_duration": 293.155,
+  "voice": "en-US-AriaNeural",
+  "text": "Endothelial Dysfunction and Hypertension. In recent years, considerable attention has been given to grapes and grape compounds as a treatment to alleviate hypertension. A recent meta-analysis of 23 randomized crossover trials, including 967 participants, concluded that grape products significantly decreased systolic blood pressure compared to the control group by minus 3.17 millimeters of mercury with a 95 percent confidence interval from minus 5.36 to minus 0.99 and a p value of 0.0004. There is evidence from human studies that whole grapes or grape extract may lower blood pressure in individuals with hypertension. Grape juice or a control beverage was provided to 28 healthy adult runners, 23 males and 5 females, who were randomly allocated into two groups, one consuming grape juice and the other a control beverage, for 28 days. At the end of the study, there was a significant reduction in systolic blood pressure only in the treatment group. Individuals with prehypertension and hypertension have also been shown to have decreases in blood pressure through the consumption of grape powder for 12 weeks. Further, another study demonstrated that after 6 weeks of consuming grape seed extracts, there was a lowering in blood pressure in individuals with mild hypertension. The latter study also reported improvements in insulin and insulin sensitivity. Endothelial dysfunction is one of the first clinically detectable alterations in atherosclerosis development. Grapes have shown beneficial effects on endothelial function, measured by flow-mediated vasodilation in both healthy individuals and those with cardiovascular risk factors. Vaisman and Niv allocated 50 subjects to a placebo or to 200 or 400 milligrams of red grape cell powder for 12 weeks. The consumption of red grape cell powder was associated with an improvement in flow-mediated vasodilation. Other studies using an amount of grapes corresponding to 1.25 to 2 cups fresh grapes with standardized grape products have found similar results, by increasing the flow-mediated vasodilation response after both acute and chronic intakes, compared to placebo. An increase in the flow-mediated vasodilation response has also been observed in men with metabolic syndrome after 4 weeks of consuming grape powder. Interestingly, a meta-analysis presenting the results of nine controlled trials on the acute effects of grape polyphenol consumption on flow-mediated vasodilation reported that flow-mediated vasodilation response significantly increased in the initial 2 hours after the intake of grape polyphenols as compared with controls, with a peak effect at 30 minutes in healthy participants compared to a more pronounced but delayed peak at 60 minutes in volunteers with cardiovascular risk factors. The authors proposed that in these subjects with high cardiovascular risk factors, endothelial cells have been impaired and might require 60 minutes after the ingestion of grape polyphenols to produce adequate nitric oxide to improve endothelial function, resulting in a delayed effect. Studies have also demonstrated the acute and chronic effects of individual grape compounds on flow-mediated vasodilation. A significant dose-dependent increase in flow-mediated vasodilation, compared to placebo, and a linear relationship to plasma resveratrol concentration, were found in a double-blind randomized crossover study testing the acute effects of three doses, 30, 90, and 270 milligrams, of resveratrol and placebo in 19 overweight or obese individuals with body mass index 25 to 35 kilograms per square meter, men or postmenopausal women with untreated borderline hypertension with systolic blood pressure of 130 to 160 millimeters of mercury or diastolic blood pressure equal to 85 to 100 millimeters of mercury. Using the same study design, these authors also evaluated the effects of chronic consumption, for 6 weeks, of 75 milligrams of resveratrol daily in 28 obese but otherwise healthy adults with a body mass index of 33.3 plus or minus 0.6 kilograms per square meter. The authors reported a significant 23 percent increase in flow-mediated vasodilation response, compared to placebo. It has been suggested by this group and by other authors that the improvements in flow-mediated vasodilation response after the consumption of grape polyphenols and some individual components, such as resveratrol, may be related to an increase in endothelium-derived nitric oxide bioavailability."
+}

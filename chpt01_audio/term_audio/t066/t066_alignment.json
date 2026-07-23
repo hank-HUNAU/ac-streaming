@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "3xTg-AD",
+      "start": 0.109,
+      "end": 2.021,
+      "duration": 1.912
+    }
+  ],
+  "sentences": [
+    {
+      "text": "3xTg-AD",
+      "start": 0.109,
+      "end": 2.021,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 2.021,
+  "voice": "en-US-AriaNeural",
+  "text": "3xTg-AD"
+}

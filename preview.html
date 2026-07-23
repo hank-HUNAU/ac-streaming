@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<title>Grapes and Brain Health</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#f5f5f7;--card:#ffffff;--text:#1d1d1f;--text2:#86868b;--accent:#0071e3;--sep:#d2d2d7;--highlight:#e8f0fe;--playing:#c2d9ff;--title-font:'Georgia','Times New Roman',serif;--body-font:'Georgia','Times New Roman',serif;--ui-font:-apple-system,BlinkMacSystemFont,'SF Pro Display','Helvetica Neue',sans-serif}
+body{font-family:var(--ui-font);background:var(--bg);color:var(--text);-webkit-font-smoothing:antialiased;display:flex;justify-content:center;min-height:100vh;padding:env(safe-area-inset-top) 16px env(safe-area-inset-bottom)}
+.container{max-width:640px;width:100%;padding:20px 0 40px}
+.header{text-align:center;padding:32px 0 24px}
+.header h1{font-family:var(--title-font);font-size:24px;font-weight:700;color:var(--text);line-height:1.3;margin-bottom:4px;letter-spacing:-.3px}
+.header .author{font-size:15px;color:var(--text2);font-weight:400}
+.player-card{background:var(--card);border-radius:20px;padding:20px;margin-bottom:16px;box-shadow:0 1px 3px rgba(0,0,0,.04),0 4px 16px rgba(0,0,0,.04);position:sticky;top:12px;z-index:10}
+.player-bar{display:flex;align-items:center;gap:14px}
+.btn-play{width:44px;height:44px;border-radius:50%;border:none;background:var(--accent);cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:transform .15s,box-shadow .15s;box-shadow:0 2px 8px rgba(0,113,227,.3)}
+.btn-play:active{transform:scale(.92)}
+.btn-play svg{width:18px;height:18px;fill:#fff;margin-left:2px}
+.progress-area{flex:1;display:flex;flex-direction:column;gap:6px}
+.progress-bar{height:4px;background:var(--sep);border-radius:2px;overflow:hidden;cursor:pointer}
+.progress-fill{height:100%;background:var(--accent);width:0%;border-radius:2px;transition:width .1s linear}
+.time-row{display:flex;justify-content:space-between;font-size:11px;color:var(--text2);font-family:var(--ui-font);font-weight:500}
+.meta-row{display:flex;justify-content:space-between;align-items:center;margin-top:12px;padding-top:12px;border-top:1px solid var(--sep)}
+.meta-tag{font-size:11px;color:var(--text2);font-weight:500;background:#f5f5f7;padding:3px 10px;border-radius:12px}
+.status-dot{display:inline-block;width:6px;height:6px;border-radius:50%;margin-right:4px;background:var(--text2)}
+.status-dot.playing{background:#34c759;animation:pulse 1.2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.sentence-list{display:flex;flex-direction:column;gap:6px}
+.sentence-card{background:var(--card);border-radius:14px;padding:16px 18px;cursor:pointer;transition:all .2s;border:1.5px solid transparent;box-shadow:0 1px 2px rgba(0,0,0,.03)}
+.sentence-card:active{transform:scale(.99)}
+.sentence-card.active{border-color:var(--accent);background:var(--highlight)}
+.sentence-card.playing{border-color:var(--accent);background:var(--playing);box-shadow:0 2px 12px rgba(0,113,227,.12)}
+.sentence-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.sentence-num{font-family:var(--ui-font);font-size:11px;color:var(--text2);font-weight:600;letter-spacing:.5px}
+.sentence-time{font-family:var(--ui-font);font-size:11px;color:var(--text2);font-weight:500}
+.sentence-text{font-family:var(--body-font);font-size:17px;line-height:1.6;color:var(--text);letter-spacing:-.2px}
+.sentence-card.playing .sentence-num{color:var(--accent)}
+.sentence-card.playing .sentence-time{color:var(--accent)}
+.footer{text-align:center;padding:32px 0;color:var(--text2);font-size:12px}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="header">
+  <h1>Grapes and Brain Health</h1>
+  <div class="author">Pamela Maher</div>
+</div>
+
+<div class="player-card" id="playerCard">
+  <div class="player-bar">
+    <button class="btn-play" id="btnPlay" onclick="togglePlay()">
+      <svg id="playIcon" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+      <svg id="pauseIcon" viewBox="0 0 24 24" style="display:none"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+    </button>
+    <div class="progress-area">
+      <div class="progress-bar" id="progressBar" onclick="seek(event)">
+        <div class="progress-fill" id="progressFill"></div>
+      </div>
+      <div class="time-row">
+        <span id="timeCurrent">0:00</span>
+        <span id="timeTotal">6:30</span>
+      </div>
+    </div>
+  </div>
+  <div class="meta-row">
+    <div class="meta-tag"><span class="status-dot" id="statusDot"></span><span id="statusLabel">Ready</span></div>
+    <div class="meta-tag" id="sentenceLabel">39 sentences</div>
+  </div>
+</div>
+
+<div class="sentence-list" id="sentenceList"></div>
+
+<div class="footer">Edge-TTS &middot; en-US-AriaNeural &middot; -5% rate</div>
+</div>
+
+<script>
+const SENTENCES = [{"text": "Grapes and Brain Health.", "start": 0.103, "end": 1.497, "word_count": 4}, {"text": "By Pamela Maher.", "start": 2.421, "end": 3.553, "word_count": 3}, {"text": "Given the central importance of the brain to both a person's survival and their quality of life, the identification of treatments that can maintain, restore, or improve brain function is of great interest.", "start": 4.474, "end": 16.513, "word_count": 33}, {"text": "Furthermore, the possibility that grapes, a readily available component of a healthy diet, might have benefits in this context is especially appealing.", "start": 17.421, "end": 26.395, "word_count": 22}, {"text": "Indeed, as interest in simple and safe approaches to improving brain health has grown, many more studies on the effects of various grape products on brain function in humans are being conducted.", "start": 27.316, "end": 38.513, "word_count": 32}, {"text": "Freeze-dried grape powder, various grape and grape seed extracts, and grape juice have all been shown to positively impact multiple aspects of brain function, including cognition, in a variety of different in vivo models in both humans and rodents.", "start": 39.421, "end": 54.566, "word_count": 39}, {"text": "These models include stress, aging, ischemia, Alzheimer's disease, Parkinson's disease, multiple sclerosis, Gulf War illness, and autism.", "start": 55.487, "end": 65.408, "word_count": 17}, {"text": "In the brain, the consumption of grape products has been shown to reduce oxidative stress, enhance trophic factor signaling, stimulate neurogenesis, improve various aspects of neurotransmission, and reduce inflammation.", "start": 66.329, "end": 80.092, "word_count": 29}, {"text": "Furthermore, there is growing evidence that the levels of specific polyphenols in the blood or urine that are derived from the consumption of grape products correlate with the beneficial effects of these products on brain function.", "start": 81.0, "end": 93.0, "word_count": 36}, {"text": "Together, these studies strongly suggest that further work on the impact of grape products on brain function, not only in areas where beneficial effects have already been seen but also in pathological conditions where they have not yet been explored, is highly worthwhile.", "start": 93.908, "end": 109.803, "word_count": 43}, {"text": "Multiple sclerosis, Gulf War Illness, Autism, Oxidative stress, Enhance trophic factor signaling, Neurogenesis, Neurotransmission, Inflammation, Brain function, Neurotrophic factors Introduction.", "start": 110.724, "end": 124.197, "word_count": 20}, {"text": "The brain is essential for our survival and also makes us who we are.", "start": 125.105, "end": 128.908, "word_count": 14}, {"text": "Not only does it control thoughts, memory, and emotion, but it also controls touch, motor skills, vision, and hearing, as well as basic physiological functions, such as breathing, temperature, and hunger.", "start": 129.829, "end": 142.842, "word_count": 31}, {"text": "Thus, keeping the brain healthy is critical to maintaining one's overall well-being as well as to having a good quality of life.", "start": 143.763, "end": 151.092, "word_count": 22}, {"text": "So how do you keep the brain healthy throughout your lifespan?", "start": 152.0, "end": 155.118, "word_count": 11}, {"text": "Is it possible to restore normal brain function following a disease or injury?", "start": 156.039, "end": 160.447, "word_count": 13}, {"text": "Is it possible to improve brain function even in young healthy individuals?", "start": 161.368, "end": 165.697, "word_count": 12}, {"text": "Although these questions have consumed investigators for many years, there are still no clear answers.", "start": 166.605, "end": 172.408, "word_count": 15}, {"text": "However, what is clear is that any approach to addressing these possibilities needs to be safe, inexpensive, readily available, and easy to access or use.", "start": 173.329, "end": 183.079, "word_count": 25}, {"text": "Given that the improvement, maintenance, or restoration of brain function involves multiple targets and the likelihood that the relative importance of each of these targets will vary among individuals and diseases, it seems that the best approach is to identify treatments that inherently contain multiple biological activities that can impact the different targets that are associated more generally with healthy brain function.", "start": 183.987, "end": 207.526, "word_count": 62}, {"text": "One excellent source for these types of treatments is grapes.", "start": 208.447, "end": 211.75, "word_count": 10}, {"text": "The goal of this review is to summarize new studies on grapes and brain function that have appeared since the publication of the previous review in 2016.", "start": 212.658, "end": 222.408, "word_count": 27}, {"text": "The studies on grapes and the brain that are discussed in this review have used a variety of nonalcoholic grape products, including grape juice; freeze-dried grape powder (FDGP) made from whole grapes, including seeds and skin; grape seed extracts (GSEs); grape seed plus skin extracts (GSSEs); and Memophenol, a polyphenol-rich extract combining both grapes and blueberries.", "start": 222.421, "end": 248.566, "word_count": 56}, {"text": "All of the studies used either Vitis vinifera or Vitis labrusca.", "start": 248.579, "end": 253.513, "word_count": 11}, {"text": "Most of the studies included inert placebos or other controls that matched many of the components of the grape product tested, except for polyphenols.", "start": 253.526, "end": 262.947, "word_count": 24}, {"text": "For some of the studies, FDGP was sourced from the California Table Grape Commission, which has been characterized in terms of polyphenol content.", "start": 262.961, "end": 273.87, "word_count": 23}, {"text": "A few studies used commercial or \"in-house\" freeze-dried whole-grape extracts.", "start": 273.883, "end": 279.159, "word_count": 10}, {"text": "The grape juice was made either from Concord grapes (Vitis labrusca) or common grapes (Vitis vinifera), with white grape juice and/or another placebo drink designed to smell, look, and taste like grape juice and used often as a caloric control.", "start": 279.172, "end": 294.87, "word_count": 40}, {"text": "Grape seed extract (GSE) and polyphenol extract (GSPE) were either a commercial preparation or made \"in-house\".", "start": 294.883, "end": 304.12, "word_count": 16}, {"text": "Grape seed and skin polyphenol extract (GSSPE) was made \"in-house\".", "start": 304.133, "end": 310.435, "word_count": 10}, {"text": "Memophenol is a product of the Neurophenols Consortium and contains specific low-molecular-weight grape and blueberry polyphenols formulated in a unique, patented ratio of molecules and has been used in a number of studies in both mice and humans.", "start": 310.449, "end": 326.067, "word_count": 38}, {"text": "Importantly, a recent bioavailability study showed that this combination of fruit extracts significantly increased plasma polyphenol levels compared to levels observed with individual extracts.", "start": 326.317, "end": 338.12, "word_count": 24}, {"text": "While commercial preparations have been characterized in terms of polyphenol content (see references in cited papers), preparations made \"in-house\" were often not.", "start": 338.133, "end": 349.054, "word_count": 22}, {"text": "Many studies on grape products and brain health have examined the effects of grape intake on various aspects of learning and memory, while a few studies have addressed other behaviors, such as mood.", "start": 349.067, "end": 361.067, "word_count": 33}, {"text": "In contrast, disease-related studies have generally focused on specific disease-relevant outcomes.", "start": 361.08, "end": 368.185, "word_count": 11}, {"text": "Some of the human studies on cognition have recently been reviewed.", "start": 368.199, "end": 372.633, "word_count": 11}, {"text": "In this review, the effects of grape products on animal and human models of brain health and disease will be addressed first.", "start": 372.646, "end": 380.935, "word_count": 22}, {"text": "Next, the mechanisms that are likely to contribute to their efficacy in these models will be discussed.", "start": 381.172, "end": 387.014, "word_count": 17}, {"text": "The studies covered in the previous review will not be covered here.", "start": 387.027, "end": 390.356, "word_count": 11}];
+const AUDIO_URL = '/api/download/grapes_intro_v3.wav';
+const TOTAL_DUR = 390.356;
+
+let audio = new Audio(AUDIO_URL);
+let currentIdx = -1;
+let isPlaying = false;
+
+audio.preload = 'auto';
+
+function buildList() {
+  const list = document.getElementById('sentenceList');
+  list.innerHTML = SENTENCES.map((s, i) => `
+    <div class="sentence-card" id="sent-${i}" onclick="playSentence(${i})">
+      <div class="sentence-head">
+        <span class="sentence-num">SENTENCE ${i + 1}</span>
+        <span class="sentence-time">${fmtTime(s.start)} - ${fmtTime(s.end)}</span>
+      </div>
+      <div class="sentence-text">${s.text}</div>
+    </div>
+  `).join('');
+}
+
+function fmtTime(t) {
+  const m = Math.floor(t / 60);
+  const s = Math.floor(t % 60);
+  return m + ':' + String(s).padStart(2, '0');
+}
+
+function togglePlay() {
+  if (isPlaying) pause();
+  else if (currentIdx >= 0) playSentence(currentIdx);
+  else playSentence(0);
+}
+
+function playSentence(idx) {
+  if (idx < 0 || idx >= SENTENCES.length) return;
+  
+  const s = SENTENCES[idx];
+  currentIdx = idx;
+  audio.currentTime = s.start;
+  audio.play().catch(e => console.log('Playback error:', e));
+  setPlaying(true);
+  highlightSentence(idx);
+  scrollToSentence(idx);
+  updatePlayIcon(true);
+  document.getElementById('statusLabel').textContent = 'Playing';
+  document.getElementById('statusDot').classList.add('playing');
+}
+
+function pause() {
+  audio.pause();
+  setPlaying(false);
+  updatePlayIcon(false);
+  document.getElementById('statusLabel').textContent = 'Paused';
+  document.getElementById('statusDot').classList.remove('playing');
+}
+
+function setPlaying(v) { isPlaying = v; }
+
+function updatePlayIcon(playing) {
+  document.getElementById('playIcon').style.display = playing ? 'none' : '';
+  document.getElementById('pauseIcon').style.display = playing ? '' : 'none';
+}
+
+function highlightSentence(idx) {
+  document.querySelectorAll('.sentence-card').forEach(el => el.classList.remove('active', 'playing'));
+  const el = document.getElementById('sent-' + idx);
+  if (el) el.classList.add('active', 'playing');
+}
+
+function scrollToSentence(idx) {
+  const el = document.getElementById('sent-' + idx);
+  if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+function seek(e) {
+  const bar = document.getElementById('progressBar');
+  const rect = bar.getBoundingClientRect();
+  const pct = (e.clientX - rect.left) / rect.width;
+  audio.currentTime = pct * TOTAL_DUR;
+}
+
+audio.addEventListener('timeupdate', () => {
+  const t = audio.currentTime;
+  const pct = (t / TOTAL_DUR) * 100;
+  document.getElementById('progressFill').style.width = pct + '%';
+  document.getElementById('timeCurrent').textContent = fmtTime(t);
+  
+  // Find current sentence
+  let idx = SENTENCES.findIndex(s => t >= s.start && t < s.end);
+  if (idx < 0 && t >= SENTENCES[SENTENCES.length - 1]?.end) idx = SENTENCES.length - 1;
+  
+  if (idx >= 0 && idx !== currentIdx) {
+    currentIdx = idx;
+    document.querySelectorAll('.sentence-card').forEach(el => el.classList.remove('active', 'playing'));
+    const el = document.getElementById('sent-' + idx);
+    if (el) el.classList.add('active', 'playing');
+    scrollToSentence(idx);
+  }
+});
+
+audio.addEventListener('ended', () => {
+  setPlaying(false);
+  updatePlayIcon(false);
+  document.getElementById('statusLabel').textContent = 'Finished';
+  document.getElementById('statusDot').classList.remove('playing');
+  document.querySelectorAll('.sentence-card').forEach(el => el.classList.remove('playing'));
+});
+
+audio.addEventListener('play', () => {
+  document.getElementById('statusDot').classList.add('playing');
+});
+
+audio.addEventListener('pause', () => {
+  document.getElementById('statusDot').classList.remove('playing');
+});
+
+audio.addEventListener('loadedmetadata', () => {
+  document.getElementById('statusLabel').textContent = 'Ready';
+});
+
+buildList();
+</script>
+</body>
+</html>

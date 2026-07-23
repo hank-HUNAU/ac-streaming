@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Vessel",
+      "start": 0.109,
+      "end": 0.638,
+      "duration": 0.529
+    },
+    {
+      "text": "wall",
+      "start": 0.653,
+      "end": 1.138,
+      "duration": 0.485
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Vessel wall",
+      "start": 0.109,
+      "end": 1.138,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.138,
+  "voice": "en-US-AriaNeural",
+  "text": "Vessel wall"
+}

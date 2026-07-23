@@ -1,0 +1,75 @@
+{
+  "words": [
+    {
+      "text": "Grapes",
+      "start": 0.1,
+      "end": 0.537,
+      "duration": 0.438
+    },
+    {
+      "text": "and",
+      "start": 0.55,
+      "end": 0.688,
+      "duration": 0.138
+    },
+    {
+      "text": "Atherosclerosis",
+      "start": 0.7,
+      "end": 1.962,
+      "duration": 1.262
+    },
+    {
+      "text": "Maria",
+      "start": 2.825,
+      "end": 3.275,
+      "duration": 0.45
+    },
+    {
+      "text": "Luz",
+      "start": 3.288,
+      "end": 3.575,
+      "duration": 0.287
+    },
+    {
+      "text": "Fernandez",
+      "start": 3.587,
+      "end": 4.2,
+      "duration": 0.613
+    },
+    {
+      "text": "and",
+      "start": 4.213,
+      "end": 4.375,
+      "duration": 0.163
+    },
+    {
+      "text": "Jacqueline",
+      "start": 4.388,
+      "end": 4.825,
+      "duration": 0.438
+    },
+    {
+      "text": "Barona",
+      "start": 4.838,
+      "end": 5.375,
+      "duration": 0.537
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Grapes and Atherosclerosis.",
+      "start": 0.1,
+      "end": 1.962,
+      "word_count": 3
+    },
+    {
+      "text": "Maria Luz Fernandez and Jacqueline Barona.",
+      "start": 2.825,
+      "end": 5.375,
+      "word_count": 6
+    }
+  ],
+  "total_duration": 5.375,
+  "voice": "en-US-AriaNeural",
+  "text": "Grapes and Atherosclerosis. Maria Luz Fernandez and Jacqueline Barona."
+}

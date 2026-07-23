@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "PDGFR",
+      "start": 0.109,
+      "end": 1.668,
+      "duration": 1.559
+    }
+  ],
+  "sentences": [
+    {
+      "text": "PDGFR",
+      "start": 0.109,
+      "end": 1.668,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.668,
+  "voice": "en-US-AriaNeural",
+  "text": "PDGFR"
+}

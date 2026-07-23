@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Lipid",
+      "start": 0.109,
+      "end": 0.565,
+      "duration": 0.456
+    },
+    {
+      "text": "metabolism",
+      "start": 0.579,
+      "end": 1.432,
+      "duration": 0.853
+    },
+    {
+      "text": "pathway",
+      "start": 1.447,
+      "end": 2.212,
+      "duration": 0.765
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Lipid metabolism pathway",
+      "start": 0.109,
+      "end": 2.212,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.212,
+  "voice": "en-US-AriaNeural",
+  "text": "Lipid metabolism pathway"
+}

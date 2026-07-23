@@ -1,0 +1,542 @@
+{
+  "id": "9_animal_studies_different",
+  "sentences": [
+    {
+      "text": "Animal Studies.",
+      "start": 0.1,
+      "end": 1.15,
+      "word_count": 2
+    },
+    {
+      "text": "Different animal models have been used to understand the pathogenesis and impact of diverse treatments from drugs to dietary interventions for atherosclerosis, including mice, rats, hamsters, rabbits, pigs, dogs, and monkeys.",
+      "start": 2.013,
+      "end": 16.688,
+      "word_count": 31
+    },
+    {
+      "text": "However, these animal models cannot completely simulate human atherosclerotic lesions in location and composition, lipoprotein composition, and structure.",
+      "start": 17.55,
+      "end": 27.225,
+      "word_count": 18
+    },
+    {
+      "text": "Among the relatively small animal models, guinea pigs have the advantage of more closely resembling the human model of atherosclerosis; however, they are less widely used due to long feeding cycles and high costs.",
+      "start": 28.1,
+      "end": 40.725,
+      "word_count": 34
+    },
+    {
+      "text": "Thus, given their ease of use and lower costs, mice are the small models of choice in many laboratories, and they require genetic modifications to develop atherosclerosis, including apolipoprotein E knock-out and L D L receptor knock-out.",
+      "start": 41.587,
+      "end": 56.425,
+      "word_count": 37
+    },
+    {
+      "text": "Although human studies are required for the validation of pharmaceutical or dietary interventions for atherosclerosis, animal studies have been crucial to advance in this field.",
+      "start": 57.288,
+      "end": 67.338,
+      "word_count": 25
+    },
+    {
+      "text": "A meta-analysis in small animal models evaluating atherosclerosis prevention through dietary interventions showed that despite heterogeneity in 511 animals, there was a significant effect of dietary compounds on the reduction of atheroma globally.",
+      "start": 68.213,
+      "end": 83.513,
+      "word_count": 33
+    },
+    {
+      "text": "Supplementation with polyphenol-rich foods analyzed in 73 studies with ApoE knock-out and L D L receptor knock-out mice found that a majority of the studies reported a reduction in plaque, with improvements in lipid profile, antioxidant status, inflammation, and cholesterol clearance.",
+      "start": 84.388,
+      "end": 101.938,
+      "word_count": 41
+    },
+    {
+      "text": "However, not all studies reporting positive effects on atherosclerotic plaques have shown improvements in lipid profile.",
+      "start": 102.812,
+      "end": 109.775,
+      "word_count": 16
+    },
+    {
+      "text": "Grapes are a rich source of polyphenols which are known to prevent the occurrence and development of atherosclerotic cardiovascular diseases through antifibrosis, anti-inflammatory, antioxidative, lipid-lowering, and hypoglycemic effects as demonstrated in animal models, including rabbits and pigs.",
+      "start": 110.638,
+      "end": 128.425,
+      "word_count": 37
+    },
+    {
+      "text": "In pigs, a resveratrol-rich grape extract had been shown to effectively prevent early aortic lesions in this animal model fed an atherogenic diet with concentrations more appropriate for supplementation, 10 milligrams equivalent for a 70 kilogram human, than pharmacological doses.",
+      "start": 129.287,
+      "end": 146.463,
+      "word_count": 40
+    },
+    {
+      "text": "Pigs were fed a control diet, grape extract without resveratrol, resveratrol-rich grape extract, or resveratrol alone.",
+      "start": 147.338,
+      "end": 155.188,
+      "word_count": 16
+    },
+    {
+      "text": "Resveratrol-rich grape extract was the most effective dietary supplement for preventing the disruption of aortic elastic fibers and reducing intima thickness and fatty cell accumulation.",
+      "start": 156.05,
+      "end": 166.588,
+      "word_count": 25
+    },
+    {
+      "text": "Most studies over the past decade have been performed using mice as models of atherosclerosis, but spontaneous hypertensive rats have also been used to evaluate effects on hypertension, endothelial dysfunction, oxidative stress, and dyslipidemia.",
+      "start": 167.463,
+      "end": 182.475,
+      "word_count": 34
+    },
+    {
+      "text": "Despite that, previous studies with guinea pigs, which resemble human cholesterol metabolism and atherosclerosis development, have demonstrated the beneficial effects of grape polyphenols, 10 percent, consumed along with a hypercholesterolemic diet.",
+      "start": 183.35,
+      "end": 199.588,
+      "word_count": 31
+    },
+    {
+      "text": "Guinea pigs fed grape polyphenols presented lower concentrations of cholesterol in the aortas, plus lower activity of acyl CoA acyltransferase in the liver, suggesting less incorporation of cholesteryl ester into the secreted very low-density lipoprotein, leading to lower concentrations of plasma triglycerides.",
+      "start": 199.6,
+      "end": 219.637,
+      "word_count": 42
+    },
+    {
+      "text": "Different grape preparations have been used with diverse animal models, making it difficult to compare the results.",
+      "start": 219.65,
+      "end": 226.387,
+      "word_count": 17
+    },
+    {
+      "text": "A review of 34 animal studies on the effects of grape products on cardiovascular disease risk factors included rats, ApoE-deficient mice, rabbits including normal and Watanabe heritable hyperlipidemic, hamsters, gerbils, ovariectomized guinea pigs, chickens, monkeys, and dogs.",
+      "start": 226.4,
+      "end": 246.25,
+      "word_count": 37
+    },
+    {
+      "text": "Studies included animals aged 1 week to 6 months, with an average age of 2 months, and with the number of animals varying from 20 to 180, with an average of 53 per study.",
+      "start": 246.262,
+      "end": 257.988,
+      "word_count": 34
+    },
+    {
+      "text": "The grape preparations employed were either freeze-dried grapes, grape pomace, grape peel, grape seed, polyphenols from grapes, polyphenols from grape seed, extracts from white grape seed, extracts from red grape seed, a grape product rich in both dietary fiber and polyphenols, grape juice, red and white wine, dealcoholized red wine, red wine powder, or red wine extracts.",
+      "start": 258.0,
+      "end": 283.287,
+      "word_count": 57
+    },
+    {
+      "text": "And the effects of these grape products were evaluated on the following markers: hypertension, endothelial function, vasodilatation, dyslipidemia, atherosclerotic lesions, accumulation of foam cells in the aorta, platelet aggregation, endothelial cell adhesion, L D L oxidation, and oxidative and inflammation markers.",
+      "start": 283.3,
+      "end": 304.362,
+      "word_count": 41
+    },
+    {
+      "text": "Given the association between dyslipidemia, oxidative stress, inflammation, and endothelial dysfunction in the progress of atherosclerosis and the contribution of gut microbiota, the effects of grape supplementation on different animal models have been studied.",
+      "start": 304.375,
+      "end": 320.55,
+      "word_count": 34
+    },
+    {
+      "text": "A number of animal models have been used to test endothelial dysfunction and oxidative stress.",
+      "start": 320.562,
+      "end": 326.837,
+      "word_count": 15
+    },
+    {
+      "text": "A rat model of hypertension was used in one experiment in which rats were fed a cafeteria or standard diet for 10 weeks.",
+      "start": 326.849,
+      "end": 334.899,
+      "word_count": 23
+    },
+    {
+      "text": "The antihypertensive effect of a single oral administration of a polyphenol grape seed extract was tested at different doses of 250, 375, and 500 milligrams per kilogram.",
+      "start": 334.912,
+      "end": 348.287,
+      "word_count": 27
+    },
+    {
+      "text": "Blood pressure was recorded before and 2, 4, 6, 8, 24, and 48 hours after administration.",
+      "start": 348.3,
+      "end": 357.037,
+      "word_count": 16
+    },
+    {
+      "text": "The hypotensive effect of grape seed polyphenol extract was proven in both the cafeteria diet and the standard diet.",
+      "start": 357.05,
+      "end": 364.75,
+      "word_count": 19
+    },
+    {
+      "text": "Additionally, in another experiment, cafeteria-diet-fed hypertensive rats were orally administered 375 milligrams per kilogram grape seed polyphenol extract.",
+      "start": 364.762,
+      "end": 376.075,
+      "word_count": 18
+    },
+    {
+      "text": "In this second experiment, it was demonstrated that the mechanism of grapes in improving blood pressure was due to the formation of nitric oxide.",
+      "start": 376.087,
+      "end": 385.925,
+      "word_count": 24
+    },
+    {
+      "text": "Spontaneously hypertensive rats were treated with 250 milligrams per kilogram per day of polyphenol grape seed extract for 22 weeks to observe the effects on arterial remodeling, endothelial function, content of nitric oxide and endothelin 1, oxidative stress as measured by malondialdehyde levels, and the activities of the antioxidant enzymes superoxide dismutase and catalase.",
+      "start": 385.937,
+      "end": 410.437,
+      "word_count": 54
+    },
+    {
+      "text": "Wistar-Kyoto rats and spontaneously hypertensive rat controls, with ten rats in each group, were used as controls and were given 1 milliliter of 0.9 percent nitric sodium orally.",
+      "start": 410.45,
+      "end": 422.987,
+      "word_count": 28
+    },
+    {
+      "text": "Grape seed polyphenol extract markedly alleviated hypertension-induced arterial remodeling, which was not associated with blood pressure control.",
+      "start": 423.0,
+      "end": 432.162,
+      "word_count": 17
+    },
+    {
+      "text": "Endothelin 1 production was reduced, while nitric oxide production increased in the grape seed polyphenol extract group, which exhibited improved endothelial function.",
+      "start": 432.175,
+      "end": 442.787,
+      "word_count": 22
+    },
+    {
+      "text": "In addition, treatment with grape seed polyphenol extract significantly ameliorated oxidative stress by improving superoxide dismutase and catalase activities and reducing malondialdehyde formation.",
+      "start": 442.8,
+      "end": 455.362,
+      "word_count": 23
+    },
+    {
+      "text": "The same model of spontaneously hypertensive rats was used in other experiments to test the effects of grape skin extract and grape-pomace-enriched chow.",
+      "start": 455.375,
+      "end": 465.55,
+      "word_count": 23
+    },
+    {
+      "text": "Normotensive male Wistar rats were used as controls in both studies.",
+      "start": 465.562,
+      "end": 469.612,
+      "word_count": 11
+    },
+    {
+      "text": "In the grape skin extract study, systolic blood pressure, total cholesterol, triglyceride, and glucose levels, as well as oxidative damage and antioxidant activity in the plasma and kidney, were evaluated in four experimental groups: control Wistar rats and spontaneously hypertensive rat controls that received water, as well as Wistar rats and spontaneously hypertensive rats treated with grape skin extract at 200 milligrams per kilogram per day in drinking water for 12 weeks.",
+      "start": 469.625,
+      "end": 500.25,
+      "word_count": 72
+    },
+    {
+      "text": "Compared to control groups, grape skin extract prevented the development of hypertension, dyslipidemia, oxidative damage, and increased antioxidant activity.",
+      "start": 500.262,
+      "end": 510.325,
+      "word_count": 19
+    },
+    {
+      "text": "In the other study, normotensive and hypertensive rats were randomly assigned to homogeneous groups, based on their blood pressure and type of diet, for 14 days: normotensive and hypertensive control with standard chow, normotensive and hypertensive grape pomace 1 with a dose of 150 milligrams per kilogram per day, and normotensive and hypertensive grape pomace 2 with a dose of 300 milligrams per kilogram per day.",
+      "start": 510.337,
+      "end": 538.725,
+      "word_count": 66
+    },
+    {
+      "text": "Indirect arterial pressure was assessed, while vascular reactivity was evaluated in mesenteric resistance arteries.",
+      "start": 539.716,
+      "end": 547.779,
+      "word_count": 14
+    },
+    {
+      "text": "The winemaking by-product, grape pomace, tested in this study demonstrated therapeutic potential with hypotensive effects in a dose-dependent manner.",
+      "start": 547.791,
+      "end": 556.328,
+      "word_count": 19
+    },
+    {
+      "text": "Other animal models have been employed to evaluate grape effects on inflammation, atherosclerotic lesions, and gut microbiota.",
+      "start": 556.341,
+      "end": 565.366,
+      "word_count": 17
+    },
+    {
+      "text": "Wang and colleagues evaluated whether grape-seed polyphenols had antiabdominal aortic aneurysm effects and what mechanisms were involved.",
+      "start": 565.379,
+      "end": 574.966,
+      "word_count": 17
+    },
+    {
+      "text": "Healthy 8-week-old male C57BL/6 mice were injected with 1.5 units of pancreatic elastase on the abdominal aortas to induce abdominal aortic aneurysm.",
+      "start": 574.979,
+      "end": 584.604,
+      "word_count": 22
+    },
+    {
+      "text": "Mice were randomly assigned into sham, model, and two treatment groups, grape seed polyphenol high and grape seed polyphenol low.",
+      "start": 584.616,
+      "end": 593.104,
+      "word_count": 20
+    },
+    {
+      "text": "The sham and model groups received 200 microliters of 0.01 molar phosphate-buffered saline daily, while the grape seed polyphenol groups were treated with grape-seed polyphenols at doses of 800 milligrams per kilogram for high dose and 400 milligrams per kilogram for low dose.",
+      "start": 593.116,
+      "end": 611.928,
+      "word_count": 43
+    },
+    {
+      "text": "Treatments began on the same day as the induction of abdominal aortic aneurysm.",
+      "start": 611.941,
+      "end": 617.678,
+      "word_count": 13
+    },
+    {
+      "text": "After 14 days, the mice were weighed and sacrificed.",
+      "start": 617.891,
+      "end": 621.841,
+      "word_count": 9
+    },
+    {
+      "text": "Aortic measurements were taken, with abdominal aortic aneurysm defined as an aortic dilation exceeding 50 percent of the normal diameter.",
+      "start": 621.854,
+      "end": 631.279,
+      "word_count": 20
+    },
+    {
+      "text": "Grape seed polyphenols at 800 milligrams per kilogram could significantly reduce the incidence of abdominal aortic aneurysm, the dilatation of the aorta, and elastin degradation in media and dramatically decrease macrophage infiltration and activation and the expression of matrix metalloproteinase-2 and matrix metalloproteinase-9 in the aorta, compared to the abdominal aortic aneurysm model group.",
+      "start": 631.291,
+      "end": 656.803,
+      "word_count": 54
+    },
+    {
+      "text": "Meanwhile, 400 milligrams per kilogram grape seed polyphenols could also, but not completely, inhibit the occurrence and development of abdominal aortic aneurysm.",
+      "start": 656.816,
+      "end": 667.316,
+      "word_count": 22
+    },
+    {
+      "text": "In conclusion, grape seed polyphenols showed meaningful anti-abdominal aortic aneurysm effects, and its mechanisms were related to the inhibition of inflammation.",
+      "start": 667.328,
+      "end": 677.316,
+      "word_count": 21
+    },
+    {
+      "text": "Liu and colleagues reported the effects of a normal diet and a high-fat diet in mice, with or without grape seed proanthocyanidin extract at 300 milligrams per kilogram body weight per day by oral gavage for 7 weeks.",
+      "start": 677.328,
+      "end": 691.141,
+      "word_count": 38
+    },
+    {
+      "text": "In this study, the anti-inflammatory effect of grape seed proanthocyanidin extract was explored in high-fat diet-induced obesity, and the contribution of the gut microbiota to grape seed proanthocyanidin extract effects on metabolism was identified.",
+      "start": 691.154,
+      "end": 707.741,
+      "word_count": 34
+    },
+    {
+      "text": "Supplementation with grape seed proanthocyanidin extract significantly decreased plasma levels of inflammatory factors, such as T N F-alpha, I L-6, and M C P-1, with ameliorated macrophage infiltration in epidydimal fat and liver tissues.",
+      "start": 707.754,
+      "end": 725.354,
+      "word_count": 34
+    },
+    {
+      "text": "Grape seed proanthocyanidin extract supplementation modulated gut microbiota composition, while depleting gut microbiota through antibiotic treatment abolished the beneficial effects of grape seed proanthocyanidin extract on inflammation and adiposity.",
+      "start": 725.366,
+      "end": 740.491,
+      "word_count": 29
+    },
+    {
+      "text": "Rivera and colleagues used a model of lethal ischemic heart disease, apolipoprotein E-deficient mice SR-B1 K O slash ApoE R61h/h mice to evaluate the effects of a red wine grape pomace.",
+      "start": 740.504,
+      "end": 753.479,
+      "word_count": 31
+    },
+    {
+      "text": "Mice were fed with an atherogenic high-fat, cholesterol, and cholic acid diet supplemented with 20 percent chow as control, 20 percent red wine grape pomace flour, or 10 percent chow and 10 percent oat fiber as fiber control.",
+      "start": 753.491,
+      "end": 771.066,
+      "word_count": 38
+    },
+    {
+      "text": "The survival time was evaluated.",
+      "start": 771.078,
+      "end": 773.578,
+      "word_count": 5
+    },
+    {
+      "text": "In addition, SR-B1 K O slash ApoE R61h/h mice were fed for 7 or 14 days with high-fat cholesterol cholic acid control or high-fat cholesterol cholic acid red wine grape pomace diets, and then plasma lipid levels, inflammation, oxidative damage, and antioxidant activity were measured.",
+      "start": 773.591,
+      "end": 794.979,
+      "word_count": 45
+    },
+    {
+      "text": "Atherosclerosis and myocardial damage were assessed through histology and magnetic resonance imaging, respectively.",
+      "start": 794.991,
+      "end": 801.641,
+      "word_count": 13
+    },
+    {
+      "text": "In the first experiment, red wine grape pomace reduced atherosclerotic lesions, improved antioxidant activity, and increased survival in mice with heart disease.",
+      "start": 801.654,
+      "end": 812.428,
+      "word_count": 22
+    },
+    {
+      "text": "In the second experiment, red wine grape pomace reduced premature death, changed T N F-alpha and I L-10 levels, and increased plasma antioxidant activity.",
+      "start": 812.441,
+      "end": 825.631,
+      "word_count": 24
+    },
+    {
+      "text": "Moreover, decreased atheromatous aortic and brachiocephalic plaque sizes and attenuated myocardial infarction and dysfunction were also observed.",
+      "start": 825.644,
+      "end": 834.269,
+      "word_count": 17
+    },
+    {
+      "text": "The authors suggested that red wine grape pomace flour intake may be used as a nonpharmacological therapeutic approach, contributing to decreased progression of atherosclerosis, reduced coronary heart disease, and improved cardiovascular outcomes.",
+      "start": 834.282,
+      "end": 849.444,
+      "word_count": 32
+    },
+    {
+      "text": "A study by Cheng and colleagues demonstrated the effects of Cabernet Sauvignon dry red wine supplementation on a model of atherosclerosis, ApoE knock-out mice on a C57BL/6 J background.",
+      "start": 849.457,
+      "end": 862.469,
+      "word_count": 29
+    },
+    {
+      "text": "Four groups of mice were assigned: normal control, model, low-dose Cabernet Sauvignon dry red wine at 3.1 milliliters per kilogram body weight, and high-dose Cabernet Sauvignon dry red wine at 6.2 milliliters per kilogram body weight.",
+      "start": 862.481,
+      "end": 878.682,
+      "word_count": 36
+    },
+    {
+      "text": "Mice in the normal control group were fed a normal diet, while those in the other groups were fed a high-fat diet for 18 weeks.",
+      "start": 878.694,
+      "end": 886.519,
+      "word_count": 25
+    },
+    {
+      "text": "Mice in the low-dose and high-dose Cabernet Sauvignon dry red wine groups were orally administered with Cabernet Sauvignon dry red wine for 18 weeks, while those in the normal control and model groups were administered an equivalent volume of distilled water.",
+      "start": 886.532,
+      "end": 902.082,
+      "word_count": 41
+    },
+    {
+      "text": "Blood lipid level, atherosclerotic lesion area, aortic inner wall cell damage, and inflammation, among other indicators of atherosclerosis, were examined after 18 weeks of treatment with Cabernet Sauvignon dry red wine.",
+      "start": 902.294,
+      "end": 917.582,
+      "word_count": 31
+    },
+    {
+      "text": "Supplementation with Cabernet Sauvignon dry red wine reduced atherosclerotic lesion size, improved hyperlipidemia and hepatic lipid accumulation mediated by A M P K activation, and promoted lipid metabolism via the P P A R gamma, L X R-alpha, A B C A 1 pathway.",
+      "start": 917.594,
+      "end": 936.769,
+      "word_count": 44
+    },
+    {
+      "text": "Cabernet Sauvignon dry red wine also increased beneficial gut microbiota.",
+      "start": 936.782,
+      "end": 942.006,
+      "word_count": 10
+    },
+    {
+      "text": "Others have examined the effects of grape products on metabolic markers of dyslipidemia, cholesterol metabolism, and diabetes, as well as antioxidant status.",
+      "start": 942.019,
+      "end": 953.307,
+      "word_count": 22
+    },
+    {
+      "text": "Diabetes and dyslipidemia were induced in adult female mice using alloxan.",
+      "start": 953.319,
+      "end": 957.682,
+      "word_count": 11
+    },
+    {
+      "text": "The mice were randomly placed into five groups of 10: Group 1, normal control mice received distilled water; Group 2, positive control diabetic untreated mice, only distilled water; Group 3, diabetic mice, 200 milligrams per kilogram body weight per day of grape seed extract in distilled water; Group 4, diabetic mice, 400 milligrams per kilogram; and Group 5, diabetic mice, 600 milligrams per kilogram.",
+      "start": 957.694,
+      "end": 986.669,
+      "word_count": 64
+    },
+    {
+      "text": "After six weeks, serum and liver tissue homogenate parameters were evaluated.",
+      "start": 986.856,
+      "end": 992.532,
+      "word_count": 11
+    },
+    {
+      "text": "Grape seed extract at the highest dose was able to improve the lipid profile to normal levels.",
+      "start": 992.544,
+      "end": 998.794,
+      "word_count": 17
+    },
+    {
+      "text": "In addition, kidney and liver functions were reestablished compared to the diabetic control group.",
+      "start": 998.856,
+      "end": 1004.919,
+      "word_count": 14
+    },
+    {
+      "text": "Recently, Wang and colleagues employed pigs to demonstrate the effects of different doses of a grape seed proanthocyanidin extract: 0 milligrams, 50 milligrams, 100 milligrams, and 200 milligrams of grape seed proanthocyanidin extract per kilogram of feed for 7 weeks.",
+      "start": 1004.932,
+      "end": 1023.419,
+      "word_count": 40
+    },
+    {
+      "text": "On the 49th day of the feeding trial, the pigs were sacrificed after blood collection; liver and longissimus dorsi muscle were also collected.",
+      "start": 1023.432,
+      "end": 1032.444,
+      "word_count": 23
+    },
+    {
+      "text": "The effects of grape seed proanthocyanidin extract on cholesterol metabolism, lipid metabolism, and antioxidant status were measured by various parameters.",
+      "start": 1032.457,
+      "end": 1044.069,
+      "word_count": 20
+    },
+    {
+      "text": "Grape seed proanthocyanidin extract supplementation improved cholesterol metabolism by decreasing total cholesterol and triglyceride in longissimus dorsi muscle and decreasing the expression and activities of 3-hydroxy-3-methylglutaryl coenzyme A reductase and fatty acid synthase, and antioxidant status by increasing serum and liver antioxidant enzymes and reducing oxidative marker malondialdehyde.",
+      "start": 1044.082,
+      "end": 1070.169,
+      "word_count": 48
+    },
+    {
+      "text": "Given that atherosclerosis is a chronic process, it is important to evaluate grape supplementation in aged animal models with known risk factors for developing atherosclerosis.",
+      "start": 1070.181,
+      "end": 1080.944,
+      "word_count": 25
+    },
+    {
+      "text": "Sierra Cruz and colleagues fed aged female rats, 21 months old, with a high-fat, high-sucrose diet, cafeteria diet, for 11 weeks.",
+      "start": 1080.957,
+      "end": 1091.894,
+      "word_count": 21
+    },
+    {
+      "text": "Grape seed proanthocyanidin extract at 500 milligrams per kilogram body weight was administered 10 days prior to the cafeteria diet as a preventive treatment for a group.",
+      "start": 1091.907,
+      "end": 1103.898,
+      "word_count": 27
+    },
+    {
+      "text": "The other group simultaneously received grape seed proanthocyanidin extract treatment with the cafeteria diet.",
+      "start": 1103.91,
+      "end": 1111.648,
+      "word_count": 14
+    },
+    {
+      "text": "Body weight, metabolic parameters, liver steatosis, and systemic inflammation were analyzed.",
+      "start": 1111.823,
+      "end": 1117.948,
+      "word_count": 11
+    },
+    {
+      "text": "The preventive administration of grape seed proanthocyanidin extract reduced mesenteric adiposity, while grape seed proanthocyanidin extract administered simultaneously with the cafeteria diet was effective in reducing body weight, total adiposity, and liver steatosis.",
+      "start": 1117.96,
+      "end": 1135.373,
+      "word_count": 33
+    },
+    {
+      "text": "In conclusion, in spite of the heterogeneity of these studies, the reviewed results on animal studies demonstrated that grape and grape products were proven to have hypotensive, hypolipidemic, and antiatherosclerotic effects compared to control treatment.",
+      "start": 1135.386,
+      "end": 1148.311,
+      "word_count": 31
+    }
+  ],
+  "total_duration": 1148.311,
+  "voice": "en-US-AriaNeural",
+  "title": "5 Animal Studies"
+}

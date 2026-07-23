@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Wistar",
+      "start": 0.109,
+      "end": 0.594,
+      "duration": 0.485
+    },
+    {
+      "text": "rat",
+      "start": 0.609,
+      "end": 1.153,
+      "duration": 0.544
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Wistar rat",
+      "start": 0.109,
+      "end": 1.153,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.153,
+  "voice": "en-US-AriaNeural",
+  "text": "Wistar rat"
+}

@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Frontal",
+      "start": 0.109,
+      "end": 0.653,
+      "duration": 0.544
+    },
+    {
+      "text": "cortex",
+      "start": 0.668,
+      "end": 1.594,
+      "duration": 0.926
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Frontal cortex",
+      "start": 0.109,
+      "end": 1.594,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.594,
+  "voice": "en-US-AriaNeural",
+  "text": "Frontal cortex"
+}

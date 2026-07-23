@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "SOD",
+      "start": 0.109,
+      "end": 0.918,
+      "duration": 0.809
+    }
+  ],
+  "sentences": [
+    {
+      "text": "SOD",
+      "start": 0.109,
+      "end": 0.918,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 0.918,
+  "voice": "en-US-AriaNeural",
+  "text": "SOD"
+}

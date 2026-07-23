@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "EEG",
+      "start": 0.109,
+      "end": 1.153,
+      "duration": 1.044
+    }
+  ],
+  "sentences": [
+    {
+      "text": "EEG",
+      "start": 0.109,
+      "end": 1.153,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.153,
+  "voice": "en-US-AriaNeural",
+  "text": "EEG"
+}

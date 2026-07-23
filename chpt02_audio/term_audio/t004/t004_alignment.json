@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Catechin",
+      "start": 0.109,
+      "end": 0.741,
+      "duration": 0.632
+    },
+    {
+      "text": "gallate",
+      "start": 0.756,
+      "end": 1.476,
+      "duration": 0.721
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Catechin gallate",
+      "start": 0.109,
+      "end": 1.476,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.476,
+  "voice": "en-US-AriaNeural",
+  "text": "Catechin gallate"
+}

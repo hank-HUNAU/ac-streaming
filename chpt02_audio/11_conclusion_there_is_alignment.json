@@ -1,0 +1,633 @@
+{
+  "words": [
+    {
+      "text": "Conclusion",
+      "start": 0.1,
+      "end": 0.9,
+      "duration": 0.8
+    },
+    {
+      "text": "There",
+      "start": 1.762,
+      "end": 2.013,
+      "duration": 0.25
+    },
+    {
+      "text": "is",
+      "start": 2.025,
+      "end": 2.15,
+      "duration": 0.125
+    },
+    {
+      "text": "strong",
+      "start": 2.163,
+      "end": 2.55,
+      "duration": 0.388
+    },
+    {
+      "text": "and",
+      "start": 2.562,
+      "end": 2.675,
+      "duration": 0.113
+    },
+    {
+      "text": "convincing",
+      "start": 2.688,
+      "end": 3.3,
+      "duration": 0.613
+    },
+    {
+      "text": "evidence",
+      "start": 3.312,
+      "end": 3.775,
+      "duration": 0.463
+    },
+    {
+      "text": "derived",
+      "start": 3.788,
+      "end": 4.25,
+      "duration": 0.463
+    },
+    {
+      "text": "from",
+      "start": 4.263,
+      "end": 4.425,
+      "duration": 0.163
+    },
+    {
+      "text": "epidemiological",
+      "start": 4.438,
+      "end": 5.487,
+      "duration": 1.05
+    },
+    {
+      "text": "data",
+      "start": 5.5,
+      "end": 5.85,
+      "duration": 0.35
+    },
+    {
+      "text": "clinical",
+      "start": 6.175,
+      "end": 6.588,
+      "duration": 0.412
+    },
+    {
+      "text": "interventions",
+      "start": 6.6,
+      "end": 7.45,
+      "duration": 0.85
+    },
+    {
+      "text": "and",
+      "start": 7.7,
+      "end": 7.938,
+      "duration": 0.237
+    },
+    {
+      "text": "animal",
+      "start": 7.95,
+      "end": 8.325,
+      "duration": 0.375
+    },
+    {
+      "text": "and",
+      "start": 8.338,
+      "end": 8.463,
+      "duration": 0.125
+    },
+    {
+      "text": "cell",
+      "start": 8.475,
+      "end": 8.738,
+      "duration": 0.263
+    },
+    {
+      "text": "studies",
+      "start": 8.75,
+      "end": 9.188,
+      "duration": 0.438
+    },
+    {
+      "text": "documenting",
+      "start": 9.2,
+      "end": 9.875,
+      "duration": 0.675
+    },
+    {
+      "text": "the",
+      "start": 9.887,
+      "end": 9.975,
+      "duration": 0.087
+    },
+    {
+      "text": "protective",
+      "start": 9.988,
+      "end": 10.488,
+      "duration": 0.5
+    },
+    {
+      "text": "effects",
+      "start": 10.5,
+      "end": 10.938,
+      "duration": 0.438
+    },
+    {
+      "text": "of",
+      "start": 10.95,
+      "end": 11.037,
+      "duration": 0.087
+    },
+    {
+      "text": "grapes",
+      "start": 11.05,
+      "end": 11.525,
+      "duration": 0.475
+    },
+    {
+      "text": "grape",
+      "start": 11.762,
+      "end": 12.037,
+      "duration": 0.275
+    },
+    {
+      "text": "products",
+      "start": 12.05,
+      "end": 12.6,
+      "duration": 0.55
+    },
+    {
+      "text": "and",
+      "start": 12.838,
+      "end": 12.988,
+      "duration": 0.15
+    },
+    {
+      "text": "grape",
+      "start": 13.0,
+      "end": 13.338,
+      "duration": 0.338
+    },
+    {
+      "text": "components",
+      "start": 13.35,
+      "end": 13.925,
+      "duration": 0.575
+    },
+    {
+      "text": "against",
+      "start": 13.938,
+      "end": 14.287,
+      "duration": 0.35
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 14.3,
+      "end": 15.5,
+      "duration": 1.2
+    },
+    {
+      "text": "This",
+      "start": 16.375,
+      "end": 16.663,
+      "duration": 0.287
+    },
+    {
+      "text": "protection",
+      "start": 16.675,
+      "end": 17.25,
+      "duration": 0.575
+    },
+    {
+      "text": "results",
+      "start": 17.262,
+      "end": 17.7,
+      "duration": 0.438
+    },
+    {
+      "text": "from",
+      "start": 17.712,
+      "end": 17.887,
+      "duration": 0.175
+    },
+    {
+      "text": "numerous",
+      "start": 17.9,
+      "end": 18.325,
+      "duration": 0.425
+    },
+    {
+      "text": "effects",
+      "start": 18.337,
+      "end": 18.8,
+      "duration": 0.463
+    },
+    {
+      "text": "of",
+      "start": 18.812,
+      "end": 18.913,
+      "duration": 0.1
+    },
+    {
+      "text": "grape",
+      "start": 18.925,
+      "end": 19.225,
+      "duration": 0.3
+    },
+    {
+      "text": "polyphenols",
+      "start": 19.238,
+      "end": 19.95,
+      "duration": 0.713
+    },
+    {
+      "text": "or",
+      "start": 19.962,
+      "end": 20.125,
+      "duration": 0.163
+    },
+    {
+      "text": "other",
+      "start": 20.137,
+      "end": 20.363,
+      "duration": 0.225
+    },
+    {
+      "text": "components",
+      "start": 20.375,
+      "end": 20.962,
+      "duration": 0.588
+    },
+    {
+      "text": "present",
+      "start": 20.975,
+      "end": 21.413,
+      "duration": 0.438
+    },
+    {
+      "text": "in",
+      "start": 21.425,
+      "end": 21.512,
+      "duration": 0.087
+    },
+    {
+      "text": "grapes",
+      "start": 21.525,
+      "end": 21.913,
+      "duration": 0.388
+    },
+    {
+      "text": "on",
+      "start": 21.925,
+      "end": 22.062,
+      "duration": 0.138
+    },
+    {
+      "text": "metabolic",
+      "start": 22.075,
+      "end": 22.625,
+      "duration": 0.55
+    },
+    {
+      "text": "routes",
+      "start": 22.637,
+      "end": 23.038,
+      "duration": 0.4
+    },
+    {
+      "text": "and",
+      "start": 23.05,
+      "end": 23.25,
+      "duration": 0.2
+    },
+    {
+      "text": "signaling",
+      "start": 23.262,
+      "end": 23.8,
+      "duration": 0.537
+    },
+    {
+      "text": "pathways",
+      "start": 23.812,
+      "end": 24.35,
+      "duration": 0.537
+    },
+    {
+      "text": "associated",
+      "start": 24.363,
+      "end": 25.038,
+      "duration": 0.675
+    },
+    {
+      "text": "with",
+      "start": 25.05,
+      "end": 25.188,
+      "duration": 0.138
+    },
+    {
+      "text": "oxidative",
+      "start": 25.2,
+      "end": 25.812,
+      "duration": 0.613
+    },
+    {
+      "text": "stress",
+      "start": 25.825,
+      "end": 26.262,
+      "duration": 0.438
+    },
+    {
+      "text": "inflammation",
+      "start": 26.55,
+      "end": 27.375,
+      "duration": 0.825
+    },
+    {
+      "text": "platelet",
+      "start": 27.712,
+      "end": 28.125,
+      "duration": 0.412
+    },
+    {
+      "text": "activation",
+      "start": 28.137,
+      "end": 28.837,
+      "duration": 0.7
+    },
+    {
+      "text": "and",
+      "start": 29.038,
+      "end": 29.175,
+      "duration": 0.138
+    },
+    {
+      "text": "dyslipidemias",
+      "start": 29.188,
+      "end": 30.175,
+      "duration": 0.988
+    },
+    {
+      "text": "all",
+      "start": 30.512,
+      "end": 30.75,
+      "duration": 0.237
+    },
+    {
+      "text": "of",
+      "start": 30.762,
+      "end": 30.875,
+      "duration": 0.113
+    },
+    {
+      "text": "which",
+      "start": 30.887,
+      "end": 31.15,
+      "duration": 0.263
+    },
+    {
+      "text": "are",
+      "start": 31.163,
+      "end": 31.262,
+      "duration": 0.1
+    },
+    {
+      "text": "associated",
+      "start": 31.275,
+      "end": 31.975,
+      "duration": 0.7
+    },
+    {
+      "text": "with",
+      "start": 31.988,
+      "end": 32.112,
+      "duration": 0.125
+    },
+    {
+      "text": "the",
+      "start": 32.125,
+      "end": 32.212,
+      "duration": 0.087
+    },
+    {
+      "text": "pathology",
+      "start": 32.225,
+      "end": 32.862,
+      "duration": 0.637
+    },
+    {
+      "text": "that",
+      "start": 32.875,
+      "end": 33.038,
+      "duration": 0.163
+    },
+    {
+      "text": "leads",
+      "start": 33.05,
+      "end": 33.362,
+      "duration": 0.312
+    },
+    {
+      "text": "to",
+      "start": 33.375,
+      "end": 33.475,
+      "duration": 0.1
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 33.487,
+      "end": 34.775,
+      "duration": 1.288
+    },
+    {
+      "text": "Further",
+      "start": 35.638,
+      "end": 36.05,
+      "duration": 0.412
+    },
+    {
+      "text": "studies",
+      "start": 36.062,
+      "end": 36.5,
+      "duration": 0.438
+    },
+    {
+      "text": "are",
+      "start": 36.513,
+      "end": 36.638,
+      "duration": 0.125
+    },
+    {
+      "text": "still",
+      "start": 36.65,
+      "end": 36.95,
+      "duration": 0.3
+    },
+    {
+      "text": "required",
+      "start": 36.962,
+      "end": 37.487,
+      "duration": 0.525
+    },
+    {
+      "text": "to",
+      "start": 37.5,
+      "end": 37.612,
+      "duration": 0.113
+    },
+    {
+      "text": "evaluate",
+      "start": 37.625,
+      "end": 38.263,
+      "duration": 0.637
+    },
+    {
+      "text": "appropriate",
+      "start": 38.275,
+      "end": 38.837,
+      "duration": 0.562
+    },
+    {
+      "text": "dietary",
+      "start": 38.85,
+      "end": 39.413,
+      "duration": 0.562
+    },
+    {
+      "text": "recommendations",
+      "start": 39.425,
+      "end": 40.362,
+      "duration": 0.938
+    },
+    {
+      "text": "for",
+      "start": 40.375,
+      "end": 40.525,
+      "duration": 0.15
+    },
+    {
+      "text": "grapes",
+      "start": 40.538,
+      "end": 40.938,
+      "duration": 0.4
+    },
+    {
+      "text": "that",
+      "start": 40.95,
+      "end": 41.1,
+      "duration": 0.15
+    },
+    {
+      "text": "can",
+      "start": 41.112,
+      "end": 41.25,
+      "duration": 0.138
+    },
+    {
+      "text": "lead",
+      "start": 41.263,
+      "end": 41.487,
+      "duration": 0.225
+    },
+    {
+      "text": "to",
+      "start": 41.5,
+      "end": 41.587,
+      "duration": 0.087
+    },
+    {
+      "text": "both",
+      "start": 41.6,
+      "end": 41.837,
+      "duration": 0.237
+    },
+    {
+      "text": "the",
+      "start": 41.85,
+      "end": 41.95,
+      "duration": 0.1
+    },
+    {
+      "text": "prevention",
+      "start": 41.962,
+      "end": 42.638,
+      "duration": 0.675
+    },
+    {
+      "text": "and",
+      "start": 42.65,
+      "end": 42.825,
+      "duration": 0.175
+    },
+    {
+      "text": "amelioration",
+      "start": 42.837,
+      "end": 43.587,
+      "duration": 0.75
+    },
+    {
+      "text": "of",
+      "start": 43.6,
+      "end": 43.688,
+      "duration": 0.087
+    },
+    {
+      "text": "metabolic",
+      "start": 43.7,
+      "end": 44.288,
+      "duration": 0.588
+    },
+    {
+      "text": "dysregulations",
+      "start": 44.3,
+      "end": 45.288,
+      "duration": 0.988
+    },
+    {
+      "text": "leading",
+      "start": 45.3,
+      "end": 45.65,
+      "duration": 0.35
+    },
+    {
+      "text": "to",
+      "start": 45.663,
+      "end": 45.763,
+      "duration": 0.1
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 45.775,
+      "end": 47.038,
+      "duration": 1.262
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Conclusion.",
+      "start": 0.1,
+      "end": 0.9,
+      "word_count": 1
+    },
+    {
+      "text": "There is strong and convincing evidence derived from epidemiological data, clinical interventions, and animal and cell studies documenting the protective effects of grapes, grape products, and grape components against atherosclerosis.",
+      "start": 1.762,
+      "end": 15.5,
+      "word_count": 30
+    },
+    {
+      "text": "This protection results from numerous effects of grape polyphenols or other components present in grapes on metabolic routes and signaling pathways associated with oxidative stress, inflammation, platelet activation, and dyslipidemias, all of which are associated with the pathology that leads to atherosclerosis.",
+      "start": 16.375,
+      "end": 34.775,
+      "word_count": 42
+    },
+    {
+      "text": "Further studies are still required to evaluate appropriate dietary recommendations for grapes that can lead to both the prevention and amelioration of metabolic dysregulations leading to atherosclerosis.",
+      "start": 35.638,
+      "end": 47.038,
+      "word_count": 27
+    }
+  ],
+  "total_duration": 47.038,
+  "voice": "en-US-AriaNeural",
+  "text": "Conclusion. There is strong and convincing evidence derived from epidemiological data, clinical interventions, and animal and cell studies documenting the protective effects of grapes, grape products, and grape components against atherosclerosis. This protection results from numerous effects of grape polyphenols or other components present in grapes on metabolic routes and signaling pathways associated with oxidative stress, inflammation, platelet activation, and dyslipidemias, all of which are associated with the pathology that leads to atherosclerosis. Further studies are still required to evaluate appropriate dietary recommendations for grapes that can lead to both the prevention and amelioration of metabolic dysregulations leading to atherosclerosis."
+}

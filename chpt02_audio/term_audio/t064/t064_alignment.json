@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "NADPH",
+      "start": 0.109,
+      "end": 1.697,
+      "duration": 1.588
+    }
+  ],
+  "sentences": [
+    {
+      "text": "NADPH",
+      "start": 0.109,
+      "end": 1.697,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.697,
+  "voice": "en-US-AriaNeural",
+  "text": "NADPH"
+}

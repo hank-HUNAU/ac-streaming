@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "CRP",
+      "start": 0.109,
+      "end": 1.329,
+      "duration": 1.221
+    }
+  ],
+  "sentences": [
+    {
+      "text": "CRP",
+      "start": 0.109,
+      "end": 1.329,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.329,
+  "voice": "en-US-AriaNeural",
+  "text": "CRP"
+}

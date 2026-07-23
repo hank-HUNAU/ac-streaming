@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Lipid",
+      "start": 0.109,
+      "end": 0.579,
+      "duration": 0.471
+    },
+    {
+      "text": "accumulation",
+      "start": 0.594,
+      "end": 1.668,
+      "duration": 1.074
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Lipid accumulation",
+      "start": 0.109,
+      "end": 1.668,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.668,
+  "voice": "en-US-AriaNeural",
+  "text": "Lipid accumulation"
+}

@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "HFHFD",
+      "start": 0.109,
+      "end": 1.785,
+      "duration": 1.676
+    }
+  ],
+  "sentences": [
+    {
+      "text": "HFHFD",
+      "start": 0.109,
+      "end": 1.785,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.785,
+  "voice": "en-US-AriaNeural",
+  "text": "HFHFD"
+}

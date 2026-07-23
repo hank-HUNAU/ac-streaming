@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Smooth muscle cell proliferation",
+      "start": 0.109,
+      "end": 2.476,
+      "word_count": 4
+    }
+  ],
+  "total_duration": 2.476,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "NF-κB signaling pathway",
+      "start": 0.109,
+      "end": 2.447,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.447,
+  "voice": "en-US-AriaNeural"
+}

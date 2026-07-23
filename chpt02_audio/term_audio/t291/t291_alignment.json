@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Transcription",
+      "start": 0.109,
+      "end": 1.05,
+      "duration": 0.941
+    },
+    {
+      "text": "factors",
+      "start": 1.065,
+      "end": 1.874,
+      "duration": 0.809
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Transcription factors",
+      "start": 0.109,
+      "end": 1.874,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.874,
+  "voice": "en-US-AriaNeural",
+  "text": "Transcription factors"
+}

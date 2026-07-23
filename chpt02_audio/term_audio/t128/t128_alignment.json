@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "NF-κB",
+      "start": 0.109,
+      "end": 1.079,
+      "duration": 0.971
+    },
+    {
+      "text": "signaling",
+      "start": 1.094,
+      "end": 1.682,
+      "duration": 0.588
+    },
+    {
+      "text": "pathway",
+      "start": 1.697,
+      "end": 2.447,
+      "duration": 0.75
+    }
+  ],
+  "sentences": [
+    {
+      "text": "NF-κB signaling pathway",
+      "start": 0.109,
+      "end": 2.447,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.447,
+  "voice": "en-US-AriaNeural",
+  "text": "NF-κB signaling pathway"
+}

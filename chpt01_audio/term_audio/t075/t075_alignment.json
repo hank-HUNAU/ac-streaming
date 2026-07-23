@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Dentate",
+      "start": 0.109,
+      "end": 0.726,
+      "duration": 0.618
+    },
+    {
+      "text": "gyrus",
+      "start": 0.741,
+      "end": 1.476,
+      "duration": 0.735
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Dentate gyrus",
+      "start": 0.109,
+      "end": 1.476,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.476,
+  "voice": "en-US-AriaNeural",
+  "text": "Dentate gyrus"
+}

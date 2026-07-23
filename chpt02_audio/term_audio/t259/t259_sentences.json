@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "ET-1",
+      "start": 0.109,
+      "end": 1.079,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.079,
+  "voice": "en-US-AriaNeural"
+}

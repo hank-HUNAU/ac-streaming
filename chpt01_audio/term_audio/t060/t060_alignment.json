@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "NF-κB",
+      "start": 0.109,
+      "end": 1.094,
+      "duration": 0.985
+    },
+    {
+      "text": "pathway",
+      "start": 1.109,
+      "end": 1.918,
+      "duration": 0.809
+    }
+  ],
+  "sentences": [
+    {
+      "text": "NF-κB pathway",
+      "start": 0.109,
+      "end": 1.918,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.918,
+  "voice": "en-US-AriaNeural",
+  "text": "NF-κB pathway"
+}

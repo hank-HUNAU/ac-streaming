@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Grape",
+      "start": 0.109,
+      "end": 0.521,
+      "duration": 0.412
+    },
+    {
+      "text": "seed",
+      "start": 0.535,
+      "end": 0.874,
+      "duration": 0.338
+    },
+    {
+      "text": "oil",
+      "start": 0.888,
+      "end": 1.374,
+      "duration": 0.485
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Grape seed oil",
+      "start": 0.109,
+      "end": 1.374,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.374,
+  "voice": "en-US-AriaNeural",
+  "text": "Grape seed oil"
+}

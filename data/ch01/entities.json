@@ -1,0 +1,946 @@
+[
+  {
+    "id": 5,
+    "term": "Flavan-3-ols",
+    "normalized_name": "Flavan-3-ols",
+    "category": "CHEMICAL",
+    "synonyms": "黄烷-3-醇",
+    "audio_file": "term_audio/t005.mp3"
+  },
+  {
+    "id": 7,
+    "term": "Phenolic acids",
+    "normalized_name": "Phenolic acids",
+    "category": "CHEMICAL",
+    "synonyms": "酚酸",
+    "audio_file": "term_audio/t007.mp3"
+  },
+  {
+    "id": 9,
+    "term": "GSH",
+    "normalized_name": "Glutathione",
+    "category": "CHEMICAL",
+    "synonyms": "谷胱甘肽",
+    "audio_file": "term_audio/t009.mp3"
+  },
+  {
+    "id": 10,
+    "term": "ROS",
+    "normalized_name": "Reactive oxygen species",
+    "category": "CHEMICAL",
+    "synonyms": "活性氧",
+    "audio_file": "term_audio/t010.mp3"
+  },
+  {
+    "id": 11,
+    "term": "Hydrogen peroxide",
+    "normalized_name": "Hydrogen peroxide",
+    "category": "CHEMICAL",
+    "synonyms": "H₂O₂",
+    "audio_file": "term_audio/t011.mp3"
+  },
+  {
+    "id": 13,
+    "term": "Hydroxyl radicals",
+    "normalized_name": "Hydroxyl radicals",
+    "category": "CHEMICAL",
+    "synonyms": "•OH",
+    "audio_file": "term_audio/t013.mp3"
+  },
+  {
+    "id": 14,
+    "term": "Lipid peroxidation products",
+    "normalized_name": "Lipid peroxidation products",
+    "category": "CHEMICAL",
+    "synonyms": "脂质过氧化产物",
+    "audio_file": "term_audio/t014.mp3"
+  },
+  {
+    "id": 15,
+    "term": "TBARS",
+    "normalized_name": "Thiobarbituric acid reactive substances",
+    "category": "CHEMICAL",
+    "synonyms": "硫代巴比妥酸反应物",
+    "audio_file": "term_audio/t015.mp3"
+  },
+  {
+    "id": 16,
+    "term": "ABTS",
+    "normalized_name": "2,2'-Azino-bis(3-ethylbenzthiazoline-6-sulfonic acid)",
+    "category": "CHEMICAL",
+    "synonyms": "自由基清除能力测定试剂",
+    "audio_file": "term_audio/t016.mp3"
+  },
+  {
+    "id": 17,
+    "term": "FRAP",
+    "normalized_name": "Ferric reducing antioxidant power",
+    "category": "CHEMICAL",
+    "synonyms": "铁还原抗氧化能力",
+    "audio_file": "term_audio/t017.mp3"
+  },
+  {
+    "id": 18,
+    "term": "FDG",
+    "normalized_name": "Fluorodeoxyglucose",
+    "category": "CHEMICAL",
+    "synonyms": "氟代脱氧葡萄糖（PET示踪剂）",
+    "audio_file": "term_audio/t018.mp3"
+  },
+  {
+    "id": 19,
+    "term": "6-OHDA",
+    "normalized_name": "6-Hydroxydopamine",
+    "category": "CHEMICAL",
+    "synonyms": "6-羟基多巴胺（神经毒素）",
+    "audio_file": "term_audio/t019.mp3"
+  },
+  {
+    "id": 20,
+    "term": "VPA",
+    "normalized_name": "Valproic acid",
+    "category": "CHEMICAL",
+    "synonyms": "丙戊酸",
+    "audio_file": "term_audio/t020.mp3"
+  },
+  {
+    "id": 23,
+    "term": "Epicatechin sulfate",
+    "normalized_name": "Epicatechin sulfate",
+    "category": "CHEMICAL",
+    "synonyms": "硫酸表儿茶素",
+    "audio_file": "term_audio/t023.mp3"
+  },
+  {
+    "id": 24,
+    "term": "Petunidin glucuronide",
+    "normalized_name": "Petunidin glucuronide",
+    "category": "CHEMICAL",
+    "synonyms": "矮牵牛素葡萄糖醛酸苷",
+    "audio_file": "term_audio/t024.mp3"
+  },
+  {
+    "id": 26,
+    "term": "BDNF",
+    "normalized_name": "Brain-derived neurotrophic factor",
+    "category": "PROTEIN_GENE",
+    "synonyms": "脑源性神经营养因子",
+    "audio_file": "term_audio/t026.mp3"
+  },
+  {
+    "id": 27,
+    "term": "NGF",
+    "normalized_name": "Nerve growth factor",
+    "category": "PROTEIN_GENE",
+    "synonyms": "神经生长因子",
+    "audio_file": "term_audio/t027.mp3"
+  },
+  {
+    "id": 28,
+    "term": "SOD1",
+    "normalized_name": "Superoxide dismutase 1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "铜/锌超氧化物歧化酶",
+    "audio_file": "term_audio/t028.mp3"
+  },
+  {
+    "id": 29,
+    "term": "CAT",
+    "normalized_name": "Catalase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "过氧化氢酶",
+    "audio_file": "term_audio/t029.mp3"
+  },
+  {
+    "id": 30,
+    "term": "GPx",
+    "normalized_name": "Glutathione peroxidase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "谷胱甘肽过氧化物酶",
+    "audio_file": "term_audio/t030.mp3"
+  },
+  {
+    "id": 31,
+    "term": "CaMKII",
+    "normalized_name": "Calcium/calmodulin-dependent protein kinase II",
+    "category": "PROTEIN_GENE",
+    "synonyms": "钙/钙调蛋白依赖性蛋白激酶II",
+    "audio_file": "term_audio/t031.mp3"
+  },
+  {
+    "id": 33,
+    "term": "DCX",
+    "normalized_name": "Doublecortin",
+    "category": "PROTEIN_GENE",
+    "synonyms": "双皮质素（未成熟神经元标记物）",
+    "audio_file": "term_audio/t033.mp3"
+  },
+  {
+    "id": 34,
+    "term": "GFAP",
+    "normalized_name": "Glial fibrillary acidic protein",
+    "category": "PROTEIN_GENE",
+    "synonyms": "胶质纤维酸性蛋白（星形胶质细胞标记物）",
+    "audio_file": "term_audio/t034.mp3"
+  },
+  {
+    "id": 35,
+    "term": "Iba1",
+    "normalized_name": "Ionized calcium-binding adapter molecule 1",
+    "category": "PROTEIN_GENE",
+    "synonyms": "小胶质细胞标记物",
+    "audio_file": "term_audio/t035.mp3"
+  },
+  {
+    "id": 36,
+    "term": "α-Synuclein",
+    "normalized_name": "Alpha-synuclein",
+    "category": "PROTEIN_GENE",
+    "synonyms": "α-突触核蛋白（PD相关蛋白）",
+    "audio_file": "term_audio/t036.mp3"
+  },
+  {
+    "id": 37,
+    "term": "Amyloid beta",
+    "normalized_name": "Amyloid beta",
+    "category": "PROTEIN_GENE",
+    "synonyms": "Aβ（AD斑块成分）",
+    "audio_file": "term_audio/t037.mp3"
+  },
+  {
+    "id": 39,
+    "term": "Pro-BDNF",
+    "normalized_name": "Pro-brain-derived neurotrophic factor",
+    "category": "PROTEIN_GENE",
+    "synonyms": "BDNF前体",
+    "audio_file": "term_audio/t039.mp3"
+  },
+  {
+    "id": 40,
+    "term": "Choline acetyltransferase",
+    "normalized_name": "Choline acetyltransferase",
+    "category": "PROTEIN_GENE",
+    "synonyms": "胆碱乙酰转移酶",
+    "audio_file": "term_audio/t040.mp3"
+  },
+  {
+    "id": 42,
+    "term": "AD",
+    "normalized_name": "Alzheimer's disease",
+    "category": "DISEASE",
+    "synonyms": "阿尔茨海默病",
+    "audio_file": "term_audio/t042.mp3"
+  },
+  {
+    "id": 43,
+    "term": "PD",
+    "normalized_name": "Parkinson's disease",
+    "category": "DISEASE",
+    "synonyms": "帕金森病",
+    "audio_file": "term_audio/t043.mp3"
+  },
+  {
+    "id": 44,
+    "term": "MS",
+    "normalized_name": "Multiple sclerosis",
+    "category": "DISEASE",
+    "synonyms": "多发性硬化",
+    "audio_file": "term_audio/t044.mp3"
+  },
+  {
+    "id": 45,
+    "term": "GWI",
+    "normalized_name": "Gulf War illness",
+    "category": "DISEASE",
+    "synonyms": "海湾战争综合征",
+    "audio_file": "term_audio/t045.mp3"
+  },
+  {
+    "id": 46,
+    "term": "ASD",
+    "normalized_name": "Autism spectrum disorder",
+    "category": "DISEASE",
+    "synonyms": "孤独症谱系障碍",
+    "audio_file": "term_audio/t046.mp3"
+  },
+  {
+    "id": 47,
+    "term": "MCI",
+    "normalized_name": "Mild cognitive impairment",
+    "category": "DISEASE",
+    "synonyms": "轻度认知障碍",
+    "audio_file": "term_audio/t047.mp3"
+  },
+  {
+    "id": 48,
+    "term": "Ischemic stroke",
+    "normalized_name": "Ischemic stroke",
+    "category": "DISEASE",
+    "synonyms": "缺血性卒中",
+    "audio_file": "term_audio/t048.mp3"
+  },
+  {
+    "id": 53,
+    "term": "Cardiovascular disease",
+    "normalized_name": "Cardiovascular disease",
+    "category": "DISEASE",
+    "synonyms": "心血管疾病",
+    "audio_file": "term_audio/t053.mp3"
+  },
+  {
+    "id": 56,
+    "term": "Chronic cerebral hypoperfusion",
+    "normalized_name": "Chronic cerebral hypoperfusion",
+    "category": "DISEASE",
+    "synonyms": "慢性脑灌注不足",
+    "audio_file": "term_audio/t056.mp3"
+  },
+  {
+    "id": 57,
+    "term": "Ischemia/reperfusion injury",
+    "normalized_name": "Ischemia/reperfusion injury",
+    "category": "DISEASE",
+    "synonyms": "缺血再灌注损伤",
+    "audio_file": "term_audio/t057.mp3"
+  },
+  {
+    "id": 58,
+    "term": "Dopamine signaling pathway",
+    "normalized_name": "Dopamine signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "多巴胺信号通路",
+    "audio_file": "term_audio/t058.mp3"
+  },
+  {
+    "id": 59,
+    "term": "Cholinergic signaling pathway",
+    "normalized_name": "Cholinergic signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "胆碱能信号通路",
+    "audio_file": "term_audio/t059.mp3"
+  },
+  {
+    "id": 60,
+    "term": "NF-κB pathway",
+    "normalized_name": "NF-κB signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "核因子κB信号通路",
+    "audio_file": "term_audio/t060.mp3"
+  },
+  {
+    "id": 61,
+    "term": "Wnt signaling pathway",
+    "normalized_name": "Wnt signaling pathway",
+    "category": "PATHWAY",
+    "synonyms": "Wnt信号通路",
+    "audio_file": "term_audio/t061.mp3"
+  },
+  {
+    "id": 62,
+    "term": "Vitis vinifera",
+    "normalized_name": "Vitis vinifera",
+    "category": "SPECIES",
+    "synonyms": "欧洲葡萄",
+    "audio_file": "term_audio/t062.mp3"
+  },
+  {
+    "id": 63,
+    "term": "Vitis labrusca",
+    "normalized_name": "Vitis labrusca",
+    "category": "SPECIES",
+    "synonyms": "美洲葡萄",
+    "audio_file": "term_audio/t063.mp3"
+  },
+  {
+    "id": 64,
+    "term": "C57BL/6",
+    "normalized_name": "C57BL/6 mouse",
+    "category": "SPECIES",
+    "synonyms": "小鼠近交系",
+    "audio_file": "term_audio/t064.mp3"
+  },
+  {
+    "id": 65,
+    "term": "Balb/c",
+    "normalized_name": "Balb/c mouse",
+    "category": "SPECIES",
+    "synonyms": "小鼠近交系",
+    "audio_file": "term_audio/t065.mp3"
+  },
+  {
+    "id": 66,
+    "term": "3xTg-AD",
+    "normalized_name": "3xTg-AD mouse",
+    "category": "SPECIES",
+    "synonyms": "三重转基因阿尔茨海默病模型",
+    "audio_file": "term_audio/t066.mp3"
+  },
+  {
+    "id": 67,
+    "term": "A53T α-synuclein transgenic",
+    "normalized_name": "A53T α-synuclein transgenic mouse",
+    "category": "SPECIES",
+    "synonyms": "帕金森病转基因模型",
+    "audio_file": "term_audio/t067.mp3"
+  },
+  {
+    "id": 70,
+    "term": "Frontal cortex",
+    "normalized_name": "Frontal cortex",
+    "category": "ANATOMY",
+    "synonyms": "额叶皮层",
+    "audio_file": "term_audio/t070.mp3"
+  },
+  {
+    "id": 71,
+    "term": "SNc",
+    "normalized_name": "Substantia nigra pars compacta",
+    "category": "ANATOMY",
+    "synonyms": "黑质致密部",
+    "audio_file": "term_audio/t071.mp3"
+  },
+  {
+    "id": 75,
+    "term": "Dentate gyrus",
+    "normalized_name": "Dentate gyrus",
+    "category": "ANATOMY",
+    "synonyms": "齿状回",
+    "audio_file": "term_audio/t075.mp3"
+  },
+  {
+    "id": 76,
+    "term": "Parieto-temporal cortex",
+    "normalized_name": "Parieto-temporal cortex",
+    "category": "ANATOMY",
+    "synonyms": "顶颞皮层",
+    "audio_file": "term_audio/t076.mp3"
+  },
+  {
+    "id": 77,
+    "term": "Cingulate cortex",
+    "normalized_name": "Cingulate cortex",
+    "category": "ANATOMY",
+    "synonyms": "扣带回皮层",
+    "audio_file": "term_audio/t077.mp3"
+  },
+  {
+    "id": 78,
+    "term": "Temporal cortex",
+    "normalized_name": "Temporal cortex",
+    "category": "ANATOMY",
+    "synonyms": "颞叶皮层",
+    "audio_file": "term_audio/t078.mp3"
+  },
+  {
+    "id": 79,
+    "term": "BBB",
+    "normalized_name": "Blood-brain barrier",
+    "category": "ANATOMY",
+    "synonyms": "血脑屏障",
+    "audio_file": "term_audio/t079.mp3"
+  },
+  {
+    "id": 80,
+    "term": "Purkinje cells",
+    "normalized_name": "Purkinje cells",
+    "category": "ANATOMY",
+    "synonyms": "浦肯野细胞",
+    "audio_file": "term_audio/t080.mp3"
+  },
+  {
+    "id": 84,
+    "term": "Dopaminergic neurons",
+    "normalized_name": "Dopaminergic neurons",
+    "category": "ANATOMY",
+    "synonyms": "多巴胺能神经元",
+    "audio_file": "term_audio/t084.mp3"
+  },
+  {
+    "id": 85,
+    "term": "Noradrenergic neurons",
+    "normalized_name": "Noradrenergic neurons",
+    "category": "ANATOMY",
+    "synonyms": "去甲肾上腺素能神经元",
+    "audio_file": "term_audio/t085.mp3"
+  },
+  {
+    "id": 86,
+    "term": "Oxidative stress",
+    "normalized_name": "Oxidative stress",
+    "category": "PHENOMENA",
+    "synonyms": "氧化应激",
+    "audio_file": "term_audio/t086.mp3"
+  },
+  {
+    "id": 88,
+    "term": "Synaptic plasticity",
+    "normalized_name": "Synaptic plasticity",
+    "category": "PHENOMENA",
+    "synonyms": "突触可塑性",
+    "audio_file": "term_audio/t088.mp3"
+  },
+  {
+    "id": 91,
+    "term": "Lipid peroxidation",
+    "normalized_name": "Lipid peroxidation",
+    "category": "PHENOMENA",
+    "synonyms": "脂质过氧化",
+    "audio_file": "term_audio/t091.mp3"
+  },
+  {
+    "id": 92,
+    "term": "Protein carbonylation",
+    "normalized_name": "Protein carbonylation",
+    "category": "PHENOMENA",
+    "synonyms": "蛋白质羰基化",
+    "audio_file": "term_audio/t092.mp3"
+  },
+  {
+    "id": 99,
+    "term": "Antioxidant defense",
+    "normalized_name": "Antioxidant defense",
+    "category": "PHENOMENA",
+    "synonyms": "抗氧化防御",
+    "audio_file": "term_audio/t099.mp3"
+  },
+  {
+    "id": 100,
+    "term": "Grape juice",
+    "normalized_name": "Grape juice",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄汁",
+    "audio_file": "term_audio/t100.mp3"
+  },
+  {
+    "id": 101,
+    "term": "FDGP",
+    "normalized_name": "Freeze-dried grape powder",
+    "category": "INTERVENTION",
+    "synonyms": "冷冻干燥葡萄粉",
+    "audio_file": "term_audio/t101.mp3"
+  },
+  {
+    "id": 102,
+    "term": "GSE",
+    "normalized_name": "Grape seed extract",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄籽提取物",
+    "audio_file": "term_audio/t102.mp3"
+  },
+  {
+    "id": 103,
+    "term": "GSPE",
+    "normalized_name": "Grape seed polyphenol extract",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄籽多酚提取物",
+    "audio_file": "term_audio/t103.mp3"
+  },
+  {
+    "id": 104,
+    "term": "GSSPE",
+    "normalized_name": "Grape seed and skin polyphenol extract",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄籽和皮多酚提取物",
+    "audio_file": "term_audio/t104.mp3"
+  },
+  {
+    "id": 105,
+    "term": "GPPE",
+    "normalized_name": "Grape powder polyphenol extract",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄粉多酚提取物",
+    "audio_file": "term_audio/t105.mp3"
+  },
+  {
+    "id": 106,
+    "term": "GPC",
+    "normalized_name": "Grape polyphenol concentrate",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄多酚浓缩物",
+    "audio_file": "term_audio/t106.mp3"
+  },
+  {
+    "id": 107,
+    "term": "GSP",
+    "normalized_name": "Grape seed proanthocyanidins",
+    "category": "INTERVENTION",
+    "synonyms": "葡萄籽原花青素",
+    "audio_file": "term_audio/t107.mp3"
+  },
+  {
+    "id": 110,
+    "term": "Bordo grape juice",
+    "normalized_name": "Bordo grape juice",
+    "category": "INTERVENTION",
+    "synonyms": "巴西博尔多葡萄汁",
+    "audio_file": "term_audio/t110.mp3"
+  },
+  {
+    "id": 111,
+    "term": "Concord grape juice",
+    "normalized_name": "Concord grape juice",
+    "category": "INTERVENTION",
+    "synonyms": "康科德葡萄汁",
+    "audio_file": "term_audio/t111.mp3"
+  },
+  {
+    "id": 112,
+    "term": "Purple grape juice",
+    "normalized_name": "Purple grape juice",
+    "category": "INTERVENTION",
+    "synonyms": "紫葡萄汁",
+    "audio_file": "term_audio/t112.mp3"
+  },
+  {
+    "id": 115,
+    "term": "HFD",
+    "normalized_name": "High-fat diet",
+    "category": "INTERVENTION",
+    "synonyms": "高脂饮食",
+    "audio_file": "term_audio/t115.mp3"
+  },
+  {
+    "id": 116,
+    "term": "HFHFD",
+    "normalized_name": "High-fructose high-fat diet",
+    "category": "INTERVENTION",
+    "synonyms": "高果糖高脂饮食",
+    "audio_file": "term_audio/t116.mp3"
+  },
+  {
+    "id": 117,
+    "term": "MWM",
+    "normalized_name": "Morris water maze",
+    "category": "MEASUREMENT",
+    "synonyms": "莫里斯水迷宫",
+    "audio_file": "term_audio/t117.mp3"
+  },
+  {
+    "id": 118,
+    "term": "NOR",
+    "normalized_name": "Novel object recognition test",
+    "category": "MEASUREMENT",
+    "synonyms": "新物体识别测试",
+    "audio_file": "term_audio/t118.mp3"
+  },
+  {
+    "id": 119,
+    "term": "Passive avoidance test",
+    "normalized_name": "Passive avoidance test",
+    "category": "MEASUREMENT",
+    "synonyms": "被动回避测试",
+    "audio_file": "term_audio/t119.mp3"
+  },
+  {
+    "id": 120,
+    "term": "Open-field test",
+    "normalized_name": "Open-field test",
+    "category": "MEASUREMENT",
+    "synonyms": "旷场试验",
+    "audio_file": "term_audio/t120.mp3"
+  },
+  {
+    "id": 121,
+    "term": "Rotarod test",
+    "normalized_name": "Rotarod test",
+    "category": "MEASUREMENT",
+    "synonyms": "转棒测试",
+    "audio_file": "term_audio/t121.mp3"
+  },
+  {
+    "id": 122,
+    "term": "Grid descent test",
+    "normalized_name": "Grid descent test",
+    "category": "MEASUREMENT",
+    "synonyms": "网格下降测试",
+    "audio_file": "term_audio/t122.mp3"
+  },
+  {
+    "id": 123,
+    "term": "Y maze",
+    "normalized_name": "Y maze",
+    "category": "MEASUREMENT",
+    "synonyms": "Y迷宫",
+    "audio_file": "term_audio/t123.mp3"
+  },
+  {
+    "id": 124,
+    "term": "Elevated plus maze",
+    "normalized_name": "Elevated plus maze",
+    "category": "MEASUREMENT",
+    "synonyms": "高架十字迷宫",
+    "audio_file": "term_audio/t124.mp3"
+  },
+  {
+    "id": 125,
+    "term": "Step-down inhibitory test",
+    "normalized_name": "Step-down inhibitory test",
+    "category": "MEASUREMENT",
+    "synonyms": "下台抑制测试",
+    "audio_file": "term_audio/t125.mp3"
+  },
+  {
+    "id": 126,
+    "term": "EEG",
+    "normalized_name": "Electroencephalography",
+    "category": "MEASUREMENT",
+    "synonyms": "脑电图",
+    "audio_file": "term_audio/t126.mp3"
+  },
+  {
+    "id": 127,
+    "term": "FDG-PET",
+    "normalized_name": "Fluorodeoxyglucose positron emission tomography",
+    "category": "MEASUREMENT",
+    "synonyms": "氟代脱氧葡萄糖PET",
+    "audio_file": "term_audio/t127.mp3"
+  },
+  {
+    "id": 128,
+    "term": "MMSE",
+    "normalized_name": "Mini-Mental State Exam",
+    "category": "MEASUREMENT",
+    "synonyms": "简易精神状态检查量表",
+    "audio_file": "term_audio/t128.mp3"
+  },
+  {
+    "id": 129,
+    "term": "MoCA",
+    "normalized_name": "Montreal Cognitive Assessment",
+    "category": "MEASUREMENT",
+    "synonyms": "蒙特利尔认知评估量表",
+    "audio_file": "term_audio/t129.mp3"
+  },
+  {
+    "id": 130,
+    "term": "BDI",
+    "normalized_name": "Beck Depression Inventory",
+    "category": "MEASUREMENT",
+    "synonyms": "贝克抑郁量表",
+    "audio_file": "term_audio/t130.mp3"
+  },
+  {
+    "id": 131,
+    "term": "HARS",
+    "normalized_name": "Hamilton Anxiety Rating Scale",
+    "category": "MEASUREMENT",
+    "synonyms": "汉密尔顿焦虑量表",
+    "audio_file": "term_audio/t131.mp3"
+  },
+  {
+    "id": 132,
+    "term": "RBANS",
+    "normalized_name": "Repeatable Battery for the Assessment of Neuropsychological Status",
+    "category": "MEASUREMENT",
+    "synonyms": "可重复神经心理状态评定量表",
+    "audio_file": "term_audio/t132.mp3"
+  },
+  {
+    "id": 133,
+    "term": "CANTAB",
+    "normalized_name": "Cambridge Neuropsychological Test Automated Battery",
+    "category": "MEASUREMENT",
+    "synonyms": "剑桥神经心理测试成套",
+    "audio_file": "term_audio/t133.mp3"
+  },
+  {
+    "id": 134,
+    "term": "RCAT",
+    "normalized_name": "Revelian Cognitive Ability Test",
+    "category": "MEASUREMENT",
+    "synonyms": "雷维利亚认知能力测试",
+    "audio_file": "term_audio/t134.mp3"
+  },
+  {
+    "id": 135,
+    "term": "PHQ-15",
+    "normalized_name": "Patient Health Questionnaire-15",
+    "category": "MEASUREMENT",
+    "synonyms": "患者健康问卷（疲劳）",
+    "audio_file": "term_audio/t135.mp3"
+  },
+  {
+    "id": 136,
+    "term": "Apomorphine-induced rotation test",
+    "normalized_name": "Apomorphine-induced rotation test",
+    "category": "MEASUREMENT",
+    "synonyms": "阿朴吗啡诱导旋转试验",
+    "audio_file": "term_audio/t136.mp3"
+  },
+  {
+    "id": 137,
+    "term": "Latency to platform",
+    "normalized_name": "Latency to platform",
+    "category": "MEASUREMENT",
+    "synonyms": "到达平台潜伏期",
+    "audio_file": "term_audio/t137.mp3"
+  },
+  {
+    "id": 138,
+    "term": "Probe test",
+    "normalized_name": "Probe test",
+    "category": "MEASUREMENT",
+    "synonyms": "探索试验",
+    "audio_file": "term_audio/t138.mp3"
+  },
+  {
+    "id": 139,
+    "term": "Discrimination index",
+    "normalized_name": "Discrimination index",
+    "category": "MEASUREMENT",
+    "synonyms": "辨别指数",
+    "audio_file": "term_audio/t139.mp3"
+  },
+  {
+    "id": 140,
+    "term": "Step-down latency",
+    "normalized_name": "Step-down latency",
+    "category": "MEASUREMENT",
+    "synonyms": "下台潜伏期",
+    "audio_file": "term_audio/t140.mp3"
+  },
+  {
+    "id": 141,
+    "term": "Neurological score",
+    "normalized_name": "Neurological score",
+    "category": "MEASUREMENT",
+    "synonyms": "神经学评分",
+    "audio_file": "term_audio/t141.mp3"
+  },
+  {
+    "id": 142,
+    "term": "Pain sensitivity",
+    "normalized_name": "Pain sensitivity",
+    "category": "MEASUREMENT",
+    "synonyms": "痛觉敏感性",
+    "audio_file": "term_audio/t142.mp3"
+  },
+  {
+    "id": 143,
+    "term": "Body weight",
+    "normalized_name": "Body weight",
+    "category": "MEASUREMENT",
+    "synonyms": "体重",
+    "audio_file": "term_audio/t143.mp3"
+  },
+  {
+    "id": 144,
+    "term": "Blood pressure",
+    "normalized_name": "Blood pressure",
+    "category": "MEASUREMENT",
+    "synonyms": "血压",
+    "audio_file": "term_audio/t144.mp3"
+  },
+  {
+    "id": 145,
+    "term": "Flow-mediated dilation",
+    "normalized_name": "Flow-mediated dilation",
+    "category": "MEASUREMENT",
+    "synonyms": "血流介导的血管扩张",
+    "audio_file": "term_audio/t145.mp3"
+  },
+  {
+    "id": 146,
+    "term": "Plasma polyphenol levels",
+    "normalized_name": "Plasma polyphenol levels",
+    "category": "MEASUREMENT",
+    "synonyms": "血浆多酚水平",
+    "audio_file": "term_audio/t146.mp3"
+  },
+  {
+    "id": 147,
+    "term": "Serum TBARS",
+    "normalized_name": "Serum thiobarbituric acid reactive substances",
+    "category": "MEASUREMENT",
+    "synonyms": "血清TBARS",
+    "audio_file": "term_audio/t147.mp3"
+  },
+  {
+    "id": 148,
+    "term": "Serum glucose",
+    "normalized_name": "Serum glucose",
+    "category": "MEASUREMENT",
+    "synonyms": "血清葡萄糖",
+    "audio_file": "term_audio/t148.mp3"
+  },
+  {
+    "id": 149,
+    "term": "Serum uric acid",
+    "normalized_name": "Serum uric acid",
+    "category": "MEASUREMENT",
+    "synonyms": "血清尿酸",
+    "audio_file": "term_audio/t149.mp3"
+  },
+  {
+    "id": 150,
+    "term": "BMI",
+    "normalized_name": "Body mass index",
+    "category": "MEASUREMENT",
+    "synonyms": "体重指数",
+    "audio_file": "term_audio/t150.mp3"
+  },
+  {
+    "id": 151,
+    "term": "Cerebral glucose metabolism",
+    "normalized_name": "Cerebral glucose metabolism",
+    "category": "MEASUREMENT",
+    "synonyms": "脑葡萄糖代谢",
+    "audio_file": "term_audio/t151.mp3"
+  },
+  {
+    "id": 152,
+    "term": "Neurotrophic factors",
+    "normalized_name": "Neurotrophic factors",
+    "category": "MISC",
+    "synonyms": "神经营养因子（总称）",
+    "audio_file": "term_audio/t152.mp3"
+  },
+  {
+    "id": 153,
+    "term": "Synaptic markers",
+    "normalized_name": "Synaptic markers",
+    "category": "MISC",
+    "synonyms": "突触标记物",
+    "audio_file": "term_audio/t153.mp3"
+  },
+  {
+    "id": 154,
+    "term": "Inflammatory markers",
+    "normalized_name": "Inflammatory markers",
+    "category": "MISC",
+    "synonyms": "炎症标记物",
+    "audio_file": "term_audio/t154.mp3"
+  },
+  {
+    "id": 155,
+    "term": "Antioxidant enzymes",
+    "normalized_name": "Antioxidant enzymes",
+    "category": "MISC",
+    "synonyms": "抗氧化酶",
+    "audio_file": "term_audio/t155.mp3"
+  },
+  {
+    "id": 162,
+    "term": "Clinical trials",
+    "normalized_name": "Clinical trials",
+    "category": "MISC",
+    "synonyms": "临床试验",
+    "audio_file": "term_audio/t162.mp3"
+  },
+  {
+    "id": 163,
+    "term": "In vivo models",
+    "normalized_name": "In vivo models",
+    "category": "MISC",
+    "synonyms": "体内模型",
+    "audio_file": "term_audio/t163.mp3"
+  },
+  {
+    "id": 164,
+    "term": "In vitro assays",
+    "normalized_name": "In vitro assays",
+    "category": "MISC",
+    "synonyms": "体外试验",
+    "audio_file": "term_audio/t164.mp3"
+  }
+]

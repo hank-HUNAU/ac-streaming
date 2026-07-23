@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Neurological",
+      "start": 0.109,
+      "end": 1.079,
+      "duration": 0.971
+    },
+    {
+      "text": "score",
+      "start": 1.094,
+      "end": 1.697,
+      "duration": 0.603
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Neurological score",
+      "start": 0.109,
+      "end": 1.697,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.697,
+  "voice": "en-US-AriaNeural",
+  "text": "Neurological score"
+}

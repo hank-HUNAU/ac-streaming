@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Cholinergic",
+      "start": 0.109,
+      "end": 0.976,
+      "duration": 0.868
+    },
+    {
+      "text": "signaling",
+      "start": 0.991,
+      "end": 1.609,
+      "duration": 0.618
+    },
+    {
+      "text": "pathway",
+      "start": 1.624,
+      "end": 2.403,
+      "duration": 0.779
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Cholinergic signaling pathway",
+      "start": 0.109,
+      "end": 2.403,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.403,
+  "voice": "en-US-AriaNeural",
+  "text": "Cholinergic signaling pathway"
+}

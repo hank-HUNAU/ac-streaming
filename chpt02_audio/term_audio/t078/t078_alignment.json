@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "MMP-9",
+      "start": 0.109,
+      "end": 1.374,
+      "duration": 1.265
+    }
+  ],
+  "sentences": [
+    {
+      "text": "MMP-9",
+      "start": 0.109,
+      "end": 1.374,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.374,
+  "voice": "en-US-AriaNeural",
+  "text": "MMP-9"
+}

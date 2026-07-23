@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "A53T",
+      "start": 0.109,
+      "end": 1.374,
+      "duration": 1.265
+    },
+    {
+      "text": "α-synuclein",
+      "start": 1.388,
+      "end": 2.418,
+      "duration": 1.029
+    },
+    {
+      "text": "transgenic",
+      "start": 2.432,
+      "end": 3.462,
+      "duration": 1.029
+    }
+  ],
+  "sentences": [
+    {
+      "text": "A53T α-synuclein transgenic",
+      "start": 0.109,
+      "end": 3.462,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 3.462,
+  "voice": "en-US-AriaNeural",
+  "text": "A53T α-synuclein transgenic"
+}

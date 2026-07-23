@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Parieto-temporal",
+      "start": 0.109,
+      "end": 1.3,
+      "duration": 1.191
+    },
+    {
+      "text": "cortex",
+      "start": 1.315,
+      "end": 2.226,
+      "duration": 0.912
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Parieto-temporal cortex",
+      "start": 0.109,
+      "end": 2.226,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 2.226,
+  "voice": "en-US-AriaNeural",
+  "text": "Parieto-temporal cortex"
+}

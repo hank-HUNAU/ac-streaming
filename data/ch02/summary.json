@@ -1,0 +1,87 @@
+{
+  "id": "ch02",
+  "title": "02 Grapes and Atherosclerosis",
+  "total_sentences": 282,
+  "total_duration_s": 3414.2,
+  "total_terms": 324,
+  "total_sections": 11,
+  "sections": [
+    {
+      "id": "1_abstract_grapes_are",
+      "title": "Abstract",
+      "sentence_count": 8,
+      "word_count": 210,
+      "duration_s": 102.9
+    },
+    {
+      "id": "2_introduction_cardiovascular_diseases",
+      "title": "Introduction",
+      "sentence_count": 32,
+      "word_count": 787,
+      "duration_s": 364.9
+    },
+    {
+      "id": "3_grape_composition_grapes",
+      "title": "Grape Composition",
+      "sentence_count": 58,
+      "word_count": 1372,
+      "duration_s": 661.0
+    },
+    {
+      "id": "4_epidemiological_information_epidemiological",
+      "title": "Epidemiological Info",
+      "sentence_count": 17,
+      "word_count": 422,
+      "duration_s": 194.0
+    },
+    {
+      "id": "5_clinical_studies_it",
+      "title": "Clinical Studies Intro",
+      "sentence_count": 6,
+      "word_count": 114,
+      "duration_s": 56.3
+    },
+    {
+      "id": "6_endothelial_dysfunction_and",
+      "title": "Endothelial Dysfunction",
+      "sentence_count": 22,
+      "word_count": 655,
+      "duration_s": 293.2
+    },
+    {
+      "id": "7_dyslipidemia_and_l",
+      "title": "Dyslipidemia & LDL Oxidation",
+      "sentence_count": 16,
+      "word_count": 429,
+      "duration_s": 185.4
+    },
+    {
+      "id": "8_inflammation_and_oxidative",
+      "title": "Inflammation & Oxidative Stress",
+      "sentence_count": 10,
+      "word_count": 283,
+      "duration_s": 126.1
+    },
+    {
+      "id": "9_animal_studies_different",
+      "title": "Animal Studies",
+      "sentence_count": 89,
+      "word_count": 2460,
+      "duration_s": 1148.3
+    },
+    {
+      "id": "10_cell_studies_cell",
+      "title": "Cell Studies",
+      "sentence_count": 20,
+      "word_count": 511,
+      "duration_s": 235.1
+    },
+    {
+      "id": "11_conclusion_there_is",
+      "title": "Conclusion",
+      "sentence_count": 4,
+      "word_count": 100,
+      "duration_s": 47.0
+    }
+  ]
+}

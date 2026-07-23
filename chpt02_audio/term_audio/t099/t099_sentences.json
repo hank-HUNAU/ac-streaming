@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "GST",
+      "start": 0.109,
+      "end": 1.241,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.241,
+  "voice": "en-US-AriaNeural"
+}

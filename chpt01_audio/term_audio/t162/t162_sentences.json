@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Clinical trials",
+      "start": 0.109,
+      "end": 1.432,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.432,
+  "voice": "en-US-AriaNeural"
+}

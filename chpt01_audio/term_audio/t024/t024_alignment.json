@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Petunidin",
+      "start": 0.109,
+      "end": 0.815,
+      "duration": 0.706
+    },
+    {
+      "text": "glucuronide",
+      "start": 0.829,
+      "end": 1.859,
+      "duration": 1.029
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Petunidin glucuronide",
+      "start": 0.109,
+      "end": 1.859,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.859,
+  "voice": "en-US-AriaNeural",
+  "text": "Petunidin glucuronide"
+}

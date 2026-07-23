@@ -1,0 +1,39 @@
+{
+  "words": [
+    {
+      "text": "LDL",
+      "start": 0.109,
+      "end": 0.8,
+      "duration": 0.691
+    },
+    {
+      "text": "/",
+      "start": 0.815,
+      "end": 1.271,
+      "duration": 0.456
+    },
+    {
+      "text": "HDL",
+      "start": 1.285,
+      "end": 1.976,
+      "duration": 0.691
+    },
+    {
+      "text": "ratio",
+      "start": 1.991,
+      "end": 2.668,
+      "duration": 0.676
+    }
+  ],
+  "sentences": [
+    {
+      "text": "LDL/HDL ratio HDL ratio",
+      "start": 0.109,
+      "end": 2.668,
+      "word_count": 4
+    }
+  ],
+  "total_duration": 2.668,
+  "voice": "en-US-AriaNeural",
+  "text": "LDL/HDL ratio"
+}

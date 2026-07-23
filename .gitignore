@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.wav
+*.srt
+*.log
+*_alignment.json
+*_batch_tasks.json
+batch_report.json

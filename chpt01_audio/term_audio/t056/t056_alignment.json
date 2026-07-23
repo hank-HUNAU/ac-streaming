@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Chronic",
+      "start": 0.109,
+      "end": 0.624,
+      "duration": 0.515
+    },
+    {
+      "text": "cerebral",
+      "start": 0.638,
+      "end": 1.256,
+      "duration": 0.618
+    },
+    {
+      "text": "hypoperfusion",
+      "start": 1.271,
+      "end": 2.462,
+      "duration": 1.191
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Chronic cerebral hypoperfusion",
+      "start": 0.109,
+      "end": 2.462,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.462,
+  "voice": "en-US-AriaNeural",
+  "text": "Chronic cerebral hypoperfusion"
+}

@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "SHR",
+      "start": 0.109,
+      "end": 1.241,
+      "duration": 1.132
+    }
+  ],
+  "sentences": [
+    {
+      "text": "SHR",
+      "start": 0.109,
+      "end": 1.241,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.241,
+  "voice": "en-US-AriaNeural",
+  "text": "SHR"
+}

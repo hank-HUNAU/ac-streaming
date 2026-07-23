@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "AMPK",
+      "start": 0.109,
+      "end": 1.388,
+      "duration": 1.279
+    }
+  ],
+  "sentences": [
+    {
+      "text": "AMPK",
+      "start": 0.109,
+      "end": 1.388,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.388,
+  "voice": "en-US-AriaNeural",
+  "text": "AMPK"
+}

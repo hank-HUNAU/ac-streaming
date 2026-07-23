@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Protein",
+      "start": 0.109,
+      "end": 0.756,
+      "duration": 0.647
+    },
+    {
+      "text": "carbonylation",
+      "start": 0.771,
+      "end": 1.932,
+      "duration": 1.162
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Protein carbonylation",
+      "start": 0.109,
+      "end": 1.932,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.932,
+  "voice": "en-US-AriaNeural",
+  "text": "Protein carbonylation"
+}

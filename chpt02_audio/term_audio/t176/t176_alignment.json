@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Adipose",
+      "start": 0.109,
+      "end": 0.741,
+      "duration": 0.632
+    },
+    {
+      "text": "tissue",
+      "start": 0.756,
+      "end": 1.374,
+      "duration": 0.618
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Adipose tissue",
+      "start": 0.109,
+      "end": 1.374,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.374,
+  "voice": "en-US-AriaNeural",
+  "text": "Adipose tissue"
+}

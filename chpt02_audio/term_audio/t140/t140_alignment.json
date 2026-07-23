@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "C57BL",
+      "start": 0.109,
+      "end": 1.785,
+      "duration": 1.676
+    },
+    {
+      "text": "/",
+      "start": 1.8,
+      "end": 2.241,
+      "duration": 0.441
+    },
+    {
+      "text": "6",
+      "start": 2.256,
+      "end": 2.888,
+      "duration": 0.632
+    }
+  ],
+  "sentences": [
+    {
+      "text": "C57BL/6 / 6",
+      "start": 0.109,
+      "end": 2.888,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.888,
+  "voice": "en-US-AriaNeural",
+  "text": "C57BL/6"
+}

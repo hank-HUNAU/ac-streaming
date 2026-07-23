@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Lipid",
+      "start": 0.109,
+      "end": 0.594,
+      "duration": 0.485
+    },
+    {
+      "text": "profile",
+      "start": 0.609,
+      "end": 1.418,
+      "duration": 0.809
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Lipid profile",
+      "start": 0.109,
+      "end": 1.418,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.418,
+  "voice": "en-US-AriaNeural",
+  "text": "Lipid profile"
+}

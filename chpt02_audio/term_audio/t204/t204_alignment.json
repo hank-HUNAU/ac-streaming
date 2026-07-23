@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Freeze-dried",
+      "start": 0.109,
+      "end": 0.932,
+      "duration": 0.824
+    },
+    {
+      "text": "grape",
+      "start": 0.947,
+      "end": 1.3,
+      "duration": 0.353
+    },
+    {
+      "text": "powder",
+      "start": 1.315,
+      "end": 1.874,
+      "duration": 0.559
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Freeze-dried grape powder",
+      "start": 0.109,
+      "end": 1.874,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.874,
+  "voice": "en-US-AriaNeural",
+  "text": "Freeze-dried grape powder"
+}

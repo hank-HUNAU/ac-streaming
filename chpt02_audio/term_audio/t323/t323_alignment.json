@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Dietary",
+      "start": 0.109,
+      "end": 0.874,
+      "duration": 0.765
+    },
+    {
+      "text": "fiber",
+      "start": 0.888,
+      "end": 1.535,
+      "duration": 0.647
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Dietary fiber",
+      "start": 0.109,
+      "end": 1.535,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.535,
+  "voice": "en-US-AriaNeural",
+  "text": "Dietary fiber"
+}

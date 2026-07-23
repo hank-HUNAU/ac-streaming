@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "CAT",
+      "start": 0.109,
+      "end": 0.756,
+      "duration": 0.647
+    }
+  ],
+  "sentences": [
+    {
+      "text": "CAT",
+      "start": 0.109,
+      "end": 0.756,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 0.756,
+  "voice": "en-US-AriaNeural",
+  "text": "CAT"
+}

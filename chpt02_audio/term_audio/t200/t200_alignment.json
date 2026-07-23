@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Grape",
+      "start": 0.109,
+      "end": 0.506,
+      "duration": 0.397
+    },
+    {
+      "text": "juice",
+      "start": 0.521,
+      "end": 1.124,
+      "duration": 0.603
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Grape juice",
+      "start": 0.109,
+      "end": 1.124,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.124,
+  "voice": "en-US-AriaNeural",
+  "text": "Grape juice"
+}

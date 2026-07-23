@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Vitis",
+      "start": 0.109,
+      "end": 0.668,
+      "duration": 0.559
+    },
+    {
+      "text": "vinifera",
+      "start": 0.682,
+      "end": 1.476,
+      "duration": 0.794
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Vitis vinifera",
+      "start": 0.109,
+      "end": 1.476,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.476,
+  "voice": "en-US-AriaNeural",
+  "text": "Vitis vinifera"
+}

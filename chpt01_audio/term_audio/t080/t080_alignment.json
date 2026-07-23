@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Purkinje",
+      "start": 0.109,
+      "end": 0.785,
+      "duration": 0.676
+    },
+    {
+      "text": "cells",
+      "start": 0.8,
+      "end": 1.476,
+      "duration": 0.676
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Purkinje cells",
+      "start": 0.109,
+      "end": 1.476,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.476,
+  "voice": "en-US-AriaNeural",
+  "text": "Purkinje cells"
+}

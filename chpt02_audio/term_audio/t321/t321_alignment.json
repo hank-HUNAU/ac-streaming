@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Winemaking",
+      "start": 0.109,
+      "end": 0.903,
+      "duration": 0.794
+    },
+    {
+      "text": "by-products",
+      "start": 0.918,
+      "end": 1.962,
+      "duration": 1.044
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Winemaking by-products",
+      "start": 0.109,
+      "end": 1.962,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.962,
+  "voice": "en-US-AriaNeural",
+  "text": "Winemaking by-products"
+}

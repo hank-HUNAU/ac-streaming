@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "HUVEC",
+      "start": 0.109,
+      "end": 0.874,
+      "duration": 0.765
+    }
+  ],
+  "sentences": [
+    {
+      "text": "HUVEC",
+      "start": 0.109,
+      "end": 0.874,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 0.874,
+  "voice": "en-US-AriaNeural",
+  "text": "HUVEC"
+}

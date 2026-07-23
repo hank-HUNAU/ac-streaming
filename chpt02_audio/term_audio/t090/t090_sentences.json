@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "CD16",
+      "start": 0.109,
+      "end": 1.55,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.55,
+  "voice": "en-US-AriaNeural"
+}

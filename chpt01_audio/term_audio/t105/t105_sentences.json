@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "GPPE",
+      "start": 0.109,
+      "end": 1.579,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.579,
+  "voice": "en-US-AriaNeural"
+}

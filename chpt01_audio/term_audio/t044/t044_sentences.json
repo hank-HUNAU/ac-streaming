@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "MS",
+      "start": 0.109,
+      "end": 0.947,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 0.947,
+  "voice": "en-US-AriaNeural"
+}

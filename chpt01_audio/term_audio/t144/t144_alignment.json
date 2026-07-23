@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Blood",
+      "start": 0.109,
+      "end": 0.462,
+      "duration": 0.353
+    },
+    {
+      "text": "pressure",
+      "start": 0.476,
+      "end": 1.079,
+      "duration": 0.603
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Blood pressure",
+      "start": 0.109,
+      "end": 1.079,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.079,
+  "voice": "en-US-AriaNeural",
+  "text": "Blood pressure"
+}

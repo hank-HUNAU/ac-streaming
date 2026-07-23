@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Foam",
+      "start": 0.109,
+      "end": 0.579,
+      "duration": 0.471
+    },
+    {
+      "text": "cells",
+      "start": 0.594,
+      "end": 1.271,
+      "duration": 0.676
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Foam cells",
+      "start": 0.109,
+      "end": 1.271,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.271,
+  "voice": "en-US-AriaNeural",
+  "text": "Foam cells"
+}

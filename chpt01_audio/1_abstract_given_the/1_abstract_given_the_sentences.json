@@ -1,0 +1,60 @@
+{
+  "sentences": [
+    {
+      "text": "Abstract.",
+      "start": 0.1,
+      "end": 0.988,
+      "word_count": 1
+    },
+    {
+      "text": "Given the central importance of the brain to both a person's survival and their quality of life, the identification of treatments that can maintain, restore, or improve brain function is of great interest.",
+      "start": 1.837,
+      "end": 13.275,
+      "word_count": 33
+    },
+    {
+      "text": "Furthermore, the possibility that grapes, a readily available component of a healthy diet, might have benefits in this context is especially appealing.",
+      "start": 14.137,
+      "end": 22.663,
+      "word_count": 22
+    },
+    {
+      "text": "Indeed, as interest in simple and safe approaches to improving brain health has grown, many more studies on the effects of various grape products on brain function in humans are being conducted.",
+      "start": 23.538,
+      "end": 34.175,
+      "word_count": 32
+    },
+    {
+      "text": "Freeze-dried grape powder, various grape and grape seed extracts, and grape juice have all been shown to positively impact multiple aspects of brain function, including cognition, in a variety of different in vivo models in both humans and rodents.",
+      "start": 35.038,
+      "end": 49.425,
+      "word_count": 39
+    },
+    {
+      "text": "These models include stress, aging, ischemia, Alzheimer's disease, Parkinson's disease, multiple sclerosis, Gulf War illness, and autism.",
+      "start": 50.3,
+      "end": 59.725,
+      "word_count": 17
+    },
+    {
+      "text": "In the brain, the consumption of grape products has been shown to reduce oxidative stress, enhance trophic factor signaling, stimulate neurogenesis, improve various aspects of neurotransmission, and reduce inflammation.",
+      "start": 60.6,
+      "end": 73.675,
+      "word_count": 29
+    },
+    {
+      "text": "Furthermore, there is growing evidence that the levels of specific polyphenols in the blood or urine that are derived from the consumption of grape products correlate with the beneficial effects of these products on brain function.",
+      "start": 74.537,
+      "end": 85.938,
+      "word_count": 36
+    },
+    {
+      "text": "Together, these studies strongly suggest that further work on the impact of grape products on brain function, not only in areas where beneficial effects have already been seen but also in pathological conditions where they have not yet been explored, is highly worthwhile.",
+      "start": 86.8,
+      "end": 101.9,
+      "word_count": 43
+    }
+  ],
+  "total_duration": 101.9,
+  "voice": "en-US-AriaNeural"
+}

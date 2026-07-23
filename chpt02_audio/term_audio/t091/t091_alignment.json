@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "TNF-α",
+      "start": 0.109,
+      "end": 1.403,
+      "duration": 1.294
+    }
+  ],
+  "sentences": [
+    {
+      "text": "TNF-α",
+      "start": 0.109,
+      "end": 1.403,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.403,
+  "voice": "en-US-AriaNeural",
+  "text": "TNF-α"
+}

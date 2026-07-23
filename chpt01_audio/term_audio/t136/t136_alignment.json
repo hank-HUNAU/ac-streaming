@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Apomorphine-induced",
+      "start": 0.109,
+      "end": 1.476,
+      "duration": 1.368
+    },
+    {
+      "text": "rotation",
+      "start": 1.491,
+      "end": 2.079,
+      "duration": 0.588
+    },
+    {
+      "text": "test",
+      "start": 2.094,
+      "end": 2.697,
+      "duration": 0.603
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Apomorphine-induced rotation test",
+      "start": 0.109,
+      "end": 2.697,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.697,
+  "voice": "en-US-AriaNeural",
+  "text": "Apomorphine-induced rotation test"
+}

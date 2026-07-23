@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "AAA",
+      "start": 0.109,
+      "end": 1.006,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.006,
+  "voice": "en-US-AriaNeural"
+}

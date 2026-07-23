@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Anti-inflammatory",
+      "start": 0.109,
+      "end": 1.388,
+      "duration": 1.279
+    },
+    {
+      "text": "cytokines",
+      "start": 1.403,
+      "end": 2.432,
+      "duration": 1.029
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Anti-inflammatory cytokines",
+      "start": 0.109,
+      "end": 2.432,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 2.432,
+  "voice": "en-US-AriaNeural",
+  "text": "Anti-inflammatory cytokines"
+}

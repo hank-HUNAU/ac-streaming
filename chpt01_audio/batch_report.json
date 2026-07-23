@@ -1,0 +1,52 @@
+{
+  "total": 7,
+  "success": 7,
+  "errors": 0,
+  "elapsed_sec": 304.6,
+  "elapsed_fmt": "0:05:04",
+  "results": [
+    {
+      "id": "0_grapes_and_brain",
+      "status": "ok",
+      "word_count": 6,
+      "duration": 3.237
+    },
+    {
+      "id": "1_abstract_given_the",
+      "status": "ok",
+      "word_count": 252,
+      "duration": 101.9
+    },
+    {
+      "id": "2_introduction_the_brain",
+      "status": "ok",
+      "word_count": 611,
+      "duration": 241.762
+    },
+    {
+      "id": "5_bioavailability_of_grape",
+      "status": "ok",
+      "word_count": 715,
+      "duration": 295.546
+    },
+    {
+      "id": "6_conclusions_and_future",
+      "status": "ok",
+      "word_count": 401,
+      "duration": 157.637
+    },
+    {
+      "id": "4_mechanism_of_action",
+      "status": "ok",
+      "word_count": 1830,
+      "duration": 768.053
+    },
+    {
+      "id": "3_in_vivo_effects",
+      "status": "ok",
+      "word_count": 7049,
+      "duration": 2670.673
+    }
+  ],
+  "error_details": []
+}

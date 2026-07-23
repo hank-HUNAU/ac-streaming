@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "p-Hydroxybenzoic",
+      "start": 0.109,
+      "end": 1.653,
+      "duration": 1.544
+    },
+    {
+      "text": "acid",
+      "start": 1.668,
+      "end": 2.285,
+      "duration": 0.618
+    }
+  ],
+  "sentences": [
+    {
+      "text": "p-Hydroxybenzoic acid",
+      "start": 0.109,
+      "end": 2.285,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 2.285,
+  "voice": "en-US-AriaNeural",
+  "text": "p-Hydroxybenzoic acid"
+}

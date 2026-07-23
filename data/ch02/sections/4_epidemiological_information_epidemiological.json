@@ -1,0 +1,110 @@
+{
+  "id": "4_epidemiological_information_epidemiological",
+  "sentences": [
+    {
+      "text": "Epidemiological Information.",
+      "start": 0.1,
+      "end": 2.062,
+      "word_count": 2
+    },
+    {
+      "text": "Epidemiological studies have shown that a diet rich in fruits and vegetables prevents coronary heart disease and other conditions, including type-2 diabetes, which eventually can lead to atherosclerosis and heart disease.",
+      "start": 2.925,
+      "end": 15.85,
+      "word_count": 31
+    },
+    {
+      "text": "An adequate intake of a healthy dietary pattern that includes fruit and vegetables reduces the most common noncommunicable diseases, including cardiovascular disease as well as obesity and metabolic syndrome associated with increased risk for cardiovascular disease.",
+      "start": 16.712,
+      "end": 32.3,
+      "word_count": 36
+    },
+    {
+      "text": "These healthy effects of fruits and vegetables have been attributed in part to the antioxidant and anti-inflammatory properties of polyphenols.",
+      "start": 33.163,
+      "end": 40.663,
+      "word_count": 20
+    },
+    {
+      "text": "In a study conducted with 667 individuals, it was demonstrated that a healthy diet rich in fruits and vegetables decreased systemic inflammation, as determined by measurements of inflammatory cytokines and expression of C D 14 and C D 16, two monocyte subpopulations characterized for higher potency in antigen presentation and for being pro-inflammatory.",
+      "start": 41.538,
+      "end": 64.225,
+      "word_count": 53
+    },
+    {
+      "text": "A recent review specifically selected grapes as one of the promising nutritional fruits that may protect against cardiovascular disease.",
+      "start": 65.088,
+      "end": 72.45,
+      "word_count": 19
+    },
+    {
+      "text": "Grapes are one of the richest sources of polyphenols, including flavonoids.",
+      "start": 73.312,
+      "end": 77.45,
+      "word_count": 11
+    },
+    {
+      "text": "The intake of flavonoids has been demonstrated to have an inverse relationship with the risk of cardiovascular disease.",
+      "start": 78.325,
+      "end": 84.763,
+      "word_count": 18
+    },
+    {
+      "text": "It has also been reported that proanthocyanidins, a class of polyphenols found in grapes, have a greater antioxidant effect compared to vitamin C or vitamin E in aqueous media, and proanthocyanidin-rich grape extract has been demonstrated to lower atherosclerosis, cataracts, and diabetes.",
+      "start": 85.625,
+      "end": 103.8,
+      "word_count": 42
+    },
+    {
+      "text": "Resveratrol, a stilbene present in grapes, has also been shown to exert a number of protective effects against cardiovascular disease risk, including anti-inflammatory and antioxidant properties, although its bioavailability is low.",
+      "start": 104.675,
+      "end": 118.975,
+      "word_count": 31
+    },
+    {
+      "text": "Clinical trials focused on cardiovascular diseases have shown that resveratrol was well tolerated and was beneficial in improving cardiovascular disease biomarkers.",
+      "start": 119.85,
+      "end": 129.438,
+      "word_count": 21
+    },
+    {
+      "text": "Grape polyphenols are one of the most studied for their documented protection against heart disease, and epidemiological studies acknowledge that the consumption of grapes is associated with decreased cardiovascular risk.",
+      "start": 130.312,
+      "end": 142.125,
+      "word_count": 30
+    },
+    {
+      "text": "A review of epidemiological studies concludes that in addition to the recognized antioxidant and anti-inflammatory properties of grape polyphenols, emerging data suggest protection against atherosclerosis through the modulation of cellular lipid metabolism.",
+      "start": 142.988,
+      "end": 157.838,
+      "word_count": 32
+    },
+    {
+      "text": "Grape polyphenols have been shown to have other mechanisms by which grapes protect against atherosclerosis, including decreases in platelet aggregation and L D L oxidation.",
+      "start": 158.713,
+      "end": 168.8,
+      "word_count": 25
+    },
+    {
+      "text": "Endothelial dysfunction is considered an early feature in the progression of atherosclerosis, and flow-mediated vasodilation has been used to measure this function.",
+      "start": 169.675,
+      "end": 178.725,
+      "word_count": 22
+    },
+    {
+      "text": "Studies have demonstrated that polyphenols enhance the production of nitric oxide, thus increasing vasodilation.",
+      "start": 179.6,
+      "end": 186.0,
+      "word_count": 14
+    },
+    {
+      "text": "In summary, epidemiological data support the various roles in which grapes protect against atherosclerosis development.",
+      "start": 186.875,
+      "end": 193.975,
+      "word_count": 15
+    }
+  ],
+  "total_duration": 193.975,
+  "voice": "en-US-AriaNeural",
+  "title": "3 Epidemiological Info"
+}

@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Elastin",
+      "start": 0.109,
+      "end": 0.771,
+      "duration": 0.662
+    },
+    {
+      "text": "degradation",
+      "start": 0.785,
+      "end": 1.741,
+      "duration": 0.956
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Elastin degradation",
+      "start": 0.109,
+      "end": 1.741,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.741,
+  "voice": "en-US-AriaNeural",
+  "text": "Elastin degradation"
+}

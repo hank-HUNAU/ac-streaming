@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Hepatic",
+      "start": 0.109,
+      "end": 0.741,
+      "duration": 0.632
+    },
+    {
+      "text": "steatosis",
+      "start": 0.756,
+      "end": 1.829,
+      "duration": 1.074
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hepatic steatosis",
+      "start": 0.109,
+      "end": 1.829,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.829,
+  "voice": "en-US-AriaNeural",
+  "text": "Hepatic steatosis"
+}

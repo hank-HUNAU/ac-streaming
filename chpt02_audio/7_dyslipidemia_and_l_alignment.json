@@ -1,0 +1,2679 @@
+{
+  "words": [
+    {
+      "text": "Dyslipidemia",
+      "start": 0.1,
+      "end": 1.062,
+      "duration": 0.963
+    },
+    {
+      "text": "and",
+      "start": 1.075,
+      "end": 1.262,
+      "duration": 0.188
+    },
+    {
+      "text": "L",
+      "start": 1.275,
+      "end": 1.45,
+      "duration": 0.175
+    },
+    {
+      "text": "D",
+      "start": 1.462,
+      "end": 1.625,
+      "duration": 0.163
+    },
+    {
+      "text": "L",
+      "start": 1.637,
+      "end": 1.812,
+      "duration": 0.175
+    },
+    {
+      "text": "Oxidation",
+      "start": 1.825,
+      "end": 2.625,
+      "duration": 0.8
+    },
+    {
+      "text": "Hyperlipidemia",
+      "start": 3.5,
+      "end": 4.562,
+      "duration": 1.062
+    },
+    {
+      "text": "especially",
+      "start": 4.787,
+      "end": 5.325,
+      "duration": 0.537
+    },
+    {
+      "text": "elevated",
+      "start": 5.338,
+      "end": 5.9,
+      "duration": 0.562
+    },
+    {
+      "text": "L",
+      "start": 5.912,
+      "end": 6.1,
+      "duration": 0.188
+    },
+    {
+      "text": "D",
+      "start": 6.112,
+      "end": 6.275,
+      "duration": 0.163
+    },
+    {
+      "text": "L",
+      "start": 6.287,
+      "end": 6.45,
+      "duration": 0.163
+    },
+    {
+      "text": "cholesterol",
+      "start": 6.463,
+      "end": 7.225,
+      "duration": 0.762
+    },
+    {
+      "text": "can",
+      "start": 7.588,
+      "end": 7.763,
+      "duration": 0.175
+    },
+    {
+      "text": "lead",
+      "start": 7.775,
+      "end": 7.987,
+      "duration": 0.212
+    },
+    {
+      "text": "to",
+      "start": 8.0,
+      "end": 8.088,
+      "duration": 0.087
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 8.1,
+      "end": 9.25,
+      "duration": 1.15
+    },
+    {
+      "text": "through",
+      "start": 9.262,
+      "end": 9.425,
+      "duration": 0.163
+    },
+    {
+      "text": "lipoprotein",
+      "start": 9.438,
+      "end": 10.25,
+      "duration": 0.812
+    },
+    {
+      "text": "deposition",
+      "start": 10.262,
+      "end": 10.938,
+      "duration": 0.675
+    },
+    {
+      "text": "inside",
+      "start": 10.95,
+      "end": 11.488,
+      "duration": 0.537
+    },
+    {
+      "text": "the",
+      "start": 11.5,
+      "end": 11.575,
+      "duration": 0.075
+    },
+    {
+      "text": "vessel",
+      "start": 11.588,
+      "end": 11.938,
+      "duration": 0.35
+    },
+    {
+      "text": "wall",
+      "start": 11.95,
+      "end": 12.35,
+      "duration": 0.4
+    },
+    {
+      "text": "and",
+      "start": 12.363,
+      "end": 12.45,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 12.463,
+      "end": 12.525,
+      "duration": 0.062
+    },
+    {
+      "text": "induction",
+      "start": 12.537,
+      "end": 13.037,
+      "duration": 0.5
+    },
+    {
+      "text": "of",
+      "start": 13.05,
+      "end": 13.15,
+      "duration": 0.1
+    },
+    {
+      "text": "oxidized",
+      "start": 13.162,
+      "end": 13.9,
+      "duration": 0.738
+    },
+    {
+      "text": "L",
+      "start": 13.912,
+      "end": 14.1,
+      "duration": 0.188
+    },
+    {
+      "text": "D",
+      "start": 14.113,
+      "end": 14.287,
+      "duration": 0.175
+    },
+    {
+      "text": "L",
+      "start": 14.3,
+      "end": 14.65,
+      "duration": 0.35
+    },
+    {
+      "text": "a",
+      "start": 15.0,
+      "end": 15.062,
+      "duration": 0.062
+    },
+    {
+      "text": "key",
+      "start": 15.075,
+      "end": 15.287,
+      "duration": 0.212
+    },
+    {
+      "text": "player",
+      "start": 15.3,
+      "end": 15.65,
+      "duration": 0.35
+    },
+    {
+      "text": "in",
+      "start": 15.662,
+      "end": 15.775,
+      "duration": 0.113
+    },
+    {
+      "text": "the",
+      "start": 15.787,
+      "end": 15.863,
+      "duration": 0.075
+    },
+    {
+      "text": "formation",
+      "start": 15.875,
+      "end": 16.462,
+      "duration": 0.588
+    },
+    {
+      "text": "of",
+      "start": 16.475,
+      "end": 16.562,
+      "duration": 0.087
+    },
+    {
+      "text": "atherosclerotic",
+      "start": 16.575,
+      "end": 17.613,
+      "duration": 1.038
+    },
+    {
+      "text": "plaques",
+      "start": 17.625,
+      "end": 18.238,
+      "duration": 0.613
+    },
+    {
+      "text": "These",
+      "start": 19.1,
+      "end": 19.45,
+      "duration": 0.35
+    },
+    {
+      "text": "atherogenic",
+      "start": 19.462,
+      "end": 20.238,
+      "duration": 0.775
+    },
+    {
+      "text": "markers",
+      "start": 20.25,
+      "end": 20.7,
+      "duration": 0.45
+    },
+    {
+      "text": "have",
+      "start": 20.712,
+      "end": 20.837,
+      "duration": 0.125
+    },
+    {
+      "text": "been",
+      "start": 20.85,
+      "end": 21.0,
+      "duration": 0.15
+    },
+    {
+      "text": "shown",
+      "start": 21.012,
+      "end": 21.325,
+      "duration": 0.312
+    },
+    {
+      "text": "to",
+      "start": 21.337,
+      "end": 21.413,
+      "duration": 0.075
+    },
+    {
+      "text": "be",
+      "start": 21.425,
+      "end": 21.55,
+      "duration": 0.125
+    },
+    {
+      "text": "modulated",
+      "start": 21.562,
+      "end": 22.225,
+      "duration": 0.662
+    },
+    {
+      "text": "through",
+      "start": 22.238,
+      "end": 22.375,
+      "duration": 0.138
+    },
+    {
+      "text": "the",
+      "start": 22.387,
+      "end": 22.488,
+      "duration": 0.1
+    },
+    {
+      "text": "consumption",
+      "start": 22.5,
+      "end": 23.113,
+      "duration": 0.613
+    },
+    {
+      "text": "of",
+      "start": 23.125,
+      "end": 23.25,
+      "duration": 0.125
+    },
+    {
+      "text": "grapes",
+      "start": 23.262,
+      "end": 23.663,
+      "duration": 0.4
+    },
+    {
+      "text": "and",
+      "start": 23.675,
+      "end": 23.812,
+      "duration": 0.138
+    },
+    {
+      "text": "grape",
+      "start": 23.825,
+      "end": 24.137,
+      "duration": 0.312
+    },
+    {
+      "text": "products",
+      "start": 24.15,
+      "end": 24.825,
+      "duration": 0.675
+    },
+    {
+      "text": "A",
+      "start": 25.688,
+      "end": 25.85,
+      "duration": 0.163
+    },
+    {
+      "text": "recent",
+      "start": 25.863,
+      "end": 26.25,
+      "duration": 0.388
+    },
+    {
+      "text": "paper",
+      "start": 26.262,
+      "end": 26.625,
+      "duration": 0.362
+    },
+    {
+      "text": "reported",
+      "start": 26.637,
+      "end": 27.113,
+      "duration": 0.475
+    },
+    {
+      "text": "that",
+      "start": 27.125,
+      "end": 27.262,
+      "duration": 0.138
+    },
+    {
+      "text": "grape",
+      "start": 27.275,
+      "end": 27.613,
+      "duration": 0.338
+    },
+    {
+      "text": "oil",
+      "start": 27.625,
+      "end": 27.95,
+      "duration": 0.325
+    },
+    {
+      "text": "has",
+      "start": 27.962,
+      "end": 28.175,
+      "duration": 0.212
+    },
+    {
+      "text": "the",
+      "start": 28.188,
+      "end": 28.288,
+      "duration": 0.1
+    },
+    {
+      "text": "capacity",
+      "start": 28.3,
+      "end": 28.887,
+      "duration": 0.588
+    },
+    {
+      "text": "to",
+      "start": 28.9,
+      "end": 29.012,
+      "duration": 0.113
+    },
+    {
+      "text": "preserve",
+      "start": 29.025,
+      "end": 29.475,
+      "duration": 0.45
+    },
+    {
+      "text": "compounds",
+      "start": 29.488,
+      "end": 30.15,
+      "duration": 0.662
+    },
+    {
+      "text": "that",
+      "start": 30.163,
+      "end": 30.288,
+      "duration": 0.125
+    },
+    {
+      "text": "prevent",
+      "start": 30.3,
+      "end": 30.688,
+      "duration": 0.388
+    },
+    {
+      "text": "oxidative",
+      "start": 30.7,
+      "end": 31.262,
+      "duration": 0.562
+    },
+    {
+      "text": "stress",
+      "start": 31.275,
+      "end": 31.725,
+      "duration": 0.45
+    },
+    {
+      "text": "including",
+      "start": 32.1,
+      "end": 32.625,
+      "duration": 0.525
+    },
+    {
+      "text": "ascorbic",
+      "start": 32.638,
+      "end": 33.163,
+      "duration": 0.525
+    },
+    {
+      "text": "acid",
+      "start": 33.175,
+      "end": 33.575,
+      "duration": 0.4
+    },
+    {
+      "text": "tocopherols",
+      "start": 33.825,
+      "end": 34.712,
+      "duration": 0.887
+    },
+    {
+      "text": "and",
+      "start": 34.913,
+      "end": 35.075,
+      "duration": 0.163
+    },
+    {
+      "text": "procyanidins",
+      "start": 35.087,
+      "end": 36.138,
+      "duration": 1.05
+    },
+    {
+      "text": "A",
+      "start": 37.013,
+      "end": 37.138,
+      "duration": 0.125
+    },
+    {
+      "text": "meta-analysis",
+      "start": 37.15,
+      "end": 38.013,
+      "duration": 0.863
+    },
+    {
+      "text": "of",
+      "start": 38.025,
+      "end": 38.138,
+      "duration": 0.113
+    },
+    {
+      "text": "randomized",
+      "start": 38.15,
+      "end": 38.812,
+      "duration": 0.662
+    },
+    {
+      "text": "clinical",
+      "start": 38.825,
+      "end": 39.263,
+      "duration": 0.438
+    },
+    {
+      "text": "trials",
+      "start": 39.275,
+      "end": 39.775,
+      "duration": 0.5
+    },
+    {
+      "text": "utilizing",
+      "start": 39.788,
+      "end": 40.362,
+      "duration": 0.575
+    },
+    {
+      "text": "grape",
+      "start": 40.375,
+      "end": 40.675,
+      "duration": 0.3
+    },
+    {
+      "text": "products",
+      "start": 40.688,
+      "end": 41.2,
+      "duration": 0.512
+    },
+    {
+      "text": "was",
+      "start": 41.212,
+      "end": 41.362,
+      "duration": 0.15
+    },
+    {
+      "text": "conducted",
+      "start": 41.375,
+      "end": 42.025,
+      "duration": 0.65
+    },
+    {
+      "text": "Twenty-four",
+      "start": 42.888,
+      "end": 43.55,
+      "duration": 0.662
+    },
+    {
+      "text": "articles",
+      "start": 43.562,
+      "end": 44.112,
+      "duration": 0.55
+    },
+    {
+      "text": "including",
+      "start": 44.312,
+      "end": 44.825,
+      "duration": 0.512
+    },
+    {
+      "text": "618",
+      "start": 44.837,
+      "end": 45.938,
+      "duration": 1.1
+    },
+    {
+      "text": "subjects",
+      "start": 45.95,
+      "end": 46.513,
+      "duration": 0.562
+    },
+    {
+      "text": "assigned",
+      "start": 46.525,
+      "end": 46.938,
+      "duration": 0.412
+    },
+    {
+      "text": "to",
+      "start": 46.95,
+      "end": 47.038,
+      "duration": 0.087
+    },
+    {
+      "text": "grape",
+      "start": 47.05,
+      "end": 47.45,
+      "duration": 0.4
+    },
+    {
+      "text": "grape",
+      "start": 47.663,
+      "end": 47.95,
+      "duration": 0.287
+    },
+    {
+      "text": "juice",
+      "start": 47.962,
+      "end": 48.337,
+      "duration": 0.375
+    },
+    {
+      "text": "and",
+      "start": 48.562,
+      "end": 48.712,
+      "duration": 0.15
+    },
+    {
+      "text": "grape",
+      "start": 48.725,
+      "end": 49.05,
+      "duration": 0.325
+    },
+    {
+      "text": "extract",
+      "start": 49.062,
+      "end": 49.65,
+      "duration": 0.588
+    },
+    {
+      "text": "and",
+      "start": 49.663,
+      "end": 49.763,
+      "duration": 0.1
+    },
+    {
+      "text": "587",
+      "start": 49.775,
+      "end": 51.075,
+      "duration": 1.3
+    },
+    {
+      "text": "subjects",
+      "start": 51.087,
+      "end": 51.612,
+      "duration": 0.525
+    },
+    {
+      "text": "assigned",
+      "start": 51.625,
+      "end": 52.038,
+      "duration": 0.412
+    },
+    {
+      "text": "to",
+      "start": 52.05,
+      "end": 52.112,
+      "duration": 0.062
+    },
+    {
+      "text": "placebo",
+      "start": 52.125,
+      "end": 52.712,
+      "duration": 0.588
+    },
+    {
+      "text": "were",
+      "start": 52.913,
+      "end": 53.062,
+      "duration": 0.15
+    },
+    {
+      "text": "evaluated",
+      "start": 53.075,
+      "end": 53.925,
+      "duration": 0.85
+    },
+    {
+      "text": "The",
+      "start": 54.788,
+      "end": 54.975,
+      "duration": 0.188
+    },
+    {
+      "text": "administration",
+      "start": 54.987,
+      "end": 55.8,
+      "duration": 0.812
+    },
+    {
+      "text": "of",
+      "start": 55.812,
+      "end": 55.913,
+      "duration": 0.1
+    },
+    {
+      "text": "grape",
+      "start": 55.925,
+      "end": 56.225,
+      "duration": 0.3
+    },
+    {
+      "text": "products",
+      "start": 56.237,
+      "end": 56.737,
+      "duration": 0.5
+    },
+    {
+      "text": "was",
+      "start": 56.75,
+      "end": 56.888,
+      "duration": 0.138
+    },
+    {
+      "text": "associated",
+      "start": 56.9,
+      "end": 57.625,
+      "duration": 0.725
+    },
+    {
+      "text": "mainly",
+      "start": 57.638,
+      "end": 58.013,
+      "duration": 0.375
+    },
+    {
+      "text": "with",
+      "start": 58.025,
+      "end": 58.163,
+      "duration": 0.138
+    },
+    {
+      "text": "reductions",
+      "start": 58.175,
+      "end": 58.788,
+      "duration": 0.613
+    },
+    {
+      "text": "in",
+      "start": 58.8,
+      "end": 58.925,
+      "duration": 0.125
+    },
+    {
+      "text": "plasma",
+      "start": 58.938,
+      "end": 59.487,
+      "duration": 0.55
+    },
+    {
+      "text": "L",
+      "start": 59.5,
+      "end": 59.7,
+      "duration": 0.2
+    },
+    {
+      "text": "D",
+      "start": 59.712,
+      "end": 59.913,
+      "duration": 0.2
+    },
+    {
+      "text": "L-cholesterol",
+      "start": 59.925,
+      "end": 60.9,
+      "duration": 0.975
+    },
+    {
+      "text": "and",
+      "start": 60.913,
+      "end": 61.075,
+      "duration": 0.163
+    },
+    {
+      "text": "oxidized",
+      "start": 61.087,
+      "end": 61.837,
+      "duration": 0.75
+    },
+    {
+      "text": "L",
+      "start": 61.85,
+      "end": 62.038,
+      "duration": 0.188
+    },
+    {
+      "text": "D",
+      "start": 62.05,
+      "end": 62.25,
+      "duration": 0.2
+    },
+    {
+      "text": "L",
+      "start": 62.263,
+      "end": 62.562,
+      "duration": 0.3
+    },
+    {
+      "text": "Millar",
+      "start": 62.85,
+      "end": 63.175,
+      "duration": 0.325
+    },
+    {
+      "text": "and",
+      "start": 63.188,
+      "end": 63.312,
+      "duration": 0.125
+    },
+    {
+      "text": "colleagues",
+      "start": 63.325,
+      "end": 63.825,
+      "duration": 0.5
+    },
+    {
+      "text": "utilized",
+      "start": 63.837,
+      "end": 64.388,
+      "duration": 0.55
+    },
+    {
+      "text": "grape",
+      "start": 64.4,
+      "end": 64.675,
+      "duration": 0.275
+    },
+    {
+      "text": "powder",
+      "start": 64.688,
+      "end": 65.037,
+      "duration": 0.35
+    },
+    {
+      "text": "in",
+      "start": 65.05,
+      "end": 65.237,
+      "duration": 0.188
+    },
+    {
+      "text": "individuals",
+      "start": 65.25,
+      "end": 66.0,
+      "duration": 0.75
+    },
+    {
+      "text": "with",
+      "start": 66.013,
+      "end": 66.162,
+      "duration": 0.15
+    },
+    {
+      "text": "metabolic",
+      "start": 66.175,
+      "end": 66.75,
+      "duration": 0.575
+    },
+    {
+      "text": "syndrome",
+      "start": 66.763,
+      "end": 67.237,
+      "duration": 0.475
+    },
+    {
+      "text": "who",
+      "start": 67.588,
+      "end": 67.737,
+      "duration": 0.15
+    },
+    {
+      "text": "were",
+      "start": 67.75,
+      "end": 67.938,
+      "duration": 0.188
+    },
+    {
+      "text": "allocated",
+      "start": 67.95,
+      "end": 68.513,
+      "duration": 0.562
+    },
+    {
+      "text": "to",
+      "start": 68.525,
+      "end": 68.6,
+      "duration": 0.075
+    },
+    {
+      "text": "consume",
+      "start": 68.612,
+      "end": 69.1,
+      "duration": 0.487
+    },
+    {
+      "text": "either",
+      "start": 69.112,
+      "end": 69.338,
+      "duration": 0.225
+    },
+    {
+      "text": "60",
+      "start": 69.35,
+      "end": 69.8,
+      "duration": 0.45
+    },
+    {
+      "text": "grams",
+      "start": 69.812,
+      "end": 70.225,
+      "duration": 0.412
+    },
+    {
+      "text": "per",
+      "start": 70.237,
+      "end": 70.388,
+      "duration": 0.15
+    },
+    {
+      "text": "day",
+      "start": 70.4,
+      "end": 70.612,
+      "duration": 0.212
+    },
+    {
+      "text": "of",
+      "start": 70.625,
+      "end": 70.713,
+      "duration": 0.087
+    },
+    {
+      "text": "freeze-dried",
+      "start": 70.725,
+      "end": 71.325,
+      "duration": 0.6
+    },
+    {
+      "text": "powder",
+      "start": 71.338,
+      "end": 71.787,
+      "duration": 0.45
+    },
+    {
+      "text": "or",
+      "start": 71.8,
+      "end": 71.963,
+      "duration": 0.163
+    },
+    {
+      "text": "a",
+      "start": 71.975,
+      "end": 72.025,
+      "duration": 0.05
+    },
+    {
+      "text": "placebo",
+      "start": 72.037,
+      "end": 72.638,
+      "duration": 0.6
+    },
+    {
+      "text": "for",
+      "start": 72.65,
+      "end": 72.825,
+      "duration": 0.175
+    },
+    {
+      "text": "4",
+      "start": 72.838,
+      "end": 73.112,
+      "duration": 0.275
+    },
+    {
+      "text": "weeks",
+      "start": 73.125,
+      "end": 73.638,
+      "duration": 0.512
+    },
+    {
+      "text": "After",
+      "start": 74.5,
+      "end": 74.9,
+      "duration": 0.4
+    },
+    {
+      "text": "a",
+      "start": 74.912,
+      "end": 74.963,
+      "duration": 0.05
+    },
+    {
+      "text": "3-week",
+      "start": 74.975,
+      "end": 75.513,
+      "duration": 0.537
+    },
+    {
+      "text": "washout",
+      "start": 75.525,
+      "end": 76.025,
+      "duration": 0.5
+    },
+    {
+      "text": "period",
+      "start": 76.037,
+      "end": 76.463,
+      "duration": 0.425
+    },
+    {
+      "text": "they",
+      "start": 76.737,
+      "end": 76.838,
+      "duration": 0.1
+    },
+    {
+      "text": "were",
+      "start": 76.85,
+      "end": 77.037,
+      "duration": 0.188
+    },
+    {
+      "text": "allocated",
+      "start": 77.05,
+      "end": 77.612,
+      "duration": 0.562
+    },
+    {
+      "text": "to",
+      "start": 77.625,
+      "end": 77.713,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 77.725,
+      "end": 77.838,
+      "duration": 0.113
+    },
+    {
+      "text": "alternate",
+      "start": 77.85,
+      "end": 78.312,
+      "duration": 0.463
+    },
+    {
+      "text": "treatment",
+      "start": 78.325,
+      "end": 78.888,
+      "duration": 0.562
+    },
+    {
+      "text": "Although",
+      "start": 79.763,
+      "end": 80.1,
+      "duration": 0.338
+    },
+    {
+      "text": "no",
+      "start": 80.112,
+      "end": 80.362,
+      "duration": 0.25
+    },
+    {
+      "text": "changes",
+      "start": 80.375,
+      "end": 80.85,
+      "duration": 0.475
+    },
+    {
+      "text": "in",
+      "start": 80.862,
+      "end": 80.95,
+      "duration": 0.087
+    },
+    {
+      "text": "high-density",
+      "start": 80.963,
+      "end": 81.625,
+      "duration": 0.662
+    },
+    {
+      "text": "lipoprotein",
+      "start": 81.638,
+      "end": 82.475,
+      "duration": 0.838
+    },
+    {
+      "text": "function",
+      "start": 82.487,
+      "end": 82.987,
+      "duration": 0.5
+    },
+    {
+      "text": "were",
+      "start": 83.0,
+      "end": 83.138,
+      "duration": 0.138
+    },
+    {
+      "text": "observed",
+      "start": 83.15,
+      "end": 83.612,
+      "duration": 0.463
+    },
+    {
+      "text": "between",
+      "start": 83.625,
+      "end": 83.95,
+      "duration": 0.325
+    },
+    {
+      "text": "groups",
+      "start": 83.963,
+      "end": 84.412,
+      "duration": 0.45
+    },
+    {
+      "text": "a",
+      "start": 84.713,
+      "end": 84.787,
+      "duration": 0.075
+    },
+    {
+      "text": "significant",
+      "start": 84.8,
+      "end": 85.463,
+      "duration": 0.662
+    },
+    {
+      "text": "decrease",
+      "start": 85.475,
+      "end": 85.963,
+      "duration": 0.487
+    },
+    {
+      "text": "in",
+      "start": 85.975,
+      "end": 86.075,
+      "duration": 0.1
+    },
+    {
+      "text": "plasma",
+      "start": 86.088,
+      "end": 86.55,
+      "duration": 0.463
+    },
+    {
+      "text": "triglycerides",
+      "start": 86.562,
+      "end": 87.362,
+      "duration": 0.8
+    },
+    {
+      "text": "was",
+      "start": 87.375,
+      "end": 87.513,
+      "duration": 0.138
+    },
+    {
+      "text": "observed",
+      "start": 87.525,
+      "end": 88.088,
+      "duration": 0.562
+    },
+    {
+      "text": "during",
+      "start": 88.1,
+      "end": 88.338,
+      "duration": 0.237
+    },
+    {
+      "text": "the",
+      "start": 88.35,
+      "end": 88.438,
+      "duration": 0.087
+    },
+    {
+      "text": "period",
+      "start": 88.45,
+      "end": 88.888,
+      "duration": 0.438
+    },
+    {
+      "text": "of",
+      "start": 88.9,
+      "end": 89.013,
+      "duration": 0.113
+    },
+    {
+      "text": "grape",
+      "start": 89.025,
+      "end": 89.325,
+      "duration": 0.3
+    },
+    {
+      "text": "powder",
+      "start": 89.338,
+      "end": 89.638,
+      "duration": 0.3
+    },
+    {
+      "text": "intake",
+      "start": 89.65,
+      "end": 90.275,
+      "duration": 0.625
+    },
+    {
+      "text": "This",
+      "start": 91.138,
+      "end": 91.425,
+      "duration": 0.287
+    },
+    {
+      "text": "was",
+      "start": 91.438,
+      "end": 91.575,
+      "duration": 0.138
+    },
+    {
+      "text": "an",
+      "start": 91.588,
+      "end": 91.675,
+      "duration": 0.087
+    },
+    {
+      "text": "important",
+      "start": 91.688,
+      "end": 92.175,
+      "duration": 0.487
+    },
+    {
+      "text": "finding",
+      "start": 92.188,
+      "end": 92.625,
+      "duration": 0.438
+    },
+    {
+      "text": "because",
+      "start": 92.638,
+      "end": 92.938,
+      "duration": 0.3
+    },
+    {
+      "text": "individuals",
+      "start": 92.95,
+      "end": 93.662,
+      "duration": 0.713
+    },
+    {
+      "text": "in",
+      "start": 93.675,
+      "end": 93.75,
+      "duration": 0.075
+    },
+    {
+      "text": "this",
+      "start": 93.763,
+      "end": 93.912,
+      "duration": 0.15
+    },
+    {
+      "text": "study",
+      "start": 93.925,
+      "end": 94.3,
+      "duration": 0.375
+    },
+    {
+      "text": "had",
+      "start": 94.312,
+      "end": 94.525,
+      "duration": 0.212
+    },
+    {
+      "text": "elevated",
+      "start": 94.537,
+      "end": 95.075,
+      "duration": 0.537
+    },
+    {
+      "text": "plasma",
+      "start": 95.088,
+      "end": 95.55,
+      "duration": 0.463
+    },
+    {
+      "text": "triglycerides",
+      "start": 95.562,
+      "end": 96.5,
+      "duration": 0.938
+    },
+    {
+      "text": "a",
+      "start": 96.838,
+      "end": 96.875,
+      "duration": 0.037
+    },
+    {
+      "text": "known",
+      "start": 96.888,
+      "end": 97.2,
+      "duration": 0.312
+    },
+    {
+      "text": "biomarker",
+      "start": 97.213,
+      "end": 97.862,
+      "duration": 0.65
+    },
+    {
+      "text": "that",
+      "start": 97.875,
+      "end": 98.013,
+      "duration": 0.138
+    },
+    {
+      "text": "increases",
+      "start": 98.025,
+      "end": 98.575,
+      "duration": 0.55
+    },
+    {
+      "text": "the",
+      "start": 98.588,
+      "end": 98.688,
+      "duration": 0.1
+    },
+    {
+      "text": "risk",
+      "start": 98.7,
+      "end": 99.0,
+      "duration": 0.3
+    },
+    {
+      "text": "of",
+      "start": 99.013,
+      "end": 99.088,
+      "duration": 0.075
+    },
+    {
+      "text": "heart",
+      "start": 99.1,
+      "end": 99.35,
+      "duration": 0.25
+    },
+    {
+      "text": "disease",
+      "start": 99.362,
+      "end": 99.938,
+      "duration": 0.575
+    },
+    {
+      "text": "Razavi",
+      "start": 100.8,
+      "end": 101.325,
+      "duration": 0.525
+    },
+    {
+      "text": "and",
+      "start": 101.338,
+      "end": 101.45,
+      "duration": 0.113
+    },
+    {
+      "text": "colleagues",
+      "start": 101.463,
+      "end": 101.975,
+      "duration": 0.512
+    },
+    {
+      "text": "conducted",
+      "start": 101.987,
+      "end": 102.463,
+      "duration": 0.475
+    },
+    {
+      "text": "a",
+      "start": 102.475,
+      "end": 102.537,
+      "duration": 0.062
+    },
+    {
+      "text": "study",
+      "start": 102.55,
+      "end": 102.925,
+      "duration": 0.375
+    },
+    {
+      "text": "on",
+      "start": 102.938,
+      "end": 103.075,
+      "duration": 0.138
+    },
+    {
+      "text": "52",
+      "start": 103.088,
+      "end": 103.7,
+      "duration": 0.613
+    },
+    {
+      "text": "mildly",
+      "start": 103.713,
+      "end": 104.162,
+      "duration": 0.45
+    },
+    {
+      "text": "hyperlipidemic",
+      "start": 104.175,
+      "end": 105.1,
+      "duration": 0.925
+    },
+    {
+      "text": "subjects",
+      "start": 105.112,
+      "end": 105.725,
+      "duration": 0.613
+    },
+    {
+      "text": "who",
+      "start": 105.737,
+      "end": 105.85,
+      "duration": 0.113
+    },
+    {
+      "text": "were",
+      "start": 105.862,
+      "end": 105.975,
+      "duration": 0.113
+    },
+    {
+      "text": "given",
+      "start": 105.987,
+      "end": 106.3,
+      "duration": 0.312
+    },
+    {
+      "text": "either",
+      "start": 106.312,
+      "end": 106.537,
+      "duration": 0.225
+    },
+    {
+      "text": "red",
+      "start": 106.55,
+      "end": 106.775,
+      "duration": 0.225
+    },
+    {
+      "text": "grape",
+      "start": 106.787,
+      "end": 107.075,
+      "duration": 0.287
+    },
+    {
+      "text": "seed",
+      "start": 107.088,
+      "end": 107.35,
+      "duration": 0.263
+    },
+    {
+      "text": "extract",
+      "start": 107.362,
+      "end": 107.95,
+      "duration": 0.588
+    },
+    {
+      "text": "or",
+      "start": 107.963,
+      "end": 108.1,
+      "duration": 0.138
+    },
+    {
+      "text": "a",
+      "start": 108.112,
+      "end": 108.162,
+      "duration": 0.05
+    },
+    {
+      "text": "placebo",
+      "start": 108.175,
+      "end": 108.763,
+      "duration": 0.588
+    },
+    {
+      "text": "for",
+      "start": 108.775,
+      "end": 108.963,
+      "duration": 0.188
+    },
+    {
+      "text": "8",
+      "start": 108.975,
+      "end": 109.138,
+      "duration": 0.163
+    },
+    {
+      "text": "weeks",
+      "start": 109.15,
+      "end": 109.675,
+      "duration": 0.525
+    },
+    {
+      "text": "Subjects",
+      "start": 110.537,
+      "end": 111.2,
+      "duration": 0.662
+    },
+    {
+      "text": "consuming",
+      "start": 111.213,
+      "end": 111.787,
+      "duration": 0.575
+    },
+    {
+      "text": "red",
+      "start": 111.8,
+      "end": 112.025,
+      "duration": 0.225
+    },
+    {
+      "text": "grape",
+      "start": 112.037,
+      "end": 112.325,
+      "duration": 0.287
+    },
+    {
+      "text": "seed",
+      "start": 112.338,
+      "end": 112.6,
+      "duration": 0.263
+    },
+    {
+      "text": "extract",
+      "start": 112.612,
+      "end": 113.125,
+      "duration": 0.512
+    },
+    {
+      "text": "had",
+      "start": 113.138,
+      "end": 113.338,
+      "duration": 0.2
+    },
+    {
+      "text": "significant",
+      "start": 113.35,
+      "end": 114.013,
+      "duration": 0.662
+    },
+    {
+      "text": "decreases",
+      "start": 114.025,
+      "end": 114.625,
+      "duration": 0.6
+    },
+    {
+      "text": "in",
+      "start": 114.638,
+      "end": 114.75,
+      "duration": 0.113
+    },
+    {
+      "text": "total",
+      "start": 114.763,
+      "end": 115.075,
+      "duration": 0.312
+    },
+    {
+      "text": "cholesterol",
+      "start": 115.088,
+      "end": 115.787,
+      "duration": 0.7
+    },
+    {
+      "text": "L",
+      "start": 116.037,
+      "end": 116.213,
+      "duration": 0.175
+    },
+    {
+      "text": "D",
+      "start": 116.225,
+      "end": 116.4,
+      "duration": 0.175
+    },
+    {
+      "text": "L",
+      "start": 116.412,
+      "end": 116.588,
+      "duration": 0.175
+    },
+    {
+      "text": "cholesterol",
+      "start": 116.6,
+      "end": 117.3,
+      "duration": 0.7
+    },
+    {
+      "text": "and",
+      "start": 117.612,
+      "end": 117.75,
+      "duration": 0.138
+    },
+    {
+      "text": "oxidized",
+      "start": 117.763,
+      "end": 118.425,
+      "duration": 0.662
+    },
+    {
+      "text": "L",
+      "start": 118.438,
+      "end": 118.588,
+      "duration": 0.15
+    },
+    {
+      "text": "D",
+      "start": 118.6,
+      "end": 118.763,
+      "duration": 0.163
+    },
+    {
+      "text": "L",
+      "start": 118.775,
+      "end": 119.125,
+      "duration": 0.35
+    },
+    {
+      "text": "suggesting",
+      "start": 119.463,
+      "end": 120.15,
+      "duration": 0.688
+    },
+    {
+      "text": "that",
+      "start": 120.162,
+      "end": 120.35,
+      "duration": 0.188
+    },
+    {
+      "text": "red",
+      "start": 120.362,
+      "end": 120.588,
+      "duration": 0.225
+    },
+    {
+      "text": "grape",
+      "start": 120.6,
+      "end": 120.875,
+      "duration": 0.275
+    },
+    {
+      "text": "seed",
+      "start": 120.888,
+      "end": 121.162,
+      "duration": 0.275
+    },
+    {
+      "text": "extract",
+      "start": 121.175,
+      "end": 121.763,
+      "duration": 0.588
+    },
+    {
+      "text": "can",
+      "start": 121.775,
+      "end": 121.912,
+      "duration": 0.138
+    },
+    {
+      "text": "protect",
+      "start": 121.925,
+      "end": 122.362,
+      "duration": 0.438
+    },
+    {
+      "text": "against",
+      "start": 122.375,
+      "end": 122.725,
+      "duration": 0.35
+    },
+    {
+      "text": "the",
+      "start": 122.737,
+      "end": 122.838,
+      "duration": 0.1
+    },
+    {
+      "text": "risk",
+      "start": 122.85,
+      "end": 123.213,
+      "duration": 0.362
+    },
+    {
+      "text": "of",
+      "start": 123.225,
+      "end": 123.312,
+      "duration": 0.087
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 123.325,
+      "end": 124.463,
+      "duration": 1.137
+    },
+    {
+      "text": "and",
+      "start": 124.475,
+      "end": 124.713,
+      "duration": 0.237
+    },
+    {
+      "text": "cardiovascular",
+      "start": 124.725,
+      "end": 125.688,
+      "duration": 0.963
+    },
+    {
+      "text": "disease",
+      "start": 125.7,
+      "end": 126.3,
+      "duration": 0.6
+    },
+    {
+      "text": "In",
+      "start": 127.162,
+      "end": 127.325,
+      "duration": 0.163
+    },
+    {
+      "text": "the",
+      "start": 127.338,
+      "end": 127.425,
+      "duration": 0.087
+    },
+    {
+      "text": "study",
+      "start": 127.438,
+      "end": 127.8,
+      "duration": 0.362
+    },
+    {
+      "text": "done",
+      "start": 127.812,
+      "end": 128.062,
+      "duration": 0.25
+    },
+    {
+      "text": "by",
+      "start": 128.075,
+      "end": 128.2,
+      "duration": 0.125
+    },
+    {
+      "text": "Toscano",
+      "start": 128.213,
+      "end": 128.812,
+      "duration": 0.6
+    },
+    {
+      "text": "and",
+      "start": 128.825,
+      "end": 128.938,
+      "duration": 0.113
+    },
+    {
+      "text": "colleagues",
+      "start": 128.95,
+      "end": 129.45,
+      "duration": 0.5
+    },
+    {
+      "text": "mentioned",
+      "start": 129.463,
+      "end": 129.838,
+      "duration": 0.375
+    },
+    {
+      "text": "above",
+      "start": 129.85,
+      "end": 130.312,
+      "duration": 0.463
+    },
+    {
+      "text": "the",
+      "start": 130.675,
+      "end": 130.787,
+      "duration": 0.113
+    },
+    {
+      "text": "group",
+      "start": 130.8,
+      "end": 131.037,
+      "duration": 0.237
+    },
+    {
+      "text": "of",
+      "start": 131.05,
+      "end": 131.175,
+      "duration": 0.125
+    },
+    {
+      "text": "runners",
+      "start": 131.188,
+      "end": 131.575,
+      "duration": 0.388
+    },
+    {
+      "text": "who",
+      "start": 131.588,
+      "end": 131.7,
+      "duration": 0.113
+    },
+    {
+      "text": "were",
+      "start": 131.713,
+      "end": 131.825,
+      "duration": 0.113
+    },
+    {
+      "text": "consuming",
+      "start": 131.838,
+      "end": 132.375,
+      "duration": 0.537
+    },
+    {
+      "text": "grape",
+      "start": 132.387,
+      "end": 132.675,
+      "duration": 0.287
+    },
+    {
+      "text": "juice",
+      "start": 132.688,
+      "end": 133.0,
+      "duration": 0.312
+    },
+    {
+      "text": "also",
+      "start": 133.012,
+      "end": 133.4,
+      "duration": 0.388
+    },
+    {
+      "text": "presented",
+      "start": 133.412,
+      "end": 133.9,
+      "duration": 0.487
+    },
+    {
+      "text": "decreases",
+      "start": 133.912,
+      "end": 134.525,
+      "duration": 0.613
+    },
+    {
+      "text": "in",
+      "start": 134.537,
+      "end": 134.7,
+      "duration": 0.163
+    },
+    {
+      "text": "L",
+      "start": 134.713,
+      "end": 134.887,
+      "duration": 0.175
+    },
+    {
+      "text": "D",
+      "start": 134.9,
+      "end": 135.062,
+      "duration": 0.163
+    },
+    {
+      "text": "L",
+      "start": 135.075,
+      "end": 135.25,
+      "duration": 0.175
+    },
+    {
+      "text": "cholesterol",
+      "start": 135.262,
+      "end": 136.012,
+      "duration": 0.75
+    },
+    {
+      "text": "and",
+      "start": 136.025,
+      "end": 136.125,
+      "duration": 0.1
+    },
+    {
+      "text": "increases",
+      "start": 136.137,
+      "end": 136.8,
+      "duration": 0.662
+    },
+    {
+      "text": "in",
+      "start": 136.812,
+      "end": 137.0,
+      "duration": 0.188
+    },
+    {
+      "text": "H",
+      "start": 137.012,
+      "end": 137.275,
+      "duration": 0.263
+    },
+    {
+      "text": "D",
+      "start": 137.287,
+      "end": 137.438,
+      "duration": 0.15
+    },
+    {
+      "text": "L",
+      "start": 137.45,
+      "end": 137.613,
+      "duration": 0.163
+    },
+    {
+      "text": "cholesterol",
+      "start": 137.625,
+      "end": 138.312,
+      "duration": 0.688
+    },
+    {
+      "text": "which",
+      "start": 138.625,
+      "end": 138.875,
+      "duration": 0.25
+    },
+    {
+      "text": "results",
+      "start": 138.887,
+      "end": 139.363,
+      "duration": 0.475
+    },
+    {
+      "text": "in",
+      "start": 139.375,
+      "end": 139.463,
+      "duration": 0.087
+    },
+    {
+      "text": "a",
+      "start": 139.475,
+      "end": 139.512,
+      "duration": 0.037
+    },
+    {
+      "text": "healthier",
+      "start": 139.525,
+      "end": 140.088,
+      "duration": 0.562
+    },
+    {
+      "text": "L",
+      "start": 140.1,
+      "end": 140.262,
+      "duration": 0.163
+    },
+    {
+      "text": "D",
+      "start": 140.275,
+      "end": 140.45,
+      "duration": 0.175
+    },
+    {
+      "text": "L",
+      "start": 140.463,
+      "end": 140.713,
+      "duration": 0.25
+    },
+    {
+      "text": "to",
+      "start": 140.725,
+      "end": 140.863,
+      "duration": 0.138
+    },
+    {
+      "text": "H",
+      "start": 140.875,
+      "end": 141.2,
+      "duration": 0.325
+    },
+    {
+      "text": "D",
+      "start": 141.213,
+      "end": 141.363,
+      "duration": 0.15
+    },
+    {
+      "text": "L",
+      "start": 141.375,
+      "end": 141.55,
+      "duration": 0.175
+    },
+    {
+      "text": "ratio",
+      "start": 141.562,
+      "end": 142.1,
+      "duration": 0.537
+    },
+    {
+      "text": "a",
+      "start": 142.387,
+      "end": 142.463,
+      "duration": 0.075
+    },
+    {
+      "text": "key",
+      "start": 142.475,
+      "end": 142.713,
+      "duration": 0.237
+    },
+    {
+      "text": "biomarker",
+      "start": 142.725,
+      "end": 143.387,
+      "duration": 0.662
+    },
+    {
+      "text": "of",
+      "start": 143.4,
+      "end": 143.5,
+      "duration": 0.1
+    },
+    {
+      "text": "heart",
+      "start": 143.512,
+      "end": 143.75,
+      "duration": 0.237
+    },
+    {
+      "text": "disease",
+      "start": 143.762,
+      "end": 144.113,
+      "duration": 0.35
+    },
+    {
+      "text": "risk",
+      "start": 144.125,
+      "end": 144.588,
+      "duration": 0.463
+    },
+    {
+      "text": "A",
+      "start": 145.45,
+      "end": 145.6,
+      "duration": 0.15
+    },
+    {
+      "text": "randomized",
+      "start": 145.613,
+      "end": 146.262,
+      "duration": 0.65
+    },
+    {
+      "text": "triple-blind",
+      "start": 146.275,
+      "end": 146.975,
+      "duration": 0.7
+    },
+    {
+      "text": "and",
+      "start": 146.988,
+      "end": 147.113,
+      "duration": 0.125
+    },
+    {
+      "text": "placebo-controlled",
+      "start": 147.125,
+      "end": 148.125,
+      "duration": 1.0
+    },
+    {
+      "text": "study",
+      "start": 148.137,
+      "end": 148.5,
+      "duration": 0.362
+    },
+    {
+      "text": "was",
+      "start": 148.512,
+      "end": 148.675,
+      "duration": 0.163
+    },
+    {
+      "text": "conducted",
+      "start": 148.688,
+      "end": 149.225,
+      "duration": 0.537
+    },
+    {
+      "text": "with",
+      "start": 149.238,
+      "end": 149.363,
+      "duration": 0.125
+    },
+    {
+      "text": "statin-treated",
+      "start": 149.375,
+      "end": 150.088,
+      "duration": 0.713
+    },
+    {
+      "text": "patients",
+      "start": 150.1,
+      "end": 150.7,
+      "duration": 0.6
+    },
+    {
+      "text": "75",
+      "start": 151.05,
+      "end": 151.762,
+      "duration": 0.713
+    },
+    {
+      "text": "individuals",
+      "start": 151.775,
+      "end": 152.562,
+      "duration": 0.787
+    },
+    {
+      "text": "undergoing",
+      "start": 152.887,
+      "end": 153.412,
+      "duration": 0.525
+    },
+    {
+      "text": "primary",
+      "start": 153.425,
+      "end": 153.938,
+      "duration": 0.512
+    },
+    {
+      "text": "prevention",
+      "start": 153.95,
+      "end": 154.5,
+      "duration": 0.55
+    },
+    {
+      "text": "of",
+      "start": 154.512,
+      "end": 154.613,
+      "duration": 0.1
+    },
+    {
+      "text": "cardiovascular",
+      "start": 154.625,
+      "end": 155.537,
+      "duration": 0.912
+    },
+    {
+      "text": "disease",
+      "start": 155.55,
+      "end": 156.162,
+      "duration": 0.613
+    },
+    {
+      "text": "The",
+      "start": 157.025,
+      "end": 157.2,
+      "duration": 0.175
+    },
+    {
+      "text": "effects",
+      "start": 157.213,
+      "end": 157.662,
+      "duration": 0.45
+    },
+    {
+      "text": "of",
+      "start": 157.675,
+      "end": 157.775,
+      "duration": 0.1
+    },
+    {
+      "text": "consuming",
+      "start": 157.787,
+      "end": 158.338,
+      "duration": 0.55
+    },
+    {
+      "text": "350",
+      "start": 158.35,
+      "end": 159.325,
+      "duration": 0.975
+    },
+    {
+      "text": "milligrams",
+      "start": 159.338,
+      "end": 159.963,
+      "duration": 0.625
+    },
+    {
+      "text": "per",
+      "start": 159.975,
+      "end": 160.125,
+      "duration": 0.15
+    },
+    {
+      "text": "day",
+      "start": 160.137,
+      "end": 160.425,
+      "duration": 0.287
+    },
+    {
+      "text": "in",
+      "start": 160.438,
+      "end": 160.55,
+      "duration": 0.113
+    },
+    {
+      "text": "a",
+      "start": 160.562,
+      "end": 160.613,
+      "duration": 0.05
+    },
+    {
+      "text": "capsule",
+      "start": 160.625,
+      "end": 161.113,
+      "duration": 0.487
+    },
+    {
+      "text": "of",
+      "start": 161.125,
+      "end": 161.238,
+      "duration": 0.113
+    },
+    {
+      "text": "either",
+      "start": 161.25,
+      "end": 161.537,
+      "duration": 0.287
+    },
+    {
+      "text": "a",
+      "start": 161.55,
+      "end": 161.6,
+      "duration": 0.05
+    },
+    {
+      "text": "resveratrol-enriched",
+      "start": 161.613,
+      "end": 162.838,
+      "duration": 1.225
+    },
+    {
+      "text": "grape",
+      "start": 162.85,
+      "end": 163.113,
+      "duration": 0.263
+    },
+    {
+      "text": "extract",
+      "start": 163.125,
+      "end": 163.7,
+      "duration": 0.575
+    },
+    {
+      "text": "a",
+      "start": 163.9,
+      "end": 163.963,
+      "duration": 0.062
+    },
+    {
+      "text": "grape",
+      "start": 163.975,
+      "end": 164.275,
+      "duration": 0.3
+    },
+    {
+      "text": "extract",
+      "start": 164.287,
+      "end": 164.887,
+      "duration": 0.6
+    },
+    {
+      "text": "or",
+      "start": 165.287,
+      "end": 165.45,
+      "duration": 0.163
+    },
+    {
+      "text": "a",
+      "start": 165.463,
+      "end": 165.512,
+      "duration": 0.05
+    },
+    {
+      "text": "placebo",
+      "start": 165.525,
+      "end": 166.113,
+      "duration": 0.588
+    },
+    {
+      "text": "for",
+      "start": 166.125,
+      "end": 166.287,
+      "duration": 0.163
+    },
+    {
+      "text": "6",
+      "start": 166.3,
+      "end": 166.588,
+      "duration": 0.287
+    },
+    {
+      "text": "months",
+      "start": 166.6,
+      "end": 166.975,
+      "duration": 0.375
+    },
+    {
+      "text": "and",
+      "start": 166.988,
+      "end": 167.188,
+      "duration": 0.2
+    },
+    {
+      "text": "a",
+      "start": 167.2,
+      "end": 167.275,
+      "duration": 0.075
+    },
+    {
+      "text": "double",
+      "start": 167.287,
+      "end": 167.575,
+      "duration": 0.287
+    },
+    {
+      "text": "dose",
+      "start": 167.588,
+      "end": 167.938,
+      "duration": 0.35
+    },
+    {
+      "text": "for",
+      "start": 167.95,
+      "end": 168.05,
+      "duration": 0.1
+    },
+    {
+      "text": "the",
+      "start": 168.062,
+      "end": 168.125,
+      "duration": 0.062
+    },
+    {
+      "text": "next",
+      "start": 168.137,
+      "end": 168.438,
+      "duration": 0.3
+    },
+    {
+      "text": "6",
+      "start": 168.45,
+      "end": 168.7,
+      "duration": 0.25
+    },
+    {
+      "text": "months",
+      "start": 168.713,
+      "end": 169.075,
+      "duration": 0.362
+    },
+    {
+      "text": "were",
+      "start": 169.088,
+      "end": 169.225,
+      "duration": 0.138
+    },
+    {
+      "text": "investigated",
+      "start": 169.238,
+      "end": 170.05,
+      "duration": 0.812
+    },
+    {
+      "text": "After",
+      "start": 170.912,
+      "end": 171.287,
+      "duration": 0.375
+    },
+    {
+      "text": "a",
+      "start": 171.3,
+      "end": 171.375,
+      "duration": 0.075
+    },
+    {
+      "text": "1-year",
+      "start": 171.387,
+      "end": 171.75,
+      "duration": 0.362
+    },
+    {
+      "text": "follow-up",
+      "start": 171.762,
+      "end": 172.35,
+      "duration": 0.588
+    },
+    {
+      "text": "resveratrol-enriched",
+      "start": 172.637,
+      "end": 173.85,
+      "duration": 1.212
+    },
+    {
+      "text": "grape",
+      "start": 173.863,
+      "end": 174.15,
+      "duration": 0.287
+    },
+    {
+      "text": "extract",
+      "start": 174.162,
+      "end": 174.762,
+      "duration": 0.6
+    },
+    {
+      "text": "led",
+      "start": 174.775,
+      "end": 174.988,
+      "duration": 0.212
+    },
+    {
+      "text": "to",
+      "start": 175.0,
+      "end": 175.113,
+      "duration": 0.113
+    },
+    {
+      "text": "a",
+      "start": 175.125,
+      "end": 175.2,
+      "duration": 0.075
+    },
+    {
+      "text": "significant",
+      "start": 175.213,
+      "end": 175.875,
+      "duration": 0.662
+    },
+    {
+      "text": "decrease",
+      "start": 175.887,
+      "end": 176.387,
+      "duration": 0.5
+    },
+    {
+      "text": "in",
+      "start": 176.4,
+      "end": 176.55,
+      "duration": 0.15
+    },
+    {
+      "text": "L",
+      "start": 176.562,
+      "end": 176.738,
+      "duration": 0.175
+    },
+    {
+      "text": "D",
+      "start": 176.75,
+      "end": 176.912,
+      "duration": 0.163
+    },
+    {
+      "text": "L",
+      "start": 176.925,
+      "end": 177.088,
+      "duration": 0.163
+    },
+    {
+      "text": "cholesterol",
+      "start": 177.1,
+      "end": 177.812,
+      "duration": 0.713
+    },
+    {
+      "text": "apolipoprotein-B100",
+      "start": 178.113,
+      "end": 179.812,
+      "duration": 1.7
+    },
+    {
+      "text": "and",
+      "start": 180.062,
+      "end": 180.262,
+      "duration": 0.2
+    },
+    {
+      "text": "oxidized",
+      "start": 180.275,
+      "end": 180.938,
+      "duration": 0.662
+    },
+    {
+      "text": "L",
+      "start": 180.95,
+      "end": 181.113,
+      "duration": 0.163
+    },
+    {
+      "text": "D",
+      "start": 181.125,
+      "end": 181.312,
+      "duration": 0.188
+    },
+    {
+      "text": "L",
+      "start": 181.325,
+      "end": 181.662,
+      "duration": 0.338
+    },
+    {
+      "text": "whereas",
+      "start": 182.037,
+      "end": 182.35,
+      "duration": 0.312
+    },
+    {
+      "text": "the",
+      "start": 182.363,
+      "end": 182.45,
+      "duration": 0.087
+    },
+    {
+      "text": "non-H",
+      "start": 182.463,
+      "end": 183.0,
+      "duration": 0.537
+    },
+    {
+      "text": "D",
+      "start": 183.012,
+      "end": 183.188,
+      "duration": 0.175
+    },
+    {
+      "text": "L-C",
+      "start": 183.2,
+      "end": 183.65,
+      "duration": 0.45
+    },
+    {
+      "text": "to",
+      "start": 183.662,
+      "end": 183.812,
+      "duration": 0.15
+    },
+    {
+      "text": "ApoB",
+      "start": 183.825,
+      "end": 184.325,
+      "duration": 0.5
+    },
+    {
+      "text": "ratio",
+      "start": 184.338,
+      "end": 184.775,
+      "duration": 0.438
+    },
+    {
+      "text": "increased",
+      "start": 184.787,
+      "end": 185.45,
+      "duration": 0.662
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Dyslipidemia and L D L Oxidation.",
+      "start": 0.1,
+      "end": 2.625,
+      "word_count": 6
+    },
+    {
+      "text": "Hyperlipidemia, especially elevated L D L cholesterol, can lead to atherosclerosis through lipoprotein deposition inside the vessel wall and the induction of oxidized L D L, a key player in the formation of atherosclerotic plaques.",
+      "start": 3.5,
+      "end": 18.238,
+      "word_count": 35
+    },
+    {
+      "text": "These atherogenic markers have been shown to be modulated through the consumption of grapes and grape products.",
+      "start": 19.1,
+      "end": 24.825,
+      "word_count": 17
+    },
+    {
+      "text": "A recent paper reported that grape oil has the capacity to preserve compounds that prevent oxidative stress, including ascorbic acid, tocopherols, and procyanidins.",
+      "start": 25.688,
+      "end": 36.138,
+      "word_count": 23
+    },
+    {
+      "text": "A meta-analysis of randomized clinical trials utilizing grape products was conducted.",
+      "start": 37.013,
+      "end": 42.025,
+      "word_count": 11
+    },
+    {
+      "text": "Twenty-four articles, including 618 subjects assigned to grape, grape juice, and grape extract and 587 subjects assigned to placebo, were evaluated.",
+      "start": 42.888,
+      "end": 53.925,
+      "word_count": 21
+    },
+    {
+      "text": "The administration of grape products was associated mainly with reductions in plasma L D L-cholesterol and oxidized L D L. Millar and colleagues utilized grape powder in individuals with metabolic syndrome, who were allocated to consume either 60 grams per day of freeze-dried powder or a placebo for 4 weeks.",
+      "start": 54.788,
+      "end": 73.638,
+      "word_count": 50
+    },
+    {
+      "text": "After a 3-week washout period, they were allocated to the alternate treatment.",
+      "start": 74.5,
+      "end": 78.888,
+      "word_count": 12
+    },
+    {
+      "text": "Although no changes in high-density lipoprotein function were observed between groups, a significant decrease in plasma triglycerides was observed during the period of grape powder intake.",
+      "start": 79.763,
+      "end": 90.275,
+      "word_count": 26
+    },
+    {
+      "text": "This was an important finding because individuals in this study had elevated plasma triglycerides, a known biomarker that increases the risk of heart disease.",
+      "start": 91.138,
+      "end": 99.938,
+      "word_count": 24
+    },
+    {
+      "text": "Razavi and colleagues conducted a study on 52 mildly hyperlipidemic subjects who were given either red grape seed extract or a placebo for 8 weeks.",
+      "start": 100.8,
+      "end": 109.675,
+      "word_count": 25
+    },
+    {
+      "text": "Subjects consuming red grape seed extract had significant decreases in total cholesterol, L D L cholesterol, and oxidized L D L, suggesting that red grape seed extract can protect against the risk of atherosclerosis and cardiovascular disease.",
+      "start": 110.537,
+      "end": 126.3,
+      "word_count": 37
+    },
+    {
+      "text": "In the study done by Toscano and colleagues mentioned above, the group of runners who were consuming grape juice also presented decreases in L D L cholesterol and increases in H D L cholesterol, which results in a healthier L D L to H D L ratio, a key biomarker of heart disease risk.",
+      "start": 127.162,
+      "end": 144.588,
+      "word_count": 54
+    },
+    {
+      "text": "A randomized triple-blind and placebo-controlled study was conducted with statin-treated patients, 75 individuals, undergoing primary prevention of cardiovascular disease.",
+      "start": 145.45,
+      "end": 156.162,
+      "word_count": 19
+    },
+    {
+      "text": "The effects of consuming 350 milligrams per day in a capsule of either a resveratrol-enriched grape extract, a grape extract, or a placebo for 6 months and a double dose for the next 6 months were investigated.",
+      "start": 157.025,
+      "end": 170.05,
+      "word_count": 37
+    },
+    {
+      "text": "After a 1-year follow-up, resveratrol-enriched grape extract led to a significant decrease in L D L cholesterol, apolipoprotein-B100, and oxidized L D L, whereas the non-H D L-C to ApoB ratio increased.",
+      "start": 170.912,
+      "end": 185.45,
+      "word_count": 32
+    }
+  ],
+  "total_duration": 185.45,
+  "voice": "en-US-AriaNeural",
+  "text": "Dyslipidemia and L D L Oxidation. Hyperlipidemia, especially elevated L D L cholesterol, can lead to atherosclerosis through lipoprotein deposition inside the vessel wall and the induction of oxidized L D L, a key player in the formation of atherosclerotic plaques. These atherogenic markers have been shown to be modulated through the consumption of grapes and grape products. A recent paper reported that grape oil has the capacity to preserve compounds that prevent oxidative stress, including ascorbic acid, tocopherols, and procyanidins. A meta-analysis of randomized clinical trials utilizing grape products was conducted. Twenty-four articles, including 618 subjects assigned to grape, grape juice, and grape extract and 587 subjects assigned to placebo, were evaluated. The administration of grape products was associated mainly with reductions in plasma L D L-cholesterol and oxidized L D L. Millar and colleagues utilized grape powder in individuals with metabolic syndrome, who were allocated to consume either 60 grams per day of freeze-dried powder or a placebo for 4 weeks. After a 3-week washout period, they were allocated to the alternate treatment. Although no changes in high-density lipoprotein function were observed between groups, a significant decrease in plasma triglycerides was observed during the period of grape powder intake. This was an important finding because individuals in this study had elevated plasma triglycerides, a known biomarker that increases the risk of heart disease. Razavi and colleagues conducted a study on 52 mildly hyperlipidemic subjects who were given either red grape seed extract or a placebo for 8 weeks. Subjects consuming red grape seed extract had significant decreases in total cholesterol, L D L cholesterol, and oxidized L D L, suggesting that red grape seed extract can protect against the risk of atherosclerosis and cardiovascular disease. In the study done by Toscano and colleagues mentioned above, the group of runners who were consuming grape juice also presented decreases in L D L cholesterol and increases in H D L cholesterol, which results in a healthier L D L to H D L ratio, a key biomarker of heart disease risk. A randomized triple-blind and placebo-controlled study was conducted with statin-treated patients, 75 individuals, undergoing primary prevention of cardiovascular disease. The effects of consuming 350 milligrams per day in a capsule of either a resveratrol-enriched grape extract, a grape extract, or a placebo for 6 months and a double dose for the next 6 months were investigated. After a 1-year follow-up, resveratrol-enriched grape extract led to a significant decrease in L D L cholesterol, apolipoprotein-B100, and oxidized L D L, whereas the non-H D L-C to ApoB ratio increased."
+}

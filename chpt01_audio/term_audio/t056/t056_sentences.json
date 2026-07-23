@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Chronic cerebral hypoperfusion",
+      "start": 0.109,
+      "end": 2.462,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.462,
+  "voice": "en-US-AriaNeural"
+}

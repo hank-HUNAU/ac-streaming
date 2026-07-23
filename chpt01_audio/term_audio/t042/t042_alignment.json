@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "AD",
+      "start": 0.109,
+      "end": 0.903,
+      "duration": 0.794
+    }
+  ],
+  "sentences": [
+    {
+      "text": "AD",
+      "start": 0.109,
+      "end": 0.903,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 0.903,
+  "voice": "en-US-AriaNeural",
+  "text": "AD"
+}

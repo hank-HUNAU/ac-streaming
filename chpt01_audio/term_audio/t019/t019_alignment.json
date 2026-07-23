@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "6-OHDA",
+      "start": 0.109,
+      "end": 1.535,
+      "duration": 1.426
+    }
+  ],
+  "sentences": [
+    {
+      "text": "6-OHDA",
+      "start": 0.109,
+      "end": 1.535,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.535,
+  "voice": "en-US-AriaNeural",
+  "text": "6-OHDA"
+}

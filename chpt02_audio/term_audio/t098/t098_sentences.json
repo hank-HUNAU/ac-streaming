@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Fatty acid synthase",
+      "start": 0.109,
+      "end": 2.006,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.006,
+  "voice": "en-US-AriaNeural"
+}

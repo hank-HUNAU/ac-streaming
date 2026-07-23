@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "FDGP",
+      "start": 0.109,
+      "end": 1.579,
+      "duration": 1.471
+    }
+  ],
+  "sentences": [
+    {
+      "text": "FDGP",
+      "start": 0.109,
+      "end": 1.579,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.579,
+  "voice": "en-US-AriaNeural",
+  "text": "FDGP"
+}

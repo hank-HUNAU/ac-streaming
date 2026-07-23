@@ -1,0 +1,39 @@
+{
+  "words": [
+    {
+      "text": "Ischemia",
+      "start": 0.109,
+      "end": 0.829,
+      "duration": 0.721
+    },
+    {
+      "text": "/",
+      "start": 0.844,
+      "end": 1.315,
+      "duration": 0.471
+    },
+    {
+      "text": "reperfusion",
+      "start": 1.329,
+      "end": 2.124,
+      "duration": 0.794
+    },
+    {
+      "text": "injury",
+      "start": 2.138,
+      "end": 2.771,
+      "duration": 0.632
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ischemia/reperfusion injury reperfusion injury",
+      "start": 0.109,
+      "end": 2.771,
+      "word_count": 4
+    }
+  ],
+  "total_duration": 2.771,
+  "voice": "en-US-AriaNeural",
+  "text": "Ischemia/reperfusion injury"
+}

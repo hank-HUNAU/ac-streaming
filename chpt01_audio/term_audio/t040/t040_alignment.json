@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Choline",
+      "start": 0.109,
+      "end": 0.638,
+      "duration": 0.529
+    },
+    {
+      "text": "acetyltransferase",
+      "start": 0.653,
+      "end": 2.153,
+      "duration": 1.5
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Choline acetyltransferase",
+      "start": 0.109,
+      "end": 2.153,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 2.153,
+  "voice": "en-US-AriaNeural",
+  "text": "Choline acetyltransferase"
+}

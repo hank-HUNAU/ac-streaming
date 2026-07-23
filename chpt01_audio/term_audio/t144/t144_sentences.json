@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Blood pressure",
+      "start": 0.109,
+      "end": 1.079,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.079,
+  "voice": "en-US-AriaNeural"
+}

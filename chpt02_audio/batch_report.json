@@ -1,0 +1,82 @@
+{
+  "total": 12,
+  "success": 12,
+  "errors": 0,
+  "elapsed_sec": 164.0,
+  "elapsed_fmt": "0:02:44",
+  "results": [
+    {
+      "id": "0_grapes_and_atherosclerosis",
+      "status": "ok",
+      "word_count": 9,
+      "duration": 5.375
+    },
+    {
+      "id": "1_abstract_grapes_are",
+      "status": "ok",
+      "word_count": 210,
+      "duration": 102.9
+    },
+    {
+      "id": "4_epidemiological_information_epidemiological",
+      "status": "ok",
+      "word_count": 422,
+      "duration": 193.975
+    },
+    {
+      "id": "2_introduction_cardiovascular_diseases",
+      "status": "ok",
+      "word_count": 787,
+      "duration": 364.947
+    },
+    {
+      "id": "5_clinical_studies_it",
+      "status": "ok",
+      "word_count": 114,
+      "duration": 56.288
+    },
+    {
+      "id": "7_dyslipidemia_and_l",
+      "status": "ok",
+      "word_count": 429,
+      "duration": 185.45
+    },
+    {
+      "id": "6_endothelial_dysfunction_and",
+      "status": "ok",
+      "word_count": 655,
+      "duration": 293.155
+    },
+    {
+      "id": "3_grape_composition_grapes",
+      "status": "ok",
+      "word_count": 1372,
+      "duration": 661.029
+    },
+    {
+      "id": "8_inflammation_and_oxidative",
+      "status": "ok",
+      "word_count": 283,
+      "duration": 126.1
+    },
+    {
+      "id": "11_conclusion_there_is",
+      "status": "ok",
+      "word_count": 100,
+      "duration": 47.038
+    },
+    {
+      "id": "10_cell_studies_cell",
+      "status": "ok",
+      "word_count": 511,
+      "duration": 235.062
+    },
+    {
+      "id": "9_animal_studies_different",
+      "status": "ok",
+      "word_count": 2460,
+      "duration": 1148.311
+    }
+  ],
+  "error_details": []
+}

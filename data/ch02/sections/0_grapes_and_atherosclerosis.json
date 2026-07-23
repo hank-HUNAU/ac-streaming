@@ -1,0 +1,20 @@
+{
+  "id": "0_grapes_and_atherosclerosis",
+  "sentences": [
+    {
+      "text": "Grapes and Atherosclerosis.",
+      "start": 0.1,
+      "end": 1.962,
+      "word_count": 3
+    },
+    {
+      "text": "Maria Luz Fernandez and Jacqueline Barona.",
+      "start": 2.825,
+      "end": 5.375,
+      "word_count": 6
+    }
+  ],
+  "total_duration": 5.375,
+  "voice": "en-US-AriaNeural",
+  "title": "Title"
+}

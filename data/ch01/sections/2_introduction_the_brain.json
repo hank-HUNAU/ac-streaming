@@ -1,0 +1,182 @@
+{
+  "id": "2_introduction_the_brain",
+  "sentences": [
+    {
+      "text": "Introduction.",
+      "start": 0.1,
+      "end": 1.05,
+      "word_count": 1
+    },
+    {
+      "text": "The brain is essential for our survival and also makes us who we are.",
+      "start": 1.913,
+      "end": 5.525,
+      "word_count": 14
+    },
+    {
+      "text": "Not only does it control thoughts, memory, and emotion, but it also controls touch, motor skills, vision, and hearing, as well as basic physiological functions, such as breathing, temperature, and hunger.",
+      "start": 6.4,
+      "end": 18.762,
+      "word_count": 31
+    },
+    {
+      "text": "Thus, keeping the brain healthy is critical to maintaining one's overall well-being as well as to having a good quality of life.",
+      "start": 19.637,
+      "end": 26.6,
+      "word_count": 22
+    },
+    {
+      "text": "So how do you keep the brain healthy throughout your lifespan?",
+      "start": 27.462,
+      "end": 30.425,
+      "word_count": 11
+    },
+    {
+      "text": "Is it possible to restore normal brain function following a disease or injury?",
+      "start": 31.3,
+      "end": 35.487,
+      "word_count": 13
+    },
+    {
+      "text": "Is it possible to improve brain function even in young healthy individuals?",
+      "start": 36.362,
+      "end": 40.475,
+      "word_count": 12
+    },
+    {
+      "text": "Although these questions have consumed investigators for many years, there are still no clear answers.",
+      "start": 41.337,
+      "end": 46.85,
+      "word_count": 15
+    },
+    {
+      "text": "However, what is clear is that any approach to addressing these possibilities needs to be safe, inexpensive, readily available, and easy to access or use.",
+      "start": 47.725,
+      "end": 56.987,
+      "word_count": 25
+    },
+    {
+      "text": "Given that the improvement, maintenance, or restoration of brain function involves multiple targets and the likelihood that the relative importance of each of these targets will vary among individuals and diseases, it seems that the best approach is to identify treatments that inherently contain multiple biological activities that can impact the different targets that are associated more generally with healthy brain function.",
+      "start": 57.85,
+      "end": 80.213,
+      "word_count": 62
+    },
+    {
+      "text": "One excellent source for these types of treatments is grapes.",
+      "start": 81.088,
+      "end": 84.225,
+      "word_count": 10
+    },
+    {
+      "text": "The goal of this review is to summarize new studies on grapes and brain function that have appeared since the publication of the previous review in 2016.",
+      "start": 85.088,
+      "end": 94.35,
+      "word_count": 27
+    },
+    {
+      "text": "The studies on grapes and the brain that are discussed in this review have used a variety of nonalcoholic grape products, including grape juice; freeze-dried grape powder made from whole grapes, including seeds and skin; grape seed extracts; grape seed plus skin extracts; and Memophenol, a polyphenol-rich extract combining both grapes and blueberries.",
+      "start": 94.362,
+      "end": 115.8,
+      "word_count": 53
+    },
+    {
+      "text": "All of the studies used either Vitis vinifera or Vitus labrusca.",
+      "start": 115.812,
+      "end": 120.5,
+      "word_count": 11
+    },
+    {
+      "text": "Most of the studies included inert placebos or other controls that matched many of the components of the grape product tested, except for polyphenols.",
+      "start": 120.513,
+      "end": 129.475,
+      "word_count": 24
+    },
+    {
+      "text": "For some of the studies, freeze-dried grape powder was sourced from the California Table Grape Commission, which has been characterized in terms of polyphenol content.",
+      "start": 129.488,
+      "end": 139.05,
+      "word_count": 25
+    },
+    {
+      "text": "A few studies used commercial or in-house freeze-dried whole-grape extracts.",
+      "start": 139.062,
+      "end": 144.075,
+      "word_count": 10
+    },
+    {
+      "text": "The grape juice was made either from Concord grapes or common grapes, with white grape juice and slash or another placebo drink designed to smell, look, and taste like grape juice and used often as a caloric control.",
+      "start": 144.088,
+      "end": 156.838,
+      "word_count": 38
+    },
+    {
+      "text": "Grape seed extract and polyphenol extract were either a commercial preparation or made in-house.",
+      "start": 156.85,
+      "end": 163.213,
+      "word_count": 14
+    },
+    {
+      "text": "Grape seed and skin polyphenol extract was made in-house.",
+      "start": 163.225,
+      "end": 167.988,
+      "word_count": 9
+    },
+    {
+      "text": "Memophenol is a product of the Neurophenols Consortium and contains specific low-molecular-weight grape and blueberry polyphenols formulated in a unique, patented ratio of molecules and has been used in a number of studies in both mice and humans.",
+      "start": 168.0,
+      "end": 182.838,
+      "word_count": 38
+    },
+    {
+      "text": "Importantly, a recent bioavailability study showed that this combination of fruit extracts significantly increased plasma polyphenol levels compared to levels observed with individual extracts.",
+      "start": 183.075,
+      "end": 194.287,
+      "word_count": 24
+    },
+    {
+      "text": "While commercial preparations have been characterized in terms of polyphenol content, preparations made in-house were often not.",
+      "start": 194.3,
+      "end": 202.525,
+      "word_count": 17
+    },
+    {
+      "text": "Many studies on grape products and brain health have examined the effects of grape intake on various aspects of learning and memory, while a few studies have addressed other behaviors, such as mood.",
+      "start": 202.537,
+      "end": 213.938,
+      "word_count": 33
+    },
+    {
+      "text": "In contrast, disease-related studies have generally focused on specific disease-relevant outcomes.",
+      "start": 213.95,
+      "end": 220.7,
+      "word_count": 11
+    },
+    {
+      "text": "Some of the human studies on cognition have recently been reviewed.",
+      "start": 220.713,
+      "end": 224.925,
+      "word_count": 11
+    },
+    {
+      "text": "In this review, the effects of grape products on animal and human models of brain health and disease will be addressed first.",
+      "start": 224.938,
+      "end": 232.812,
+      "word_count": 22
+    },
+    {
+      "text": "Next, the mechanisms that are likely to contribute to their efficacy in these models will be discussed.",
+      "start": 233.037,
+      "end": 238.588,
+      "word_count": 17
+    },
+    {
+      "text": "The studies covered in the previous review will not be covered here.",
+      "start": 238.6,
+      "end": 241.762,
+      "word_count": 11
+    }
+  ],
+  "total_duration": 241.762,
+  "voice": "en-US-AriaNeural",
+  "title": "1 Introduction"
+}

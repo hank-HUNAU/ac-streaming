@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Purple",
+      "start": 0.109,
+      "end": 0.535,
+      "duration": 0.426
+    },
+    {
+      "text": "grape",
+      "start": 0.55,
+      "end": 0.874,
+      "duration": 0.324
+    },
+    {
+      "text": "juice",
+      "start": 0.888,
+      "end": 1.476,
+      "duration": 0.588
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Purple grape juice",
+      "start": 0.109,
+      "end": 1.476,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.476,
+  "voice": "en-US-AriaNeural",
+  "text": "Purple grape juice"
+}

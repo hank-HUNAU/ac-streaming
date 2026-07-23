@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Vascular",
+      "start": 0.109,
+      "end": 0.874,
+      "duration": 0.765
+    },
+    {
+      "text": "function",
+      "start": 0.888,
+      "end": 1.594,
+      "duration": 0.706
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Vascular function",
+      "start": 0.109,
+      "end": 1.594,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.594,
+  "voice": "en-US-AriaNeural",
+  "text": "Vascular function"
+}

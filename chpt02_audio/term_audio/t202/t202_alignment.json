@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Concord",
+      "start": 0.109,
+      "end": 0.726,
+      "duration": 0.618
+    },
+    {
+      "text": "grape",
+      "start": 0.741,
+      "end": 1.079,
+      "duration": 0.338
+    },
+    {
+      "text": "juice",
+      "start": 1.094,
+      "end": 1.668,
+      "duration": 0.574
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Concord grape juice",
+      "start": 0.109,
+      "end": 1.668,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.668,
+  "voice": "en-US-AriaNeural",
+  "text": "Concord grape juice"
+}

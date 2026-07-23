@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Gene expression",
+      "start": 0.109,
+      "end": 1.344,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.344,
+  "voice": "en-US-AriaNeural"
+}

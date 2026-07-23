@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Dopamine signaling pathway",
+      "start": 0.109,
+      "end": 2.197,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.197,
+  "voice": "en-US-AriaNeural"
+}

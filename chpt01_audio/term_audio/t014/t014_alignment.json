@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Lipid",
+      "start": 0.109,
+      "end": 0.579,
+      "duration": 0.471
+    },
+    {
+      "text": "peroxidation",
+      "start": 0.594,
+      "end": 1.579,
+      "duration": 0.985
+    },
+    {
+      "text": "products",
+      "start": 1.594,
+      "end": 2.388,
+      "duration": 0.794
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Lipid peroxidation products",
+      "start": 0.109,
+      "end": 2.388,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.388,
+  "voice": "en-US-AriaNeural",
+  "text": "Lipid peroxidation products"
+}

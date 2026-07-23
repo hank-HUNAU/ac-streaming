@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Cholesteryl",
+      "start": 0.109,
+      "end": 0.859,
+      "duration": 0.75
+    },
+    {
+      "text": "esters",
+      "start": 0.874,
+      "end": 1.609,
+      "duration": 0.735
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Cholesteryl esters",
+      "start": 0.109,
+      "end": 1.609,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.609,
+  "voice": "en-US-AriaNeural",
+  "text": "Cholesteryl esters"
+}

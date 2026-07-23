@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "DPPH",
+      "start": 0.109,
+      "end": 1.182,
+      "duration": 1.074
+    },
+    {
+      "text": "assay",
+      "start": 1.197,
+      "end": 1.8,
+      "duration": 0.603
+    }
+  ],
+  "sentences": [
+    {
+      "text": "DPPH assay",
+      "start": 0.109,
+      "end": 1.8,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.8,
+  "voice": "en-US-AriaNeural",
+  "text": "DPPH assay"
+}

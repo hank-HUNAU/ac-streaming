@@ -1,0 +1,102 @@
+{
+  "sentences": [
+    {
+      "text": "Dyslipidemia and L D L Oxidation.",
+      "start": 0.1,
+      "end": 2.625,
+      "word_count": 6
+    },
+    {
+      "text": "Hyperlipidemia, especially elevated L D L cholesterol, can lead to atherosclerosis through lipoprotein deposition inside the vessel wall and the induction of oxidized L D L, a key player in the formation of atherosclerotic plaques.",
+      "start": 3.5,
+      "end": 18.238,
+      "word_count": 35
+    },
+    {
+      "text": "These atherogenic markers have been shown to be modulated through the consumption of grapes and grape products.",
+      "start": 19.1,
+      "end": 24.825,
+      "word_count": 17
+    },
+    {
+      "text": "A recent paper reported that grape oil has the capacity to preserve compounds that prevent oxidative stress, including ascorbic acid, tocopherols, and procyanidins.",
+      "start": 25.688,
+      "end": 36.138,
+      "word_count": 23
+    },
+    {
+      "text": "A meta-analysis of randomized clinical trials utilizing grape products was conducted.",
+      "start": 37.013,
+      "end": 42.025,
+      "word_count": 11
+    },
+    {
+      "text": "Twenty-four articles, including 618 subjects assigned to grape, grape juice, and grape extract and 587 subjects assigned to placebo, were evaluated.",
+      "start": 42.888,
+      "end": 53.925,
+      "word_count": 21
+    },
+    {
+      "text": "The administration of grape products was associated mainly with reductions in plasma L D L-cholesterol and oxidized L D L. Millar and colleagues utilized grape powder in individuals with metabolic syndrome, who were allocated to consume either 60 grams per day of freeze-dried powder or a placebo for 4 weeks.",
+      "start": 54.788,
+      "end": 73.638,
+      "word_count": 50
+    },
+    {
+      "text": "After a 3-week washout period, they were allocated to the alternate treatment.",
+      "start": 74.5,
+      "end": 78.888,
+      "word_count": 12
+    },
+    {
+      "text": "Although no changes in high-density lipoprotein function were observed between groups, a significant decrease in plasma triglycerides was observed during the period of grape powder intake.",
+      "start": 79.763,
+      "end": 90.275,
+      "word_count": 26
+    },
+    {
+      "text": "This was an important finding because individuals in this study had elevated plasma triglycerides, a known biomarker that increases the risk of heart disease.",
+      "start": 91.138,
+      "end": 99.938,
+      "word_count": 24
+    },
+    {
+      "text": "Razavi and colleagues conducted a study on 52 mildly hyperlipidemic subjects who were given either red grape seed extract or a placebo for 8 weeks.",
+      "start": 100.8,
+      "end": 109.675,
+      "word_count": 25
+    },
+    {
+      "text": "Subjects consuming red grape seed extract had significant decreases in total cholesterol, L D L cholesterol, and oxidized L D L, suggesting that red grape seed extract can protect against the risk of atherosclerosis and cardiovascular disease.",
+      "start": 110.537,
+      "end": 126.3,
+      "word_count": 37
+    },
+    {
+      "text": "In the study done by Toscano and colleagues mentioned above, the group of runners who were consuming grape juice also presented decreases in L D L cholesterol and increases in H D L cholesterol, which results in a healthier L D L to H D L ratio, a key biomarker of heart disease risk.",
+      "start": 127.162,
+      "end": 144.588,
+      "word_count": 54
+    },
+    {
+      "text": "A randomized triple-blind and placebo-controlled study was conducted with statin-treated patients, 75 individuals, undergoing primary prevention of cardiovascular disease.",
+      "start": 145.45,
+      "end": 156.162,
+      "word_count": 19
+    },
+    {
+      "text": "The effects of consuming 350 milligrams per day in a capsule of either a resveratrol-enriched grape extract, a grape extract, or a placebo for 6 months and a double dose for the next 6 months were investigated.",
+      "start": 157.025,
+      "end": 170.05,
+      "word_count": 37
+    },
+    {
+      "text": "After a 1-year follow-up, resveratrol-enriched grape extract led to a significant decrease in L D L cholesterol, apolipoprotein-B100, and oxidized L D L, whereas the non-H D L-C to ApoB ratio increased.",
+      "start": 170.912,
+      "end": 185.45,
+      "word_count": 32
+    }
+  ],
+  "total_duration": 185.45,
+  "voice": "en-US-AriaNeural"
+}

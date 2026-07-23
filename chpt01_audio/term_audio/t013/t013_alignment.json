@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Hydroxyl",
+      "start": 0.109,
+      "end": 0.962,
+      "duration": 0.853
+    },
+    {
+      "text": "radicals",
+      "start": 0.976,
+      "end": 1.8,
+      "duration": 0.824
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Hydroxyl radicals",
+      "start": 0.109,
+      "end": 1.8,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.8,
+  "voice": "en-US-AriaNeural",
+  "text": "Hydroxyl radicals"
+}

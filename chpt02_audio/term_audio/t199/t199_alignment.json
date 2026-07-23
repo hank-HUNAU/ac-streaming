@@ -1,0 +1,39 @@
+{
+  "words": [
+    {
+      "text": "Smooth",
+      "start": 0.109,
+      "end": 0.638,
+      "duration": 0.529
+    },
+    {
+      "text": "muscle",
+      "start": 0.653,
+      "end": 1.079,
+      "duration": 0.426
+    },
+    {
+      "text": "cell",
+      "start": 1.094,
+      "end": 1.388,
+      "duration": 0.294
+    },
+    {
+      "text": "proliferation",
+      "start": 1.403,
+      "end": 2.476,
+      "duration": 1.074
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Smooth muscle cell proliferation",
+      "start": 0.109,
+      "end": 2.476,
+      "word_count": 4
+    }
+  ],
+  "total_duration": 2.476,
+  "voice": "en-US-AriaNeural",
+  "text": "Smooth muscle cell proliferation"
+}

@@ -1,0 +1,1317 @@
+{
+  "words": [
+    {
+      "text": "Abstract",
+      "start": 0.1,
+      "end": 0.988,
+      "duration": 0.887
+    },
+    {
+      "text": "Grapes",
+      "start": 1.837,
+      "end": 2.25,
+      "duration": 0.412
+    },
+    {
+      "text": "are",
+      "start": 2.263,
+      "end": 2.4,
+      "duration": 0.138
+    },
+    {
+      "text": "a",
+      "start": 2.413,
+      "end": 2.475,
+      "duration": 0.062
+    },
+    {
+      "text": "good",
+      "start": 2.487,
+      "end": 2.725,
+      "duration": 0.237
+    },
+    {
+      "text": "source",
+      "start": 2.737,
+      "end": 3.087,
+      "duration": 0.35
+    },
+    {
+      "text": "of",
+      "start": 3.1,
+      "end": 3.175,
+      "duration": 0.075
+    },
+    {
+      "text": "polyphenols",
+      "start": 3.188,
+      "end": 3.888,
+      "duration": 0.7
+    },
+    {
+      "text": "compounds",
+      "start": 4.188,
+      "end": 4.8,
+      "duration": 0.613
+    },
+    {
+      "text": "characterized",
+      "start": 4.812,
+      "end": 5.575,
+      "duration": 0.762
+    },
+    {
+      "text": "by",
+      "start": 5.588,
+      "end": 5.725,
+      "duration": 0.138
+    },
+    {
+      "text": "their",
+      "start": 5.737,
+      "end": 5.938,
+      "duration": 0.2
+    },
+    {
+      "text": "antioxidant",
+      "start": 5.95,
+      "end": 6.787,
+      "duration": 0.838
+    },
+    {
+      "text": "antifibrotic",
+      "start": 6.95,
+      "end": 7.838,
+      "duration": 0.887
+    },
+    {
+      "text": "and",
+      "start": 7.938,
+      "end": 8.113,
+      "duration": 0.175
+    },
+    {
+      "text": "anti-inflammatory",
+      "start": 8.125,
+      "end": 9.137,
+      "duration": 1.012
+    },
+    {
+      "text": "properties",
+      "start": 9.15,
+      "end": 9.912,
+      "duration": 0.762
+    },
+    {
+      "text": "Atherosclerosis",
+      "start": 10.775,
+      "end": 11.938,
+      "duration": 1.163
+    },
+    {
+      "text": "defined",
+      "start": 12.162,
+      "end": 12.625,
+      "duration": 0.463
+    },
+    {
+      "text": "as",
+      "start": 12.637,
+      "end": 12.738,
+      "duration": 0.1
+    },
+    {
+      "text": "the",
+      "start": 12.75,
+      "end": 12.85,
+      "duration": 0.1
+    },
+    {
+      "text": "narrowing",
+      "start": 12.863,
+      "end": 13.375,
+      "duration": 0.512
+    },
+    {
+      "text": "of",
+      "start": 13.387,
+      "end": 13.463,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 13.475,
+      "end": 13.588,
+      "duration": 0.113
+    },
+    {
+      "text": "lumen",
+      "start": 13.6,
+      "end": 13.95,
+      "duration": 0.35
+    },
+    {
+      "text": "in",
+      "start": 13.963,
+      "end": 14.05,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 14.062,
+      "end": 14.137,
+      "duration": 0.075
+    },
+    {
+      "text": "main",
+      "start": 14.15,
+      "end": 14.45,
+      "duration": 0.3
+    },
+    {
+      "text": "arteries",
+      "start": 14.463,
+      "end": 15.0,
+      "duration": 0.537
+    },
+    {
+      "text": "and",
+      "start": 15.012,
+      "end": 15.2,
+      "duration": 0.188
+    },
+    {
+      "text": "associated",
+      "start": 15.213,
+      "end": 15.912,
+      "duration": 0.7
+    },
+    {
+      "text": "with",
+      "start": 15.925,
+      "end": 16.062,
+      "duration": 0.138
+    },
+    {
+      "text": "decreased",
+      "start": 16.075,
+      "end": 16.575,
+      "duration": 0.5
+    },
+    {
+      "text": "blood",
+      "start": 16.587,
+      "end": 16.85,
+      "duration": 0.263
+    },
+    {
+      "text": "flow",
+      "start": 16.863,
+      "end": 17.225,
+      "duration": 0.362
+    },
+    {
+      "text": "thrombosis",
+      "start": 17.475,
+      "end": 18.225,
+      "duration": 0.75
+    },
+    {
+      "text": "and",
+      "start": 18.45,
+      "end": 18.613,
+      "duration": 0.163
+    },
+    {
+      "text": "myocardial",
+      "start": 18.625,
+      "end": 19.363,
+      "duration": 0.738
+    },
+    {
+      "text": "infarction",
+      "start": 19.375,
+      "end": 20.05,
+      "duration": 0.675
+    },
+    {
+      "text": "can",
+      "start": 20.35,
+      "end": 20.525,
+      "duration": 0.175
+    },
+    {
+      "text": "also",
+      "start": 20.538,
+      "end": 20.85,
+      "duration": 0.312
+    },
+    {
+      "text": "be",
+      "start": 20.863,
+      "end": 21.012,
+      "duration": 0.15
+    },
+    {
+      "text": "accelerated",
+      "start": 21.025,
+      "end": 21.712,
+      "duration": 0.688
+    },
+    {
+      "text": "by",
+      "start": 21.725,
+      "end": 21.9,
+      "duration": 0.175
+    },
+    {
+      "text": "oxidative",
+      "start": 21.913,
+      "end": 22.512,
+      "duration": 0.6
+    },
+    {
+      "text": "stress",
+      "start": 22.525,
+      "end": 22.988,
+      "duration": 0.463
+    },
+    {
+      "text": "inflammatory",
+      "start": 23.312,
+      "end": 24.113,
+      "duration": 0.8
+    },
+    {
+      "text": "cascades",
+      "start": 24.125,
+      "end": 24.837,
+      "duration": 0.713
+    },
+    {
+      "text": "and",
+      "start": 25.025,
+      "end": 25.2,
+      "duration": 0.175
+    },
+    {
+      "text": "fibrosis",
+      "start": 25.212,
+      "end": 26.062,
+      "duration": 0.85
+    },
+    {
+      "text": "Evidence",
+      "start": 26.938,
+      "end": 27.45,
+      "duration": 0.512
+    },
+    {
+      "text": "from",
+      "start": 27.462,
+      "end": 27.637,
+      "duration": 0.175
+    },
+    {
+      "text": "numerous",
+      "start": 27.65,
+      "end": 28.1,
+      "duration": 0.45
+    },
+    {
+      "text": "clinical",
+      "start": 28.113,
+      "end": 28.512,
+      "duration": 0.4
+    },
+    {
+      "text": "interventions",
+      "start": 28.525,
+      "end": 29.275,
+      "duration": 0.75
+    },
+    {
+      "text": "has",
+      "start": 29.288,
+      "end": 29.475,
+      "duration": 0.188
+    },
+    {
+      "text": "demonstrated",
+      "start": 29.488,
+      "end": 30.175,
+      "duration": 0.688
+    },
+    {
+      "text": "that",
+      "start": 30.188,
+      "end": 30.312,
+      "duration": 0.125
+    },
+    {
+      "text": "grape",
+      "start": 30.325,
+      "end": 30.625,
+      "duration": 0.3
+    },
+    {
+      "text": "polyphenols",
+      "start": 30.637,
+      "end": 31.325,
+      "duration": 0.688
+    },
+    {
+      "text": "from",
+      "start": 31.675,
+      "end": 31.863,
+      "duration": 0.188
+    },
+    {
+      "text": "whole",
+      "start": 31.875,
+      "end": 32.125,
+      "duration": 0.25
+    },
+    {
+      "text": "grapes",
+      "start": 32.138,
+      "end": 32.538,
+      "duration": 0.4
+    },
+    {
+      "text": "or",
+      "start": 32.55,
+      "end": 32.675,
+      "duration": 0.125
+    },
+    {
+      "text": "grape",
+      "start": 32.688,
+      "end": 32.975,
+      "duration": 0.287
+    },
+    {
+      "text": "products",
+      "start": 32.987,
+      "end": 33.525,
+      "duration": 0.537
+    },
+    {
+      "text": "affect",
+      "start": 33.862,
+      "end": 34.212,
+      "duration": 0.35
+    },
+    {
+      "text": "several",
+      "start": 34.225,
+      "end": 34.612,
+      "duration": 0.388
+    },
+    {
+      "text": "metabolic",
+      "start": 34.625,
+      "end": 35.2,
+      "duration": 0.575
+    },
+    {
+      "text": "processes",
+      "start": 35.212,
+      "end": 35.8,
+      "duration": 0.588
+    },
+    {
+      "text": "in",
+      "start": 35.812,
+      "end": 35.913,
+      "duration": 0.1
+    },
+    {
+      "text": "humans",
+      "start": 35.925,
+      "end": 36.4,
+      "duration": 0.475
+    },
+    {
+      "text": "that",
+      "start": 36.413,
+      "end": 36.513,
+      "duration": 0.1
+    },
+    {
+      "text": "are",
+      "start": 36.525,
+      "end": 36.625,
+      "duration": 0.1
+    },
+    {
+      "text": "linked",
+      "start": 36.638,
+      "end": 36.962,
+      "duration": 0.325
+    },
+    {
+      "text": "with",
+      "start": 36.975,
+      "end": 37.1,
+      "duration": 0.125
+    },
+    {
+      "text": "the",
+      "start": 37.112,
+      "end": 37.2,
+      "duration": 0.087
+    },
+    {
+      "text": "amelioration",
+      "start": 37.212,
+      "end": 38.0,
+      "duration": 0.787
+    },
+    {
+      "text": "of",
+      "start": 38.013,
+      "end": 38.1,
+      "duration": 0.087
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 38.112,
+      "end": 39.263,
+      "duration": 1.15
+    },
+    {
+      "text": "including",
+      "start": 39.6,
+      "end": 40.188,
+      "duration": 0.588
+    },
+    {
+      "text": "decreases",
+      "start": 40.2,
+      "end": 40.763,
+      "duration": 0.562
+    },
+    {
+      "text": "in",
+      "start": 40.775,
+      "end": 40.913,
+      "duration": 0.138
+    },
+    {
+      "text": "low-density",
+      "start": 40.925,
+      "end": 41.513,
+      "duration": 0.588
+    },
+    {
+      "text": "lipoprotein",
+      "start": 41.525,
+      "end": 42.325,
+      "duration": 0.8
+    },
+    {
+      "text": "oxidation",
+      "start": 42.337,
+      "end": 43.112,
+      "duration": 0.775
+    },
+    {
+      "text": "and",
+      "start": 43.125,
+      "end": 43.263,
+      "duration": 0.138
+    },
+    {
+      "text": "platelet",
+      "start": 43.275,
+      "end": 43.7,
+      "duration": 0.425
+    },
+    {
+      "text": "aggregation",
+      "start": 43.712,
+      "end": 44.413,
+      "duration": 0.7
+    },
+    {
+      "text": "decreases",
+      "start": 44.75,
+      "end": 45.275,
+      "duration": 0.525
+    },
+    {
+      "text": "in",
+      "start": 45.288,
+      "end": 45.413,
+      "duration": 0.125
+    },
+    {
+      "text": "dyslipidemias",
+      "start": 45.425,
+      "end": 46.438,
+      "duration": 1.012
+    },
+    {
+      "text": "increases",
+      "start": 46.763,
+      "end": 47.362,
+      "duration": 0.6
+    },
+    {
+      "text": "in",
+      "start": 47.375,
+      "end": 47.487,
+      "duration": 0.113
+    },
+    {
+      "text": "flow-mediated",
+      "start": 47.5,
+      "end": 48.275,
+      "duration": 0.775
+    },
+    {
+      "text": "vasodilation",
+      "start": 48.288,
+      "end": 49.175,
+      "duration": 0.887
+    },
+    {
+      "text": "reduction",
+      "start": 49.538,
+      "end": 50.0,
+      "duration": 0.463
+    },
+    {
+      "text": "in",
+      "start": 50.013,
+      "end": 50.125,
+      "duration": 0.113
+    },
+    {
+      "text": "inflammatory",
+      "start": 50.138,
+      "end": 50.875,
+      "duration": 0.738
+    },
+    {
+      "text": "cytokines",
+      "start": 50.888,
+      "end": 51.675,
+      "duration": 0.787
+    },
+    {
+      "text": "and",
+      "start": 51.962,
+      "end": 52.138,
+      "duration": 0.175
+    },
+    {
+      "text": "lowering",
+      "start": 52.15,
+      "end": 52.612,
+      "duration": 0.463
+    },
+    {
+      "text": "of",
+      "start": 52.625,
+      "end": 52.725,
+      "duration": 0.1
+    },
+    {
+      "text": "oxidative",
+      "start": 52.737,
+      "end": 53.337,
+      "duration": 0.6
+    },
+    {
+      "text": "stress",
+      "start": 53.35,
+      "end": 53.9,
+      "duration": 0.55
+    },
+    {
+      "text": "Grape",
+      "start": 54.775,
+      "end": 55.112,
+      "duration": 0.338
+    },
+    {
+      "text": "polyphenols",
+      "start": 55.125,
+      "end": 55.788,
+      "duration": 0.662
+    },
+    {
+      "text": "have",
+      "start": 55.8,
+      "end": 55.962,
+      "duration": 0.163
+    },
+    {
+      "text": "also",
+      "start": 55.975,
+      "end": 56.325,
+      "duration": 0.35
+    },
+    {
+      "text": "been",
+      "start": 56.337,
+      "end": 56.5,
+      "duration": 0.163
+    },
+    {
+      "text": "shown",
+      "start": 56.513,
+      "end": 56.825,
+      "duration": 0.312
+    },
+    {
+      "text": "to",
+      "start": 56.837,
+      "end": 56.913,
+      "duration": 0.075
+    },
+    {
+      "text": "decrease",
+      "start": 56.925,
+      "end": 57.362,
+      "duration": 0.438
+    },
+    {
+      "text": "atherosclerotic",
+      "start": 57.375,
+      "end": 58.413,
+      "duration": 1.038
+    },
+    {
+      "text": "plaques",
+      "start": 58.425,
+      "end": 58.85,
+      "duration": 0.425
+    },
+    {
+      "text": "in",
+      "start": 58.862,
+      "end": 59.062,
+      "duration": 0.2
+    },
+    {
+      "text": "animal",
+      "start": 59.075,
+      "end": 59.413,
+      "duration": 0.338
+    },
+    {
+      "text": "studies",
+      "start": 59.425,
+      "end": 59.962,
+      "duration": 0.537
+    },
+    {
+      "text": "and",
+      "start": 59.975,
+      "end": 60.188,
+      "duration": 0.212
+    },
+    {
+      "text": "to",
+      "start": 60.2,
+      "end": 60.325,
+      "duration": 0.125
+    },
+    {
+      "text": "reduce",
+      "start": 60.337,
+      "end": 60.725,
+      "duration": 0.388
+    },
+    {
+      "text": "inflammation",
+      "start": 60.737,
+      "end": 61.575,
+      "duration": 0.838
+    },
+    {
+      "text": "and",
+      "start": 61.587,
+      "end": 61.7,
+      "duration": 0.113
+    },
+    {
+      "text": "cholesterol",
+      "start": 61.712,
+      "end": 62.413,
+      "duration": 0.7
+    },
+    {
+      "text": "in",
+      "start": 62.425,
+      "end": 62.55,
+      "duration": 0.125
+    },
+    {
+      "text": "the",
+      "start": 62.562,
+      "end": 62.65,
+      "duration": 0.087
+    },
+    {
+      "text": "aorta",
+      "start": 62.663,
+      "end": 63.225,
+      "duration": 0.562
+    },
+    {
+      "text": "At",
+      "start": 64.088,
+      "end": 64.263,
+      "duration": 0.175
+    },
+    {
+      "text": "the",
+      "start": 64.275,
+      "end": 64.375,
+      "duration": 0.1
+    },
+    {
+      "text": "cellular",
+      "start": 64.388,
+      "end": 64.9,
+      "duration": 0.512
+    },
+    {
+      "text": "level",
+      "start": 64.912,
+      "end": 65.287,
+      "duration": 0.375
+    },
+    {
+      "text": "polyphenols",
+      "start": 65.588,
+      "end": 66.275,
+      "duration": 0.688
+    },
+    {
+      "text": "from",
+      "start": 66.287,
+      "end": 66.45,
+      "duration": 0.163
+    },
+    {
+      "text": "grape",
+      "start": 66.463,
+      "end": 66.775,
+      "duration": 0.312
+    },
+    {
+      "text": "seeds",
+      "start": 66.787,
+      "end": 67.2,
+      "duration": 0.412
+    },
+    {
+      "text": "and",
+      "start": 67.213,
+      "end": 67.3,
+      "duration": 0.087
+    },
+    {
+      "text": "grape",
+      "start": 67.312,
+      "end": 67.638,
+      "duration": 0.325
+    },
+    {
+      "text": "pomace",
+      "start": 67.65,
+      "end": 68.088,
+      "duration": 0.438
+    },
+    {
+      "text": "have",
+      "start": 68.1,
+      "end": 68.237,
+      "duration": 0.138
+    },
+    {
+      "text": "been",
+      "start": 68.25,
+      "end": 68.4,
+      "duration": 0.15
+    },
+    {
+      "text": "shown",
+      "start": 68.412,
+      "end": 68.763,
+      "duration": 0.35
+    },
+    {
+      "text": "to",
+      "start": 68.775,
+      "end": 68.875,
+      "duration": 0.1
+    },
+    {
+      "text": "lower",
+      "start": 68.888,
+      "end": 69.275,
+      "duration": 0.388
+    },
+    {
+      "text": "oxidative",
+      "start": 69.287,
+      "end": 69.85,
+      "duration": 0.562
+    },
+    {
+      "text": "stress",
+      "start": 69.862,
+      "end": 70.3,
+      "duration": 0.438
+    },
+    {
+      "text": "by",
+      "start": 70.312,
+      "end": 70.45,
+      "duration": 0.138
+    },
+    {
+      "text": "the",
+      "start": 70.463,
+      "end": 70.562,
+      "duration": 0.1
+    },
+    {
+      "text": "reduction",
+      "start": 70.575,
+      "end": 71.112,
+      "duration": 0.537
+    },
+    {
+      "text": "of",
+      "start": 71.125,
+      "end": 71.225,
+      "duration": 0.1
+    },
+    {
+      "text": "nuclear",
+      "start": 71.237,
+      "end": 71.688,
+      "duration": 0.45
+    },
+    {
+      "text": "factor-kappa",
+      "start": 71.7,
+      "end": 72.425,
+      "duration": 0.725
+    },
+    {
+      "text": "B",
+      "start": 72.438,
+      "end": 72.55,
+      "duration": 0.113
+    },
+    {
+      "text": "production",
+      "start": 72.562,
+      "end": 73.15,
+      "duration": 0.588
+    },
+    {
+      "text": "upregulate",
+      "start": 73.562,
+      "end": 74.237,
+      "duration": 0.675
+    },
+    {
+      "text": "endothelial",
+      "start": 74.25,
+      "end": 74.95,
+      "duration": 0.7
+    },
+    {
+      "text": "nitric",
+      "start": 74.963,
+      "end": 75.35,
+      "duration": 0.388
+    },
+    {
+      "text": "oxide",
+      "start": 75.362,
+      "end": 75.8,
+      "duration": 0.438
+    },
+    {
+      "text": "synthetase",
+      "start": 75.812,
+      "end": 76.475,
+      "duration": 0.662
+    },
+    {
+      "text": "inhibit",
+      "start": 76.787,
+      "end": 77.287,
+      "duration": 0.5
+    },
+    {
+      "text": "platelet-derived",
+      "start": 77.3,
+      "end": 78.15,
+      "duration": 0.85
+    },
+    {
+      "text": "growth",
+      "start": 78.162,
+      "end": 78.475,
+      "duration": 0.312
+    },
+    {
+      "text": "factor",
+      "start": 78.487,
+      "end": 78.862,
+      "duration": 0.375
+    },
+    {
+      "text": "receptor",
+      "start": 78.875,
+      "end": 79.425,
+      "duration": 0.55
+    },
+    {
+      "text": "and",
+      "start": 79.737,
+      "end": 79.85,
+      "duration": 0.113
+    },
+    {
+      "text": "decrease",
+      "start": 79.862,
+      "end": 80.325,
+      "duration": 0.463
+    },
+    {
+      "text": "cyclo-oxygenase",
+      "start": 80.338,
+      "end": 81.362,
+      "duration": 1.025
+    },
+    {
+      "text": "activity",
+      "start": 81.375,
+      "end": 81.975,
+      "duration": 0.6
+    },
+    {
+      "text": "among",
+      "start": 82.188,
+      "end": 82.487,
+      "duration": 0.3
+    },
+    {
+      "text": "other",
+      "start": 82.5,
+      "end": 82.713,
+      "duration": 0.212
+    },
+    {
+      "text": "mechanisms",
+      "start": 82.725,
+      "end": 83.537,
+      "duration": 0.812
+    },
+    {
+      "text": "Resveratrol",
+      "start": 84.4,
+      "end": 85.263,
+      "duration": 0.863
+    },
+    {
+      "text": "has",
+      "start": 85.275,
+      "end": 85.45,
+      "duration": 0.175
+    },
+    {
+      "text": "also",
+      "start": 85.463,
+      "end": 85.8,
+      "duration": 0.338
+    },
+    {
+      "text": "been",
+      "start": 85.812,
+      "end": 85.987,
+      "duration": 0.175
+    },
+    {
+      "text": "demonstrated",
+      "start": 86.0,
+      "end": 86.7,
+      "duration": 0.7
+    },
+    {
+      "text": "to",
+      "start": 86.713,
+      "end": 86.8,
+      "duration": 0.087
+    },
+    {
+      "text": "mediate",
+      "start": 86.812,
+      "end": 87.287,
+      "duration": 0.475
+    },
+    {
+      "text": "an",
+      "start": 87.3,
+      "end": 87.463,
+      "duration": 0.163
+    },
+    {
+      "text": "anti-inflammatory",
+      "start": 87.475,
+      "end": 88.525,
+      "duration": 1.05
+    },
+    {
+      "text": "response",
+      "start": 88.537,
+      "end": 89.125,
+      "duration": 0.588
+    },
+    {
+      "text": "through",
+      "start": 89.138,
+      "end": 89.275,
+      "duration": 0.138
+    },
+    {
+      "text": "the",
+      "start": 89.287,
+      "end": 89.388,
+      "duration": 0.1
+    },
+    {
+      "text": "toll-like",
+      "start": 89.4,
+      "end": 89.888,
+      "duration": 0.487
+    },
+    {
+      "text": "receptor",
+      "start": 89.9,
+      "end": 90.4,
+      "duration": 0.5
+    },
+    {
+      "text": "4",
+      "start": 90.412,
+      "end": 90.775,
+      "duration": 0.362
+    },
+    {
+      "text": "nuclear",
+      "start": 91.05,
+      "end": 91.475,
+      "duration": 0.425
+    },
+    {
+      "text": "factor-kappa",
+      "start": 91.487,
+      "end": 92.188,
+      "duration": 0.7
+    },
+    {
+      "text": "B",
+      "start": 92.2,
+      "end": 92.513,
+      "duration": 0.312
+    },
+    {
+      "text": "and",
+      "start": 92.825,
+      "end": 92.963,
+      "duration": 0.138
+    },
+    {
+      "text": "hypoxia-inducible",
+      "start": 92.975,
+      "end": 94.162,
+      "duration": 1.188
+    },
+    {
+      "text": "factor",
+      "start": 94.175,
+      "end": 94.562,
+      "duration": 0.388
+    },
+    {
+      "text": "pathways",
+      "start": 94.575,
+      "end": 95.338,
+      "duration": 0.762
+    },
+    {
+      "text": "Overall",
+      "start": 96.2,
+      "end": 96.862,
+      "duration": 0.662
+    },
+    {
+      "text": "there",
+      "start": 97.05,
+      "end": 97.213,
+      "duration": 0.163
+    },
+    {
+      "text": "appears",
+      "start": 97.225,
+      "end": 97.625,
+      "duration": 0.4
+    },
+    {
+      "text": "to",
+      "start": 97.638,
+      "end": 97.725,
+      "duration": 0.087
+    },
+    {
+      "text": "be",
+      "start": 97.737,
+      "end": 97.85,
+      "duration": 0.113
+    },
+    {
+      "text": "strong",
+      "start": 97.862,
+      "end": 98.325,
+      "duration": 0.463
+    },
+    {
+      "text": "evidence",
+      "start": 98.338,
+      "end": 98.787,
+      "duration": 0.45
+    },
+    {
+      "text": "of",
+      "start": 98.8,
+      "end": 98.888,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 98.9,
+      "end": 98.987,
+      "duration": 0.087
+    },
+    {
+      "text": "protective",
+      "start": 99.0,
+      "end": 99.513,
+      "duration": 0.512
+    },
+    {
+      "text": "effects",
+      "start": 99.525,
+      "end": 99.938,
+      "duration": 0.412
+    },
+    {
+      "text": "of",
+      "start": 99.95,
+      "end": 100.037,
+      "duration": 0.087
+    },
+    {
+      "text": "grapes",
+      "start": 100.05,
+      "end": 100.475,
+      "duration": 0.425
+    },
+    {
+      "text": "and",
+      "start": 100.487,
+      "end": 100.662,
+      "duration": 0.175
+    },
+    {
+      "text": "their",
+      "start": 100.675,
+      "end": 100.812,
+      "duration": 0.138
+    },
+    {
+      "text": "products",
+      "start": 100.825,
+      "end": 101.325,
+      "duration": 0.5
+    },
+    {
+      "text": "against",
+      "start": 101.338,
+      "end": 101.713,
+      "duration": 0.375
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 101.725,
+      "end": 102.9,
+      "duration": 1.175
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Abstract.",
+      "start": 0.1,
+      "end": 0.988,
+      "word_count": 1
+    },
+    {
+      "text": "Grapes are a good source of polyphenols, compounds characterized by their antioxidant, antifibrotic and anti-inflammatory properties.",
+      "start": 1.837,
+      "end": 9.912,
+      "word_count": 16
+    },
+    {
+      "text": "Atherosclerosis, defined as the narrowing of the lumen in the main arteries and associated with decreased blood flow, thrombosis, and myocardial infarction, can also be accelerated by oxidative stress, inflammatory cascades, and fibrosis.",
+      "start": 10.775,
+      "end": 26.062,
+      "word_count": 33
+    },
+    {
+      "text": "Evidence from numerous clinical interventions has demonstrated that grape polyphenols, from whole grapes or grape products, affect several metabolic processes in humans that are linked with the amelioration of atherosclerosis, including decreases in low-density lipoprotein oxidation and platelet aggregation, decreases in dyslipidemias, increases in flow-mediated vasodilation, reduction in inflammatory cytokines, and lowering of oxidative stress.",
+      "start": 26.938,
+      "end": 53.9,
+      "word_count": 55
+    },
+    {
+      "text": "Grape polyphenols have also been shown to decrease atherosclerotic plaques in animal studies and to reduce inflammation and cholesterol in the aorta.",
+      "start": 54.775,
+      "end": 63.225,
+      "word_count": 22
+    },
+    {
+      "text": "At the cellular level, polyphenols from grape seeds and grape pomace have been shown to lower oxidative stress by the reduction of nuclear factor-kappa B production, upregulate endothelial nitric oxide synthetase, inhibit platelet-derived growth factor receptor, and decrease cyclo-oxygenase activity, among other mechanisms.",
+      "start": 64.088,
+      "end": 83.537,
+      "word_count": 43
+    },
+    {
+      "text": "Resveratrol has also been demonstrated to mediate an anti-inflammatory response through the toll-like receptor 4, nuclear factor-kappa B, and hypoxia-inducible factor pathways.",
+      "start": 84.4,
+      "end": 95.338,
+      "word_count": 22
+    },
+    {
+      "text": "Overall, there appears to be strong evidence of the protective effects of grapes and their products against atherosclerosis.",
+      "start": 96.2,
+      "end": 102.9,
+      "word_count": 18
+    }
+  ],
+  "total_duration": 102.9,
+  "voice": "en-US-AriaNeural",
+  "text": "Abstract. Grapes are a good source of polyphenols, compounds characterized by their antioxidant, antifibrotic and anti-inflammatory properties. Atherosclerosis, defined as the narrowing of the lumen in the main arteries and associated with decreased blood flow, thrombosis, and myocardial infarction, can also be accelerated by oxidative stress, inflammatory cascades, and fibrosis. Evidence from numerous clinical interventions has demonstrated that grape polyphenols, from whole grapes or grape products, affect several metabolic processes in humans that are linked with the amelioration of atherosclerosis, including decreases in low-density lipoprotein oxidation and platelet aggregation, decreases in dyslipidemias, increases in flow-mediated vasodilation, reduction in inflammatory cytokines, and lowering of oxidative stress. Grape polyphenols have also been shown to decrease atherosclerotic plaques in animal studies and to reduce inflammation and cholesterol in the aorta. At the cellular level, polyphenols from grape seeds and grape pomace have been shown to lower oxidative stress by the reduction of nuclear factor-kappa B production, upregulate endothelial nitric oxide synthetase, inhibit platelet-derived growth factor receptor, and decrease cyclo-oxygenase activity, among other mechanisms. Resveratrol has also been demonstrated to mediate an anti-inflammatory response through the toll-like receptor 4, nuclear factor-kappa B, and hypoxia-inducible factor pathways. Overall, there appears to be strong evidence of the protective effects of grapes and their products against atherosclerosis."
+}

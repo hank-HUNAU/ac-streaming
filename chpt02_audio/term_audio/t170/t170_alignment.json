@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Endothelial",
+      "start": 0.109,
+      "end": 0.991,
+      "duration": 0.882
+    },
+    {
+      "text": "cells",
+      "start": 1.006,
+      "end": 1.653,
+      "duration": 0.647
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Endothelial cells",
+      "start": 0.109,
+      "end": 1.653,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.653,
+  "voice": "en-US-AriaNeural",
+  "text": "Endothelial cells"
+}

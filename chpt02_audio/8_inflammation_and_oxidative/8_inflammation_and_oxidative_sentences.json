@@ -1,0 +1,66 @@
+{
+  "sentences": [
+    {
+      "text": "Inflammation and Oxidative Stress.",
+      "start": 0.1,
+      "end": 2.288,
+      "word_count": 4
+    },
+    {
+      "text": "Inflammation has a significant role in atherosclerotic lesion development, which is driven by the release of local cytokines acting upon the endothelium and smooth muscle cells.",
+      "start": 3.163,
+      "end": 13.287,
+      "word_count": 26
+    },
+    {
+      "text": "Janiques and colleagues investigated the anti-inflammatory and antioxidative effects of grapes in hemodialysis patients.",
+      "start": 14.15,
+      "end": 21.125,
+      "word_count": 14
+    },
+    {
+      "text": "This was a double-blind placebo-controlled study in which 32 subjects undergoing hemodialysis were given either 500 milligrams of polyphenol from grape powder per day or a placebo for 5 weeks.",
+      "start": 22.0,
+      "end": 33.75,
+      "word_count": 30
+    },
+    {
+      "text": "Subjects consuming the grape powder had an increase in glutathione peroxidase activity and no increase in C-reactive protein, which was observed in the placebo group, demonstrating the antioxidant potential of grapes in these patients.",
+      "start": 34.612,
+      "end": 48.138,
+      "word_count": 34
+    },
+    {
+      "text": "Using the same study design with statin-treated patients and grape products, resveratrol-enriched grape extract and grape extract, in a high-risk population of 75 individuals with stable coronary artery disease and receiving a higher dose of statins, Tomé-Carneiro and colleagues reported an increase in the anti-inflammatory serum adiponectin and a decrease in the thrombogenic P A I-1 in the resveratrol-enriched grape extract group, in contrast to the grape extract and placebo groups, after 12 months of intervention.",
+      "start": 49.013,
+      "end": 81.562,
+      "word_count": 76
+    },
+    {
+      "text": "Additionally, resveratrol-enriched grape extract downregulated pro-inflammatory gene expression in peripheral blood mononuclear cells extracted from the participants.",
+      "start": 82.438,
+      "end": 92.362,
+      "word_count": 17
+    },
+    {
+      "text": "However, not all the published literature supports the anti-inflammatory effects of grapes.",
+      "start": 93.237,
+      "end": 98.463,
+      "word_count": 12
+    },
+    {
+      "text": "In contrast to these studies, a meta-analysis on the effects of grape polyphenols on selected inflammatory markers by Haghighatdoost and colleagues reported no significant changes in C-reactive protein, I L-6, or T N F-alpha between the intervention and the control groups.",
+      "start": 99.338,
+      "end": 115.662,
+      "word_count": 41
+    },
+    {
+      "text": "These results point to the need to conduct more clinical trials with a higher number of participants to increase our understanding of the effects of grape polyphenols on inflammation.",
+      "start": 116.537,
+      "end": 126.1,
+      "word_count": 29
+    }
+  ],
+  "total_duration": 126.1,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,57 @@
+{
+  "words": [
+    {
+      "text": "SR-B1",
+      "start": 0.109,
+      "end": 1.197,
+      "duration": 1.088
+    },
+    {
+      "text": "KO",
+      "start": 1.212,
+      "end": 1.653,
+      "duration": 0.441
+    },
+    {
+      "text": "/",
+      "start": 1.668,
+      "end": 2.124,
+      "duration": 0.456
+    },
+    {
+      "text": "ApoER61h",
+      "start": 2.138,
+      "end": 4.197,
+      "duration": 2.059
+    },
+    {
+      "text": "/",
+      "start": 4.212,
+      "end": 4.638,
+      "duration": 0.426
+    },
+    {
+      "text": "h",
+      "start": 4.653,
+      "end": 4.918,
+      "duration": 0.265
+    },
+    {
+      "text": "mouse",
+      "start": 4.932,
+      "end": 5.565,
+      "duration": 0.632
+    }
+  ],
+  "sentences": [
+    {
+      "text": "SR-B1 KO/ApoER61h/h mouse ApoER61h / h mouse",
+      "start": 0.109,
+      "end": 5.565,
+      "word_count": 7
+    }
+  ],
+  "total_duration": 5.565,
+  "voice": "en-US-AriaNeural",
+  "text": "SR-B1 KO/ApoER61h/h mouse"
+}

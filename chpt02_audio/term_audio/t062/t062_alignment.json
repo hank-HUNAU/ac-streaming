@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "GSH",
+      "start": 0.109,
+      "end": 1.271,
+      "duration": 1.162
+    }
+  ],
+  "sentences": [
+    {
+      "text": "GSH",
+      "start": 0.109,
+      "end": 1.271,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.271,
+  "voice": "en-US-AriaNeural",
+  "text": "GSH"
+}

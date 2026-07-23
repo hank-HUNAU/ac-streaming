@@ -1,0 +1,1079 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<title>学术听力</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --bg:#f5f5f7;--card:#fff;--text:#1d1d1f;--text2:#86868b;--text3:#aeaeb2;
+  --accent-teal:#1b6b6b;--sep:#e5e5ea;--gold:#d4a017;--red:#e74c3c;
+  --title-font:'Georgia','Times New Roman',serif;
+  --ui-font:-apple-system,BlinkMacSystemFont,'SF Pro Display','Helvetica Neue',sans-serif;
+}
+html,body{height:100%;overflow:hidden}
+body{
+  font-family:var(--ui-font);background:var(--bg);color:var(--text);
+  -webkit-font-smoothing:antialiased;display:flex;justify-content:center;
+  position:fixed;top:0;left:0;right:0;bottom:0;
+}
+.app{max-width:430px;width:100%;height:100%;display:flex;flex-direction:column}
+
+/* Header */
+.header{padding:16px 20px 12px;flex-shrink:0}
+
+/* Content */
+.content{flex:1;padding:0 20px;overflow-y:auto;-webkit-overflow-scrolling:touch}
+
+/* Paper List */
+.paper-list{display:flex;flex-direction:column;gap:12px;padding-bottom:20px}
+.paper-card{
+  background:var(--card);border-radius:14px;padding:16px;
+  box-shadow:0 1px 4px rgba(0,0,0,.06);cursor:pointer;
+  transition:transform .15s,box-shadow .15s;
+}
+.paper-card:active{transform:scale(.98)}
+.paper-card.pending{opacity:.5;pointer-events:none}
+.paper-card-inner{display:flex;gap:14px;align-items:flex-start}
+.paper-num{
+  width:44px;height:44px;border-radius:12px;background:var(--accent-teal);
+  color:#fff;font-size:16px;font-weight:700;display:flex;align-items:center;justify-content:center;flex-shrink:0;
+  font-family:var(--title-font);
+}
+.paper-num.pending-badge{background:var(--sep);color:var(--text2)}
+.paper-info{flex:1;min-width:0}
+.paper-name{font-size:15px;font-weight:700;color:var(--text);line-height:1.3;margin-bottom:3px}
+.paper-author{font-size:12px;color:var(--text2);margin-bottom:4px}
+.paper-meta{font-size:11px;color:var(--text3);display:flex;gap:12px;flex-wrap:wrap}
+.paper-meta .badge{display:inline-block;padding:2px 8px;border-radius:10px;font-size:10px;font-weight:600}
+.badge-journal{background:#e8f5f5;color:var(--accent-teal)}
+.badge-year{background:#f0f0f5;color:var(--text2)}
+.badge-doi{background:#eaf0ff;color:#3498db}
+.badge-ready{background:#eafff0;color:#2ecc71}
+.badge-pending{background:#f5f5f5;color:var(--text3)}
+.paper-arrow{color:var(--text3);font-size:18px;flex-shrink:0;margin-top:12px}
+
+/* Paper Detail */
+.paper-detail{padding-bottom:20px}
+.paper-detail-meta{text-align:center;margin-bottom:10px;font-size:11px;color:var(--text2)}
+.paper-detail-meta span{margin:0 6px}
+.card-stage{display:flex;justify-content:center;margin-bottom:14px}
+.cover-card{
+  width:100%;max-width:210px;aspect-ratio:3/4;max-height:280px;
+  border-radius:14px;overflow:hidden;border:none;
+  background:var(--accent-teal);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  padding:20px;text-align:center;
+}
+.cover-title{font-family:var(--title-font);font-size:16px;font-weight:700;line-height:1.4;color:#fff;margin-bottom:8px}
+.cover-author{font-size:13px;color:rgba(255,255,255,.7);line-height:1.3}
+.cover-meta{font-size:10px;color:rgba(255,255,255,.5);margin-top:8px}
+
+.actions{display:flex;gap:14px;margin-bottom:16px}
+.action-btn{flex:1;display:flex;flex-direction:column;align-items:center;gap:6px;padding:20px 0;border-radius:16px;border:none;cursor:pointer;font-family:var(--ui-font);transition:transform .15s,box-shadow .15s}
+.action-btn:active{transform:scale(.97)}
+.action-btn.primary{background:var(--card);color:var(--accent-teal);box-shadow:0 1px 4px rgba(0,0,0,.06)}
+.action-btn.secondary{background:var(--card);color:var(--text);box-shadow:0 1px 4px rgba(0,0,0,.06)}
+.action-btn .btn-icon{font-size:24px;line-height:1}
+.action-btn .btn-title{font-size:16px;font-weight:700}
+.action-btn .btn-desc{font-size:11px;opacity:.7;margin-top:-2px}
+.action-btn.secondary .btn-title{color:var(--accent-teal)}
+
+/* Detail row for extra actions */
+.detail-extra{display:flex;gap:10px;margin-bottom:16px}
+.detail-extra .btn-small{flex:1;padding:12px;border-radius:12px;border:none;background:var(--card);color:var(--text);font-size:13px;font-weight:600;cursor:pointer;box-shadow:0 1px 4px rgba(0,0,0,.06);display:flex;align-items:center;justify-content:center;gap:6px}
+.detail-extra .btn-small:active{transform:scale(.97)}
+.detail-extra .btn-small svg{width:16px;height:16px;fill:var(--accent-teal)}
+
+.stats-panel{background:var(--card);border-radius:16px;padding:18px 20px;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+.stats-row{display:flex;align-items:center;gap:18px}
+.ring-wrap{position:relative;width:76px;height:76px;flex-shrink:0}
+.ring-wrap canvas{width:76px;height:76px}
+.ring-center{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center}
+.ring-pct{font-size:20px;font-weight:700;color:var(--accent-teal);line-height:1}
+.ring-label{font-size:10px;color:var(--text2)}
+.progress-stats{flex:1}
+.stat-item{display:flex;justify-content:space-between;align-items:center;padding:5px 0;border-bottom:1px solid rgba(0,0,0,.04);font-size:13px}
+.stat-item:last-child{border-bottom:none}
+.stat-label{color:var(--text2)}
+.stat-val{font-weight:600;color:var(--text)}
+.stat-val.done{color:var(--accent-teal)}
+
+/* Bottom Nav */
+.nav-bar{display:flex;background:rgba(255,255,255,.85);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-top:1px solid var(--sep);padding:8px 0 env(safe-area-inset-bottom);flex-shrink:0}
+.nav-item{flex:1;display:flex;flex-direction:column;align-items:center;gap:4px;padding:6px 0;cursor:pointer;color:var(--text3);transition:color .15s}
+.nav-item.active{color:var(--accent-teal)}
+.nav-item svg{width:24px;height:24px}
+.nav-item .nav-label{font-size:11px;font-weight:500}
+
+/* Modal Overlay */
+.modal-overlay{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.5);z-index:100;display:none;align-items:center;justify-content:center}
+.modal-overlay.show{display:flex}
+.modal{
+  width:100vw;height:100vh;max-width:none;max-height:none;
+  background:var(--bg);
+  display:flex;flex-direction:column;
+  overflow:hidden;border-radius:0;
+}
+.modal-header{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:16px 20px;
+  border-bottom:1px solid var(--sep);
+  flex-shrink:0;
+}
+.modal-title{font-size:17px;font-weight:700;color:var(--text)}
+.modal-close{
+  width:30px;height:30px;border-radius:50%;
+  background:var(--sep);border:none;
+  font-size:18px;color:var(--text2);
+  cursor:pointer;display:flex;align-items:center;justify-content:center;
+}
+.modal-body{
+  flex:1;overflow-y:auto;padding:16px 20px;
+  -webkit-overflow-scrolling:touch;
+  transition:opacity .15s;
+}
+.modal-body.loading-state{opacity:.5;pointer-events:none}
+.modal-footer{
+  flex-shrink:0;padding:10px 20px 16px;
+  border-top:1px solid var(--sep);
+  background:var(--bg);
+}
+
+/* Player */
+.player-bar{display:flex;align-items:center;gap:10px;}
+.btn-play{width:40px;height:40px;border-radius:50%;border:none;background:var(--accent-teal);cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0;box-shadow:0 2px 8px rgba(27,107,107,.3)}
+.btn-play:active{transform:scale(.92)}
+.btn-play svg{width:16px;height:16px;fill:#fff;margin-left:2px}
+.btn-ctrl{width:32px;height:32px;border-radius:8px;border:1.5px solid var(--sep);background:var(--card);cursor:pointer;font-size:11px;font-weight:700;color:var(--text2);display:flex;align-items:center;justify-content:center;flex-shrink:0;font-family:var(--ui-font);transition:all .15s}
+.btn-ctrl.active{border-color:var(--accent-teal);color:var(--accent-teal);background:#e8f5f5}
+.btn-ctrl:active{transform:scale(.92)}
+.progress-area{flex:1;min-width:0}
+.progress-bar{height:4px;background:var(--sep);border-radius:2px;overflow:hidden;cursor:pointer;margin-bottom:4px}
+.progress-fill{height:100%;background:var(--accent-teal);width:0%;border-radius:2px;transition:width .1s linear}
+.time-row{display:flex;justify-content:space-between;font-size:11px;color:var(--text2);font-weight:500}
+
+/* Speed menu */
+.speed-wrap{position:relative}
+.speed-menu{position:absolute;bottom:40px;left:50%;transform:translateX(-50%);background:var(--card);border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);display:none;flex-direction:column;overflow:hidden;z-index:10}
+.speed-menu.show{display:flex}
+.speed-opt{padding:8px 18px;font-size:12px;font-weight:600;cursor:pointer;white-space:nowrap;color:var(--text);border:none;background:none;font-family:var(--ui-font)}
+.speed-opt:active{background:#f0f0f0}
+.speed-opt.current{color:var(--accent-teal)}
+
+/* Sentence Cards */
+.sentence-list{display:flex;flex-direction:column;gap:8px}
+.sentence-card{background:var(--card);border-radius:12px;padding:14px 16px;cursor:pointer;transition:all .2s;border:1.5px solid transparent;box-shadow:0 1px 2px rgba(0,0,0,.03);position:relative}
+.sentence-card:active{transform:scale(.99)}
+.sentence-card.active{border-color:var(--accent-teal);background:#e8f5f5}
+.sentence-card.playing{border-color:var(--accent-teal);background:#c2d9d9}
+.sentence-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
+.sentence-head-left{display:flex;align-items:center;gap:8px}
+.sentence-head-right{display:flex;align-items:center}
+.sentence-num{font-size:10px;color:var(--text2);font-weight:600;letter-spacing:.5px}
+.sentence-time{font-size:11px;color:var(--text2);font-weight:500}
+.sentence-text{font-family:'Georgia','Times New Roman',serif;font-size:15px;line-height:1.6;color:var(--text);padding-right:28px}
+.sentence-text .word-span{display:inline-block;cursor:pointer;border-radius:3px;padding:0 1px;transition:background .12s,color .12s;margin:0 -1px}
+.sentence-text .word-span:hover{background:var(--accent-teal);color:#fff}
+.sentence-text .word-span.active-word{background:var(--accent-teal);color:#fff}
+.btn-star{width:26px;height:26px;border-radius:50%;border:none;background:none;cursor:pointer;position:absolute;top:10px;right:10px;display:flex;align-items:center;justify-content:center;font-size:15px;transition:transform .15s}
+.btn-star:active{transform:scale(1.3)}
+.btn-star.bookmarked{color:var(--gold)}
+
+/* Vocab Grid */
+.vocab-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px}
+.vocab-item{background:var(--card);border-radius:10px;padding:10px 12px;box-shadow:0 1px 2px rgba(0,0,0,.04);border:1.5px solid transparent;transition:border-color .2s,background .2s;position:relative}
+.vocab-item.clickable{cursor:pointer}
+.vocab-item.clickable:active{transform:scale(.98)}
+.vocab-item.playing{border-color:var(--accent-teal);background:#c2d9d9}
+.vocab-item .btn-star-term{position:absolute;top:6px;right:6px;width:22px;height:22px;border-radius:50%;border:none;background:none;cursor:pointer;font-size:13px}
+.vocab-item .btn-star-term:active{transform:scale(1.3)}
+.vocab-item .btn-star-term.bookmarked{color:var(--gold)}
+.vocab-en{font-size:14px;font-weight:600;color:var(--text);padding-right:24px}
+.vocab-zh{font-size:13px;color:var(--text2);margin-top:2px}
+.vocab-cat{font-size:10px;color:var(--accent-teal);font-weight:600;margin-top:4px}
+
+/* Tabs */
+.tab-wrap{display:flex;gap:8px;padding:4px 0 12px;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.tab{padding:6px 12px;border-radius:16px;border:1.5px solid var(--sep);background:var(--card);font-size:12px;font-weight:600;cursor:pointer;white-space:nowrap;transition:all .2s}
+.tab.active{border-color:var(--accent-teal);background:var(--accent-teal);color:#fff}
+.tab:active{transform:scale(.95)}
+.loading{text-align:center;padding:40px;color:var(--text2);font-size:14px}
+
+/* Bookmark list */
+.bookmark-section{margin-bottom:20px}
+.bookmark-section h3{font-size:14px;font-weight:700;color:var(--accent-teal);margin-bottom:10px;padding-left:4px}
+.bookmark-item{background:var(--card);border-radius:10px;padding:12px 14px;margin-bottom:8px;box-shadow:0 1px 2px rgba(0,0,0,.04);position:relative}
+.bookmark-item .bm-text{font-size:14px;font-family:var(--title-font);line-height:1.5;margin-bottom:4px}
+.bookmark-item .bm-en{font-size:14px;font-weight:600}
+.bookmark-item .bm-zh{font-size:12px;color:var(--text2);margin-top:2px}
+.bookmark-item .bm-meta{font-size:11px;color:var(--text3)}
+.bookmark-item .bm-remove{position:absolute;top:8px;right:10px;width:22px;height:22px;border-radius:50%;border:none;background:var(--sep);cursor:pointer;font-size:12px;color:var(--text2)}
+.btn-export{padding:10px 20px;border-radius:10px;border:none;background:var(--accent-teal);color:#fff;font-size:13px;font-weight:600;cursor:pointer;margin-top:10px}
+</style>
+</head>
+<body>
+<div class="app">
+  <div class="header">
+  </div>
+
+  <div class="content" id="paperListView">
+    <div class="paper-list" id="paperList"></div>
+  </div>
+
+  <div class="content" id="paperDetailView" style="display:none">
+    <div class="paper-detail">
+      <div class="card-stage">
+        <div class="cover-card">
+          <div class="cover-title" id="detailTitle"></div>
+          <div class="cover-author" id="detailAuthor"></div>
+          <div class="cover-meta" id="detailCoverMeta"></div>
+        </div>
+      </div>
+      <div class="actions">
+        <button class="action-btn primary" onclick="openListen('words')">
+          <span class="btn-icon">A</span><span class="btn-title">听词汇</span><span class="btn-desc">章节学术关键词</span>
+        </button>
+        <button class="action-btn secondary" onclick="openListen('passage')">
+          <span class="btn-icon">&#8801;</span><span class="btn-title">听篇章</span><span class="btn-desc">逐句跟读对齐</span>
+        </button>
+      </div>
+      <div class="stats-panel">
+        <div class="stats-row">
+          <div class="ring-wrap">
+            <canvas id="ringCanvas" width="152" height="152"></canvas>
+            <div class="ring-center">
+              <div class="ring-pct" id="ringPct">0%</div>
+              <div class="ring-label">已听</div>
+            </div>
+          </div>
+          <div class="progress-stats">
+            <div class="stat-item"><span class="stat-label">已听章节</span><span class="stat-val done" id="statDone">0</span></div>
+            <div class="stat-item"><span class="stat-label">已听句子</span><span class="stat-val" id="statSentHeard">0</span></div>
+            <div class="stat-item"><span class="stat-label">术语进度</span><span class="stat-val" id="statTermProgress">0%</span></div>
+            <div class="stat-item"><span class="stat-label">学习时长</span><span class="stat-val" id="statStudyTime">0分</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom Nav -->
+  <div class="nav-bar">
+    <div class="nav-item active" id="navPapers" onclick="switchTab('papers')">
+      <svg viewBox="0 0 24 24"><path fill="currentColor" d="M14 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V8l-6-6zM6 20V4h7v5h5v11H6z"/></svg>
+      <span class="nav-label">论文集</span>
+    </div>
+    <div class="nav-item" id="navGlossary" onclick="switchTab('glossary')">
+      <svg viewBox="0 0 24 24"><path fill="currentColor" d="M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-1 9h-4v4h-2v-4H9V9h4V5h2v4h4v2z"/></svg>
+      <span class="nav-label">术语库</span>
+    </div>
+    <div class="nav-item" id="navBookmarks" onclick="switchTab('bookmarks')">
+      <svg viewBox="0 0 24 24"><path fill="currentColor" d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+      <span class="nav-label">收藏夹</span>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal-overlay" id="modalOverlay" onclick="closeModal(event)">
+  <div class="modal" onclick="event.stopPropagation()">
+    <div class="modal-header">
+      <div class="modal-title" id="modalTitle">标题</div>
+      <button class="modal-close" onclick="closeModal()">&times;</button>
+    </div>
+    <div class="modal-body" id="modalBody"><div class="loading">加载中...</div></div>
+    <div class="modal-footer" id="modalFooter"></div>
+  </div>
+</div>
+
+<script>
+// ============================================================
+// PAPER METADATA
+// ============================================================
+var PAPERS = [];
+
+// Load papers from static JSON
+fetch('data/papers.json')
+  .then(function(r) { return r.json(); })
+  .then(function(data) {
+    PAPERS = data;
+    loadLocalData();
+    renderPaperList();
+  })
+  .catch(function() {
+    // Fallback to default if fetch fails
+    PAPERS = [
+      { num:'01', title:'Grapes and Brain Health', author:'Pamela Maher', affiliation:'The Salk Institute for Biological Studies, La Jolla, CA, USA', journal:'Grapes and Health (ed. J.M. Pezzuto)', year:'2025', doi:'10.1007/978-3-031-96913-3_1', publisher:'Springer Nature Switzerland AG', status:'available' },
+      { num:'02', title:'Grapes and Atherosclerosis', author:'Maria Luz Fernandez and Jacqueline Barona', affiliation:'University of Arizona / Universidad de Antioquia', journal:'Grapes and Health (ed. J.M. Pezzuto)', year:'2025', doi:'10.1007/978-3-031-96913-3_2', publisher:'Springer Nature Switzerland AG', status:'available' },
+      { num:'03', title:'Grapes and Metabolic Syndrome', author:'Ara Kirakosyan, E. Mitchell Seymour, and Steven F. Bolling', affiliation:'Pure Green Pharmaceuticals / University of Michigan', journal:'Grapes and Health (ed. J.M. Pezzuto)', year:'2025', doi:'10.1007/978-3-031-96913-3_3', publisher:'Springer Nature Switzerland AG', status:'available' },
+      { num:'04', title:'Grapes and Vision', author:'Jung Eun Kim and Weili Hu', affiliation:'', journal:'Grapes and Health (ed. J.M. Pezzuto)', year:'2025', doi:'10.1007/978-3-031-96913-3_4', publisher:'Springer Nature Switzerland AG', status:'available' },
+      { num:'05', title:'Grapes and Gastrointestinal Health', author:'', affiliation:'', journal:'Grapes and Health (ed. J.M. Pezzuto)', year:'2025', doi:'10.1007/978-3-031-96913-3_5', publisher:'Springer Nature Switzerland AG', status:'available' },
+      { num:'06', title:'Grapes and Skin Health', author:'', affiliation:'', journal:'Grapes and Health (ed. J.M. Pezzuto)', year:'2025', doi:'10.1007/978-3-031-96913-3_6', publisher:'Springer Nature Switzerland AG', status:'available' },
+      { num:'07', title:'Effect of Grapes and Grape Constituents', author:'Dana-Lynn T. Koomoa, Sumi Piya, John M. Pezzuto, and Ingo Lange', affiliation:'', journal:'Grapes and Health (ed. J.M. Pezzuto)', year:'2025', doi:'10.1007/978-3-031-96913-3_7', publisher:'Springer Nature Switzerland AG', status:'available' },
+      { num:'08', title:'Grapes and Transcriptomics', author:'Eun-Jung Park, Asim Dave, and John M. Pezzuto', affiliation:'', journal:'Grapes and Health (ed. J.M. Pezzuto)', year:'2025', doi:'10.1007/978-3-031-96913-3_8', publisher:'Springer Nature Switzerland AG', status:'available' },
+      { num:'09', title:'Effects of Grape Consumption', author:'Richard B. van Breemen', affiliation:'', journal:'Grapes and Health (ed. J.M. Pezzuto)', year:'2025', doi:'10.1007/978-3-031-96913-3_9', publisher:'Springer Nature Switzerland AG', status:'available' },
+      { num:'10', title:'Overview of Key Grape and Health Research Studies', author:'Courtney Romano and John M. Pezzuto', affiliation:'', journal:'Grapes and Health (ed. J.M. Pezzuto)', year:'2025', doi:'10.1007/978-3-031-96913-3_10', publisher:'Springer Nature Switzerland AG', status:'available' }
+    ];
+    loadLocalData();
+    renderPaperList();
+  });
+
+// Static data paths (for GitHub Pages deployment)
+var AUDIO_BASE = '.';  // Relative paths: works both locally and on GitHub Pages
+
+function chAudioDir(n) { var p = n < 10 ? '0' + n : '' + n; return 'chpt' + p + '_audio'; }
+function chapterAudioUrl(n, file) { return AUDIO_BASE + '/' + chAudioDir(n) + '/' + file; }
+function chId(n) { var p = n < 10 ? '0' + n : '' + n; return 'ch' + p; }
+function chapterSummaryUrl(n) { return 'data/' + chId(n) + '/summary.json'; }
+
+// ============================================================
+// STATE
+// ============================================================
+var currentPaper = -1;
+var chapterDataUrl = null;       // Summary JSON URL
+var chapterSectionBase = null;   // Section JSON dir prefix
+var chapterAudioBase = null;     // Audio file URL prefix
+var words = [];                 // Word alignment data [[word, start, end], ...] for current section
+var chapterData = null;
+var sentences = [];
+var audio = null;
+var currentIdx = -1;
+var isPlaying = false;
+var _allTermsCache = null;
+var currentTab = 'papers';
+var playSpeed = 1.0;
+var loopSentence = false;
+var learningData = {};
+var bookmarks = { sentences: [], terms: [] };
+
+// Modal vocab state
+var termAudio = null;
+var termAudioQueue = [];
+var vocabActiveIdx = 0;
+var vocabPlayingIdx = -1;
+
+// Speed options
+var SPEEDS = [0.75, 1.0, 1.25, 1.5];
+
+// ============================================================
+// LOCAL STORAGE
+// ============================================================
+function LS_KEY(p) { return 'acsl_paper_' + p.num; }
+function BM_KEY() { return 'acsl_bookmarks'; }
+
+function loadLocalData() {
+  try {
+    learningData = {};
+    for (var i = 0; i < PAPERS.length; i++) {
+      if (PAPERS[i].status !== 'available') continue;
+      var raw = localStorage.getItem(LS_KEY(PAPERS[i]));
+      learningData[PAPERS[i].num] = raw ? JSON.parse(raw) : { sentences_heard:[], terms_heard:[], time_spent:0, sections_heard:[] };
+    }
+    var bmRaw = localStorage.getItem(BM_KEY());
+    bookmarks = bmRaw ? JSON.parse(bmRaw) : { sentences:[], terms:[] };
+  } catch(e) {
+    learningData = {};
+    bookmarks = { sentences:[], terms:[] };
+  }
+}
+
+function savePaperData(num, data) {
+  try { localStorage.setItem(LS_KEY({num:num}), JSON.stringify(data)); } catch(e) {}
+}
+
+function saveBookmarks() {
+  try { localStorage.setItem(BM_KEY(), JSON.stringify(bookmarks)); } catch(e) {}
+}
+
+function getPaperData(num) {
+  if (!learningData[num]) learningData[num] = { sentences_heard:[], terms_heard:[], time_spent:0, sections_heard:[] };
+  return learningData[num];
+}
+
+function markSentenceHeard(paperNum, secId, sentIdx) {
+  var key = secId + '_s' + sentIdx;
+  var d = getPaperData(paperNum);
+  if (d.sentences_heard.indexOf(key) < 0) {
+    d.sentences_heard.push(key);
+    savePaperData(paperNum, d);
+  }
+}
+
+function markTermHeard(paperNum, secId, termIdx) {
+  var key = secId + '_t' + termIdx;
+  var d = getPaperData(paperNum);
+  if (d.terms_heard.indexOf(key) < 0) {
+    d.terms_heard.push(key);
+    savePaperData(paperNum, d);
+  }
+}
+
+function markSectionHeard(paperNum, secId) {
+  var d = getPaperData(paperNum);
+  if (d.sections_heard.indexOf(secId) < 0) {
+    d.sections_heard.push(secId);
+    savePaperData(paperNum, d);
+  }
+}
+
+function addStudyTime(paperNum, seconds) {
+  var d = getPaperData(paperNum);
+  d.time_spent += seconds;
+  savePaperData(paperNum, d);
+}
+
+// ============================================================
+// BOOKMARKS
+// ============================================================
+function toggleSentenceBookmark(sent, secTitle) {
+  var id = currentPaper + '_' + sent.text;
+  var idx = -1;
+  for (var i = 0; i < bookmarks.sentences.length; i++) {
+    if (bookmarks.sentences[i].id === id) { idx = i; break; }
+  }
+  if (idx >= 0) {
+    bookmarks.sentences.splice(idx, 1);
+  } else {
+    bookmarks.sentences.push({
+      id: id,
+      text: sent.text,
+      paper: PAPERS[currentPaper].title,
+      paperNum: PAPERS[currentPaper].num,
+      section: secTitle,
+      timestamp: Date.now()
+    });
+  }
+  saveBookmarks();
+  refreshSentenceBookmarkIcons();
+}
+
+function toggleTermBookmark(term, secTitle) {
+  var id = currentPaper + '_' + term.en;
+  var idx = -1;
+  for (var i = 0; i < bookmarks.terms.length; i++) {
+    if (bookmarks.terms[i].id === id) { idx = i; break; }
+  }
+  if (idx >= 0) {
+    bookmarks.terms.splice(idx, 1);
+  } else {
+    bookmarks.terms.push({
+      id: id,
+      en: term.en,
+      zh: term.zh || '',
+      category: term.category || '',
+      paper: PAPERS[currentPaper].title,
+      paperNum: PAPERS[currentPaper].num,
+      section: secTitle,
+      timestamp: Date.now()
+    });
+  }
+  saveBookmarks();
+  refreshVocabBookmarkIcons();
+}
+
+function isSentenceBookmarked(sent) {
+  var id = currentPaper + '_' + sent.text;
+  for (var i = 0; i < bookmarks.sentences.length; i++) {
+    if (bookmarks.sentences[i].id === id) return true;
+  }
+  return false;
+}
+
+function isTermBookmarked(term) {
+  var id = currentPaper + '_' + term.en;
+  for (var i = 0; i < bookmarks.terms.length; i++) {
+    if (bookmarks.terms[i].id === id) return true;
+  }
+  return false;
+}
+
+function refreshSentenceBookmarkIcons() {
+  var stars = document.querySelectorAll('.btn-star');
+  for (var i = 0; i < stars.length; i++) {
+    var si = parseInt(stars[i].getAttribute('data-sidx'));
+    var bm = isSentenceBookmarked(sentences[si]);
+    stars[i].textContent = bm ? '★' : '☆';
+    stars[i].classList.toggle('bookmarked', bm);
+  }
+}
+
+function refreshVocabBookmarkIcons() {
+  var stars = document.querySelectorAll('.btn-star-term');
+  for (var i = 0; i < stars.length; i++) {
+    var ti = parseInt(stars[i].getAttribute('data-tidx'));
+    var bm = isTermBookmarked(termAudioQueue[ti]);
+    stars[i].textContent = bm ? '★' : '☆';
+    stars[i].classList.toggle('bookmarked', bm);
+  }
+}
+
+// ============================================================
+// INIT
+// ============================================================
+// Papers are loaded asynchronously; init happens in fetch callbacks above
+
+// ============================================================
+// PAPER LIST
+// ============================================================
+function renderPaperList(filter) {
+  console.log('renderPaperList called, PAPERS.length:', PAPERS.length);
+  var html = '';
+  for (var i = 0; i < PAPERS.length; i++) {
+    var p = PAPERS[i];
+    if (filter && p.title.toLowerCase().indexOf(filter) === -1) continue;
+    var isAvail = p.status === 'available';
+    var cls = isAvail ? 'paper-card' : 'paper-card pending';
+    html += '<div class="' + cls + '" data-paper-idx="' + i + '" onclick="selectPaper(' + i + ')">';
+    html += '<div class="paper-card-inner">';
+    html += '<div class="paper-num' + (isAvail ? '' : ' pending-badge') + '">' + p.num + '</div>';
+    html += '<div class="paper-info">';
+    html += '<div class="paper-name">' + p.title + '</div>';
+    html += '<div class="paper-author">' + (p.author || '') + '</div>';
+    html += '<div class="paper-meta">';
+    if (p.journal) html += '<span class="badge badge-journal">' + p.journal + '</span>';
+    if (p.year) html += '<span class="badge badge-year">' + p.year + '</span>';
+    if (p.doi) html += '<span class="badge badge-doi">DOI: ' + p.doi + '</span>';
+    html += '<span class="badge ' + (isAvail ? 'badge-ready' : 'badge-pending') + '">' + (isAvail ? '已就绪' : '即将上线') + '</span>';
+    html += '</div></div>';
+    html += '<div class="paper-arrow">' + (isAvail ? '›' : '') + '</div>';
+    html += '</div></div>';
+  }
+  document.getElementById('paperList').innerHTML = html || '<div class="loading">未找到匹配论文</div>';
+  console.log('Rendered', html ? 'cards' : 'no cards');
+}
+
+ 
+
+// ============================================================
+// PAPER SELECT
+// ============================================================
+function selectPaper(idx) {
+  console.log('selectPaper called with idx:', idx);
+  var p = PAPERS[idx];
+  console.log('PAPERS.length:', PAPERS.length, 'p:', p);
+  if (!p || p.status !== 'available') return;
+  currentPaper = idx;
+  var n = idx + 1;
+  chapterDataUrl = chapterSummaryUrl(n);
+  chapterSectionBase = 'data/' + chId(n) + '/sections/';
+  chapterAudioBase = AUDIO_BASE + '/' + chAudioDir(n) + '/';
+  _allTermsCache = null;
+
+  document.getElementById('paperListView').style.display = 'none';
+  document.getElementById('paperDetailView').style.display = 'block';
+
+  // Detail metadata
+  document.getElementById('detailTitle').textContent = p.title;
+  document.getElementById('detailAuthor').textContent = p.author || '';
+  document.getElementById('detailCoverMeta').textContent = (p.journal || '') + ' · ' + (p.year || '');
+
+  // Load stats
+  var pd = getPaperData(p.num);
+  document.getElementById('statDone').textContent = pd.sections_heard.length;
+  document.getElementById('statSentHeard').textContent = pd.sentences_heard.length;
+  document.getElementById('statTermProgress').textContent = pd.terms_heard.length + '个';
+  document.getElementById('statStudyTime').textContent = Math.round(pd.time_spent / 60) + '分';
+  document.getElementById('ringPct').textContent = '0%';
+  drawRing(0, 1);
+
+  fetch(chapterDataUrl)
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      if (data.error) return;
+      chapterData = data;
+      var sections = data.sections || [];
+      var totalSentences = data.total_sentences || 0;
+      var totalTerms = data.total_terms || 0;
+
+      // Update stats with API data
+      var sectionsDone = pd.sections_heard.length;
+      var pct = Math.round((pd.sentences_heard.length / Math.max(1, totalSentences)) * 100);
+      document.getElementById('statDone').textContent = sectionsDone + '/' + sections.length;
+      document.getElementById('statSentHeard').textContent = pd.sentences_heard.length + '/' + totalSentences;
+      document.getElementById('statTermProgress').textContent = pd.terms_heard.length + '个';
+      document.getElementById('ringPct').textContent = pct + '%';
+      drawRing(pct, 100);
+    })
+    .catch(function() {});
+}
+
+function goBackToList() {
+  currentPaper = -1;
+  chapterDataUrl = null;
+  chapterSectionBase = null;
+  chapterAudioBase = null;
+  chapterData = null;
+  _allTermsCache = null;
+  if (audio) { audio.pause(); audio = null; }
+  if (termAudio) { termAudio.pause(); termAudio = null; }
+  stopStudyTimer();
+  document.getElementById('paperDetailView').style.display = 'none';
+  document.getElementById('paperListView').style.display = 'block';
+  document.getElementById('modal').style.display = 'none';
+  renderPaperList();
+}
+
+// ============================================================
+// BOTTOM NAV
+// ============================================================
+function switchTab(tab) {
+  currentTab = tab;
+  document.getElementById('navPapers').classList.toggle('active', tab === 'papers');
+  document.getElementById('navGlossary').classList.toggle('active', tab === 'glossary');
+  document.getElementById('navBookmarks').classList.toggle('active', tab === 'bookmarks');
+  if (tab === 'papers') {
+    goBackToList();
+  } else if (tab === 'glossary') {
+    openGlobalGlossary();
+  } else if (tab === 'bookmarks') {
+    openBookmarks();
+  }
+}
+
+// ============================================================
+// MODAL
+// ============================================================
+function openListen(mode) {
+  if (currentPaper < 0) return;
+  var p = PAPERS[currentPaper];
+  if (mode === 'words') loadVocabModal(p.title);
+  else loadPassageModal(p.title);
+}
+
+function closeModal(e) {
+  if (e && e.target !== document.getElementById('modalOverlay')) return;
+  document.getElementById('modalOverlay').classList.remove('show');
+  if (audio) { audio.pause(); audio = null; }
+  if (termAudio) { termAudio.pause(); termAudio = null; }
+  currentIdx = -1; isPlaying = false;
+  stopStudyTimer();
+}
+
+// ============================================================
+// PASSAGE MODAL (听篇章) + SPEED + LOOP
+// ============================================================
+function loadPassageModal(title) {
+  document.getElementById('modalTitle').textContent = title + ' - 听篇章';
+  document.getElementById('modalBody').innerHTML = '<div class="loading">加载篇章数据...</div>';
+  document.getElementById('modalOverlay').classList.add('show');
+  fetch(chapterDataUrl).then(function(r){return r.json()}).then(function(d){chapterData=d;renderPassageView(d)}).catch(function(){document.getElementById('modalBody').innerHTML='<div class="loading">加载失败</div>'});
+}
+
+function renderPassageView(data) {
+  var secs = data.sections || [];
+  if (!secs.length) { document.getElementById('modalBody').innerHTML='<div class="loading">暂无数据</div>'; document.getElementById('modalFooter').innerHTML=''; return; }
+
+  // Footer: play + speed + loop + progress
+  var ft = '<div class="player-bar">';
+  ft += '<button class="btn-play" onclick="togglePassagePlay()"><svg id="psgPlay" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg><svg id="psgPause" viewBox="0 0 24 24" style="display:none"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg></button>';
+  ft += '<div class="speed-wrap"><button class="btn-ctrl" id="btnSpeed" onclick="toggleSpeedMenu()">' + playSpeed + 'x</button><div class="speed-menu" id="speedMenu">';
+  for (var i = 0; i < SPEEDS.length; i++) ft += '<button class="speed-opt' + (SPEEDS[i]===playSpeed?' current':'') + '" onclick="setSpeed(' + SPEEDS[i] + ')">' + SPEEDS[i] + 'x</button>';
+  ft += '</div></div>';
+  ft += '<button class="btn-ctrl' + (loopSentence?' active':'') + '" id="btnLoop" onclick="toggleLoop()">S</button>';
+  ft += '<div class="progress-area"><div class="progress-bar" id="psgBar" onclick="passageSeek(event)"><div class="progress-fill" id="psgFill"></div></div>';
+  ft += '<div class="time-row"><span id="psgCur">0:00</span><span id="psgTotal">0:00</span></div></div>';
+  ft += '</div>';
+  document.getElementById('modalFooter').innerHTML = ft;
+
+  var h = '<div class="tab-wrap">';
+  for (var i = 0; i < secs.length; i++) h += '<div class="tab' + (i===0?' active':'') + '" onclick="loadPassageSection(' + i + ')">' + secs[i].title + '</div>';
+  h += '</div><div id="sentenceList" style="padding-bottom:40px"><div class="loading">选择章节加载</div></div>';
+  document.getElementById('modalBody').innerHTML = h;
+  loadPassageSection(0);
+}
+
+function loadPassageSection(idx) {
+  var sec = chapterData.sections[idx]; if (!sec) return;
+  var tabs = document.querySelectorAll('.tab-wrap .tab');
+  for (var i=0;i<tabs.length;i++) tabs[i].classList.toggle('active',i===idx);
+  var body = document.getElementById('modalBody'); body.classList.add('loading-state');
+  if (audio) { audio.pause(); audio=null; } currentIdx=-1; isPlaying=false; stopStudyTimer();
+
+  // Load sentences + word alignment in parallel
+  var sentP = fetch(chapterSectionBase+sec.id+'.json').then(function(r){return r.json()});
+  var wordP = fetch(chapterSectionBase+sec.id+'_words.json').then(function(r){return r.json()}).catch(function(){return null});
+
+  Promise.all([sentP, wordP]).then(function(results){
+    var data = results[0];
+    words = results[1] || [];
+    sentences = data.sentences || [];
+    renderSentenceList(sec);
+    loadPassageAudio(sec);
+    document.getElementById('psgTotal').textContent = fmtTime(data.total_duration || 0);
+    document.getElementById('psgCur').textContent = '0:00'; document.getElementById('psgFill').style.width = '0%';
+    updatePassagePlayIcon(false); body.classList.remove('loading-state');
+  }).catch(function(){ document.getElementById('sentenceList').innerHTML='<div class="loading">加载失败</div>'; body.classList.remove('loading-state'); });
+}
+
+function renderSentenceList(sec) {
+  var list = document.getElementById('sentenceList');
+  if (!sentences.length) { list.innerHTML='<div class="loading">暂无数据</div>'; return; }
+  var h = '<div class="sentence-list">';
+  for (var i=0;i<sentences.length;i++) {
+    var s = sentences[i], bm = isSentenceBookmarked(s);
+    h += '<div class="sentence-card'+(bm?' bookmarked':'')+'" id="sent-'+i+'" onclick="playSentence('+i+')">';
+    h += '<div class="sentence-head"><div class="sentence-head-left"><span class="sentence-num">S'+(i+1)+'</span><span class="sentence-time">'+fmtTime(s.start||0)+'</span></div>';
+    h += '<span class="sentence-head-right"><button class="btn-star'+(bm?' bookmarked':'')+'" onclick="event.stopPropagation();toggleSentenceBookmark(sentences['+i+'],\''+(sec.title||'')+'\');refreshSentenceBookmarkIcons()">'+(bm?'\u2605':'\u2606')+'</button></span></div>';
+    h += '<div class="sentence-text">'+escapeHtml(s.text)+'</div></div>';
+  }
+  h += '</div>';
+  list.innerHTML = h;
+}
+
+function renderWords(sentIdx, sentStart, sentEnd) {
+  if (!words.length) return escapeHtml(sentences[sentIdx].text);
+  var EPS = 0.05, endT = sentEnd || (sentences[sentIdx+1] ? sentences[sentIdx+1].start : Infinity);
+  var result = '';
+  for (var i = 0; i < words.length; i++) {
+    var w = words[i], wStart = w[1], wEnd = w[2];
+    if (wEnd <= sentStart - EPS) continue;
+    if (wStart >= endT + EPS) break;
+    result += '<span class="word-span" data-sent="'+sentIdx+'" data-widx="'+i+'" onclick="event.stopPropagation();playWord('+sentIdx+','+i+',event)" title="'+fmtTime(wStart)+'">'+escapeHtml(w[0])+'</span> ';
+  }
+  return result;
+}
+
+function escapeHtml(text) {
+  return text.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function loadPassageAudio(sec) {
+  if (audio) { audio.pause(); audio = null; }
+  var src = chapterAudioBase + sec.id + '.mp3';
+  audio = new Audio(src);
+  audio.preload = 'auto';
+  audio.playbackRate = playSpeed;
+  audio.ontimeupdate = function() {
+    var ct = audio.currentTime, dur = audio.duration || 0;
+    document.getElementById('psgCur').textContent = fmtTime(ct);
+    if (dur) document.getElementById('psgFill').style.width = (ct/dur*100)+'%';
+    for (var j=sentences.length-1;j>=0;j--) { if (sentences[j].start<=ct) { highlightSentence(j); break; } }
+  };
+  audio.onended = function() { isPlaying=false; updatePassagePlayIcon(false); loopSentence?playSentence(currentIdx):null; stopStudyTimer(); };
+  audio.onerror = function() { isPlaying=false; updatePassagePlayIcon(false); stopStudyTimer(); };
+  currentIdx = -1;
+}
+
+function playSentence(idx) {
+  if (!audio) {
+    var sec = chapterData.sections[getActiveTabIdx()];
+    loadPassageAudio(sec);
+    audio.oncanplaythrough = function() { playSentence(idx); };
+    return;
+  }
+  if (idx<0||idx>=sentences.length) return;
+  currentIdx = idx;
+  highlightSentence(idx);
+  audio.currentTime = sentences[idx].start || 0;
+  audio.play().then(function() {
+    isPlaying = true; updatePassagePlayIcon(true);
+    markSentenceHeard(currentPaper, currentSectionId(), idx);
+    startStudyTimer();
+  }).catch(function(){});
+}
+
+function currentSectionId() {
+  var si = getActiveTabIdx();
+  return chapterData.sections[si] ? chapterData.sections[si].id : '';
+}
+
+var _studyTimer = null;
+function startStudyTimer() { stopStudyTimer(); _studyTimer = setInterval(function() { addStudyTime(currentPaper, 1); }, 1000); }
+function stopStudyTimer() { if (_studyTimer) { clearInterval(_studyTimer); _studyTimer = null; } }
+
+function togglePassagePlay() {
+  if (isPlaying) { if (audio) audio.pause(); isPlaying=false; updatePassagePlayIcon(false); stopStudyTimer(); }
+  else {
+    if (!audio || audio.readyState < 2) { playSentence(currentIdx>=0?currentIdx:0); return; }
+    audio.play(); isPlaying=true; updatePassagePlayIcon(true); startStudyTimer();
+  }
+}
+
+function passageSeek(e) {
+  if (!audio) return;
+  var bar=document.getElementById('psgBar'),rect=bar.getBoundingClientRect(),pct=(e.clientX-rect.left)/rect.width;
+  audio.currentTime=pct*audio.duration;
+}
+
+function updatePassagePlayIcon(pl) {
+  document.getElementById('psgPlay').style.display=pl?'none':'';
+  document.getElementById('psgPause').style.display=pl?'':'none';
+}
+
+function getActiveTabIdx() {
+  var tabs = document.querySelectorAll('.tab-wrap .tab');
+  for (var i=0;i<tabs.length;i++) if (tabs[i].classList.contains('active')) return i;
+  return 0;
+}
+
+function highlightSentence(idx) {
+  currentIdx = idx;
+  var prevWordEls = document.querySelectorAll('.word-span.active-word');
+  for (var k=0;k<prevWordEls.length;k++) prevWordEls[k].classList.remove('active-word');
+  for (var i=0;i<sentences.length;i++) {
+    var el=document.getElementById('sent-'+i);
+    if (el) { el.classList.toggle('active',i===idx); el.classList.toggle('playing',i===idx&&isPlaying); }
+  }
+}
+
+function highlightWord(sentIdx, wordIdx) {
+  var prev = document.querySelectorAll('.word-span.active-word');
+  for (var k=0;k<prev.length;k++) prev[k].classList.remove('active-word');
+  if (sentIdx < 0) return;
+  var el = document.querySelector('.word-span[data-sent="'+sentIdx+'"][data-widx="'+wordIdx+'"]');
+  if (el) el.classList.add('active-word');
+}
+
+function playWord(sentIdx, wordIdx, event) {
+  if (event) { event.stopPropagation(); event.preventDefault(); }
+  if (!audio) {
+    var sec = chapterData.sections[getActiveTabIdx()];
+    loadPassageAudio(sec);
+    audio.oncanplaythrough = function() { playWord(sentIdx, wordIdx); };
+    return;
+  }
+  if (!words.length || wordIdx < 0 || wordIdx >= words.length) return;
+  var w = words[wordIdx];
+  currentIdx = sentIdx;
+  highlightSentence(sentIdx);
+  highlightWord(sentIdx, wordIdx);
+  audio.currentTime = w[1];
+  audio.play().then(function() {
+    isPlaying = true; updatePassagePlayIcon(true);
+    markSentenceHeard(currentPaper, currentSectionId(), sentIdx);
+    startStudyTimer();
+  }).catch(function(){});
+}
+
+// Speed control
+function toggleSpeedMenu() {
+  document.getElementById('speedMenu').classList.toggle('show');
+}
+function setSpeed(v) {
+  playSpeed = v;
+  document.getElementById('btnSpeed').textContent = v + 'x';
+  document.getElementById('speedMenu').classList.remove('show');
+  var opts = document.querySelectorAll('.speed-opt');
+  for (var i=0;i<opts.length;i++) opts[i].classList.toggle('current', SPEEDS[i]===v);
+  if (audio) audio.playbackRate = v;
+}
+function toggleLoop() {
+  loopSentence = !loopSentence;
+  document.getElementById('btnLoop').classList.toggle('active', loopSentence);
+}
+
+// ============================================================
+// VOCAB MODAL (听词汇) + BOOKMARKS
+// ============================================================
+function loadVocabModal(title) {
+  document.getElementById('modalTitle').textContent = title + ' - 听词汇';
+  document.getElementById('modalBody').innerHTML='<div class="loading">加载词汇表...</div>';
+  document.getElementById('modalOverlay').classList.add('show');
+  fetch('data/' + chId(currentPaper + 1) + '/entities.json').then(function(r){return r.json()}).then(function(d){renderVocabView(d, title)}).catch(function(){document.getElementById('modalBody').innerHTML='<div class="loading">加载失败</div>'});
+}
+
+function renderVocabView(entities, title) {
+  if (!entities.length) { document.getElementById('modalBody').innerHTML='<div class="loading">暂无词汇数据</div>'; document.getElementById('modalFooter').innerHTML=''; return; }
+  vocabActiveIdx=0; vocabPlayingIdx=-1; termAudioQueue=[];
+
+  var ft='<div class="player-bar">';
+  ft+='<button class="btn-play" id="btnVocabPlay" onclick="toggleVocabPlay()"><svg id="vocPlay" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg><svg id="vocPause" viewBox="0 0 24 24" style="display:none"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg></button>';
+  ft+='<div class="progress-area"><div class="progress-bar" id="vocBar" onclick="vocabSeek(event)"><div class="progress-fill" id="vocFill"></div></div><div class="time-row"><span id="vocCur">0:00</span><span id="vocStatus">就绪</span></div></div>';
+  ft+='</div>';
+  document.getElementById('modalFooter').innerHTML=ft;
+
+  termAudioQueue = entities;
+  document.getElementById('vocStatus').textContent=entities.length+' terms';
+  document.getElementById('vocCur').textContent='0:00'; document.getElementById('vocFill').style.width='0%';
+  updateVocabPlayIcon(false);
+
+  var h='<div id="vocabTermList" style="padding-bottom:40px">';
+  renderVocabTermList();
+  h+='</div>';
+  document.getElementById('modalBody').innerHTML=h;
+  renderVocabTermList();
+}
+
+function renderVocabTermList() {
+  var list=document.getElementById('vocabTermList'); if(!list) return;
+  if(!termAudioQueue.length){list.innerHTML='<div class="loading">暂无词汇数据</div>';return;}
+  var h='<div class="vocab-list">';
+  for(var i=0;i<termAudioQueue.length;i++){
+    var t=termAudioQueue[i], hasAudio=!!t.audio_file, bm=isTermBookmarked(t);
+    h+='<div class="vocab-item'+(hasAudio?' clickable':'')+'" id="vocabTerm-'+i+'"'+(hasAudio?' onclick="playVocabTerm('+i+')"':'')+'>';
+    h+='<div class="vocab-en"><span style="display:inline-block;width:16px;height:16px;border-radius:50%;border:2px solid var(--accent-teal);margin-right:6px;vertical-align:middle;text-align:center;line-height:12px;font-size:8px;color:var(--accent-teal)">&#9654;</span>'+escapeHtml(t.term)+'</div>';
+    h+='<div class="vocab-zh">'+escapeHtml(t.synonyms||'')+'</div><div class="vocab-cat">'+escapeHtml(t.category||'')+'</div>';
+    h+='<button class="btn-star-term'+(bm?' bookmarked':'')+'" data-tidx="'+i+'" onclick="event.stopPropagation();toggleTermBookmark(termAudioQueue['+i+'],\'\')">'+(bm?'★':'☆')+'</button>';
+    h+='</div>';
+  }
+  h+='</div>'; list.innerHTML=h;
+}
+
+var _studyTimer = null;
+function playVocabTerm(idx){
+  if(idx<0||idx>=termAudioQueue.length)return; var t=termAudioQueue[idx]; if(!t.audio_file)return;
+  if(termAudio){termAudio.pause();}
+  vocabPlayingIdx=idx; updateVocabPlayIcon(true);
+  markTermHeard(PAPERS[currentPaper].num, '_all_', t.id);
+  if (!_studyTimer) _studyTimer = setInterval(function() { if (termAudio && !termAudio.paused) addStudyTime(PAPERS[currentPaper].num, 1); }, 1000);
+  var src=chapterAudioBase+t.audio_file;
+  termAudio=new Audio(src); termAudio.preload='auto';
+  termAudio.ontimeupdate=function(){if(!termAudio)return;var ct=termAudio.currentTime,dur=termAudio.duration||1;document.getElementById('vocCur').textContent=fmtTime(ct);document.getElementById('vocFill').style.width=((ct/dur)*100)+'%';};
+  termAudio.onended=function(){ updateVocabPlayIcon(false); highlightVocabTerm(-1);
+    var next=idx+1; if(next<termAudioQueue.length&&termAudioQueue[next].audio_file) setTimeout(function(){playVocabTerm(next)},400); };
+  highlightVocabTerm(idx);
+  termAudio.play().catch(function(){updateVocabPlayIcon(false);});
+}
+function toggleVocabPlay() {
+  if(termAudio&&!termAudio.paused){termAudio.pause();updateVocabPlayIcon(false);}
+  else if(termAudio){termAudio.play();updateVocabPlayIcon(true);}
+  else playVocabTerm(0);
+}
+function vocabSeek(e){
+  if(!termAudio)return; var bar=document.getElementById('vocBar'),rect=bar.getBoundingClientRect(),pct=(e.clientX-rect.left)/rect.width;
+  termAudio.currentTime=pct*termAudio.duration;
+}
+function updateVocabPlayIcon(pl){ document.getElementById('vocPlay').style.display=pl?'none':''; document.getElementById('vocPause').style.display=pl?'':''; }
+function highlightVocabTerm(idx){ for(var i=0;i<termAudioQueue.length;i++){var el=document.getElementById('vocabTerm-'+i);if(el)el.classList.toggle('playing',i===idx);} }
+
+// ============================================================
+// GLOBAL GLOSSARY (全局术语库) - all papers, deduplicated
+// ============================================================
+var _globalGlossaryCache = null;
+
+function openGlobalGlossary() {
+  document.getElementById('modalTitle').textContent = '全局术语库';
+  document.getElementById('modalBody').innerHTML = '<div class="loading">加载全局术语库...</div>';
+  document.getElementById('modalFooter').innerHTML = '';
+  document.getElementById('modalOverlay').classList.add('show');
+
+  if (_globalGlossaryCache) { renderGlossary(_globalGlossaryCache); return; }
+
+  fetch('data/glossary.json')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      var all = data.terms || [];
+      _globalGlossaryCache = all;
+      renderGlossary(all);
+    })
+    .catch(function() {
+      document.getElementById('modalBody').innerHTML = '<div class="loading">加载失败</div>';
+    });
+}
+
+// ============================================================
+// GLOSSARY MODAL (术语库)
+// ============================================================
+function openGlossary() {
+  if (!chapterDataUrl) return;
+  document.getElementById('modalTitle').textContent = '术语库';
+  document.getElementById('modalBody').innerHTML = '<div class="loading">加载术语库...</div>';
+  document.getElementById('modalOverlay').classList.add('show');
+
+  if (_allTermsCache) { renderGlossary(_allTermsCache); return; }
+
+  fetch(chapterDataUrl).then(function(r){return r.json()}).then(function(data){
+    var all=[], seen={}, secs=data.sections||[];
+    for(var i=0;i<secs.length;i++){ var vts=secs[i].vocab_terms||[];
+      for(var j=0;j<vts.length;j++){ var en=vts[j].en; if(!seen[en]){seen[en]=true;all.push(vts[j]);} }
+    }
+    all.sort(function(a,b){return a.en.localeCompare(b.en);});
+    _allTermsCache=all; renderGlossary(all);
+  }).catch(function(){ document.getElementById('modalBody').innerHTML='<div class="loading">加载失败</div>'; });
+}
+
+function renderGlossary(terms) {
+  document.getElementById('modalFooter').innerHTML='';
+  var h='<input type="text" placeholder="搜索术语..." oninput="filterGlossary(this.value)" style="width:100%;padding:12px 16px;border:1px solid var(--sep);border-radius:10px;font-size:15px;outline:none;margin-bottom:16px;font-family:var(--ui-font)">';
+  h+='<div class="vocab-list" id="glossaryList">';
+  for(var i=0;i<terms.length;i++) h+='<div class="vocab-item gloss-term" data-term="'+terms[i].en.toLowerCase()+'"><div class="vocab-en">'+terms[i].en+'</div><div class="vocab-zh">'+terms[i].zh+'</div><div class="vocab-cat">'+terms[i].category+'</div></div>';
+  h+='</div>';
+  document.getElementById('modalBody').innerHTML = h;
+}
+function filterGlossary(q) {
+  q=(q||'').toLowerCase(); var items=document.querySelectorAll('.gloss-term');
+  for(var i=0;i<items.length;i++){ var t=items[i].getAttribute('data-term'); items[i].style.display=(!q||t.indexOf(q)>=0)?'':''; }
+}
+
+// ============================================================
+// BOOKMARKS MODAL (收藏夹)
+// ============================================================
+function openBookmarks() {
+  document.getElementById('modalTitle').textContent = '收藏夹';
+  document.getElementById('modalFooter').innerHTML = '';
+  var body = document.getElementById('modalBody');
+  document.getElementById('modalOverlay').classList.add('show');
+
+  var h = '';
+  if (bookmarks.sentences.length) {
+    h += '<div class="bookmark-section"><h3>收藏句子 (' + bookmarks.sentences.length + ')</h3>';
+    for (var i = 0; i < bookmarks.sentences.length; i++) {
+      var b = bookmarks.sentences[i];
+      h += '<div class="bookmark-item"><div class="bm-text">' + b.text + '</div><div class="bm-meta">' + b.paperNum + ' ' + b.paper + ' · ' + b.section + '</div><button class="bm-remove" onclick="removeSentenceBm(' + i + ')">&times;</button></div>';
+    }
+    h += '</div>';
+  }
+  if (bookmarks.terms.length) {
+    h += '<div class="bookmark-section"><h3>收藏术语 (' + bookmarks.terms.length + ')</h3>';
+    for (var i = 0; i < bookmarks.terms.length; i++) {
+      var b2 = bookmarks.terms[i];
+      h += '<div class="bookmark-item"><div class="bm-en">' + b2.en + '</div><div class="bm-zh">' + b2.zh + '</div><div class="bm-meta">' + b2.paperNum + ' ' + b2.paper + ' · ' + b2.section + '</div><button class="bm-remove" onclick="removeTermBm(' + i + ')">&times;</button></div>';
+    }
+    h += '</div>';
+  }
+  if (!bookmarks.sentences.length && !bookmarks.terms.length) {
+    h = '<div class="loading">暂无收藏内容<br><small>在听篇章或听词汇中点击 ★ 收藏</small></div>';
+  }
+  h += '<div style="text-align:center;margin-top:12px"><button class="btn-export" onclick="exportBookmarks()">导出收藏</button></div>';
+  body.innerHTML = h;
+}
+
+function removeSentenceBm(i) { bookmarks.sentences.splice(i,1); saveBookmarks(); openBookmarks(); }
+function removeTermBm(i) { bookmarks.terms.splice(i,1); saveBookmarks(); openBookmarks(); }
+
+function exportBookmarks() {
+  var txt = '=== 收藏句子 ===\n';
+  for (var i=0;i<bookmarks.sentences.length;i++) { var b=bookmarks.sentences[i]; txt += '['+b.paperNum+'] '+b.section+': '+b.text+'\n\n'; }
+  txt += '\n=== 收藏术语 ===\n';
+  for (var i=0;i<bookmarks.terms.length;i++) { var bt=bookmarks.terms[i]; txt += '['+bt.paperNum+'] '+bt.en+' - '+bt.zh+' ('+bt.category+')\n'; }
+  var blob = new Blob([txt],{type:'text/plain;charset=utf-8'});
+  var a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'academic-bookmarks.txt';
+  a.click();
+}
+
+// ============================================================
+// UTILS
+// ============================================================
+function fmtTime(s){ if(!s||s<0)s=0; var m=Math.floor(s/60),sec=Math.floor(s%60); return m+':'+(sec<10?'0':'')+sec; }
+function drawRing(pct100, max){
+  var canvas=document.getElementById('ringCanvas'); if(!canvas)return;
+  var ctx=canvas.getContext('2d'),cx=76,cy=76,r=64,sw=9,pct=pct100/100;
+  ctx.clearRect(0,0,152,152);
+  ctx.beginPath();ctx.arc(cx,cy,r,0,Math.PI*2);ctx.strokeStyle='#e5e5ea';ctx.lineWidth=sw;ctx.lineCap='round';ctx.stroke();
+  if(pct>0){ctx.beginPath();ctx.arc(cx,cy,r,-Math.PI/2,-Math.PI/2+Math.PI*2*pct);ctx.strokeStyle='#1b6b6b';ctx.lineWidth=sw;ctx.lineCap='round';ctx.stroke();}
+}
+
+// Close speed menu on outside click
+document.addEventListener('click', function(e) {
+  var menu = document.getElementById('speedMenu');
+  if (menu && !e.target.closest('.speed-wrap') && menu.classList.contains('show')) menu.classList.remove('show');
+});
+// Service Worker Registration
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('sw.js')
+      .then(function(registration) {
+        console.log('SW registered:', registration.scope);
+      })
+      .catch(function(error) {
+        console.log('SW registration failed:', error);
+      });
+  });
+}
+</script>
+</body>
+</html>

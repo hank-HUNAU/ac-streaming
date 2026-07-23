@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "GWI",
+      "start": 0.109,
+      "end": 1.506,
+      "duration": 1.397
+    }
+  ],
+  "sentences": [
+    {
+      "text": "GWI",
+      "start": 0.109,
+      "end": 1.506,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.506,
+  "voice": "en-US-AriaNeural",
+  "text": "GWI"
+}

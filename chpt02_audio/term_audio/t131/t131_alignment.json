@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "PPARγ-LXR-α-ABCA1",
+      "start": 0.109,
+      "end": 2.109,
+      "duration": 2.0
+    },
+    {
+      "text": "pathway",
+      "start": 2.124,
+      "end": 2.903,
+      "duration": 0.779
+    }
+  ],
+  "sentences": [
+    {
+      "text": "PPARγ-LXR-α-ABCA1 pathway",
+      "start": 0.109,
+      "end": 2.903,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 2.903,
+  "voice": "en-US-AriaNeural",
+  "text": "PPARγ-LXR-α-ABCA1 pathway"
+}

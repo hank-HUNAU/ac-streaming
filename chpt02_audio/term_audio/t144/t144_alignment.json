@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "ApoE-deficient",
+      "start": 0.109,
+      "end": 1.197,
+      "duration": 1.088
+    },
+    {
+      "text": "mouse",
+      "start": 1.212,
+      "end": 1.815,
+      "duration": 0.603
+    }
+  ],
+  "sentences": [
+    {
+      "text": "ApoE-deficient mouse",
+      "start": 0.109,
+      "end": 1.815,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.815,
+  "voice": "en-US-AriaNeural",
+  "text": "ApoE-deficient mouse"
+}

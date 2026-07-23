@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "MMP",
+      "start": 0.109,
+      "end": 0.771,
+      "duration": 0.662
+    },
+    {
+      "text": "expression",
+      "start": 0.785,
+      "end": 1.638,
+      "duration": 0.853
+    }
+  ],
+  "sentences": [
+    {
+      "text": "MMP expression",
+      "start": 0.109,
+      "end": 1.638,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.638,
+  "voice": "en-US-AriaNeural",
+  "text": "MMP expression"
+}

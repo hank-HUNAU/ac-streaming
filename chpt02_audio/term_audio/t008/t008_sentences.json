@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "p-Coumaric acid",
+      "start": 0.109,
+      "end": 1.491,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.491,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,1566 @@
+{
+  "sentences": [
+    {
+      "text": "In Vivo Effects of Grapes on the Central Nervous System.",
+      "start": 0.1,
+      "end": 3.075,
+      "word_count": 10
+    },
+    {
+      "text": "Grapes and Cognitive Function in Healthy Young Adults.",
+      "start": 3.95,
+      "end": 6.787,
+      "word_count": 8
+    },
+    {
+      "text": "Most studies on grapes and learning and memory have focused on preventing or reversing losses associated with aging or disease.",
+      "start": 7.662,
+      "end": 14.85,
+      "word_count": 20
+    },
+    {
+      "text": "However, there has been growing interest in exploring whether grapes could improve cognitive function in young healthy subjects.",
+      "start": 15.713,
+      "end": 22.4,
+      "word_count": 18
+    },
+    {
+      "text": "There have been four recent studies that address this question in human subjects using different paradigms and grape products.",
+      "start": 23.262,
+      "end": 29.775,
+      "word_count": 19
+    },
+    {
+      "text": "Haskell-Ramsay and colleagues carried out an acute, placebo-controlled, blinded, crossover study that examined the effects of grape juice on cognitive function in twenty subjects, seven male and thirteen female, aged eighteen to thirty-five years.",
+      "start": 30.637,
+      "end": 45.163,
+      "word_count": 34
+    },
+    {
+      "text": "Prior to treatment, the subjects were tested in a twenty-minute battery of cognition tests, including attention, working memory, and episodic memory, and their mood was evaluated.",
+      "start": 46.038,
+      "end": 56.45,
+      "word_count": 26
+    },
+    {
+      "text": "They were then given either two hundred milliliters of Welch's purple grape juice or a sugar and color-matched placebo drink.",
+      "start": 57.312,
+      "end": 63.675,
+      "word_count": 20
+    },
+    {
+      "text": "After twenty minutes, their cognition and mood were reassessed.",
+      "start": 64.537,
+      "end": 68.075,
+      "word_count": 9
+    },
+    {
+      "text": "One week later, they repeated the tests but with the opposite treatment.",
+      "start": 68.938,
+      "end": 72.737,
+      "word_count": 12
+    },
+    {
+      "text": "The consumption of grape juice significantly improved the reaction time for a composite measure of attention, as well as the calm rating on the mood assessment task.",
+      "start": 73.612,
+      "end": 82.175,
+      "word_count": 27
+    },
+    {
+      "text": "Interestingly, drink order also had a significant impact on the outcomes, suggesting that there was a long-lasting, more than six to seven days, effect of grape juice consumption on both reaction times and mood.",
+      "start": 83.037,
+      "end": 95.412,
+      "word_count": 34
+    },
+    {
+      "text": "Philip and colleagues also conducted an acute, placebo-controlled, double-blind, crossover study that examined the effects of Memophenol, six hundred milligrams, on the performance of thirty healthy subjects, fourteen male and sixteen female, eighteen to twenty-five years old, in an intensive cognitive challenge that tested attention and working memory.",
+      "start": 96.275,
+      "end": 116.888,
+      "word_count": 48
+    },
+    {
+      "text": "They found that Memophenol significantly improved performance on one of the working memory tests.",
+      "start": 117.75,
+      "end": 122.9,
+      "word_count": 14
+    },
+    {
+      "text": "Interestingly, there was no effect on vascular function parameters, including blood pressure and flow-mediated dilation.",
+      "start": 123.763,
+      "end": 130.95,
+      "word_count": 15
+    },
+    {
+      "text": "Bell and colleagues carried out a combined acute-on-chronic, placebo-controlled, double-blind, parallel-group, cognitive function study with sixty healthy subjects, thirty placebo with three male and twenty-seven female, and thirty G S P E with six male and twenty-four female, eighteen to thirty years old, who were given capsules containing a commercial grape seed polyphenol extract, four hundred milligrams, or placebo.",
+      "start": 131.825,
+      "end": 156.988,
+      "word_count": 59
+    },
+    {
+      "text": "A computerized battery of cognitive function tests was used as a readout.",
+      "start": 157.863,
+      "end": 162.088,
+      "word_count": 12
+    },
+    {
+      "text": "For the acute portion of the study, subjects were tested at baseline and at two, four, and six hours following capsule consumption.",
+      "start": 162.963,
+      "end": 170.688,
+      "word_count": 22
+    },
+    {
+      "text": "For the chronic portion of the study, subjects were tested at baseline and after six and twelve weeks following daily capsule consumption.",
+      "start": 171.55,
+      "end": 179.15,
+      "word_count": 22
+    },
+    {
+      "text": "The majority of the outcomes tested showed no significant effects of G S P E treatment.",
+      "start": 180.012,
+      "end": 185.137,
+      "word_count": 16
+    },
+    {
+      "text": "However, in the acute phase of the study, there was a significant improvement in reaction time at two to four hours post-consumption for two measures of executive function, and in the chronic phase, significantly faster finger tapping was observed with G S P E consumption.",
+      "start": 186.012,
+      "end": 201.725,
+      "word_count": 45
+    },
+    {
+      "text": "There was also a significant improvement in subjective mood between weeks six and twelve in the G S P E-treated subjects.",
+      "start": 202.6,
+      "end": 209.488,
+      "word_count": 21
+    },
+    {
+      "text": "To determine if grape consumption could improve antioxidant status in fifteen young healthy adults, five male and ten female, eighteen to thirty-five years old, Copetti and colleagues conducted a small-scale, crossover study where participants consumed one hundred milliliters of Bordo grape juice, Bordo wine, or water.",
+      "start": 210.35,
+      "end": 229.387,
+      "word_count": 46
+    },
+    {
+      "text": "After one hour, blood was sampled and analyzed for thiobarbituric acid reactive substances, a marker of lipid peroxidation; ABTS, a measure of antioxidant capacity; ferric-reducing antioxidant power, another measure of antioxidant capacity that uses iron reduction; glucose; and uric acid levels.",
+      "start": 230.25,
+      "end": 250.338,
+      "word_count": 41
+    },
+    {
+      "text": "Both Bordo grape juice and wine consumption significantly increased plasma antioxidant capacity and decreased plasma lipid peroxidation and serum glucose levels relative to water consumption.",
+      "start": 251.2,
+      "end": 263.669,
+      "word_count": 25
+    },
+    {
+      "text": "However, while Bordo wine consumption increased serum uric acid levels relative to water consumption, Bordo grape juice had no specific effect on this parameter.",
+      "start": 264.544,
+      "end": 274.269,
+      "word_count": 24
+    },
+    {
+      "text": "In summary, both acute and chronic consumption of various grape products by young healthy adults only had a modest effect on cognitive function, and these effects were mostly on psychomotor functions.",
+      "start": 275.132,
+      "end": 286.432,
+      "word_count": 31
+    },
+    {
+      "text": "In contrast, there were positive effects on mood in multiple studies.",
+      "start": 287.307,
+      "end": 291.281,
+      "word_count": 11
+    },
+    {
+      "text": "These results may be influenced by the study population, which, in terms of cognitive function, is considered at the peak of their cognitive capacity and so might be less likely to show additional benefits from grape consumption.",
+      "start": 292.144,
+      "end": 304.531,
+      "word_count": 37
+    },
+    {
+      "text": "In contrast, aspects of their mood seem to be more open to treatment, and this possibility deserves further exploration.",
+      "start": 305.394,
+      "end": 312.344,
+      "word_count": 19
+    },
+    {
+      "text": "Grapes and Cognitive Function in Middle-Aged Adults.",
+      "start": 313.207,
+      "end": 316.119,
+      "word_count": 7
+    },
+    {
+      "text": "An interesting human study by Lamport and colleagues examined the effects of daily consumption of Concord grape juice, three hundred fifty-five milliliters per day, for twelve weeks on cognitive function, driving performance, and blood pressure in twenty-five healthy, middle-aged, forty to fifty years old, working mothers.",
+      "start": 316.994,
+      "end": 335.569,
+      "word_count": 46
+    },
+    {
+      "text": "In this placebo-controlled, double-blind, crossover study, participant performance was assessed at baseline and after six and twelve weeks of grape juice consumption in a battery of cognitive function tests, including verbal memory, spatial memory, executive function, and psychomotor skills, and a virtual driving simulator test.",
+      "start": 336.444,
+      "end": 356.244,
+      "word_count": 45
+    },
+    {
+      "text": "Mood and blood pressure were also examined at the same time points.",
+      "start": 357.119,
+      "end": 360.669,
+      "word_count": 12
+    },
+    {
+      "text": "The placebo beverage was formulated to look and taste like grape juice and to have the same carbohydrate composition and energy load but no polyphenols.",
+      "start": 361.531,
+      "end": 369.794,
+      "word_count": 25
+    },
+    {
+      "text": "There was a four-week washout period prior to the crossover.",
+      "start": 370.656,
+      "end": 373.844,
+      "word_count": 10
+    },
+    {
+      "text": "The participants who consumed grape juice showed modest improvements in immediate spatial memory and exhibited safer driving behavior, as indicated by better performance on two measures, car following and lateral tracking, during the driving test.",
+      "start": 374.719,
+      "end": 388.519,
+      "word_count": 35
+    },
+    {
+      "text": "Similar to the acute study by Haskell-Ramsay and colleagues and despite a much longer washout period, drink order had a significant impact on study outcomes, supporting the idea of long-term, positive effects of grape juice consumption on brain function.",
+      "start": 389.382,
+      "end": 404.031,
+      "word_count": 39
+    },
+    {
+      "text": "Interestingly, somewhat analogous results were seen in middle-aged mice supplemented with Memophenol.",
+      "start": 404.906,
+      "end": 410.544,
+      "word_count": 12
+    },
+    {
+      "text": "Using sixteen-month-old male C57BL6 mice, which are considered late middle age, Bensalem and colleagues tested the effects of eight-week supplementation, about five hundred milligrams per kilogram body weight per day in the diet, with Memophenol on performance in the Morris water maze.",
+      "start": 411.406,
+      "end": 428.969,
+      "word_count": 42
+    },
+    {
+      "text": "The Morris water maze is a test of spatial learning and memory that is strongly correlated with hippocampal synaptic plasticity.",
+      "start": 429.832,
+      "end": 436.519,
+      "word_count": 20
+    },
+    {
+      "text": "In this test, rodents are required to find a submerged platform in a circular pool of opaque liquid, usually water with nontoxic white paint added, by relying on distal visual cues.",
+      "start": 437.394,
+      "end": 448.457,
+      "word_count": 31
+    },
+    {
+      "text": "For this study, after several days of familiarization with the pool, mice were trained over four days to find the submerged platform, and the speed, time, and distance traveled to reach the platform were recorded.",
+      "start": 449.332,
+      "end": 461.169,
+      "word_count": 35
+    },
+    {
+      "text": "The investigators used decreases in the distance traveled to reach the platform as an indication of learning.",
+      "start": 462.031,
+      "end": 467.606,
+      "word_count": 17
+    },
+    {
+      "text": "After the end of this learning phase at seventy-two hours, the mice were placed back in the pool, but now the platform was no longer present.",
+      "start": 468.481,
+      "end": 475.906,
+      "word_count": 26
+    },
+    {
+      "text": "They were given a single sixty-second trial, called the probe test, and the percentage of distance traveled in each of the quadrants was determined.",
+      "start": 476.781,
+      "end": 484.494,
+      "word_count": 24
+    },
+    {
+      "text": "A higher percentage of distance traveled in the target quadrant, where the platform was previously located, as compared to the other quadrants was taken as an indication of memory.",
+      "start": 485.356,
+      "end": 495.044,
+      "word_count": 29
+    },
+    {
+      "text": "The Memophenol-supplemented diet slightly improved both learning strategies and memory in the middle-aged mice as compared to the control diet.",
+      "start": 495.906,
+      "end": 503.669,
+      "word_count": 20
+    },
+    {
+      "text": "In summary, while grape supplementation had only a modest effect on cognitive function in middle-aged humans and mice, those effects could have significant impacts on real-world function, suggesting that further investigation into the effects of grapes in this population is worth pursuing.",
+      "start": 504.531,
+      "end": 521.843,
+      "word_count": 42
+    },
+    {
+      "text": "Grapes and Age-Related Cognitive Decline.",
+      "start": 522.718,
+      "end": 525.231,
+      "word_count": 5
+    },
+    {
+      "text": "Similar to the functioning of other organs, brain function declines with age.",
+      "start": 526.093,
+      "end": 530.556,
+      "word_count": 12
+    },
+    {
+      "text": "A decline in both cognitive and motor functions is one of the characteristics of normal aging, resulting in changes in learning and memory, as well as deficits in balance and coordination.",
+      "start": 531.418,
+      "end": 541.831,
+      "word_count": 31
+    },
+    {
+      "text": "Furthermore, age is the single greatest risk factor for a variety of neurological disorders.",
+      "start": 542.706,
+      "end": 548.155,
+      "word_count": 14
+    },
+    {
+      "text": "As the average age in many Western countries increases, the need to identify approaches for reducing the effects of aging on brain function is taking on a new urgency.",
+      "start": 549.03,
+      "end": 558.505,
+      "word_count": 29
+    },
+    {
+      "text": "Studies described in the previous review on Grapes and the Brain that examined the effects of grape products on brain cognitive function during various stages of normal aging indicated a beneficial effect of grapes on age-related changes in cognition.",
+      "start": 559.38,
+      "end": 573.018,
+      "word_count": 39
+    },
+    {
+      "text": "These observations are further supported by the more recent studies described herein that used both mice and humans.",
+      "start": 573.88,
+      "end": 580.218,
+      "word_count": 18
+    },
+    {
+      "text": "One recent study using old mice looked at the effects of eight-week supplementation of a commercial grape seed extract product, three hundred milligrams per kilogram body weight, daily gavage in water, on the performance of twenty-month-old male Balb/c mice in the Morris water maze and passive avoidance tasks, as well as on hippocampal neurogenesis and synaptogenesis markers.",
+      "start": 581.093,
+      "end": 601.681,
+      "word_count": 57
+    },
+    {
+      "text": "Control mice received an equal amount of water daily by gavage.",
+      "start": 601.693,
+      "end": 606.956,
+      "word_count": 11
+    },
+    {
+      "text": "In this study, the investigators conducted five training days in the Morris water maze and found that both the time to reach the platform and the distance traveled greatly improved due to G S E consumption.",
+      "start": 606.968,
+      "end": 619.03,
+      "word_count": 36
+    },
+    {
+      "text": "In the probe test, which was conducted twenty-four hours after the last training trial, the investigators found a significant increase in both the time spent and the distance traveled in the target quadrant following G S E treatment.",
+      "start": 619.043,
+      "end": 632.518,
+      "word_count": 38
+    },
+    {
+      "text": "However, they did not examine the effects on swimming speed, which could have an impact on the interpretation of these results.",
+      "start": 632.53,
+      "end": 639.981,
+      "word_count": 21
+    },
+    {
+      "text": "The passive avoidance test is a fear-motivated test that also assesses long-term memory and is dependent on hippocampal function.",
+      "start": 639.993,
+      "end": 647.768,
+      "word_count": 19
+    },
+    {
+      "text": "For this test, a box with light and dark chambers separated by a door is used.",
+      "start": 647.78,
+      "end": 653.78,
+      "word_count": 16
+    },
+    {
+      "text": "Animals are first placed in the light compartment and allowed to explore.",
+      "start": 653.793,
+      "end": 658.231,
+      "word_count": 12
+    },
+    {
+      "text": "The door to the dark compartment is then opened, and since mice prefer the dark, they will enter this compartment.",
+      "start": 658.243,
+      "end": 664.843,
+      "word_count": 20
+    },
+    {
+      "text": "Once inside, they receive a brief foot shock.",
+      "start": 664.856,
+      "end": 668.53,
+      "word_count": 8
+    },
+    {
+      "text": "The latency to enter the dark compartment is determined both on the initial trial and at various times after receiving the foot shock.",
+      "start": 668.543,
+      "end": 676.405,
+      "word_count": 23
+    },
+    {
+      "text": "A longer latency indicates better learning and memory.",
+      "start": 676.418,
+      "end": 680.393,
+      "word_count": 8
+    },
+    {
+      "text": "In this study, G S E increased the latency to enter the dark chamber at three, twenty-four, forty-eight, and seventy-two hours after the foot shock.",
+      "start": 680.405,
+      "end": 690.043,
+      "word_count": 25
+    },
+    {
+      "text": "These effects on learning and memory correlated with an increase in both synaptophysin, a synaptic marker, and doublecortin, a marker of neurogenesis.",
+      "start": 690.056,
+      "end": 699.231,
+      "word_count": 22
+    },
+    {
+      "text": "In a study very similar to the one described earlier, the same group treated sixteen-month-old male C57BL6 mice with Memophenol for fourteen weeks, about five hundred milligrams per kilogram body weight per day in the diet, and then tested them using both the novel object recognition test and the Morris water maze.",
+      "start": 699.243,
+      "end": 719.755,
+      "word_count": 52
+    },
+    {
+      "text": "The novel object recognition test assesses either short- or long-term memory based on the innate preference of mice for novelty.",
+      "start": 719.768,
+      "end": 727.456,
+      "word_count": 20
+    },
+    {
+      "text": "In this test, during the training period, mice are placed in a box and are presented with two identical objects, which they explore for a fixed time period.",
+      "start": 727.468,
+      "end": 737.118,
+      "word_count": 28
+    },
+    {
+      "text": "To test their memory, the mice are presented either several hours later, for short-term memory, or twelve to twenty-four hours later, for long-term memory, with two different objects, one of which was presented to them previously during the training and is thus familiar to them, while the other object is new to them.",
+      "start": 737.13,
+      "end": 755.843,
+      "word_count": 53
+    },
+    {
+      "text": "The better the mice remember the familiar object, the more time they will spend exploring the novel object.",
+      "start": 755.856,
+      "end": 763.053,
+      "word_count": 18
+    },
+    {
+      "text": "In this study, while the old, untreated mice showed no discrimination between the novel and familiar objects at twenty-four hours after training, the Memophenol-treated mice spent preferentially more time with the novel object, indicating improved memory.",
+      "start": 763.065,
+      "end": 778.503,
+      "word_count": 36
+    },
+    {
+      "text": "Similar to the mice treated for eight weeks with Memophenol, the mice treated for fourteen weeks also traveled somewhat shorter distances to reach the platform during the training phase of the Morris water maze, indicating an improvement in learning, but in this study, the treatment had no effect on memory, as assessed by the probe test.",
+      "start": 778.515,
+      "end": 797.827,
+      "word_count": 56
+    },
+    {
+      "text": "These results correlated with Memophenol-induced increases in the neurotrophic factor nerve growth factor and in the number of doublecortin-positive neurons in the hippocampus with dendritic prolongations, which suggested an enhancement of neurogenesis similar to the study with G S E. There have also been several human studies testing the effects of various grape products on cognitive function in older adults.",
+      "start": 797.84,
+      "end": 822.178,
+      "word_count": 60
+    },
+    {
+      "text": "In a study conducted in Italy, Calapai and colleagues tested the impact of Cognigrape, two hundred fifty milligrams, a commercial encapsulated grape extract, in a placebo-controlled, blinded, parallel trial involving over fifty older participants per arm, fifty-six to seventy-five years old, which was almost equally balanced between male and female subjects, placebo twenty-six male twenty-eight female; G S E twenty-seven male thirty female.",
+      "start": 822.19,
+      "end": 850.99,
+      "word_count": 63
+    },
+    {
+      "text": "The participants were assessed at baseline and after twelve weeks of Cognigrape supplementation using multiple cognitive tests, including the Mini-Mental State Exam, a widely used rapid test to measure multiple aspects of cognitive function, orientation, registration, attention and calculation, recall, and language; the Beck Depression Inventory; the Hamilton Anxiety Rating Scale; and the Repeatable Battery for the Assessment of Neuropsychological Status.",
+      "start": 851.003,
+      "end": 878.378,
+      "word_count": 61
+    },
+    {
+      "text": "While the Mini-Mental State Exam scores of the subjects taking a placebo did not change significantly, twenty-seven point twenty-one versus twenty-seven point thirty-two, over the twelve weeks, those of the subjects taking Cognigrape improved by over one point, twenty-seven point twenty-four versus twenty-eight point fifty.",
+      "start": 878.39,
+      "end": 898.702,
+      "word_count": 45
+    },
+    {
+      "text": "The subjects taking Cognigrape also showed a significant improvement in the Repeatable Battery for the Assessment of Neuropsychological Status scores, as well as Beck Depression Inventory and Hamilton Anxiety Rating Scale scores.",
+      "start": 898.715,
+      "end": 912.503,
+      "word_count": 32
+    },
+    {
+      "text": "The former result supports the results of the Mini-Mental State Exam test, while the latter results suggest improvement in mood in addition to cognitive function.",
+      "start": 912.515,
+      "end": 922.077,
+      "word_count": 25
+    },
+    {
+      "text": "In a trial done in Brazil, Canete da Costa and colleagues tested a commercial grape juice, four hundred milliliters per day, in thirty-five women over sixty years of age, sixteen less than seventy and nineteen greater than seventy, during an intervention study.",
+      "start": 922.09,
+      "end": 938.19,
+      "word_count": 42
+    },
+    {
+      "text": "The subjects were tested at baseline and after thirty days using the Mini-Mental State Exam exam.",
+      "start": 938.202,
+      "end": 944.727,
+      "word_count": 16
+    },
+    {
+      "text": "While the scores of all the subjects improved with grape juice consumption, the effect was greater in the over-seventy group, whose baseline scores were lower at the start.",
+      "start": 944.74,
+      "end": 954.727,
+      "word_count": 28
+    },
+    {
+      "text": "The investigators also observed a significant reduction in body mass and body mass index with all subjects, although the larger effect was seen in the over-seventy group.",
+      "start": 954.74,
+      "end": 964.628,
+      "word_count": 27
+    },
+    {
+      "text": "Memophenol was tested in a placebo-controlled, double-blind study involving a relatively large group, ninety-eight placebo and ninety-two Memophenol, of subjects between sixty and seventy years old, fifty-five male and one hundred thirty-five female.",
+      "start": 964.64,
+      "end": 980.602,
+      "word_count": 33
+    },
+    {
+      "text": "The participants were examined at baseline and after twenty-four weeks of treatment using a variety of tests that assessed different aspects of cognitive function, including the Cambridge Neuropsychological Test Automated Battery, which measures visuospatial learning and episodic memory, episodic verbal recall, verbal recognition memory, and working memory.",
+      "start": 980.615,
+      "end": 1002.44,
+      "word_count": 47
+    },
+    {
+      "text": "When the overall results from each group were compared, the only test where Memophenol showed a significant effect was the episodic verbal recall memory test.",
+      "start": 1002.452,
+      "end": 765.278,
+      "word_count": 25
+    },
+    {
+      "text": "However, when the subjects were stratified based on their baseline scores in the visuospatial learning and episodic memory test, Memophenol significantly improved performance in the lowest quartile, the worst performers, those with the weakest baseline scores, across all measures except the working memory tests.",
+      "start": 766.14,
+      "end": 784.128,
+      "word_count": 44
+    },
+    {
+      "text": "In summary, both animal and human studies support the idea that grape consumption can improve multiple aspects of cognitive performance in healthy older people.",
+      "start": 784.99,
+      "end": 793.928,
+      "word_count": 24
+    },
+    {
+      "text": "This outcome was seen with a variety of grape products, strongly suggesting that the healthy elderly could benefit from the routine consumption of grapes, grape juice, or other grape products.",
+      "start": 794.79,
+      "end": 805.153,
+      "word_count": 30
+    },
+    {
+      "text": "Grapes, Mild Cognitive Impairment, and Alzheimer's Disease.",
+      "start": 806.015,
+      "end": 809.628,
+      "word_count": 7
+    },
+    {
+      "text": "Alzheimer's disease is the most common form of dementia.",
+      "start": 810.49,
+      "end": 813.503,
+      "word_count": 9
+    },
+    {
+      "text": "It is characterized pathologically by the presence of both extracellular neuritic plaques containing amyloid beta peptide and intracellular neurofibrillary tangles containing tau.",
+      "start": 814.365,
+      "end": 824.515,
+      "word_count": 22
+    },
+    {
+      "text": "Clinically, Alzheimer's disease results in a progressive loss of cognitive ability and, eventually, daily function activities.",
+      "start": 825.39,
+      "end": 832.715,
+      "word_count": 16
+    },
+    {
+      "text": "Mild cognitive impairment is a diagnosis indicating a level of cognitive dysfunction that is measurable by various tests but does not meet the criteria for Alzheimer's disease.",
+      "start": 833.577,
+      "end": 843.415,
+      "word_count": 27
+    },
+    {
+      "text": "Although it is often thought of as an intermediate phase between normal aging and Alzheimer's disease, that is not always the case.",
+      "start": 844.278,
+      "end": 851.352,
+      "word_count": 22
+    },
+    {
+      "text": "Nevertheless, since mild cognitive impairment not only impacts the quality of life but also has the potential to progress further, safe and inexpensive approaches to treating it or delaying progression are very much needed.",
+      "start": 852.227,
+      "end": 864.903,
+      "word_count": 34
+    },
+    {
+      "text": "An interesting study looked at the effects of the daily consumption of freeze-dried grape powder on both brain metabolism and cognitive function in subjects with mild cognitive impairment.",
+      "start": 865.765,
+      "end": 875.815,
+      "word_count": 28
+    },
+    {
+      "text": "In this placebo-controlled, double-blind trial, ten subjects, five male and five female, sixty-six to eighty-two years old, were given freeze-dried grape powder, seventy-two grams per day, or placebo for six months.",
+      "start": 876.678,
+      "end": 890.403,
+      "word_count": 31
+    },
+    {
+      "text": "The subjects underwent both a large battery of neuropsychological tests and F-18 fluorodeoxyglucose positron emission tomography scanning to assess brain metabolism at the beginning and end of the study.",
+      "start": 891.265,
+      "end": 903.128,
+      "word_count": 29
+    },
+    {
+      "text": "F D G-P E T measures resting-state cerebral glucose metabolism, which is an indicator of neuronal activity that has been shown to decline early during the development of Alzheimer's disease.",
+      "start": 903.99,
+      "end": 915.04,
+      "word_count": 30
+    },
+    {
+      "text": "The investigators found that while the subjects on placebo showed a significant decline in brain metabolism over the six months of the study in both the right posterior cingulate cortex and the left superior posterolateral temporal cortex, no changes in brain metabolism in these areas, or anywhere else in the brain, were seen in subjects consuming freeze-dried grape powder.",
+      "start": 915.903,
+      "end": 937.128,
+      "word_count": 59
+    },
+    {
+      "text": "Although the neuropsychological battery did not reveal any significant differences in cognition between the placebo- and freeze-dried grape powder-treated subjects at the end of the study, this is likely due to the very small number of subjects.",
+      "start": 937.99,
+      "end": 950.865,
+      "word_count": 37
+    },
+    {
+      "text": "Memophenol, three hundred milligrams per day, was also tested in subjects with mild cognitive impairment.",
+      "start": 951.727,
+      "end": 958.028,
+      "word_count": 15
+    },
+    {
+      "text": "This placebo-controlled, double-blind study looked at twenty-four weeks of treatment using a fairly large group of subjects, seventy placebo and seventy-three Memophenol, between sixty and eighty years of age, thirty-nine male and one hundred four female, who scored within the mild cognitive impairment range on the Montreal Cognitive Assessment test.",
+      "start": 958.89,
+      "end": 979.065,
+      "word_count": 50
+    },
+    {
+      "text": "The subjects were examined at baseline and at twelve and twenty-four weeks of treatment in a battery of cognitive function tests.",
+      "start": 979.94,
+      "end": 986.74,
+      "word_count": 21
+    },
+    {
+      "text": "The subjects also completed several questionnaires that assessed executive function, self-reported cognitive difficulties, and overall well-being every four weeks throughout the course of the study.",
+      "start": 987.602,
+      "end": 998.315,
+      "word_count": 25
+    },
+    {
+      "text": "The subjects who were given Memophenol showed significantly greater improvements in the speed of information processing and visuospatial learning over twenty-four weeks of the study as compared to the subjects on placebo.",
+      "start": 999.178,
+      "end": 1011.95,
+      "word_count": 32
+    },
+    {
+      "text": "However, no effects were seen on episodic or working memory or accuracy in attention.",
+      "start": 1012.825,
+      "end": 1018.125,
+      "word_count": 14
+    },
+    {
+      "text": "Memophenol consumption was also associated with an improvement in the self-reported assessment of executive function.",
+      "start": 1018.987,
+      "end": 1025.237,
+      "word_count": 15
+    },
+    {
+      "text": "Memophenol was also tested in the 3xTg Alzheimer's disease mouse, a model of familial Alzheimer's disease.",
+      "start": 1026.112,
+      "end": 1033.013,
+      "word_count": 16
+    },
+    {
+      "text": "In this study, mice, equal number of male and female, were fed either a control diet, twenty percent fat, or the same diet containing Memophenol, either about five hundred or about two thousand five hundred milligrams per kilogram body weight per day, for three months beginning at twelve months of age.",
+      "start": 1033.875,
+      "end": 1051.225,
+      "word_count": 51
+    },
+    {
+      "text": "Nontransgenic mice of the same age given the same diets served as controls.",
+      "start": 1052.088,
+      "end": 1056.463,
+      "word_count": 13
+    },
+    {
+      "text": "Motor performance, exploratory behavior, anxiety-like behavior, and short-term memory, assessed using the novel object recognition test, were tested at the end of the study.",
+      "start": 1057.325,
+      "end": 1067.75,
+      "word_count": 24
+    },
+    {
+      "text": "Both the transgenic Alzheimer's disease mice and the nontransgenic mice exhibited deficits in the novel object recognition test as compared to young, four-month-old, mice, and in both cases, those deficits were significantly reduced by Memophenol consumption.",
+      "start": 1068.612,
+      "end": 1084.075,
+      "word_count": 36
+    },
+    {
+      "text": "In the nontransgenic mice, both doses of Memophenol were equally effective, while in the transgenic Alzheimer's disease mice, there was a dose-dependent effect on short-term memory.",
+      "start": 1084.938,
+      "end": 1095.312,
+      "word_count": 26
+    },
+    {
+      "text": "Neither age nor Alzheimer's disease affected motor performance or exploratory behavior in this study, and Memophenol had no effect on anxiety levels.",
+      "start": 1096.175,
+      "end": 1105.2,
+      "word_count": 22
+    },
+    {
+      "text": "Interestingly, the beneficial effects of Memophenol on short-term memory did not correlate with several pathological markers of Alzheimer's disease, including both soluble and insoluble amyloid beta levels and tau aggregation and phosphorylation.",
+      "start": 1106.062,
+      "end": 1120.775,
+      "word_count": 32
+    },
+    {
+      "text": "However, Memophenol did restore the ratio of mature brain-derived neurotrophic factor to pro-B D N F in the transgenic Alzheimer's disease mice, which was significantly reduced in the transgenic mice that received the control diet.",
+      "start": 1121.65,
+      "end": 1135.25,
+      "word_count": 35
+    },
+    {
+      "text": "Together, these studies support and extend the beneficial effects seen with various grape products in animal models of Alzheimer's disease and suggest that further studies in patients with mild cognitive impairment might provide stronger indications that grapes could be particularly useful in this population.",
+      "start": 1136.112,
+      "end": 1153.325,
+      "word_count": 44
+    },
+    {
+      "text": "Grapes, High-Fat Diet, and Cognition.",
+      "start": 1154.2,
+      "end": 1156.763,
+      "word_count": 5
+    },
+    {
+      "text": "Among the risk factors for dementia highlighted in the 2020 Lancet Commission report on dementia is midlife obesity.",
+      "start": 1157.638,
+      "end": 1164.325,
+      "word_count": 18
+    },
+    {
+      "text": "More recent studies have supported and extended that conclusion.",
+      "start": 1165.2,
+      "end": 1168.713,
+      "word_count": 9
+    },
+    {
+      "text": "Importantly, the effects of obesity appear to be independent of its associations with diabetes, hypertension, and cardiovascular disease, which are also risk factors for dementia.",
+      "start": 1169.588,
+      "end": 1180.388,
+      "word_count": 25
+    },
+    {
+      "text": "Moreover, in a meta-analysis of studies testing the impact of weight loss interventions, even modest weight loss in overweight or obese participants was associated with an improvement in cognition after a median six-month intervention.",
+      "start": 1181.25,
+      "end": 1194.4,
+      "word_count": 34
+    },
+    {
+      "text": "Greater improvements in cognition were seen in participants who lost weight through diet changes and slash or increased levels of exercise rather than bariatric surgery.",
+      "start": 1195.263,
+      "end": 1204.275,
+      "word_count": 25
+    },
+    {
+      "text": "Thus, several studies have asked whether grapes could also impact the loss of cognitive function associated with obesity and aging.",
+      "start": 1205.138,
+      "end": 1212.237,
+      "word_count": 20
+    },
+    {
+      "text": "Chou and colleagues placed male rats on a high-fructose high-fat diet for fifty-two weeks, which led to a decrease in performance in the Morris water maze in both learning trials, latency to find the platform over time, and memory trials, probe test, as compared to rats kept on a control diet.",
+      "start": 1213.112,
+      "end": 1230.625,
+      "word_count": 51
+    },
+    {
+      "text": "At sixty-six weeks, the rats were divided into groups and maintained on either the high-fructose high-fat diet alone or a diet supplemented with three percent or six percent grape powder, polyphenol extract of whole grapes prepared in-house, for an additional twelve weeks.",
+      "start": 1231.487,
+      "end": 1247.463,
+      "word_count": 42
+    },
+    {
+      "text": "The grape powder dose-dependently improved the Morris water maze performance of the rats in both the learning and memory trials.",
+      "start": 1248.325,
+      "end": 1254.925,
+      "word_count": 20
+    },
+    {
+      "text": "More recently, Parande and colleagues tested the effects of freeze-dried grape powder on cognition in female mice given a high-fat diet or the same diet supplemented with one percent grape powder for fifteen months starting at about three months of age.",
+      "start": 1255.787,
+      "end": 1270.517,
+      "word_count": 41
+    },
+    {
+      "text": "The performance of the mice in the open-field test, novel object recognition test, and radial arm maze was then examined.",
+      "start": 1271.38,
+      "end": 1278.693,
+      "word_count": 20
+    },
+    {
+      "text": "In the open-field test, the mice given freeze-dried grape powder spent more time in the center of the field as compared to the mice on high-fat diet alone, indicating a lower level of anxiety.",
+      "start": 1279.555,
+      "end": 1290.392,
+      "word_count": 34
+    },
+    {
+      "text": "In addition, the mice given freeze-dried grape powder-supplemented high-fat diet also spent significantly more time exploring the novel object as compared to the familiar object, yielding a higher discrimination index and indicating an improvement in long-term memory in the novel object recognition test.",
+      "start": 1291.255,
+      "end": 1308.755,
+      "word_count": 43
+    },
+    {
+      "text": "No significant dietary effects were seen with the radial arm maze due to high variability in performance among the mice.",
+      "start": 1309.618,
+      "end": 1316.318,
+      "word_count": 20
+    },
+    {
+      "text": "Analysis of the brains of a subset of the mice at six months of age through ribonucleic acid sequencing revealed several pathways that were dysregulated by high-fat diet and normalized by freeze-dried grape powder, including those associated with dopamine regulation and feeding behavior.",
+      "start": 1317.193,
+      "end": 1333.48,
+      "word_count": 43
+    },
+    {
+      "text": "In summary, in two independent studies, grape powder was able to reduce the effects of a high-fat diet on cognitive decline during aging.",
+      "start": 1334.355,
+      "end": 1342.53,
+      "word_count": 23
+    },
+    {
+      "text": "These results suggest that further human research in this area would be worthwhile.",
+      "start": 1343.405,
+      "end": 1347.767,
+      "word_count": 13
+    },
+    {
+      "text": "Notably, all studies described earlier used subjects with body mass indices less than thirty, so this area is ripe for further investigation.",
+      "start": 1348.63,
+      "end": 1357.255,
+      "word_count": 22
+    },
+    {
+      "text": "Grapes and Stroke.",
+      "start": 1358.118,
+      "end": 1359.217,
+      "word_count": 3
+    },
+    {
+      "text": "Ischemic stroke is a devastating disease ranked as the second-leading cause of death in the Western world and the leading cause of disability in adults.",
+      "start": 1360.08,
+      "end": 1367.905,
+      "word_count": 25
+    },
+    {
+      "text": "Ischemic stroke occurs when the normal blood supply to the brain is disrupted, usually due to arterial blockage caused by a blood clot, depriving the brain of oxygen and metabolic substrates and hindering the removal of waste products.",
+      "start": 1368.767,
+      "end": 1381.892,
+      "word_count": 38
+    },
+    {
+      "text": "Ischemic stroke is believed to evolve in distinct phases.",
+      "start": 1382.755,
+      "end": 1386.005,
+      "word_count": 9
+    },
+    {
+      "text": "The initial ischemia leads to immediate nerve cell death, followed by an inflammatory response, resulting in secondary tissue damage after reperfusion.",
+      "start": 1386.88,
+      "end": 1395.868,
+      "word_count": 21
+    },
+    {
+      "text": "The nerve cell damage and death caused by cerebral ischemia results in functional impairment, including cognitive deficits or death.",
+      "start": 1396.743,
+      "end": 1404.318,
+      "word_count": 19
+    },
+    {
+      "text": "Since the earlier review on Grapes and the Brain, there have been several additional reports on the impact of various grape products on experimental stroke outcomes in rats and mice.",
+      "start": 1405.193,
+      "end": 1415.13,
+      "word_count": 30
+    },
+    {
+      "text": "Kadri and colleagues tested a polyphenolic extract from grape seeds and skin, G S S P E, prepared in-house, in female mice exposed to ischemia induced by occluding the bilateral common arteries for thirty minutes, followed by sixty minutes of reperfusion.",
+      "start": 1415.993,
+      "end": 1431.818,
+      "word_count": 41
+    },
+    {
+      "text": "The mice were given either G S S P E, two point five grams per kilogram body weight, in ten percent ethanol or ten percent ethanol alone via intraperitoneal injection for seven days prior to the induction of the ischemia and reperfusion injury.",
+      "start": 1432.693,
+      "end": 1447.568,
+      "word_count": 43
+    },
+    {
+      "text": "Pretreatment with G S S P E significantly reduced infarct volume and normalized a variety of markers indicative of an increase in oxidative stress in response to ischemia and reperfusion.",
+      "start": 1448.43,
+      "end": 1459.68,
+      "word_count": 30
+    },
+    {
+      "text": "In a later study, this same group used grape seed extract and the same model of cerebral ischemia to test whether postischemia treatment with grape seed extract could also reduce the impact of ischemia and reperfusion injury.",
+      "start": 1460.555,
+      "end": 1473.055,
+      "word_count": 37
+    },
+    {
+      "text": "In this study, male rats were used, and grape seed extract, two point five grams per kilogram body weight, intraperitoneally, was administered daily for fifteen days, beginning shortly after the ischemia and reperfusion injury.",
+      "start": 1473.918,
+      "end": 1487.743,
+      "word_count": 34
+    },
+    {
+      "text": "The animals were then examined using both the open-field test and the step-down inhibitory test prior to sacrifice.",
+      "start": 1488.605,
+      "end": 1495.243,
+      "word_count": 18
+    },
+    {
+      "text": "The step-down inhibitory test is similar to the passive avoidance test described earlier, except that in this test, the mice received a shock when they stepped down off a platform rather than into a dark chamber, although both tests relied on the natural proclivities of the animals.",
+      "start": 1496.105,
+      "end": 1511.418,
+      "word_count": 47
+    },
+    {
+      "text": "During training, each animal was placed on the platform, and once the animal stepped down onto the floor of the chamber, it was exposed to a mild foot shock.",
+      "start": 1512.28,
+      "end": 1522.072,
+      "word_count": 29
+    },
+    {
+      "text": "One day later, the animals were returned to the platform, and their latency to step down onto the floor was measured.",
+      "start": 1522.934,
+      "end": 1529.121,
+      "word_count": 21
+    },
+    {
+      "text": "Animals that remembered the task showed a much greater latency to step down.",
+      "start": 1529.984,
+      "end": 1533.972,
+      "word_count": 13
+    },
+    {
+      "text": "The grape seed extract-treated rats showed increased activity in the open-field test, as compared to the ischemia and reperfusion-exposed rats, as well as a significant increase in step-down latency, indicating an improvement in memory relative to ischemia and reperfusion injury.",
+      "start": 1534.834,
+      "end": 1551.647,
+      "word_count": 40
+    },
+    {
+      "text": "These behavioral improvements correlated with a decrease in infarct size and an improvement in hippocampal architecture.",
+      "start": 1552.509,
+      "end": 1559.072,
+      "word_count": 16
+    },
+    {
+      "text": "Fu and colleagues investigated the potential beneficial effects of a commercial grape seed polyphenol extract enriched in proanthocyanidins in mice exposed to the middle cerebral artery occlusion model of cerebral ischemia.",
+      "start": 1559.934,
+      "end": 1572.234,
+      "word_count": 31
+    },
+    {
+      "text": "Following the ischemia and reperfusion injury, the mice were given either phosphate-buffered saline or various doses of grape seed polyphenol extract, one hundred twenty-five, two hundred fifty, and five hundred milligrams per kilogram body weight, daily by gavage, for up to twenty-eight days.",
+      "start": 1573.109,
+      "end": 1590.784,
+      "word_count": 43
+    },
+    {
+      "text": "The grape seed polyphenol extract dose-dependently improved the neurological score beginning on day five after injury.",
+      "start": 1591.659,
+      "end": 1598.259,
+      "word_count": 16
+    },
+    {
+      "text": "The two higher doses of grape seed polyphenol extract also reduced the infarct size assessed at twenty-four hours after injury, which correlated with a reduction in apoptosis markers.",
+      "start": 1599.121,
+      "end": 1609.859,
+      "word_count": 28
+    },
+    {
+      "text": "A distinct disorder of the cerebral circulation that also contributes to brain dysfunction, especially with aging, is chronic cerebral hypoperfusion.",
+      "start": 1610.734,
+      "end": 1619.496,
+      "word_count": 20
+    },
+    {
+      "text": "The standard model for studying this is permanent bilateral common carotid artery occlusion in rats.",
+      "start": 1620.371,
+      "end": 1626.072,
+      "word_count": 15
+    },
+    {
+      "text": "Chen and colleagues exposed male Wistar rats to permanent bilateral common carotid artery occlusion and then treated them with vehicle, zero point nine percent saline, or a commercial grape seed polyphenol extract, five hundred milligrams per kilogram body weight, daily by gavage, for one month, starting two months after the induction of permanent bilateral common carotid artery occlusion.",
+      "start": 1626.934,
+      "end": 1650.284,
+      "word_count": 58
+    },
+    {
+      "text": "The animals were then tested for memory using the Morris water maze.",
+      "start": 1651.159,
+      "end": 1654.784,
+      "word_count": 12
+    },
+    {
+      "text": "Grape seed polyphenol extract significantly improved the performance of the rats in both the learning and memory portions of the Morris water maze test relative to untreated rats.",
+      "start": 1655.647,
+      "end": 1665.309,
+      "word_count": 28
+    },
+    {
+      "text": "These effects correlated with a rescue of both hippocampal cholinergic activity and antioxidant enzyme activity.",
+      "start": 1666.171,
+      "end": 1672.796,
+      "word_count": 15
+    },
+    {
+      "text": "In summary, these results support and extend the idea that grape products can have beneficial effects on brain injuries associated with a temporary loss, stroke, or prolonged reduction, hypoperfusion, in brain blood flow.",
+      "start": 1673.671,
+      "end": 1686.897,
+      "word_count": 33
+    },
+    {
+      "text": "Not only are these two injuries detrimental to cognitive function on their own, but they are also risk factors for Alzheimer's disease and other types of dementia.",
+      "start": 1687.772,
+      "end": 1696.559,
+      "word_count": 27
+    },
+    {
+      "text": "Thus, further exploration of these products in the context of human patients seems warranted.",
+      "start": 1697.421,
+      "end": 1702.834,
+      "word_count": 14
+    },
+    {
+      "text": "Grapes and Parkinson's Disease.",
+      "start": 1703.709,
+      "end": 1705.484,
+      "word_count": 4
+    },
+    {
+      "text": "Parkinson's disease is a chronic, progressive neurodegenerative disease and the second most common neurodegenerative disease after Alzheimer's disease.",
+      "start": 1706.359,
+      "end": 1714.784,
+      "word_count": 18
+    },
+    {
+      "text": "The characteristic features of Parkinson's disease include resting tremor, bradykinesia, slowness of movement, rigidity, and postural instability.",
+      "start": 1715.647,
+      "end": 1724.447,
+      "word_count": 17
+    },
+    {
+      "text": "Parkinson's disease is also associated with a variety of nonmotor symptoms that contribute to disability.",
+      "start": 1725.309,
+      "end": 1731.159,
+      "word_count": 15
+    },
+    {
+      "text": "The majority of Parkinson's disease cases are sporadic, with only about ten percent of patients reporting a family history of the disease.",
+      "start": 1732.022,
+      "end": 1739.597,
+      "word_count": 22
+    },
+    {
+      "text": "As with Alzheimer's disease, age is the greatest risk factor for disease development.",
+      "start": 1740.459,
+      "end": 1745.159,
+      "word_count": 13
+    },
+    {
+      "text": "The pathological hallmark of Parkinson's disease is the degeneration of the dopaminergic neurons in the substantia nigra pars compacta.",
+      "start": 1746.022,
+      "end": 1753.472,
+      "word_count": 19
+    },
+    {
+      "text": "Since these neurons synapse with neurons in the striatum, their demise leads to the depletion of striatal dopamine.",
+      "start": 1754.334,
+      "end": 1760.772,
+      "word_count": 18
+    },
+    {
+      "text": "Parkinson's disease is also characterized by the presence of cytoplasmic protein aggregates, called Lewy bodies, in the remaining dopaminergic neurons of the substantia nigra pars compacta.",
+      "start": 1761.634,
+      "end": 1772.647,
+      "word_count": 26
+    },
+    {
+      "text": "Currently, there is no test to diagnose Parkinson's disease, and available treatments only improve symptoms but do not stop disease progression.",
+      "start": 1773.522,
+      "end": 1782.86,
+      "word_count": 21
+    },
+    {
+      "text": "Importantly, by the time the first symptoms appear, striatal dopamine is reduced by about eighty percent, and about sixty percent of the dopaminergic neurons of the substantia nigra pars compacta have died.",
+      "start": 1783.722,
+      "end": 1795.747,
+      "word_count": 32
+    },
+    {
+      "text": "Animal models of Parkinson's disease generally involve treatment with toxins such as pesticides or other toxic compounds that have been associated with Parkinson's disease in vivo.",
+      "start": 1796.622,
+      "end": 1806.384,
+      "word_count": 26
+    },
+    {
+      "text": "One of the most widely used models is 6-hydroxydopamine, a hydroxylated form of dopamine that can induce the selective degeneration of dopaminergic and noradrenergic neurons.",
+      "start": 1807.259,
+      "end": 1817.597,
+      "word_count": 25
+    },
+    {
+      "text": "In order to target specific neuronal populations and bypass the blood-brain barrier, 6-hydroxydopamine is injected into the specific brain region of interest.",
+      "start": 1818.472,
+      "end": 1828.134,
+      "word_count": 22
+    },
+    {
+      "text": "For Parkinson's disease models, noradrenergic neurons are protected by the prior injection of desipramine, which specifically inhibits their uptake of 6-hydroxydopamine.",
+      "start": 1829.009,
+      "end": 1839.072,
+      "word_count": 21
+    },
+    {
+      "text": "Most of the studies with grape products and Parkinson's disease have used this model.",
+      "start": 1839.935,
+      "end": 1844.347,
+      "word_count": 14
+    },
+    {
+      "text": "Rats are usually used since their brains are larger, and so it is easier to target the appropriate region of interest.",
+      "start": 1845.209,
+      "end": 1851.584,
+      "word_count": 21
+    },
+    {
+      "text": "Some of these studies that utilized grape seed extract have been recently reviewed.",
+      "start": 1852.459,
+      "end": 1856.709,
+      "word_count": 13
+    },
+    {
+      "text": "Eshraghi-Jazi and colleagues treated male rats with 6-hydroxydopamine.",
+      "start": 1857.572,
+      "end": 1861.847,
+      "word_count": 8
+    },
+    {
+      "text": "Two weeks later, the success of Parkinson's disease induction was determined by assessing the number of rotations the rats made sixty minutes after apomorphine injection.",
+      "start": 1862.709,
+      "end": 1872.134,
+      "word_count": 25
+    },
+    {
+      "text": "The control rats exhibited very few rotations.",
+      "start": 1872.997,
+      "end": 1875.922,
+      "word_count": 7
+    },
+    {
+      "text": "Rats that showed evidence of lesions, high number of rotations, were left untreated or were treated with grape juice, fifty percent instead of drinking water, exercise, treadmill running, or a combination of the two for thirty days.",
+      "start": 1876.784,
+      "end": 1890.022,
+      "word_count": 37
+    },
+    {
+      "text": "Grape juice alone and in combination with exercise significantly reduced the number of apomorphine-induced rotations seen after the 6-hydroxydopamine treatment, while exercise alone had no effect.",
+      "start": 1890.884,
+      "end": 1902.247,
+      "word_count": 26
+    },
+    {
+      "text": "Sarkari and colleagues used a similar approach to generate a Parkinson's disease model.",
+      "start": 1903.11,
+      "end": 1907.735,
+      "word_count": 13
+    },
+    {
+      "text": "They also tested the animals two weeks after 6-hydroxydopamine injection using the apomorphine-induced rotation test.",
+      "start": 1908.597,
+      "end": 1915.709,
+      "word_count": 15
+    },
+    {
+      "text": "In this study, rats that showed evidence of lesions were left untreated or treated for twenty-eight days with ethanolic grape seed extract, one hundred milligrams per kilogram body weight, daily by gavage, made in-house.",
+      "start": 1916.572,
+      "end": 1929.61,
+      "word_count": 34
+    },
+    {
+      "text": "The motor function of the animals was then examined using the grid descent test as a measure of bradykinesia and stride length and the rotarod test as a measure of muscle coordination.",
+      "start": 1930.485,
+      "end": 1940.197,
+      "word_count": 32
+    },
+    {
+      "text": "The treatment with 6-hydroxydopamine significantly and negatively impacted all of these parameters, while the subsequent treatment with grape seed extract significantly improved them.",
+      "start": 1941.072,
+      "end": 1951.31,
+      "word_count": 23
+    },
+    {
+      "text": "Using electroencephalography recordings from the right thalamic nucleus of the rats, the authors also showed that 6-hydroxydopamine reduced the overall electroencephalography power, and this power was restored by grape seed extract, suggesting that it may preserve motor function at least in part by both direct and indirect effects on striato-thalamo-cortical pathways.",
+      "start": 1952.185,
+      "end": 1973.81,
+      "word_count": 51
+    },
+    {
+      "text": "Ben Youssef and colleagues also used the 6-hydroxydopamine model of Parkinson's disease, but in mice, to test the possible beneficial effects of G S S P E in Parkinson's disease.",
+      "start": 1974.685,
+      "end": 1986.009,
+      "word_count": 30
+    },
+    {
+      "text": "In this study, treatment with G S S P E, two hundred fifty milligrams per kilogram, daily, intraperitoneally, began on the day of the 6-hydroxydopamine injection and continued for eight days, at which time motor function was assessed in the open-field test.",
+      "start": 1986.872,
+      "end": 2002.797,
+      "word_count": 42
+    },
+    {
+      "text": "Multiple aspects of motor function were reduced through 6-hydroxydopamine treatment, and both distance traveled and horizontal activity were significantly improved through G S S P E treatment.",
+      "start": 2003.672,
+      "end": 2014.872,
+      "word_count": 27
+    },
+    {
+      "text": "These effects correlated with the maintenance of dopaminergic neurons in the substantia nigra, which are lost after 6-hydroxydopamine treatment.",
+      "start": 2015.735,
+      "end": 2023.834,
+      "word_count": 19
+    },
+    {
+      "text": "In contrast to these other studies, Tikhonova and colleagues used a genetic model of Parkinson's disease, the A53T-mutant human alpha-synuclein mouse, to test the potential beneficial effects of a commercial grape polyphenol concentrate.",
+      "start": 2024.709,
+      "end": 2040.15,
+      "word_count": 33
+    },
+    {
+      "text": "Wild-type male C57BL6 mice or mice with the Parkinson's disease mutation were either untreated or given grape polyphenol concentrate in their drinking water, about one point five milliliters per kilogram per day, for four months, beginning at six weeks of age.",
+      "start": 2041.025,
+      "end": 2057.113,
+      "word_count": 41
+    },
+    {
+      "text": "The mice were then assessed for both motor performance using the open-field test and cognitive function employing the passive avoidance test.",
+      "start": 2057.975,
+      "end": 2065.287,
+      "word_count": 21
+    },
+    {
+      "text": "In this Parkinson's disease model, motor function was not strongly impacted, with only the distance traveled in the open-field test affected by the Parkinson's disease-associated mutation, it increased, and this increase was not altered by grape polyphenol concentrate.",
+      "start": 2066.162,
+      "end": 2081.3,
+      "word_count": 38
+    },
+    {
+      "text": "In the passive avoidance test, the mice were tested for ten consecutive days after learning the task in order to study the rate of memory extinction.",
+      "start": 2082.175,
+      "end": 2090.363,
+      "word_count": 26
+    },
+    {
+      "text": "While the A53T alpha-synuclein mice showed an accelerated rate of memory extinction relative to the wild-type mice, the mutant mice treated with grape polyphenol concentrate showed a significantly slowed rate of memory extinction, even when compared to the wild-type mice given grape polyphenol concentrate.",
+      "start": 2091.225,
+      "end": 2109.35,
+      "word_count": 44
+    },
+    {
+      "text": "These effects of grape polyphenol concentrate correlated with reductions in the expression of alpha-synuclein in the frontal cortex of the mutant mice, as well as reductions in the expression of inflammatory markers in both the frontal cortex and hippocampus.",
+      "start": 2110.225,
+      "end": 2124.463,
+      "word_count": 39
+    },
+    {
+      "text": "In summary, in two distinct animal models of Parkinson's disease performed in multiple laboratories, various grape products showed beneficial effects against the motor disturbances associated with the disease, as well as some of the functional changes in the brain.",
+      "start": 2125.338,
+      "end": 2139.875,
+      "word_count": 39
+    },
+    {
+      "text": "This suggests that, at the least, grapes might be considered a promising adjunct to current Parkinson's disease treatments.",
+      "start": 2140.75,
+      "end": 2147.537,
+      "word_count": 18
+    },
+    {
+      "text": "Grapes and Gulf War Illness.",
+      "start": 2148.412,
+      "end": 2150.075,
+      "word_count": 5
+    },
+    {
+      "text": "Gulf War illness is a chronic disorder that is related to military service in the 1990 to 1991 Gulf War.",
+      "start": 2150.938,
+      "end": 2159.912,
+      "word_count": 20
+    },
+    {
+      "text": "About twenty-five to thirty percent of the six hundred ninety-seven thousand American veterans who participated in this war have been affected by this multisystem disorder, whose most prominent symptoms are fatigue, pain, and cognitive problems, including deficits in attention and executive function, visuospatial skills, and learning and memory.",
+      "start": 2159.925,
+      "end": 2180.45,
+      "word_count": 48
+    },
+    {
+      "text": "Veterans from other countries, including the United Kingdom, Denmark, and Australia, who were also deployed during the Gulf War have reported similar health problems.",
+      "start": 2180.463,
+      "end": 2190.65,
+      "word_count": 24
+    },
+    {
+      "text": "Although the symptoms were first seen within a few years following deployment, veterans continue to be affected and may be getting worse over time.",
+      "start": 2190.662,
+      "end": 2198.912,
+      "word_count": 24
+    },
+    {
+      "text": "There are no treatments.",
+      "start": 2198.925,
+      "end": 2201.438,
+      "word_count": 4
+    },
+    {
+      "text": "One study has been conducted to test the possible beneficial effects of Concord grape juice on the cognitive problems and fatigue associated with Gulf War illness.",
+      "start": 2201.45,
+      "end": 2210.938,
+      "word_count": 26
+    },
+    {
+      "text": "In this placebo-controlled, double-blind study, thirty-six veterans, twenty-nine male and seven female, eighteen per group, diagnosed with Gulf War illness were given escalating doses of grape juice, four ounces for weeks zero to two, eight ounces for weeks two to four, sixteen ounces for weeks four to twenty-four, or a matched placebo without polyphenols.",
+      "start": 2210.95,
+      "end": 2234.175,
+      "word_count": 54
+    },
+    {
+      "text": "Cognitive function was assessed at baseline and after twelve and twenty-four weeks of treatment using a battery of neuropsychological tests, and fatigue was determined using the Patient Health Questionnaire-15, item n. Participants who consumed grape juice showed a significant improvement in only one of the cognitive function tests, the Revelian Cognitive Ability Test variable, a measure of executive function, and no change in fatigue ratings.",
+      "start": 2234.188,
+      "end": 2260.975,
+      "word_count": 65
+    },
+    {
+      "text": "Interestingly, there was a strong correlation between two serum grape metabolites, epicatechin sulfate and petunidin glucuronide, and Revelian Cognitive Ability Test performance.",
+      "start": 2260.988,
+      "end": 2272.238,
+      "word_count": 22
+    },
+    {
+      "text": "In summary, there may be a potential for grape juice or another grape product to treat at least some of the symptoms of Gulf War illness, but further research is clearly needed.",
+      "start": 2272.575,
+      "end": 2282.875,
+      "word_count": 32
+    },
+    {
+      "text": "Moreover, since Gulf War illness encompasses a wide range of symptoms, future studies should incorporate a more complete analysis of these symptoms.",
+      "start": 2282.887,
+      "end": 2292.796,
+      "word_count": 22
+    },
+    {
+      "text": "Grapes and Multiple Sclerosis.",
+      "start": 2292.809,
+      "end": 2296.134,
+      "word_count": 4
+    },
+    {
+      "text": "Multiple sclerosis is the most common chronic disabling disease that affects young adults with an estimated prevalence of two to three million people worldwide.",
+      "start": 2296.146,
+      "end": 2305.521,
+      "word_count": 24
+    },
+    {
+      "text": "Multiple sclerosis is a multifactorial autoimmune disease of the central nervous system whose primary pathological hallmark is demyelinated lesions in central nervous system white matter, which are associated with inflammation as well as axonal and neuronal loss.",
+      "start": 2305.534,
+      "end": 2321.247,
+      "word_count": 37
+    },
+    {
+      "text": "Multiple sclerosis patients display a wide range of neurological symptoms, including motor, sensory, and cognitive impairments.",
+      "start": 2321.259,
+      "end": 2329.459,
+      "word_count": 16
+    },
+    {
+      "text": "Although the treatment of multiple sclerosis has improved substantially in recent years, there are still no cures, and some symptoms, such as neuropathic pain, appear resistant to current treatments.",
+      "start": 2329.472,
+      "end": 2341.396,
+      "word_count": 29
+    },
+    {
+      "text": "The most common animal model used to study the potential treatments for multiple sclerosis is experimental autoimmune encephalitis, which shares many of the clinical and neuropathological changes associated with the human disease.",
+      "start": 2341.409,
+      "end": 2356.084,
+      "word_count": 32
+    },
+    {
+      "text": "Experimental autoimmune encephalitis is induced in mice by first immunizing them with a fragment of myelin oligodendrocyte glycoprotein, along with pertussis toxin, to break down the blood-brain barrier and allow immune cells to access the central nervous system.",
+      "start": 2356.097,
+      "end": 2371.396,
+      "word_count": 38
+    },
+    {
+      "text": "This treatment results in the development of disease within about ten days.",
+      "start": 2371.409,
+      "end": 2376.122,
+      "word_count": 12
+    },
+    {
+      "text": "Mabrouk and colleagues used the experimental autoimmune encephalitis model to determine if an ethanolic grape seed extract could have potential benefits in multiple sclerosis.",
+      "start": 2376.134,
+      "end": 2386.534,
+      "word_count": 24
+    },
+    {
+      "text": "In this rapid model, the disease develops in three phases: the early phase, days ten to twelve; the peak phase of symptoms, days seventeen to nineteen; and the chronic phase, days twenty-four to twenty-six.",
+      "start": 2386.546,
+      "end": 2400.197,
+      "word_count": 34
+    },
+    {
+      "text": "Female mice were treated daily with grape seed extract, five hundred milligrams per kilogram body weight, intraperitoneally, or vehicle as a control, beginning ten days after immunization when disease symptoms began to develop.",
+      "start": 2400.209,
+      "end": 2414.372,
+      "word_count": 33
+    },
+    {
+      "text": "The investigators monitored the body weights, neurological scores from zero to four based on tail and limb weakness, pain sensitivity including mechanical, heat, and cold, locomotor activity using the open-field test, motor coordination using the rotarod, working memory using the Y maze, and anxiety using the elevated plus maze of the mice multiple times throughout the course of the study.",
+      "start": 2414.384,
+      "end": 2438.834,
+      "word_count": 60
+    },
+    {
+      "text": "They also analyzed the brains of a portion of the mice for markers of oxidative stress and enzymes involved in antioxidant defense.",
+      "start": 2438.847,
+      "end": 2447.197,
+      "word_count": 22
+    },
+    {
+      "text": "Treatment with grape seed extract significantly reduced the development of poor neurological scores and cold hypersensitivity seen in the vehicle-treated experimental autoimmune encephalitis mice and also corrected mechanical hypersensitivity in these mice.",
+      "start": 2447.209,
+      "end": 2463.171,
+      "word_count": 32
+    },
+    {
+      "text": "However, neither experimental autoimmune encephalitis nor grape seed extract had any effects on heat sensitivity, locomotion, motor coordination, working memory, or anxiety.",
+      "start": 2463.184,
+      "end": 2474.972,
+      "word_count": 22
+    },
+    {
+      "text": "The beneficial effects of grape seed extract in the experimental autoimmune encephalitis model correlated with a reduction in oxidative stress markers and an increase in the levels and activity of several antioxidant enzymes in the brains and spinal cords of the mice.",
+      "start": 2474.984,
+      "end": 2490.771,
+      "word_count": 42
+    },
+    {
+      "text": "Grape seed extract also at least partially reduced inflammation markers in both the brain and the spinal cord.",
+      "start": 2490.784,
+      "end": 2497.521,
+      "word_count": 18
+    },
+    {
+      "text": "Grapes and Autism.",
+      "start": 2497.534,
+      "end": 2500.021,
+      "word_count": 3
+    },
+    {
+      "text": "Autism spectrum disorder is a heterogeneous neurodevelopmental disorder characterized by abnormal social interactions, communication deficits, and repetitive behaviors.",
+      "start": 2500.034,
+      "end": 2511.209,
+      "word_count": 18
+    },
+    {
+      "text": "Recent estimates suggest that it affects one in thirty-six individuals in the United States.",
+      "start": 2511.222,
+      "end": 2516.771,
+      "word_count": 14
+    },
+    {
+      "text": "Although the exact causes of autism spectrum disorder are unknown, many investigators believe that it is likely the result of a combination of genetic vulnerabilities and environmental insults interacting at a critical stage of development.",
+      "start": 2516.784,
+      "end": 2530.909,
+      "word_count": 35
+    },
+    {
+      "text": "Since there is a wide variation in the symptoms and severity of autism spectrum disorder, the contribution of each of these factors may vary from patient to patient.",
+      "start": 2530.921,
+      "end": 2540.697,
+      "word_count": 28
+    },
+    {
+      "text": "Although no animal model of autism fully recapitulates the human disorder, valproic acid is a widely used model that shows many of the structural and behavioral characteristics seen in individuals with autism spectrum disorder and can be used to assess the possible efficacy of potential treatments.",
+      "start": 2540.709,
+      "end": 2560.01,
+      "word_count": 46
+    },
+    {
+      "text": "Valproic acid is an anticonvulsant and mood-stabilizing drug whose use during early pregnancy has been associated with the development of autism spectrum disorder in offspring, both in humans and in animal models.",
+      "start": 2560.023,
+      "end": 2572.76,
+      "word_count": 32
+    },
+    {
+      "text": "Arafat and Shabaan used the valproic acid model to determine if grape seed extract could impact the development of autism spectrum disorder in male rats.",
+      "start": 2572.773,
+      "end": 2582.148,
+      "word_count": 25
+    },
+    {
+      "text": "For this study, pregnant females were either untreated or treated with valproic acid on embryonic day nine.",
+      "start": 2582.16,
+      "end": 2589.873,
+      "word_count": 17
+    },
+    {
+      "text": "At postnatal day fifteen, half of the male pups from each group of females were given grape seed extract, four hundred milligrams per kilogram, daily, intraperitoneally, for the next twenty days until postnatal day thirty-five, while the other half received vehicle.",
+      "start": 2589.885,
+      "end": 2606.498,
+      "word_count": 41
+    },
+    {
+      "text": "The cerebellums of the rats were then evaluated biochemically, morphologically, and histochemically.",
+      "start": 2606.51,
+      "end": 2613.198,
+      "word_count": 12
+    },
+    {
+      "text": "Cerebellums from the rats that were exposed to valproic acid in utero had lower levels of endogenous antioxidants and antioxidant enzymes as compared to the control rats, and these low levels were restored to control levels through postnatal treatment with grape seed extract.",
+      "start": 2613.211,
+      "end": 2629.848,
+      "word_count": 43
+    },
+    {
+      "text": "Valproic acid also reduced the number of Purkinje cells in the cerebellum of the rats, and treatment with grape seed extract restored these numbers to control levels.",
+      "start": 2629.86,
+      "end": 2639.485,
+      "word_count": 27
+    },
+    {
+      "text": "In addition, valproic acid increased the percentage of glial fibrillary acidic protein-positive astrocytes, which is indicative of increased inflammation, in the cerebellums, but the percentage was returned to control values through grape seed extract treatment.",
+      "start": 2639.686,
+      "end": 2655.461,
+      "word_count": 35
+    },
+    {
+      "text": "Overall, the grape seed extract treatment of young rats exposed to valproic acid prenatally reverted all assessed pathological changes, suggesting that further exploration of grape seed extract and other grape products in the context of autism spectrum disorder is warranted.",
+      "start": 2655.473,
+      "end": 2670.673,
+      "word_count": 38
+    }
+  ],
+  "total_duration": 2670.673,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,128 @@
+{
+  "id": "10_cell_studies_cell",
+  "sentences": [
+    {
+      "text": "Cell Studies.",
+      "start": 0.1,
+      "end": 1.137,
+      "word_count": 2
+    },
+    {
+      "text": "Cell studies have been used to clarify specific mechanisms by which grape polyphenols decrease atherosclerosis.",
+      "start": 2.013,
+      "end": 8.375,
+      "word_count": 15
+    },
+    {
+      "text": "With about 75 percent of grape production going into the wine industry, one reason to further grape research is the quantity of waste resulting from wine in which grape pomace is considered an important by-product.",
+      "start": 9.238,
+      "end": 22.163,
+      "word_count": 35
+    },
+    {
+      "text": "Studies in muscle and endothelial cells demonstrated that grape pomace exerted antioxidant effects by increasing glutathione S-transferase and glutathione levels in both cell lines.",
+      "start": 22.175,
+      "end": 33.763,
+      "word_count": 24
+    },
+    {
+      "text": "Other studies have shown reductions in interleukin-8 levels through the addition of red pomace or white pomace to fibroblast cells.",
+      "start": 33.775,
+      "end": 41.837,
+      "word_count": 20
+    },
+    {
+      "text": "Another study was conducted with white grape powder extract and a mixture of white and red grape powder on Caco-2 cells after treatment with I L-1 beta as an inflammation inducer.",
+      "start": 41.85,
+      "end": 52.725,
+      "word_count": 31
+    },
+    {
+      "text": "Both mixtures of grape powder decreased reactive oxygen species levels and reduced N F kappa B expression and prostaglandin E2.",
+      "start": 52.737,
+      "end": 61.413,
+      "word_count": 20
+    },
+    {
+      "text": "All these in vitro studies with grape powder further document the antioxidant capacity of phenolic compounds in grapes.",
+      "start": 61.425,
+      "end": 69.062,
+      "word_count": 18
+    },
+    {
+      "text": "Grape seed oil is rich in linoleic acid, vitamin E, phytosterols, and phenolic compounds, including catechins, epicatechins, and gallic acid, which have been shown to be protective against inflammation and oxidative stress in in vitro studies.",
+      "start": 69.075,
+      "end": 85.412,
+      "word_count": 36
+    },
+    {
+      "text": "For example, Harbeoui and colleagues investigated the unsaponifiable fraction of three Tunisian grape seed varieties and reported that this fraction had major protection against oxidative damage by modulating nitric oxide production and decreasing oxidation.",
+      "start": 85.425,
+      "end": 101.55,
+      "word_count": 34
+    },
+    {
+      "text": "Nitric oxide acts as an antiatherosclerotic molecule in the vasculature by inducing vasodilation and inhibiting platelet aggregation, leukocyte adhesion to the endothelium, and proliferation of vascular smooth muscle cells in response to injury.",
+      "start": 101.562,
+      "end": 117.175,
+      "word_count": 33
+    },
+    {
+      "text": "Some studies with grape juice, resveratrol, and nonalcoholic wine extracts have demonstrated increases in nitric oxide production by human platelets and endothelial cells.",
+      "start": 117.188,
+      "end": 128.662,
+      "word_count": 23
+    },
+    {
+      "text": "Newborn human monocytes were used to investigate the properties of an unsaponifiable fraction of Vitis vinifera oil, and decreased gene expression and secretion of inflammatory biomarkers, including toll-like receptor 4, nuclear factor kappa B, and hypoxia-inducible factor, T N F-alpha, I L-1 beta, and I L-6, was observed.",
+      "start": 128.675,
+      "end": 151.35,
+      "word_count": 48
+    },
+    {
+      "text": "Alvarez and colleagues determined that grape procyanidins inhibited nicotinamide adenine dinucleotide phosphate oxidase, implicated in increased reactive oxygen species production, in human umbilical vein endothelial cells.",
+      "start": 151.363,
+      "end": 165.762,
+      "word_count": 26
+    },
+    {
+      "text": "The authors concluded that grape procyanidins could be used as therapeutic targets for cardiovascular diseases.",
+      "start": 165.775,
+      "end": 173.225,
+      "word_count": 15
+    },
+    {
+      "text": "Grape polyphenols have also been shown to prevent endothelial dysfunction in endothelial progenitor cells by reducing reactive oxygen species production induced by hyperglycemia, emphasizing the role of these compounds in preventing the development of atherosclerosis.",
+      "start": 173.238,
+      "end": 190.412,
+      "word_count": 35
+    },
+    {
+      "text": "Resveratrol, from bibliometric analysis, was reported to have mechanisms of action that protect inflammatory response in cardiovascular disease associated with atherosclerosis.",
+      "start": 190.637,
+      "end": 201.675,
+      "word_count": 21
+    },
+    {
+      "text": "The authors revealed that the key anti-inflammatory pathway was closely related to the T L R 4, N F kappa B, H I F-1 alpha pathway.",
+      "start": 201.688,
+      "end": 211.875,
+      "word_count": 26
+    },
+    {
+      "text": "Other studies with resveratrol demonstrated that concentrations as low as 1 micromolar suppressed T N F-alpha-induced adhesion in endothelial cells, a key event in the development of atherosclerosis.",
+      "start": 211.887,
+      "end": 225.3,
+      "word_count": 28
+    },
+    {
+      "text": "Overall, other cell studies have demonstrated that resveratrol suppresses vascular smooth cell proliferation, promotes autophagy, and may be involved in vascular senescence.",
+      "start": 225.55,
+      "end": 235.062,
+      "word_count": 21
+    }
+  ],
+  "total_duration": 235.062,
+  "voice": "en-US-AriaNeural",
+  "title": "6 Cell Studies"
+}

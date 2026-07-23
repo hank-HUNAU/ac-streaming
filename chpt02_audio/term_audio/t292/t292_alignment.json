@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Inflammatory",
+      "start": 0.109,
+      "end": 1.094,
+      "duration": 0.985
+    },
+    {
+      "text": "markers",
+      "start": 1.109,
+      "end": 1.888,
+      "duration": 0.779
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Inflammatory markers",
+      "start": 0.109,
+      "end": 1.888,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.888,
+  "voice": "en-US-AriaNeural",
+  "text": "Inflammatory markers"
+}

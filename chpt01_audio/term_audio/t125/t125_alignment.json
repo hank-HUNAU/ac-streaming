@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Step-down",
+      "start": 0.109,
+      "end": 0.874,
+      "duration": 0.765
+    },
+    {
+      "text": "inhibitory",
+      "start": 0.888,
+      "end": 1.653,
+      "duration": 0.765
+    },
+    {
+      "text": "test",
+      "start": 1.668,
+      "end": 2.3,
+      "duration": 0.632
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Step-down inhibitory test",
+      "start": 0.109,
+      "end": 2.3,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.3,
+  "voice": "en-US-AriaNeural",
+  "text": "Step-down inhibitory test"
+}

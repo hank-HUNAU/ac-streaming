@@ -1,0 +1,56 @@
+{
+  "id": "1_abstract_grapes_are",
+  "sentences": [
+    {
+      "text": "Abstract.",
+      "start": 0.1,
+      "end": 0.988,
+      "word_count": 1
+    },
+    {
+      "text": "Grapes are a good source of polyphenols, compounds characterized by their antioxidant, antifibrotic and anti-inflammatory properties.",
+      "start": 1.837,
+      "end": 9.912,
+      "word_count": 16
+    },
+    {
+      "text": "Atherosclerosis, defined as the narrowing of the lumen in the main arteries and associated with decreased blood flow, thrombosis, and myocardial infarction, can also be accelerated by oxidative stress, inflammatory cascades, and fibrosis.",
+      "start": 10.775,
+      "end": 26.062,
+      "word_count": 33
+    },
+    {
+      "text": "Evidence from numerous clinical interventions has demonstrated that grape polyphenols, from whole grapes or grape products, affect several metabolic processes in humans that are linked with the amelioration of atherosclerosis, including decreases in low-density lipoprotein oxidation and platelet aggregation, decreases in dyslipidemias, increases in flow-mediated vasodilation, reduction in inflammatory cytokines, and lowering of oxidative stress.",
+      "start": 26.938,
+      "end": 53.9,
+      "word_count": 55
+    },
+    {
+      "text": "Grape polyphenols have also been shown to decrease atherosclerotic plaques in animal studies and to reduce inflammation and cholesterol in the aorta.",
+      "start": 54.775,
+      "end": 63.225,
+      "word_count": 22
+    },
+    {
+      "text": "At the cellular level, polyphenols from grape seeds and grape pomace have been shown to lower oxidative stress by the reduction of nuclear factor-kappa B production, upregulate endothelial nitric oxide synthetase, inhibit platelet-derived growth factor receptor, and decrease cyclo-oxygenase activity, among other mechanisms.",
+      "start": 64.088,
+      "end": 83.537,
+      "word_count": 43
+    },
+    {
+      "text": "Resveratrol has also been demonstrated to mediate an anti-inflammatory response through the toll-like receptor 4, nuclear factor-kappa B, and hypoxia-inducible factor pathways.",
+      "start": 84.4,
+      "end": 95.338,
+      "word_count": 22
+    },
+    {
+      "text": "Overall, there appears to be strong evidence of the protective effects of grapes and their products against atherosclerosis.",
+      "start": 96.2,
+      "end": 102.9,
+      "word_count": 18
+    }
+  ],
+  "total_duration": 102.9,
+  "voice": "en-US-AriaNeural",
+  "title": "Abstract"
+}

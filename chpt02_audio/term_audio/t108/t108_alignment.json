@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Heart",
+      "start": 0.109,
+      "end": 0.447,
+      "duration": 0.338
+    },
+    {
+      "text": "attack",
+      "start": 0.462,
+      "end": 1.123,
+      "duration": 0.662
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Heart attack",
+      "start": 0.109,
+      "end": 1.123,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.123,
+  "voice": "en-US-AriaNeural",
+  "text": "Heart attack"
+}

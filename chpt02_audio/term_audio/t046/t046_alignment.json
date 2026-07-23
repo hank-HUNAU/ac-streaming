@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Ascorbic",
+      "start": 0.109,
+      "end": 0.829,
+      "duration": 0.721
+    },
+    {
+      "text": "acid",
+      "start": 0.844,
+      "end": 1.491,
+      "duration": 0.647
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Ascorbic acid",
+      "start": 0.109,
+      "end": 1.491,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.491,
+  "voice": "en-US-AriaNeural",
+  "text": "Ascorbic acid"
+}

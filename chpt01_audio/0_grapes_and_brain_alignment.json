@@ -1,0 +1,57 @@
+{
+  "words": [
+    {
+      "text": "Grapes",
+      "start": 0.1,
+      "end": 0.537,
+      "duration": 0.438
+    },
+    {
+      "text": "and",
+      "start": 0.55,
+      "end": 0.662,
+      "duration": 0.113
+    },
+    {
+      "text": "Brain",
+      "start": 0.675,
+      "end": 0.963,
+      "duration": 0.287
+    },
+    {
+      "text": "Health",
+      "start": 0.975,
+      "end": 1.425,
+      "duration": 0.45
+    },
+    {
+      "text": "Pamela",
+      "start": 2.3,
+      "end": 2.75,
+      "duration": 0.45
+    },
+    {
+      "text": "Maher",
+      "start": 2.763,
+      "end": 3.237,
+      "duration": 0.475
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Grapes and Brain Health.",
+      "start": 0.1,
+      "end": 1.425,
+      "word_count": 4
+    },
+    {
+      "text": "Pamela Maher.",
+      "start": 2.3,
+      "end": 3.237,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 3.237,
+  "voice": "en-US-AriaNeural",
+  "text": "Grapes and Brain Health. Pamela Maher."
+}

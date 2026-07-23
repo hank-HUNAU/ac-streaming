@@ -1,0 +1,1767 @@
+{
+  "words": [
+    {
+      "text": "Inflammation",
+      "start": 0.1,
+      "end": 0.925,
+      "duration": 0.825
+    },
+    {
+      "text": "and",
+      "start": 0.938,
+      "end": 1.113,
+      "duration": 0.175
+    },
+    {
+      "text": "Oxidative",
+      "start": 1.125,
+      "end": 1.725,
+      "duration": 0.6
+    },
+    {
+      "text": "Stress",
+      "start": 1.738,
+      "end": 2.288,
+      "duration": 0.55
+    },
+    {
+      "text": "Inflammation",
+      "start": 3.163,
+      "end": 3.975,
+      "duration": 0.812
+    },
+    {
+      "text": "has",
+      "start": 3.987,
+      "end": 4.188,
+      "duration": 0.2
+    },
+    {
+      "text": "a",
+      "start": 4.2,
+      "end": 4.263,
+      "duration": 0.062
+    },
+    {
+      "text": "significant",
+      "start": 4.275,
+      "end": 4.912,
+      "duration": 0.637
+    },
+    {
+      "text": "role",
+      "start": 4.925,
+      "end": 5.213,
+      "duration": 0.287
+    },
+    {
+      "text": "in",
+      "start": 5.225,
+      "end": 5.388,
+      "duration": 0.163
+    },
+    {
+      "text": "atherosclerotic",
+      "start": 5.4,
+      "end": 6.425,
+      "duration": 1.025
+    },
+    {
+      "text": "lesion",
+      "start": 6.438,
+      "end": 6.75,
+      "duration": 0.312
+    },
+    {
+      "text": "development",
+      "start": 6.763,
+      "end": 7.388,
+      "duration": 0.625
+    },
+    {
+      "text": "which",
+      "start": 7.75,
+      "end": 7.912,
+      "duration": 0.163
+    },
+    {
+      "text": "is",
+      "start": 7.925,
+      "end": 8.037,
+      "duration": 0.113
+    },
+    {
+      "text": "driven",
+      "start": 8.05,
+      "end": 8.375,
+      "duration": 0.325
+    },
+    {
+      "text": "by",
+      "start": 8.387,
+      "end": 8.537,
+      "duration": 0.15
+    },
+    {
+      "text": "the",
+      "start": 8.55,
+      "end": 8.65,
+      "duration": 0.1
+    },
+    {
+      "text": "release",
+      "start": 8.662,
+      "end": 9.088,
+      "duration": 0.425
+    },
+    {
+      "text": "of",
+      "start": 9.1,
+      "end": 9.2,
+      "duration": 0.1
+    },
+    {
+      "text": "local",
+      "start": 9.213,
+      "end": 9.55,
+      "duration": 0.338
+    },
+    {
+      "text": "cytokines",
+      "start": 9.562,
+      "end": 10.363,
+      "duration": 0.8
+    },
+    {
+      "text": "acting",
+      "start": 10.375,
+      "end": 10.738,
+      "duration": 0.362
+    },
+    {
+      "text": "upon",
+      "start": 10.75,
+      "end": 11.025,
+      "duration": 0.275
+    },
+    {
+      "text": "the",
+      "start": 11.037,
+      "end": 11.113,
+      "duration": 0.075
+    },
+    {
+      "text": "endothelium",
+      "start": 11.125,
+      "end": 11.912,
+      "duration": 0.787
+    },
+    {
+      "text": "and",
+      "start": 11.925,
+      "end": 12.062,
+      "duration": 0.138
+    },
+    {
+      "text": "smooth",
+      "start": 12.075,
+      "end": 12.412,
+      "duration": 0.338
+    },
+    {
+      "text": "muscle",
+      "start": 12.425,
+      "end": 12.75,
+      "duration": 0.325
+    },
+    {
+      "text": "cells",
+      "start": 12.762,
+      "end": 13.287,
+      "duration": 0.525
+    },
+    {
+      "text": "Janiques",
+      "start": 14.15,
+      "end": 14.625,
+      "duration": 0.475
+    },
+    {
+      "text": "and",
+      "start": 14.637,
+      "end": 14.75,
+      "duration": 0.113
+    },
+    {
+      "text": "colleagues",
+      "start": 14.762,
+      "end": 15.275,
+      "duration": 0.512
+    },
+    {
+      "text": "investigated",
+      "start": 15.287,
+      "end": 16.05,
+      "duration": 0.762
+    },
+    {
+      "text": "the",
+      "start": 16.062,
+      "end": 16.163,
+      "duration": 0.1
+    },
+    {
+      "text": "anti-inflammatory",
+      "start": 16.175,
+      "end": 17.337,
+      "duration": 1.163
+    },
+    {
+      "text": "and",
+      "start": 17.35,
+      "end": 17.6,
+      "duration": 0.25
+    },
+    {
+      "text": "antioxidative",
+      "start": 17.613,
+      "end": 18.462,
+      "duration": 0.85
+    },
+    {
+      "text": "effects",
+      "start": 18.475,
+      "end": 18.913,
+      "duration": 0.438
+    },
+    {
+      "text": "of",
+      "start": 18.925,
+      "end": 19.012,
+      "duration": 0.087
+    },
+    {
+      "text": "grapes",
+      "start": 19.025,
+      "end": 19.413,
+      "duration": 0.388
+    },
+    {
+      "text": "in",
+      "start": 19.425,
+      "end": 19.562,
+      "duration": 0.138
+    },
+    {
+      "text": "hemodialysis",
+      "start": 19.575,
+      "end": 20.45,
+      "duration": 0.875
+    },
+    {
+      "text": "patients",
+      "start": 20.462,
+      "end": 21.125,
+      "duration": 0.662
+    },
+    {
+      "text": "This",
+      "start": 22.0,
+      "end": 22.312,
+      "duration": 0.312
+    },
+    {
+      "text": "was",
+      "start": 22.325,
+      "end": 22.475,
+      "duration": 0.15
+    },
+    {
+      "text": "a",
+      "start": 22.488,
+      "end": 22.562,
+      "duration": 0.075
+    },
+    {
+      "text": "double-blind",
+      "start": 22.575,
+      "end": 23.25,
+      "duration": 0.675
+    },
+    {
+      "text": "placebo-controlled",
+      "start": 23.262,
+      "end": 24.212,
+      "duration": 0.95
+    },
+    {
+      "text": "study",
+      "start": 24.225,
+      "end": 24.663,
+      "duration": 0.438
+    },
+    {
+      "text": "in",
+      "start": 24.675,
+      "end": 24.788,
+      "duration": 0.113
+    },
+    {
+      "text": "which",
+      "start": 24.8,
+      "end": 25.012,
+      "duration": 0.212
+    },
+    {
+      "text": "32",
+      "start": 25.025,
+      "end": 25.538,
+      "duration": 0.512
+    },
+    {
+      "text": "subjects",
+      "start": 25.55,
+      "end": 26.15,
+      "duration": 0.6
+    },
+    {
+      "text": "undergoing",
+      "start": 26.163,
+      "end": 26.7,
+      "duration": 0.537
+    },
+    {
+      "text": "hemodialysis",
+      "start": 26.712,
+      "end": 27.7,
+      "duration": 0.988
+    },
+    {
+      "text": "were",
+      "start": 27.712,
+      "end": 27.85,
+      "duration": 0.138
+    },
+    {
+      "text": "given",
+      "start": 27.863,
+      "end": 28.15,
+      "duration": 0.287
+    },
+    {
+      "text": "either",
+      "start": 28.163,
+      "end": 28.363,
+      "duration": 0.2
+    },
+    {
+      "text": "500",
+      "start": 28.375,
+      "end": 29.0,
+      "duration": 0.625
+    },
+    {
+      "text": "milligrams",
+      "start": 29.012,
+      "end": 29.637,
+      "duration": 0.625
+    },
+    {
+      "text": "of",
+      "start": 29.65,
+      "end": 29.725,
+      "duration": 0.075
+    },
+    {
+      "text": "polyphenol",
+      "start": 29.738,
+      "end": 30.488,
+      "duration": 0.75
+    },
+    {
+      "text": "from",
+      "start": 30.5,
+      "end": 30.675,
+      "duration": 0.175
+    },
+    {
+      "text": "grape",
+      "start": 30.688,
+      "end": 31.0,
+      "duration": 0.312
+    },
+    {
+      "text": "powder",
+      "start": 31.012,
+      "end": 31.337,
+      "duration": 0.325
+    },
+    {
+      "text": "per",
+      "start": 31.35,
+      "end": 31.488,
+      "duration": 0.138
+    },
+    {
+      "text": "day",
+      "start": 31.5,
+      "end": 31.875,
+      "duration": 0.375
+    },
+    {
+      "text": "or",
+      "start": 31.887,
+      "end": 32.075,
+      "duration": 0.188
+    },
+    {
+      "text": "a",
+      "start": 32.087,
+      "end": 32.138,
+      "duration": 0.05
+    },
+    {
+      "text": "placebo",
+      "start": 32.15,
+      "end": 32.725,
+      "duration": 0.575
+    },
+    {
+      "text": "for",
+      "start": 32.737,
+      "end": 32.9,
+      "duration": 0.163
+    },
+    {
+      "text": "5",
+      "start": 32.913,
+      "end": 33.212,
+      "duration": 0.3
+    },
+    {
+      "text": "weeks",
+      "start": 33.225,
+      "end": 33.75,
+      "duration": 0.525
+    },
+    {
+      "text": "Subjects",
+      "start": 34.612,
+      "end": 35.275,
+      "duration": 0.662
+    },
+    {
+      "text": "consuming",
+      "start": 35.288,
+      "end": 35.825,
+      "duration": 0.537
+    },
+    {
+      "text": "the",
+      "start": 35.837,
+      "end": 35.938,
+      "duration": 0.1
+    },
+    {
+      "text": "grape",
+      "start": 35.95,
+      "end": 36.25,
+      "duration": 0.3
+    },
+    {
+      "text": "powder",
+      "start": 36.263,
+      "end": 36.65,
+      "duration": 0.388
+    },
+    {
+      "text": "had",
+      "start": 36.663,
+      "end": 36.85,
+      "duration": 0.188
+    },
+    {
+      "text": "an",
+      "start": 36.862,
+      "end": 36.962,
+      "duration": 0.1
+    },
+    {
+      "text": "increase",
+      "start": 36.975,
+      "end": 37.55,
+      "duration": 0.575
+    },
+    {
+      "text": "in",
+      "start": 37.562,
+      "end": 37.663,
+      "duration": 0.1
+    },
+    {
+      "text": "glutathione",
+      "start": 37.675,
+      "end": 38.388,
+      "duration": 0.713
+    },
+    {
+      "text": "peroxidase",
+      "start": 38.4,
+      "end": 39.05,
+      "duration": 0.65
+    },
+    {
+      "text": "activity",
+      "start": 39.062,
+      "end": 39.663,
+      "duration": 0.6
+    },
+    {
+      "text": "and",
+      "start": 39.675,
+      "end": 39.888,
+      "duration": 0.212
+    },
+    {
+      "text": "no",
+      "start": 39.9,
+      "end": 40.112,
+      "duration": 0.212
+    },
+    {
+      "text": "increase",
+      "start": 40.125,
+      "end": 40.65,
+      "duration": 0.525
+    },
+    {
+      "text": "in",
+      "start": 40.663,
+      "end": 40.812,
+      "duration": 0.15
+    },
+    {
+      "text": "C-reactive",
+      "start": 40.825,
+      "end": 41.462,
+      "duration": 0.637
+    },
+    {
+      "text": "protein",
+      "start": 41.475,
+      "end": 42.025,
+      "duration": 0.55
+    },
+    {
+      "text": "which",
+      "start": 42.388,
+      "end": 42.538,
+      "duration": 0.15
+    },
+    {
+      "text": "was",
+      "start": 42.55,
+      "end": 42.688,
+      "duration": 0.138
+    },
+    {
+      "text": "observed",
+      "start": 42.7,
+      "end": 43.188,
+      "duration": 0.487
+    },
+    {
+      "text": "in",
+      "start": 43.2,
+      "end": 43.25,
+      "duration": 0.05
+    },
+    {
+      "text": "the",
+      "start": 43.263,
+      "end": 43.337,
+      "duration": 0.075
+    },
+    {
+      "text": "placebo",
+      "start": 43.35,
+      "end": 43.862,
+      "duration": 0.512
+    },
+    {
+      "text": "group",
+      "start": 43.875,
+      "end": 44.212,
+      "duration": 0.338
+    },
+    {
+      "text": "demonstrating",
+      "start": 44.562,
+      "end": 45.237,
+      "duration": 0.675
+    },
+    {
+      "text": "the",
+      "start": 45.25,
+      "end": 45.35,
+      "duration": 0.1
+    },
+    {
+      "text": "antioxidant",
+      "start": 45.362,
+      "end": 46.188,
+      "duration": 0.825
+    },
+    {
+      "text": "potential",
+      "start": 46.2,
+      "end": 46.663,
+      "duration": 0.463
+    },
+    {
+      "text": "of",
+      "start": 46.675,
+      "end": 46.775,
+      "duration": 0.1
+    },
+    {
+      "text": "grapes",
+      "start": 46.788,
+      "end": 47.175,
+      "duration": 0.388
+    },
+    {
+      "text": "in",
+      "start": 47.188,
+      "end": 47.263,
+      "duration": 0.075
+    },
+    {
+      "text": "these",
+      "start": 47.275,
+      "end": 47.45,
+      "duration": 0.175
+    },
+    {
+      "text": "patients",
+      "start": 47.462,
+      "end": 48.138,
+      "duration": 0.675
+    },
+    {
+      "text": "Using",
+      "start": 49.013,
+      "end": 49.413,
+      "duration": 0.4
+    },
+    {
+      "text": "the",
+      "start": 49.425,
+      "end": 49.525,
+      "duration": 0.1
+    },
+    {
+      "text": "same",
+      "start": 49.538,
+      "end": 49.862,
+      "duration": 0.325
+    },
+    {
+      "text": "study",
+      "start": 49.875,
+      "end": 50.225,
+      "duration": 0.35
+    },
+    {
+      "text": "design",
+      "start": 50.237,
+      "end": 50.675,
+      "duration": 0.438
+    },
+    {
+      "text": "with",
+      "start": 50.688,
+      "end": 50.812,
+      "duration": 0.125
+    },
+    {
+      "text": "statin-treated",
+      "start": 50.825,
+      "end": 51.575,
+      "duration": 0.75
+    },
+    {
+      "text": "patients",
+      "start": 51.587,
+      "end": 52.1,
+      "duration": 0.512
+    },
+    {
+      "text": "and",
+      "start": 52.112,
+      "end": 52.263,
+      "duration": 0.15
+    },
+    {
+      "text": "grape",
+      "start": 52.275,
+      "end": 52.587,
+      "duration": 0.312
+    },
+    {
+      "text": "products",
+      "start": 52.6,
+      "end": 53.163,
+      "duration": 0.562
+    },
+    {
+      "text": "resveratrol-enriched",
+      "start": 53.5,
+      "end": 54.725,
+      "duration": 1.225
+    },
+    {
+      "text": "grape",
+      "start": 54.737,
+      "end": 55.05,
+      "duration": 0.312
+    },
+    {
+      "text": "extract",
+      "start": 55.062,
+      "end": 55.65,
+      "duration": 0.588
+    },
+    {
+      "text": "and",
+      "start": 55.663,
+      "end": 55.737,
+      "duration": 0.075
+    },
+    {
+      "text": "grape",
+      "start": 55.75,
+      "end": 56.05,
+      "duration": 0.3
+    },
+    {
+      "text": "extract",
+      "start": 56.062,
+      "end": 56.712,
+      "duration": 0.65
+    },
+    {
+      "text": "in",
+      "start": 56.875,
+      "end": 57.05,
+      "duration": 0.175
+    },
+    {
+      "text": "a",
+      "start": 57.062,
+      "end": 57.112,
+      "duration": 0.05
+    },
+    {
+      "text": "high-risk",
+      "start": 57.125,
+      "end": 57.712,
+      "duration": 0.588
+    },
+    {
+      "text": "population",
+      "start": 57.725,
+      "end": 58.45,
+      "duration": 0.725
+    },
+    {
+      "text": "of",
+      "start": 58.462,
+      "end": 58.562,
+      "duration": 0.1
+    },
+    {
+      "text": "75",
+      "start": 58.575,
+      "end": 59.325,
+      "duration": 0.75
+    },
+    {
+      "text": "individuals",
+      "start": 59.337,
+      "end": 60.05,
+      "duration": 0.713
+    },
+    {
+      "text": "with",
+      "start": 60.062,
+      "end": 60.225,
+      "duration": 0.163
+    },
+    {
+      "text": "stable",
+      "start": 60.237,
+      "end": 60.638,
+      "duration": 0.4
+    },
+    {
+      "text": "coronary",
+      "start": 60.65,
+      "end": 61.188,
+      "duration": 0.537
+    },
+    {
+      "text": "artery",
+      "start": 61.2,
+      "end": 61.562,
+      "duration": 0.362
+    },
+    {
+      "text": "disease",
+      "start": 61.575,
+      "end": 62.087,
+      "duration": 0.512
+    },
+    {
+      "text": "and",
+      "start": 62.1,
+      "end": 62.3,
+      "duration": 0.2
+    },
+    {
+      "text": "receiving",
+      "start": 62.312,
+      "end": 62.788,
+      "duration": 0.475
+    },
+    {
+      "text": "a",
+      "start": 62.8,
+      "end": 62.85,
+      "duration": 0.05
+    },
+    {
+      "text": "higher",
+      "start": 62.862,
+      "end": 63.188,
+      "duration": 0.325
+    },
+    {
+      "text": "dose",
+      "start": 63.2,
+      "end": 63.45,
+      "duration": 0.25
+    },
+    {
+      "text": "of",
+      "start": 63.462,
+      "end": 63.538,
+      "duration": 0.075
+    },
+    {
+      "text": "statins",
+      "start": 63.55,
+      "end": 64.138,
+      "duration": 0.588
+    },
+    {
+      "text": "Tomé-Carneiro",
+      "start": 64.5,
+      "end": 65.388,
+      "duration": 0.887
+    },
+    {
+      "text": "and",
+      "start": 65.463,
+      "end": 65.588,
+      "duration": 0.125
+    },
+    {
+      "text": "colleagues",
+      "start": 65.6,
+      "end": 66.1,
+      "duration": 0.5
+    },
+    {
+      "text": "reported",
+      "start": 66.112,
+      "end": 66.562,
+      "duration": 0.45
+    },
+    {
+      "text": "an",
+      "start": 66.575,
+      "end": 66.675,
+      "duration": 0.1
+    },
+    {
+      "text": "increase",
+      "start": 66.688,
+      "end": 67.263,
+      "duration": 0.575
+    },
+    {
+      "text": "in",
+      "start": 67.275,
+      "end": 67.35,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 67.362,
+      "end": 67.45,
+      "duration": 0.087
+    },
+    {
+      "text": "anti-inflammatory",
+      "start": 67.463,
+      "end": 68.562,
+      "duration": 1.1
+    },
+    {
+      "text": "serum",
+      "start": 68.575,
+      "end": 68.938,
+      "duration": 0.362
+    },
+    {
+      "text": "adiponectin",
+      "start": 68.95,
+      "end": 69.825,
+      "duration": 0.875
+    },
+    {
+      "text": "and",
+      "start": 69.838,
+      "end": 69.975,
+      "duration": 0.138
+    },
+    {
+      "text": "a",
+      "start": 69.987,
+      "end": 70.062,
+      "duration": 0.075
+    },
+    {
+      "text": "decrease",
+      "start": 70.075,
+      "end": 70.625,
+      "duration": 0.55
+    },
+    {
+      "text": "in",
+      "start": 70.638,
+      "end": 70.737,
+      "duration": 0.1
+    },
+    {
+      "text": "the",
+      "start": 70.75,
+      "end": 70.825,
+      "duration": 0.075
+    },
+    {
+      "text": "thrombogenic",
+      "start": 70.838,
+      "end": 71.588,
+      "duration": 0.75
+    },
+    {
+      "text": "P",
+      "start": 71.6,
+      "end": 71.862,
+      "duration": 0.263
+    },
+    {
+      "text": "A",
+      "start": 71.875,
+      "end": 72.062,
+      "duration": 0.188
+    },
+    {
+      "text": "I-1",
+      "start": 72.075,
+      "end": 72.562,
+      "duration": 0.487
+    },
+    {
+      "text": "in",
+      "start": 72.575,
+      "end": 72.662,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 72.675,
+      "end": 72.763,
+      "duration": 0.087
+    },
+    {
+      "text": "resveratrol-enriched",
+      "start": 72.775,
+      "end": 73.912,
+      "duration": 1.137
+    },
+    {
+      "text": "grape",
+      "start": 73.925,
+      "end": 74.2,
+      "duration": 0.275
+    },
+    {
+      "text": "extract",
+      "start": 74.213,
+      "end": 74.688,
+      "duration": 0.475
+    },
+    {
+      "text": "group",
+      "start": 74.7,
+      "end": 75.025,
+      "duration": 0.325
+    },
+    {
+      "text": "in",
+      "start": 75.388,
+      "end": 75.55,
+      "duration": 0.163
+    },
+    {
+      "text": "contrast",
+      "start": 75.562,
+      "end": 76.162,
+      "duration": 0.6
+    },
+    {
+      "text": "to",
+      "start": 76.175,
+      "end": 76.25,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 76.263,
+      "end": 76.362,
+      "duration": 0.1
+    },
+    {
+      "text": "grape",
+      "start": 76.375,
+      "end": 76.662,
+      "duration": 0.287
+    },
+    {
+      "text": "extract",
+      "start": 76.675,
+      "end": 77.237,
+      "duration": 0.562
+    },
+    {
+      "text": "and",
+      "start": 77.25,
+      "end": 77.325,
+      "duration": 0.075
+    },
+    {
+      "text": "placebo",
+      "start": 77.338,
+      "end": 77.838,
+      "duration": 0.5
+    },
+    {
+      "text": "groups",
+      "start": 77.85,
+      "end": 78.25,
+      "duration": 0.4
+    },
+    {
+      "text": "after",
+      "start": 78.537,
+      "end": 78.925,
+      "duration": 0.388
+    },
+    {
+      "text": "12",
+      "start": 78.938,
+      "end": 79.45,
+      "duration": 0.512
+    },
+    {
+      "text": "months",
+      "start": 80.312,
+      "end": 80.688,
+      "duration": 0.375
+    },
+    {
+      "text": "of",
+      "start": 80.7,
+      "end": 80.787,
+      "duration": 0.087
+    },
+    {
+      "text": "intervention",
+      "start": 80.8,
+      "end": 81.562,
+      "duration": 0.762
+    },
+    {
+      "text": "Additionally",
+      "start": 82.438,
+      "end": 83.112,
+      "duration": 0.675
+    },
+    {
+      "text": "resveratrol-enriched",
+      "start": 83.362,
+      "end": 84.575,
+      "duration": 1.212
+    },
+    {
+      "text": "grape",
+      "start": 84.588,
+      "end": 84.9,
+      "duration": 0.312
+    },
+    {
+      "text": "extract",
+      "start": 84.912,
+      "end": 85.537,
+      "duration": 0.625
+    },
+    {
+      "text": "downregulated",
+      "start": 85.55,
+      "end": 86.438,
+      "duration": 0.887
+    },
+    {
+      "text": "pro-inflammatory",
+      "start": 86.45,
+      "end": 87.412,
+      "duration": 0.963
+    },
+    {
+      "text": "gene",
+      "start": 87.425,
+      "end": 87.7,
+      "duration": 0.275
+    },
+    {
+      "text": "expression",
+      "start": 87.713,
+      "end": 88.287,
+      "duration": 0.575
+    },
+    {
+      "text": "in",
+      "start": 88.3,
+      "end": 88.45,
+      "duration": 0.15
+    },
+    {
+      "text": "peripheral",
+      "start": 88.463,
+      "end": 89.037,
+      "duration": 0.575
+    },
+    {
+      "text": "blood",
+      "start": 89.05,
+      "end": 89.35,
+      "duration": 0.3
+    },
+    {
+      "text": "mononuclear",
+      "start": 89.362,
+      "end": 90.125,
+      "duration": 0.762
+    },
+    {
+      "text": "cells",
+      "start": 90.138,
+      "end": 90.588,
+      "duration": 0.45
+    },
+    {
+      "text": "extracted",
+      "start": 90.6,
+      "end": 91.25,
+      "duration": 0.65
+    },
+    {
+      "text": "from",
+      "start": 91.263,
+      "end": 91.4,
+      "duration": 0.138
+    },
+    {
+      "text": "the",
+      "start": 91.412,
+      "end": 91.5,
+      "duration": 0.087
+    },
+    {
+      "text": "participants",
+      "start": 91.513,
+      "end": 92.362,
+      "duration": 0.85
+    },
+    {
+      "text": "However",
+      "start": 93.237,
+      "end": 93.787,
+      "duration": 0.55
+    },
+    {
+      "text": "not",
+      "start": 94.088,
+      "end": 94.325,
+      "duration": 0.237
+    },
+    {
+      "text": "all",
+      "start": 94.338,
+      "end": 94.5,
+      "duration": 0.163
+    },
+    {
+      "text": "the",
+      "start": 94.513,
+      "end": 94.625,
+      "duration": 0.113
+    },
+    {
+      "text": "published",
+      "start": 94.638,
+      "end": 95.125,
+      "duration": 0.487
+    },
+    {
+      "text": "literature",
+      "start": 95.138,
+      "end": 95.662,
+      "duration": 0.525
+    },
+    {
+      "text": "supports",
+      "start": 95.675,
+      "end": 96.162,
+      "duration": 0.487
+    },
+    {
+      "text": "the",
+      "start": 96.175,
+      "end": 96.275,
+      "duration": 0.1
+    },
+    {
+      "text": "anti-inflammatory",
+      "start": 96.287,
+      "end": 97.362,
+      "duration": 1.075
+    },
+    {
+      "text": "effects",
+      "start": 97.375,
+      "end": 97.787,
+      "duration": 0.412
+    },
+    {
+      "text": "of",
+      "start": 97.8,
+      "end": 97.888,
+      "duration": 0.087
+    },
+    {
+      "text": "grapes",
+      "start": 97.9,
+      "end": 98.463,
+      "duration": 0.562
+    },
+    {
+      "text": "In",
+      "start": 99.338,
+      "end": 99.55,
+      "duration": 0.212
+    },
+    {
+      "text": "contrast",
+      "start": 99.562,
+      "end": 100.125,
+      "duration": 0.562
+    },
+    {
+      "text": "to",
+      "start": 100.138,
+      "end": 100.2,
+      "duration": 0.062
+    },
+    {
+      "text": "these",
+      "start": 100.213,
+      "end": 100.425,
+      "duration": 0.212
+    },
+    {
+      "text": "studies",
+      "start": 100.438,
+      "end": 100.9,
+      "duration": 0.463
+    },
+    {
+      "text": "a",
+      "start": 101.237,
+      "end": 101.287,
+      "duration": 0.05
+    },
+    {
+      "text": "meta-analysis",
+      "start": 101.3,
+      "end": 102.188,
+      "duration": 0.887
+    },
+    {
+      "text": "on",
+      "start": 102.2,
+      "end": 102.312,
+      "duration": 0.113
+    },
+    {
+      "text": "the",
+      "start": 102.325,
+      "end": 102.388,
+      "duration": 0.062
+    },
+    {
+      "text": "effects",
+      "start": 102.4,
+      "end": 102.862,
+      "duration": 0.463
+    },
+    {
+      "text": "of",
+      "start": 102.875,
+      "end": 102.975,
+      "duration": 0.1
+    },
+    {
+      "text": "grape",
+      "start": 102.987,
+      "end": 103.3,
+      "duration": 0.312
+    },
+    {
+      "text": "polyphenols",
+      "start": 103.312,
+      "end": 104.013,
+      "duration": 0.7
+    },
+    {
+      "text": "on",
+      "start": 104.025,
+      "end": 104.175,
+      "duration": 0.15
+    },
+    {
+      "text": "selected",
+      "start": 104.188,
+      "end": 104.675,
+      "duration": 0.487
+    },
+    {
+      "text": "inflammatory",
+      "start": 104.688,
+      "end": 105.438,
+      "duration": 0.75
+    },
+    {
+      "text": "markers",
+      "start": 105.45,
+      "end": 105.938,
+      "duration": 0.487
+    },
+    {
+      "text": "by",
+      "start": 105.95,
+      "end": 106.088,
+      "duration": 0.138
+    },
+    {
+      "text": "Haghighatdoost",
+      "start": 106.1,
+      "end": 106.987,
+      "duration": 0.887
+    },
+    {
+      "text": "and",
+      "start": 107.0,
+      "end": 107.1,
+      "duration": 0.1
+    },
+    {
+      "text": "colleagues",
+      "start": 107.112,
+      "end": 107.625,
+      "duration": 0.512
+    },
+    {
+      "text": "reported",
+      "start": 107.638,
+      "end": 108.125,
+      "duration": 0.487
+    },
+    {
+      "text": "no",
+      "start": 108.138,
+      "end": 108.35,
+      "duration": 0.212
+    },
+    {
+      "text": "significant",
+      "start": 108.362,
+      "end": 109.0,
+      "duration": 0.637
+    },
+    {
+      "text": "changes",
+      "start": 109.013,
+      "end": 109.463,
+      "duration": 0.45
+    },
+    {
+      "text": "in",
+      "start": 109.475,
+      "end": 109.612,
+      "duration": 0.138
+    },
+    {
+      "text": "C-reactive",
+      "start": 109.625,
+      "end": 110.237,
+      "duration": 0.613
+    },
+    {
+      "text": "protein",
+      "start": 110.25,
+      "end": 110.775,
+      "duration": 0.525
+    },
+    {
+      "text": "I",
+      "start": 110.975,
+      "end": 111.112,
+      "duration": 0.138
+    },
+    {
+      "text": "L-6",
+      "start": 111.125,
+      "end": 111.8,
+      "duration": 0.675
+    },
+    {
+      "text": "or",
+      "start": 112.025,
+      "end": 112.25,
+      "duration": 0.225
+    },
+    {
+      "text": "T",
+      "start": 112.263,
+      "end": 112.525,
+      "duration": 0.263
+    },
+    {
+      "text": "N",
+      "start": 112.537,
+      "end": 112.75,
+      "duration": 0.212
+    },
+    {
+      "text": "F-alpha",
+      "start": 112.763,
+      "end": 113.287,
+      "duration": 0.525
+    },
+    {
+      "text": "between",
+      "start": 113.3,
+      "end": 113.638,
+      "duration": 0.338
+    },
+    {
+      "text": "the",
+      "start": 113.65,
+      "end": 113.725,
+      "duration": 0.075
+    },
+    {
+      "text": "intervention",
+      "start": 113.737,
+      "end": 114.513,
+      "duration": 0.775
+    },
+    {
+      "text": "and",
+      "start": 114.525,
+      "end": 114.662,
+      "duration": 0.138
+    },
+    {
+      "text": "the",
+      "start": 114.675,
+      "end": 114.75,
+      "duration": 0.075
+    },
+    {
+      "text": "control",
+      "start": 114.763,
+      "end": 115.15,
+      "duration": 0.388
+    },
+    {
+      "text": "groups",
+      "start": 115.162,
+      "end": 115.662,
+      "duration": 0.5
+    },
+    {
+      "text": "These",
+      "start": 116.537,
+      "end": 116.9,
+      "duration": 0.362
+    },
+    {
+      "text": "results",
+      "start": 116.912,
+      "end": 117.362,
+      "duration": 0.45
+    },
+    {
+      "text": "point",
+      "start": 117.375,
+      "end": 117.675,
+      "duration": 0.3
+    },
+    {
+      "text": "to",
+      "start": 117.688,
+      "end": 117.775,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 117.787,
+      "end": 117.9,
+      "duration": 0.113
+    },
+    {
+      "text": "need",
+      "start": 117.912,
+      "end": 118.225,
+      "duration": 0.312
+    },
+    {
+      "text": "to",
+      "start": 118.237,
+      "end": 118.338,
+      "duration": 0.1
+    },
+    {
+      "text": "conduct",
+      "start": 118.35,
+      "end": 118.8,
+      "duration": 0.45
+    },
+    {
+      "text": "more",
+      "start": 118.812,
+      "end": 119.05,
+      "duration": 0.237
+    },
+    {
+      "text": "clinical",
+      "start": 119.062,
+      "end": 119.475,
+      "duration": 0.412
+    },
+    {
+      "text": "trials",
+      "start": 119.487,
+      "end": 119.987,
+      "duration": 0.5
+    },
+    {
+      "text": "with",
+      "start": 120.0,
+      "end": 120.15,
+      "duration": 0.15
+    },
+    {
+      "text": "a",
+      "start": 120.162,
+      "end": 120.213,
+      "duration": 0.05
+    },
+    {
+      "text": "higher",
+      "start": 120.225,
+      "end": 120.562,
+      "duration": 0.338
+    },
+    {
+      "text": "number",
+      "start": 120.575,
+      "end": 120.875,
+      "duration": 0.3
+    },
+    {
+      "text": "of",
+      "start": 120.888,
+      "end": 120.975,
+      "duration": 0.087
+    },
+    {
+      "text": "participants",
+      "start": 120.987,
+      "end": 121.725,
+      "duration": 0.738
+    },
+    {
+      "text": "to",
+      "start": 121.737,
+      "end": 121.85,
+      "duration": 0.113
+    },
+    {
+      "text": "increase",
+      "start": 121.862,
+      "end": 122.312,
+      "duration": 0.45
+    },
+    {
+      "text": "our",
+      "start": 122.325,
+      "end": 122.5,
+      "duration": 0.175
+    },
+    {
+      "text": "understanding",
+      "start": 122.513,
+      "end": 123.225,
+      "duration": 0.713
+    },
+    {
+      "text": "of",
+      "start": 123.237,
+      "end": 123.325,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 123.338,
+      "end": 123.438,
+      "duration": 0.1
+    },
+    {
+      "text": "effects",
+      "start": 123.45,
+      "end": 123.925,
+      "duration": 0.475
+    },
+    {
+      "text": "of",
+      "start": 123.938,
+      "end": 124.05,
+      "duration": 0.113
+    },
+    {
+      "text": "grape",
+      "start": 124.062,
+      "end": 124.375,
+      "duration": 0.312
+    },
+    {
+      "text": "polyphenols",
+      "start": 124.388,
+      "end": 125.088,
+      "duration": 0.7
+    },
+    {
+      "text": "on",
+      "start": 125.1,
+      "end": 125.237,
+      "duration": 0.138
+    },
+    {
+      "text": "inflammation",
+      "start": 125.25,
+      "end": 126.1,
+      "duration": 0.85
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Inflammation and Oxidative Stress.",
+      "start": 0.1,
+      "end": 2.288,
+      "word_count": 4
+    },
+    {
+      "text": "Inflammation has a significant role in atherosclerotic lesion development, which is driven by the release of local cytokines acting upon the endothelium and smooth muscle cells.",
+      "start": 3.163,
+      "end": 13.287,
+      "word_count": 26
+    },
+    {
+      "text": "Janiques and colleagues investigated the anti-inflammatory and antioxidative effects of grapes in hemodialysis patients.",
+      "start": 14.15,
+      "end": 21.125,
+      "word_count": 14
+    },
+    {
+      "text": "This was a double-blind placebo-controlled study in which 32 subjects undergoing hemodialysis were given either 500 milligrams of polyphenol from grape powder per day or a placebo for 5 weeks.",
+      "start": 22.0,
+      "end": 33.75,
+      "word_count": 30
+    },
+    {
+      "text": "Subjects consuming the grape powder had an increase in glutathione peroxidase activity and no increase in C-reactive protein, which was observed in the placebo group, demonstrating the antioxidant potential of grapes in these patients.",
+      "start": 34.612,
+      "end": 48.138,
+      "word_count": 34
+    },
+    {
+      "text": "Using the same study design with statin-treated patients and grape products, resveratrol-enriched grape extract and grape extract, in a high-risk population of 75 individuals with stable coronary artery disease and receiving a higher dose of statins, Tomé-Carneiro and colleagues reported an increase in the anti-inflammatory serum adiponectin and a decrease in the thrombogenic P A I-1 in the resveratrol-enriched grape extract group, in contrast to the grape extract and placebo groups, after 12 months of intervention.",
+      "start": 49.013,
+      "end": 81.562,
+      "word_count": 76
+    },
+    {
+      "text": "Additionally, resveratrol-enriched grape extract downregulated pro-inflammatory gene expression in peripheral blood mononuclear cells extracted from the participants.",
+      "start": 82.438,
+      "end": 92.362,
+      "word_count": 17
+    },
+    {
+      "text": "However, not all the published literature supports the anti-inflammatory effects of grapes.",
+      "start": 93.237,
+      "end": 98.463,
+      "word_count": 12
+    },
+    {
+      "text": "In contrast to these studies, a meta-analysis on the effects of grape polyphenols on selected inflammatory markers by Haghighatdoost and colleagues reported no significant changes in C-reactive protein, I L-6, or T N F-alpha between the intervention and the control groups.",
+      "start": 99.338,
+      "end": 115.662,
+      "word_count": 41
+    },
+    {
+      "text": "These results point to the need to conduct more clinical trials with a higher number of participants to increase our understanding of the effects of grape polyphenols on inflammation.",
+      "start": 116.537,
+      "end": 126.1,
+      "word_count": 29
+    }
+  ],
+  "total_duration": 126.1,
+  "voice": "en-US-AriaNeural",
+  "text": "Inflammation and Oxidative Stress. Inflammation has a significant role in atherosclerotic lesion development, which is driven by the release of local cytokines acting upon the endothelium and smooth muscle cells. Janiques and colleagues investigated the anti-inflammatory and antioxidative effects of grapes in hemodialysis patients. This was a double-blind placebo-controlled study in which 32 subjects undergoing hemodialysis were given either 500 milligrams of polyphenol from grape powder per day or a placebo for 5 weeks. Subjects consuming the grape powder had an increase in glutathione peroxidase activity and no increase in C-reactive protein, which was observed in the placebo group, demonstrating the antioxidant potential of grapes in these patients. Using the same study design with statin-treated patients and grape products, resveratrol-enriched grape extract and grape extract, in a high-risk population of 75 individuals with stable coronary artery disease and receiving a higher dose of statins, Tomé-Carneiro and colleagues reported an increase in the anti-inflammatory serum adiponectin and a decrease in the thrombogenic P A I-1 in the resveratrol-enriched grape extract group, in contrast to the grape extract and placebo groups, after 12 months of intervention. Additionally, resveratrol-enriched grape extract downregulated pro-inflammatory gene expression in peripheral blood mononuclear cells extracted from the participants. However, not all the published literature supports the anti-inflammatory effects of grapes. In contrast to these studies, a meta-analysis on the effects of grape polyphenols on selected inflammatory markers by Haghighatdoost and colleagues reported no significant changes in C-reactive protein, I L-6, or T N F-alpha between the intervention and the control groups. These results point to the need to conduct more clinical trials with a higher number of participants to increase our understanding of the effects of grape polyphenols on inflammation."
+}

@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Latency",
+      "start": 0.109,
+      "end": 0.8,
+      "duration": 0.691
+    },
+    {
+      "text": "to",
+      "start": 0.815,
+      "end": 0.932,
+      "duration": 0.118
+    },
+    {
+      "text": "platform",
+      "start": 0.947,
+      "end": 1.771,
+      "duration": 0.824
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Latency to platform",
+      "start": 0.109,
+      "end": 1.771,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.771,
+  "voice": "en-US-AriaNeural",
+  "text": "Latency to platform"
+}

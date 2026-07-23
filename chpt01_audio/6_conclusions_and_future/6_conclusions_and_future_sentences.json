@@ -1,0 +1,96 @@
+{
+  "sentences": [
+    {
+      "text": "Conclusions and Future Directions.",
+      "start": 0.1,
+      "end": 2.25,
+      "word_count": 4
+    },
+    {
+      "text": "Together, the various papers cited in both the previous review and this review strongly support the idea that grape products can improve brain function in animals exposed to stress, aging, and disease.",
+      "start": 3.112,
+      "end": 14.637,
+      "word_count": 32
+    },
+    {
+      "text": "Importantly, since the previous review, there have been many more studies on humans, some of which have shown quite impressive results.",
+      "start": 15.512,
+      "end": 22.788,
+      "word_count": 21
+    },
+    {
+      "text": "Furthermore, some of these positive studies have been done on young healthy adults rather than on individuals with disease, suggesting that grape product consumption might also benefit some aspects of brain function across the human lifespan.",
+      "start": 23.65,
+      "end": 36.612,
+      "word_count": 36
+    },
+    {
+      "text": "Positive effects on brain function have been seen with multiple types of grape products, including freeze-dried grape powder, which contains both grape polyphenols and high levels of grape sugars; grape seed extract, which contains mostly grape polyphenols, although these may vary depending on the source of the product; and grape juice.",
+      "start": 37.487,
+      "end": 56.125,
+      "word_count": 51
+    },
+    {
+      "text": "However, since there is no standardized way to administer grape products, it is hard to compare results between different products.",
+      "start": 57.0,
+      "end": 64.287,
+      "word_count": 20
+    },
+    {
+      "text": "This is especially true of animal studies since some are placed in drinking water while others are added to the diet or, in a few cases, injected.",
+      "start": 65.15,
+      "end": 73.3,
+      "word_count": 27
+    },
+    {
+      "text": "Thus, it can be a challenge to determine daily intake and to compare dosing between studies.",
+      "start": 74.162,
+      "end": 79.375,
+      "word_count": 16
+    },
+    {
+      "text": "A more standardized way of describing the dosing would greatly facilitate a comparison of results.",
+      "start": 80.237,
+      "end": 85.55,
+      "word_count": 15
+    },
+    {
+      "text": "Considerable variation exists even in human studies as some are consumed as liquids, while others are given in capsules.",
+      "start": 86.425,
+      "end": 93.2,
+      "word_count": 19
+    },
+    {
+      "text": "However, the growing efforts to identify specific metabolites as markers of grape product consumption could provide a very useful way of comparing animal and, more importantly, human studies in the future.",
+      "start": 94.062,
+      "end": 106.412,
+      "word_count": 31
+    },
+    {
+      "text": "Grape products appear to work through multiple mechanisms to improve brain function.",
+      "start": 107.275,
+      "end": 111.55,
+      "word_count": 12
+    },
+    {
+      "text": "These include preventing increases in oxidative stress and inflammation and decreases in neurotrophic factor signaling and neurogenesis as well as reducing various insult-dependent alterations in synaptic function and neurotransmission.",
+      "start": 112.412,
+      "end": 125.987,
+      "word_count": 29
+    },
+    {
+      "text": "Further investigation into how grape products impact each of these mechanisms would go a long way toward providing a better understanding of how grape products work as well as further validating their use for the treatment of brain disorders.",
+      "start": 126.85,
+      "end": 139.037,
+      "word_count": 39
+    },
+    {
+      "text": "Nevertheless, the studies discussed in this review, along with those described in the earlier review, provide growing support for the incorporation of grapes, grape juice, or other grape products into the diet as a way of maintaining or improving brain function, in both health and disease, throughout one's lifespan.",
+      "start": 139.912,
+      "end": 157.637,
+      "word_count": 49
+    }
+  ],
+  "total_duration": 157.637,
+  "voice": "en-US-AriaNeural"
+}

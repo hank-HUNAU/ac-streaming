@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "p-Hydroxybenzoic acid",
+      "start": 0.109,
+      "end": 2.285,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 2.285,
+  "voice": "en-US-AriaNeural"
+}

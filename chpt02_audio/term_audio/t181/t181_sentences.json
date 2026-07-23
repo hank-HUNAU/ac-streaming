@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Lipid peroxidation",
+      "start": 0.109,
+      "end": 1.785,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.785,
+  "voice": "en-US-AriaNeural"
+}

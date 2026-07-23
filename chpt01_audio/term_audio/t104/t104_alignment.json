@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "GSSPE",
+      "start": 0.109,
+      "end": 1.844,
+      "duration": 1.735
+    }
+  ],
+  "sentences": [
+    {
+      "text": "GSSPE",
+      "start": 0.109,
+      "end": 1.844,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.844,
+  "voice": "en-US-AriaNeural",
+  "text": "GSSPE"
+}

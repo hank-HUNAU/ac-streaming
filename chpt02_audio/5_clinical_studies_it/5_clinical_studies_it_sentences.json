@@ -1,0 +1,42 @@
+{
+  "sentences": [
+    {
+      "text": "Clinical Studies.",
+      "start": 0.1,
+      "end": 1.238,
+      "word_count": 2
+    },
+    {
+      "text": "It has been postulated that phenolic compounds derived from fruits affect four different factors of cardiovascular disease risk: vascular dysfunction, hypertension, dyslipidemia, and inflammation and oxidative stress.",
+      "start": 2.1,
+      "end": 15.088,
+      "word_count": 27
+    },
+    {
+      "text": "Several studies have demonstrated antiatherogenic effects after consuming whole grapes, grape products, grape components, or individual bioactive components isolated from grapes, such as resveratrol.",
+      "start": 15.963,
+      "end": 28.312,
+      "word_count": 24
+    },
+    {
+      "text": "These protective effects are related to the improvement of endothelial dysfunction by increasing flow-mediated vasodilation, enhancing nitric oxide bioavailability, and lowering blood pressure.",
+      "start": 29.175,
+      "end": 40.2,
+      "word_count": 23
+    },
+    {
+      "text": "Other studies have shown a positive modulation of the atherogenic lipid profile, the prevention of L D L oxidation, and the promotion of anti-inflammatory activities.",
+      "start": 41.062,
+      "end": 51.2,
+      "word_count": 25
+    },
+    {
+      "text": "The most recent and relevant studies will be discussed in the following paragraphs.",
+      "start": 52.062,
+      "end": 56.288,
+      "word_count": 13
+    }
+  ],
+  "total_duration": 56.288,
+  "voice": "en-US-AriaNeural"
+}

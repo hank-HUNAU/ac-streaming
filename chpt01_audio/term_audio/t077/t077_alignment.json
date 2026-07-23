@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Cingulate",
+      "start": 0.109,
+      "end": 0.8,
+      "duration": 0.691
+    },
+    {
+      "text": "cortex",
+      "start": 0.815,
+      "end": 1.726,
+      "duration": 0.912
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Cingulate cortex",
+      "start": 0.109,
+      "end": 1.726,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.726,
+  "voice": "en-US-AriaNeural",
+  "text": "Cingulate cortex"
+}

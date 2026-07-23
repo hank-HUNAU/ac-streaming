@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Bordo",
+      "start": 0.109,
+      "end": 0.579,
+      "duration": 0.471
+    },
+    {
+      "text": "grape",
+      "start": 0.594,
+      "end": 0.947,
+      "duration": 0.353
+    },
+    {
+      "text": "juice",
+      "start": 0.962,
+      "end": 1.55,
+      "duration": 0.588
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Bordo grape juice",
+      "start": 0.109,
+      "end": 1.55,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.55,
+  "voice": "en-US-AriaNeural",
+  "text": "Bordo grape juice"
+}

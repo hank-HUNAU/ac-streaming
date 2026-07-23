@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Secondary",
+      "start": 0.109,
+      "end": 0.903,
+      "duration": 0.794
+    },
+    {
+      "text": "prevention",
+      "start": 0.918,
+      "end": 1.726,
+      "duration": 0.809
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Secondary prevention",
+      "start": 0.109,
+      "end": 1.726,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.726,
+  "voice": "en-US-AriaNeural",
+  "text": "Secondary prevention"
+}

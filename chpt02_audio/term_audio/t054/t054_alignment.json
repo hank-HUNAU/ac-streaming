@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "TG",
+      "start": 0.109,
+      "end": 0.976,
+      "duration": 0.868
+    }
+  ],
+  "sentences": [
+    {
+      "text": "TG",
+      "start": 0.109,
+      "end": 0.976,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 0.976,
+  "voice": "en-US-AriaNeural",
+  "text": "TG"
+}

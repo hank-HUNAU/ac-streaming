@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Cardiovascular",
+      "start": 0.109,
+      "end": 1.3,
+      "duration": 1.191
+    },
+    {
+      "text": "risk",
+      "start": 1.315,
+      "end": 1.859,
+      "duration": 0.544
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Cardiovascular risk",
+      "start": 0.109,
+      "end": 1.859,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.859,
+  "voice": "en-US-AriaNeural",
+  "text": "Cardiovascular risk"
+}

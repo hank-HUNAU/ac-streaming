@@ -1,0 +1,729 @@
+{
+  "words": [
+    {
+      "text": "Clinical",
+      "start": 0.1,
+      "end": 0.575,
+      "duration": 0.475
+    },
+    {
+      "text": "Studies",
+      "start": 0.588,
+      "end": 1.238,
+      "duration": 0.65
+    },
+    {
+      "text": "It",
+      "start": 2.1,
+      "end": 2.25,
+      "duration": 0.15
+    },
+    {
+      "text": "has",
+      "start": 2.263,
+      "end": 2.413,
+      "duration": 0.15
+    },
+    {
+      "text": "been",
+      "start": 2.425,
+      "end": 2.587,
+      "duration": 0.163
+    },
+    {
+      "text": "postulated",
+      "start": 2.6,
+      "end": 3.35,
+      "duration": 0.75
+    },
+    {
+      "text": "that",
+      "start": 3.362,
+      "end": 3.5,
+      "duration": 0.138
+    },
+    {
+      "text": "phenolic",
+      "start": 3.513,
+      "end": 3.95,
+      "duration": 0.438
+    },
+    {
+      "text": "compounds",
+      "start": 3.962,
+      "end": 4.588,
+      "duration": 0.625
+    },
+    {
+      "text": "derived",
+      "start": 4.6,
+      "end": 5.05,
+      "duration": 0.45
+    },
+    {
+      "text": "from",
+      "start": 5.062,
+      "end": 5.225,
+      "duration": 0.163
+    },
+    {
+      "text": "fruits",
+      "start": 5.237,
+      "end": 5.588,
+      "duration": 0.35
+    },
+    {
+      "text": "affect",
+      "start": 5.6,
+      "end": 5.975,
+      "duration": 0.375
+    },
+    {
+      "text": "four",
+      "start": 5.987,
+      "end": 6.263,
+      "duration": 0.275
+    },
+    {
+      "text": "different",
+      "start": 6.275,
+      "end": 6.638,
+      "duration": 0.362
+    },
+    {
+      "text": "factors",
+      "start": 6.65,
+      "end": 7.162,
+      "duration": 0.512
+    },
+    {
+      "text": "of",
+      "start": 7.175,
+      "end": 7.25,
+      "duration": 0.075
+    },
+    {
+      "text": "cardiovascular",
+      "start": 7.263,
+      "end": 8.175,
+      "duration": 0.912
+    },
+    {
+      "text": "disease",
+      "start": 8.188,
+      "end": 8.55,
+      "duration": 0.362
+    },
+    {
+      "text": "risk",
+      "start": 8.562,
+      "end": 8.938,
+      "duration": 0.375
+    },
+    {
+      "text": "vascular",
+      "start": 9.287,
+      "end": 9.8,
+      "duration": 0.512
+    },
+    {
+      "text": "dysfunction",
+      "start": 9.812,
+      "end": 10.488,
+      "duration": 0.675
+    },
+    {
+      "text": "hypertension",
+      "start": 10.713,
+      "end": 11.463,
+      "duration": 0.75
+    },
+    {
+      "text": "dyslipidemia",
+      "start": 11.688,
+      "end": 12.6,
+      "duration": 0.912
+    },
+    {
+      "text": "and",
+      "start": 12.775,
+      "end": 12.95,
+      "duration": 0.175
+    },
+    {
+      "text": "inflammation",
+      "start": 12.963,
+      "end": 13.75,
+      "duration": 0.787
+    },
+    {
+      "text": "and",
+      "start": 13.762,
+      "end": 13.925,
+      "duration": 0.163
+    },
+    {
+      "text": "oxidative",
+      "start": 13.938,
+      "end": 14.525,
+      "duration": 0.588
+    },
+    {
+      "text": "stress",
+      "start": 14.537,
+      "end": 15.088,
+      "duration": 0.55
+    },
+    {
+      "text": "Several",
+      "start": 15.963,
+      "end": 16.413,
+      "duration": 0.45
+    },
+    {
+      "text": "studies",
+      "start": 16.425,
+      "end": 16.875,
+      "duration": 0.45
+    },
+    {
+      "text": "have",
+      "start": 16.887,
+      "end": 17.012,
+      "duration": 0.125
+    },
+    {
+      "text": "demonstrated",
+      "start": 17.025,
+      "end": 17.725,
+      "duration": 0.7
+    },
+    {
+      "text": "antiatherogenic",
+      "start": 17.738,
+      "end": 18.812,
+      "duration": 1.075
+    },
+    {
+      "text": "effects",
+      "start": 18.825,
+      "end": 19.3,
+      "duration": 0.475
+    },
+    {
+      "text": "after",
+      "start": 19.312,
+      "end": 19.6,
+      "duration": 0.287
+    },
+    {
+      "text": "consuming",
+      "start": 19.613,
+      "end": 20.15,
+      "duration": 0.537
+    },
+    {
+      "text": "whole",
+      "start": 20.163,
+      "end": 20.413,
+      "duration": 0.25
+    },
+    {
+      "text": "grapes",
+      "start": 20.425,
+      "end": 20.887,
+      "duration": 0.463
+    },
+    {
+      "text": "grape",
+      "start": 21.15,
+      "end": 21.425,
+      "duration": 0.275
+    },
+    {
+      "text": "products",
+      "start": 21.438,
+      "end": 22.012,
+      "duration": 0.575
+    },
+    {
+      "text": "grape",
+      "start": 22.2,
+      "end": 22.5,
+      "duration": 0.3
+    },
+    {
+      "text": "components",
+      "start": 22.512,
+      "end": 23.175,
+      "duration": 0.662
+    },
+    {
+      "text": "or",
+      "start": 23.375,
+      "end": 23.525,
+      "duration": 0.15
+    },
+    {
+      "text": "individual",
+      "start": 23.538,
+      "end": 24.262,
+      "duration": 0.725
+    },
+    {
+      "text": "bioactive",
+      "start": 24.275,
+      "end": 24.938,
+      "duration": 0.662
+    },
+    {
+      "text": "components",
+      "start": 24.95,
+      "end": 25.562,
+      "duration": 0.613
+    },
+    {
+      "text": "isolated",
+      "start": 25.575,
+      "end": 26.15,
+      "duration": 0.575
+    },
+    {
+      "text": "from",
+      "start": 26.163,
+      "end": 26.312,
+      "duration": 0.15
+    },
+    {
+      "text": "grapes",
+      "start": 26.325,
+      "end": 26.788,
+      "duration": 0.463
+    },
+    {
+      "text": "such",
+      "start": 27.075,
+      "end": 27.275,
+      "duration": 0.2
+    },
+    {
+      "text": "as",
+      "start": 27.288,
+      "end": 27.387,
+      "duration": 0.1
+    },
+    {
+      "text": "resveratrol",
+      "start": 27.4,
+      "end": 28.312,
+      "duration": 0.912
+    },
+    {
+      "text": "These",
+      "start": 29.175,
+      "end": 29.5,
+      "duration": 0.325
+    },
+    {
+      "text": "protective",
+      "start": 29.512,
+      "end": 30.0,
+      "duration": 0.487
+    },
+    {
+      "text": "effects",
+      "start": 30.012,
+      "end": 30.462,
+      "duration": 0.45
+    },
+    {
+      "text": "are",
+      "start": 30.475,
+      "end": 30.6,
+      "duration": 0.125
+    },
+    {
+      "text": "related",
+      "start": 30.613,
+      "end": 31.05,
+      "duration": 0.438
+    },
+    {
+      "text": "to",
+      "start": 31.062,
+      "end": 31.137,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 31.15,
+      "end": 31.238,
+      "duration": 0.087
+    },
+    {
+      "text": "improvement",
+      "start": 31.25,
+      "end": 31.875,
+      "duration": 0.625
+    },
+    {
+      "text": "of",
+      "start": 31.887,
+      "end": 32.0,
+      "duration": 0.113
+    },
+    {
+      "text": "endothelial",
+      "start": 32.013,
+      "end": 32.737,
+      "duration": 0.725
+    },
+    {
+      "text": "dysfunction",
+      "start": 32.75,
+      "end": 33.388,
+      "duration": 0.637
+    },
+    {
+      "text": "by",
+      "start": 33.4,
+      "end": 33.562,
+      "duration": 0.163
+    },
+    {
+      "text": "increasing",
+      "start": 33.575,
+      "end": 34.075,
+      "duration": 0.5
+    },
+    {
+      "text": "flow-mediated",
+      "start": 34.087,
+      "end": 34.825,
+      "duration": 0.738
+    },
+    {
+      "text": "vasodilation",
+      "start": 34.837,
+      "end": 35.7,
+      "duration": 0.863
+    },
+    {
+      "text": "enhancing",
+      "start": 36.075,
+      "end": 36.612,
+      "duration": 0.537
+    },
+    {
+      "text": "nitric",
+      "start": 36.625,
+      "end": 37.05,
+      "duration": 0.425
+    },
+    {
+      "text": "oxide",
+      "start": 37.062,
+      "end": 37.525,
+      "duration": 0.463
+    },
+    {
+      "text": "bioavailability",
+      "start": 37.538,
+      "end": 38.562,
+      "duration": 1.025
+    },
+    {
+      "text": "and",
+      "start": 38.825,
+      "end": 39.0,
+      "duration": 0.175
+    },
+    {
+      "text": "lowering",
+      "start": 39.013,
+      "end": 39.45,
+      "duration": 0.438
+    },
+    {
+      "text": "blood",
+      "start": 39.462,
+      "end": 39.7,
+      "duration": 0.237
+    },
+    {
+      "text": "pressure",
+      "start": 39.712,
+      "end": 40.2,
+      "duration": 0.487
+    },
+    {
+      "text": "Other",
+      "start": 41.062,
+      "end": 41.388,
+      "duration": 0.325
+    },
+    {
+      "text": "studies",
+      "start": 41.4,
+      "end": 41.825,
+      "duration": 0.425
+    },
+    {
+      "text": "have",
+      "start": 41.837,
+      "end": 41.962,
+      "duration": 0.125
+    },
+    {
+      "text": "shown",
+      "start": 41.975,
+      "end": 42.225,
+      "duration": 0.25
+    },
+    {
+      "text": "a",
+      "start": 42.237,
+      "end": 42.3,
+      "duration": 0.062
+    },
+    {
+      "text": "positive",
+      "start": 42.312,
+      "end": 42.8,
+      "duration": 0.487
+    },
+    {
+      "text": "modulation",
+      "start": 42.812,
+      "end": 43.55,
+      "duration": 0.738
+    },
+    {
+      "text": "of",
+      "start": 43.562,
+      "end": 43.65,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 43.663,
+      "end": 43.75,
+      "duration": 0.087
+    },
+    {
+      "text": "atherogenic",
+      "start": 43.763,
+      "end": 44.55,
+      "duration": 0.787
+    },
+    {
+      "text": "lipid",
+      "start": 44.562,
+      "end": 44.888,
+      "duration": 0.325
+    },
+    {
+      "text": "profile",
+      "start": 44.9,
+      "end": 45.538,
+      "duration": 0.637
+    },
+    {
+      "text": "the",
+      "start": 45.862,
+      "end": 45.962,
+      "duration": 0.1
+    },
+    {
+      "text": "prevention",
+      "start": 45.975,
+      "end": 46.525,
+      "duration": 0.55
+    },
+    {
+      "text": "of",
+      "start": 46.538,
+      "end": 46.638,
+      "duration": 0.1
+    },
+    {
+      "text": "L",
+      "start": 46.65,
+      "end": 46.85,
+      "duration": 0.2
+    },
+    {
+      "text": "D",
+      "start": 46.862,
+      "end": 47.025,
+      "duration": 0.163
+    },
+    {
+      "text": "L",
+      "start": 47.038,
+      "end": 47.25,
+      "duration": 0.212
+    },
+    {
+      "text": "oxidation",
+      "start": 47.263,
+      "end": 48.0,
+      "duration": 0.738
+    },
+    {
+      "text": "and",
+      "start": 48.4,
+      "end": 48.525,
+      "duration": 0.125
+    },
+    {
+      "text": "the",
+      "start": 48.538,
+      "end": 48.625,
+      "duration": 0.087
+    },
+    {
+      "text": "promotion",
+      "start": 48.638,
+      "end": 49.163,
+      "duration": 0.525
+    },
+    {
+      "text": "of",
+      "start": 49.175,
+      "end": 49.263,
+      "duration": 0.087
+    },
+    {
+      "text": "anti-inflammatory",
+      "start": 49.275,
+      "end": 50.362,
+      "duration": 1.087
+    },
+    {
+      "text": "activities",
+      "start": 50.375,
+      "end": 51.2,
+      "duration": 0.825
+    },
+    {
+      "text": "The",
+      "start": 52.062,
+      "end": 52.212,
+      "duration": 0.15
+    },
+    {
+      "text": "most",
+      "start": 52.225,
+      "end": 52.5,
+      "duration": 0.275
+    },
+    {
+      "text": "recent",
+      "start": 52.513,
+      "end": 52.938,
+      "duration": 0.425
+    },
+    {
+      "text": "and",
+      "start": 52.95,
+      "end": 53.062,
+      "duration": 0.113
+    },
+    {
+      "text": "relevant",
+      "start": 53.075,
+      "end": 53.513,
+      "duration": 0.438
+    },
+    {
+      "text": "studies",
+      "start": 53.525,
+      "end": 53.987,
+      "duration": 0.463
+    },
+    {
+      "text": "will",
+      "start": 54.0,
+      "end": 54.138,
+      "duration": 0.138
+    },
+    {
+      "text": "be",
+      "start": 54.15,
+      "end": 54.25,
+      "duration": 0.1
+    },
+    {
+      "text": "discussed",
+      "start": 54.263,
+      "end": 54.837,
+      "duration": 0.575
+    },
+    {
+      "text": "in",
+      "start": 54.85,
+      "end": 54.913,
+      "duration": 0.062
+    },
+    {
+      "text": "the",
+      "start": 54.925,
+      "end": 55.013,
+      "duration": 0.087
+    },
+    {
+      "text": "following",
+      "start": 55.025,
+      "end": 55.462,
+      "duration": 0.438
+    },
+    {
+      "text": "paragraphs",
+      "start": 55.475,
+      "end": 56.288,
+      "duration": 0.812
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Clinical Studies.",
+      "start": 0.1,
+      "end": 1.238,
+      "word_count": 2
+    },
+    {
+      "text": "It has been postulated that phenolic compounds derived from fruits affect four different factors of cardiovascular disease risk: vascular dysfunction, hypertension, dyslipidemia, and inflammation and oxidative stress.",
+      "start": 2.1,
+      "end": 15.088,
+      "word_count": 27
+    },
+    {
+      "text": "Several studies have demonstrated antiatherogenic effects after consuming whole grapes, grape products, grape components, or individual bioactive components isolated from grapes, such as resveratrol.",
+      "start": 15.963,
+      "end": 28.312,
+      "word_count": 24
+    },
+    {
+      "text": "These protective effects are related to the improvement of endothelial dysfunction by increasing flow-mediated vasodilation, enhancing nitric oxide bioavailability, and lowering blood pressure.",
+      "start": 29.175,
+      "end": 40.2,
+      "word_count": 23
+    },
+    {
+      "text": "Other studies have shown a positive modulation of the atherogenic lipid profile, the prevention of L D L oxidation, and the promotion of anti-inflammatory activities.",
+      "start": 41.062,
+      "end": 51.2,
+      "word_count": 25
+    },
+    {
+      "text": "The most recent and relevant studies will be discussed in the following paragraphs.",
+      "start": 52.062,
+      "end": 56.288,
+      "word_count": 13
+    }
+  ],
+  "total_duration": 56.288,
+  "voice": "en-US-AriaNeural",
+  "text": "Clinical Studies. It has been postulated that phenolic compounds derived from fruits affect four different factors of cardiovascular disease risk: vascular dysfunction, hypertension, dyslipidemia, and inflammation and oxidative stress. Several studies have demonstrated antiatherogenic effects after consuming whole grapes, grape products, grape components, or individual bioactive components isolated from grapes, such as resveratrol. These protective effects are related to the improvement of endothelial dysfunction by increasing flow-mediated vasodilation, enhancing nitric oxide bioavailability, and lowering blood pressure. Other studies have shown a positive modulation of the atherogenic lipid profile, the prevention of L D L oxidation, and the promotion of anti-inflammatory activities. The most recent and relevant studies will be discussed in the following paragraphs."
+}

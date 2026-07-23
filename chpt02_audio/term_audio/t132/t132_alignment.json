@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Cholesterol",
+      "start": 0.109,
+      "end": 0.903,
+      "duration": 0.794
+    },
+    {
+      "text": "metabolism",
+      "start": 0.918,
+      "end": 1.756,
+      "duration": 0.838
+    },
+    {
+      "text": "pathway",
+      "start": 1.771,
+      "end": 2.521,
+      "duration": 0.75
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Cholesterol metabolism pathway",
+      "start": 0.109,
+      "end": 2.521,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.521,
+  "voice": "en-US-AriaNeural",
+  "text": "Cholesterol metabolism pathway"
+}

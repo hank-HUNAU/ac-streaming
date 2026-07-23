@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "eNOS",
+      "start": 0.109,
+      "end": 0.918,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 0.918,
+  "voice": "en-US-AriaNeural"
+}

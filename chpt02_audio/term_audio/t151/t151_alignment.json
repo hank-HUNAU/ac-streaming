@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Homo",
+      "start": 0.109,
+      "end": 0.55,
+      "duration": 0.441
+    },
+    {
+      "text": "sapiens",
+      "start": 0.565,
+      "end": 1.521,
+      "duration": 0.956
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Homo sapiens",
+      "start": 0.109,
+      "end": 1.521,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.521,
+  "voice": "en-US-AriaNeural",
+  "text": "Homo sapiens"
+}

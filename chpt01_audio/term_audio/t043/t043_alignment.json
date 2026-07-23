@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "PD",
+      "start": 0.109,
+      "end": 0.962,
+      "duration": 0.853
+    }
+  ],
+  "sentences": [
+    {
+      "text": "PD",
+      "start": 0.109,
+      "end": 0.962,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 0.962,
+  "voice": "en-US-AriaNeural",
+  "text": "PD"
+}

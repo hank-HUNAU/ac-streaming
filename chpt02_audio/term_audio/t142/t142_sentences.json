@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "LDLR−/− mouse / − mouse",
+      "start": 0.109,
+      "end": 3.55,
+      "word_count": 5
+    }
+  ],
+  "total_duration": 3.55,
+  "voice": "en-US-AriaNeural"
+}

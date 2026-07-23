@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "PAI-1",
+      "start": 0.109,
+      "end": 1.491,
+      "duration": 1.382
+    }
+  ],
+  "sentences": [
+    {
+      "text": "PAI-1",
+      "start": 0.109,
+      "end": 1.491,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.491,
+  "voice": "en-US-AriaNeural",
+  "text": "PAI-1"
+}

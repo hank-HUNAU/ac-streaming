@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Brachial artery",
+      "start": 0.109,
+      "end": 1.329,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.329,
+  "voice": "en-US-AriaNeural"
+}

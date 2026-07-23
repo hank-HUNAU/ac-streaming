@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Metabolic",
+      "start": 0.109,
+      "end": 0.947,
+      "duration": 0.838
+    },
+    {
+      "text": "syndrome",
+      "start": 0.962,
+      "end": 1.697,
+      "duration": 0.735
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Metabolic syndrome",
+      "start": 0.109,
+      "end": 1.697,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.697,
+  "voice": "en-US-AriaNeural",
+  "text": "Metabolic syndrome"
+}

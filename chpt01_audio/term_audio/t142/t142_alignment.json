@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Pain",
+      "start": 0.109,
+      "end": 0.521,
+      "duration": 0.412
+    },
+    {
+      "text": "sensitivity",
+      "start": 0.535,
+      "end": 1.55,
+      "duration": 1.015
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pain sensitivity",
+      "start": 0.109,
+      "end": 1.55,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.55,
+  "voice": "en-US-AriaNeural",
+  "text": "Pain sensitivity"
+}

@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Standard diet",
+      "start": 0.109,
+      "end": 1.373,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.373,
+  "voice": "en-US-AriaNeural"
+}

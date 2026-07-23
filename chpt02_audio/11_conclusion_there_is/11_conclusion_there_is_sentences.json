@@ -1,0 +1,30 @@
+{
+  "sentences": [
+    {
+      "text": "Conclusion.",
+      "start": 0.1,
+      "end": 0.9,
+      "word_count": 1
+    },
+    {
+      "text": "There is strong and convincing evidence derived from epidemiological data, clinical interventions, and animal and cell studies documenting the protective effects of grapes, grape products, and grape components against atherosclerosis.",
+      "start": 1.762,
+      "end": 15.5,
+      "word_count": 30
+    },
+    {
+      "text": "This protection results from numerous effects of grape polyphenols or other components present in grapes on metabolic routes and signaling pathways associated with oxidative stress, inflammation, platelet activation, and dyslipidemias, all of which are associated with the pathology that leads to atherosclerosis.",
+      "start": 16.375,
+      "end": 34.775,
+      "word_count": 42
+    },
+    {
+      "text": "Further studies are still required to evaluate appropriate dietary recommendations for grapes that can lead to both the prevention and amelioration of metabolic dysregulations leading to atherosclerosis.",
+      "start": 35.638,
+      "end": 47.038,
+      "word_count": 27
+    }
+  ],
+  "total_duration": 47.038,
+  "voice": "en-US-AriaNeural"
+}

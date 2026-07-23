@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "In",
+      "start": 0.109,
+      "end": 0.359,
+      "duration": 0.25
+    },
+    {
+      "text": "vivo",
+      "start": 0.374,
+      "end": 0.771,
+      "duration": 0.397
+    },
+    {
+      "text": "models",
+      "start": 0.785,
+      "end": 1.491,
+      "duration": 0.706
+    }
+  ],
+  "sentences": [
+    {
+      "text": "In vivo models",
+      "start": 0.109,
+      "end": 1.491,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.491,
+  "voice": "en-US-AriaNeural",
+  "text": "In vivo models"
+}

@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Macrophage",
+      "start": 0.109,
+      "end": 1.021,
+      "duration": 0.912
+    },
+    {
+      "text": "infiltration",
+      "start": 1.035,
+      "end": 2.05,
+      "duration": 1.015
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Macrophage infiltration",
+      "start": 0.109,
+      "end": 2.05,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 2.05,
+  "voice": "en-US-AriaNeural",
+  "text": "Macrophage infiltration"
+}

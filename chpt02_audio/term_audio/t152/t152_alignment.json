@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Caco-2",
+      "start": 0.109,
+      "end": 0.918,
+      "duration": 0.809
+    },
+    {
+      "text": "cells",
+      "start": 0.932,
+      "end": 1.594,
+      "duration": 0.662
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Caco-2 cells",
+      "start": 0.109,
+      "end": 1.594,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.594,
+  "voice": "en-US-AriaNeural",
+  "text": "Caco-2 cells"
+}

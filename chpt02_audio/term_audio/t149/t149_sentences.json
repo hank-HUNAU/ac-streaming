@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Guinea pig",
+      "start": 0.109,
+      "end": 1.109,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.109,
+  "voice": "en-US-AriaNeural"
+}

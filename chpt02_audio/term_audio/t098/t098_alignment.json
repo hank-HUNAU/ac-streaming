@@ -1,0 +1,33 @@
+{
+  "words": [
+    {
+      "text": "Fatty",
+      "start": 0.109,
+      "end": 0.638,
+      "duration": 0.529
+    },
+    {
+      "text": "acid",
+      "start": 0.653,
+      "end": 1.124,
+      "duration": 0.471
+    },
+    {
+      "text": "synthase",
+      "start": 1.138,
+      "end": 2.006,
+      "duration": 0.868
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Fatty acid synthase",
+      "start": 0.109,
+      "end": 2.006,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.006,
+  "voice": "en-US-AriaNeural",
+  "text": "Fatty acid synthase"
+}

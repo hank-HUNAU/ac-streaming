@@ -1,0 +1,2643 @@
+{
+  "words": [
+    {
+      "text": "Epidemiological",
+      "start": 0.1,
+      "end": 1.238,
+      "duration": 1.137
+    },
+    {
+      "text": "Information",
+      "start": 1.25,
+      "end": 2.062,
+      "duration": 0.812
+    },
+    {
+      "text": "Epidemiological",
+      "start": 2.925,
+      "end": 4.075,
+      "duration": 1.15
+    },
+    {
+      "text": "studies",
+      "start": 4.088,
+      "end": 4.525,
+      "duration": 0.438
+    },
+    {
+      "text": "have",
+      "start": 4.537,
+      "end": 4.675,
+      "duration": 0.138
+    },
+    {
+      "text": "shown",
+      "start": 4.688,
+      "end": 5.013,
+      "duration": 0.325
+    },
+    {
+      "text": "that",
+      "start": 5.025,
+      "end": 5.15,
+      "duration": 0.125
+    },
+    {
+      "text": "a",
+      "start": 5.162,
+      "end": 5.225,
+      "duration": 0.062
+    },
+    {
+      "text": "diet",
+      "start": 5.237,
+      "end": 5.6,
+      "duration": 0.362
+    },
+    {
+      "text": "rich",
+      "start": 5.612,
+      "end": 5.875,
+      "duration": 0.263
+    },
+    {
+      "text": "in",
+      "start": 5.888,
+      "end": 6.013,
+      "duration": 0.125
+    },
+    {
+      "text": "fruits",
+      "start": 6.025,
+      "end": 6.375,
+      "duration": 0.35
+    },
+    {
+      "text": "and",
+      "start": 6.388,
+      "end": 6.475,
+      "duration": 0.087
+    },
+    {
+      "text": "vegetables",
+      "start": 6.487,
+      "end": 7.112,
+      "duration": 0.625
+    },
+    {
+      "text": "prevents",
+      "start": 7.125,
+      "end": 7.588,
+      "duration": 0.463
+    },
+    {
+      "text": "coronary",
+      "start": 7.6,
+      "end": 8.113,
+      "duration": 0.512
+    },
+    {
+      "text": "heart",
+      "start": 8.125,
+      "end": 8.375,
+      "duration": 0.25
+    },
+    {
+      "text": "disease",
+      "start": 8.387,
+      "end": 8.825,
+      "duration": 0.438
+    },
+    {
+      "text": "and",
+      "start": 8.838,
+      "end": 9.025,
+      "duration": 0.188
+    },
+    {
+      "text": "other",
+      "start": 9.037,
+      "end": 9.262,
+      "duration": 0.225
+    },
+    {
+      "text": "conditions",
+      "start": 9.275,
+      "end": 9.9,
+      "duration": 0.625
+    },
+    {
+      "text": "including",
+      "start": 10.275,
+      "end": 10.787,
+      "duration": 0.512
+    },
+    {
+      "text": "type-2",
+      "start": 10.8,
+      "end": 11.3,
+      "duration": 0.5
+    },
+    {
+      "text": "diabetes",
+      "start": 11.312,
+      "end": 12.088,
+      "duration": 0.775
+    },
+    {
+      "text": "which",
+      "start": 12.425,
+      "end": 12.588,
+      "duration": 0.163
+    },
+    {
+      "text": "eventually",
+      "start": 12.6,
+      "end": 13.113,
+      "duration": 0.512
+    },
+    {
+      "text": "can",
+      "start": 13.125,
+      "end": 13.3,
+      "duration": 0.175
+    },
+    {
+      "text": "lead",
+      "start": 13.312,
+      "end": 13.537,
+      "duration": 0.225
+    },
+    {
+      "text": "to",
+      "start": 13.55,
+      "end": 13.637,
+      "duration": 0.087
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 13.65,
+      "end": 14.8,
+      "duration": 1.15
+    },
+    {
+      "text": "and",
+      "start": 14.812,
+      "end": 14.988,
+      "duration": 0.175
+    },
+    {
+      "text": "heart",
+      "start": 15.0,
+      "end": 15.25,
+      "duration": 0.25
+    },
+    {
+      "text": "disease",
+      "start": 15.262,
+      "end": 15.85,
+      "duration": 0.588
+    },
+    {
+      "text": "An",
+      "start": 16.712,
+      "end": 16.962,
+      "duration": 0.25
+    },
+    {
+      "text": "adequate",
+      "start": 16.975,
+      "end": 17.425,
+      "duration": 0.45
+    },
+    {
+      "text": "intake",
+      "start": 17.438,
+      "end": 17.913,
+      "duration": 0.475
+    },
+    {
+      "text": "of",
+      "start": 17.925,
+      "end": 18.0,
+      "duration": 0.075
+    },
+    {
+      "text": "a",
+      "start": 18.012,
+      "end": 18.075,
+      "duration": 0.062
+    },
+    {
+      "text": "healthy",
+      "start": 18.087,
+      "end": 18.462,
+      "duration": 0.375
+    },
+    {
+      "text": "dietary",
+      "start": 18.475,
+      "end": 19.038,
+      "duration": 0.562
+    },
+    {
+      "text": "pattern",
+      "start": 19.05,
+      "end": 19.488,
+      "duration": 0.438
+    },
+    {
+      "text": "that",
+      "start": 19.5,
+      "end": 19.637,
+      "duration": 0.138
+    },
+    {
+      "text": "includes",
+      "start": 19.65,
+      "end": 20.137,
+      "duration": 0.487
+    },
+    {
+      "text": "fruit",
+      "start": 20.15,
+      "end": 20.425,
+      "duration": 0.275
+    },
+    {
+      "text": "and",
+      "start": 20.438,
+      "end": 20.538,
+      "duration": 0.1
+    },
+    {
+      "text": "vegetables",
+      "start": 20.55,
+      "end": 21.188,
+      "duration": 0.637
+    },
+    {
+      "text": "reduces",
+      "start": 21.2,
+      "end": 21.712,
+      "duration": 0.512
+    },
+    {
+      "text": "the",
+      "start": 21.725,
+      "end": 21.8,
+      "duration": 0.075
+    },
+    {
+      "text": "most",
+      "start": 21.812,
+      "end": 22.087,
+      "duration": 0.275
+    },
+    {
+      "text": "common",
+      "start": 22.1,
+      "end": 22.475,
+      "duration": 0.375
+    },
+    {
+      "text": "noncommunicable",
+      "start": 22.488,
+      "end": 23.312,
+      "duration": 0.825
+    },
+    {
+      "text": "diseases",
+      "start": 23.325,
+      "end": 23.925,
+      "duration": 0.6
+    },
+    {
+      "text": "including",
+      "start": 24.312,
+      "end": 24.9,
+      "duration": 0.588
+    },
+    {
+      "text": "cardiovascular",
+      "start": 24.913,
+      "end": 25.875,
+      "duration": 0.963
+    },
+    {
+      "text": "disease",
+      "start": 25.887,
+      "end": 26.438,
+      "duration": 0.55
+    },
+    {
+      "text": "as",
+      "start": 26.45,
+      "end": 26.587,
+      "duration": 0.138
+    },
+    {
+      "text": "well",
+      "start": 26.6,
+      "end": 26.837,
+      "duration": 0.237
+    },
+    {
+      "text": "as",
+      "start": 26.85,
+      "end": 26.975,
+      "duration": 0.125
+    },
+    {
+      "text": "obesity",
+      "start": 26.988,
+      "end": 27.575,
+      "duration": 0.588
+    },
+    {
+      "text": "and",
+      "start": 27.587,
+      "end": 27.75,
+      "duration": 0.163
+    },
+    {
+      "text": "metabolic",
+      "start": 27.762,
+      "end": 28.337,
+      "duration": 0.575
+    },
+    {
+      "text": "syndrome",
+      "start": 28.35,
+      "end": 28.825,
+      "duration": 0.475
+    },
+    {
+      "text": "associated",
+      "start": 28.837,
+      "end": 29.538,
+      "duration": 0.7
+    },
+    {
+      "text": "with",
+      "start": 29.55,
+      "end": 29.675,
+      "duration": 0.125
+    },
+    {
+      "text": "increased",
+      "start": 29.688,
+      "end": 30.212,
+      "duration": 0.525
+    },
+    {
+      "text": "risk",
+      "start": 30.225,
+      "end": 30.6,
+      "duration": 0.375
+    },
+    {
+      "text": "for",
+      "start": 30.613,
+      "end": 30.75,
+      "duration": 0.138
+    },
+    {
+      "text": "cardiovascular",
+      "start": 30.762,
+      "end": 31.675,
+      "duration": 0.912
+    },
+    {
+      "text": "disease",
+      "start": 31.688,
+      "end": 32.3,
+      "duration": 0.613
+    },
+    {
+      "text": "These",
+      "start": 33.163,
+      "end": 33.487,
+      "duration": 0.325
+    },
+    {
+      "text": "healthy",
+      "start": 33.5,
+      "end": 33.875,
+      "duration": 0.375
+    },
+    {
+      "text": "effects",
+      "start": 33.888,
+      "end": 34.312,
+      "duration": 0.425
+    },
+    {
+      "text": "of",
+      "start": 34.325,
+      "end": 34.425,
+      "duration": 0.1
+    },
+    {
+      "text": "fruits",
+      "start": 34.438,
+      "end": 34.788,
+      "duration": 0.35
+    },
+    {
+      "text": "and",
+      "start": 34.8,
+      "end": 34.888,
+      "duration": 0.087
+    },
+    {
+      "text": "vegetables",
+      "start": 34.9,
+      "end": 35.525,
+      "duration": 0.625
+    },
+    {
+      "text": "have",
+      "start": 35.538,
+      "end": 35.675,
+      "duration": 0.138
+    },
+    {
+      "text": "been",
+      "start": 35.688,
+      "end": 35.825,
+      "duration": 0.138
+    },
+    {
+      "text": "attributed",
+      "start": 35.837,
+      "end": 36.375,
+      "duration": 0.537
+    },
+    {
+      "text": "in",
+      "start": 36.388,
+      "end": 36.513,
+      "duration": 0.125
+    },
+    {
+      "text": "part",
+      "start": 36.525,
+      "end": 36.825,
+      "duration": 0.3
+    },
+    {
+      "text": "to",
+      "start": 36.837,
+      "end": 36.913,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 36.925,
+      "end": 37.038,
+      "duration": 0.113
+    },
+    {
+      "text": "antioxidant",
+      "start": 37.05,
+      "end": 37.95,
+      "duration": 0.9
+    },
+    {
+      "text": "and",
+      "start": 37.962,
+      "end": 38.138,
+      "duration": 0.175
+    },
+    {
+      "text": "anti-inflammatory",
+      "start": 38.15,
+      "end": 39.175,
+      "duration": 1.025
+    },
+    {
+      "text": "properties",
+      "start": 39.188,
+      "end": 39.812,
+      "duration": 0.625
+    },
+    {
+      "text": "of",
+      "start": 39.825,
+      "end": 39.913,
+      "duration": 0.087
+    },
+    {
+      "text": "polyphenols",
+      "start": 39.925,
+      "end": 40.663,
+      "duration": 0.738
+    },
+    {
+      "text": "In",
+      "start": 41.538,
+      "end": 41.7,
+      "duration": 0.163
+    },
+    {
+      "text": "a",
+      "start": 41.712,
+      "end": 41.775,
+      "duration": 0.062
+    },
+    {
+      "text": "study",
+      "start": 41.788,
+      "end": 42.15,
+      "duration": 0.362
+    },
+    {
+      "text": "conducted",
+      "start": 42.163,
+      "end": 42.688,
+      "duration": 0.525
+    },
+    {
+      "text": "with",
+      "start": 42.7,
+      "end": 42.85,
+      "duration": 0.15
+    },
+    {
+      "text": "667",
+      "start": 42.862,
+      "end": 44.212,
+      "duration": 1.35
+    },
+    {
+      "text": "individuals",
+      "start": 44.225,
+      "end": 44.987,
+      "duration": 0.762
+    },
+    {
+      "text": "it",
+      "start": 45.337,
+      "end": 45.462,
+      "duration": 0.125
+    },
+    {
+      "text": "was",
+      "start": 45.475,
+      "end": 45.612,
+      "duration": 0.138
+    },
+    {
+      "text": "demonstrated",
+      "start": 45.625,
+      "end": 46.337,
+      "duration": 0.713
+    },
+    {
+      "text": "that",
+      "start": 46.35,
+      "end": 46.462,
+      "duration": 0.113
+    },
+    {
+      "text": "a",
+      "start": 46.475,
+      "end": 46.513,
+      "duration": 0.037
+    },
+    {
+      "text": "healthy",
+      "start": 46.525,
+      "end": 46.9,
+      "duration": 0.375
+    },
+    {
+      "text": "diet",
+      "start": 46.913,
+      "end": 47.263,
+      "duration": 0.35
+    },
+    {
+      "text": "rich",
+      "start": 47.275,
+      "end": 47.562,
+      "duration": 0.287
+    },
+    {
+      "text": "in",
+      "start": 47.575,
+      "end": 47.7,
+      "duration": 0.125
+    },
+    {
+      "text": "fruits",
+      "start": 47.712,
+      "end": 48.087,
+      "duration": 0.375
+    },
+    {
+      "text": "and",
+      "start": 48.1,
+      "end": 48.212,
+      "duration": 0.113
+    },
+    {
+      "text": "vegetables",
+      "start": 48.225,
+      "end": 48.837,
+      "duration": 0.613
+    },
+    {
+      "text": "decreased",
+      "start": 48.85,
+      "end": 49.325,
+      "duration": 0.475
+    },
+    {
+      "text": "systemic",
+      "start": 49.337,
+      "end": 49.862,
+      "duration": 0.525
+    },
+    {
+      "text": "inflammation",
+      "start": 49.875,
+      "end": 50.6,
+      "duration": 0.725
+    },
+    {
+      "text": "as",
+      "start": 50.9,
+      "end": 51.125,
+      "duration": 0.225
+    },
+    {
+      "text": "determined",
+      "start": 51.138,
+      "end": 51.65,
+      "duration": 0.512
+    },
+    {
+      "text": "by",
+      "start": 51.663,
+      "end": 51.788,
+      "duration": 0.125
+    },
+    {
+      "text": "measurements",
+      "start": 51.8,
+      "end": 52.362,
+      "duration": 0.562
+    },
+    {
+      "text": "of",
+      "start": 52.375,
+      "end": 52.462,
+      "duration": 0.087
+    },
+    {
+      "text": "inflammatory",
+      "start": 52.475,
+      "end": 53.212,
+      "duration": 0.738
+    },
+    {
+      "text": "cytokines",
+      "start": 53.225,
+      "end": 54.0,
+      "duration": 0.775
+    },
+    {
+      "text": "and",
+      "start": 54.013,
+      "end": 54.2,
+      "duration": 0.188
+    },
+    {
+      "text": "expression",
+      "start": 54.212,
+      "end": 54.775,
+      "duration": 0.562
+    },
+    {
+      "text": "of",
+      "start": 54.788,
+      "end": 54.875,
+      "duration": 0.087
+    },
+    {
+      "text": "C",
+      "start": 54.888,
+      "end": 55.112,
+      "duration": 0.225
+    },
+    {
+      "text": "D",
+      "start": 55.125,
+      "end": 55.312,
+      "duration": 0.188
+    },
+    {
+      "text": "14",
+      "start": 55.325,
+      "end": 55.888,
+      "duration": 0.562
+    },
+    {
+      "text": "and",
+      "start": 55.9,
+      "end": 56.013,
+      "duration": 0.113
+    },
+    {
+      "text": "C",
+      "start": 56.025,
+      "end": 56.212,
+      "duration": 0.188
+    },
+    {
+      "text": "D",
+      "start": 56.225,
+      "end": 56.388,
+      "duration": 0.163
+    },
+    {
+      "text": "16",
+      "start": 56.4,
+      "end": 57.062,
+      "duration": 0.662
+    },
+    {
+      "text": "two",
+      "start": 57.438,
+      "end": 57.625,
+      "duration": 0.188
+    },
+    {
+      "text": "monocyte",
+      "start": 57.638,
+      "end": 58.25,
+      "duration": 0.613
+    },
+    {
+      "text": "subpopulations",
+      "start": 58.263,
+      "end": 59.3,
+      "duration": 1.038
+    },
+    {
+      "text": "characterized",
+      "start": 59.312,
+      "end": 60.075,
+      "duration": 0.762
+    },
+    {
+      "text": "for",
+      "start": 60.087,
+      "end": 60.212,
+      "duration": 0.125
+    },
+    {
+      "text": "higher",
+      "start": 60.225,
+      "end": 60.525,
+      "duration": 0.3
+    },
+    {
+      "text": "potency",
+      "start": 60.538,
+      "end": 61.112,
+      "duration": 0.575
+    },
+    {
+      "text": "in",
+      "start": 61.125,
+      "end": 61.312,
+      "duration": 0.188
+    },
+    {
+      "text": "antigen",
+      "start": 61.325,
+      "end": 61.75,
+      "duration": 0.425
+    },
+    {
+      "text": "presentation",
+      "start": 61.763,
+      "end": 62.6,
+      "duration": 0.838
+    },
+    {
+      "text": "and",
+      "start": 62.612,
+      "end": 62.725,
+      "duration": 0.113
+    },
+    {
+      "text": "for",
+      "start": 62.737,
+      "end": 62.9,
+      "duration": 0.163
+    },
+    {
+      "text": "being",
+      "start": 62.913,
+      "end": 63.163,
+      "duration": 0.25
+    },
+    {
+      "text": "pro-inflammatory",
+      "start": 63.175,
+      "end": 64.225,
+      "duration": 1.05
+    },
+    {
+      "text": "A",
+      "start": 65.088,
+      "end": 65.237,
+      "duration": 0.15
+    },
+    {
+      "text": "recent",
+      "start": 65.25,
+      "end": 65.6,
+      "duration": 0.35
+    },
+    {
+      "text": "review",
+      "start": 65.612,
+      "end": 65.963,
+      "duration": 0.35
+    },
+    {
+      "text": "specifically",
+      "start": 65.975,
+      "end": 66.662,
+      "duration": 0.688
+    },
+    {
+      "text": "selected",
+      "start": 66.675,
+      "end": 67.175,
+      "duration": 0.5
+    },
+    {
+      "text": "grapes",
+      "start": 67.188,
+      "end": 67.588,
+      "duration": 0.4
+    },
+    {
+      "text": "as",
+      "start": 67.6,
+      "end": 67.763,
+      "duration": 0.163
+    },
+    {
+      "text": "one",
+      "start": 67.775,
+      "end": 67.963,
+      "duration": 0.188
+    },
+    {
+      "text": "of",
+      "start": 67.975,
+      "end": 68.05,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 68.062,
+      "end": 68.15,
+      "duration": 0.087
+    },
+    {
+      "text": "promising",
+      "start": 68.162,
+      "end": 68.688,
+      "duration": 0.525
+    },
+    {
+      "text": "nutritional",
+      "start": 68.7,
+      "end": 69.25,
+      "duration": 0.55
+    },
+    {
+      "text": "fruits",
+      "start": 69.263,
+      "end": 69.7,
+      "duration": 0.438
+    },
+    {
+      "text": "that",
+      "start": 69.713,
+      "end": 69.85,
+      "duration": 0.138
+    },
+    {
+      "text": "may",
+      "start": 69.862,
+      "end": 70.05,
+      "duration": 0.188
+    },
+    {
+      "text": "protect",
+      "start": 70.062,
+      "end": 70.55,
+      "duration": 0.487
+    },
+    {
+      "text": "against",
+      "start": 70.562,
+      "end": 70.912,
+      "duration": 0.35
+    },
+    {
+      "text": "cardiovascular",
+      "start": 70.925,
+      "end": 71.812,
+      "duration": 0.887
+    },
+    {
+      "text": "disease",
+      "start": 71.825,
+      "end": 72.45,
+      "duration": 0.625
+    },
+    {
+      "text": "Grapes",
+      "start": 73.312,
+      "end": 73.737,
+      "duration": 0.425
+    },
+    {
+      "text": "are",
+      "start": 73.75,
+      "end": 73.85,
+      "duration": 0.1
+    },
+    {
+      "text": "one",
+      "start": 73.862,
+      "end": 74.025,
+      "duration": 0.163
+    },
+    {
+      "text": "of",
+      "start": 74.037,
+      "end": 74.125,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 74.138,
+      "end": 74.237,
+      "duration": 0.1
+    },
+    {
+      "text": "richest",
+      "start": 74.25,
+      "end": 74.625,
+      "duration": 0.375
+    },
+    {
+      "text": "sources",
+      "start": 74.638,
+      "end": 75.062,
+      "duration": 0.425
+    },
+    {
+      "text": "of",
+      "start": 75.075,
+      "end": 75.162,
+      "duration": 0.087
+    },
+    {
+      "text": "polyphenols",
+      "start": 75.175,
+      "end": 75.862,
+      "duration": 0.688
+    },
+    {
+      "text": "including",
+      "start": 76.088,
+      "end": 76.6,
+      "duration": 0.512
+    },
+    {
+      "text": "flavonoids",
+      "start": 76.612,
+      "end": 77.45,
+      "duration": 0.838
+    },
+    {
+      "text": "The",
+      "start": 78.325,
+      "end": 78.525,
+      "duration": 0.2
+    },
+    {
+      "text": "intake",
+      "start": 78.537,
+      "end": 78.987,
+      "duration": 0.45
+    },
+    {
+      "text": "of",
+      "start": 79.0,
+      "end": 79.088,
+      "duration": 0.087
+    },
+    {
+      "text": "flavonoids",
+      "start": 79.1,
+      "end": 79.75,
+      "duration": 0.65
+    },
+    {
+      "text": "has",
+      "start": 79.763,
+      "end": 79.95,
+      "duration": 0.188
+    },
+    {
+      "text": "been",
+      "start": 79.963,
+      "end": 80.112,
+      "duration": 0.15
+    },
+    {
+      "text": "demonstrated",
+      "start": 80.125,
+      "end": 80.85,
+      "duration": 0.725
+    },
+    {
+      "text": "to",
+      "start": 80.862,
+      "end": 80.925,
+      "duration": 0.062
+    },
+    {
+      "text": "have",
+      "start": 80.938,
+      "end": 81.138,
+      "duration": 0.2
+    },
+    {
+      "text": "an",
+      "start": 81.15,
+      "end": 81.25,
+      "duration": 0.1
+    },
+    {
+      "text": "inverse",
+      "start": 81.263,
+      "end": 81.7,
+      "duration": 0.438
+    },
+    {
+      "text": "relationship",
+      "start": 81.713,
+      "end": 82.45,
+      "duration": 0.738
+    },
+    {
+      "text": "with",
+      "start": 82.463,
+      "end": 82.6,
+      "duration": 0.138
+    },
+    {
+      "text": "the",
+      "start": 82.612,
+      "end": 82.725,
+      "duration": 0.113
+    },
+    {
+      "text": "risk",
+      "start": 82.737,
+      "end": 83.075,
+      "duration": 0.338
+    },
+    {
+      "text": "of",
+      "start": 83.088,
+      "end": 83.175,
+      "duration": 0.087
+    },
+    {
+      "text": "cardiovascular",
+      "start": 83.188,
+      "end": 84.138,
+      "duration": 0.95
+    },
+    {
+      "text": "disease",
+      "start": 84.15,
+      "end": 84.763,
+      "duration": 0.613
+    },
+    {
+      "text": "It",
+      "start": 85.625,
+      "end": 85.763,
+      "duration": 0.138
+    },
+    {
+      "text": "has",
+      "start": 85.775,
+      "end": 85.938,
+      "duration": 0.163
+    },
+    {
+      "text": "also",
+      "start": 85.95,
+      "end": 86.287,
+      "duration": 0.338
+    },
+    {
+      "text": "been",
+      "start": 86.3,
+      "end": 86.487,
+      "duration": 0.188
+    },
+    {
+      "text": "reported",
+      "start": 86.5,
+      "end": 86.95,
+      "duration": 0.45
+    },
+    {
+      "text": "that",
+      "start": 86.963,
+      "end": 87.112,
+      "duration": 0.15
+    },
+    {
+      "text": "proanthocyanidins",
+      "start": 87.125,
+      "end": 88.362,
+      "duration": 1.238
+    },
+    {
+      "text": "a",
+      "start": 88.65,
+      "end": 88.725,
+      "duration": 0.075
+    },
+    {
+      "text": "class",
+      "start": 88.737,
+      "end": 89.075,
+      "duration": 0.338
+    },
+    {
+      "text": "of",
+      "start": 89.088,
+      "end": 89.175,
+      "duration": 0.087
+    },
+    {
+      "text": "polyphenols",
+      "start": 89.188,
+      "end": 89.8,
+      "duration": 0.613
+    },
+    {
+      "text": "found",
+      "start": 89.812,
+      "end": 90.125,
+      "duration": 0.312
+    },
+    {
+      "text": "in",
+      "start": 90.138,
+      "end": 90.213,
+      "duration": 0.075
+    },
+    {
+      "text": "grapes",
+      "start": 90.225,
+      "end": 90.675,
+      "duration": 0.45
+    },
+    {
+      "text": "have",
+      "start": 91.025,
+      "end": 91.15,
+      "duration": 0.125
+    },
+    {
+      "text": "a",
+      "start": 91.162,
+      "end": 91.237,
+      "duration": 0.075
+    },
+    {
+      "text": "greater",
+      "start": 91.25,
+      "end": 91.675,
+      "duration": 0.425
+    },
+    {
+      "text": "antioxidant",
+      "start": 91.688,
+      "end": 92.45,
+      "duration": 0.762
+    },
+    {
+      "text": "effect",
+      "start": 92.463,
+      "end": 92.912,
+      "duration": 0.45
+    },
+    {
+      "text": "compared",
+      "start": 92.925,
+      "end": 93.338,
+      "duration": 0.412
+    },
+    {
+      "text": "to",
+      "start": 93.35,
+      "end": 93.425,
+      "duration": 0.075
+    },
+    {
+      "text": "vitamin",
+      "start": 93.438,
+      "end": 93.888,
+      "duration": 0.45
+    },
+    {
+      "text": "C",
+      "start": 93.9,
+      "end": 94.25,
+      "duration": 0.35
+    },
+    {
+      "text": "or",
+      "start": 94.263,
+      "end": 94.412,
+      "duration": 0.15
+    },
+    {
+      "text": "vitamin",
+      "start": 94.425,
+      "end": 94.862,
+      "duration": 0.438
+    },
+    {
+      "text": "E",
+      "start": 94.9,
+      "end": 95.062,
+      "duration": 0.163
+    },
+    {
+      "text": "in",
+      "start": 95.075,
+      "end": 95.237,
+      "duration": 0.163
+    },
+    {
+      "text": "aqueous",
+      "start": 95.25,
+      "end": 95.65,
+      "duration": 0.4
+    },
+    {
+      "text": "media",
+      "start": 95.662,
+      "end": 96.1,
+      "duration": 0.438
+    },
+    {
+      "text": "and",
+      "start": 96.45,
+      "end": 96.662,
+      "duration": 0.212
+    },
+    {
+      "text": "proanthocyanidin-rich",
+      "start": 96.675,
+      "end": 98.125,
+      "duration": 1.45
+    },
+    {
+      "text": "grape",
+      "start": 98.138,
+      "end": 98.412,
+      "duration": 0.275
+    },
+    {
+      "text": "extract",
+      "start": 98.425,
+      "end": 98.975,
+      "duration": 0.55
+    },
+    {
+      "text": "has",
+      "start": 98.987,
+      "end": 99.175,
+      "duration": 0.188
+    },
+    {
+      "text": "been",
+      "start": 99.188,
+      "end": 99.35,
+      "duration": 0.163
+    },
+    {
+      "text": "demonstrated",
+      "start": 99.362,
+      "end": 100.075,
+      "duration": 0.713
+    },
+    {
+      "text": "to",
+      "start": 100.088,
+      "end": 100.2,
+      "duration": 0.113
+    },
+    {
+      "text": "lower",
+      "start": 100.213,
+      "end": 100.6,
+      "duration": 0.388
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 100.612,
+      "end": 101.7,
+      "duration": 1.087
+    },
+    {
+      "text": "cataracts",
+      "start": 101.9,
+      "end": 102.588,
+      "duration": 0.688
+    },
+    {
+      "text": "and",
+      "start": 102.75,
+      "end": 102.912,
+      "duration": 0.163
+    },
+    {
+      "text": "diabetes",
+      "start": 102.925,
+      "end": 103.8,
+      "duration": 0.875
+    },
+    {
+      "text": "Resveratrol",
+      "start": 104.675,
+      "end": 105.6,
+      "duration": 0.925
+    },
+    {
+      "text": "a",
+      "start": 105.787,
+      "end": 105.838,
+      "duration": 0.05
+    },
+    {
+      "text": "stilbene",
+      "start": 105.85,
+      "end": 106.412,
+      "duration": 0.562
+    },
+    {
+      "text": "present",
+      "start": 106.425,
+      "end": 106.825,
+      "duration": 0.4
+    },
+    {
+      "text": "in",
+      "start": 106.838,
+      "end": 106.9,
+      "duration": 0.062
+    },
+    {
+      "text": "grapes",
+      "start": 106.912,
+      "end": 107.375,
+      "duration": 0.463
+    },
+    {
+      "text": "has",
+      "start": 107.638,
+      "end": 107.787,
+      "duration": 0.15
+    },
+    {
+      "text": "also",
+      "start": 107.8,
+      "end": 108.125,
+      "duration": 0.325
+    },
+    {
+      "text": "been",
+      "start": 108.138,
+      "end": 108.312,
+      "duration": 0.175
+    },
+    {
+      "text": "shown",
+      "start": 108.325,
+      "end": 108.65,
+      "duration": 0.325
+    },
+    {
+      "text": "to",
+      "start": 108.662,
+      "end": 108.763,
+      "duration": 0.1
+    },
+    {
+      "text": "exert",
+      "start": 108.775,
+      "end": 109.138,
+      "duration": 0.362
+    },
+    {
+      "text": "a",
+      "start": 109.15,
+      "end": 109.188,
+      "duration": 0.037
+    },
+    {
+      "text": "number",
+      "start": 109.2,
+      "end": 109.55,
+      "duration": 0.35
+    },
+    {
+      "text": "of",
+      "start": 109.562,
+      "end": 109.65,
+      "duration": 0.087
+    },
+    {
+      "text": "protective",
+      "start": 109.662,
+      "end": 110.175,
+      "duration": 0.512
+    },
+    {
+      "text": "effects",
+      "start": 110.188,
+      "end": 110.638,
+      "duration": 0.45
+    },
+    {
+      "text": "against",
+      "start": 110.65,
+      "end": 111.025,
+      "duration": 0.375
+    },
+    {
+      "text": "cardiovascular",
+      "start": 111.037,
+      "end": 111.975,
+      "duration": 0.938
+    },
+    {
+      "text": "disease",
+      "start": 111.987,
+      "end": 112.375,
+      "duration": 0.388
+    },
+    {
+      "text": "risk",
+      "start": 112.388,
+      "end": 112.763,
+      "duration": 0.375
+    },
+    {
+      "text": "including",
+      "start": 113.125,
+      "end": 113.7,
+      "duration": 0.575
+    },
+    {
+      "text": "anti-inflammatory",
+      "start": 113.713,
+      "end": 114.875,
+      "duration": 1.163
+    },
+    {
+      "text": "and",
+      "start": 114.975,
+      "end": 115.162,
+      "duration": 0.188
+    },
+    {
+      "text": "antioxidant",
+      "start": 115.175,
+      "end": 115.95,
+      "duration": 0.775
+    },
+    {
+      "text": "properties",
+      "start": 115.963,
+      "end": 116.625,
+      "duration": 0.662
+    },
+    {
+      "text": "although",
+      "start": 116.963,
+      "end": 117.275,
+      "duration": 0.312
+    },
+    {
+      "text": "its",
+      "start": 117.287,
+      "end": 117.412,
+      "duration": 0.125
+    },
+    {
+      "text": "bioavailability",
+      "start": 117.425,
+      "end": 118.45,
+      "duration": 1.025
+    },
+    {
+      "text": "is",
+      "start": 118.463,
+      "end": 118.6,
+      "duration": 0.138
+    },
+    {
+      "text": "low",
+      "start": 118.612,
+      "end": 118.975,
+      "duration": 0.362
+    },
+    {
+      "text": "Clinical",
+      "start": 119.85,
+      "end": 120.325,
+      "duration": 0.475
+    },
+    {
+      "text": "trials",
+      "start": 120.338,
+      "end": 120.838,
+      "duration": 0.5
+    },
+    {
+      "text": "focused",
+      "start": 120.85,
+      "end": 121.287,
+      "duration": 0.438
+    },
+    {
+      "text": "on",
+      "start": 121.3,
+      "end": 121.425,
+      "duration": 0.125
+    },
+    {
+      "text": "cardiovascular",
+      "start": 121.438,
+      "end": 122.412,
+      "duration": 0.975
+    },
+    {
+      "text": "diseases",
+      "start": 122.425,
+      "end": 122.975,
+      "duration": 0.55
+    },
+    {
+      "text": "have",
+      "start": 122.987,
+      "end": 123.138,
+      "duration": 0.15
+    },
+    {
+      "text": "shown",
+      "start": 123.15,
+      "end": 123.487,
+      "duration": 0.338
+    },
+    {
+      "text": "that",
+      "start": 123.5,
+      "end": 123.662,
+      "duration": 0.163
+    },
+    {
+      "text": "resveratrol",
+      "start": 123.675,
+      "end": 124.45,
+      "duration": 0.775
+    },
+    {
+      "text": "was",
+      "start": 124.463,
+      "end": 124.612,
+      "duration": 0.15
+    },
+    {
+      "text": "well",
+      "start": 124.625,
+      "end": 124.85,
+      "duration": 0.225
+    },
+    {
+      "text": "tolerated",
+      "start": 124.862,
+      "end": 125.525,
+      "duration": 0.662
+    },
+    {
+      "text": "and",
+      "start": 125.537,
+      "end": 125.7,
+      "duration": 0.163
+    },
+    {
+      "text": "was",
+      "start": 125.713,
+      "end": 125.862,
+      "duration": 0.15
+    },
+    {
+      "text": "beneficial",
+      "start": 125.875,
+      "end": 126.55,
+      "duration": 0.675
+    },
+    {
+      "text": "in",
+      "start": 126.562,
+      "end": 126.675,
+      "duration": 0.113
+    },
+    {
+      "text": "improving",
+      "start": 126.688,
+      "end": 127.188,
+      "duration": 0.5
+    },
+    {
+      "text": "cardiovascular",
+      "start": 127.2,
+      "end": 128.125,
+      "duration": 0.925
+    },
+    {
+      "text": "disease",
+      "start": 128.137,
+      "end": 128.537,
+      "duration": 0.4
+    },
+    {
+      "text": "biomarkers",
+      "start": 128.55,
+      "end": 129.438,
+      "duration": 0.887
+    },
+    {
+      "text": "Grape",
+      "start": 130.312,
+      "end": 130.675,
+      "duration": 0.362
+    },
+    {
+      "text": "polyphenols",
+      "start": 130.688,
+      "end": 131.4,
+      "duration": 0.713
+    },
+    {
+      "text": "are",
+      "start": 131.412,
+      "end": 131.55,
+      "duration": 0.138
+    },
+    {
+      "text": "one",
+      "start": 131.562,
+      "end": 131.713,
+      "duration": 0.15
+    },
+    {
+      "text": "of",
+      "start": 131.725,
+      "end": 131.8,
+      "duration": 0.075
+    },
+    {
+      "text": "the",
+      "start": 131.812,
+      "end": 131.887,
+      "duration": 0.075
+    },
+    {
+      "text": "most",
+      "start": 131.9,
+      "end": 132.188,
+      "duration": 0.287
+    },
+    {
+      "text": "studied",
+      "start": 132.2,
+      "end": 132.6,
+      "duration": 0.4
+    },
+    {
+      "text": "for",
+      "start": 132.613,
+      "end": 132.725,
+      "duration": 0.113
+    },
+    {
+      "text": "their",
+      "start": 132.738,
+      "end": 132.875,
+      "duration": 0.138
+    },
+    {
+      "text": "documented",
+      "start": 132.887,
+      "end": 133.537,
+      "duration": 0.65
+    },
+    {
+      "text": "protection",
+      "start": 133.55,
+      "end": 134.113,
+      "duration": 0.562
+    },
+    {
+      "text": "against",
+      "start": 134.125,
+      "end": 134.463,
+      "duration": 0.338
+    },
+    {
+      "text": "heart",
+      "start": 134.475,
+      "end": 134.7,
+      "duration": 0.225
+    },
+    {
+      "text": "disease",
+      "start": 134.713,
+      "end": 135.2,
+      "duration": 0.487
+    },
+    {
+      "text": "and",
+      "start": 135.55,
+      "end": 135.775,
+      "duration": 0.225
+    },
+    {
+      "text": "epidemiological",
+      "start": 135.787,
+      "end": 136.838,
+      "duration": 1.05
+    },
+    {
+      "text": "studies",
+      "start": 136.85,
+      "end": 137.275,
+      "duration": 0.425
+    },
+    {
+      "text": "acknowledge",
+      "start": 137.287,
+      "end": 137.85,
+      "duration": 0.562
+    },
+    {
+      "text": "that",
+      "start": 137.863,
+      "end": 137.988,
+      "duration": 0.125
+    },
+    {
+      "text": "the",
+      "start": 138.0,
+      "end": 138.088,
+      "duration": 0.087
+    },
+    {
+      "text": "consumption",
+      "start": 138.1,
+      "end": 138.7,
+      "duration": 0.6
+    },
+    {
+      "text": "of",
+      "start": 138.713,
+      "end": 138.812,
+      "duration": 0.1
+    },
+    {
+      "text": "grapes",
+      "start": 138.825,
+      "end": 139.213,
+      "duration": 0.388
+    },
+    {
+      "text": "is",
+      "start": 139.225,
+      "end": 139.325,
+      "duration": 0.1
+    },
+    {
+      "text": "associated",
+      "start": 139.338,
+      "end": 140.037,
+      "duration": 0.7
+    },
+    {
+      "text": "with",
+      "start": 140.05,
+      "end": 140.2,
+      "duration": 0.15
+    },
+    {
+      "text": "decreased",
+      "start": 140.213,
+      "end": 140.738,
+      "duration": 0.525
+    },
+    {
+      "text": "cardiovascular",
+      "start": 140.75,
+      "end": 141.662,
+      "duration": 0.912
+    },
+    {
+      "text": "risk",
+      "start": 141.675,
+      "end": 142.125,
+      "duration": 0.45
+    },
+    {
+      "text": "A",
+      "start": 142.988,
+      "end": 143.125,
+      "duration": 0.138
+    },
+    {
+      "text": "review",
+      "start": 143.137,
+      "end": 143.525,
+      "duration": 0.388
+    },
+    {
+      "text": "of",
+      "start": 143.537,
+      "end": 143.675,
+      "duration": 0.138
+    },
+    {
+      "text": "epidemiological",
+      "start": 143.688,
+      "end": 144.738,
+      "duration": 1.05
+    },
+    {
+      "text": "studies",
+      "start": 144.75,
+      "end": 145.225,
+      "duration": 0.475
+    },
+    {
+      "text": "concludes",
+      "start": 145.238,
+      "end": 145.787,
+      "duration": 0.55
+    },
+    {
+      "text": "that",
+      "start": 145.8,
+      "end": 145.938,
+      "duration": 0.138
+    },
+    {
+      "text": "in",
+      "start": 145.95,
+      "end": 146.05,
+      "duration": 0.1
+    },
+    {
+      "text": "addition",
+      "start": 146.062,
+      "end": 146.512,
+      "duration": 0.45
+    },
+    {
+      "text": "to",
+      "start": 146.525,
+      "end": 146.613,
+      "duration": 0.087
+    },
+    {
+      "text": "the",
+      "start": 146.625,
+      "end": 146.75,
+      "duration": 0.125
+    },
+    {
+      "text": "recognized",
+      "start": 146.762,
+      "end": 147.438,
+      "duration": 0.675
+    },
+    {
+      "text": "antioxidant",
+      "start": 147.45,
+      "end": 148.325,
+      "duration": 0.875
+    },
+    {
+      "text": "and",
+      "start": 148.338,
+      "end": 148.5,
+      "duration": 0.163
+    },
+    {
+      "text": "anti-inflammatory",
+      "start": 148.512,
+      "end": 149.525,
+      "duration": 1.012
+    },
+    {
+      "text": "properties",
+      "start": 149.537,
+      "end": 150.137,
+      "duration": 0.6
+    },
+    {
+      "text": "of",
+      "start": 150.15,
+      "end": 150.225,
+      "duration": 0.075
+    },
+    {
+      "text": "grape",
+      "start": 150.238,
+      "end": 150.5,
+      "duration": 0.263
+    },
+    {
+      "text": "polyphenols",
+      "start": 150.512,
+      "end": 151.162,
+      "duration": 0.65
+    },
+    {
+      "text": "emerging",
+      "start": 151.525,
+      "end": 152.075,
+      "duration": 0.55
+    },
+    {
+      "text": "data",
+      "start": 152.088,
+      "end": 152.412,
+      "duration": 0.325
+    },
+    {
+      "text": "suggest",
+      "start": 152.425,
+      "end": 152.912,
+      "duration": 0.487
+    },
+    {
+      "text": "protection",
+      "start": 152.925,
+      "end": 153.488,
+      "duration": 0.562
+    },
+    {
+      "text": "against",
+      "start": 153.5,
+      "end": 153.9,
+      "duration": 0.4
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 153.912,
+      "end": 155.037,
+      "duration": 1.125
+    },
+    {
+      "text": "through",
+      "start": 155.05,
+      "end": 155.2,
+      "duration": 0.15
+    },
+    {
+      "text": "the",
+      "start": 155.213,
+      "end": 155.3,
+      "duration": 0.087
+    },
+    {
+      "text": "modulation",
+      "start": 155.312,
+      "end": 156.075,
+      "duration": 0.762
+    },
+    {
+      "text": "of",
+      "start": 156.088,
+      "end": 156.188,
+      "duration": 0.1
+    },
+    {
+      "text": "cellular",
+      "start": 156.2,
+      "end": 156.725,
+      "duration": 0.525
+    },
+    {
+      "text": "lipid",
+      "start": 156.738,
+      "end": 157.025,
+      "duration": 0.287
+    },
+    {
+      "text": "metabolism",
+      "start": 157.037,
+      "end": 157.838,
+      "duration": 0.8
+    },
+    {
+      "text": "Grape",
+      "start": 158.713,
+      "end": 159.062,
+      "duration": 0.35
+    },
+    {
+      "text": "polyphenols",
+      "start": 159.075,
+      "end": 159.7,
+      "duration": 0.625
+    },
+    {
+      "text": "have",
+      "start": 159.713,
+      "end": 159.85,
+      "duration": 0.138
+    },
+    {
+      "text": "been",
+      "start": 159.863,
+      "end": 160.012,
+      "duration": 0.15
+    },
+    {
+      "text": "shown",
+      "start": 160.025,
+      "end": 160.338,
+      "duration": 0.312
+    },
+    {
+      "text": "to",
+      "start": 160.35,
+      "end": 160.412,
+      "duration": 0.062
+    },
+    {
+      "text": "have",
+      "start": 160.425,
+      "end": 160.662,
+      "duration": 0.237
+    },
+    {
+      "text": "other",
+      "start": 160.675,
+      "end": 160.912,
+      "duration": 0.237
+    },
+    {
+      "text": "mechanisms",
+      "start": 160.925,
+      "end": 161.6,
+      "duration": 0.675
+    },
+    {
+      "text": "by",
+      "start": 161.613,
+      "end": 161.75,
+      "duration": 0.138
+    },
+    {
+      "text": "which",
+      "start": 161.762,
+      "end": 162.0,
+      "duration": 0.237
+    },
+    {
+      "text": "grapes",
+      "start": 162.012,
+      "end": 162.375,
+      "duration": 0.362
+    },
+    {
+      "text": "protect",
+      "start": 162.387,
+      "end": 162.85,
+      "duration": 0.463
+    },
+    {
+      "text": "against",
+      "start": 162.863,
+      "end": 163.2,
+      "duration": 0.338
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 163.213,
+      "end": 164.338,
+      "duration": 1.125
+    },
+    {
+      "text": "including",
+      "start": 164.7,
+      "end": 165.213,
+      "duration": 0.512
+    },
+    {
+      "text": "decreases",
+      "start": 165.225,
+      "end": 165.812,
+      "duration": 0.588
+    },
+    {
+      "text": "in",
+      "start": 165.825,
+      "end": 165.95,
+      "duration": 0.125
+    },
+    {
+      "text": "platelet",
+      "start": 165.963,
+      "end": 166.387,
+      "duration": 0.425
+    },
+    {
+      "text": "aggregation",
+      "start": 166.4,
+      "end": 167.162,
+      "duration": 0.762
+    },
+    {
+      "text": "and",
+      "start": 167.175,
+      "end": 167.375,
+      "duration": 0.2
+    },
+    {
+      "text": "L",
+      "start": 167.387,
+      "end": 167.562,
+      "duration": 0.175
+    },
+    {
+      "text": "D",
+      "start": 167.575,
+      "end": 167.75,
+      "duration": 0.175
+    },
+    {
+      "text": "L",
+      "start": 167.762,
+      "end": 167.988,
+      "duration": 0.225
+    },
+    {
+      "text": "oxidation",
+      "start": 168.0,
+      "end": 168.8,
+      "duration": 0.8
+    },
+    {
+      "text": "Endothelial",
+      "start": 169.675,
+      "end": 170.438,
+      "duration": 0.762
+    },
+    {
+      "text": "dysfunction",
+      "start": 170.45,
+      "end": 171.1,
+      "duration": 0.65
+    },
+    {
+      "text": "is",
+      "start": 171.113,
+      "end": 171.25,
+      "duration": 0.138
+    },
+    {
+      "text": "considered",
+      "start": 171.262,
+      "end": 171.738,
+      "duration": 0.475
+    },
+    {
+      "text": "an",
+      "start": 171.75,
+      "end": 171.9,
+      "duration": 0.15
+    },
+    {
+      "text": "early",
+      "start": 171.912,
+      "end": 172.213,
+      "duration": 0.3
+    },
+    {
+      "text": "feature",
+      "start": 172.225,
+      "end": 172.637,
+      "duration": 0.412
+    },
+    {
+      "text": "in",
+      "start": 172.65,
+      "end": 172.762,
+      "duration": 0.113
+    },
+    {
+      "text": "the",
+      "start": 172.775,
+      "end": 172.85,
+      "duration": 0.075
+    },
+    {
+      "text": "progression",
+      "start": 172.863,
+      "end": 173.412,
+      "duration": 0.55
+    },
+    {
+      "text": "of",
+      "start": 173.425,
+      "end": 173.512,
+      "duration": 0.087
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 173.525,
+      "end": 174.65,
+      "duration": 1.125
+    },
+    {
+      "text": "and",
+      "start": 175.012,
+      "end": 175.175,
+      "duration": 0.163
+    },
+    {
+      "text": "flow-mediated",
+      "start": 175.188,
+      "end": 175.963,
+      "duration": 0.775
+    },
+    {
+      "text": "vasodilation",
+      "start": 175.975,
+      "end": 176.875,
+      "duration": 0.9
+    },
+    {
+      "text": "has",
+      "start": 176.887,
+      "end": 177.075,
+      "duration": 0.188
+    },
+    {
+      "text": "been",
+      "start": 177.088,
+      "end": 177.238,
+      "duration": 0.15
+    },
+    {
+      "text": "used",
+      "start": 177.25,
+      "end": 177.55,
+      "duration": 0.3
+    },
+    {
+      "text": "to",
+      "start": 177.562,
+      "end": 177.625,
+      "duration": 0.062
+    },
+    {
+      "text": "measure",
+      "start": 177.637,
+      "end": 177.95,
+      "duration": 0.312
+    },
+    {
+      "text": "this",
+      "start": 177.963,
+      "end": 178.162,
+      "duration": 0.2
+    },
+    {
+      "text": "function",
+      "start": 178.175,
+      "end": 178.725,
+      "duration": 0.55
+    },
+    {
+      "text": "Studies",
+      "start": 179.6,
+      "end": 180.113,
+      "duration": 0.512
+    },
+    {
+      "text": "have",
+      "start": 180.125,
+      "end": 180.25,
+      "duration": 0.125
+    },
+    {
+      "text": "demonstrated",
+      "start": 180.262,
+      "end": 180.975,
+      "duration": 0.713
+    },
+    {
+      "text": "that",
+      "start": 180.988,
+      "end": 181.125,
+      "duration": 0.138
+    },
+    {
+      "text": "polyphenols",
+      "start": 181.137,
+      "end": 181.738,
+      "duration": 0.6
+    },
+    {
+      "text": "enhance",
+      "start": 181.75,
+      "end": 182.225,
+      "duration": 0.475
+    },
+    {
+      "text": "the",
+      "start": 182.238,
+      "end": 182.325,
+      "duration": 0.087
+    },
+    {
+      "text": "production",
+      "start": 182.338,
+      "end": 182.825,
+      "duration": 0.487
+    },
+    {
+      "text": "of",
+      "start": 182.838,
+      "end": 182.925,
+      "duration": 0.087
+    },
+    {
+      "text": "nitric",
+      "start": 182.938,
+      "end": 183.325,
+      "duration": 0.388
+    },
+    {
+      "text": "oxide",
+      "start": 183.338,
+      "end": 183.863,
+      "duration": 0.525
+    },
+    {
+      "text": "thus",
+      "start": 184.25,
+      "end": 184.475,
+      "duration": 0.225
+    },
+    {
+      "text": "increasing",
+      "start": 184.488,
+      "end": 185.025,
+      "duration": 0.537
+    },
+    {
+      "text": "vasodilation",
+      "start": 185.037,
+      "end": 186.0,
+      "duration": 0.963
+    },
+    {
+      "text": "In",
+      "start": 186.875,
+      "end": 187.1,
+      "duration": 0.225
+    },
+    {
+      "text": "summary",
+      "start": 187.113,
+      "end": 187.637,
+      "duration": 0.525
+    },
+    {
+      "text": "epidemiological",
+      "start": 187.825,
+      "end": 188.912,
+      "duration": 1.087
+    },
+    {
+      "text": "data",
+      "start": 188.925,
+      "end": 189.25,
+      "duration": 0.325
+    },
+    {
+      "text": "support",
+      "start": 189.262,
+      "end": 189.688,
+      "duration": 0.425
+    },
+    {
+      "text": "the",
+      "start": 189.7,
+      "end": 189.787,
+      "duration": 0.087
+    },
+    {
+      "text": "various",
+      "start": 189.8,
+      "end": 190.262,
+      "duration": 0.463
+    },
+    {
+      "text": "roles",
+      "start": 190.275,
+      "end": 190.675,
+      "duration": 0.4
+    },
+    {
+      "text": "in",
+      "start": 190.688,
+      "end": 190.85,
+      "duration": 0.163
+    },
+    {
+      "text": "which",
+      "start": 190.863,
+      "end": 191.062,
+      "duration": 0.2
+    },
+    {
+      "text": "grapes",
+      "start": 191.075,
+      "end": 191.438,
+      "duration": 0.362
+    },
+    {
+      "text": "protect",
+      "start": 191.45,
+      "end": 191.9,
+      "duration": 0.45
+    },
+    {
+      "text": "against",
+      "start": 191.912,
+      "end": 192.262,
+      "duration": 0.35
+    },
+    {
+      "text": "atherosclerosis",
+      "start": 192.275,
+      "end": 193.238,
+      "duration": 0.963
+    },
+    {
+      "text": "development",
+      "start": 193.25,
+      "end": 193.975,
+      "duration": 0.725
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Epidemiological Information.",
+      "start": 0.1,
+      "end": 2.062,
+      "word_count": 2
+    },
+    {
+      "text": "Epidemiological studies have shown that a diet rich in fruits and vegetables prevents coronary heart disease and other conditions, including type-2 diabetes, which eventually can lead to atherosclerosis and heart disease.",
+      "start": 2.925,
+      "end": 15.85,
+      "word_count": 31
+    },
+    {
+      "text": "An adequate intake of a healthy dietary pattern that includes fruit and vegetables reduces the most common noncommunicable diseases, including cardiovascular disease as well as obesity and metabolic syndrome associated with increased risk for cardiovascular disease.",
+      "start": 16.712,
+      "end": 32.3,
+      "word_count": 36
+    },
+    {
+      "text": "These healthy effects of fruits and vegetables have been attributed in part to the antioxidant and anti-inflammatory properties of polyphenols.",
+      "start": 33.163,
+      "end": 40.663,
+      "word_count": 20
+    },
+    {
+      "text": "In a study conducted with 667 individuals, it was demonstrated that a healthy diet rich in fruits and vegetables decreased systemic inflammation, as determined by measurements of inflammatory cytokines and expression of C D 14 and C D 16, two monocyte subpopulations characterized for higher potency in antigen presentation and for being pro-inflammatory.",
+      "start": 41.538,
+      "end": 64.225,
+      "word_count": 53
+    },
+    {
+      "text": "A recent review specifically selected grapes as one of the promising nutritional fruits that may protect against cardiovascular disease.",
+      "start": 65.088,
+      "end": 72.45,
+      "word_count": 19
+    },
+    {
+      "text": "Grapes are one of the richest sources of polyphenols, including flavonoids.",
+      "start": 73.312,
+      "end": 77.45,
+      "word_count": 11
+    },
+    {
+      "text": "The intake of flavonoids has been demonstrated to have an inverse relationship with the risk of cardiovascular disease.",
+      "start": 78.325,
+      "end": 84.763,
+      "word_count": 18
+    },
+    {
+      "text": "It has also been reported that proanthocyanidins, a class of polyphenols found in grapes, have a greater antioxidant effect compared to vitamin C or vitamin E in aqueous media, and proanthocyanidin-rich grape extract has been demonstrated to lower atherosclerosis, cataracts, and diabetes.",
+      "start": 85.625,
+      "end": 103.8,
+      "word_count": 42
+    },
+    {
+      "text": "Resveratrol, a stilbene present in grapes, has also been shown to exert a number of protective effects against cardiovascular disease risk, including anti-inflammatory and antioxidant properties, although its bioavailability is low.",
+      "start": 104.675,
+      "end": 118.975,
+      "word_count": 31
+    },
+    {
+      "text": "Clinical trials focused on cardiovascular diseases have shown that resveratrol was well tolerated and was beneficial in improving cardiovascular disease biomarkers.",
+      "start": 119.85,
+      "end": 129.438,
+      "word_count": 21
+    },
+    {
+      "text": "Grape polyphenols are one of the most studied for their documented protection against heart disease, and epidemiological studies acknowledge that the consumption of grapes is associated with decreased cardiovascular risk.",
+      "start": 130.312,
+      "end": 142.125,
+      "word_count": 30
+    },
+    {
+      "text": "A review of epidemiological studies concludes that in addition to the recognized antioxidant and anti-inflammatory properties of grape polyphenols, emerging data suggest protection against atherosclerosis through the modulation of cellular lipid metabolism.",
+      "start": 142.988,
+      "end": 157.838,
+      "word_count": 32
+    },
+    {
+      "text": "Grape polyphenols have been shown to have other mechanisms by which grapes protect against atherosclerosis, including decreases in platelet aggregation and L D L oxidation.",
+      "start": 158.713,
+      "end": 168.8,
+      "word_count": 25
+    },
+    {
+      "text": "Endothelial dysfunction is considered an early feature in the progression of atherosclerosis, and flow-mediated vasodilation has been used to measure this function.",
+      "start": 169.675,
+      "end": 178.725,
+      "word_count": 22
+    },
+    {
+      "text": "Studies have demonstrated that polyphenols enhance the production of nitric oxide, thus increasing vasodilation.",
+      "start": 179.6,
+      "end": 186.0,
+      "word_count": 14
+    },
+    {
+      "text": "In summary, epidemiological data support the various roles in which grapes protect against atherosclerosis development.",
+      "start": 186.875,
+      "end": 193.975,
+      "word_count": 15
+    }
+  ],
+  "total_duration": 193.975,
+  "voice": "en-US-AriaNeural",
+  "text": "Epidemiological Information. Epidemiological studies have shown that a diet rich in fruits and vegetables prevents coronary heart disease and other conditions, including type-2 diabetes, which eventually can lead to atherosclerosis and heart disease. An adequate intake of a healthy dietary pattern that includes fruit and vegetables reduces the most common noncommunicable diseases, including cardiovascular disease as well as obesity and metabolic syndrome associated with increased risk for cardiovascular disease. These healthy effects of fruits and vegetables have been attributed in part to the antioxidant and anti-inflammatory properties of polyphenols. In a study conducted with 667 individuals, it was demonstrated that a healthy diet rich in fruits and vegetables decreased systemic inflammation, as determined by measurements of inflammatory cytokines and expression of C D 14 and C D 16, two monocyte subpopulations characterized for higher potency in antigen presentation and for being pro-inflammatory. A recent review specifically selected grapes as one of the promising nutritional fruits that may protect against cardiovascular disease. Grapes are one of the richest sources of polyphenols, including flavonoids. The intake of flavonoids has been demonstrated to have an inverse relationship with the risk of cardiovascular disease. It has also been reported that proanthocyanidins, a class of polyphenols found in grapes, have a greater antioxidant effect compared to vitamin C or vitamin E in aqueous media, and proanthocyanidin-rich grape extract has been demonstrated to lower atherosclerosis, cataracts, and diabetes. Resveratrol, a stilbene present in grapes, has also been shown to exert a number of protective effects against cardiovascular disease risk, including anti-inflammatory and antioxidant properties, although its bioavailability is low. Clinical trials focused on cardiovascular diseases have shown that resveratrol was well tolerated and was beneficial in improving cardiovascular disease biomarkers. Grape polyphenols are one of the most studied for their documented protection against heart disease, and epidemiological studies acknowledge that the consumption of grapes is associated with decreased cardiovascular risk. A review of epidemiological studies concludes that in addition to the recognized antioxidant and anti-inflammatory properties of grape polyphenols, emerging data suggest protection against atherosclerosis through the modulation of cellular lipid metabolism. Grape polyphenols have been shown to have other mechanisms by which grapes protect against atherosclerosis, including decreases in platelet aggregation and L D L oxidation. Endothelial dysfunction is considered an early feature in the progression of atherosclerosis, and flow-mediated vasodilation has been used to measure this function. Studies have demonstrated that polyphenols enhance the production of nitric oxide, thus increasing vasodilation. In summary, epidemiological data support the various roles in which grapes protect against atherosclerosis development."
+}

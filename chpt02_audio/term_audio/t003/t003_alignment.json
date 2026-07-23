@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Epicatechin",
+      "start": 0.109,
+      "end": 0.991,
+      "duration": 0.882
+    },
+    {
+      "text": "gallate",
+      "start": 1.006,
+      "end": 1.726,
+      "duration": 0.721
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Epicatechin gallate",
+      "start": 0.109,
+      "end": 1.726,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.726,
+  "voice": "en-US-AriaNeural",
+  "text": "Epicatechin gallate"
+}

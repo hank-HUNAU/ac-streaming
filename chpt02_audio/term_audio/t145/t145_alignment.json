@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Rattus",
+      "start": 0.109,
+      "end": 0.8,
+      "duration": 0.691
+    },
+    {
+      "text": "norvegicus",
+      "start": 0.815,
+      "end": 1.903,
+      "duration": 1.088
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Rattus norvegicus",
+      "start": 0.109,
+      "end": 1.903,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.903,
+  "voice": "en-US-AriaNeural",
+  "text": "Rattus norvegicus"
+}

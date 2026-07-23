@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "Pro-BDNF",
+      "start": 0.109,
+      "end": 1.521,
+      "duration": 1.412
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Pro-BDNF",
+      "start": 0.109,
+      "end": 1.521,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.521,
+  "voice": "en-US-AriaNeural",
+  "text": "Pro-BDNF"
+}

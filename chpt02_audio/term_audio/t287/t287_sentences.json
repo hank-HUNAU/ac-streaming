@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Bioactive compounds",
+      "start": 0.109,
+      "end": 2.006,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 2.006,
+  "voice": "en-US-AriaNeural"
+}

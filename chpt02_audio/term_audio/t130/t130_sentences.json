@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "AMPK signaling pathway",
+      "start": 0.109,
+      "end": 2.403,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 2.403,
+  "voice": "en-US-AriaNeural"
+}

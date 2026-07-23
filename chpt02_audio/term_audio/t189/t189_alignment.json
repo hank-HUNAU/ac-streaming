@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "Plaque",
+      "start": 0.109,
+      "end": 0.491,
+      "duration": 0.382
+    },
+    {
+      "text": "rupture",
+      "start": 0.506,
+      "end": 1.153,
+      "duration": 0.647
+    }
+  ],
+  "sentences": [
+    {
+      "text": "Plaque rupture",
+      "start": 0.109,
+      "end": 1.153,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.153,
+  "voice": "en-US-AriaNeural",
+  "text": "Plaque rupture"
+}

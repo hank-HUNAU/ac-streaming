@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "IL-8",
+      "start": 0.109,
+      "end": 1.212,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.212,
+  "voice": "en-US-AriaNeural"
+}

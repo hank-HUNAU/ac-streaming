@@ -1,0 +1,12 @@
+{
+  "sentences": [
+    {
+      "text": "Grid descent test",
+      "start": 0.109,
+      "end": 1.594,
+      "word_count": 3
+    }
+  ],
+  "total_duration": 1.594,
+  "voice": "en-US-AriaNeural"
+}

@@ -1,0 +1,27 @@
+{
+  "words": [
+    {
+      "text": "GPx",
+      "start": 0.109,
+      "end": 0.976,
+      "duration": 0.868
+    },
+    {
+      "text": "activity",
+      "start": 0.991,
+      "end": 1.785,
+      "duration": 0.794
+    }
+  ],
+  "sentences": [
+    {
+      "text": "GPx activity",
+      "start": 0.109,
+      "end": 1.785,
+      "word_count": 2
+    }
+  ],
+  "total_duration": 1.785,
+  "voice": "en-US-AriaNeural",
+  "text": "GPx activity"
+}

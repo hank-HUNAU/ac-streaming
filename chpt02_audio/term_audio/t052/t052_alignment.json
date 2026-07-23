@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "text": "HDL",
+      "start": 0.109,
+      "end": 1.212,
+      "duration": 1.103
+    }
+  ],
+  "sentences": [
+    {
+      "text": "HDL",
+      "start": 0.109,
+      "end": 1.212,
+      "word_count": 1
+    }
+  ],
+  "total_duration": 1.212,
+  "voice": "en-US-AriaNeural",
+  "text": "HDL"
+}
