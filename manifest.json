@@ -1,0 +1,21 @@
+{
+  "name": "学术听力 - 葡萄多酚论文朗读",
+  "short_name": "学术听力",
+  "description": "10 篇葡萄多酚学术论文的逐句朗读与术语学习",
+  "start_url": ".",
+  "scope": "/ac-streaming/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1b6b6b",
+  "background_color": "#f5f5f7",
+  "lang": "zh-CN",
+  "categories": ["education", "books"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
